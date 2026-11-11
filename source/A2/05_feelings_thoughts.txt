@@ -18,7 +18,7 @@ n: feeling = hiss, duyğu
 
 @ THINK | verb | θɪŋk | düşünmək, fikirləşmək; zənn etmək
 forms: think – thinks – thought – thought – thinking
-n: thought = fikir, düşüncə; thinker = mütəfəkkir
+n: thought = fikir, düşüncə; thinker = mütəfəkkir; thinking = düşünmə, düşüncə tərzi
 adj: thoughtful = diqqətcil, qayğıkeş, həmçinin fikirli
 - think about = barəsində düşünmək, götür-qoy etmək :: think about + isim / fel + -ing
 - think of = ağlına gətirmək; haqqında fikirdə olmaq :: What do you think of ...? = ... haqqında nə düşünürsən?

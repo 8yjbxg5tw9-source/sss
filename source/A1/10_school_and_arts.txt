@@ -2,7 +2,7 @@
 ## School and the arts | Məktəb və incəsənət
 @ TEACH | verb | tiːtʃ | öyrətmək, dərs demək
 forms: teach – teaches – taught – taught – teaching
-n: teacher = müəllim
+n: teacher = müəllim; teaching = müəllimlik, tədris (peşə kimi)
 - teach science = təbiət elmləri (fənnini) tədris etmək :: science /ˈsaɪəns/ = elm; məktəbdə: təbiət elmləri
 - a geography teacher = coğrafiya müəllimi :: geography /dʒiˈɒɡrəfi/ = coğrafiya
 - teach at a college = kollecdə dərs demək :: college /ˈkɒlɪdʒ/ = kollec; ABŞ-da həm də ali məktəb
@@ -47,6 +47,7 @@ n: description = təsvir
 
 @ DRAW | verb | drɔː | (karandaşla) şəkil çəkmək; çəkmək, dartmaq
 forms: draw – draws – drew – drawn – drawing
+n: drawing = (karandaşla çəkilmiş) rəsm, şəkil, həmçinin rəsmxət
 - draw a line = xətt çəkmək :: line = xətt; sətir; növbə
 - draw a chart = cədvəl (diaqram) çəkmək :: chart /tʃɑːt/ = diaqram, cədvəl, qrafik
 - draw with a pencil = karandaşla çəkmək :: pencil = karandaş; "with" alət bildirir

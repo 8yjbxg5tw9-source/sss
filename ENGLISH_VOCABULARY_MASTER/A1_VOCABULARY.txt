@@ -5,7 +5,7 @@ LEVEL A1 — BEGINNER  /  Başlanğıc səviyyə
 File: A1_VOCABULARY.txt   |   Part 1 of 2   |   Generated: 2026-11-11
 Lessons in this file: 76 (68 main-word lessons + 8 fixed-phrase lessons)
 Expressions: 519   |   Fixed phrases: 48   |   Example sentences: 274
-New vocabulary items introduced at level A1: 568   |   Language of usage notes: Azerbaijani
+New vocabulary items introduced at level A1: 573   |   Language of usage notes: Azerbaijani
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -312,6 +312,11 @@ FREQUENCY AND TIME ADVERBS  /  Tezlik və zaman zərfləri
    later                        — sonra, bir az sonra: See you later – Sonra görüşərik
    ago                          — əvvəl (keçmiş zamanla): two years ago – iki il əvvəl
    o'clock                      — saat (yalnız tam saatlarda): seven o'clock – saat yeddi
+   already                      — artıq (gözləniləndən tez): I have already eaten – Mən artıq
+                                  yemişəm
+   yet                          — hələ (inkarda), artıq (sualda): not yet – hələ yox
+   anymore                      — daha, artıq (inkarda): I don't live there anymore – Mən daha orada
+                                  yaşamıram
 
 LINKING AND FOCUSING ADVERBS  /  Bağlayıcı və vurğu zərfləri
 ----------------------------------------------------------------------------------------------------
@@ -322,6 +327,13 @@ LINKING AND FOCUSING ADVERBS  /  Bağlayıcı və vurğu zərfləri
    maybe                        — bəlkə
    probably                     — yəqin ki, çox güman ki
    however                      — lakin, bununla belə (iki cümləni bağlayır)
+   almost                       — demək olar ki, az qala: almost always – demək olar ki, həmişə
+   nearly                       — təxminən, az qala: nearly ready – az qala hazır
+   perhaps                      — bəlkə, ola bilsin ("maybe" sözünün bir qədər rəsmi variantı)
+   rather                       — xeyli, kifayət qədər; daha doğrusu: rather cold – xeyli soyuq;
+                                  rather than – ...-dan daha çox
+   anyway                       — hər halda, onsuz da; nə isə (mövzunu dəyişəndə)
+   actually                     — əslində, həqiqətən ("hazırda" demək deyil)
 
 GREETINGS AND SHORT ANSWERS  /  Salamlaşma və qısa cavablar
 ----------------------------------------------------------------------------------------------------
@@ -334,6 +346,8 @@ GREETINGS AND SHORT ANSWERS  /  Salamlaşma və qısa cavablar
    yeah                         — hə (danışıq dilində "yes")
    OK                           — yaxşı, oldu; qaydasındadır
    oh                           — ah, oy (təəccüb, sevinc və ya təəssüf bildirir)
+   ah                           — ah, aha (anlama, məmnunluq və ya təəccüb bildirir)
+   wow                          — vay, paho (heyranlıq və təəccüb bildirir)
    please                       — zəhmət olmasa, xahiş edirəm
 
 DICTIONARY ABBREVIATIONS USED IN THIS COURSE  /  Bu kursda işlənən lüğət qısaltmaları
@@ -1801,7 +1815,8 @@ A. MAIN WORD
 B. WORD FAMILY
    Noun forms ........ work (main word); worker — işçi, fəhlə
    Verb forms ........ work (main word)
-   Adjective forms ... hard-working — zəhmətkeş, çalışqan
+   Adjective forms ... hard-working — zəhmətkeş, çalışqan; working — işləyən, iş ilə bağlı (working
+                       hours = iş saatları)
    Adverb forms ...... —
 
 C. RELATED EXPRESSIONS
@@ -1839,9 +1854,9 @@ E. USAGE EXPLANATION
    work" ifadələrində artikl işlənmir. HARD-WORKING zəhmətkeş insan haqqında deyilir.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (10): WORK [main], worker [family], hard-working
-      [family], hard, office, doctor, company, weekend, start, finish
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (245 → 255 items).
+   New vocabulary registered in this lesson (11): WORK [main], worker [family], hard-working
+      [family], working [family], hard, office, doctor, company, weekend, start, finish
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (245 → 256 items).
 
 ====================================================================================================
 LESSON A1-024   |   UNIT 5: Work, free time and daily routines
@@ -1900,7 +1915,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): PLAY [main], player [family], football, tennis,
       piano, guitar, computer, game, card, toy, chess
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (255 → 266 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (256 → 267 items).
 
 ====================================================================================================
 LESSON A1-025   |   UNIT 5: Work, free time and daily routines
@@ -1958,7 +1973,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): WATCH [main], TV, film, match, video, cartoon,
       programme, series
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (266 → 274 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (267 → 275 items).
 
 ====================================================================================================
 LESSON A1-026   |   UNIT 5: Work, free time and daily routines
@@ -2018,7 +2033,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (13): HELP [main], helper [family], helpful [family],
       helpless [family], homework, need, garden, carry, bag, neighbour, cross, road, thanks
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (274 → 287 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (275 → 288 items).
 
 ====================================================================================================
 LESSON A1-027   |   UNIT 5: Work, free time and daily routines
@@ -2076,7 +2091,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): LOOK [main], picture, key, window, baby, beautiful
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (287 → 293 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (288 → 294 items).
 
 ====================================================================================================
 LESSON A1-028   |   UNIT 5: Work, free time and daily routines
@@ -2135,7 +2150,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): OPEN [main], opening [family], openly [family],
       door, box, eye, mouth, hour, wide, curtain, gate
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (293 → 304 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (294 → 305 items).
 
 ====================================================================================================
 LESSON A1-029   |   UNIT 5: Work, free time and daily routines
@@ -2195,19 +2210,19 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): WEAR [main], coat, hat, glasses, shirt, jeans,
       skirt, trousers, jacket
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (304 → 313 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (305 → 314 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 5 (Work, free time and daily routines)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: WORK, PLAY, WATCH, HELP, LOOK, OPEN, WEAR
-   New items registered in this unit: 68   |   Database total after this unit: 313
+   New items registered in this unit: 69   |   Database total after this unit: 314
    baby, bag, beautiful, box, card, carry, cartoon, chess, coat, company, computer, cross, curtain,
    doctor, door, eye, film, finish, football, game, garden, gate, glasses, guitar, hard,
    hard-working, hat, HELP, helper, helpful, helpless, homework, hour, jacket, jeans, key, LOOK,
    match, mouth, need, neighbour, office, OPEN, opening, openly, piano, picture, PLAY, player,
    programme, road, series, shirt, skirt, start, tennis, thanks, toy, trousers, TV, video, WATCH,
-   WEAR, weekend, wide, window, WORK, worker
+   WEAR, weekend, wide, window, WORK, worker, working
 
 
 ####################################################################################################
@@ -2270,7 +2285,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (5): TIME [main], free, next, last, same
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (313 → 318 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (314 → 319 items).
 
 ====================================================================================================
 LESSON A1-031   |   UNIT 6: Time, weather and places
@@ -2328,7 +2343,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): DAY [main], daily [family], busy, nice, tomorrow,
       yesterday
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (318 → 324 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (319 → 325 items).
 
 ====================================================================================================
 LESSON A1-032   |   UNIT 6: Time, weather and places
@@ -2386,7 +2401,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): WEATHER [main], bad, warm, wet, sunny, forecast,
       rain, snow, wind, cloud
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (324 → 334 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (325 → 335 items).
 
 ====================================================================================================
 LESSON A1-033   |   UNIT 6: Time, weather and places
@@ -2444,13 +2459,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (13): CITY [main], capital, centre, modern, street,
       museum, theatre, park, square, train, station, hotel, restaurant
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (334 → 347 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (335 → 348 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 6 (Time, weather and places)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: TIME, DAY, WEATHER, CITY
-   New items registered in this unit: 34   |   Database total after this unit: 347
+   New items registered in this unit: 34   |   Database total after this unit: 348
    bad, busy, capital, centre, CITY, cloud, daily, DAY, forecast, free, hotel, last, modern, museum,
    next, nice, park, rain, restaurant, same, snow, square, station, street, sunny, theatre, TIME,
    tomorrow, train, warm, WEATHER, wet, wind, yesterday
@@ -2518,7 +2533,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): GOOD [main], better [family], well [family],
       morning, afternoon, evening, night, luck, idea
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (347 → 356 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (348 → 357 items).
 
 ====================================================================================================
 LESSON A1-035   |   UNIT 7: Describing people and things
@@ -2577,7 +2592,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): BIG [main], dog, problem, tree, country, surprise,
       animal
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (356 → 363 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (357 → 364 items).
 
 ====================================================================================================
 LESSON A1-036   |   UNIT 7: Describing people and things
@@ -2636,7 +2651,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): NEW [main], newly [family], car, job, student,
       brand, mobile, lesson, town
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (363 → 372 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (364 → 373 items).
 
 ====================================================================================================
 LESSON A1-037   |   UNIT 7: Describing people and things
@@ -2695,7 +2710,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): OLD [main], man, woman, people, year, building,
       bridge, age
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (372 → 380 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (373 → 381 items).
 
 ====================================================================================================
 LESSON A1-038   |   UNIT 7: Describing people and things
@@ -2753,7 +2768,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): HAPPY [main], happiness [family], unhappy
       [family], happily [family], birthday, child, sad, face, couple, see
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (380 → 390 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (381 → 391 items).
 
 ====================================================================================================
 LESSON A1-039   |   UNIT 7: Describing people and things
@@ -2812,7 +2827,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): HOT [main], heat [family], heating [family],
       heater [family], chocolate, soup, summer, bath, dish, oven, dry
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (390 → 401 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (391 → 402 items).
 
 ====================================================================================================
 LESSON A1-040   |   UNIT 7: Describing people and things
@@ -2870,13 +2885,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (15): COLOUR [main], colourful [family], favourite,
       bright, dark, black, white, red, blue, green, yellow, brown, grey, pink, purple
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (401 → 416 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (402 → 417 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 7 (Describing people and things)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: GOOD, BIG, NEW, OLD, HAPPY, HOT, COLOUR
-   New items registered in this unit: 69   |   Database total after this unit: 416
+   New items registered in this unit: 69   |   Database total after this unit: 417
    afternoon, age, animal, bath, better, BIG, birthday, black, blue, brand, bridge, bright, brown,
    building, car, child, chocolate, COLOUR, colourful, country, couple, dark, dish, dog, dry,
    evening, face, favourite, GOOD, green, grey, happily, happiness, HAPPY, heat, heater, heating,
@@ -2943,7 +2958,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): WANT [main], beer, wine, sugar, salt, banana
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (416 → 422 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (417 → 423 items).
 
 ====================================================================================================
 LESSON A1-042   |   UNIT 8: Everyday verbs
@@ -3003,7 +3018,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): SAY [main], true, sure, terrible, opposite, thank,
       happen
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (422 → 429 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (423 → 430 items).
 
 ====================================================================================================
 LESSON A1-043   |   UNIT 8: Everyday verbs
@@ -3060,7 +3075,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): SIT [main], desk, sun, front, stand, foot
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (429 → 435 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (430 → 436 items).
 
 ====================================================================================================
 LESSON A1-044   |   UNIT 8: Everyday verbs
@@ -3114,7 +3129,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): WAKE [main], dad, mum, cat, sleep, clock
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (435 → 441 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (436 → 442 items).
 
 ====================================================================================================
 LESSON A1-045   |   UNIT 8: Everyday verbs
@@ -3171,7 +3186,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): BECOME [main], famous, artist, actress, scientist,
       teenager
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (441 → 447 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (442 → 448 items).
 
 ====================================================================================================
 LESSON A1-046   |   UNIT 8: Everyday verbs
@@ -3232,7 +3247,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): BELIEVE [main], guess, imagine, forget, mean, let
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (447 → 453 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (448 → 454 items).
 
 ====================================================================================================
 LESSON A1-047   |   UNIT 8: Everyday verbs
@@ -3288,13 +3303,13 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): BEGIN [main], meeting, blog, end, perfect, driver
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (453 → 459 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (454 → 460 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 8 (Everyday verbs)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: WANT, SAY, SIT, WAKE, BECOME, BELIEVE, BEGIN
-   New items registered in this unit: 43   |   Database total after this unit: 459
+   New items registered in this unit: 43   |   Database total after this unit: 460
    actress, artist, banana, BECOME, beer, BEGIN, BELIEVE, blog, cat, clock, dad, desk, driver, end,
    famous, foot, forget, front, guess, happen, imagine, let, mean, meeting, mum, opposite, perfect,
    salt, SAY, scientist, SIT, sleep, stand, sugar, sun, sure, teenager, terrible, thank, true, WAKE,
@@ -3360,7 +3375,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): ADD [main], butter, ice, cream, onion, pepper,
       carrot
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (459 → 466 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (460 → 467 items).
 
 ====================================================================================================
 LESSON A1-049   |   UNIT 9: Food, clothes and likes
@@ -3416,7 +3431,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): ORDER [main], pizza, waiter, delicious, store,
       complete
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (466 → 472 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (467 → 473 items).
 
 ====================================================================================================
 LESSON A1-050   |   UNIT 9: Food, clothes and likes
@@ -3472,7 +3487,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): DRESS [main], shop, T-shirt, pants, sweater, boot
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (472 → 478 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (473 → 479 items).
 
 ====================================================================================================
 LESSON A1-051   |   UNIT 9: Food, clothes and likes
@@ -3532,7 +3547,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): PREFER [main], cafe, gym, spring, telephone,
       television
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (478 → 484 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (479 → 485 items).
 
 ====================================================================================================
 LESSON A1-052   |   UNIT 9: Food, clothes and likes
@@ -3590,7 +3605,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): HATE [main], baseball, basketball, swimming, dirty,
       toilet
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (484 → 490 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (485 → 491 items).
 
 ====================================================================================================
 LESSON A1-053   |   UNIT 9: Food, clothes and likes
@@ -3649,13 +3664,13 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): COMPARE [main], euro, pound, mile, metre, similar
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (490 → 496 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (491 → 497 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 9 (Food, clothes and likes)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: ADD, ORDER, DRESS, PREFER, HATE, COMPARE
-   New items registered in this unit: 37   |   Database total after this unit: 496
+   New items registered in this unit: 37   |   Database total after this unit: 497
    ADD, baseball, basketball, boot, butter, cafe, carrot, COMPARE, complete, cream, delicious,
    dirty, DRESS, euro, gym, HATE, ice, metre, mile, onion, ORDER, pants, pepper, pizza, pound,
    PREFER, shop, similar, spring, store, sweater, swimming, T-shirt, telephone, television, toilet,
@@ -3682,7 +3697,7 @@ A. MAIN WORD
    CEFR level ............. A1 (Beginner)
 
 B. WORD FAMILY
-   Noun forms ........ teacher — müəllim
+   Noun forms ........ teacher — müəllim; teaching — müəllimlik, tədris (peşə kimi)
    Verb forms ........ teach (main word)
    Adjective forms ... —
    Adverb forms ...... —
@@ -3719,9 +3734,9 @@ E. USAGE EXPLANATION
    (teach children maths), teach + şəxs + to + fel.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (6): TEACH [main], teacher [family], science, geography,
-      college, classroom
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (496 → 502 items).
+   New vocabulary registered in this lesson (7): TEACH [main], teacher [family], teaching [family],
+      science, geography, college, classroom
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (497 → 504 items).
 
 ====================================================================================================
 LESSON A1-055   |   UNIT 10: School and the arts
@@ -3777,7 +3792,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): SPELL [main], spelling [family], fill, section,
       cut, include
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (502 → 508 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (504 → 510 items).
 
 ====================================================================================================
 LESSON A1-056   |   UNIT 10: School and the arts
@@ -3833,7 +3848,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): DESCRIBE [main], description [family],
       neighbourhood, cousin, correct, quick
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (508 → 514 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (510 → 516 items).
 
 ====================================================================================================
 LESSON A1-057   |   UNIT 10: School and the arts
@@ -3850,7 +3865,7 @@ A. MAIN WORD
    CEFR level ............. A1 (Beginner)
 
 B. WORD FAMILY
-   Noun forms ........ —
+   Noun forms ........ drawing — (karandaşla çəkilmiş) rəsm, şəkil, həmçinin rəsmxət
    Verb forms ........ draw (main word)
    Adjective forms ... —
    Adverb forms ...... —
@@ -3887,8 +3902,9 @@ E. USAGE EXPLANATION
    növbə deməkdir.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (6): DRAW [main], line, chart, pencil, object, lion
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (514 → 520 items).
+   New vocabulary registered in this lesson (7): DRAW [main], drawing [family], line, chart, pencil,
+      object, lion
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (516 → 523 items).
 
 ====================================================================================================
 LESSON A1-058   |   UNIT 10: School and the arts
@@ -3943,7 +3959,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): PAINT [main], painting [family], boat, mountain,
       ocean, photograph
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (520 → 526 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (523 → 529 items).
 
 ====================================================================================================
 LESSON A1-059   |   UNIT 10: School and the arts
@@ -4000,7 +4016,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): SING [main], singer [family], band, bar, awesome,
       movie
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (526 → 532 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (529 → 535 items).
 
 ====================================================================================================
 LESSON A1-060   |   UNIT 10: School and the arts
@@ -4056,7 +4072,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): DANCE [main], dancer [family], festival, fun,
       fantastic, girl
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (532 → 538 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (535 → 541 items).
 
 ====================================================================================================
 LESSON A1-061   |   UNIT 10: School and the arts
@@ -4111,18 +4127,18 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): INTRODUCE [main], boyfriend, girlfriend,
       grandparent, visitor, tourist
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (538 → 544 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (541 → 547 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 10 (School and the arts)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: TEACH, SPELL, DESCRIBE, DRAW, PAINT, SING, DANCE, INTRODUCE
-   New items registered in this unit: 48   |   Database total after this unit: 544
+   New items registered in this unit: 50   |   Database total after this unit: 547
    awesome, band, bar, boat, boyfriend, chart, classroom, college, correct, cousin, cut, DANCE,
-   dancer, DESCRIBE, description, DRAW, fantastic, festival, fill, fun, geography, girl, girlfriend,
-   grandparent, include, INTRODUCE, line, lion, mountain, movie, neighbourhood, object, ocean,
-   PAINT, painting, pencil, photograph, quick, science, section, SING, singer, SPELL, spelling,
-   TEACH, teacher, tourist, visitor
+   dancer, DESCRIBE, description, DRAW, drawing, fantastic, festival, fill, fun, geography, girl,
+   girlfriend, grandparent, include, INTRODUCE, line, lion, mountain, movie, neighbourhood, object,
+   ocean, PAINT, painting, pencil, photograph, quick, science, section, SING, singer, SPELL,
+   spelling, TEACH, teacher, teaching, tourist, visitor
 
 
 ####################################################################################################
@@ -4185,7 +4201,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): BUILD [main], machine, library, mall, apartment,
       pool
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (544 → 550 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (547 → 553 items).
 
 ====================================================================================================
 LESSON A1-063   |   UNIT 11: Places, animals and people
@@ -4240,7 +4256,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): RIDE [main], bicycle, horse, elephant, beach, truck
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (550 → 556 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (553 → 559 items).
 
 ====================================================================================================
 LESSON A1-064   |   UNIT 11: Places, animals and people
@@ -4257,7 +4273,7 @@ A. MAIN WORD
    CEFR level ............. A1 (Beginner)
 
 B. WORD FAMILY
-   Noun forms ........ —
+   Noun forms ........ flying — uçuş, təyyarə ilə səyahət
    Verb forms ........ fly (main word)
    Adjective forms ... —
    Adverb forms ...... —
@@ -4299,8 +4315,9 @@ E. USAGE EXPLANATION
    şimal tərəfdə deməkdir.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (7): FLY [main], north, south, east, west, island, space
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (556 → 563 items).
+   New vocabulary registered in this lesson (8): FLY [main], flying [family], north, south, east,
+      west, island, space
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (559 → 567 items).
 
 ====================================================================================================
 LESSON A1-065   |   UNIT 11: Places, animals and people
@@ -4317,7 +4334,8 @@ A. MAIN WORD
    CEFR level ............. A1 (Beginner)
 
 B. WORD FAMILY
-   Noun forms ........ farm (main word); farmer — fermer
+   Noun forms ........ farm (main word); farmer — fermer; farming — əkinçilik, fermer təsərrüfatı
+                       işi
    Verb forms ........ —
    Adjective forms ... —
    Adverb forms ...... —
@@ -4353,9 +4371,9 @@ E. USAGE EXPLANATION
    RIVER axar sudur (the Kura river); Azərbaycan dilindəki içməli "çay" isə TEA-dır.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (6): FARM [main], farmer [family], sheep, pig, cow,
-      river
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (563 → 569 items).
+   New vocabulary registered in this lesson (7): FARM [main], farmer [family], farming [family],
+      sheep, pig, cow, river
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (567 → 574 items).
 
 ====================================================================================================
 LESSON A1-066   |   UNIT 11: Places, animals and people
@@ -4410,7 +4428,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): AFRAID [main], snake, die, dangerous, bored,
       excited
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (569 → 575 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (574 → 580 items).
 
 ====================================================================================================
 LESSON A1-067   |   UNIT 11: Places, animals and people
@@ -4464,7 +4482,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): MONTH [main], past, quarter, vacation, slow, cool
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (575 → 581 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (580 → 586 items).
 
 ====================================================================================================
 LESSON A1-068   |   UNIT 11: Places, animals and people
@@ -4519,17 +4537,17 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): BOY [main], smart, blond, dear, yard, born
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (581 → 587 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (586 → 592 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 11 (Places, animals and people)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: BUILD, RIDE, FLY, FARM, AFRAID, MONTH, BOY
-   New items registered in this unit: 43   |   Database total after this unit: 587
+   New items registered in this unit: 45   |   Database total after this unit: 592
    AFRAID, apartment, beach, bicycle, blond, bored, born, BOY, BUILD, cool, cow, dangerous, dear,
-   die, east, elephant, excited, FARM, farmer, FLY, horse, island, library, machine, mall, MONTH,
-   north, past, pig, pool, quarter, RIDE, river, sheep, slow, smart, snake, south, space, truck,
-   vacation, west, yard
+   die, east, elephant, excited, FARM, farmer, farming, FLY, flying, horse, island, library,
+   machine, mall, MONTH, north, past, pig, pool, quarter, RIDE, river, sheep, slow, smart, snake,
+   south, space, truck, vacation, west, yard
 
 
 ####################################################################################################

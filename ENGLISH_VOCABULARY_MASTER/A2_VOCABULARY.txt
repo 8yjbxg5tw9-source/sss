@@ -3,9 +3,9 @@ ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL A2 — ELEMENTARY  /  Elementar səviyyə
 ====================================================================================================
 File: A2_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
-Lessons in this file: 40 (40 main-word lessons + 0 fixed-phrase lessons)
-Expressions: 320   |   Fixed phrases: 0   |   Example sentences: 160
-New vocabulary items introduced at level A2: 359   |   Language of usage notes: Azerbaijani
+Lessons in this file: 58 (58 main-word lessons + 0 fixed-phrase lessons)
+Expressions: 446   |   Fixed phrases: 0   |   Example sentences: 214
+New vocabulary items introduced at level A2: 475   |   Language of usage notes: Azerbaijani
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -48,6 +48,12 @@ CONTENTS OF THIS FILE
       A2-033 HEALTH, A2-034 SPORT
    UNIT 7 — Describing and comparing  /  Təsvir və müqayisə
       A2-035 EASY, A2-036 DIFFERENT, A2-037 IMPORTANT, A2-038 SAFE, A2-039 STRONG, A2-040 INTEREST
+   UNIT 8 — Everyday actions  /  Gündəlik hərəkətlər
+      A2-041 ALLOW, A2-042 APPEAR, A2-043 BELONG, A2-044 COLLECT, A2-045 COUNT, A2-046 COVER, A2-047
+      NOTICE, A2-048 PASS, A2-049 THROW
+   UNIT 9 — Study, work and plans  /  Təhsil, iş və planlar
+      A2-050 ATTEND, A2-051 CONTINUE, A2-052 DEPEND, A2-053 REPLACE, A2-054 CONNECT, A2-055 EXPECT,
+      A2-056 FAIL, A2-057 ADVERTISE, A2-058 ARRANGE
 
 
 ####################################################################################################
@@ -114,7 +120,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): TRAVEL [main], traveller [family], abroad, plane,
       world, light, agent, Europe, business, guide
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (587 → 597 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (592 → 602 items).
 
 ====================================================================================================
 LESSON A2-002   |   UNIT 1: Travel and transport
@@ -174,7 +180,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): STAY [main], awake, calm, overnight, touch, week,
       indoors, relative, short
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (597 → 606 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (602 → 611 items).
 
 ====================================================================================================
 LESSON A2-003   |   UNIT 1: Travel and transport
@@ -235,7 +241,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): LEAVE [main], tip, airport, peace, hurry, luggage,
       comment, table
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (606 → 614 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (611 → 619 items).
 
 ====================================================================================================
 LESSON A2-004   |   UNIT 1: Travel and transport
@@ -296,7 +302,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ARRIVE [main], arrival [family], Paris, midnight,
       soon, hospital, coach, departure, minute, hall
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (614 → 624 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (619 → 629 items).
 
 ====================================================================================================
 LESSON A2-005   |   UNIT 1: Travel and transport
@@ -356,7 +362,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): CATCH [main], ball, thief, fire, flight, flu, mouse
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (624 → 631 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (629 → 636 items).
 
 ====================================================================================================
 LESSON A2-006   |   UNIT 1: Travel and transport
@@ -417,13 +423,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): MISS [main], missing [family], chance, class,
       deadline, appointment, target, beginning, person, ferry
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (631 → 641 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (636 → 646 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 1 (Travel and transport)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: TRAVEL, STAY, LEAVE, ARRIVE, CATCH, MISS
-   New items registered in this unit: 54   |   Database total after this unit: 641
+   New items registered in this unit: 54   |   Database total after this unit: 646
    abroad, agent, airport, appointment, arrival, ARRIVE, awake, ball, beginning, business, calm,
    CATCH, chance, class, coach, comment, deadline, departure, Europe, ferry, fire, flight, flu,
    guide, hall, hospital, hurry, indoors, LEAVE, light, luggage, midnight, minute, MISS, missing,
@@ -496,7 +502,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): BRING [main], gift, snack, passport, towel, camera,
       laptop
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (641 → 648 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (646 → 653 items).
 
 ====================================================================================================
 LESSON A2-008   |   UNIT 2: Giving, showing and telling
@@ -555,7 +561,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): SEND [main], sender [family], parcel, link, file,
       post, reply, document, package, reminder
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (648 → 658 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (653 → 663 items).
 
 ====================================================================================================
 LESSON A2-009   |   UNIT 2: Giving, showing and telling
@@ -615,7 +621,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (5): SHOW [main], talent, fashion, quiz, respect
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (658 → 663 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (663 → 668 items).
 
 ====================================================================================================
 LESSON A2-010   |   UNIT 2: Giving, showing and telling
@@ -676,7 +682,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): TELL [main], truth, lie, joke, secret, reason,
       police, detail
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (663 → 671 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (668 → 676 items).
 
 ====================================================================================================
 LESSON A2-011   |   UNIT 2: Giving, showing and telling
@@ -737,13 +743,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): TRY [main], recipe, local, food, remember, relax,
       understand
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (671 → 678 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (676 → 683 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 2 (Giving, showing and telling)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: BRING, SEND, SHOW, TELL, TRY
-   New items registered in this unit: 37   |   Database total after this unit: 678
+   New items registered in this unit: 37   |   Database total after this unit: 683
    BRING, camera, detail, document, fashion, file, food, gift, joke, laptop, lie, link, local,
    package, parcel, passport, police, post, quiz, reason, recipe, relax, remember, reminder, reply,
    respect, secret, SEND, sender, SHOW, snack, talent, TELL, towel, truth, TRY, understand
@@ -813,7 +819,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): CHANGE [main], subject, place, channel, password,
       date, completely, tyre
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (678 → 686 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (683 → 691 items).
 
 ====================================================================================================
 LESSON A2-013   |   UNIT 3: Change and movement
@@ -874,7 +880,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): MOVE [main], movement [family], moving [family],
       furniture, chair, countryside
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (686 → 692 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (691 → 697 items).
 
 ====================================================================================================
 LESSON A2-014   |   UNIT 3: Change and movement
@@ -935,7 +941,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): TURN [main], turning [family], left, right, page,
       corner, volume
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (692 → 699 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (697 → 704 items).
 
 ====================================================================================================
 LESSON A2-015   |   UNIT 3: Change and movement
@@ -996,7 +1002,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): KEEP [main], keeper [family], promise, fit, diary,
       tidy, pet, grass, fresh
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (699 → 708 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (704 → 713 items).
 
 ====================================================================================================
 LESSON A2-016   |   UNIT 3: Change and movement
@@ -1055,7 +1061,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (12): LOSE [main], loss [family], loser [family], lost
       [family], weight, wallet, control, memory, voice, property, balance, heavy
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (708 → 720 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (713 → 725 items).
 
 ====================================================================================================
 LESSON A2-017   |   UNIT 3: Change and movement
@@ -1116,7 +1122,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FIND [main], finding [family], difficult, funny,
       boring, partner, exit, entrance, accommodation
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (720 → 729 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (725 → 734 items).
 
 ====================================================================================================
 LESSON A2-018   |   UNIT 3: Change and movement
@@ -1175,7 +1181,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): FALL [main], asleep, love, bike, ill, ground,
       temperature
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (729 → 736 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (734 → 741 items).
 
 ====================================================================================================
 LESSON A2-019   |   UNIT 3: Change and movement
@@ -1236,7 +1242,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): BREAK [main], broken [family], law, rule, record,
       bone, plate
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (736 → 743 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (741 → 748 items).
 
 ====================================================================================================
 LESSON A2-020   |   UNIT 3: Change and movement
@@ -1297,13 +1303,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): GROW [main], growth [family], grown-up [family],
       plant, tall, fast, beard, tomato, potato, size
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (743 → 753 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (748 → 758 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 3 (Change and movement)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: CHANGE, MOVE, TURN, KEEP, LOSE, FIND, FALL, BREAK, GROW
-   New items registered in this unit: 75   |   Database total after this unit: 753
+   New items registered in this unit: 75   |   Database total after this unit: 758
    accommodation, asleep, balance, beard, bike, bone, boring, BREAK, broken, chair, CHANGE, channel,
    completely, control, corner, countryside, date, diary, difficult, entrance, exit, FALL, fast,
    FIND, finding, fit, fresh, funny, furniture, grass, ground, GROW, grown-up, growth, heavy, ill,
@@ -1378,7 +1384,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PLAN [main], planning [family], planner [family],
       trip, wedding, journey, future, event, picnic, study
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (753 → 763 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (758 → 768 items).
 
 ====================================================================================================
 LESSON A2-022   |   UNIT 4: Plans, choices and money
@@ -1439,7 +1445,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): CHOOSE [main], choice [family], career, university,
       course, topic, option, design
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (763 → 771 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (768 → 776 items).
 
 ====================================================================================================
 LESSON A2-023   |   UNIT 4: Plans, choices and money
@@ -1500,7 +1506,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PAY [main], payment [family], paid [family], cash,
       attention, advance, tax, fine, fee, extra
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (771 → 781 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (776 → 786 items).
 
 ====================================================================================================
 LESSON A2-024   |   UNIT 4: Plans, choices and money
@@ -1561,7 +1567,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (13): USE [main], user [family], useful [family],
       useless [family], internet, dictionary, tool, public, transport, knife, brain, social, media
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (781 → 794 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (786 → 799 items).
 
 ====================================================================================================
 LESSON A2-025   |   UNIT 4: Plans, choices and money
@@ -1621,7 +1627,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (4): PUT [main], kettle, fridge, shelf
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (794 → 798 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (799 → 803 items).
 
 ====================================================================================================
 LESSON A2-026   |   UNIT 4: Plans, choices and money
@@ -1681,8 +1687,8 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): STOP [main], non-stop [family], talk, smoking,
-      crying, laugh, rest, petrol, full, shouting
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (798 → 808 items).
+      cry, laugh, rest, petrol, full, shout
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (803 → 813 items).
 
 ====================================================================================================
 LESSON A2-027   |   UNIT 4: Plans, choices and money
@@ -1743,19 +1749,19 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): WIN [main], winner [family], prize, race, medal,
       lottery, award, championship, final, contest
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (808 → 818 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (813 → 823 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 4 (Plans, choices and money)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: PLAN, CHOOSE, PAY, USE, PUT, STOP, WIN
-   New items registered in this unit: 65   |   Database total after this unit: 818
+   New items registered in this unit: 65   |   Database total after this unit: 823
    advance, attention, award, brain, career, cash, championship, choice, CHOOSE, contest, course,
-   crying, design, dictionary, event, extra, fee, final, fine, fridge, full, future, internet,
-   journey, kettle, knife, laugh, lottery, medal, media, non-stop, option, paid, PAY, payment,
-   petrol, picnic, PLAN, planner, planning, prize, public, PUT, race, rest, shelf, shouting,
-   smoking, social, STOP, study, talk, tax, tool, topic, transport, trip, university, USE, useful,
-   useless, user, wedding, WIN, winner
+   cry, design, dictionary, event, extra, fee, final, fine, fridge, full, future, internet, journey,
+   kettle, knife, laugh, lottery, medal, media, non-stop, option, paid, PAY, payment, petrol,
+   picnic, PLAN, planner, planning, prize, public, PUT, race, rest, shelf, shout, smoking, social,
+   STOP, study, talk, tax, tool, topic, transport, trip, university, USE, useful, useless, user,
+   wedding, WIN, winner
 
 
 ####################################################################################################
@@ -1822,7 +1828,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FEEL [main], feeling [family], sick, hungry,
       thirsty, sorry, lonely, nervous, comfortable
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (818 → 827 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (823 → 832 items).
 
 ====================================================================================================
 LESSON A2-029   |   UNIT 5: Feelings and thoughts
@@ -1841,7 +1847,8 @@ A. MAIN WORD
                            this lesson is A2 because the expressions built on it are A2 material.
 
 B. WORD FAMILY
-   Noun forms ........ thought — fikir, düşüncə; thinker — mütəfəkkir
+   Noun forms ........ thought — fikir, düşüncə; thinker — mütəfəkkir; thinking — düşünmə, düşüncə
+                       tərzi
    Verb forms ........ think (main word)
    Adjective forms ... thoughtful — diqqətcil, qayğıkeş, həmçinin fikirli
    Adverb forms ...... —
@@ -1881,9 +1888,9 @@ E. USAGE EXPLANATION
    feldə olur: I don't think he is at home. /θ/ səsi dilin ucu dişlərin arasında tələffüz olunur.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (7): THINK [main], thought [family], thinker [family],
-      thoughtful [family], twice, positive, deeply
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (827 → 834 items).
+   New vocabulary registered in this lesson (8): THINK [main], thought [family], thinker [family],
+      thinking [family], thoughtful [family], twice, positive, deeply
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (832 → 840 items).
 
 ====================================================================================================
 LESSON A2-030   |   UNIT 5: Feelings and thoughts
@@ -1944,7 +1951,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ENJOY [main], enjoyment [family], enjoyable
       [family], view, sunshine, concert, dancing, nature, really, singing
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (834 → 844 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (840 → 850 items).
 
 ====================================================================================================
 LESSON A2-031   |   UNIT 5: Feelings and thoughts
@@ -2005,7 +2012,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): HOPE [main], hopeful [family], hopeless [family],
       hopefully [family], hear, dream, only, false, still
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (844 → 853 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (850 → 859 items).
 
 ====================================================================================================
 LESSON A2-032   |   UNIT 5: Feelings and thoughts
@@ -2066,17 +2073,17 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): WORRY [main], worried [family], worrying [family],
       main, slightly, terribly, kid
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (853 → 860 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (859 → 866 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 5 (Feelings and thoughts)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: FEEL, THINK, ENJOY, HOPE, WORRY
-   New items registered in this unit: 42   |   Database total after this unit: 860
+   New items registered in this unit: 43   |   Database total after this unit: 866
    comfortable, concert, dancing, deeply, dream, ENJOY, enjoyable, enjoyment, false, FEEL, feeling,
    hear, HOPE, hopeful, hopefully, hopeless, hungry, kid, lonely, main, nature, nervous, only,
    positive, really, sick, singing, slightly, sorry, still, sunshine, terribly, THINK, thinker,
-   thirsty, thought, thoughtful, twice, view, worried, WORRY, worrying
+   thinking, thirsty, thought, thoughtful, twice, view, worried, WORRY, worrying
 
 
 ####################################################################################################
@@ -2142,7 +2149,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): HEALTH [main], healthy [family], unhealthy
       [family], damage, mental, diet, lifestyle, service, insurance, physical, check
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (860 → 871 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (866 → 877 items).
 
 ====================================================================================================
 LESSON A2-034   |   UNIT 6: Health and sport
@@ -2202,13 +2209,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): SPORT [main], sporty [family], team, winter, club,
       equipment, extreme, fan, stadium
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (871 → 880 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (877 → 886 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 6 (Health and sport)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: HEALTH, SPORT
-   New items registered in this unit: 20   |   Database total after this unit: 880
+   New items registered in this unit: 20   |   Database total after this unit: 886
    check, club, damage, diet, equipment, extreme, fan, HEALTH, healthy, insurance, lifestyle,
    mental, physical, service, SPORT, sporty, stadium, team, unhealthy, winter
 
@@ -2277,7 +2284,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): EASY [main], ease [family], easily [family], task,
       fairly, pretty, reach, exercise, follow, far, test
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (880 → 891 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (886 → 897 items).
 
 ====================================================================================================
 LESSON A2-036   |   UNIT 7: Describing and comparing
@@ -2337,7 +2344,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): DIFFERENT [main], difference [family], differ
       [family], differently [family], kind, culture, type, totally, shape, level, meaning
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (891 → 902 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (897 → 908 items).
 
 ====================================================================================================
 LESSON A2-037   |   UNIT 7: Describing and comparing
@@ -2399,7 +2406,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): IMPORTANT [main], importance [family], unimportant
       [family], importantly [family], role, point, thing, step, especially, discovery, guest,
       equally
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (902 → 914 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (908 → 920 items).
 
 ====================================================================================================
 LESSON A2-038   |   UNIT 7: Describing and comparing
@@ -2459,7 +2466,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): SAFE [main], safety [family], unsafe [family],
       safely [family], sound, harm, distance, perfectly, area, helmet, instruction
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (914 → 925 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (920 → 931 items).
 
 ====================================================================================================
 LESSON A2-039   |   UNIT 7: Describing and comparing
@@ -2520,7 +2527,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): STRONG [main], strength [family], strengthen
       [family], strongly [family], smell, taste, muscle, accent, character, leader, weakness
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (925 → 936 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (931 → 942 items).
 
 ====================================================================================================
 LESSON A2-040   |   UNIT 7: Describing and comparing
@@ -2578,13 +2585,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): INTEREST [main], interesting [family], interested
       [family], special, fact, common, know, article, hobby, share
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (936 → 946 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (942 → 952 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 7 (Describing and comparing)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: EASY, DIFFERENT, IMPORTANT, SAFE, STRONG, INTEREST
-   New items registered in this unit: 66   |   Database total after this unit: 946
+   New items registered in this unit: 66   |   Database total after this unit: 952
    accent, area, article, character, common, culture, differ, difference, DIFFERENT, differently,
    discovery, distance, ease, easily, EASY, equally, especially, exercise, fact, fairly, far,
    follow, guest, harm, helmet, hobby, importance, IMPORTANT, importantly, instruction, INTEREST,
@@ -2593,67 +2600,1109 @@ UPDATED VOCABULARY INDEX — after UNIT 7 (Describing and comparing)
    strengthen, STRONG, strongly, task, taste, test, thing, totally, type, unimportant, unsafe,
    weakness
 
+
+####################################################################################################
+#  UNIT 8 — EVERYDAY ACTIONS
+#  Gündəlik hərəkətlər
+####################################################################################################
+
+====================================================================================================
+LESSON A2-041   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: ALLOW
+Azerbaijani: İcazə vermək, yol vermək
+
+A. MAIN WORD
+   English spelling ....... allow
+   Azerbaijani meaning .... icazə vermək, yol vermək
+   Part of speech ......... verb
+   Key forms .............. allow – allows – allowed – allowed – allowing
+   British English IPA .... /əˈlaʊ/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ allow (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Allow parking — Maşın saxlamağa icazə vermək
+      Usage: parking = dayanacaq; maşını park etmə
+   2. Allow camping — Çadır qurub qalmağa icazə vermək
+      Usage: camping = çadırda istirahət, kempinq
+   3. Allow fishing — Balıq tutmağa icazə vermək
+      Usage: fishing = balıq ovu; go fishing = balıq tutmağa getmək
+   4. Allow cigarettes — Siqaretə icazə vermək
+      Usage: cigarette /ˌsɪɡəˈret/ = siqaret
+   5. Allow guns — Odlu silaha icazə vermək
+      Usage: gun = tapança, tüfəng, odlu silah
+   6. Allow sb to do sth — Kiməsə nəyisə etməyə icazə vermək
+      Usage: allow + şəxs + to + fel
+   7. Be allowed to do sth — Nəyisə etməyə icazəsi olmaq
+      Usage: Məchul forma çox işlənir: You are not allowed to smoke here
+
+D. NATURAL EXAMPLE SENTENCES
+   1. My parents don't allow me to go out late.
+      → Valideynlərim mənə gec bayıra çıxmağa icazə vermirlər.
+   2. Parking is not allowed in front of the hospital.
+      → Xəstəxananın qabağında maşın saxlamağa icazə verilmir.
+   3. The park allows camping and fishing in summer.
+      → Park yayda çadır qurmağa və balıq tutmağa icazə verir.
+
+E. USAGE EXPLANATION
+   ALLOW düzgün feldir; /əˈlaʊ/ kimi tələffüz olunur. Qəlib: allow + şəxs + TO + fel. LET eyni
+   mənadadır, lakin "to"suz işlənir və daha danışıq üslubundadır: "Let me go" = "Allow me to go".
+   Qadağaları bildirmək üçün məchul forma işlənir: "Smoking is not allowed" = Siqaret çəkmək
+   qadağandır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): ALLOW [main], parking, camping, fishing, cigarette,
+      gun
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (952 → 958 items).
+
+====================================================================================================
+LESSON A2-042   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: APPEAR
+Azerbaijani: Görünmək, peyda olmaq; ... kimi görünmək
+
+A. MAIN WORD
+   English spelling ....... appear
+   Azerbaijani meaning .... görünmək, peyda olmaq; ... kimi görünmək
+   Part of speech ......... verb
+   Key forms .............. appear – appears – appeared – appeared – appearing
+   British English IPA .... /əˈpɪə/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ appearance — görünüş, zahiri görkəm, həmçinin peyda olma
+   Verb forms ........ appear (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Appear suddenly — Qəflətən peyda olmaq
+      Usage: suddenly = qəflətən, birdən
+   2. Appear in the sky — Səmada görünmək
+      Usage: sky = səma, göy üzü
+   3. Appear on a poster — Afişada (posterdə) görünmək
+      Usage: poster /ˈpəʊstə/ = afişa, plakat
+   4. Appear in an advertisement — Reklamda çəkilmək (görünmək)
+      Usage: advertisement = reklam, elan (qısa: ad)
+   5. A first appearance — İlk çıxış, ilk dəfə görünmə
+      Usage: make your first appearance = ilk dəfə səhnəyə çıxmaq
+   6. Appear to be — ... kimi görünmək
+      Usage: appear + to be + sifət: She appears to be happy
+   7. Appear from nowhere — Heç yerdən (gözlənilmədən) peyda olmaq
+      Usage: nowhere = heç yer
+
+D. NATURAL EXAMPLE SENTENCES
+   1. A man suddenly appeared at the door.
+      → Qapıda qəflətən bir kişi peyda oldu.
+   2. Her face appears on posters all over the city.
+      → Onun üzü şəhərin hər yerində afişalarda görünür.
+   3. He appears to be tired today.
+      → O, bu gün yorğun görünür.
+
+E. USAGE EXPLANATION
+   APPEAR-in iki mənası var: 1) gözə görünmək, peyda olmaq (əksi: disappear); 2) "... kimi görünmək"
+   – bu mənada SEEM ilə sinonimdir, lakin daha rəsmidir. İsmi APPEARANCE-dır: insanın zahiri görkəmi
+   (her appearance) və ya səhnəyə, ekrana çıxması. Diqqət: APPEAR davamedici zamanda adətən
+   işlənmir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): APPEAR [main], appearance [family], suddenly, sky,
+      poster, advertisement
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (958 → 964 items).
+
+====================================================================================================
+LESSON A2-043   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: BELONG
+Azerbaijani: Məxsus olmaq, aid olmaq
+
+A. MAIN WORD
+   English spelling ....... belong
+   Azerbaijani meaning .... məxsus olmaq, aid olmaq
+   Part of speech ......... verb
+   Key forms .............. belong – belongs – belonged – belonged – belonging
+   British English IPA .... /bɪˈlɒŋ/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ belong (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Belong to sb — Kiməsə məxsus olmaq
+      Usage: Sözönü "to"dur: This bag belongs to me
+   2. Belong to the king — Krala məxsus olmaq
+      Usage: king = kral, padşah
+   3. Belong to the queen — Kraliçaya məxsus olmaq
+      Usage: queen = kraliça
+   4. Belong to the owner — Sahibinə məxsus olmaq
+      Usage: owner /ˈəʊnə/ = sahib, mülkiyyətçi
+   5. Belong to a united army — Birləşmiş orduya mənsub olmaq
+      Usage: united = birləşmiş; army = ordu
+   6. Belong to the church — Kilsəyə məxsus olmaq
+      Usage: church = kilsə
+   7. Belong together — Bir-birinə aid olmaq, bir yerdə olmalı olmaq
+      Usage: These two socks belong together
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Who does this car belong to?
+      → Bu maşın kimə məxsusdur?
+   2. The palace belonged to the king and queen.
+      → Saray kral və kraliçaya məxsus idi.
+   3. This land belongs to the church.
+      → Bu torpaq kilsəyə məxsusdur.
+
+E. USAGE EXPLANATION
+   BELONG yalnız "to" ilə işlənir və davamedici zamanda işlənmir: "It belongs to me" ("It is
+   belonging" səhvdir). Sahiblik sualı: "Who does it belong to?" və ya "Whose is it?". "Belong to a
+   club" bir qrupun üzvü olmaq deməkdir. Sahibi bildirən isim OWNER-dir: the owner of the house.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): BELONG [main], king, queen, owner, united, army,
+      church
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (964 → 971 items).
+
+====================================================================================================
+LESSON A2-044   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: COLLECT
+Azerbaijani: Toplamaq, yığmaq; gedib götürmək
+
+A. MAIN WORD
+   English spelling ....... collect
+   Azerbaijani meaning .... toplamaq, yığmaq; gedib götürmək
+   Part of speech ......... verb
+   Key forms .............. collect – collects – collected – collected – collecting
+   British English IPA .... /kəˈlekt/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ collection — kolleksiya, toplu
+   Verb forms ........ collect (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Collect stamps — Marka toplamaq
+      Usage: stamp = poçt markası; möhür
+   2. Collect stones — Daş toplamaq
+      Usage: stone = daş
+   3. Collect insects — Həşərat toplamaq
+      Usage: insect = həşərat, cücü
+   4. Collect the mail — Poçtu (məktubları) götürmək
+      Usage: mail = poçt, məktublar (Amerika ingiliscəsində; Britaniyada: post)
+   5. Collect anything unusual — Qeyri-adi olan hər şeyi toplamaq
+      Usage: unusual /ʌnˈjuːʒuəl/ = qeyri-adi; əksi: usual
+   6. Collect sth from sb — Nəyisə kimdənsə götürmək, yığmaq
+      Usage: collect money from parents
+   7. A collection of sth — Nəyinsə kolleksiyası
+      Usage: a collection of stamps
+
+D. NATURAL EXAMPLE SENTENCES
+   1. My grandfather collects old stamps.
+      → Babam köhnə markalar toplayır.
+   2. I collect the mail every morning.
+      → Mən hər səhər poçtu götürürəm.
+   3. She has a large collection of stones from different countries.
+      → Onun müxtəlif ölkələrdən böyük daş kolleksiyası var.
+
+E. USAGE EXPLANATION
+   COLLECT düzgün feldir. İki əsas mənası: 1) hobbi kimi toplamaq (collect stamps, collect coins);
+   2) gedib götürmək (collect the children from school – Britaniya ingiliscəsində; Amerikada "pick
+   up"). İsmi COLLECTION, toplayan şəxs isə "collector"dur.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): COLLECT [main], collection [family], stamp, stone,
+      insect, mail, unusual
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (971 → 978 items).
+
+====================================================================================================
+LESSON A2-045   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: COUNT
+Azerbaijani: Saymaq; əhəmiyyəti olmaq
+
+A. MAIN WORD
+   English spelling ....... count
+   Azerbaijani meaning .... saymaq; əhəmiyyəti olmaq
+   Part of speech ......... verb
+   Key forms .............. count – counts – counted – counted – counting
+   British English IPA .... /kaʊnt/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ count (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Count to ten — Ona qədər saymaq
+      Usage: count from one to ten
+   2. Count on sb — Kiməsə güvənmək, arxalanmaq
+      Usage: Frazeoloji fel: You can count on me
+   3. Count the pennies — Qəpikləri saymaq; pulu ehtiyatla xərcləmək
+      Usage: penny = pens (funtun yüzdə biri); cəmi: pennies, pence
+   4. Count the thin sheets — Nazik vərəqləri saymaq
+      Usage: thin = nazik; arıq; sheet = vərəq; mələfə
+   5. Count the units — Vahidləri saymaq
+      Usage: unit /ˈjuːnɪt/ = vahid; bölmə
+   6. Count the columns — Sütunları saymaq
+      Usage: column /ˈkɒləm/ = sütun ("n" oxunmur)
+   7. Count sth up — Hamısını sayıb cəmləmək
+      Usage: Frazeoloji fel
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The little boy can count to ten in English.
+      → Balaca oğlan ingiliscə ona qədər saya bilir.
+   2. You can always count on me.
+      → Sən həmişə mənə güvənə bilərsən.
+   3. Count the sheets and give one to every student.
+      → Vərəqləri say və hər şagirdə birini ver.
+
+E. USAGE EXPLANATION
+   COUNT düzgün feldir. Əsas mənası "saymaq"dır; "count on" isə "güvənmək" deməkdir. Başqa bir məna:
+   "əhəmiyyəti olmaq" – "Every vote counts" = Hər səs vacibdir. İsimlər "countable" (sayılan) və
+   "uncountable" (sayılmayan) olur – bu terminlər də COUNT sözündəndir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): COUNT [main], penny, thin, sheet, unit, column
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (978 → 984 items).
+
+====================================================================================================
+LESSON A2-046   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: COVER
+Azerbaijani: Örtmək, üstünü bağlamaq; əhatə etmək; örtük
+
+A. MAIN WORD
+   English spelling ....... cover
+   Azerbaijani meaning .... örtmək, üstünü bağlamaq; əhatə etmək; örtük
+   Part of speech ......... verb, noun
+   Key forms .............. cover – covers – covered – covered – covering
+   British English IPA .... /ˈkʌvə/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ cover (main word)
+   Verb forms ........ cover (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Cover the bowl — Kasanın üstünü örtmək
+      Usage: bowl /bəʊl/ = kasa, dərin qab
+   2. Cover a hole — Deşiyi (çuxuru) örtmək
+      Usage: hole = deşik, çuxur
+   3. Cover your knees — Dizlərini örtmək
+      Usage: knee /niː/ = diz ("k" oxunmur)
+   4. Cover the mirror — Güzgünü örtmək
+      Usage: mirror = güzgü
+   5. Cover the carpet — Xalçanın üstünü örtmək
+      Usage: carpet = xalça
+   6. Cover sth with sth — Nəyisə nə iləsə örtmək
+      Usage: cover the table with a cloth
+   7. Be covered in sth — Nə iləsə örtülü olmaq
+      Usage: The hills are covered in snow
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Cover the bowl and put it in the fridge.
+      → Kasanın üstünü ört və soyuducuya qoy.
+   2. The mountains were covered in snow.
+      → Dağlar qarla örtülmüşdü.
+   3. She covered her knees with a blanket.
+      → O, dizlərini adyalla örtdü.
+
+E. USAGE EXPLANATION
+   COVER düzgün feldir: örtmək, üstünü bağlamaq. Sözönülər: cover sth WITH sth (hərəkət), be covered
+   IN / WITH sth (vəziyyət). Başqa mənası: mövzunu əhatə etmək – "The book covers grammar". İsim
+   kimi: a book cover = kitabın üz qabığı.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): COVER [main], bowl, hole, knee, mirror, carpet
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (984 → 990 items).
+
+====================================================================================================
+LESSON A2-047   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: NOTICE
+Azerbaijani: Görmək, fərqinə varmaq; elan, bildiriş
+
+A. MAIN WORD
+   English spelling ....... notice
+   Azerbaijani meaning .... görmək, fərqinə varmaq; elan, bildiriş
+   Part of speech ......... verb, noun
+   Key forms .............. notice – notices – noticed – noticed – noticing
+   British English IPA .... /ˈnəʊtɪs/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ notice (main word)
+   Verb forms ........ notice (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Notice the smoke — Tüstünü görmək (hiss etmək)
+      Usage: smoke = tüstü; fel kimi: siqaret çəkmək
+   2. Notice sth at once — Nəyisə dərhal görmək
+      Usage: at once = dərhal
+   3. Notice the exact height — Dəqiq hündürlüyə fikir vermək
+      Usage: exact /ɪɡˈzækt/ = dəqiq; height /haɪt/ = hündürlük, boy
+   4. Notice immediately — Dərhal fərqinə varmaq
+      Usage: immediately /ɪˈmiːdiətli/ = dərhal, ləngimədən
+   5. Finally notice — Nəhayət ki, görmək
+      Usage: finally = nəhayət, axırda
+   6. Notice sb doing sth — Kiminsə nəsə etdiyini görmək
+      Usage: I noticed him leaving
+   7. Without notice — Xəbərdarlıq etmədən
+      Usage: Burada "notice" isimdir
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Did you notice her new haircut?
+      → Onun yeni saç düzümünü gördün?
+   2. I noticed the smoke immediately and called for help.
+      → Mən tüstünü dərhal gördüm və köməyə çağırdım.
+   3. Nobody noticed that he was absent.
+      → Onun olmadığının heç kim fərqinə varmadı.
+
+E. USAGE EXPLANATION
+   NOTICE "gözünə dəymək, fərqinə varmaq" deməkdir – SEE felindən fərqli olaraq diqqəti cəlb edən
+   bir şeyi anlamaqdır. İsim kimi "elan, bildiriş" deməkdir: a notice on the wall. HEIGHT /haɪt/
+   "high" sifətinin ismidir. IMMEDIATELY və AT ONCE sinonimdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): NOTICE [main], smoke, exact, height, immediately,
+      finally
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (990 → 996 items).
+
+====================================================================================================
+LESSON A2-048   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: PASS
+Azerbaijani: Ötürmək, uzatmaq; keçmək; (imtahanı) vermək
+
+A. MAIN WORD
+   English spelling ....... pass
+   Azerbaijani meaning .... ötürmək, uzatmaq; keçmək; (imtahanı) vermək
+   Part of speech ......... verb
+   Key forms .............. pass – passes – passed – passed – passing
+   British English IPA .... /pɑːs/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ pass (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Pass the sauce — Sousu ötürmək (uzatmaq)
+      Usage: sauce /sɔːs/ = sous
+   2. Pass a spoon — Qaşıq uzatmaq
+      Usage: spoon = qaşıq
+   3. Pass a fork — Çəngəl uzatmaq
+      Usage: fork = çəngəl
+   4. Pass the jam — Mürəbbəni ötürmək
+      Usage: jam = mürəbbə, cem
+   5. Pass a lemon — Limon uzatmaq
+      Usage: lemon = limon
+   6. Pass sth to sb — Nəyisə kiməsə ötürmək
+      Usage: Süfrədə: Could you pass it to me?
+   7. Pass by — Yanından keçmək
+      Usage: Frazeoloji fel: I pass by your house every day
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Could you pass the sauce, please?
+      → Zəhmət olmasa, sousu ötürə bilərsiniz?
+   2. She passed me a spoon and a fork.
+      → O, mənə qaşıq və çəngəl uzatdı.
+   3. He studied hard and passed all his exams.
+      → O, çox çalışdı və bütün imtahanlarını verdi.
+
+E. USAGE EXPLANATION
+   PASS düzgün feldir və çoxmənalıdır: 1) əl ilə ötürmək (pass the salt); 2) yanından keçmək (pass
+   the bank); 3) imtahandan keçmək (pass an exam; əksi: fail); 4) vaxtın keçməsi (Time passes
+   quickly). Diqqət: "pass an exam" imtahanı uğurla vermək deməkdir; sadəcə imtahanda iştirak etmək
+   "take an exam"dır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): PASS [main], sauce, spoon, fork, jam, lemon
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (996 → 1,002 items).
+
+====================================================================================================
+LESSON A2-049   |   UNIT 8: Everyday actions
+====================================================================================================
+MAIN WORD: THROW
+Azerbaijani: Atmaq, tullamaq
+
+A. MAIN WORD
+   English spelling ....... throw
+   Azerbaijani meaning .... atmaq, tullamaq
+   Part of speech ......... verb
+   Key forms .............. throw – throws – threw – thrown – throwing
+   British English IPA .... /θrəʊ/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ throw (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Throw a rock — Daş (qaya parçası) atmaq
+      Usage: rock = qaya; iri daş; həmçinin rok musiqisi
+   2. Throw sth into the lake — Nəyisə gölə atmaq
+      Usage: lake = göl
+   3. Throw sth in the garbage — Nəyisə zibilə atmaq
+      Usage: garbage /ˈɡɑːbɪdʒ/ = zibil (Amerika ingiliscəsində; Britaniyada: rubbish)
+   4. Throw sth straight — Nəyisə düz atmaq
+      Usage: straight /streɪt/ = düz, birbaşa
+   5. A wild throw — Nişansız (qeyri-dəqiq) atış
+      Usage: wild /waɪld/ = vəhşi; cilovsuz, nəzarətsiz
+   6. Throw sth away — Nəyisə atmaq, zibilə tullamaq
+      Usage: Frazeoloji fel: Don't throw it away
+   7. Throw sth at sb — Nəyisə kiməsə tərəf (vurmaq üçün) atmaq
+      Usage: "throw to" isə tutması üçün atmaqdır
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Don't throw rocks into the lake.
+      → Gölə daş atmayın.
+   2. Throw the ball to me!
+      → Topu mənə at!
+   3. I threw away my old shoes.
+      → Mən köhnə ayaqqabılarımı atdım.
+
+E. USAGE EXPLANATION
+   THROW düzgün olmayan feldir: throw – threw /θruː/ – thrown. Sözönü mənanı dəyişir: throw sth TO
+   sb – tutsun deyə atmaq; throw sth AT sb – vurmaq üçün atmaq. "Throw away" lazımsız şeyi atmaqdır.
+   GARBAGE Amerika, RUBBISH Britaniya variantıdır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): THROW [main], rock, lake, garbage, straight, wild
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,002 → 1,008 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 8 (Everyday actions)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: ALLOW, APPEAR, BELONG, COLLECT, COUNT, COVER, NOTICE, PASS, THROW
+   New items registered in this unit: 56   |   Database total after this unit: 1,008
+   advertisement, ALLOW, APPEAR, appearance, army, BELONG, bowl, camping, carpet, church, cigarette,
+   COLLECT, collection, column, COUNT, COVER, exact, finally, fishing, fork, garbage, gun, height,
+   hole, immediately, insect, jam, king, knee, lake, lemon, mail, mirror, NOTICE, owner, parking,
+   PASS, penny, poster, queen, rock, sauce, sheet, sky, smoke, spoon, stamp, stone, straight,
+   suddenly, thin, THROW, unit, united, unusual, wild
+
+
+####################################################################################################
+#  UNIT 9 — STUDY, WORK AND PLANS
+#  Təhsil, iş və planlar
+####################################################################################################
+
+====================================================================================================
+LESSON A2-050   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: ATTEND
+Azerbaijani: İştirak etmək, (dərsə, tədbirə) getmək
+
+A. MAIN WORD
+   English spelling ....... attend
+   Azerbaijani meaning .... iştirak etmək, (dərsə, tədbirə) getmək
+   Part of speech ......... verb
+   Key forms .............. attend – attends – attended – attended – attending
+   British English IPA .... /əˈtend/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ attend (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Attend a lecture — Mühazirədə iştirak etmək
+      Usage: lecture /ˈlektʃə/ = mühazirə
+   2. Attend a conference — Konfransda iştirak etmək
+      Usage: conference = konfrans
+   3. Attend a reception — Qəbul mərasimində iştirak etmək
+      Usage: reception = rəsmi qəbul; həmçinin mehmanxanada qeydiyyat yeri
+   4. Attend a lab — Laboratoriya məşğələsinə getmək
+      Usage: lab = laboratoriya (qısa forma: laboratory)
+   5. On campus — Universitet şəhərciyində  [related]
+      Usage: campus = kampus, universitet şəhərciyi; live on campus
+   6. Attend to sb/sth — Kiminləsə / nə iləsə məşğul olmaq
+      Usage: Rəsmi: attend to a customer
+   7. Attend sth together — Nədəsə birlikdə iştirak etmək
+      Usage: together = birlikdə
+
+D. NATURAL EXAMPLE SENTENCES
+   1. More than two hundred students attended the lecture.
+      → Mühazirədə iki yüzdən çox tələbə iştirak etdi.
+   2. She lives on campus and attends every lab.
+      → O, kampusda yaşayır və hər laboratoriya məşğələsinə gedir.
+   3. Which school do your children attend?
+      → Uşaqlarınız hansı məktəbə gedirlər?
+
+E. USAGE EXPLANATION
+   ATTEND rəsmi feldir və sözönüsüz işlənir: attend a meeting ("attend to a meeting" səhvdir).
+   Gündəlik danışıqda "go to" deyilir. "Attend to" isə başqa mənadadır: bir işlə və ya müştəri ilə
+   məşğul olmaq. İsmi "attendance" – davamiyyət.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): ATTEND [main], lecture, conference, reception, lab,
+      campus
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,008 → 1,014 items).
+
+====================================================================================================
+LESSON A2-051   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: CONTINUE
+Azerbaijani: Davam etmək, davam etdirmək
+
+A. MAIN WORD
+   English spelling ....... continue
+   Azerbaijani meaning .... davam etmək, davam etdirmək
+   Part of speech ......... verb
+   Key forms .............. continue – continues – continued – continued – continuing
+   British English IPA .... /kənˈtɪnjuː/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ continue (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Continue the tradition — Ənənəni davam etdirmək
+      Usage: tradition = ənənə, adət
+   2. Continue the experiment — Təcrübəni davam etdirmək
+      Usage: experiment /ɪkˈsperɪmənt/ = təcrübə, eksperiment
+   3. Continue the tour — Turu (səfəri) davam etdirmək
+      Usage: tour /tʊə/ = tur, gəzinti, ekskursiya
+   4. Continue the hike — Piyada yürüşə davam etmək
+      Usage: hike = (dağda, təbiətdə) uzun piyada gəzinti
+   5. Continue normally — Adi qaydada davam etmək
+      Usage: normally = adi qaydada; adətən
+   6. Continue to do sth — Nəyisə etməyə davam etmək
+      Usage: continue + to + fel və ya + -ing
+   7. Continue with sth — Nə iləsə davam etmək
+      Usage: Continue with your work
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The rain continued all night.
+      → Yağış bütün gecəni davam etdi.
+   2. After lunch we continued the hike to the lake.
+      → Nahardan sonra biz gölə doğru yürüşümüzə davam etdik.
+   3. Please continue with your work.
+      → Zəhmət olmasa, işinizə davam edin.
+
+E. USAGE EXPLANATION
+   CONTINUE düzgün feldir; vurğu ikinci hecadadır. Ondan sonra isim, "to + fel" və ya "-ing" gəlir:
+   continue working = continue to work. Danışıq dilində sinonimləri "go on" və "carry on"dur. Sifəti
+   "continuous" – fasiləsiz.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): CONTINUE [main], tradition, experiment, tour, hike,
+      normally
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,014 → 1,020 items).
+
+====================================================================================================
+LESSON A2-052   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: DEPEND
+Azerbaijani: Asılı olmaq; güvənmək
+
+A. MAIN WORD
+   English spelling ....... depend
+   Azerbaijani meaning .... asılı olmaq; güvənmək
+   Part of speech ......... verb
+   Key forms .............. depend – depends – depended – depended – depending
+   British English IPA .... /dɪˈpend/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ depend (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Depend on sb/sth — Kimdənsə / nədənsə asılı olmaq
+      Usage: Sözönü həmişə "on"dur
+   2. Depend on the season — Fəsildən asılı olmaq
+      Usage: season = fəsil; mövsüm
+   3. Depend on the schedule — Cədvəldən asılı olmaq
+      Usage: schedule /ˈʃedjuːl/ = cədvəl, qrafik (Amerikada /ˈskedʒuːl/)
+   4. Depend on the quantity — Miqdardan asılı olmaq
+      Usage: quantity /ˈkwɒntəti/ = miqdar, say
+   5. Depend on your background — Keçmişindən (təhsil və ailə mühitindən) asılı olmaq
+      Usage: background = keçmiş, mənşə; arxa plan
+   6. Mostly depend on sth — Əsasən nədənsə asılı olmaq
+      Usage: mostly = əsasən, başlıca olaraq
+   7. Depend on credit — Kreditdən asılı olmaq
+      Usage: credit = kredit, borc; a credit card = kredit kartı
+
+D. NATURAL EXAMPLE SENTENCES
+   1. It depends on the weather.
+      → Bu, havadan asılıdır.
+   2. Are you coming with us? — It depends.
+      → Bizimlə gəlirsən? — Baxır (vəziyyətdən asılıdır).
+   3. The price depends on the season and the quantity.
+      → Qiymət mövsümdən və miqdardan asılıdır.
+
+E. USAGE EXPLANATION
+   DEPEND həmişə ON ilə işlənir ("depend from" və ya "depend of" səhvdir – Azərbaycan dilindəki
+   "-dan asılı" sizi çaşdırmasın). Davamedici zamanda işlənmir: "It depends" ("It is depending"
+   yox). Qısa cavab "It depends" = "Baxır, vəziyyətdən asılıdır".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): DEPEND [main], season, schedule, quantity,
+      background, mostly, credit
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,020 → 1,027 items).
+
+====================================================================================================
+LESSON A2-053   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: REPLACE
+Azerbaijani: Əvəz etmək, dəyişmək
+
+A. MAIN WORD
+   English spelling ....... replace
+   Azerbaijani meaning .... əvəz etmək, dəyişmək
+   Part of speech ......... verb
+   Key forms .............. replace – replaces – replaced – replaced – replacing
+   British English IPA .... /rɪˈpleɪs/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ replace (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Replace the engine — Mühərriki dəyişmək
+      Usage: engine /ˈendʒɪn/ = mühərrik, motor
+   2. Replace a button — Düyməni dəyişmək
+      Usage: button = düymə
+   3. Replace the printer — Printeri dəyişmək
+      Usage: printer = printer, çap qurğusu
+   4. Replace the soap — Sabunu təzələmək
+      Usage: soap /səʊp/ = sabun
+   5. Replace a sock — Corabı (başqası ilə) dəyişmək
+      Usage: sock = corab
+   6. Replace sth with sth — Nəyisə nə iləsə əvəz etmək
+      Usage: Sözönü "with"dir
+   7. Replace sb — Kimisə əvəz etmək, yerinə keçmək
+      Usage: Who will replace the manager?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The engine is very old; we need to replace it.
+      → Mühərrik çox köhnədir; onu dəyişməliyik.
+   2. We replaced the old printer with a new one.
+      → Biz köhnə printeri yenisi ilə əvəz etdik.
+   3. Nobody can replace a mother.
+      → Heç kim ananı əvəz edə bilməz.
+
+E. USAGE EXPLANATION
+   REPLACE "re-" (yenidən) + "place" (yer) hissələrindən ibarətdir: köhnənin yerinə yenisini qoymaq.
+   Qəlib: replace A WITH B – A-nı B ilə əvəz etmək. CHANGE daha ümumidir (dəyişmək), REPLACE isə
+   məhz yenisi ilə əvəzləməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): REPLACE [main], engine, button, printer, soap, sock
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,027 → 1,033 items).
+
+====================================================================================================
+LESSON A2-054   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: CONNECT
+Azerbaijani: Birləşdirmək, qoşmaq; əlaqələndirmək
+
+A. MAIN WORD
+   English spelling ....... connect
+   Azerbaijani meaning .... birləşdirmək, qoşmaq; əlaqələndirmək
+   Part of speech ......... verb
+   Key forms .............. connect – connects – connected – connected – connecting
+   British English IPA .... /kəˈnekt/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ connect (main word)
+   Adjective forms ... connected — bağlı, əlaqəli, həmçinin qoşulmuş
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Connect a tablet — Planşeti qoşmaq
+      Usage: tablet = planşet; həmçinin: həb
+   2. Connect to the web — İnternetə qoşulmaq
+      Usage: web = internet şəbəkəsi (the web); hörümçək toru
+   3. Connect the audio — Səs sistemini qoşmaq
+      Usage: audio /ˈɔːdiəʊ/ = səs, audio
+   4. Connect the two sides — İki tərəfi birləşdirmək
+      Usage: side = tərəf, yan
+   5. Connect sth by railroad — Nəyisə dəmir yolu ilə birləşdirmək
+      Usage: railroad = dəmir yolu (Amerika ingiliscəsində; Britaniyada: railway)
+   6. Be connected to sth — Nəyəsə qoşulmuş (bağlı) olmaq
+      Usage: The printer is connected to the computer
+   7. Connect with sb — Kiminləsə əlaqə (ünsiyyət) qurmaq
+      Usage: connect with people online
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I can't connect to the web from my room.
+      → Mən otağımdan internetə qoşula bilmirəm.
+   2. A bridge connects the two sides of the river.
+      → Körpü çayın iki sahilini birləşdirir.
+   3. Is the tablet connected to the printer?
+      → Planşet printerə qoşulub?
+
+E. USAGE EXPLANATION
+   CONNECT düzgün feldir. Sözönülər: connect A TO / WITH B. Texnikada "qoşmaq, qoşulmaq" (connect to
+   the internet), ümumi dildə "əlaqələndirmək" deməkdir. İsmi "connection" – əlaqə, bağlantı. Əksi:
+   disconnect.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): CONNECT [main], connected [family], tablet, web,
+      audio, side, railroad
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,033 → 1,040 items).
+
+====================================================================================================
+LESSON A2-055   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: EXPECT
+Azerbaijani: Gözləmək (baş verəcəyini güman etmək), ummaq
+
+A. MAIN WORD
+   English spelling ....... expect
+   Azerbaijani meaning .... gözləmək (baş verəcəyini güman etmək), ummaq
+   Part of speech ......... verb
+   Key forms .............. expect – expects – expected – expected – expecting
+   British English IPA .... /ɪkˈspekt/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ expect (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Expect passengers — Sərnişinləri gözləmək
+      Usage: passenger /ˈpæsɪndʒə/ = sərnişin
+   2. Expect an invitation — Dəvət gözləmək
+      Usage: invitation = dəvət, dəvətnamə
+   3. Expect the usual — Həmişəkini gözləmək
+      Usage: usual /ˈjuːʒuəl/ = adi, həmişəki; as usual = həmişəki kimi
+   4. Definitely expect sth — Nəyisə mütləq gözləmək
+      Usage: definitely = mütləq, şübhəsiz
+   5. Likely to do sth — Çox güman ki, nəyisə edəcək  [related]
+      Usage: likely = ehtimal olunan: It is likely to rain
+   6. Expect sb to do sth — Kiminsə nəyisə edəcəyini gözləmək (ummaq)
+      Usage: expect + şəxs + to + fel
+   7. As expected — Gözlənildiyi kimi
+      Usage: As expected, he was late
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We expect about fifty passengers on this flight.
+      → Bu uçuşda təxminən əlli sərnişin gözləyirik.
+   2. I didn't expect to see you here.
+      → Mən səni burada görəcəyimi gözləmirdim.
+   3. It is likely to rain this evening.
+      → Çox güman ki, bu axşam yağış yağacaq.
+
+E. USAGE EXPLANATION
+   EXPECT və WAIT hər ikisi "gözləmək" kimi tərcümə olunur, lakin fərqlidir: WAIT – vaxt keçirərək
+   gözləmək (wait for the bus); EXPECT – bir şeyin baş verəcəyinə inanmaq (expect rain). "She is
+   expecting a baby" = O, hamilədir. LIKELY sifətdir: be likely to + fel.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): EXPECT [main], passenger, invitation, usual,
+      definitely, likely
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,040 → 1,046 items).
+
+====================================================================================================
+LESSON A2-056   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: FAIL
+Azerbaijani: Uğursuz olmaq; (imtahandan) kəsilmək; bacarmamaq
+
+A. MAIN WORD
+   English spelling ....... fail
+   Azerbaijani meaning .... uğursuz olmaq; (imtahandan) kəsilmək; bacarmamaq
+   Part of speech ......... verb
+   Key forms .............. fail – fails – failed – failed – failing
+   British English IPA .... /feɪl/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ failure — uğursuzluq, iflas
+   Verb forms ........ fail (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Fail biology — Biologiyadan kəsilmək
+      Usage: biology /baɪˈɒlədʒi/ = biologiya
+   2. Fail mathematics — Riyaziyyatdan kəsilmək
+      Usage: mathematics = riyaziyyat (rəsmi tam forma)
+   3. Fail maths — Riyaziyyatdan kəsilmək
+      Usage: maths = riyaziyyat (Britaniya qısa forması; Amerikada: math)
+   4. Fail badly — Pis nəticə ilə uğursuz olmaq
+      Usage: badly = pis; çox, bərk
+   5. Fail at driving — Maşın sürməkdə uğursuz olmaq
+      Usage: driving = maşın sürmə, sürücülük: a driving test
+   6. Fail to do sth — Nəyisə edə bilməmək, etməmək
+      Usage: He failed to arrive on time
+   7. A failure — Uğursuzluq; uğursuz adam və ya iş
+      Usage: The plan was a failure
+
+D. NATURAL EXAMPLE SENTENCES
+   1. He failed his driving test twice.
+      → O, sürücülük imtahanından iki dəfə kəsildi.
+   2. I am afraid I will fail maths this year.
+      → Qorxuram ki, bu il riyaziyyatdan kəsiləcəyəm.
+   3. She failed to arrive on time.
+      → O, vaxtında gələ bilmədi.
+
+E. USAGE EXPLANATION
+   FAIL-in əksi PASS (imtahan üçün) və SUCCEED-dir (ümumi uğur üçün). Sözönüsüz işlənir: fail an
+   exam, fail biology. "Fail to + fel" rəsmi üslubda "etməmək, edə bilməmək" deməkdir. İsmi FAILURE
+   /ˈfeɪljə/. MATHS Britaniya, MATH Amerika qısaltmasıdır; tam forma MATHEMATICS-dir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): FAIL [main], failure [family], biology,
+      mathematics, maths, badly, driving
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,046 → 1,053 items).
+
+====================================================================================================
+LESSON A2-057   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: ADVERTISE
+Azerbaijani: Reklam etmək; elan vermək
+
+A. MAIN WORD
+   English spelling ....... advertise
+   Azerbaijani meaning .... reklam etmək; elan vermək
+   Part of speech ......... verb
+   Key forms .............. advertise – advertises – advertised – advertised – advertising
+   British English IPA .... /ˈædvətaɪz/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ advertise (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Advertise sneakers — İdman ayaqqabılarını reklam etmək
+      Usage: sneaker = idman ayaqqabısı, krossovka (Amerika ingiliscəsində; Britaniyada: trainer)
+   2. Advertise candy — Şirniyyat (konfet) reklam etmək
+      Usage: candy = konfet, şirniyyat (Amerika ingiliscəsində; Britaniyada: sweets)
+   3. Advertise clothing — Geyim reklam etmək
+      Usage: clothing /ˈkləʊðɪŋ/ = geyim (rəsmi, ümumi anlayış)
+   4. Advertise a suit — Kostyum reklam etmək
+      Usage: suit /suːt/ = kostyum
+   5. Advertise an airline — Aviaşirkəti reklam etmək
+      Usage: airline = aviaşirkət
+   6. Produce and advertise sth — Nəyisə istehsal və reklam etmək
+      Usage: produce /prəˈdjuːs/ = istehsal etmək
+   7. Advertise for sb — Kimisə (işçi) axtarmaq üçün elan vermək
+      Usage: advertise for a driver
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The company advertises its sneakers on television.
+      → Şirkət idman ayaqqabılarını televiziyada reklam edir.
+   2. They produce clothing and advertise it online.
+      → Onlar geyim istehsal edir və onu internetdə reklam edirlər.
+   3. We are advertising for a new secretary.
+      → Biz yeni katibə axtarmaq üçün elan vermişik.
+
+E. USAGE EXPLANATION
+   ADVERTISE feldir; isimləri: ADVERTISEMENT (bir reklam və ya elan; qısa: advert, ad) və
+   ADVERTISING (reklam işi, sahə kimi). Vurğu: ADvertise, lakin adVERtisement. CLOTHING rəsmi və
+   ümumi sözdür (the clothing industry); gündəlik danışıqda "clothes" deyilir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): ADVERTISE [main], sneaker, candy, clothing, suit,
+      airline, produce
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,053 → 1,060 items).
+
+====================================================================================================
+LESSON A2-058   |   UNIT 9: Study, work and plans
+====================================================================================================
+MAIN WORD: ARRANGE
+Azerbaijani: Təşkil etmək, razılaşdırmaq; düzmək
+
+A. MAIN WORD
+   English spelling ....... arrange
+   Azerbaijani meaning .... təşkil etmək, razılaşdırmaq; düzmək
+   Part of speech ......... verb
+   Key forms .............. arrange – arranges – arranged – arranged – arranging
+   British English IPA .... /əˈreɪndʒ/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ arrangement — razılaşma, hazırlıq, həmçinin düzülüş
+   Verb forms ........ arrange (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Arrange transportation — Nəqliyyat təşkil etmək
+      Usage: transportation = nəqliyyat, daşıma (Amerika ingiliscəsində; Britaniyada: transport)
+   2. Arrange a soccer camp — Futbol düşərgəsi təşkil etmək
+      Usage: soccer = futbol (Amerika ingiliscəsində); camp = düşərgə
+   3. Arrange it with the secretary — Bunu katibə ilə razılaşdırmaq
+      Usage: secretary /ˈsekrətri/ = katib(ə)
+   4. An arrangement with the director — Direktorla razılaşma
+      Usage: director = direktor; rejissor
+   5. Arrange to do sth — Nəyisə etməyi razılaşdırmaq (planlaşdırmaq)
+      Usage: We arranged to meet at six
+   6. Arrange for sb to do sth — Kiminsə nəyisə etməsini təşkil etmək
+      Usage: I arranged for a taxi to collect you
+   7. By arrangement — Əvvəlcədən razılaşma ilə
+      Usage: Visits are by arrangement only
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We arranged to meet at the station at six.
+      → Biz saat altıda stansiyada görüşməyi razılaşdırdıq.
+   2. The school arranged transportation for all the children.
+      → Məktəb bütün uşaqlar üçün nəqliyyat təşkil etdi.
+   3. I have an arrangement with the director.
+      → Mənim direktorla razılaşmam var.
+
+E. USAGE EXPLANATION
+   ARRANGE-in iki mənası var: 1) əvvəlcədən planlaşdırmaq, təşkil etmək (arrange a meeting); 2)
+   müəyyən qaydada düzmək (arrange the books). İsmi ARRANGEMENT; cəmdə "hazırlıq işləri" deməkdir:
+   travel arrangements. SOCCER Amerikada "futbol"dur; Britaniyada "football" deyilir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): ARRANGE [main], arrangement [family],
+      transportation, soccer, camp, secretary, director
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,060 → 1,067 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 9 (Study, work and plans)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: ATTEND, CONTINUE, DEPEND, REPLACE, CONNECT, EXPECT, FAIL, ADVERTISE,
+      ARRANGE
+   New items registered in this unit: 59   |   Database total after this unit: 1,067
+   ADVERTISE, airline, ARRANGE, arrangement, ATTEND, audio, background, badly, biology, button,
+   camp, campus, candy, clothing, conference, CONNECT, connected, CONTINUE, credit, definitely,
+   DEPEND, director, driving, engine, EXPECT, experiment, FAIL, failure, hike, invitation, lab,
+   lecture, likely, mathematics, maths, mostly, normally, passenger, printer, produce, quantity,
+   railroad, reception, REPLACE, schedule, season, secretary, side, sneaker, soap, soccer, sock,
+   suit, tablet, tour, tradition, transportation, usual, web
+
 ====================================================================================================
 UPDATED VOCABULARY INDEX — END OF LEVEL A2
 ====================================================================================================
-   Main words covered at A2 (40):
+   Main words covered at A2 (58):
       TRAVEL (001), STAY (002), LEAVE (003), ARRIVE (004), CATCH (005), MISS (006), BRING (007),
       SEND (008), SHOW (009), TELL (010), TRY (011), CHANGE (012), MOVE (013), TURN (014), KEEP
       (015), LOSE (016), FIND (017), FALL (018), BREAK (019), GROW (020), PLAN (021), CHOOSE (022),
       PAY (023), USE (024), PUT (025), STOP (026), WIN (027), FEEL (028), THINK (029), ENJOY (030),
       HOPE (031), WORRY (032), HEALTH (033), SPORT (034), EASY (035), DIFFERENT (036), IMPORTANT
-      (037), SAFE (038), STRONG (039), INTEREST (040)
+      (037), SAFE (038), STRONG (039), INTEREST (040), ALLOW (041), APPEAR (042), BELONG (043),
+      COLLECT (044), COUNT (045), COVER (046), NOTICE (047), PASS (048), THROW (049), ATTEND (050),
+      CONTINUE (051), DEPEND (052), REPLACE (053), CONNECT (054), EXPECT (055), FAIL (056),
+      ADVERTISE (057), ARRANGE (058)
 
-   All vocabulary introduced at A2, A–Z (359 items; the number is the lesson):
-      abroad 001, accent 039, accommodation 017, advance 023, agent 001, airport 003, appointment
-      006, area 038, arrival 004, ARRIVE 004, article 040, asleep 018, attention 023, awake 002,
-      award 027, balance 016, ball 005, beard 020, beginning 006, bike 018, bone 019, boring 017,
-      brain 024, BREAK 019, BRING 007, broken 019, business 001, calm 002, camera 007, career 022,
+   All vocabulary introduced at A2, A–Z (475 items; the number is the lesson):
+      abroad 001, accent 039, accommodation 017, advance 023, ADVERTISE 057, advertisement 042,
+      agent 001, airline 057, airport 003, ALLOW 041, APPEAR 042, appearance 042, appointment 006,
+      area 038, army 043, ARRANGE 058, arrangement 058, arrival 004, ARRIVE 004, article 040, asleep
+      018, ATTEND 050, attention 023, audio 054, awake 002, award 027, background 052, badly 056,
+      balance 016, ball 005, beard 020, beginning 006, BELONG 043, bike 018, biology 056, bone 019,
+      boring 017, bowl 046, brain 024, BREAK 019, BRING 007, broken 019, business 001, button 053,
+      calm 002, camera 007, camp 058, camping 041, campus 050, candy 057, career 022, carpet 046,
       cash 023, CATCH 005, chair 013, championship 027, chance 006, CHANGE 012, channel 012,
-      character 039, check 033, choice 022, CHOOSE 022, class 006, club 034, coach 004, comfortable
-      028, comment 003, common 040, completely 012, concert 030, contest 027, control 016, corner
-      014, countryside 013, course 022, crying 026, culture 036, damage 033, dancing 030, date 012,
-      deadline 006, deeply 029, departure 004, design 022, detail 010, diary 015, dictionary 024,
-      diet 033, differ 036, difference 036, DIFFERENT 036, differently 036, difficult 017, discovery
-      037, distance 038, document 008, dream 031, ease 035, easily 035, EASY 035, ENJOY 030,
-      enjoyable 030, enjoyment 030, entrance 017, equally 037, equipment 034, especially 037, Europe
-      001, event 021, exercise 035, exit 017, extra 023, extreme 034, fact 040, fairly 035, FALL
-      018, false 031, fan 034, far 035, fashion 009, fast 020, fee 023, FEEL 028, feeling 028, ferry
-      006, file 008, final 027, FIND 017, finding 017, fine 023, fire 005, fit 015, flight 005, flu
-      005, follow 035, food 011, fresh 015, fridge 025, full 026, funny 017, furniture 013, future
-      021, gift 007, grass 015, ground 018, GROW 020, grown-up 020, growth 020, guest 037, guide
-      001, hall 004, harm 038, HEALTH 033, healthy 033, hear 031, heavy 016, helmet 038, hobby 040,
-      HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004, hungry 028, hurry 003, ill
-      018, importance 037, IMPORTANT 037, importantly 037, indoors 002, instruction 038, insurance
-      033, INTEREST 040, interested 040, interesting 040, internet 024, joke 010, journey 021, KEEP
-      015, keeper 015, kettle 025, kid 032, kind 036, knife 024, know 040, laptop 007, laugh 026,
-      law 019, leader 039, LEAVE 003, left 014, level 036, lie 010, lifestyle 033, light 001, link
-      008, local 011, lonely 028, LOSE 016, loser 016, loss 016, lost 016, lottery 027, love 018,
-      luggage 003, main 032, meaning 036, medal 027, media 024, memory 016, mental 033, midnight
-      004, minute 004, MISS 006, missing 006, mouse 005, MOVE 013, movement 013, moving 013, muscle
-      039, nature 030, nervous 028, non-stop 026, only 031, option 022, overnight 002, package 008,
-      page 014, paid 023, parcel 008, Paris 004, partner 017, passport 007, password 012, PAY 023,
-      payment 023, peace 003, perfectly 038, person 006, pet 015, petrol 026, physical 033, picnic
-      021, place 012, PLAN 021, plane 001, planner 021, planning 021, plant 020, plate 019, point
-      037, police 010, positive 029, post 008, potato 020, pretty 035, prize 027, promise 015,
-      property 016, public 024, PUT 025, quiz 009, race 027, reach 035, really 030, reason 010,
-      recipe 011, record 019, relative 002, relax 011, remember 011, reminder 008, reply 008,
-      respect 009, rest 026, right 014, role 037, rule 019, SAFE 038, safely 038, safety 038, secret
-      010, SEND 008, sender 008, service 033, shape 036, share 040, shelf 025, short 002, shouting
-      026, SHOW 009, sick 028, singing 030, size 020, slightly 032, smell 039, smoking 026, snack
-      007, social 024, soon 004, sorry 028, sound 038, special 040, SPORT 034, sporty 034, stadium
-      034, STAY 002, step 037, still 031, STOP 026, strength 039, strengthen 039, STRONG 039,
-      strongly 039, study 021, subject 012, sunshine 030, table 003, talent 009, talk 026, tall 020,
-      target 006, task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly 032,
-      test 035, thief 005, thing 037, THINK 029, thinker 029, thirsty 028, thought 029, thoughtful
-      029, tidy 015, tip 003, tomato 020, tool 024, topic 022, totally 036, touch 002, towel 007,
-      transport 024, TRAVEL 001, traveller 001, trip 021, truth 010, TRY 011, TURN 014, turning 014,
-      twice 029, type 036, tyre 012, understand 011, unhealthy 033, unimportant 037, university 022,
-      unsafe 038, USE 024, useful 024, useless 024, user 024, view 030, voice 016, volume 014,
-      wallet 016, weakness 039, wedding 021, week 002, weight 016, WIN 027, winner 027, winter 034,
-      world 001, worried 032, WORRY 032, worrying 032
+      character 039, check 033, choice 022, CHOOSE 022, church 043, cigarette 041, class 006,
+      clothing 057, club 034, coach 004, COLLECT 044, collection 044, column 045, comfortable 028,
+      comment 003, common 040, completely 012, concert 030, conference 050, CONNECT 054, connected
+      054, contest 027, CONTINUE 051, control 016, corner 014, COUNT 045, countryside 013, course
+      022, COVER 046, credit 052, cry 026, culture 036, damage 033, dancing 030, date 012, deadline
+      006, deeply 029, definitely 055, departure 004, DEPEND 052, design 022, detail 010, diary 015,
+      dictionary 024, diet 033, differ 036, difference 036, DIFFERENT 036, differently 036,
+      difficult 017, director 058, discovery 037, distance 038, document 008, dream 031, driving
+      056, ease 035, easily 035, EASY 035, engine 053, ENJOY 030, enjoyable 030, enjoyment 030,
+      entrance 017, equally 037, equipment 034, especially 037, Europe 001, event 021, exact 047,
+      exercise 035, exit 017, EXPECT 055, experiment 051, extra 023, extreme 034, fact 040, FAIL
+      056, failure 056, fairly 035, FALL 018, false 031, fan 034, far 035, fashion 009, fast 020,
+      fee 023, FEEL 028, feeling 028, ferry 006, file 008, final 027, finally 047, FIND 017, finding
+      017, fine 023, fire 005, fishing 041, fit 015, flight 005, flu 005, follow 035, food 011, fork
+      048, fresh 015, fridge 025, full 026, funny 017, furniture 013, future 021, garbage 049, gift
+      007, grass 015, ground 018, GROW 020, grown-up 020, growth 020, guest 037, guide 001, gun 041,
+      hall 004, harm 038, HEALTH 033, healthy 033, hear 031, heavy 016, height 047, helmet 038, hike
+      051, hobby 040, hole 046, HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004,
+      hungry 028, hurry 003, ill 018, immediately 047, importance 037, IMPORTANT 037, importantly
+      037, indoors 002, insect 044, instruction 038, insurance 033, INTEREST 040, interested 040,
+      interesting 040, internet 024, invitation 055, jam 048, joke 010, journey 021, KEEP 015,
+      keeper 015, kettle 025, kid 032, kind 036, king 043, knee 046, knife 024, know 040, lab 050,
+      lake 049, laptop 007, laugh 026, law 019, leader 039, LEAVE 003, lecture 050, left 014, lemon
+      048, level 036, lie 010, lifestyle 033, light 001, likely 055, link 008, local 011, lonely
+      028, LOSE 016, loser 016, loss 016, lost 016, lottery 027, love 018, luggage 003, mail 044,
+      main 032, mathematics 056, maths 056, meaning 036, medal 027, media 024, memory 016, mental
+      033, midnight 004, minute 004, mirror 046, MISS 006, missing 006, mostly 052, mouse 005, MOVE
+      013, movement 013, moving 013, muscle 039, nature 030, nervous 028, non-stop 026, normally
+      051, NOTICE 047, only 031, option 022, overnight 002, owner 043, package 008, page 014, paid
+      023, parcel 008, Paris 004, parking 041, partner 017, PASS 048, passenger 055, passport 007,
+      password 012, PAY 023, payment 023, peace 003, penny 045, perfectly 038, person 006, pet 015,
+      petrol 026, physical 033, picnic 021, place 012, PLAN 021, plane 001, planner 021, planning
+      021, plant 020, plate 019, point 037, police 010, positive 029, post 008, poster 042, potato
+      020, pretty 035, printer 053, prize 027, produce 057, promise 015, property 016, public 024,
+      PUT 025, quantity 052, queen 043, quiz 009, race 027, railroad 054, reach 035, really 030,
+      reason 010, reception 050, recipe 011, record 019, relative 002, relax 011, remember 011,
+      reminder 008, REPLACE 053, reply 008, respect 009, rest 026, right 014, rock 049, role 037,
+      rule 019, SAFE 038, safely 038, safety 038, sauce 048, schedule 052, season 052, secret 010,
+      secretary 058, SEND 008, sender 008, service 033, shape 036, share 040, sheet 045, shelf 025,
+      short 002, shout 026, SHOW 009, sick 028, side 054, singing 030, size 020, sky 042, slightly
+      032, smell 039, smoke 047, smoking 026, snack 007, sneaker 057, soap 053, soccer 058, social
+      024, sock 053, soon 004, sorry 028, sound 038, special 040, spoon 048, SPORT 034, sporty 034,
+      stadium 034, stamp 044, STAY 002, step 037, still 031, stone 044, STOP 026, straight 049,
+      strength 039, strengthen 039, STRONG 039, strongly 039, study 021, subject 012, suddenly 042,
+      suit 057, sunshine 030, table 003, tablet 054, talent 009, talk 026, tall 020, target 006,
+      task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly 032, test 035,
+      thief 005, thin 045, thing 037, THINK 029, thinker 029, thinking 029, thirsty 028, thought
+      029, thoughtful 029, THROW 049, tidy 015, tip 003, tomato 020, tool 024, topic 022, totally
+      036, touch 002, tour 051, towel 007, tradition 051, transport 024, transportation 058, TRAVEL
+      001, traveller 001, trip 021, truth 010, TRY 011, TURN 014, turning 014, twice 029, type 036,
+      tyre 012, understand 011, unhealthy 033, unimportant 037, unit 045, united 043, university
+      022, unsafe 038, unusual 044, USE 024, useful 024, useless 024, user 024, usual 055, view 030,
+      voice 016, volume 014, wallet 016, weakness 039, web 054, wedding 021, week 002, weight 016,
+      wild 049, WIN 027, winner 027, winter 034, world 001, worried 032, WORRY 032, worrying 032
 
-   Cumulative database size after A2: 946 individual vocabulary items (+ 274 structural words).
+   Cumulative database size after A2: 1,067 individual vocabulary items (+ 285 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL A2

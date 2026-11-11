@@ -202,6 +202,9 @@ tonight = bu axşam, bu gecə
 later = sonra, bir az sonra: See you later – Sonra görüşərik
 ago = əvvəl (keçmiş zamanla): two years ago – iki il əvvəl
 o'clock = saat (yalnız tam saatlarda): seven o'clock – saat yeddi
+already = artıq (gözləniləndən tez): I have already eaten – Mən artıq yemişəm
+yet = hələ (inkarda), artıq (sualda): not yet – hələ yox
+anymore = daha, artıq (inkarda): I don't live there anymore – Mən daha orada yaşamıram
 # STRUCTURAL | Linking and focusing adverbs | Bağlayıcı və vurğu zərfləri
 also = həmçinin, də / da
 even = hətta: even now – hətta indi də
@@ -210,6 +213,12 @@ quite = xeyli, kifayət qədər; tamamilə: quite a lot – xeyli çox
 maybe = bəlkə
 probably = yəqin ki, çox güman ki
 however = lakin, bununla belə (iki cümləni bağlayır)
+almost = demək olar ki, az qala: almost always – demək olar ki, həmişə
+nearly = təxminən, az qala: nearly ready – az qala hazır
+perhaps = bəlkə, ola bilsin ("maybe" sözünün bir qədər rəsmi variantı)
+rather = xeyli, kifayət qədər; daha doğrusu: rather cold – xeyli soyuq; rather than – ...-dan daha çox
+anyway = hər halda, onsuz da; nə isə (mövzunu dəyişəndə)
+actually = əslində, həqiqətən ("hazırda" demək deyil)
 # STRUCTURAL | Greetings and short answers | Salamlaşma və qısa cavablar
 hello = salam
 hi = salam (qeyri-rəsmi)
@@ -220,6 +229,8 @@ yes = bəli, hə
 yeah = hə (danışıq dilində "yes")
 OK = yaxşı, oldu; qaydasındadır
 oh = ah, oy (təəccüb, sevinc və ya təəssüf bildirir)
+ah = ah, aha (anlama, məmnunluq və ya təəccüb bildirir)
+wow = vay, paho (heyranlıq və təəccüb bildirir)
 please = zəhmət olmasa, xahiş edirəm
 # STRUCTURAL | Dictionary abbreviations used in this course | Bu kursda işlənən lüğət qısaltmaları
 sb = somebody – kimsə (ifadədə şəxsin yerini göstərir)

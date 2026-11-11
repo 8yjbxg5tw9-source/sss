@@ -30,6 +30,7 @@ forms: ride – rides – rode – ridden – riding
 
 @ FLY | verb | flaɪ | uçmaq; təyyarə ilə getmək
 forms: fly – flies – flew – flown – flying
+n: flying = uçuş, təyyarə ilə səyahət
 ~ in the north = şimalda :: north = şimal; the north of the country = ölkənin şimalı
 - fly south = cənuba uçmaq :: south /saʊθ/ = cənub; istiqamət zərfi kimi sözönüsüz işlənir
 - fly east = şərqə uçmaq :: east = şərq
@@ -46,7 +47,7 @@ forms: fly – flies – flew – flown – flying
 
 @ FARM | noun | fɑːm | ferma, təsərrüfat
 forms: farm – farms
-n: farmer = fermer
+n: farmer = fermer; farming = əkinçilik, fermer təsərrüfatı işi
 - a sheep farm = qoyunçuluq ferması :: sheep = qoyun; cəmi də "sheep"dir: one sheep, ten sheep
 - a pig farmer = donuzçuluqla məşğul olan fermer :: pig = donuz
 - cows on a farm = fermadakı inəklər :: cow /kaʊ/ = inək

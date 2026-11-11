@@ -57,7 +57,7 @@ adv: meticulously = son dərəcə dəqiqliklə
 - a meticulous reconstruction = dəqiq bərpa (yenidənqurma) :: reconstruction = building or forming something again
 - meticulous observation = diqqətli müşahidə :: observation = the act of watching carefully
 - meticulous bookkeeping = dəqiq mühasibat uçotu :: bookkeeping = keeping a record of the money a business spends and receives
-- meticulously arranged = səliqə ilə düzülmüş :: arrange = put in a particular order
+- meticulously groomed = son dərəcə səliqəli, baxımlı :: groom = make yourself or an animal clean and neat
 - meticulously rehearsed = diqqətlə məşq edilmiş :: rehearse = practise a play or speech before performing it
 > She is meticulous about her appearance. = O, xarici görünüşünə son dərəcə diqqətlidir.
 > The trip was planned with meticulous precision. = Səfər zərgər dəqiqliyi ilə planlaşdırılmışdı.

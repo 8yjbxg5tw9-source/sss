@@ -1,0 +1,129 @@
+// A2 expansion (Oxford 3000 list): every lesson teaches six or seven A2 words of the list.
+## Everyday actions | Gündəlik hərəkətlər
+@ ALLOW | verb | əˈlaʊ | icazə vermək, yol vermək
+forms: allow – allows – allowed – allowed – allowing
+- allow parking = maşın saxlamağa icazə vermək :: parking = dayanacaq; maşını park etmə
+- allow camping = çadır qurub qalmağa icazə vermək :: camping = çadırda istirahət, kempinq
+- allow fishing = balıq tutmağa icazə vermək :: fishing = balıq ovu; go fishing = balıq tutmağa getmək
+- allow cigarettes = siqaretə icazə vermək :: cigarette /ˌsɪɡəˈret/ = siqaret
+- allow guns = odlu silaha icazə vermək :: gun = tapança, tüfəng, odlu silah
+- allow sb to do sth = kiməsə nəyisə etməyə icazə vermək :: allow + şəxs + to + fel
+- be allowed to do sth = nəyisə etməyə icazəsi olmaq :: Məchul forma çox işlənir: You are not allowed to smoke here
+> My parents don't allow me to go out late. = Valideynlərim mənə gec bayıra çıxmağa icazə vermirlər.
+> Parking is not allowed in front of the hospital. = Xəstəxananın qabağında maşın saxlamağa icazə verilmir.
+> The park allows camping and fishing in summer. = Park yayda çadır qurmağa və balıq tutmağa icazə verir.
+! ALLOW düzgün feldir; /əˈlaʊ/ kimi tələffüz olunur. Qəlib: allow + şəxs + TO + fel. LET eyni mənadadır, lakin "to"suz işlənir və daha danışıq üslubundadır: "Let me go" = "Allow me to go". Qadağaları bildirmək üçün məchul forma işlənir: "Smoking is not allowed" = Siqaret çəkmək qadağandır.
+
+@ APPEAR | verb | əˈpɪə | görünmək, peyda olmaq; ... kimi görünmək
+forms: appear – appears – appeared – appeared – appearing
+n: appearance = görünüş, zahiri görkəm, həmçinin peyda olma
+- appear suddenly = qəflətən peyda olmaq :: suddenly = qəflətən, birdən
+- appear in the sky = səmada görünmək :: sky = səma, göy üzü
+- appear on a poster = afişada (posterdə) görünmək :: poster /ˈpəʊstə/ = afişa, plakat
+- appear in an advertisement = reklamda çəkilmək (görünmək) :: advertisement = reklam, elan (qısa: ad)
+- a first appearance = ilk çıxış, ilk dəfə görünmə :: make your first appearance = ilk dəfə səhnəyə çıxmaq
+- appear to be = ... kimi görünmək :: appear + to be + sifət: She appears to be happy
+- appear from nowhere = heç yerdən (gözlənilmədən) peyda olmaq :: nowhere = heç yer
+> A man suddenly appeared at the door. = Qapıda qəflətən bir kişi peyda oldu.
+> Her face appears on posters all over the city. = Onun üzü şəhərin hər yerində afişalarda görünür.
+> He appears to be tired today. = O, bu gün yorğun görünür.
+! APPEAR-in iki mənası var: 1) gözə görünmək, peyda olmaq (əksi: disappear); 2) "... kimi görünmək" – bu mənada SEEM ilə sinonimdir, lakin daha rəsmidir. İsmi APPEARANCE-dır: insanın zahiri görkəmi (her appearance) və ya səhnəyə, ekrana çıxması. Diqqət: APPEAR davamedici zamanda adətən işlənmir.
+
+@ BELONG | verb | bɪˈlɒŋ | məxsus olmaq, aid olmaq
+forms: belong – belongs – belonged – belonged – belonging
+- belong to sb = kiməsə məxsus olmaq :: Sözönü "to"dur: This bag belongs to me
+- belong to the king = krala məxsus olmaq :: king = kral, padşah
+- belong to the queen = kraliçaya məxsus olmaq :: queen = kraliça
+- belong to the owner = sahibinə məxsus olmaq :: owner /ˈəʊnə/ = sahib, mülkiyyətçi
+- belong to a united army = birləşmiş orduya mənsub olmaq :: united = birləşmiş; army = ordu
+- belong to the church = kilsəyə məxsus olmaq :: church = kilsə
+- belong together = bir-birinə aid olmaq, bir yerdə olmalı olmaq :: These two socks belong together
+> Who does this car belong to? = Bu maşın kimə məxsusdur?
+> The palace belonged to the king and queen. = Saray kral və kraliçaya məxsus idi.
+> This land belongs to the church. = Bu torpaq kilsəyə məxsusdur.
+! BELONG yalnız "to" ilə işlənir və davamedici zamanda işlənmir: "It belongs to me" ("It is belonging" səhvdir). Sahiblik sualı: "Who does it belong to?" və ya "Whose is it?". "Belong to a club" bir qrupun üzvü olmaq deməkdir. Sahibi bildirən isim OWNER-dir: the owner of the house.
+
+@ COLLECT | verb | kəˈlekt | toplamaq, yığmaq; gedib götürmək
+forms: collect – collects – collected – collected – collecting
+n: collection = kolleksiya, toplu
+- collect stamps = marka toplamaq :: stamp = poçt markası; möhür
+- collect stones = daş toplamaq :: stone = daş
+- collect insects = həşərat toplamaq :: insect = həşərat, cücü
+- collect the mail = poçtu (məktubları) götürmək :: mail = poçt, məktublar (Amerika ingiliscəsində; Britaniyada: post)
+- collect anything unusual = qeyri-adi olan hər şeyi toplamaq :: unusual /ʌnˈjuːʒuəl/ = qeyri-adi; əksi: usual
+- collect sth from sb = nəyisə kimdənsə götürmək, yığmaq :: collect money from parents
+- a collection of sth = nəyinsə kolleksiyası :: a collection of stamps
+> My grandfather collects old stamps. = Babam köhnə markalar toplayır.
+> I collect the mail every morning. = Mən hər səhər poçtu götürürəm.
+> She has a large collection of stones from different countries. = Onun müxtəlif ölkələrdən böyük daş kolleksiyası var.
+! COLLECT düzgün feldir. İki əsas mənası: 1) hobbi kimi toplamaq (collect stamps, collect coins); 2) gedib götürmək (collect the children from school – Britaniya ingiliscəsində; Amerikada "pick up"). İsmi COLLECTION, toplayan şəxs isə "collector"dur.
+
+@ COUNT | verb | kaʊnt | saymaq; əhəmiyyəti olmaq
+forms: count – counts – counted – counted – counting
+- count to ten = ona qədər saymaq :: count from one to ten
+- count on sb = kiməsə güvənmək, arxalanmaq :: Frazeoloji fel: You can count on me
+- count the pennies = qəpikləri saymaq; pulu ehtiyatla xərcləmək :: penny = pens (funtun yüzdə biri); cəmi: pennies, pence
+- count the thin sheets = nazik vərəqləri saymaq :: thin = nazik; arıq; sheet = vərəq; mələfə
+- count the units = vahidləri saymaq :: unit /ˈjuːnɪt/ = vahid; bölmə
+- count the columns = sütunları saymaq :: column /ˈkɒləm/ = sütun ("n" oxunmur)
+- count sth up = hamısını sayıb cəmləmək :: Frazeoloji fel
+> The little boy can count to ten in English. = Balaca oğlan ingiliscə ona qədər saya bilir.
+> You can always count on me. = Sən həmişə mənə güvənə bilərsən.
+> Count the sheets and give one to every student. = Vərəqləri say və hər şagirdə birini ver.
+! COUNT düzgün feldir. Əsas mənası "saymaq"dır; "count on" isə "güvənmək" deməkdir. Başqa bir məna: "əhəmiyyəti olmaq" – "Every vote counts" = Hər səs vacibdir. İsimlər "countable" (sayılan) və "uncountable" (sayılmayan) olur – bu terminlər də COUNT sözündəndir.
+
+@ COVER | verb, noun | ˈkʌvə | örtmək, üstünü bağlamaq; əhatə etmək; örtük
+forms: cover – covers – covered – covered – covering
+- cover the bowl = kasanın üstünü örtmək :: bowl /bəʊl/ = kasa, dərin qab
+- cover a hole = deşiyi (çuxuru) örtmək :: hole = deşik, çuxur
+- cover your knees = dizlərini örtmək :: knee /niː/ = diz ("k" oxunmur)
+- cover the mirror = güzgünü örtmək :: mirror = güzgü
+- cover the carpet = xalçanın üstünü örtmək :: carpet = xalça
+- cover sth with sth = nəyisə nə iləsə örtmək :: cover the table with a cloth
+- be covered in sth = nə iləsə örtülü olmaq :: The hills are covered in snow
+> Cover the bowl and put it in the fridge. = Kasanın üstünü ört və soyuducuya qoy.
+> The mountains were covered in snow. = Dağlar qarla örtülmüşdü.
+> She covered her knees with a blanket. = O, dizlərini adyalla örtdü.
+! COVER düzgün feldir: örtmək, üstünü bağlamaq. Sözönülər: cover sth WITH sth (hərəkət), be covered IN / WITH sth (vəziyyət). Başqa mənası: mövzunu əhatə etmək – "The book covers grammar". İsim kimi: a book cover = kitabın üz qabığı.
+
+@ NOTICE | verb, noun | ˈnəʊtɪs | görmək, fərqinə varmaq; elan, bildiriş
+forms: notice – notices – noticed – noticed – noticing
+- notice the smoke = tüstünü görmək (hiss etmək) :: smoke = tüstü; fel kimi: siqaret çəkmək
+- notice sth at once = nəyisə dərhal görmək :: at once = dərhal
+- notice the exact height = dəqiq hündürlüyə fikir vermək :: exact /ɪɡˈzækt/ = dəqiq; height /haɪt/ = hündürlük, boy
+- notice immediately = dərhal fərqinə varmaq :: immediately /ɪˈmiːdiətli/ = dərhal, ləngimədən
+- finally notice = nəhayət ki, görmək :: finally = nəhayət, axırda
+- notice sb doing sth = kiminsə nəsə etdiyini görmək :: I noticed him leaving
+- without notice = xəbərdarlıq etmədən :: Burada "notice" isimdir
+> Did you notice her new haircut? = Onun yeni saç düzümünü gördün?
+> I noticed the smoke immediately and called for help. = Mən tüstünü dərhal gördüm və köməyə çağırdım.
+> Nobody noticed that he was absent. = Onun olmadığının heç kim fərqinə varmadı.
+! NOTICE "gözünə dəymək, fərqinə varmaq" deməkdir – SEE felindən fərqli olaraq diqqəti cəlb edən bir şeyi anlamaqdır. İsim kimi "elan, bildiriş" deməkdir: a notice on the wall. HEIGHT /haɪt/ "high" sifətinin ismidir. IMMEDIATELY və AT ONCE sinonimdir.
+
+@ PASS | verb | pɑːs | ötürmək, uzatmaq; keçmək; (imtahanı) vermək
+forms: pass – passes – passed – passed – passing
+- pass the sauce = sousu ötürmək (uzatmaq) :: sauce /sɔːs/ = sous
+- pass a spoon = qaşıq uzatmaq :: spoon = qaşıq
+- pass a fork = çəngəl uzatmaq :: fork = çəngəl
+- pass the jam = mürəbbəni ötürmək :: jam = mürəbbə, cem
+- pass a lemon = limon uzatmaq :: lemon = limon
+- pass sth to sb = nəyisə kiməsə ötürmək :: Süfrədə: Could you pass it to me?
+- pass by = yanından keçmək :: Frazeoloji fel: I pass by your house every day
+> Could you pass the sauce, please? = Zəhmət olmasa, sousu ötürə bilərsiniz?
+> She passed me a spoon and a fork. = O, mənə qaşıq və çəngəl uzatdı.
+> He studied hard and passed all his exams. = O, çox çalışdı və bütün imtahanlarını verdi.
+! PASS düzgün feldir və çoxmənalıdır: 1) əl ilə ötürmək (pass the salt); 2) yanından keçmək (pass the bank); 3) imtahandan keçmək (pass an exam; əksi: fail); 4) vaxtın keçməsi (Time passes quickly). Diqqət: "pass an exam" imtahanı uğurla vermək deməkdir; sadəcə imtahanda iştirak etmək "take an exam"dır.
+
+@ THROW | verb | θrəʊ | atmaq, tullamaq
+forms: throw – throws – threw – thrown – throwing
+- throw a rock = daş (qaya parçası) atmaq :: rock = qaya; iri daş; həmçinin rok musiqisi
+- throw sth into the lake = nəyisə gölə atmaq :: lake = göl
+- throw sth in the garbage = nəyisə zibilə atmaq :: garbage /ˈɡɑːbɪdʒ/ = zibil (Amerika ingiliscəsində; Britaniyada: rubbish)
+- throw sth straight = nəyisə düz atmaq :: straight /streɪt/ = düz, birbaşa
+- a wild throw = nişansız (qeyri-dəqiq) atış :: wild /waɪld/ = vəhşi; cilovsuz, nəzarətsiz
+- throw sth away = nəyisə atmaq, zibilə tullamaq :: Frazeoloji fel: Don't throw it away
+- throw sth at sb = nəyisə kiməsə tərəf (vurmaq üçün) atmaq :: "throw to" isə tutması üçün atmaqdır
+> Don't throw rocks into the lake. = Gölə daş atmayın.
+> Throw the ball to me! = Topu mənə at!
+> I threw away my old shoes. = Mən köhnə ayaqqabılarımı atdım.
+! THROW düzgün olmayan feldir: throw – threw /θruː/ – thrown. Sözönü mənanı dəyişir: throw sth TO sb – tutsun deyə atmaq; throw sth AT sb – vurmaq üçün atmaq. "Throw away" lazımsız şeyi atmaqdır. GARBAGE Amerika, RUBBISH Britaniya variantıdır.

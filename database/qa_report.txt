@@ -37,6 +37,13 @@
   near  A2-036 DIFFERENT      here A2, reference A1
   near  A2-037 IMPORTANT      here A2, reference A1
   near  A2-039 STRONG         here A2, reference A1
+  near  A2-044 COLLECT        here A2, reference A1
+  near  A2-046 COVER          here A2, reference A1
+  near  A2-049 THROW          here A2, reference A1
+  near  A2-050 ATTEND         here A2, reference B1
+  near  A2-054 CONNECT        here A2, reference B1
+  near  A2-057 ADVERTISE      here A2, reference B1
+  near  A2-058 ARRANGE        here A2, reference B1
   near  B1-001 ACHIEVE        here B1, reference A2
   near  B1-002 SUCCEED        here B1, reference A2
   near  B1-003 IMPROVE        here B1, reference A2
@@ -135,7 +142,7 @@
   near  C2-006 PROLIFERATE    here C2, reference C1
   near  C2-032 TANTAMOUNT     here C2, reference C1
   near  C2-054 IMPEDE         here C2, reference C1
-  summary: same=103, one level apart=115, two or more apart=21, not in reference=70
+  summary: same=114, one level apart=122, two or more apart=21, not in reference=70
 
 == COLLOCATES two or more levels ABOVE their lesson level ==
   A1-013 HOUSE        housework        ref B1  "do the housework"
@@ -163,18 +170,70 @@
   A2-011 TRY          recipe           ref B2  "try a recipe"
   A2-017 FIND         accommodation    ref B2  "find accommodation"
   A2-024 USE          media            ref B2  "use social media"
-  count=25
+  A2-043 BELONG       united           ref B2  "belong to a united army"
+  A2-050 ATTEND       conference       ref B2  "attend a conference"
+  A2-057 ADVERTISE    clothing         ref B2  "advertise clothing"
+  count=28
 
 == COVERAGE of the reference lists by this database ==
-  A1: 867 of 1058 reference headwords (82%)
-  A2: 592 of 1221 reference headwords (48%)
-  B1: 679 of 2099 reference headwords (32%)
-  B2: 406 of 2428 reference headwords (17%)
+  A1: 895 of 1058 reference headwords (85%)
+  A2: 653 of 1221 reference headwords (53%)
+  B1: 709 of 2099 reference headwords (34%)
+  B2: 412 of 2428 reference headwords (17%)
   C1: 106 of 921 reference headwords (12%)
   C2: 69 of 882 reference headwords (8%)
 
 == WORD-FAMILY LINK CANDIDATES not yet reviewed (shared stem; shown to the learner only after review) ==
-  count=0   (move each pair to source/related.txt or source/not_related.txt)
+  advertise | advertisement
+  advertise | advertising
+  arm | army
+  attend | attendance
+  attend | attention
+  bad | badly
+  camp | camping
+  clothes | clothing
+  collect | collector
+  confer | conference
+  connect | connection
+  connected | connection
+  continue | continuous
+  cover | coverage
+  direct | director
+  drive | driving
+  engine | engineer
+  exact | exactly
+  expect | expectation
+  experience | experiment
+  final | finally
+  finally | fine
+  fish | fishing
+  height | high
+  immediate | immediately
+  invitation | invite
+  likely | unlikely
+  norm | normally
+  own | owner
+  park | parking
+  pass | passage
+  pen | penny
+  post | poster
+  produce | product
+  produce | production
+  receive | reception
+  season | seasonal
+  smoke | smoking
+  sudden | suddenly
+  tour | tourism
+  tour | tourist
+  trade | tradition
+  tradition | traditional
+  transport | transportation
+  unit | united
+  unit | unity
+  united | unity
+  unusual | usual
+  wild | wildly
+  count=49   (move each pair to source/related.txt or source/not_related.txt)
 
 == IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
   variant A2-040 INTEREST       here /ˈɪntrəst/   Britfone: ˈɪntəɹɪst | ˈɪntɹɪst
@@ -219,7 +278,7 @@
   "fallback" = ipa-dict en_UK, a second open list used only for words that Britfone does not contain.
   Both lists are open community resources and can contain errors themselves: a DIFFER line is a prompt
   to re-check the word in a printed dictionary, not proof of an error.
-  summary: IPA vs Britfone 3.0.1: agree=230, notation variants=17, differ=0
+  summary: IPA vs Britfone 3.0.1: agree=248, notation variants=17, differ=0
   "reviewed" = differs from the fallback list, re-checked by the author and kept; the reason is given
   in source/ipa_reviewed.txt (an author's judgement, not a machine verification).
   summary: IPA vs fallback list (words missing from Britfone): agree=41, notation variants=7, differ=0, differ but reviewed by the author=14; in neither list=0

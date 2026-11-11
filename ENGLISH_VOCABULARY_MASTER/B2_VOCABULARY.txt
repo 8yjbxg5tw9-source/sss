@@ -113,7 +113,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): ANALYSE [main], analysis [family], analyst
       [family], analytical [family], statistical, thorough, sample, critical, political, ability,
       pattern, in-depth
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,330 → 1,342 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,451 → 1,463 items).
 
 ====================================================================================================
 LESSON B2-002   |   UNIT 1: Analysis, evidence and research
@@ -173,7 +173,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ASSESS [main], assessment [family], value,
       continuous, candidate, accurate, progress, objectively, initial, patient
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,342 → 1,352 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,463 → 1,473 items).
 
 ====================================================================================================
 LESSON B2-003   |   UNIT 1: Analysis, evidence and research
@@ -234,7 +234,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): ASSUME [main], assumption [family], underlying,
       incorrect, command, automatically, widely, otherwise
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,352 → 1,360 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,473 → 1,481 items).
 
 ====================================================================================================
 LESSON B2-004   |   UNIT 1: Analysis, evidence and research
@@ -297,7 +297,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): EVIDENCE [main], evident [family], self-evident
       [family], evidently [family], scientific, gather, conclusive, contrary, sufficient, examine,
       weigh
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,360 → 1,371 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,481 → 1,492 items).
 
 ====================================================================================================
 LESSON B2-005   |   UNIT 1: Analysis, evidence and research
@@ -358,7 +358,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CONSEQUENCE [main], consequently [family], severe,
       suffer, unintended, direct, inevitable, far-reaching, regardless
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,371 → 1,380 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,492 → 1,501 items).
 
 ====================================================================================================
 LESSON B2-006   |   UNIT 1: Analysis, evidence and research
@@ -419,7 +419,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): IMPACT [main], considerable, dramatic, negative,
       minimise, tourism, immediate, enormous
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,380 → 1,388 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,501 → 1,509 items).
 
 ====================================================================================================
 LESSON B2-007   |   UNIT 1: Analysis, evidence and research
@@ -481,7 +481,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): ISSUE [main], raise, sensitive, pressing, complex,
       ethical, resolve, statement, warning
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,388 → 1,397 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,509 → 1,518 items).
 
 ====================================================================================================
 LESSON B2-008   |   UNIT 1: Analysis, evidence and research
@@ -542,7 +542,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): TREND [main], trendy [family], current, upward,
       downward, recent, reverse, general, disturbing, population
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,397 → 1,407 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,518 → 1,528 items).
 
 ====================================================================================================
 LESSON B2-009   |   UNIT 1: Analysis, evidence and research
@@ -604,7 +604,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): APPROACH [main], adopt, flexible, systematic,
       cautious, step-by-step, radical, traditional, rapidly
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,407 → 1,416 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,528 → 1,537 items).
 
 ====================================================================================================
 LESSON B2-010   |   UNIT 1: Analysis, evidence and research
@@ -666,7 +666,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): RESEARCH [main], researcher [family], conduct,
       indicate, market, fund, grant, publish, field, leading
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,416 → 1,426 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,537 → 1,547 items).
 
 ====================================================================================================
 LESSON B2-011   |   UNIT 1: Analysis, evidence and research
@@ -728,7 +728,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): SIGNIFICANT [main], significance [family],
       insignificant [family], significantly [family], proportion, shift, minority, affect, decline,
       factor, attach, relatively
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,426 → 1,438 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,547 → 1,559 items).
 
 ====================================================================================================
 LESSON B2-012   |   UNIT 1: Analysis, evidence and research
@@ -786,14 +786,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CRUCIAL [main], crucially [family], stage, element,
       distinction, period, aspect, component, prove
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,438 → 1,447 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,559 → 1,568 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 1 (Analysis, evidence and research)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: ANALYSE, ASSESS, ASSUME, EVIDENCE, CONSEQUENCE, IMPACT, ISSUE, TREND,
       APPROACH, RESEARCH, SIGNIFICANT, CRUCIAL
-   New items registered in this unit: 117   |   Database total after this unit: 1,447
+   New items registered in this unit: 117   |   Database total after this unit: 1,568
    ability, accurate, adopt, affect, ANALYSE, analysis, analyst, analytical, APPROACH, aspect,
    ASSESS, assessment, ASSUME, assumption, attach, automatically, candidate, cautious, command,
    complex, component, conclusive, conduct, CONSEQUENCE, consequently, considerable, continuous,
@@ -874,7 +874,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): INVEST [main], investment [family], investor
       [family], reinvest [family], heavily, overseas, stock, return, attract, potential,
       infrastructure
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,447 → 1,458 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,568 → 1,579 items).
 
 ====================================================================================================
 LESSON B2-014   |   UNIT 2: Economy, business and policy
@@ -937,7 +937,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): COMPETE [main], competition [family], competitor
       [family], competitive [family], contract, fierce, edge, enter, rival, salary, Olympics
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,458 → 1,469 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,579 → 1,590 items).
 
 ====================================================================================================
 LESSON B2-015   |   UNIT 2: Economy, business and policy
@@ -1000,7 +1000,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): CONSUME [main], consumer [family], consumption
       [family], time-consuming [family], energy, goods, fuel, society, calory, preference,
       excessive, average
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,469 → 1,481 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,590 → 1,602 items).
 
 ====================================================================================================
 LESSON B2-016   |   UNIT 2: Economy, business and policy
@@ -1062,7 +1062,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): DEMAND [main], demanding [family], satisfy, high,
       supply, apology, boss, refund, drop
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,481 → 1,490 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,602 → 1,611 items).
 
 ====================================================================================================
 LESSON B2-017   |   UNIT 2: Economy, business and policy
@@ -1121,7 +1121,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PROFIT [main], profitable [family], non-profit
       [family], margin, net, gross, annual, venture, organisation, maximise
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,490 → 1,500 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,611 → 1,621 items).
 
 ====================================================================================================
 LESSON B2-018   |   UNIT 2: Economy, business and policy
@@ -1182,7 +1182,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (13): ECONOMY [main], economics [family], economist
       [family], economic [family], economical [family], national, booming, recovery, downturn,
       reform, stimulate, degree, digital
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,500 → 1,513 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,621 → 1,634 items).
 
 ====================================================================================================
 LESSON B2-019   |   UNIT 2: Economy, business and policy
@@ -1243,7 +1243,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): RESOURCE [main], resourceful [family], natural,
       scarce, finite, renewable, precious, mineral, exploit, conserve
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,513 → 1,523 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,634 → 1,644 items).
 
 ====================================================================================================
 LESSON B2-020   |   UNIT 2: Economy, business and policy
@@ -1305,13 +1305,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): POLICY [main], policymaker [family], foreign,
       pursue, strict, immigration, zero-tolerance, monetary, formulate, abandon
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,523 → 1,533 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,644 → 1,654 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 2 (Economy, business and policy)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: INVEST, COMPETE, CONSUME, DEMAND, PROFIT, ECONOMY, RESOURCE, POLICY
-   New items registered in this unit: 86   |   Database total after this unit: 1,533
+   New items registered in this unit: 86   |   Database total after this unit: 1,654
    abandon, annual, apology, attract, average, booming, boss, calory, COMPETE, competition,
    competitive, competitor, conserve, CONSUME, consumer, consumption, contract, degree, DEMAND,
    demanding, digital, downturn, drop, economic, economical, economics, economist, ECONOMY, edge,
@@ -1386,7 +1386,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CONTROVERSIAL [main], controversy [family], figure,
       proposal, remark, spark, surrounding, remain, scheme
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,533 → 1,542 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,654 → 1,663 items).
 
 ====================================================================================================
 LESSON B2-022   |   UNIT 3: Society, innovation and the environment
@@ -1445,7 +1445,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): CAMPAIGN [main], campaigner [family], launch,
       election, advertising, racism, fundraising, slogan, nationwide, tireless
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,542 → 1,552 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,663 → 1,673 items).
 
 ====================================================================================================
 LESSON B2-023   |   UNIT 3: Society, innovation and the environment
@@ -1507,7 +1507,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (13): SUSTAIN [main], sustainability [family],
       sustainable [family], unsustainable [family], sustained [family], agriculture, source,
       material, momentum, pace, attack, ultimately, commitment
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,552 → 1,565 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,673 → 1,686 items).
 
 ====================================================================================================
 LESSON B2-024   |   UNIT 3: Society, innovation and the environment
@@ -1570,7 +1570,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): INNOVATE [main], innovation [family], innovator
       [family], innovative [family], technique, concept, feature, strategy, encourage, hub,
       constantly, embrace
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,565 → 1,577 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,686 → 1,698 items).
 
 ====================================================================================================
 LESSON B2-025   |   UNIT 3: Society, innovation and the environment
@@ -1631,7 +1631,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): CLIMATE [main], mild, tropical, harsh, fear,
       summit, humid, greenhouse, gas, carbon, footprint
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,577 → 1,588 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,698 → 1,709 items).
 
 ====================================================================================================
 LESSON B2-026   |   UNIT 3: Society, innovation and the environment
@@ -1695,7 +1695,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): MOTIVATE [main], motivation [family], motive
       [family], motivated [family], self-motivated [family], pupil, workforce, hidden, ulterior,
       greed, inspire
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,588 → 1,599 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,709 → 1,720 items).
 
 ====================================================================================================
 LESSON B2-027   |   UNIT 3: Society, innovation and the environment
@@ -1755,7 +1755,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): ATTITUDE [main], casual, hostile, mature, can-do,
       laid-back, vary, reflect
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,599 → 1,607 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,720 → 1,728 items).
 
 ====================================================================================================
 LESSON B2-028   |   UNIT 3: Society, innovation and the environment
@@ -1819,7 +1819,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): ESTABLISH [main], establishment [family],
       established [family], well-established [family], tie, connection, identity, reputation,
       criterion, democracy, firmly, priority
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,607 → 1,619 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,728 → 1,740 items).
 
 ====================================================================================================
 LESSON B2-029   |   UNIT 3: Society, innovation and the environment
@@ -1881,7 +1881,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): MAINTAIN [main], maintenance [family], discipline,
       silence, dignity, status, quo, vehicle, routine, crew
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,619 → 1,629 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,740 → 1,750 items).
 
 ====================================================================================================
 LESSON B2-030   |   UNIT 3: Society, innovation and the environment
@@ -1943,14 +1943,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): REVEAL [main], revelation [family], revealing
       [family], flaw, scandal, plot, intention, survey, shocking, insight, refuse
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,629 → 1,640 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,750 → 1,761 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 3 (Society, innovation and the environment)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: CONTROVERSIAL, CAMPAIGN, SUSTAIN, INNOVATE, CLIMATE, MOTIVATE, ATTITUDE,
       ESTABLISH, MAINTAIN, REVEAL
-   New items registered in this unit: 107   |   Database total after this unit: 1,640
+   New items registered in this unit: 107   |   Database total after this unit: 1,761
    advertising, agriculture, attack, ATTITUDE, CAMPAIGN, campaigner, can-do, carbon, casual,
    CLIMATE, commitment, concept, connection, constantly, CONTROVERSIAL, controversy, crew,
    criterion, democracy, dignity, discipline, election, embrace, encourage, ESTABLISH, established,
@@ -2029,7 +2029,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): TACKLE [main], obesity, inequality, corruption,
       discrimination, shortage, congestion, opponent, head-on
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,640 → 1,649 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,761 → 1,770 items).
 
 ====================================================================================================
 LESSON B2-032   |   UNIT 4: Action, change and degree
@@ -2091,7 +2091,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): GENERATE [main], generation [family], generator
       [family], electricity, revenue, wealth, debate, enthusiasm, gap, young, backup
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,649 → 1,660 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,770 → 1,781 items).
 
 ====================================================================================================
 LESSON B2-033   |   UNIT 4: Action, change and degree
@@ -2153,7 +2153,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): PROMOTE [main], promotion [family], promotional
       [family], cooperation, diversity, tolerance, literacy, well-being, actively, prospect, deserve
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,660 → 1,671 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,781 → 1,792 items).
 
 ====================================================================================================
 LESSON B2-034   |   UNIT 4: Action, change and degree
@@ -2215,7 +2215,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): RESTRICT [main], restriction [family], restrictive
       [family], restricted [family], freedom, import, impose, lift, tighten, scope, measure
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,671 → 1,682 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,792 → 1,803 items).
 
 ====================================================================================================
 LESSON B2-035   |   UNIT 4: Action, change and degree
@@ -2277,7 +2277,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ADAPT [main], adaptation [family], adaptable
       [family], circumstance, screen, survive, struggle, accordingly, style, species
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,682 → 1,692 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,803 → 1,813 items).
 
 ====================================================================================================
 LESSON B2-036   |   UNIT 4: Action, change and degree
@@ -2341,7 +2341,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (10): CONTRIBUTE [main], contribution [family],
       contributor [family], generously, community, spread, substantially, outstanding, voluntary,
       frequent
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,692 → 1,702 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,813 → 1,823 items).
 
 ====================================================================================================
 LESSON B2-037   |   UNIT 4: Action, change and degree
@@ -2403,7 +2403,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): EMERGE [main], emergence [family], re-emerge
       [family], emerging [family], shadow, recession, industry, power, star, sudden
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,702 → 1,712 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,823 → 1,833 items).
 
 ====================================================================================================
 LESSON B2-038   |   UNIT 4: Action, change and degree
@@ -2466,7 +2466,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): ACCOUNT [main], accountant [family], accounting
       [family], bank, eyewitness, deposit, vivid, qualified, error
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,712 → 1,721 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,833 → 1,842 items).
 
 ====================================================================================================
 LESSON B2-039   |   UNIT 4: Action, change and degree
@@ -2528,7 +2528,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): TERM [main], terminology [family], long-term
       [family], short-term [family], benefit, fix, prison, broad, uncertain, negotiate, autumn
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,721 → 1,732 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,842 → 1,853 items).
 
 ====================================================================================================
 LESSON B2-040   |   UNIT 4: Action, change and degree
@@ -2591,14 +2591,14 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): EXTENT [main], extension [family], extend
       [family], extensive [family], extensively [family], certain, lesser, range, request, coverage,
       network
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,732 → 1,743 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,853 → 1,864 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 4 (Action, change and degree)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: TACKLE, GENERATE, PROMOTE, RESTRICT, ADAPT, CONTRIBUTE, EMERGE, ACCOUNT,
       TERM, EXTENT
-   New items registered in this unit: 103   |   Database total after this unit: 1,743
+   New items registered in this unit: 103   |   Database total after this unit: 1,864
    accordingly, ACCOUNT, accountant, accounting, actively, ADAPT, adaptable, adaptation, autumn,
    backup, bank, benefit, broad, certain, circumstance, community, congestion, CONTRIBUTE,
    contribution, contributor, cooperation, corruption, coverage, debate, deposit, deserve,
@@ -2688,7 +2688,7 @@ UPDATED VOCABULARY INDEX — END OF LEVEL B2
       warning 007, wealth 032, weigh 004, well-being 033, well-established 028, widely 003,
       workforce 026, young 032, zero-tolerance 020
 
-   Cumulative database size after B2: 1,743 individual vocabulary items (+ 274 structural words).
+   Cumulative database size after B2: 1,864 individual vocabulary items (+ 285 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL B2

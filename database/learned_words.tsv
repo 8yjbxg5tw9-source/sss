@@ -50,6 +50,8 @@ advance	COLLOCATE	A2	A2-023	PAY	pay in advance	əvvəlcədən ödəmək
 advantage	COLLOCATE	B1	B1-016	DISCUSS	discuss the advantages	üstünlükləri müzakirə etmək
 adverse	COLLOCATE	C2	C2-040	REPERCUSSION	adverse repercussions	mənfi nəticələr
 adversity	COLLOCATE	C1	C1-025	RESILIENT	resilience in adversity	çətin günlərdə dayanıqlılıq
+ADVERTISE	MAIN	A2	A2-057	ADVERTISE		reklam etmək; elan vermək
+advertisement	COLLOCATE	A2	A2-042	APPEAR	appear in an advertisement	reklamda çəkilmək (görünmək)
 advertising	COLLOCATE	B2	B2-022	CAMPAIGN	an advertising campaign	reklam kampaniyası
 ADVICE	MAIN	B1	B1-018	ADVICE		məsləhət
 advisable	FAMILY	B1	B1-018	ADVICE		məqsədəuyğun, məsləhət görülən
@@ -75,6 +77,7 @@ agriculture	COLLOCATE	B2	B2-023	SUSTAIN	sustainable agriculture	davamlı kənd t
 aid	COLLOCATE	C1	C1-003	ALLOCATE	allocate aid	yardım ayırmaq
 aim	COLLOCATE	B1	B1-001	ACHIEVE	achieve an aim	məqsədə nail olmaq
 air	COLLOCATE	B1	B1-034	PRESSURE	air pressure	hava təzyiqi
+airline	COLLOCATE	A2	A2-057	ADVERTISE	advertise an airline	aviaşirkəti reklam etmək
 airport	COLLOCATE	A2	A2-003	LEAVE	leave for the airport	hava limanına yola düşmək
 alarm	COLLOCATE	B1	B1-038	SET	set an alarm	zəngli saatı qurmaq
 alcohol	COLLOCATE	B1	B1-028	AVOID	avoid alcohol	spirtli içkilərdən çəkinmək
@@ -89,6 +92,7 @@ alleviation	FAMILY	C1	C1-001	ALLEVIATE		yüngülləşdirmə, azaldılma
 alliance	COLLOCATE	C2	C2-028	TENUOUS	a tenuous alliance	zəif ittifaq
 ALLOCATE	MAIN	C1	C1-003	ALLOCATE		ayırmaq, bölüşdürmək, təxsis etmək
 allocation	FAMILY	C1	C1-003	ALLOCATE		ayırma, bölgü, həmçinin ayrılmış pay
+ALLOW	MAIN	A2	A2-041	ALLOW		icazə vermək, yol vermək
 alone	COLLOCATE	A1	A1-012	LIVE	live alone	tək yaşamaq
 alter	COLLOCATE	C1	C1-035	SUBTLE	subtly alter	hiss olunmadan dəyişmək
 alternative	COLLOCATE	B1	B1-013	SUGGEST	suggest an alternative	alternativ (başqa variant) təklif etmək
@@ -123,6 +127,8 @@ apology	COLLOCATE	B2	B2-016	DEMAND	demand an apology	üzr istənilməsini tələ
 app	COLLOCATE	C2	C2-057	PLETHORA	a plethora of apps	çoxlu sayda tətbiq (proqram)
 apparent	COLLOCATE	C2	C2-041	ANOMALY	an apparent anomaly	zahiri uyğunsuzluq
 appeal	COLLOCATE	C2	C2-007	VINDICATE	vindicated on appeal	apellyasiya nəticəsində bəraət almış
+APPEAR	MAIN	A2	A2-042	APPEAR		görünmək, peyda olmaq; ... kimi görünmək
+appearance	FAMILY	A2	A2-042	APPEAR		görünüş, zahiri görkəm, həmçinin peyda olma
 appetite	COLLOCATE	C1	C1-053	INHIBIT	inhibit appetite	iştahanı azaltmaq
 applause	COLLOCATE	C1	C1-050	ELICIT	elicit applause	alqış qazanmaq
 apple	COLLOCATE	A1	A1-007	EAT	eat an apple	alma yemək
@@ -144,7 +150,9 @@ ARGUE	MAIN	B1	B1-014	ARGUE		mübahisə etmək, höcətləşmək; iddia etmək, �
 argument	FAMILY	B1	B1-014	ARGUE		mübahisə, həmçinin dəlil (arqument)
 arise	COLLOCATE	C2	C2-041	ANOMALY	an anomaly arises	uyğunsuzluq yaranır
 arm	COLLOCATE	A1	A1-016	BODY	arms and legs	qollar və ayaqlar (qıçlar)
-arranged	COLLOCATE	C2	C2-024	METICULOUS	meticulously arranged	səliqə ilə düzülmüş
+army	COLLOCATE	A2	A2-043	BELONG	belong to a united army	birləşmiş orduya mənsub olmaq
+ARRANGE	MAIN	A2	A2-058	ARRANGE		təşkil etmək, razılaşdırmaq; düzmək
+arrangement	FAMILY	A2	A2-058	ARRANGE		razılaşma, hazırlıq, həmçinin düzülüş
 array	COLLOCATE	C1	C1-051	ENCOMPASS	encompass an array of	geniş çeşiddə ... əhatə etmək
 arrest	COLLOCATE	C1	C1-048	CULMINATE	culminate in an arrest	həbslə nəticələnmək
 arrival	FAMILY	A2	A2-004	ARRIVE		gəliş, çatma
@@ -176,12 +184,14 @@ atmosphere	COLLOCATE	C2	C2-025	PERVASIVE	a pervasive atmosphere	hər yeri bürü
 attach	COLLOCATE	B2	B2-011	SIGNIFICANT	attach significance to	nəyəsə əhəmiyyət vermək
 attack	COLLOCATE	B2	B2-023	SUSTAIN	a sustained attack	fasiləsiz hücum
 attempt	COLLOCATE	B1	B1-037	SERIOUS	a serious attempt	ciddi cəhd
+ATTEND	MAIN	A2	A2-050	ATTEND		iştirak etmək, (dərsə, tədbirə) getmək
 attendance	COLLOCATE	C1	C1-006	COMPELLING	compulsory attendance	məcburi davamiyyət
 attention	COLLOCATE	A2	A2-023	PAY	pay attention	diqqət yetirmək, fikir vermək
 ATTITUDE	MAIN	B2	B2-027	ATTITUDE		münasibət, yanaşma, mövqe
 attract	COLLOCATE	B2	B2-013	INVEST	attract investment	sərmayə cəlb etmək
 attribute	COLLOCATE	C2	C2-023	INTRINSIC	an intrinsic attribute	ayrılmaz xüsusiyyət
 audience	COLLOCATE	C1	C1-049	DISCERN	a discerning audience	zövqlü (tələbkar) tamaşaçı
+audio	COLLOCATE	A2	A2-054	CONNECT	connect the audio	səs sistemini qoşmaq
 audit	COLLOCATE	C1	C1-045	COMPREHENSIVE	a comprehensive audit	hərtərəfli audit (yoxlama)
 August	REFERENCE	A1	A1-000	FOUNDATION		avqust
 aunt	COLLOCATE	A1	A1-014	FAMILY	aunt and uncle	xala (bibi) və dayı (əmi)
@@ -202,10 +212,12 @@ awesome	COLLOCATE	A1	A1-059	SING	an awesome singer	möhtəşəm müğənni
 awful	COLLOCATE	C1	C1-046	CONTEMPLATE	too awful to contemplate	düşünmək belə dəhşətlidir
 Azerbaijani	COLLOCATE	A1	A1-020	SPEAK	speak Azerbaijani	Azərbaycan dilində danışmaq
 baby	COLLOCATE	A1	A1-027	LOOK	look after a baby	körpəyə baxmaq, körpənin qayğısına qalmaq
+background	COLLOCATE	A2	A2-052	DEPEND	depend on your background	keçmişindən (təhsil və ailə mühitindən) asılı olmaq
 backlash	COLLOCATE	C1	C1-036	TRIGGER	trigger a backlash	kəskin əks-reaksiya doğurmaq
 backup	COLLOCATE	B2	B2-032	GENERATE	a backup generator	ehtiyat generator
 bacteria	COLLOCATE	C2	C2-006	PROLIFERATE	bacteria proliferate	bakteriyalar çoxalır
 bad	COLLOCATE	A1	A1-032	WEATHER	bad weather	pis hava
+badly	COLLOCATE	A2	A2-056	FAIL	fail badly	pis nəticə ilə uğursuz olmaq
 bag	COLLOCATE	A1	A1-026	HELP	help sb carry a bag	kiməsə çanta daşımaqda kömək etmək
 balance	COLLOCATE	A2	A2-016	LOSE	lose your balance	müvazinətini itirmək
 balcony	COLLOCATE	A1	A1-013	HOUSE	a house with a balcony	balkonlu ev, eyvanlı ev
@@ -240,6 +252,7 @@ behalf	COLLOCATE	C1	C1-002	ADVOCATE	advocacy on behalf of	kiminsə adından (mar
 behaviour	COLLOCATE	B1	B1-035	RESPONSIBLE	responsible behaviour	məsuliyyətli davranış
 belief	COLLOCATE	B1	B1-033	CHALLENGE	challenge a belief	inamı (qənaəti) şübhə altına almaq
 BELIEVE	MAIN	A1	A1-046	BELIEVE		inanmaq
+BELONG	MAIN	A2	A2-043	BELONG		məxsus olmaq, aid olmaq
 benefit	COLLOCATE	B2	B2-039	TERM	long-term benefits	uzunmüddətli faydalar
 best	COLLOCATE	A1	A1-015	FRIEND	best friend	ən yaxın dost
 betrayal	COLLOCATE	C2	C2-032	TANTAMOUNT	tantamount to betrayal	satqınlığa bərabər
@@ -252,6 +265,7 @@ bike	COLLOCATE	A2	A2-018	FALL	fall off a bike	velosipeddən yıxılmaq
 bill	COLLOCATE	A1	A1-021	ASK	ask for the bill	hesabı istəmək
 billboard	COLLOCATE	C2	C2-003	UBIQUITOUS	ubiquitous billboards	hər addımda rast gəlinən reklam lövhələri
 biodiversity	COLLOCATE	C1	C1-029	DETRIMENTAL	detrimental to biodiversity	biomüxtəlifliyə zərərli
+biology	COLLOCATE	A2	A2-056	FAIL	fail biology	biologiyadan kəsilmək
 bird	COLLOCATE	A1	A1-022	LISTEN	listen to the birds	quşlara (quşların səsinə) qulaq asmaq
 birthday	COLLOCATE	A1	A1-038	HAPPY	happy birthday	ad günün mübarək
 bizarre	COLLOCATE	C2	C2-012	JUXTAPOSE	a bizarre juxtaposition	qəribə qarşılaşdırma
@@ -283,6 +297,7 @@ borrow	COLLOCATE	A1	A1-011	MONEY	borrow money	borc pul almaq
 boss	COLLOCATE	B2	B2-016	DEMAND	a demanding boss	tələbkar müdir
 bottle	COLLOCATE	A1	A1-008	DRINK	drink from a bottle	butulkadan içmək
 boundary	COLLOCATE	C1	C1-032	ERODE	erode the boundaries	sərhədləri tədricən silmək
+bowl	COLLOCATE	A2	A2-046	COVER	cover the bowl	kasanın üstünü örtmək
 box	COLLOCATE	A1	A1-028	OPEN	open a box	qutunu açmaq
 BOY	MAIN	A1	A1-068	BOY		oğlan (uşaq)
 boyfriend	COLLOCATE	A1	A1-061	INTRODUCE	introduce your boyfriend	sevgilini (oğlan dostunu) tanış etmək
@@ -319,6 +334,7 @@ bus	COLLOCATE	A1	A1-001	GO	go by bus	avtobusla getmək
 business	COLLOCATE	A2	A2-001	TRAVEL	travel on business	işgüzar səfərə getmək
 busy	COLLOCATE	A1	A1-031	DAY	a busy day	gərgin, işli gün
 butter	COLLOCATE	A1	A1-048	ADD	add butter	kərə yağı əlavə etmək
+button	COLLOCATE	A2	A2-053	REPLACE	replace a button	düyməni dəyişmək
 BUY	MAIN	A1	A1-010	BUY		almaq, satın almaq
 buyer	FAMILY	A1	A1-010	BUY		alıcı
 cafe	COLLOCATE	A1	A1-051	PREFER	prefer a cafe	kafeyə üstünlük vermək
@@ -327,11 +343,15 @@ call	COLLOCATE	A1	A1-005	MAKE	make a phone call	telefon zəngi etmək, zəng vur
 calm	COLLOCATE	A2	A2-002	STAY	stay calm	sakit qalmaq, təmkinini qorumaq
 calory	COLLOCATE	B2	B2-015	CONSUME	consume calories	kalori qəbul etmək
 camera	COLLOCATE	A2	A2-007	BRING	bring a camera	fotoaparat gətirmək
+camp	COLLOCATE	A2	A2-058	ARRANGE	arrange a soccer camp	futbol düşərgəsi təşkil etmək
 CAMPAIGN	MAIN	B2	B2-022	CAMPAIGN		kampaniya; kampaniya aparmaq, mübarizə aparmaq
 campaigner	FAMILY	B2	B2-022	CAMPAIGN		kampaniya fəalı, mübariz
+camping	COLLOCATE	A2	A2-041	ALLOW	allow camping	çadır qurub qalmağa icazə vermək
+campus	COLLOCATE	A2	A2-050	ATTEND	on campus	universitet şəhərciyində
 can-do	COLLOCATE	B2	B2-027	ATTITUDE	a can-do attitude	"bacararam" ruhu, işgüzar əhval-ruhiyyə
 cancer	COLLOCATE	C2	C2-029	INSIDIOUS	an insidious cancer	sinsi xərçəng
 candidate	COLLOCATE	B2	B2-002	ASSESS	assess a candidate	namizədi qiymətləndirmək
+candy	COLLOCATE	A2	A2-057	ADVERTISE	advertise candy	şirniyyat (konfet) reklam etmək
 capacity	COLLOCATE	C1	C1-007	CONSTRAINT	capacity constraints	imkan (güc) məhdudiyyətləri
 capital	COLLOCATE	A1	A1-033	CITY	capital city	paytaxt şəhəri
 capture	COLLOCATE	C2	C2-013	NUANCE	capture the nuances	incəlikləri (çalarları) əks etdirmək
@@ -341,6 +361,7 @@ card	COLLOCATE	A1	A1-024	PLAY	play cards	kart oynamaq
 care	COLLOCATE	A1	A1-004	TAKE	take care	özündən muğayat ol; qayğısına qalmaq
 career	COLLOCATE	A2	A2-022	CHOOSE	choose a career	peşə (karyera) seçmək
 carefully	COLLOCATE	A1	A1-022	LISTEN	listen carefully	diqqətlə qulaq asmaq
+carpet	COLLOCATE	A2	A2-046	COVER	cover the carpet	xalçanın üstünü örtmək
 carrot	COLLOCATE	A1	A1-048	ADD	add a carrot	bir yerkökü əlavə etmək
 carry	COLLOCATE	A1	A1-026	HELP	help sb carry a bag	kiməsə çanta daşımaqda kömək etmək
 cartoon	COLLOCATE	A1	A1-025	WATCH	watch cartoons	cizgi filmlərinə baxmaq
@@ -394,6 +415,8 @@ chocolate	COLLOCATE	A1	A1-039	HOT	hot chocolate	isti şokolad (içki)
 choice	FAMILY	A2	A2-022	CHOOSE		seçim
 CHOOSE	MAIN	A2	A2-022	CHOOSE		seçmək
 chronic	COLLOCATE	C2	C2-048	DEARTH	a chronic dearth	xroniki qıtlıq
+church	COLLOCATE	A2	A2-043	BELONG	belong to the church	kilsəyə məxsus olmaq
+cigarette	COLLOCATE	A2	A2-041	ALLOW	allow cigarettes	siqaretə icazə vermək
 circulation	COLLOCATE	C2	C2-054	IMPEDE	impede circulation	dövranı (qan dövranını, hərəkəti) ləngitmək
 circumstance	COLLOCATE	B2	B2-035	ADAPT	adapt to circumstances	şəraitə uyğunlaşmaq
 CIRCUMVENT	MAIN	C2	C2-008	CIRCUMVENT		yan keçmək, (qanunu və ya maneəni) dolanıb keçmək
@@ -416,6 +439,7 @@ cling	COLLOCATE	C2	C2-005	PRECARIOUS	cling precariously	güclə yapışıb qalma
 clock	COLLOCATE	A1	A1-044	WAKE	wake up without a clock	saatsız oyanmaq
 close	COLLOCATE	A1	A1-015	FRIEND	close friend	yaxın dost
 clothes	COLLOCATE	A1	A1-010	BUY	buy clothes	paltar almaq
+clothing	COLLOCATE	A2	A2-057	ADVERTISE	advertise clothing	geyim reklam etmək
 cloud	COLLOCATE	A1	A1-032	WEATHER	wind and clouds	külək və buludlar
 club	COLLOCATE	A2	A2-034	SPORT	a sports club	idman klubu
 clue	COLLOCATE	C1	C1-035	SUBTLE	a subtle clue	güclə sezilən ipucu
@@ -438,10 +462,13 @@ cold	COLLOCATE	A1	A1-008	DRINK	a cold drink	soyuq içki
 collaboration	COLLOCATE	C1	C1-009	FACILITATE	facilitate collaboration	birgə işi asanlaşdırmaq
 collapse	COLLOCATE	C1	C1-048	CULMINATE	culminate in the collapse	çöküşlə (iflasla) nəticələnmək
 colleague	COLLOCATE	B1	B1-016	DISCUSS	discuss with colleagues	həmkarlarla müzakirə etmək
+COLLECT	MAIN	A2	A2-044	COLLECT		toplamaq, yığmaq; gedib götürmək
+collection	FAMILY	A2	A2-044	COLLECT		kolleksiya, toplu
 collector	COLLOCATE	C1	C1-049	DISCERN	a discerning collector	seçici kolleksiyaçı
 college	COLLOCATE	A1	A1-054	TEACH	teach at a college	kollecdə dərs demək
 COLOUR	MAIN	A1	A1-040	COLOUR		rəng
 colourful	FAMILY	A1	A1-040	COLOUR		rəngarəng, əlvan
+column	COLLOCATE	A2	A2-045	COUNT	count the columns	sütunları saymaq
 combat	COLLOCATE	C1	C1-027	STIGMA	combat stigma	damğalanma ilə mübarizə aparmaq
 COME	MAIN	A1	A1-002	COME		gəlmək
 comedy	COLLOCATE	C2	C2-012	JUXTAPOSE	juxtapose comedy and tragedy	komediya ilə faciəni qarşılaşdırmaq
@@ -494,6 +521,7 @@ condemnation	COLLOCATE	C2	C2-016	UNEQUIVOCAL	an unequivocal condemnation	qəti p
 condition	COLLOCATE	B1	B1-003	IMPROVE	improve conditions	şəraiti yaxşılaşdırmaq
 conduct	COLLOCATE	B2	B2-010	RESEARCH	conduct research	tədqiqat aparmaq
 confer	COLLOCATE	C1	C1-034	LEGITIMATE	confer legitimacy	legitimlik vermək
+conference	COLLOCATE	A2	A2-050	ATTEND	attend a conference	konfransda iştirak etmək
 confession	COLLOCATE	C1	C1-050	ELICIT	elicit a confession	etiraf almaq
 confidence	FAMILY	B1	B1-036	CONFIDENT		inam, etimad
 CONFIDENT	MAIN	B1	B1-036	CONFIDENT		özünə inamlı; əmin
@@ -505,6 +533,8 @@ conform	COLLOCATE	C2	C2-058	PROPENSITY	a propensity to conform	çoxluğa uymağa
 confusion	COLLOCATE	B1	B1-028	AVOID	avoid confusion	dolaşıqlığa (anlaşılmazlığa) yol verməmək
 congenital	COLLOCATE	C2	C2-041	ANOMALY	a congenital anomaly	anadangəlmə anomaliya
 congestion	COLLOCATE	B2	B2-031	TACKLE	tackle congestion	tıxac problemini həll etməyə çalışmaq
+CONNECT	MAIN	A2	A2-054	CONNECT		birləşdirmək, qoşmaq; əlaqələndirmək
+connected	FAMILY	A2	A2-054	CONNECT		bağlı, əlaqəli, həmçinin qoşulmuş
 connection	COLLOCATE	B2	B2-028	ESTABLISH	establish a connection	əlaqə yaratmaq
 CONSENSUS	MAIN	C1	C1-020	CONSENSUS		ümumi razılıq, yekdil rəy, konsensus
 consensus-building	FAMILY	C1	C1-020	CONSENSUS		ümumi razılığın formalaşdırılması
@@ -537,6 +567,7 @@ CONTENTIOUS	MAIN	C2	C2-022	CONTENTIOUS		mübahisəli, ixtilaf doğuran; davakar
 contest	COLLOCATE	A2	A2-027	WIN	win a contest	müsabiqədə qalib gəlmək
 context	COLLOCATE	C2	C2-050	ELUCIDATE	elucidate the context	konteksti aydınlaşdırmaq
 continent	COLLOCATE	C1	C1-051	ENCOMPASS	encompass five continents	beş qitəni əhatə etmək
+CONTINUE	MAIN	A2	A2-051	CONTINUE		davam etmək, davam etdirmək
 continuous	COLLOCATE	B2	B2-002	ASSESS	continuous assessment	cari (davamlı) qiymətləndirmə
 contour	COLLOCATE	C2	C2-049	DELINEATE	delineate the contours	cizgilərini (konturlarını) müəyyən etmək
 contract	COLLOCATE	B2	B2-014	COMPETE	compete for a contract	müqavilə uğrunda rəqabət aparmaq
@@ -573,6 +604,7 @@ corroborative	FAMILY	C2	C2-047	CORROBORATE		təsdiqedici
 corrosion	COLLOCATE	C1	C1-053	INHIBIT	inhibit corrosion	korroziyanın qarşısını almaq
 corruption	COLLOCATE	B2	B2-031	TACKLE	tackle corruption	korrupsiya ilə mübarizə aparmaq
 cost	COLLOCATE	A1	A1-011	MONEY	cost a lot of money	çox pula başa gəlmək, baha olmaq
+COUNT	MAIN	A2	A2-045	COUNT		saymaq; əhəmiyyəti olmaq
 countdown	COLLOCATE	C2	C2-055	INEXORABLE	an inexorable countdown	dayanmayan geri sayım
 country	COLLOCATE	A1	A1-035	BIG	a big country	böyük ölkə
 countryside	COLLOCATE	A2	A2-013	MOVE	move to the countryside	kəndə (şəhərdən kənara) köçmək
@@ -580,6 +612,7 @@ couple	COLLOCATE	A1	A1-038	HAPPY	a happy couple	xoşbəxt cütlük
 courage	COLLOCATE	C2	C2-037	BOLSTER	bolster sb's courage	kiminsə cəsarətini artırmaq
 course	COLLOCATE	A2	A2-022	CHOOSE	choose a course	kurs seçmək
 cousin	COLLOCATE	A1	A1-056	DESCRIBE	describe your cousin	əmioğlunu (xalaqızını və s.) təsvir etmək
+COVER	MAIN	A2	A2-046	COVER		örtmək, üstünü bağlamaq; əhatə etmək; örtük
 coverage	COLLOCATE	B2	B2-040	EXTENT	extensive coverage	geniş işıqlandırma (mətbuatda)
 cow	COLLOCATE	A1	A1-065	FARM	cows on a farm	fermadakı inəklər
 craftsman	COLLOCATE	C2	C2-024	METICULOUS	a meticulous craftsman	hər xırdalığa diqqət yetirən usta
@@ -590,6 +623,7 @@ creativity	COLLOCATE	C1	C1-022	FOSTER	foster creativity	yaradıcılığı inkiş
 creature	COLLOCATE	B1	B1-031	HABIT	a creature of habit	vərdişlərindən əl çəkməyən adam
 credential	COLLOCATE	C2	C2-060	SPURIOUS	spurious credentials	saxta diplomlar (etimadnamələr)
 credibility	COLLOCATE	C1	C1-018	UNDERMINE	undermine credibility	inandırıcılığı (etibarı) zədələmək
+credit	COLLOCATE	A2	A2-052	DEPEND	depend on credit	kreditdən asılı olmaq
 crew	COLLOCATE	B2	B2-029	MAINTAIN	a maintenance crew	texniki xidmət briqadası
 crime	COLLOCATE	B1	B1-024	REDUCE	reduce crime	cinayətkarlığı azaltmaq
 crisis	COLLOCATE	B1	B1-027	SOLVE	solve a crisis	böhranı həll etmək
@@ -604,7 +638,7 @@ crowd	COLLOCATE	B1	B1-028	AVOID	avoid the crowds	izdihamdan uzaq durmaq
 CRUCIAL	MAIN	B2	B2-012	CRUCIAL		həlledici, son dərəcə vacib
 crucially	FAMILY	B2	B2-012	CRUCIAL		həlledici dərəcədə, ən əsası
 crude	COLLOCATE	C2	C2-019	DICHOTOMY	a crude dichotomy	kobud (bəsit) bölgü
-crying	COLLOCATE	A2	A2-026	STOP	stop crying	ağlamağı kəsmək
+cry	COLLOCATE	A2	A2-026	STOP	stop crying	ağlamağı kəsmək
 cue	COLLOCATE	C2	C2-039	SALIENT	salient cues	diqqəti çəkən işarələr (siqnallar)
 CULMINATE	MAIN	C1	C1-048	CULMINATE		(nə iləsə) yekunlaşmaq, ən yüksək nöqtəyə çatmaq
 culmination	FAMILY	C1	C1-048	CULMINATE		ən yüksək nöqtə, zirvə, yekun
@@ -662,6 +696,7 @@ defeat	COLLOCATE	C1	C1-045	COMPREHENSIVE	a comprehensive defeat	tam (qəti) mə�
 defect	COLLOCATE	C1	C1-013	INHERENT	an inherent defect	daxili qüsur, istehsal qüsuru
 defence	COLLOCATE	C2	C2-037	BOLSTER	bolster defences	müdafiəni gücləndirmək
 deficit	COLLOCATE	C2	C2-043	BURGEON	a burgeoning deficit	sürətlə artan kəsir
+definitely	COLLOCATE	A2	A2-055	EXPECT	definitely expect sth	nəyisə mütləq gözləmək
 degree	COLLOCATE	B2	B2-018	ECONOMY	a degree in economics	iqtisadiyyat üzrə ali təhsil diplomu (dərəcəsi)
 delay	COLLOCATE	B1	B1-015	COMPLAIN	complain about the delay	gecikmədən şikayət etmək
 deliberately	COLLOCATE	C1	C1-004	AMBIGUOUS	deliberately ambiguous	qəsdən ikimənalı (qeyri-müəyyən)
@@ -676,6 +711,7 @@ demonstrate	COLLOCATE	C1	C1-021	FEASIBLE	demonstrate the feasibility	mümkünlü
 deny	COLLOCATE	B1	B1-035	RESPONSIBLE	deny responsibility	məsuliyyəti boynuna almamaq
 department	COLLOCATE	B1	B1-007	MANAGE	manage a department	şöbəyə rəhbərlik etmək
 departure	COLLOCATE	A2	A2-004	ARRIVE	arrivals and departures	gələn və yola düşən reyslər
+DEPEND	MAIN	A2	A2-052	DEPEND		asılı olmaq; güvənmək
 DEPLETE	MAIN	C1	C1-030	DEPLETE		tükətmək, azaltmaq
 depleted	FAMILY	C1	C1-030	DEPLETE		tükənmiş, azalmış
 depletion	FAMILY	C1	C1-030	DEPLETE		tükənmə, azalma
@@ -733,6 +769,7 @@ dire	COLLOCATE	C2	C2-014	RAMIFICATION	dire ramifications	ağır (dəhşətli) n�
 direct	COLLOCATE	B2	B2-005	CONSEQUENCE	a direct consequence	birbaşa nəticə
 direction	COLLOCATE	A1	A1-006	GIVE	give directions	yolu izah etmək, istiqamət göstərmək
 directive	COLLOCATE	C1	C1-011	IMPLEMENT	implement a directive	direktivi (göstərişi) icra etmək
+director	COLLOCATE	A2	A2-058	ARRANGE	an arrangement with the director	direktorla razılaşma
 dirty	COLLOCATE	A1	A1-052	HATE	hate dirty toilets	çirkli tualetlərə nifrət etmək
 disability	COLLOCATE	C1	C1-027	STIGMA	the stigma of disability	əlilliyin damğası
 disadvantage	COLLOCATE	C1	C1-055	OUTWEIGH	outweigh the disadvantages	mənfi cəhətləri üstələmək
@@ -790,6 +827,7 @@ drainage	COLLOCATE	C2	C2-054	IMPEDE	impede drainage	suyun axıb getməsinə mane
 dramatic	COLLOCATE	B2	B2-006	IMPACT	a dramatic impact	kəskin (çox güclü) təsir
 DRAW	MAIN	A1	A1-057	DRAW		(karandaşla) şəkil çəkmək; çəkmək, dartmaq
 drawback	COLLOCATE	C1	C1-055	OUTWEIGH	outweigh the drawbacks	çatışmazlıqları üstələmək
+drawing	FAMILY	A1	A1-057	DRAW		(karandaşla çəkilmiş) rəsm, şəkil, həmçinin rəsmxət
 dread	COLLOCATE	C2	C2-040	REPERCUSSION	dread the repercussions	nəticələrindən vahimələnmək
 dream	COLLOCATE	A2	A2-031	HOPE	hopes and dreams	ümidlər və arzular
 DRESS	MAIN	A1	A1-050	DRESS		don (qadın paltarı); geyinmək, geyindirmək
@@ -798,6 +836,7 @@ drift	COLLOCATE	C2	C2-021	COMPLACENT	drift into complacency	yavaş-yavaş arxay�
 DRINK	MAIN	A1	A1-008	DRINK		içmək; içki
 drive	COLLOCATE	A1	A1-017	LEARN	learn to drive	maşın sürməyi öyrənmək
 driver	COLLOCATE	A1	A1-047	BEGIN	begin as a driver	sürücü kimi (işə) başlamaq
+driving	COLLOCATE	A2	A2-056	FAIL	fail at driving	maşın sürməkdə uğursuz olmaq
 drop	COLLOCATE	B2	B2-016	DEMAND	a drop in demand	tələbatın azalması
 drought	COLLOCATE	C1	C1-025	RESILIENT	resilient to drought	quraqlığa davamlı
 dry	COLLOCATE	A1	A1-039	HOT	hot and dry	isti və quru
@@ -872,6 +911,7 @@ enduring	COLLOCATE	C2	C2-053	FALLACY	an enduring fallacy	uzunömürlü yanlış 
 enemy	COLLOCATE	C2	C2-029	INSIDIOUS	an insidious enemy	məkrli düşmən
 energy	COLLOCATE	B2	B2-015	CONSUME	consume energy	enerji sərf etmək (istehlak etmək)
 enforcement	COLLOCATE	C1	C1-026	RIGOROUS	rigorous enforcement	(qaydaların) ciddi icrası
+engine	COLLOCATE	A2	A2-053	REPLACE	replace the engine	mühərriki dəyişmək
 engineer	COLLOCATE	C2	C2-048	DEARTH	a dearth of engineers	mühəndis çatışmazlığı
 English	COLLOCATE	A1	A1-017	LEARN	learn English	ingilis dilini öyrənmək
 enhance	COLLOCATE	C1	C1-025	RESILIENT	enhance resilience	dayanıqlılığı artırmaq
@@ -937,6 +977,7 @@ evil	COLLOCATE	C1	C1-013	INHERENT	inherently evil	təbiətcə şər (pis)
 evoke	COLLOCATE	C2	C2-026	POIGNANT	poignantly evoke	ürəyə toxunan şəkildə canlandırmaq
 EXACERBATE	MAIN	C2	C2-001	EXACERBATE		kəskinləşdirmək, ağırlaşdırmaq, daha da pisləşdirmək
 exacerbation	FAMILY	C2	C2-001	EXACERBATE		kəskinləşmə, ağırlaşma
+exact	COLLOCATE	A2	A2-047	NOTICE	notice the exact height	dəqiq hündürlüyə fikir vermək
 exactly	COLLOCATE	B1	B1-012	EXPLAIN	explain exactly	dəqiq izah etmək
 exaggerate	COLLOCATE	C2	C2-058	PROPENSITY	a propensity to exaggerate	şişirtməyə meyil
 exam	COLLOCATE	A1	A1-004	TAKE	take an exam	imtahan vermək
@@ -955,12 +996,14 @@ existence	COLLOCATE	C2	C2-005	PRECARIOUS	a precarious existence	çətin dolanı�
 existing	COLLOCATE	C2	C2-020	PARADIGM	the existing paradigm	mövcud paradiqma
 exit	COLLOCATE	A2	A2-017	FIND	find the exit	çıxışı tapmaq
 expansion	COLLOCATE	C1	C1-037	UNPRECEDENTED	an unprecedented expansion	misli görünməmiş genişlənmə
+EXPECT	MAIN	A2	A2-055	EXPECT		gözləmək (baş verəcəyini güman etmək), ummaq
 expectation	COLLOCATE	C1	C1-034	LEGITIMATE	a legitimate expectation	əsaslı gözlənti
 expenditure	COLLOCATE	C1	C1-017	SCRUTINY	scrutinise expenditure	xərcləri diqqətlə yoxlamaq
 expense	COLLOCATE	C1	C1-055	OUTWEIGH	outweigh the expense	xərci üstələmək
 expensive	COLLOCATE	A1	A1-011	MONEY	cheap or expensive	ucuz, yoxsa baha
 EXPERIENCE	MAIN	B1	B1-005	EXPERIENCE		təcrübə; başa gələn hadisə, təəssürat; yaşamaq, üzləşmək
 experienced	FAMILY	B1	B1-005	EXPERIENCE		təcrübəli
+experiment	COLLOCATE	A2	A2-051	CONTINUE	continue the experiment	təcrübəni davam etdirmək
 expert	COLLOCATE	B1	B1-017	OPINION	an expert opinion	ekspert rəyi
 expertise	COLLOCATE	C2	C2-009	DISSEMINATE	disseminate expertise	təcrübə və bilikləri yaymaq
 EXPLAIN	MAIN	B1	B1-012	EXPLAIN		izah etmək, başa salmaq
@@ -998,6 +1041,8 @@ facility	COLLOCATE	B1	B1-025	PROVIDE	provide facilities	şərait (imkanlar, obye
 fact	COLLOCATE	A2	A2-040	INTEREST	interesting facts	maraqlı faktlar
 factor	COLLOCATE	B2	B2-011	SIGNIFICANT	a significant factor	mühüm amil
 factory	COLLOCATE	C1	C1-054	OBSOLETE	an obsolete factory	köhnəlmiş zavod
+FAIL	MAIN	A2	A2-056	FAIL		uğursuz olmaq; (imtahandan) kəsilmək; bacarmamaq
+failure	FAMILY	A2	A2-056	FAIL		uğursuzluq, iflas
 fair	COLLOCATE	B1	B1-041	DEAL	a fair deal	ədalətli sövdələşmə; ədalətli rəftar
 fairly	COLLOCATE	A2	A2-035	EASY	fairly easy	kifayət qədər asan
 faith	COLLOCATE	C1	C1-032	ERODE	erode faith	inamı tədricən zəiflətmək
@@ -1016,6 +1061,7 @@ far-reaching	COLLOCATE	B2	B2-005	CONSEQUENCE	far-reaching consequences	genişmiq
 farewell	COLLOCATE	C2	C2-026	POIGNANT	a poignant farewell	kövrək vida
 FARM	MAIN	A1	A1-065	FARM		ferma, təsərrüfat
 farmer	FAMILY	A1	A1-065	FARM		fermer
+farming	FAMILY	A1	A1-065	FARM		əkinçilik, fermer təsərrüfatı işi
 fashion	COLLOCATE	A2	A2-009	SHOW	a fashion show	moda nümayişi
 fast	COLLOCATE	A2	A2-020	GROW	grow fast	sürətlə böyümək, sürətlə artmaq
 fat	COLLOCATE	C1	C1-041	ACCUMULATE	accumulate fat	piy toplamaq
@@ -1046,6 +1092,7 @@ file	COLLOCATE	A2	A2-008	SEND	send a file	fayl göndərmək
 fill	COLLOCATE	A1	A1-055	SPELL	fill in this section	bu bölməni doldurmaq
 film	COLLOCATE	A1	A1-025	WATCH	watch a film	filmə baxmaq
 final	COLLOCATE	A2	A2-027	WIN	win the final	finalda qalib gəlmək
+finally	COLLOCATE	A2	A2-047	NOTICE	finally notice	nəhayət ki, görmək
 financial	COLLOCATE	B1	B1-026	SUPPORT	financial support	maliyyə dəstəyi
 FIND	MAIN	A2	A2-017	FIND		tapmaq; hesab etmək, saymaq
 finding	FAMILY	A2	A2-017	FIND		(tədqiqatın) nəticəsi, tapıntı
@@ -1057,6 +1104,7 @@ fire	COLLOCATE	A2	A2-005	CATCH	catch fire	alışmaq, od tutmaq
 firmly	COLLOCATE	B2	B2-028	ESTABLISH	firmly established	möhkəm oturuşmuş
 fiscal	COLLOCATE	C1	C1-012	INCENTIVE	fiscal incentives	vergi güzəştləri, fiskal stimullar
 fish	COLLOCATE	A1	A1-009	COOK	cook fish	balıq bişirmək
+fishing	COLLOCATE	A2	A2-041	ALLOW	allow fishing	balıq tutmağa icazə vermək
 fit	COLLOCATE	A2	A2-015	KEEP	keep fit	formada qalmaq
 fix	COLLOCATE	B2	B2-039	TERM	a short-term fix	müvəqqəti həll, qısamüddətli çıxış yolu
 flat	COLLOCATE	A1	A1-012	LIVE	live in a flat	mənzildə yaşamaq
@@ -1075,6 +1123,7 @@ flu	COLLOCATE	A2	A2-005	CATCH	catch the flu	qripə yoluxmaq
 FLUCTUATE	MAIN	C1	C1-010	FLUCTUATE		dəyişkən olmaq, enib-qalxmaq, tərəddüd etmək
 fluctuation	FAMILY	C1	C1-010	FLUCTUATE		enib-qalxma, dəyişkənlik
 FLY	MAIN	A1	A1-064	FLY		uçmaq; təyyarə ilə getmək
+flying	FAMILY	A1	A1-064	FLY		uçuş, təyyarə ilə səyahət
 follow	COLLOCATE	A2	A2-035	EASY	easy to follow	başa düşmək (izləmək) asan olan
 food	COLLOCATE	A2	A2-011	TRY	try the local food	yerli yeməklərin dadına baxmaq
 foot	COLLOCATE	A1	A1-043	SIT	on foot	piyada
@@ -1087,6 +1136,7 @@ foreign	COLLOCATE	B2	B2-020	POLICY	foreign policy	xarici siyasət
 forest	COLLOCATE	B1	B1-022	PROTECT	protect forests	meşələri qorumaq
 forge	COLLOCATE	C1	C1-020	CONSENSUS	forge a consensus	razılıq formalaşdırmaq (əldə etmək)
 forget	COLLOCATE	A1	A1-046	BELIEVE	forget about it	bunu unut; boş ver
+fork	COLLOCATE	A2	A2-048	PASS	pass a fork	çəngəl uzatmaq
 form	COLLOCATE	B1	B1-010	APPLY	an application form	ərizə forması, müraciət blankı
 formal	COLLOCATE	B1	B1-015	COMPLAIN	a formal complaint	rəsmi şikayət
 format	COLLOCATE	C1	C1-054	OBSOLETE	an obsolete format	istifadədən çıxmış format
@@ -1134,6 +1184,7 @@ galvanised	FAMILY	C2	C2-011	GALVANISE		sinklənmiş, həmçinin hərəkətə gə
 gambler	COLLOCATE	C2	C2-053	FALLACY	the gambler's fallacy	qumarbaz yanılması
 game	COLLOCATE	A1	A1-024	PLAY	play computer games	kompüter oyunları oynamaq
 gap	COLLOCATE	B2	B2-032	GENERATE	the generation gap	nəsillər arasındakı fərq (uçurum)
+garbage	COLLOCATE	A2	A2-049	THROW	throw sth in the garbage	nəyisə zibilə atmaq
 garden	COLLOCATE	A1	A1-026	HELP	help in the garden	bağda kömək etmək
 gas	COLLOCATE	B2	B2-025	CLIMATE	greenhouse gases	istixana qazları
 gasp	COLLOCATE	C1	C1-050	ELICIT	elicit a gasp	heyrət nidasına səbəb olmaq
@@ -1198,6 +1249,7 @@ grief	COLLOCATE	C1	C1-016	PROFOUND	profound grief	dərin kədər
 grievance	COLLOCATE	C1	C1-034	LEGITIMATE	a legitimate grievance	əsaslı narazılıq (şikayət)
 grin	COLLOCATE	C1	C1-040	BEAR	grin and bear it	dişini sıxıb dözmək
 grip	COLLOCATE	C2	C2-005	PRECARIOUS	a precarious grip	zəif tutuş, həmçinin zəif nəzarət
+groomed	COLLOCATE	C2	C2-024	METICULOUS	meticulously groomed	son dərəcə səliqəli, baxımlı
 gross	COLLOCATE	B2	B2-017	PROFIT	gross profit	ümumi mənfəət (vergi və xərclər çıxılmamış)
 ground	COLLOCATE	A2	A2-018	FALL	fall to the ground	yerə düşmək
 groundwater	COLLOCATE	C1	C1-030	DEPLETE	deplete groundwater	yeraltı suları tükətmək
@@ -1212,6 +1264,7 @@ guest	COLLOCATE	A2	A2-037	IMPORTANT	an important guest	hörmətli (vacib) qonaq
 guide	COLLOCATE	A2	A2-001	TRAVEL	a travel guide	səyahət bələdçisi (kitab və ya şəxs)
 guideline	COLLOCATE	C1	C1-011	IMPLEMENT	implement guidelines	təlimatları (rəhbər prinsipləri) tətbiq etmək
 guitar	COLLOCATE	A1	A1-024	PLAY	play the guitar	gitara çalmaq
+gun	COLLOCATE	A2	A2-041	ALLOW	allow guns	odlu silaha icazə vermək
 gym	COLLOCATE	A1	A1-051	PREFER	prefer the gym	idman zalına üstünlük vermək
 HABIT	MAIN	B1	B1-031	HABIT		vərdiş, adət
 habitat	COLLOCATE	C1	C1-038	VULNERABLE	vulnerable habitats	həssas yaşayış mühitləri
@@ -1254,6 +1307,7 @@ heater	FAMILY	A1	A1-039	HOT		qızdırıcı (cihaz)
 heating	FAMILY	A1	A1-039	HOT		isitmə sistemi
 heavily	COLLOCATE	B2	B2-013	INVEST	invest heavily	böyük sərmayə qoymaq
 heavy	COLLOCATE	A2	A2-016	LOSE	a heavy loss	ağır itki
+height	COLLOCATE	A2	A2-047	NOTICE	notice the exact height	dəqiq hündürlüyə fikir vermək
 heightened	COLLOCATE	C1	C1-017	SCRUTINY	heightened scrutiny	gücləndirilmiş nəzarət
 helmet	COLLOCATE	A2	A2-038	SAFE	a safety helmet	qoruyucu dəbilqə
 HELP	MAIN	A1	A1-026	HELP		kömək etmək; kömək
@@ -1267,6 +1321,7 @@ high	COLLOCATE	B2	B2-016	DEMAND	in high demand	böyük tələbat olan
 higher	COLLOCATE	B1	B1-011	EDUCATION	higher education	ali təhsil
 highlight	COLLOCATE	C2	C2-039	SALIENT	highlight salient traits	səciyyəvi cəhətləri ön plana çəkmək
 highly	COLLOCATE	B1	B1-002	SUCCEED	highly successful	çox uğurlu, olduqca uğurlu
+hike	COLLOCATE	A2	A2-051	CONTINUE	continue the hike	piyada yürüşə davam etmək
 HINDER	MAIN	C1	C1-023	HINDER		mane olmaq, əngəl törətmək
 hindrance	FAMILY	C1	C1-023	HINDER		maneə, əngəl
 hint	COLLOCATE	C1	C1-035	SUBTLE	a subtle hint	incə işarə (eyham)
@@ -1275,6 +1330,7 @@ history	COLLOCATE	A1	A1-017	LEARN	learn about history	tarix haqqında öyrənmə
 hoard	COLLOCATE	C2	C2-058	PROPENSITY	a propensity to hoard	yığıb saxlamağa meyil
 hobby	COLLOCATE	A2	A2-040	INTEREST	hobbies and interests	hobbi və maraqlar
 hold	COLLOCATE	B1	B1-035	RESPONSIBLE	hold sb responsible	kimisə məsul saymaq, cavabdeh tutmaq
+hole	COLLOCATE	A2	A2-046	COVER	cover a hole	deşiyi (çuxuru) örtmək
 holiday	COLLOCATE	A1	A1-001	GO	go on holiday	tətilə getmək, istirahətə getmək
 holistic	COLLOCATE	C2	C2-020	PARADIGM	a holistic paradigm	bütöv (holistik) yanaşma modeli
 home	COLLOCATE	A1	A1-001	GO	go home	evə getmək
@@ -1322,6 +1378,7 @@ imagination	COLLOCATE	C2	C2-048	DEARTH	a dearth of imagination	təxəyyül qıtl
 imagine	COLLOCATE	A1	A1-046	BELIEVE	just imagine	bir təsəvvür et
 imbalance	COLLOCATE	C2	C2-001	EXACERBATE	exacerbate the imbalance	tarazlığın pozulmasını gücləndirmək
 immediate	COLLOCATE	B2	B2-006	IMPACT	an immediate impact	dərhal hiss olunan təsir
+immediately	COLLOCATE	A2	A2-047	NOTICE	notice immediately	dərhal fərqinə varmaq
 immigration	COLLOCATE	B2	B2-020	POLICY	a policy on immigration	immiqrasiya siyasəti
 immunity	COLLOCATE	C2	C2-037	BOLSTER	bolster immunity	immuniteti gücləndirmək
 IMPACT	MAIN	B2	B2-006	IMPACT		təsir; zərbə, toqquşma; təsir etmək
@@ -1390,6 +1447,7 @@ INNOVATE	MAIN	B2	B2-024	INNOVATE		yenilik etmək, yeniliklər tətbiq etmək
 innovation	FAMILY	B2	B2-024	INNOVATE		yenilik, innovasiya
 innovative	FAMILY	B2	B2-024	INNOVATE		yenilikçi, innovativ
 innovator	FAMILY	B2	B2-024	INNOVATE		yenilikçi, novator
+insect	COLLOCATE	A2	A2-044	COLLECT	collect insects	həşərat toplamaq
 INSIDIOUS	MAIN	C2	C2-029	INSIDIOUS		məkrli, gizli şəkildə zərər vuran, sinsi
 insidiously	FAMILY	C2	C2-029	INSIDIOUS		məkrli şəkildə, hiss olunmadan
 insight	COLLOCATE	B2	B2-030	REVEAL	a revealing insight	çox şey deyən müşahidə
@@ -1428,6 +1486,7 @@ INVEST	MAIN	B2	B2-013	INVEST		sərmayə qoymaq, investisiya yatırmaq; (vaxt, g�
 investigation	COLLOCATE	C1	C1-023	HINDER	hinder an investigation	istintaqa (araşdırmaya) mane olmaq
 investment	FAMILY	B2	B2-013	INVEST		sərmayə, investisiya
 investor	FAMILY	B2	B2-013	INVEST		sərmayəçi, investor
+invitation	COLLOCATE	A2	A2-055	EXPECT	expect an invitation	dəvət gözləmək
 invite	COLLOCATE	A1	A1-015	FRIEND	invite a friend	dostu dəvət etmək
 invoice	COLLOCATE	C2	C2-060	SPURIOUS	a spurious invoice	saxta hesab-faktura
 involve	COLLOCATE	C1	C1-039	STAKE	involve stakeholders	maraqlı tərəfləri cəlb etmək
@@ -1437,6 +1496,7 @@ irresponsible	FAMILY	B1	B1-035	RESPONSIBLE		məsuliyyətsiz
 island	COLLOCATE	A1	A1-064	FLY	fly to an island	adaya uçmaq
 ISSUE	MAIN	B2	B2-007	ISSUE		məsələ, problem; (jurnal) buraxılış, nömrə; rəsmən vermək, dərc etmək
 jacket	COLLOCATE	A1	A1-029	WEAR	wear a jacket	pencək və ya gödəkcə geyinmək
+jam	COLLOCATE	A2	A2-048	PASS	pass the jam	mürəbbəni ötürmək
 January	REFERENCE	A1	A1-000	FOUNDATION		yanvar
 jargon	COLLOCATE	C2	C2-003	UBIQUITOUS	ubiquitous jargon	hər yerdə işlədilən peşə jarqonu
 jarring	COLLOCATE	C2	C2-012	JUXTAPOSE	a jarring juxtaposition	göz deşən təzad
@@ -1465,12 +1525,16 @@ key	COLLOCATE	A1	A1-027	LOOK	look for the keys	açarları axtarmaq
 kick	COLLOCATE	B1	B1-031	HABIT	kick the habit	zərərli vərdişi tərgitmək
 kid	COLLOCATE	A2	A2-032	WORRY	worry about the kids	uşaqlara görə narahat olmaq
 kind	COLLOCATE	A2	A2-036	DIFFERENT	a different kind	başqa növ, fərqli cür
+king	COLLOCATE	A2	A2-043	BELONG	belong to the king	krala məxsus olmaq
 kitchen	COLLOCATE	A1	A1-009	COOK	cook in the kitchen	mətbəxdə yemək bişirmək
+knee	COLLOCATE	A2	A2-046	COVER	cover your knees	dizlərini örtmək
 knife	COLLOCATE	A2	A2-024	USE	use a knife	bıçaq işlətmək
 know	COLLOCATE	A2	A2-040	INTEREST	interested to know	bilmək istəyən, öyrənməyə maraqlı
 knowledge	COLLOCATE	B1	B1-010	APPLY	apply knowledge	biliyi tətbiq etmək
+lab	COLLOCATE	A2	A2-050	ATTEND	attend a lab	laboratoriya məşğələsinə getmək
 lack	COLLOCATE	B1	B1-005	EXPERIENCE	lack experience	təcrübəsi çatışmamaq
 laid-back	COLLOCATE	B2	B2-027	ATTITUDE	a laid-back attitude	rahat (arxayın) münasibət
+lake	COLLOCATE	A2	A2-049	THROW	throw sth into the lake	nəyisə gölə atmaq
 land	COLLOCATE	C1	C1-003	ALLOCATE	allocate land	torpaq ayırmaq
 landmark	COLLOCATE	C2	C2-039	SALIENT	a salient landmark	uzaqdan seçilən oriyentir (nişangah)
 language	COLLOCATE	A1	A1-017	LEARN	learn a language	dil öyrənmək
@@ -1494,6 +1558,7 @@ LEARN	MAIN	A1	A1-017	LEARN		öyrənmək
 learner	FAMILY	A1	A1-017	LEARN		öyrənən (şəxs)
 learning	FAMILY	A1	A1-017	LEARN		öyrənmə, təlim
 LEAVE	MAIN	A2	A2-003	LEAVE		getmək, tərk etmək; qoyub getmək, saxlamaq
+lecture	COLLOCATE	A2	A2-050	ATTEND	attend a lecture	mühazirədə iştirak etmək
 left	COLLOCATE	A2	A2-014	TURN	turn left	sola dönmək
 leg	COLLOCATE	A1	A1-016	BODY	arms and legs	qollar və ayaqlar (qıçlar)
 legacy	COLLOCATE	C2	C2-004	PERNICIOUS	a pernicious legacy	ağır (zərərli) miras
@@ -1503,6 +1568,7 @@ legitimacy	FAMILY	C1	C1-034	LEGITIMATE		qanunilik, legitimlik
 LEGITIMATE	MAIN	C1	C1-034	LEGITIMATE		qanuni, haqlı, əsaslı
 legitimately	FAMILY	C1	C1-034	LEGITIMATE		qanuni olaraq, haqlı olaraq
 legitimise	FAMILY	C1	C1-034	LEGITIMATE		qanuniləşdirmək, haqq qazandırmaq
+lemon	COLLOCATE	A2	A2-048	PASS	pass a lemon	limon uzatmaq
 lend	COLLOCATE	C2	C2-035	IMPETUS	lend impetus to	nəyəsə təkan vermək
 lesser	COLLOCATE	B2	B2-040	EXTENT	to a lesser extent	daha az dərəcədə
 lesson	COLLOCATE	A1	A1-036	NEW	a new lesson	yeni dərs
@@ -1518,6 +1584,7 @@ lifelong	COLLOCATE	B1	B1-031	HABIT	a lifelong habit	ömürlük vərdiş
 lifestyle	COLLOCATE	A2	A2-033	HEALTH	a healthy lifestyle	sağlam həyat tərzi
 lift	COLLOCATE	B2	B2-034	RESTRICT	lift restrictions	məhdudiyyətləri götürmək
 light	COLLOCATE	A2	A2-001	TRAVEL	travel light	az yüklə səyahət etmək
+likely	COLLOCATE	A2	A2-055	EXPECT	likely to do sth	çox güman ki, nəyisə edəcək
 limit	COLLOCATE	B1	B1-038	SET	set a limit	hədd (limit) qoymaq
 line	COLLOCATE	A1	A1-057	DRAW	draw a line	xətt çəkmək
 linguistic	COLLOCATE	C2	C2-013	NUANCE	linguistic nuances	dil incəlikləri
@@ -1563,6 +1630,7 @@ luxury	COLLOCATE	C2	C2-010	EPITOMISE	the epitome of luxury	dəbdəbənin təcəs
 machine	COLLOCATE	A1	A1-062	BUILD	build a machine	maşın (mexanizm) düzəltmək
 machinery	COLLOCATE	C1	C1-054	OBSOLETE	obsolete machinery	köhnəlmiş avadanlıq (dəzgahlar)
 magazine	COLLOCATE	A1	A1-018	READ	read a magazine	jurnal oxumaq
+mail	COLLOCATE	A2	A2-044	COLLECT	collect the mail	poçtu (məktubları) götürmək
 main	COLLOCATE	A2	A2-032	WORRY	the main worry	əsas narahatlıq, başlıca qayğı
 MAINTAIN	MAIN	B2	B2-029	MAINTAIN		saxlamaq, qoruyub saxlamaq; texniki qulluq göstərmək; iddia etmək
 maintenance	FAMILY	B2	B2-029	MAINTAIN		texniki qulluq, saxlanma
@@ -1590,6 +1658,8 @@ mass	COLLOCATE	C2	C2-009	DISSEMINATE	mass dissemination	kütləvi yayım
 master	COLLOCATE	B1	B1-006	SKILL	master a skill	bir bacarığa mükəmməl yiyələnmək
 match	COLLOCATE	A1	A1-025	WATCH	watch a match	oyuna (matça) baxmaq
 material	COLLOCATE	B2	B2-023	SUSTAIN	sustainable materials	ekoloji cəhətdən davamlı materiallar
+mathematics	COLLOCATE	A2	A2-056	FAIL	fail mathematics	riyaziyyatdan kəsilmək
+maths	COLLOCATE	A2	A2-056	FAIL	fail maths	riyaziyyatdan kəsilmək
 matter	COLLOCATE	B1	B1-016	DISCUSS	discuss the matter	məsələni müzakirə etmək
 mature	COLLOCATE	B2	B2-027	ATTITUDE	a mature attitude	yetkin yanaşma
 maximise	COLLOCATE	B2	B2-017	PROFIT	maximise profits	mənfəəti maksimuma çatdırmaq
@@ -1637,6 +1707,7 @@ minimise	COLLOCATE	B2	B2-006	IMPACT	minimise the impact	təsiri minimuma endirm�
 minor	COLLOCATE	C1	C1-010	FLUCTUATE	minor fluctuations	cüzi dəyişmələr
 minority	COLLOCATE	B2	B2-011	SIGNIFICANT	a significant minority	xeyli sayda azlıq
 minute	COLLOCATE	A2	A2-004	ARRIVE	arrive within minutes	bir neçə dəqiqə ərzində çatmaq
+mirror	COLLOCATE	A2	A2-046	COVER	cover the mirror	güzgünü örtmək
 mischief	COLLOCATE	C2	C2-058	PROPENSITY	a propensity for mischief	dəcəlliyə meyil
 misconception	COLLOCATE	C1	C1-015	PREVALENT	a prevalent misconception	geniş yayılmış yanlış təsəvvür
 misinformation	COLLOCATE	C2	C2-006	PROLIFERATE	the proliferation of misinformation	yanlış məlumatların yayılması
@@ -1664,6 +1735,7 @@ mood	COLLOCATE	C1	C1-010	FLUCTUATE	fluctuations in mood	əhval-ruhiyyənin dəyi
 moral	COLLOCATE	B1	B1-026	SUPPORT	moral support	mənəvi dəstək
 morale	COLLOCATE	C1	C1-018	UNDERMINE	undermine morale	ruh yüksəkliyini sarsıtmaq
 morning	COLLOCATE	A1	A1-034	GOOD	good morning	sabahınız xeyir
+mostly	COLLOCATE	A2	A2-052	DEPEND	mostly depend on sth	əsasən nədənsə asılı olmaq
 mother	COLLOCATE	A1	A1-014	FAMILY	mother and father	ana və ata
 motif	COLLOCATE	C2	C2-039	SALIENT	a salient motif	diqqəti çəkən motiv
 motion	COLLOCATE	C1	C1-031	ENDORSE	endorse a motion	təklifi dəstəkləmək (iclasda)
@@ -1726,9 +1798,11 @@ non-proliferation	FAMILY	C2	C2-006	PROLIFERATE		(silahların) yayılmaması
 non-stop	FAMILY	A2	A2-026	STOP		fasiləsiz, dayanmadan
 nonsense	COLLOCATE	C2	C2-004	PERNICIOUS	pernicious nonsense	zərərli cəfəngiyat
 norm	COLLOCATE	C1	C1-015	PREVALENT	prevailing norms	hakim normalar
+normally	COLLOCATE	A2	A2-051	CONTINUE	continue normally	adi qaydada davam etmək
 north	COLLOCATE	A1	A1-064	FLY	in the north	şimalda
 nose	COLLOCATE	A1	A1-016	BODY	nose and ears	burun və qulaqlar
 note	COLLOCATE	A1	A1-019	WRITE	write a note	qeyd yazmaq; qısa məktub yazmaq
+NOTICE	MAIN	A2	A2-047	NOTICE		görmək, fərqinə varmaq; elan, bildiriş
 notion	COLLOCATE	C2	C2-033	UNDERPIN	underpin the notion	anlayışın (təsəvvürün) əsasını təşkil etmək
 novel	COLLOCATE	C2	C2-025	PERVASIVE	pervade the novel	romanın ruhuna hopmaq
 November	REFERENCE	A1	A1-000	FOUNDATION		noyabr
@@ -1806,6 +1880,7 @@ overturn	COLLOCATE	C2	C2-020	PARADIGM	overturn the paradigm	paradiqmanı alt-üs
 overview	COLLOCATE	C1	C1-045	COMPREHENSIVE	a comprehensive overview	əhatəli ümumi baxış
 overwhelming	COLLOCATE	C1	C1-020	CONSENSUS	an overwhelming consensus	böyük əksəriyyətin yekdil rəyi
 own	COLLOCATE	B1	B1-007	MANAGE	manage on your own	təkbaşına bacarmaq, tək dolanmaq
+owner	COLLOCATE	A2	A2-043	BELONG	belong to the owner	sahibinə məxsus olmaq
 oxygen	COLLOCATE	C1	C1-030	DEPLETE	deplete oxygen	oksigeni tükətmək
 ozone	COLLOCATE	C1	C1-030	DEPLETE	deplete the ozone layer	ozon təbəqəsini dağıtmaq (nazikləşdirmək)
 pace	COLLOCATE	B2	B2-023	SUSTAIN	sustain the pace	tempi saxlamaq
@@ -1831,6 +1906,7 @@ parcel	COLLOCATE	A2	A2-008	SEND	send a parcel	bağlama göndərmək
 parent	COLLOCATE	A1	A1-012	LIVE	live with your parents	valideynlərinlə yaşamaq
 Paris	COLLOCATE	A2	A2-004	ARRIVE	arrive in Paris	Parisə çatmaq
 park	COLLOCATE	A1	A1-033	CITY	parks and squares	parklar və meydanlar
+parking	COLLOCATE	A2	A2-041	ALLOW	allow parking	maşın saxlamağa icazə vermək
 parliamentary	COLLOCATE	C1	C1-017	SCRUTINY	parliamentary scrutiny	parlament nəzarəti
 part	COLLOCATE	A1	A1-016	BODY	parts of the body	bədən üzvləri, bədənin hissələri
 part-time	COLLOCATE	B1	B1-009	EMPLOY	a part-time employee	yarımştat işçi
@@ -1839,7 +1915,9 @@ participation	COLLOCATE	C1	C1-009	FACILITATE	facilitate participation	iştirakı
 particularly	COLLOCATE	C1	C1-015	PREVALENT	particularly prevalent	xüsusilə geniş yayılmış
 partner	COLLOCATE	A2	A2-017	FIND	find a partner	tərəfdaş tapmaq, cütünü tapmaq
 party	COLLOCATE	A1	A1-002	COME	come to a party	qonaqlığa gəlmək, şənliyə gəlmək
+PASS	MAIN	A2	A2-048	PASS		ötürmək, uzatmaq; keçmək; (imtahanı) vermək
 passage	COLLOCATE	C2	C2-039	SALIENT	salient passages	ən mühüm parçalar
+passenger	COLLOCATE	A2	A2-055	EXPECT	expect passengers	sərnişinləri gözləmək
 passionate	COLLOCATE	C1	C1-002	ADVOCATE	a passionate advocate	ehtiraslı müdafiəçi
 passport	COLLOCATE	A2	A2-007	BRING	bring your passport	pasportunu gətirmək
 password	COLLOCATE	A2	A2-012	CHANGE	change your password	parolunu dəyişmək
@@ -1859,6 +1937,7 @@ peer	COLLOCATE	B1	B1-034	PRESSURE	peer pressure	yaşıdların təzyiqi (təsiri)
 pen	COLLOCATE	A1	A1-019	WRITE	write with a pen	qələmlə yazmaq
 penalty	COLLOCATE	C1	C1-014	MITIGATE	mitigate a penalty	cəzanı yüngülləşdirmək
 pencil	COLLOCATE	A1	A1-057	DRAW	draw with a pencil	karandaşla çəkmək
+penny	COLLOCATE	A2	A2-045	COUNT	count the pennies	qəpikləri saymaq; pulu ehtiyatla xərcləmək
 people	COLLOCATE	A1	A1-037	OLD	old people	yaşlı insanlar, qocalar
 pepper	COLLOCATE	A1	A1-048	ADD	add pepper	istiot əlavə etmək
 PERCEIVE	MAIN	C1	C1-056	PERCEIVE		qavramaq, dərk etmək; hesab etmək, ... kimi görmək
@@ -1965,6 +2044,7 @@ possibility	COLLOCATE	C2	C2-030	PRECLUDE	preclude the possibility of	nəyinsə m
 possible	COLLOCATE	B1	B1-012	EXPLAIN	a possible explanation	mümkün izah
 post	COLLOCATE	A2	A2-008	SEND	send by post	poçtla göndərmək
 postcard	COLLOCATE	A1	A1-019	WRITE	write a postcard	açıqca yazmaq
+poster	COLLOCATE	A2	A2-042	APPEAR	appear on a poster	afişada (posterdə) görünmək
 potato	COLLOCATE	A2	A2-020	GROW	grow potatoes	kartof becərmək
 potent	COLLOCATE	C1	C1-044	CATALYST	a potent catalyst	güclü katalizator
 potential	COLLOCATE	B2	B2-013	INVEST	potential investors	potensial investorlar
@@ -2009,6 +2089,7 @@ price	COLLOCATE	A1	A1-021	ASK	ask about the price	qiyməti soruşmaq
 pride	COLLOCATE	C2	C2-037	BOLSTER	bolster sb's pride	kiminsə qürurunu artırmaq
 primary	COLLOCATE	B1	B1-011	EDUCATION	primary education	ibtidai təhsil
 principle	COLLOCATE	B1	B1-019	AGREE	agree in principle	prinsipcə razılaşmaq
+printer	COLLOCATE	A2	A2-053	REPLACE	replace the printer	printeri dəyişmək
 priority	COLLOCATE	B2	B2-028	ESTABLISH	establish priorities	prioritetləri müəyyən etmək
 prison	COLLOCATE	B2	B2-039	TERM	a prison term	həbs müddəti
 privacy	COLLOCATE	C1	C1-032	ERODE	erode privacy	şəxsi həyatın toxunulmazlığını zəiflətmək
@@ -2020,6 +2101,7 @@ problem	COLLOCATE	A1	A1-035	BIG	a big problem	böyük problem
 procedure	COLLOCATE	C1	C1-011	IMPLEMENT	implement procedures	prosedurları tətbiq etmək
 process	COLLOCATE	B1	B1-012	EXPLAIN	explain the process	prosesi izah etmək
 procrastinate	COLLOCATE	C2	C2-058	PROPENSITY	a propensity to procrastinate	işi təxirə salmağa meyil
+produce	COLLOCATE	A2	A2-057	ADVERTISE	produce and advertise sth	nəyisə istehsal və reklam etmək
 product	COLLOCATE	B1	B1-004	DEVELOP	develop a product	məhsul hazırlamaq (yaratmaq)
 production	COLLOCATE	B1	B1-023	INCREASE	increase production	istehsalı artırmaq
 productivity	COLLOCATE	C1	C1-023	HINDER	hinder productivity	məhsuldarlığı aşağı salmaq
@@ -2075,7 +2157,9 @@ PUT	MAIN	A2	A2-025	PUT		qoymaq
 puzzle	COLLOCATE	B1	B1-027	SOLVE	solve a puzzle	tapmacanı (başsındıranı) həll etmək
 qualified	COLLOCATE	B2	B2-038	ACCOUNT	a qualified accountant	diplomlu (ixtisaslı) mühasib
 quality	COLLOCATE	B1	B1-003	IMPROVE	improve the quality	keyfiyyəti yaxşılaşdırmaq
+quantity	COLLOCATE	A2	A2-052	DEPEND	depend on the quantity	miqdardan asılı olmaq
 quarter	COLLOCATE	A1	A1-067	MONTH	the first quarter	birinci rüb
+queen	COLLOCATE	A2	A2-043	BELONG	belong to the queen	kraliçaya məxsus olmaq
 question	COLLOCATE	A1	A1-021	ASK	ask a question	sual vermək
 quick	COLLOCATE	A1	A1-056	DESCRIBE	a quick description	qısa (tez) təsvir
 quickly	COLLOCATE	A1	A1-017	LEARN	learn quickly	tez öyrənmək
@@ -2092,6 +2176,7 @@ racism	COLLOCATE	B2	B2-022	CAMPAIGN	campaign against racism	irqçiliyə qarşı 
 radical	COLLOCATE	B2	B2-009	APPROACH	a radical approach	radikal (köklü) yanaşma
 radio	COLLOCATE	A1	A1-022	LISTEN	listen to the radio	radioya qulaq asmaq
 rage	COLLOCATE	C1	C1-005	COHERENT	incoherent with rage	qəzəbdən sözünü itirmiş
+railroad	COLLOCATE	A2	A2-054	CONNECT	connect sth by railroad	nəyisə dəmir yolu ilə birləşdirmək
 rain	COLLOCATE	A1	A1-032	WEATHER	rain and snow	yağış və qar
 rainfall	COLLOCATE	C2	C2-048	DEARTH	a dearth of rainfall	yağıntı qıtlığı
 raise	COLLOCATE	B2	B2-007	ISSUE	raise an issue	məsələ qaldırmaq
@@ -2119,6 +2204,7 @@ reasonably	COLLOCATE	B1	B1-036	CONFIDENT	reasonably confident	kifayət qədər �
 rebuttal	COLLOCATE	C2	C2-044	COGENT	a cogent rebuttal	tutarlı təkzib
 receive	COLLOCATE	B1	B1-011	EDUCATION	receive an education	təhsil almaq
 recent	COLLOCATE	B2	B2-008	TREND	a recent trend	son dövrün meyli
+reception	COLLOCATE	A2	A2-050	ATTEND	attend a reception	qəbul mərasimində iştirak etmək
 recession	COLLOCATE	B2	B2-037	EMERGE	emerge from recession	tənəzzüldən çıxmaq
 recipe	COLLOCATE	A2	A2-011	TRY	try a recipe	resepti sınamaq (yeni yemək bişirmək)
 recollection	COLLOCATE	C2	C2-047	CORROBORATE	corroborate a recollection	xatirəni (yadda qalanı) təsdiq etmək
@@ -2179,6 +2265,7 @@ rent	COLLOCATE	A1	A1-013	HOUSE	rent a house	ev kirayələmək
 repair	COLLOCATE	C1	C1-008	DETERIORATE	deteriorate beyond repair	bərpası mümkün olmayan dərəcədə xarab olmaq
 repeat	COLLOCATE	A1	A1-022	LISTEN	listen and repeat	qulaq as və təkrar et
 REPERCUSSION	MAIN	C2	C2-040	REPERCUSSION		(adətən cəmdə) əks-səda, xoşagəlməz nəticə
+REPLACE	MAIN	A2	A2-053	REPLACE		əvəz etmək, dəyişmək
 reply	COLLOCATE	A2	A2-008	SEND	send a reply	cavab göndərmək
 report	COLLOCATE	B1	B1-008	PREPARE	prepare a report	hesabat hazırlamaq
 republic	COLLOCATE	C1	C1-043	AUTONOMY	an autonomous republic	muxtar respublika
@@ -2250,6 +2337,7 @@ river	COLLOCATE	A1	A1-065	FARM	a farm by the river	çay kənarındakı ferma
 road	COLLOCATE	A1	A1-026	HELP	help sb cross the road	kiməsə yolu keçməyə kömək etmək
 robot	COLLOCATE	C1	C1-043	AUTONOMY	autonomous robots	avtonom robotlar
 robust	COLLOCATE	C1	C1-047	CORRELATE	a robust correlation	möhkəm (etibarlı) korrelyasiya
+rock	COLLOCATE	A2	A2-049	THROW	throw a rock	daş (qaya parçası) atmaq
 role	COLLOCATE	A2	A2-037	IMPORTANT	an important role	mühüm rol
 romance	COLLOCATE	C2	C2-043	BURGEON	a burgeoning romance	yenicə alovlanan sevgi macərası
 roof	COLLOCATE	C1	C1-058	REINFORCE	reinforce the roof	damı möhkəmləndirmək
@@ -2281,6 +2369,7 @@ sanction	COLLOCATE	C1	C1-011	IMPLEMENT	implement sanctions	sanksiyalar tətbiq e
 sandwich	COLLOCATE	A1	A1-005	MAKE	make a sandwich	sendviç hazırlamaq
 satisfy	COLLOCATE	B2	B2-016	DEMAND	satisfy demand	tələbatı ödəmək
 Saturday	REFERENCE	A1	A1-000	FOUNDATION		şənbə
+sauce	COLLOCATE	A2	A2-048	PASS	pass the sauce	sousu ötürmək (uzatmaq)
 save	COLLOCATE	A1	A1-011	MONEY	save money	pul yığmaq; pula qənaət etmək
 savings	COLLOCATE	C1	C1-041	ACCUMULATE	accumulate savings	yığım toplamaq
 SAY	MAIN	A1	A1-042	SAY		demək, söyləmək
@@ -2292,6 +2381,7 @@ scarce	COLLOCATE	B2	B2-019	RESOURCE	scarce resources	qıt ehtiyatlar
 scenario	COLLOCATE	C1	C1-024	PLAUSIBLE	a plausible scenario	mümkün (ağlabatan) ssenari
 scene	COLLOCATE	B1	B1-038	SET	set the scene	səhnəni hazırlamaq; ümumi vəziyyəti təsvir etmək
 sceptical	COLLOCATE	C1	C1-016	PROFOUND	profoundly sceptical	dərin şübhə ilə yanaşan
+schedule	COLLOCATE	A2	A2-052	DEPEND	depend on the schedule	cədvəldən asılı olmaq
 scheme	COLLOCATE	B2	B2-021	CONTROVERSIAL	a controversial scheme	mübahisəli layihə (plan)
 scholarship	COLLOCATE	B1	B1-010	APPLY	apply for a scholarship	təqaüd üçün müraciət etmək
 school	COLLOCATE	A1	A1-001	GO	go to school	məktəbə getmək
@@ -2307,10 +2397,12 @@ sculpture	COLLOCATE	C2	C2-051	EPHEMERAL	an ephemeral sculpture	qısaömürlü he
 sea	COLLOCATE	A1	A1-012	LIVE	live near the sea	dənizin yaxınlığında yaşamaq
 search	COLLOCATE	C1	C1-023	HINDER	hinder the search	axtarışa mane olmaq
 seaside	COLLOCATE	C2	C2-059	QUINTESSENTIAL	the quintessential seaside resort	tipik dənizkənarı kurort
+season	COLLOCATE	A2	A2-052	DEPEND	depend on the season	fəsildən asılı olmaq
 seasonal	COLLOCATE	C1	C1-010	FLUCTUATE	seasonal fluctuations	mövsümi dəyişmələr
 seat	COLLOCATE	A1	A1-004	TAKE	take a seat	əyləşmək, oturmaq
 secondary	COLLOCATE	B1	B1-011	EDUCATION	secondary education	orta təhsil
 secret	COLLOCATE	A2	A2-010	TELL	tell sb a secret	kiməsə sirr açmaq
+secretary	COLLOCATE	A2	A2-058	ARRANGE	arrange it with the secretary	bunu katibə ilə razılaşdırmaq
 section	COLLOCATE	A1	A1-055	SPELL	fill in this section	bu bölməni doldurmaq
 sector	COLLOCATE	C2	C2-043	BURGEON	a burgeoning sector	sürətlə böyüyən sektor
 security	COLLOCATE	B1	B1-025	PROVIDE	provide security	təhlükəsizliyi təmin etmək
@@ -2359,6 +2451,7 @@ sharp	COLLOCATE	B1	B1-023	INCREASE	a sharp increase	kəskin artım
 shatter	COLLOCATE	C2	C2-021	COMPLACENT	shatter the complacency	arxayınçılığı darmadağın etmək
 shed	COLLOCATE	C1	C1-053	INHIBIT	shed your inhibitions	sıxılmanı bir kənara qoymaq
 sheep	COLLOCATE	A1	A1-065	FARM	a sheep farm	qoyunçuluq ferması
+sheet	COLLOCATE	A2	A2-045	COUNT	count the thin sheets	nazik vərəqləri saymaq
 shelf	COLLOCATE	A2	A2-025	PUT	put sth on the shelf	nəyisə rəfə qoymaq
 shelter	COLLOCATE	B1	B1-025	PROVIDE	provide shelter	sığınacaq vermək
 shift	COLLOCATE	B2	B2-011	SIGNIFICANT	a significant shift	əhəmiyyətli dəyişiklik (dönüş)
@@ -2372,11 +2465,12 @@ short-term	FAMILY	B2	B2-039	TERM		qısamüddətli
 shortage	COLLOCATE	B2	B2-031	TACKLE	tackle a shortage	çatışmazlığı aradan qaldırmağa çalışmaq
 shortcoming	COLLOCATE	C2	C2-002	AMELIORATE	ameliorate the shortcomings	nöqsanları aradan qaldırmağa çalışmaq
 shoulder	COLLOCATE	A1	A1-016	BODY	head and shoulders	baş və çiyinlər
-shouting	COLLOCATE	A2	A2-026	STOP	stop shouting	qışqırmağı dayandırmaq
+shout	COLLOCATE	A2	A2-026	STOP	stop shouting	qışqırmağı dayandırmaq
 SHOW	MAIN	A2	A2-009	SHOW		göstərmək; şou, tamaşa, veriliş
 showdown	COLLOCATE	C1	C1-048	CULMINATE	culminate in a showdown	həlledici qarşıdurma ilə nəticələnmək
 shower	COLLOCATE	A1	A1-004	TAKE	take a shower	duş qəbul etmək
 sick	COLLOCATE	A2	A2-028	FEEL	feel sick	ürəyi bulanmaq; özünü xəstə hiss etmək
+side	COLLOCATE	A2	A2-054	CONNECT	connect the two sides	iki tərəfi birləşdirmək
 side-effects	COLLOCATE	C2	C2-002	AMELIORATE	ameliorate side-effects	əlavə (yan) təsirləri azaltmaq
 sign	COLLOCATE	B1	B1-019	AGREE	sign an agreement	saziş imzalamaq
 signature	COLLOCATE	C2	C2-060	SPURIOUS	a spurious signature	saxta imza
@@ -2402,6 +2496,7 @@ SKILL	MAIN	B1	B1-006	SKILL		bacarıq, vərdiş, məharət
 skilled	FAMILY	B1	B1-006	SKILL		ixtisaslı, bacarıqlı
 skin	COLLOCATE	B1	B1-022	PROTECT	protect your skin	dərini qorumaq
 skirt	COLLOCATE	A1	A1-029	WEAR	wear a skirt	yubka (ətək) geyinmək
+sky	COLLOCATE	A2	A2-042	APPEAR	appear in the sky	səmada görünmək
 slavery	COLLOCATE	C2	C2-052	ERADICATE	eradicate slavery	köləliyi tamamilə aradan qaldırmaq
 sleep	COLLOCATE	A1	A1-044	WAKE	sleep until ten o'clock	saat ona qədər yatmaq
 slide	COLLOCATE	C2	C2-055	INEXORABLE	an inexorable slide	qarşısıalınmaz eniş (tənəzzül)
@@ -2416,17 +2511,22 @@ smart	COLLOCATE	A1	A1-068	BOY	a smart boy	ağıllı oğlan
 smartphone	COLLOCATE	C2	C2-003	UBIQUITOUS	ubiquitous smartphones	hər yerdə rast gəlinən smartfonlar
 smell	COLLOCATE	A2	A2-039	STRONG	a strong smell	kəskin iy, güclü qoxu
 smile	COLLOCATE	A1	A1-015	FRIEND	a friendly smile	mehriban təbəssüm
+smoke	COLLOCATE	A2	A2-047	NOTICE	notice the smoke	tüstünü görmək (hiss etmək)
 smokescreen	COLLOCATE	C2	C2-056	OBFUSCATE	a smokescreen of obfuscation	çaşdırıcı sözlərdən ibarət pərdə
 smoking	COLLOCATE	A2	A2-026	STOP	stop smoking	siqareti tərgitmək
 smoothly	COLLOCATE	B1	B1-039	RUN	run smoothly	rəvan getmək, problemsiz işləmək
 smug	COLLOCATE	C2	C2-021	COMPLACENT	smug and complacent	özündənrazı və arxayın
 snack	COLLOCATE	A2	A2-007	BRING	bring some snacks	bir az qəlyanaltı gətirmək
 snake	COLLOCATE	A1	A1-066	AFRAID	afraid of snakes	ilanlardan qorxan
+sneaker	COLLOCATE	A2	A2-057	ADVERTISE	advertise sneakers	idman ayaqqabılarını reklam etmək
 snow	COLLOCATE	A1	A1-032	WEATHER	rain and snow	yağış və qar
 snub	COLLOCATE	C1	C1-056	PERCEIVE	a perceived snub	saymazlıq kimi qəbul edilən hərəkət
 so-called	COLLOCATE	C2	C2-018	PANACEA	a so-called panacea	universal çarə adlandırılan vasitə
+soap	COLLOCATE	A2	A2-053	REPLACE	replace the soap	sabunu təzələmək
+soccer	COLLOCATE	A2	A2-058	ARRANGE	arrange a soccer camp	futbol düşərgəsi təşkil etmək
 social	COLLOCATE	A2	A2-024	USE	use social media	sosial mediadan istifadə etmək
 society	COLLOCATE	B2	B2-015	CONSUME	consumer society	istehlak cəmiyyəti
+sock	COLLOCATE	A2	A2-053	REPLACE	replace a sock	corabı (başqası ilə) dəyişmək
 soft	COLLOCATE	A1	A1-008	DRINK	a soft drink	spirtsiz sərinləşdirici içki
 software	COLLOCATE	B1	B1-004	DEVELOP	develop software	proqram təminatı hazırlamaq
 soil	COLLOCATE	C1	C1-032	ERODE	soil erosion	torpaq eroziyası
@@ -2458,6 +2558,7 @@ spelling	FAMILY	A1	A1-055	SPELL		orfoqrafiya, yazılış
 spend	COLLOCATE	A1	A1-011	MONEY	spend money	pul xərcləmək
 spirit	COLLOCATE	C1	C1-022	FOSTER	foster a spirit of	... ruhunu aşılamaq
 spoken	FAMILY	A1	A1-020	SPEAK		şifahi, danışıq
+spoon	COLLOCATE	A2	A2-048	PASS	pass a spoon	qaşıq uzatmaq
 SPORT	MAIN	A2	A2-034	SPORT		idman; idman növü
 sporty	FAMILY	A2	A2-034	SPORT		idmansevər, idmançı görkəmli
 spot	COLLOCATE	C2	C2-041	ANOMALY	spot an anomaly	uyğunsuzluğu sezmək
@@ -2475,6 +2576,7 @@ stage	COLLOCATE	B2	B2-012	CRUCIAL	a crucial stage	həlledici mərhələ
 STAKE	MAIN	C1	C1-039	STAKE		pay, maraq; risk altında olan məbləğ; paya, dirək
 stakeholder	FAMILY	C1	C1-039	STAKE		maraqlı tərəf, payçı
 stalemate	COLLOCATE	C2	C2-036	ENTRENCHED	entrench the stalemate	çıxılmaz vəziyyəti daha da möhkəmləndirmək
+stamp	COLLOCATE	A2	A2-044	COLLECT	collect stamps	marka toplamaq
 stance	COLLOCATE	C2	C2-007	VINDICATE	vindicate sb's stance	kiminsə mövqeyinin doğruluğunu sübut etmək
 stand	COLLOCATE	A1	A1-043	SIT	stand up	ayağa qalxmaq
 standard	COLLOCATE	B1	B1-038	SET	set a standard	standart (meyar) müəyyən etmək
@@ -2498,9 +2600,11 @@ stigmatise	FAMILY	C1	C1-027	STIGMA		damğalamaq, qınaq obyektinə çevirmək
 still	COLLOCATE	A2	A2-031	HOPE	there is still hope	hələ ümid var
 stimulate	COLLOCATE	B2	B2-018	ECONOMY	stimulate the economy	iqtisadiyyatı canlandırmaq
 stock	COLLOCATE	B2	B2-013	INVEST	invest in stocks	səhmlərə sərmayə qoymaq
+stone	COLLOCATE	A2	A2-044	COLLECT	collect stones	daş toplamaq
 STOP	MAIN	A2	A2-026	STOP		dayanmaq, dayandırmaq; dayanacaq
 store	COLLOCATE	A1	A1-049	ORDER	order from a store	mağazadan sifariş etmək
 story	COLLOCATE	A1	A1-018	READ	read a story	hekayə oxumaq
+straight	COLLOCATE	A2	A2-049	THROW	throw sth straight	nəyisə düz atmaq
 strange	COLLOCATE	C2	C2-041	ANOMALY	a strange anomaly	qəribə anomaliya
 strategy	COLLOCATE	B2	B2-024	INNOVATE	an innovative strategy	innovativ strategiya
 straw-man	COLLOCATE	C2	C2-053	FALLACY	the straw-man fallacy	"saman müqəvva" yanılması (rəqibin fikrini təhrif edib təkzib etmək)
@@ -2535,11 +2639,13 @@ successful	FAMILY	B1	B1-002	SUCCEED		uğurlu
 successfully	FAMILY	B1	B1-002	SUCCEED		uğurla
 SUCCUMB	MAIN	C2	C2-031	SUCCUMB		tab gətirməmək, təslim olmaq; (xəstəlikdən) ölmək
 sudden	COLLOCATE	B2	B2-037	EMERGE	the sudden emergence of	nəyinsə qəfil meydana çıxması
+suddenly	COLLOCATE	A2	A2-042	APPEAR	appear suddenly	qəflətən peyda olmaq
 suffer	COLLOCATE	B2	B2-005	CONSEQUENCE	suffer the consequences	nəticələrinə qatlaşmaq, cəzasını çəkmək
 sufficient	COLLOCATE	B2	B2-004	EVIDENCE	sufficient evidence	kifayət qədər (yetərli) sübut
 sugar	COLLOCATE	A1	A1-041	WANT	want more sugar	daha çox şəkər istəmək
 SUGGEST	MAIN	B1	B1-013	SUGGEST		təklif etmək, fikir irəli sürmək; nəyəsə işarə etmək
 suggestion	FAMILY	B1	B1-013	SUGGEST		təklif
+suit	COLLOCATE	A2	A2-057	ADVERTISE	advertise a suit	kostyum reklam etmək
 summary	COLLOCATE	B1	B1-008	PREPARE	prepare a summary	xülasə hazırlamaq
 summer	COLLOCATE	A1	A1-039	HOT	a hot summer	isti yay
 summit	COLLOCATE	B2	B2-025	CLIMATE	a climate summit	iqlim sammiti
@@ -2586,6 +2692,7 @@ system	COLLOCATE	B1	B1-004	DEVELOP	develop a system	sistem yaratmaq
 systematic	COLLOCATE	B2	B2-009	APPROACH	a systematic approach	sistemli yanaşma
 T-shirt	COLLOCATE	A1	A1-050	DRESS	a T-shirt and pants	futbolka və şalvar
 table	COLLOCATE	A2	A2-003	LEAVE	leave the table	süfrədən durmaq
+tablet	COLLOCATE	A2	A2-054	CONNECT	connect a tablet	planşeti qoşmaq
 tacit	COLLOCATE	C1	C1-020	CONSENSUS	a tacit consensus	dilə gətirilməyən (səssiz) razılıq
 TACKLE	MAIN	B2	B2-031	TACKLE		(problemin) həllinə girişmək, mübarizə aparmaq; (idmanda) topu almağa cəhd etmək
 TAKE	MAIN	A1	A1-004	TAKE		götürmək, aparmaq
@@ -2605,6 +2712,7 @@ taxi	COLLOCATE	A1	A1-003	GET	get a taxi	taksi tutmaq, taksiyə minmək
 tea	COLLOCATE	A1	A1-005	MAKE	make a cup of tea	bir fincan çay dəmləmək
 TEACH	MAIN	A1	A1-054	TEACH		öyrətmək, dərs demək
 teacher	FAMILY	A1	A1-054	TEACH		müəllim
+teaching	FAMILY	A1	A1-054	TEACH		müəllimlik, tədris (peşə kimi)
 team	COLLOCATE	A2	A2-034	SPORT	a team sport	komanda idman növü
 technical	COLLOCATE	B1	B1-006	SKILL	technical skills	texniki bacarıqlar
 technique	COLLOCATE	B2	B2-024	INNOVATE	an innovative technique	yenilikçi üsul (texnika)
@@ -2639,9 +2747,11 @@ theme	COLLOCATE	C2	C2-025	PERVASIVE	a pervasive theme	əsərin hər yerində duy
 theory	COLLOCATE	B1	B1-004	DEVELOP	develop a theory	nəzəriyyə işləyib hazırlamaq
 thesis	COLLOCATE	C2	C2-044	COGENT	a cogent thesis	tutarlı tezis
 thief	COLLOCATE	A2	A2-005	CATCH	catch a thief	oğrunu tutmaq
+thin	COLLOCATE	A2	A2-045	COUNT	count the thin sheets	nazik vərəqləri saymaq
 thing	COLLOCATE	A2	A2-037	IMPORTANT	the most important thing	ən vacib şey, ən başlıcası
 THINK	MAIN	A2	A2-029	THINK		düşünmək, fikirləşmək; zənn etmək
 thinker	FAMILY	A2	A2-029	THINK		mütəfəkkir
+thinking	FAMILY	A2	A2-029	THINK		düşünmə, düşüncə tərzi
 thirsty	COLLOCATE	A2	A2-028	FEEL	feel thirsty	susamaq
 thorny	COLLOCATE	C2	C2-017	CONUNDRUM	a thorny conundrum	çətin (tikanlı) məsələ
 thorough	COLLOCATE	B2	B2-001	ANALYSE	a thorough analysis	hərtərəfli (əsaslı) təhlil
@@ -2651,6 +2761,7 @@ thread	COLLOCATE	C2	C2-028	TENUOUS	a tenuous thread	nazik tel (çox zəif bağl�
 threat	COLLOCATE	B1	B1-037	SERIOUS	a serious threat	ciddi təhlükə (təhdid)
 threshold	COLLOCATE	C2	C2-042	ARBITRARY	an arbitrary threshold	şərti (əsassız) hədd
 thrill	COLLOCATE	C2	C2-051	EPHEMERAL	an ephemeral thrill	ötəri həyəcan
+THROW	MAIN	A2	A2-049	THROW		atmaq, tullamaq
 Thursday	REFERENCE	A1	A1-000	FOUNDATION		cümə axşamı
 thwart	COLLOCATE	C1	C1-042	ASPIRE	thwart sb's aspirations	kiminsə arzularını puça çıxarmaq
 ticket	COLLOCATE	A1	A1-003	GET	get a ticket	bilet almaq
@@ -2680,6 +2791,7 @@ total	COLLOCATE	C1	C1-041	ACCUMULATE	a cumulative total	məcmu yekun
 totally	COLLOCATE	A2	A2-036	DIFFERENT	totally different	tamamilə fərqli
 touch	COLLOCATE	A2	A2-002	STAY	stay in touch	əlaqə saxlamaq
 tough	COLLOCATE	B1	B1-020	DECIDE	a tough decision	çətin (ağır) qərar
+tour	COLLOCATE	A2	A2-051	CONTINUE	continue the tour	turu (səfəri) davam etdirmək
 tourism	COLLOCATE	B2	B2-006	IMPACT	the impact of tourism	turizmin təsiri
 tourist	COLLOCATE	A1	A1-061	INTRODUCE	introduce tourists to sth	turistləri nə iləsə tanış etmək
 towel	COLLOCATE	A2	A2-007	BRING	bring a towel	dəsmal gətirmək
@@ -2688,6 +2800,7 @@ toxin	COLLOCATE	C1	C1-041	ACCUMULATE	accumulate toxins	toksinlər toplamaq
 toy	COLLOCATE	A1	A1-024	PLAY	play with toys	oyuncaqlarla oynamaq
 trace	COLLOCATE	C1	C1-049	DISCERN	discern a trace of	nəyinsə izini sezmək
 trade	COLLOCATE	B1	B1-019	AGREE	a trade agreement	ticarət sazişi
+tradition	COLLOCATE	A2	A2-051	CONTINUE	continue the tradition	ənənəni davam etdirmək
 traditional	COLLOCATE	B2	B2-009	APPROACH	a traditional approach	ənənəvi yanaşma
 traffic	COLLOCATE	B1	B1-024	REDUCE	reduce traffic	nəqliyyat sıxlığını azaltmaq
 tragedy	COLLOCATE	C2	C2-012	JUXTAPOSE	juxtapose comedy and tragedy	komediya ilə faciəni qarşılaşdırmaq
@@ -2704,6 +2817,7 @@ transparency	FAMILY	C1	C1-060	TRANSPARENT		şəffaflıq
 TRANSPARENT	MAIN	C1	C1-060	TRANSPARENT		şəffaf; açıq, aydın
 transparently	FAMILY	C1	C1-060	TRANSPARENT		şəffaf şəkildə, açıq-aşkar
 transport	COLLOCATE	A2	A2-024	USE	use public transport	ictimai nəqliyyatdan istifadə etmək
+transportation	COLLOCATE	A2	A2-058	ARRANGE	arrange transportation	nəqliyyat təşkil etmək
 trauma	COLLOCATE	C2	C2-002	AMELIORATE	ameliorate the trauma	sarsıntını (travmanı) yüngülləşdirmək
 TRAVEL	MAIN	A2	A2-001	TRAVEL		səyahət etmək; səyahət
 traveller	FAMILY	A2	A2-001	TRAVEL		səyyah, səyahətçi
@@ -2772,6 +2886,8 @@ unimportant	FAMILY	A2	A2-037	IMPORTANT		əhəmiyyətsiz
 uninhibited	FAMILY	C1	C1-053	INHIBIT		sərbəst, sıxılmayan
 unintended	COLLOCATE	B2	B2-005	CONSEQUENCE	unintended consequences	gözlənilməyən (nəzərdə tutulmayan) nəticələr
 unique	COLLOCATE	B1	B1-032	OPPORTUNITY	a unique opportunity	bənzərsiz imkan
+unit	COLLOCATE	A2	A2-045	COUNT	count the units	vahidləri saymaq
+united	COLLOCATE	A2	A2-043	BELONG	belong to a united army	birləşmiş orduya mənsub olmaq
 unity	COLLOCATE	C1	C1-022	FOSTER	foster unity	birliyi möhkəmləndirmək
 universal	COLLOCATE	C2	C2-018	PANACEA	a universal panacea	hər dərdə dərman
 university	COLLOCATE	A2	A2-022	CHOOSE	choose a university	universitet seçmək
@@ -2785,6 +2901,7 @@ unsafe	FAMILY	A2	A2-038	SAFE		təhlükəli, etibarsız
 unskilled	FAMILY	B1	B1-006	SKILL		ixtisassız
 unsuccessful	FAMILY	B1	B1-002	SUCCEED		uğursuz
 unsustainable	FAMILY	B2	B2-023	SUSTAIN		davamlı olmayan, belə davam edə bilməyən
+unusual	COLLOCATE	A2	A2-044	COLLECT	collect anything unusual	qeyri-adi olan hər şeyi toplamaq
 upstairs	COLLOCATE	A1	A1-013	HOUSE	upstairs and downstairs	yuxarı mərtəbədə və aşağı mərtəbədə
 upward	COLLOCATE	B2	B2-008	TREND	an upward trend	artım meyli
 urban	COLLOCATE	B1	B1-021	ENVIRONMENT	the urban environment	şəhər mühiti
@@ -2792,6 +2909,7 @@ USE	MAIN	A2	A2-024	USE		istifadə etmək, işlətmək; istifadə
 useful	FAMILY	A2	A2-024	USE		faydalı
 useless	FAMILY	A2	A2-024	USE		faydasız, yararsız
 user	FAMILY	A2	A2-024	USE		istifadəçi
+usual	COLLOCATE	A2	A2-055	EXPECT	expect the usual	həmişəkini gözləmək
 utterly	COLLOCATE	C1	C1-006	COMPELLING	utterly compelling	son dərəcə cəlbedici
 vacancy	COLLOCATE	C2	C2-048	DEARTH	a dearth of vacancies	boş iş yerlərinin azlığı
 vacation	COLLOCATE	A1	A1-067	MONTH	a month's vacation	bir aylıq məzuniyyət
@@ -2857,6 +2975,7 @@ wealth	COLLOCATE	B2	B2-032	GENERATE	generate wealth	sərvət yaratmaq
 weapon	COLLOCATE	C2	C2-006	PROLIFERATE	the proliferation of weapons	silahların yayılması
 WEAR	MAIN	A1	A1-029	WEAR		geyinmək, (əynində) gəzdirmək
 WEATHER	MAIN	A1	A1-032	WEATHER		hava (hava şəraiti)
+web	COLLOCATE	A2	A2-054	CONNECT	connect to the web	internetə qoşulmaq
 website	COLLOCATE	C2	C2-057	PLETHORA	a plethora of websites	çoxlu sayda veb-sayt
 wedding	COLLOCATE	A2	A2-021	PLAN	plan a wedding	toy planlaşdırmaq
 Wednesday	REFERENCE	A1	A1-000	FOUNDATION		çərşənbə
@@ -2880,6 +2999,7 @@ wide-ranging	COLLOCATE	C2	C2-014	RAMIFICATION	wide-ranging ramifications	genişm
 widely	COLLOCATE	B2	B2-003	ASSUME	it is widely assumed	çoxları güman edir ki, geniş yayılmış fikrə görə
 widespread	COLLOCATE	C2	C2-040	REPERCUSSION	widespread repercussions	geniş əks-səda doğuran nəticələr
 wife	COLLOCATE	A1	A1-014	FAMILY	husband and wife	ər və arvad
+wild	COLLOCATE	A2	A2-049	THROW	a wild throw	nişansız (qeyri-dəqiq) atış
 wildlife	COLLOCATE	B1	B1-022	PROTECT	protect wildlife	vəhşi təbiəti qorumaq
 wildly	COLLOCATE	C1	C1-010	FLUCTUATE	fluctuate wildly	kəskin şəkildə enib-qalxmaq
 wilful	COLLOCATE	C2	C2-056	OBFUSCATE	wilful obfuscation	qəsdən çaşdırma
@@ -2899,6 +3019,7 @@ word	COLLOCATE	A1	A1-017	LEARN	learn words	sözləri öyrənmək
 WORK	MAIN	A1	A1-023	WORK		işləmək; iş
 worker	FAMILY	A1	A1-023	WORK		işçi, fəhlə
 workforce	COLLOCATE	B2	B2-026	MOTIVATE	motivate the workforce	işçi heyətini həvəsləndirmək
+working	FAMILY	A1	A1-023	WORK		işləyən, iş ilə bağlı (working hours = iş saatları)
 workload	COLLOCATE	C2	C2-043	BURGEON	a burgeoning workload	getdikcə artan iş yükü
 world	COLLOCATE	A2	A2-001	TRAVEL	travel around the world	dünyanı gəzmək, dünya səyahətinə çıxmaq
 worried	FAMILY	A2	A2-032	WORRY		narahat, nigaran

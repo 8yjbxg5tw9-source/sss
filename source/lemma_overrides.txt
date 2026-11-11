@@ -5,3 +5,5 @@ laughing = laugh  # "stop laughing" teaches the verb laugh (the note gives its b
 talking = talk  # "stop talking" teaches the verb talk
 pants = pants  # plural-only noun (AmE: şalvar)
 happened = happen
+crying = cry  # "stop crying" teaches the verb cry
+shouting = shout  # "stop shouting" teaches the verb shout

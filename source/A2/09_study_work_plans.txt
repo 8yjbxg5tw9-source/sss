@@ -1,0 +1,130 @@
+// A2 expansion (Oxford 3000 list): every lesson teaches six or seven A2 words of the list.
+## Study, work and plans | Təhsil, iş və planlar
+@ ATTEND | verb | əˈtend | iştirak etmək, (dərsə, tədbirə) getmək
+forms: attend – attends – attended – attended – attending
+- attend a lecture = mühazirədə iştirak etmək :: lecture /ˈlektʃə/ = mühazirə
+- attend a conference = konfransda iştirak etmək :: conference = konfrans
+- attend a reception = qəbul mərasimində iştirak etmək :: reception = rəsmi qəbul; həmçinin mehmanxanada qeydiyyat yeri
+- attend a lab = laboratoriya məşğələsinə getmək :: lab = laboratoriya (qısa forma: laboratory)
+~ on campus = universitet şəhərciyində :: campus = kampus, universitet şəhərciyi; live on campus
+- attend to sb/sth = kiminləsə / nə iləsə məşğul olmaq :: Rəsmi: attend to a customer
+- attend sth together = nədəsə birlikdə iştirak etmək :: together = birlikdə
+> More than two hundred students attended the lecture. = Mühazirədə iki yüzdən çox tələbə iştirak etdi.
+> She lives on campus and attends every lab. = O, kampusda yaşayır və hər laboratoriya məşğələsinə gedir.
+> Which school do your children attend? = Uşaqlarınız hansı məktəbə gedirlər?
+! ATTEND rəsmi feldir və sözönüsüz işlənir: attend a meeting ("attend to a meeting" səhvdir). Gündəlik danışıqda "go to" deyilir. "Attend to" isə başqa mənadadır: bir işlə və ya müştəri ilə məşğul olmaq. İsmi "attendance" – davamiyyət.
+
+@ CONTINUE | verb | kənˈtɪnjuː | davam etmək, davam etdirmək
+forms: continue – continues – continued – continued – continuing
+- continue the tradition = ənənəni davam etdirmək :: tradition = ənənə, adət
+- continue the experiment = təcrübəni davam etdirmək :: experiment /ɪkˈsperɪmənt/ = təcrübə, eksperiment
+- continue the tour = turu (səfəri) davam etdirmək :: tour /tʊə/ = tur, gəzinti, ekskursiya
+- continue the hike = piyada yürüşə davam etmək :: hike = (dağda, təbiətdə) uzun piyada gəzinti
+- continue normally = adi qaydada davam etmək :: normally = adi qaydada; adətən
+- continue to do sth = nəyisə etməyə davam etmək :: continue + to + fel və ya + -ing
+- continue with sth = nə iləsə davam etmək :: Continue with your work
+> The rain continued all night. = Yağış bütün gecəni davam etdi.
+> After lunch we continued the hike to the lake. = Nahardan sonra biz gölə doğru yürüşümüzə davam etdik.
+> Please continue with your work. = Zəhmət olmasa, işinizə davam edin.
+! CONTINUE düzgün feldir; vurğu ikinci hecadadır. Ondan sonra isim, "to + fel" və ya "-ing" gəlir: continue working = continue to work. Danışıq dilində sinonimləri "go on" və "carry on"dur. Sifəti "continuous" – fasiləsiz.
+
+@ DEPEND | verb | dɪˈpend | asılı olmaq; güvənmək
+forms: depend – depends – depended – depended – depending
+- depend on sb/sth = kimdənsə / nədənsə asılı olmaq :: Sözönü həmişə "on"dur
+- depend on the season = fəsildən asılı olmaq :: season = fəsil; mövsüm
+- depend on the schedule = cədvəldən asılı olmaq :: schedule /ˈʃedjuːl/ = cədvəl, qrafik (Amerikada /ˈskedʒuːl/)
+- depend on the quantity = miqdardan asılı olmaq :: quantity /ˈkwɒntəti/ = miqdar, say
+- depend on your background = keçmişindən (təhsil və ailə mühitindən) asılı olmaq :: background = keçmiş, mənşə; arxa plan
+- mostly depend on sth = əsasən nədənsə asılı olmaq :: mostly = əsasən, başlıca olaraq
+- depend on credit = kreditdən asılı olmaq :: credit = kredit, borc; a credit card = kredit kartı
+> It depends on the weather. = Bu, havadan asılıdır.
+> Are you coming with us? — It depends. = Bizimlə gəlirsən? — Baxır (vəziyyətdən asılıdır).
+> The price depends on the season and the quantity. = Qiymət mövsümdən və miqdardan asılıdır.
+! DEPEND həmişə ON ilə işlənir ("depend from" və ya "depend of" səhvdir – Azərbaycan dilindəki "-dan asılı" sizi çaşdırmasın). Davamedici zamanda işlənmir: "It depends" ("It is depending" yox). Qısa cavab "It depends" = "Baxır, vəziyyətdən asılıdır".
+
+@ REPLACE | verb | rɪˈpleɪs | əvəz etmək, dəyişmək
+forms: replace – replaces – replaced – replaced – replacing
+- replace the engine = mühərriki dəyişmək :: engine /ˈendʒɪn/ = mühərrik, motor
+- replace a button = düyməni dəyişmək :: button = düymə
+- replace the printer = printeri dəyişmək :: printer = printer, çap qurğusu
+- replace the soap = sabunu təzələmək :: soap /səʊp/ = sabun
+- replace a sock = corabı (başqası ilə) dəyişmək :: sock = corab
+- replace sth with sth = nəyisə nə iləsə əvəz etmək :: Sözönü "with"dir
+- replace sb = kimisə əvəz etmək, yerinə keçmək :: Who will replace the manager?
+> The engine is very old; we need to replace it. = Mühərrik çox köhnədir; onu dəyişməliyik.
+> We replaced the old printer with a new one. = Biz köhnə printeri yenisi ilə əvəz etdik.
+> Nobody can replace a mother. = Heç kim ananı əvəz edə bilməz.
+! REPLACE "re-" (yenidən) + "place" (yer) hissələrindən ibarətdir: köhnənin yerinə yenisini qoymaq. Qəlib: replace A WITH B – A-nı B ilə əvəz etmək. CHANGE daha ümumidir (dəyişmək), REPLACE isə məhz yenisi ilə əvəzləməkdir.
+
+@ CONNECT | verb | kəˈnekt | birləşdirmək, qoşmaq; əlaqələndirmək
+forms: connect – connects – connected – connected – connecting
+adj: connected = bağlı, əlaqəli, həmçinin qoşulmuş
+- connect a tablet = planşeti qoşmaq :: tablet = planşet; həmçinin: həb
+- connect to the web = internetə qoşulmaq :: web = internet şəbəkəsi (the web); hörümçək toru
+- connect the audio = səs sistemini qoşmaq :: audio /ˈɔːdiəʊ/ = səs, audio
+- connect the two sides = iki tərəfi birləşdirmək :: side = tərəf, yan
+- connect sth by railroad = nəyisə dəmir yolu ilə birləşdirmək :: railroad = dəmir yolu (Amerika ingiliscəsində; Britaniyada: railway)
+- be connected to sth = nəyəsə qoşulmuş (bağlı) olmaq :: The printer is connected to the computer
+- connect with sb = kiminləsə əlaqə (ünsiyyət) qurmaq :: connect with people online
+> I can't connect to the web from my room. = Mən otağımdan internetə qoşula bilmirəm.
+> A bridge connects the two sides of the river. = Körpü çayın iki sahilini birləşdirir.
+> Is the tablet connected to the printer? = Planşet printerə qoşulub?
+! CONNECT düzgün feldir. Sözönülər: connect A TO / WITH B. Texnikada "qoşmaq, qoşulmaq" (connect to the internet), ümumi dildə "əlaqələndirmək" deməkdir. İsmi "connection" – əlaqə, bağlantı. Əksi: disconnect.
+
+@ EXPECT | verb | ɪkˈspekt | gözləmək (baş verəcəyini güman etmək), ummaq
+forms: expect – expects – expected – expected – expecting
+- expect passengers = sərnişinləri gözləmək :: passenger /ˈpæsɪndʒə/ = sərnişin
+- expect an invitation = dəvət gözləmək :: invitation = dəvət, dəvətnamə
+- expect the usual = həmişəkini gözləmək :: usual /ˈjuːʒuəl/ = adi, həmişəki; as usual = həmişəki kimi
+- definitely expect sth = nəyisə mütləq gözləmək :: definitely = mütləq, şübhəsiz
+~ likely to do sth = çox güman ki, nəyisə edəcək :: likely = ehtimal olunan: It is likely to rain
+- expect sb to do sth = kiminsə nəyisə edəcəyini gözləmək (ummaq) :: expect + şəxs + to + fel
+- as expected = gözlənildiyi kimi :: As expected, he was late
+> We expect about fifty passengers on this flight. = Bu uçuşda təxminən əlli sərnişin gözləyirik.
+> I didn't expect to see you here. = Mən səni burada görəcəyimi gözləmirdim.
+> It is likely to rain this evening. = Çox güman ki, bu axşam yağış yağacaq.
+! EXPECT və WAIT hər ikisi "gözləmək" kimi tərcümə olunur, lakin fərqlidir: WAIT – vaxt keçirərək gözləmək (wait for the bus); EXPECT – bir şeyin baş verəcəyinə inanmaq (expect rain). "She is expecting a baby" = O, hamilədir. LIKELY sifətdir: be likely to + fel.
+
+@ FAIL | verb | feɪl | uğursuz olmaq; (imtahandan) kəsilmək; bacarmamaq
+forms: fail – fails – failed – failed – failing
+n: failure = uğursuzluq, iflas
+- fail biology = biologiyadan kəsilmək :: biology /baɪˈɒlədʒi/ = biologiya
+- fail mathematics = riyaziyyatdan kəsilmək :: mathematics = riyaziyyat (rəsmi tam forma)
+- fail maths = riyaziyyatdan kəsilmək :: maths = riyaziyyat (Britaniya qısa forması; Amerikada: math)
+- fail badly = pis nəticə ilə uğursuz olmaq :: badly = pis; çox, bərk
+- fail at driving = maşın sürməkdə uğursuz olmaq :: driving = maşın sürmə, sürücülük: a driving test
+- fail to do sth = nəyisə edə bilməmək, etməmək :: He failed to arrive on time
+- a failure = uğursuzluq; uğursuz adam və ya iş :: The plan was a failure
+> He failed his driving test twice. = O, sürücülük imtahanından iki dəfə kəsildi.
+> I am afraid I will fail maths this year. = Qorxuram ki, bu il riyaziyyatdan kəsiləcəyəm.
+> She failed to arrive on time. = O, vaxtında gələ bilmədi.
+! FAIL-in əksi PASS (imtahan üçün) və SUCCEED-dir (ümumi uğur üçün). Sözönüsüz işlənir: fail an exam, fail biology. "Fail to + fel" rəsmi üslubda "etməmək, edə bilməmək" deməkdir. İsmi FAILURE /ˈfeɪljə/. MATHS Britaniya, MATH Amerika qısaltmasıdır; tam forma MATHEMATICS-dir.
+
+@ ADVERTISE | verb | ˈædvətaɪz | reklam etmək; elan vermək
+forms: advertise – advertises – advertised – advertised – advertising
+- advertise sneakers = idman ayaqqabılarını reklam etmək :: sneaker = idman ayaqqabısı, krossovka (Amerika ingiliscəsində; Britaniyada: trainer)
+- advertise candy = şirniyyat (konfet) reklam etmək :: candy = konfet, şirniyyat (Amerika ingiliscəsində; Britaniyada: sweets)
+- advertise clothing = geyim reklam etmək :: clothing /ˈkləʊðɪŋ/ = geyim (rəsmi, ümumi anlayış)
+- advertise a suit = kostyum reklam etmək :: suit /suːt/ = kostyum
+- advertise an airline = aviaşirkəti reklam etmək :: airline = aviaşirkət
+- produce and advertise sth = nəyisə istehsal və reklam etmək :: produce /prəˈdjuːs/ = istehsal etmək
+- advertise for sb = kimisə (işçi) axtarmaq üçün elan vermək :: advertise for a driver
+> The company advertises its sneakers on television. = Şirkət idman ayaqqabılarını televiziyada reklam edir.
+> They produce clothing and advertise it online. = Onlar geyim istehsal edir və onu internetdə reklam edirlər.
+> We are advertising for a new secretary. = Biz yeni katibə axtarmaq üçün elan vermişik.
+! ADVERTISE feldir; isimləri: ADVERTISEMENT (bir reklam və ya elan; qısa: advert, ad) və ADVERTISING (reklam işi, sahə kimi). Vurğu: ADvertise, lakin adVERtisement. CLOTHING rəsmi və ümumi sözdür (the clothing industry); gündəlik danışıqda "clothes" deyilir.
+
+@ ARRANGE | verb | əˈreɪndʒ | təşkil etmək, razılaşdırmaq; düzmək
+forms: arrange – arranges – arranged – arranged – arranging
+n: arrangement = razılaşma, hazırlıq, həmçinin düzülüş
+- arrange transportation = nəqliyyat təşkil etmək :: transportation = nəqliyyat, daşıma (Amerika ingiliscəsində; Britaniyada: transport)
+- arrange a soccer camp = futbol düşərgəsi təşkil etmək :: soccer = futbol (Amerika ingiliscəsində); camp = düşərgə
+- arrange it with the secretary = bunu katibə ilə razılaşdırmaq :: secretary /ˈsekrətri/ = katib(ə)
+- an arrangement with the director = direktorla razılaşma :: director = direktor; rejissor
+- arrange to do sth = nəyisə etməyi razılaşdırmaq (planlaşdırmaq) :: We arranged to meet at six
+- arrange for sb to do sth = kiminsə nəyisə etməsini təşkil etmək :: I arranged for a taxi to collect you
+- by arrangement = əvvəlcədən razılaşma ilə :: Visits are by arrangement only
+> We arranged to meet at the station at six. = Biz saat altıda stansiyada görüşməyi razılaşdırdıq.
+> The school arranged transportation for all the children. = Məktəb bütün uşaqlar üçün nəqliyyat təşkil etdi.
+> I have an arrangement with the director. = Mənim direktorla razılaşmam var.
+! ARRANGE-in iki mənası var: 1) əvvəlcədən planlaşdırmaq, təşkil etmək (arrange a meeting); 2) müəyyən qaydada düzmək (arrange the books). İsmi ARRANGEMENT; cəmdə "hazırlıq işləri" deməkdir: travel arrangements. SOCCER Amerikada "futbol"dur; Britaniyada "football" deyilir.
