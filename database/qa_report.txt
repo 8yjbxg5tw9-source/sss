@@ -145,23 +145,26 @@
   C2: 16 of 882 reference headwords (2%)
 
 == IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
-  variant A2-040 INTEREST       here /ˈɪntrəst/   reference: ˈɪntəɹɪst | ˈɪntɹɪst
-  variant B1-005 EXPERIENCE     here /ɪkˈspɪəriəns/   reference: ɪkspˈɪəɹɪəns
-  variant B1-011 EDUCATION      here /ˌedʒuˈkeɪʃən/   reference: ˌɛdjʊkˈeɪʃən
-  variant B1-032 OPPORTUNITY    here /ˌɒpəˈtjuːnəti/   reference: ˌɒpətjˈuːnɪti
-  variant B1-035 RESPONSIBLE    here /rɪˈspɒnsəbəl/   reference: ɹɪspˈɒnsɪbəl
-  variant B1-037 SERIOUS        here /ˈsɪəriəs/   reference: sˈɪəɹɪəs
-  variant B2-020 POLICY         here /ˈpɒləsi/   reference: pˈɒlɪsi
-  variant B2-025 CLIMATE        here /ˈklaɪmət/   reference: klˈaɪmɪt
-  DIFFER  C1-001 ALLEVIATE      here /əˈliːvieɪt/   reference: ɐlˈiːvɪˌeɪt
-  variant C1-004 AMBIGUOUS      here /æmˈbɪɡjuəs/   reference: æmbˈɪgjʊəs
-  variant C1-008 DETERIORATE    here /dɪˈtɪəriəreɪt/   reference: dɪtˈɪəɹɪəɹˌeɪt
-  DIFFER  C1-010 FLUCTUATE      here /ˈflʌktʃueɪt/   reference: flˈʌktʃuːˌeɪt
-  variant C1-021 FEASIBLE       here /ˈfiːzəbəl/   reference: fˈiːzɪbəl
-  variant C1-024 PLAUSIBLE      here /ˈplɔːzəbəl/   reference: plˈɔːzɪbəl
-  DIFFER  C1-025 RESILIENT      here /rɪˈzɪliənt/   reference: ɹɪsˈɪliənt
-  variant C1-028 DISPARITY      here /dɪˈspærəti/   reference: dɪspˈæɹɪti
-  DIFFER  C1-031 ENDORSE        here /ɪnˈdɔːs/   reference: ɛndˈɔːs
-  variant C1-034 LEGITIMATE     here /lɪˈdʒɪtɪmət/   reference: lɪdʒˈɪtɪmɪt
-  ("variant" = same sounds and stress, different notation of a weak vowel: i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ)
-  summary: IPA agree=183, weak-vowel notation variants=14, differ=4, not in reference=0
+  variant A2-040 INTEREST       here /ˈɪntrəst/   Britfone: ˈɪntəɹɪst | ˈɪntɹɪst
+  variant B1-005 EXPERIENCE     here /ɪkˈspɪəriəns/   Britfone: ɪkspˈɪəɹɪəns
+  variant B1-011 EDUCATION      here /ˌedʒuˈkeɪʃən/   Britfone: ˌɛdjʊkˈeɪʃən
+  variant B1-032 OPPORTUNITY    here /ˌɒpəˈtjuːnəti/   Britfone: ˌɒpətjˈuːnɪti
+  variant B1-035 RESPONSIBLE    here /rɪˈspɒnsəbəl/   Britfone: ɹɪspˈɒnsɪbəl
+  variant B1-037 SERIOUS        here /ˈsɪəriəs/   Britfone: sˈɪəɹɪəs
+  variant B2-020 POLICY         here /ˈpɒləsi/   Britfone: pˈɒlɪsi
+  variant B2-025 CLIMATE        here /ˈklaɪmət/   Britfone: klˈaɪmɪt
+  variant C1-001 ALLEVIATE      here /əˈliːvieɪt/   fallback: ɐlˈiːvɪˌeɪt
+  variant C1-004 AMBIGUOUS      here /æmˈbɪɡjuəs/   Britfone: æmbˈɪgjʊəs
+  variant C1-008 DETERIORATE    here /dɪˈtɪəriəreɪt/   Britfone: dɪtˈɪəɹɪəɹˌeɪt
+  variant C1-010 FLUCTUATE      here /ˈflʌktʃueɪt/   fallback: flˈʌktʃuːˌeɪt
+  variant C1-021 FEASIBLE       here /ˈfiːzəbəl/   Britfone: fˈiːzɪbəl
+  variant C1-024 PLAUSIBLE      here /ˈplɔːzəbəl/   Britfone: plˈɔːzɪbəl
+  DIFFER  C1-025 RESILIENT      here /rɪˈzɪliənt/   fallback: ɹɪsˈɪliənt
+  variant C1-028 DISPARITY      here /dɪˈspærəti/   fallback: dɪspˈæɹɪti
+  variant C1-034 LEGITIMATE     here /lɪˈdʒɪtɪmət/   Britfone: lɪdʒˈɪtɪmɪt
+  "variant" = same sounds and stress, different notation of a weak vowel (i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ).
+  "fallback" = ipa-dict en_UK, a second open list used only for words that Britfone does not contain.
+  Both lists are open community resources and can contain errors themselves: a DIFFER line is a prompt
+  to re-check the word in a printed dictionary, not proof of an error.
+  summary: IPA vs Britfone 3.0.1: agree=178, notation variants=13, differ=0
+  summary: IPA vs fallback list (words missing from Britfone): agree=6, notation variants=3, differ=1; in neither list=0

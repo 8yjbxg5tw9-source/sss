@@ -860,10 +860,13 @@ def load_refs():
     return refs
 
 
+_TURNED_A = 'ʌ'      # what the reference list in use means by the symbol ɐ (set per source in qa_report)
+
+
 def _ipa_clean(s):
     """Notation-only normalisation; stress marks are kept."""
     s = re.sub(r'\([^)]*\)', '', s).replace('/', '').replace(' ', '').replace('.', '')
-    for a, b in (('ɹ', 'r'), ('g', 'ɡ'), ('ɛə', 'eə'), ('ɛ', 'e'), ('ɐ', 'ʌ')):
+    for a, b in (('ɹ', 'r'), ('g', 'ɡ'), ('ɛə', 'eə'), ('ɛ', 'e'), ('ɐ', _TURNED_A)):
         s = s.replace(a, b)
     return s
 
@@ -880,6 +883,8 @@ def _ipa_broad(s):
     """Broad form used to recognise transcriptions that differ ONLY in weak-vowel notation, where
     dictionaries legitimately disagree (happy-vowel i/ɪ, u/ʊ, unstressed ɪ/ə, tj/tʃ, dj/dʒ)."""
     s = _ipa_norm(s)
+    s = re.sub('uː(?=[ɑæɒɔəɜɪʊʌeiuao])', 'u', s)     # weak u before a vowel (fluctuate, situation)
+    s = re.sub('iː(?=[ɑæɒɔəɜɪʊʌeiuao])', 'i', s)     # weak i before a vowel (alleviate, create)
     s = re.sub('i(?!ː)', 'ɪ', s)
     s = re.sub('u(?!ː)', 'ʊ', s)
     s = s.replace('dj', 'dʒ').replace('tj', 'tʃ')
@@ -955,33 +960,46 @@ def qa_report(db, refs):
         out.append('')
     if refs['ipa']:
         out.append('== IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==')
-        ok = var = bad = miss = 0
+        cnt = {'Britfone': [0, 0, 0], 'fallback': [0, 0, 0]}
+        miss = 0
         for L in db.lessons:
             w = L.head.lower()
             if ' ' in w:
                 continue
-            theirs = refs['ipa'].get(w) or refs['ipa'].get(w + '\t')
+            src = 'Britfone'
+            theirs = refs['ipa'].get(w)
+            if not theirs:
+                src = 'fallback'
+                theirs = refs['ipa'].get(w + '\t')
             if not theirs:
                 miss += 1
                 continue
+            # Britfone writes the STRUT vowel as ɐ; the fallback list uses ɐ for an unstressed schwa
+            global _TURNED_A
+            _TURNED_A = 'ʌ' if src == 'Britfone' else 'ə'
             mine = [x for x in re.split(r'[,;]', L.ipa) if x.strip()]
-            mn = {_ipa_norm(x).replace('ˈ', '').replace('ˌ', '') for x in mine}
-            tn = {_ipa_norm(x).replace('ˈ', '').replace('ˌ', '') for x in theirs}
+            mn = {_ipa_norm(x) for x in mine}
+            tn = {_ipa_norm(x) for x in theirs}
             st_ok = any(_stress_pos(a) == _stress_pos(b) for a in mine for b in theirs)
             if mn & tn and st_ok:
-                ok += 1
+                cnt[src][0] += 1
             elif st_ok and ({_ipa_broad(x) for x in mine} & {_ipa_broad(x) for x in theirs}):
-                var += 1
-                out.append('  variant %s %-14s here /%s/   reference: %s' % (L.uid, L.head, L.ipa,
-                                                                            ' | '.join(sorted(theirs))))
+                cnt[src][1] += 1
+                out.append('  variant %s %-14s here /%s/   %s: %s' % (L.uid, L.head, L.ipa, src,
+                                                                     ' | '.join(sorted(theirs))))
             else:
-                bad += 1
-                out.append('  DIFFER  %s %-14s here /%s/   reference: %s%s' % (L.uid, L.head, L.ipa,
-                                                                              ' | '.join(sorted(theirs)),
-                                                                              '' if st_ok else '   [STRESS]'))
-        out.append('  ("variant" = same sounds and stress, different notation of a weak vowel: i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ)')
-        out.append('  summary: IPA agree=%d, weak-vowel notation variants=%d, differ=%d, not in reference=%d'
-                   % (ok, var, bad, miss))
+                cnt[src][2] += 1
+                out.append('  DIFFER  %s %-14s here /%s/   %s: %s%s' % (L.uid, L.head, L.ipa, src,
+                                                                       ' | '.join(sorted(theirs)),
+                                                                       '' if st_ok else '   [STRESS]'))
+        out.append('  "variant" = same sounds and stress, different notation of a weak vowel (i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ).')
+        out.append('  "fallback" = ipa-dict en_UK, a second open list used only for words that Britfone does not contain.')
+        out.append('  Both lists are open community resources and can contain errors themselves: a DIFFER line is a prompt')
+        out.append('  to re-check the word in a printed dictionary, not proof of an error.')
+        out.append('  summary: IPA vs Britfone 3.0.1: agree=%d, notation variants=%d, differ=%d'
+                   % tuple(cnt['Britfone']))
+        out.append('  summary: IPA vs fallback list (words missing from Britfone): agree=%d, notation variants=%d, '
+                   'differ=%d; in neither list=%d' % (tuple(cnt['fallback']) + (miss,)))
     return out
 
 

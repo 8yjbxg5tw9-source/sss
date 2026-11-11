@@ -1445,7 +1445,8 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
    B2: 269 of 2428 reference headwords (11%)
    C1: 57 of 921 reference headwords (6%)
    C2: 16 of 882 reference headwords (2%)
-   summary: IPA agree=183, weak-vowel notation variants=14, differ=4, not in reference=0
+   summary: IPA vs Britfone 3.0.1: agree=178, notation variants=13, differ=0
+   summary: IPA vs fallback list (words missing from Britfone): agree=6, notation variants=3, differ=1; in neither list=0
 
 10. RECORD 6 — DUPLICATE DETECTION STATUS
 ----------------------------------------------------------------------------------------------------
