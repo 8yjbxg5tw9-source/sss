@@ -11,8 +11,11 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
    expressions, example sentences and a usage explanation. A global database guarantees that no word
    is ever taught twice anywhere between A1 and C2.
    This is a finite, growing database. It does not contain every English word, and CEFR levels are
-   not universally fixed lists: levels here follow the usual English Vocabulary Profile / Oxford
-   3000–5000 conventions and were cross-checked against open CEFR word lists.
+   not universally fixed lists. Each lesson was placed at a level by the author, according to the
+   difficulty of the expression network it teaches, and the placement was then cross-checked against
+   two open CEFR word lists (CEFR-J for A1–B2, Octanove for C1–C2). Where those lists give a
+   headword a different level, the lesson says so in a "Level note"; the full comparison is in
+   database/qa_report.txt.
 
 2. FILES
 ----------------------------------------------------------------------------------------------------
@@ -1758,68 +1761,42 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
        wind / wound — "wound" = yara (noun); not "wound", the past form of the verb "wind", nor the
           noun "wind" (külək)
 
-   6b. Members of one word family taught in different lessons, each exactly once (150 links):
-       ability [B2-001] ~ disability [C1-027]; act [B1-035] ~ action [C2-011]; activity [B1-013] ~
-       act [B1-035]; activity [B1-013] ~ actively [B2-033]; activity [B1-013] ~ action [C2-011];
-       adversity [C1-025] ~ adverse [C2-040]; apple [A1-007] ~ APPLY [B1-010]; attention [A2-023] ~
-       attendance [C1-006]; balance [A2-016] ~ imbalance [C2-001]; bus [A1-001] ~ busy [A1-031];
-       busy [A1-031] ~ business [A2-001]; care [A1-004] ~ career [A2-022]; care [A1-004] ~ carefully
-       [A1-022]; carry [A1-026] ~ car [A1-036]; celebrate [B1-002] ~ celebrity [C1-031]; class
-       [A2-006] ~ classical [C2-020]; clearly [A1-020] ~ clear [C1-004]; COME [A1-002] ~ income
-       [B1-023]; COME [A1-002] ~ comment [A2-003]; consider [B1-013] ~ considerable [B2-006]; course
-       [A2-022] ~ discourse [C2-025]; creature [B1-031] ~ create [B1-032]; critical [B2-001] ~
+   6b. Members of one word family taught in different lessons, each exactly once (83 links):
+       ability [B2-001] ~ disability [C1-027]; act [B1-035] ~ action [C2-011]; act [B1-035] ~
+       actively [B2-033]; activity [B1-013] ~ act [B1-035]; activity [B1-013] ~ actively [B2-033];
+       activity [B1-013] ~ action [C2-011]; adversity [C1-025] ~ adverse [C2-040]; balance [A2-016]
+       ~ imbalance [C2-001]; care [A1-004] ~ carefully [A1-022]; celebrate [B1-002] ~ celebrity
+       [C1-031]; clearly [A1-020] ~ clear [C1-004]; COME [A1-002] ~ income [B1-023]; consider
+       [B1-013] ~ considerable [B2-006]; creature [B1-031] ~ create [B1-032]; critical [B2-001] ~
        criticism [C1-034]; death [B1-029] ~ deadly [B1-037]; difficult [A2-017] ~ difficulty
        [C2-034]; direct [B2-005] ~ directive [C1-011]; direction [A1-006] ~ directive [C1-011];
-       direction [A1-006] ~ direct [B2-005]; early [A1-002] ~ ear [A1-016]; ease [A2-035] ~ disease
-       [B1-029]; effective [B1-027] ~ effect [B1-029]; emergency [B1-041] ~ emergence [B2-037];
-       emergency [B1-041] ~ emerging [B2-037]; emergency [B1-041] ~ EMERGE [B2-037]; entrance
-       [A2-017] ~ enter [B2-014]; existence [C2-005] ~ existing [C2-020]; expert [B1-017] ~
-       expertise [C2-009]; facility [B1-025] ~ facilitation [C1-009]; fact [A2-040] ~ factor
-       [B2-011]; fairly [A2-035] ~ fair [B1-041]; FAMILY [A1-014] ~ fame [B1-001]; fine [A2-023] ~
-       final [A2-027]; form [B1-010] ~ formal [B1-015]; free [A1-030] ~ freedom [B2-034]; GIVE
-       [A1-006] ~ gift [A2-007]; glass [A1-008] ~ glasses [A1-029]; GOOD [A1-034] ~ goods [B2-015];
-       grey [A1-040] ~ greed [B2-026]; hard [A1-023] ~ hardly [C2-018]; hard [A1-023] ~ hardship
-       [C1-001]; heavy [A2-016] ~ heavily [B2-013]; higher [B1-011] ~ high [B2-016]; highly [B1-002]
-       ~ high [B2-016]; hungry [A2-028] ~ hunger [C1-001]; ill [A2-018] ~ illness [B1-037];
-       importance [A2-037] ~ import [B2-034]; IMPORTANT [A2-037] ~ import [B2-034]; importantly
-       [A2-037] ~ import [B2-034]; IMPROVE [B1-003] ~ prove [B2-012]; information [A1-021] ~
-       misinformation [C2-006]; information [A1-021] ~ disinformation [C2-009]; initial [B2-002] ~
-       initiative [C1-011]; integration [C1-009] ~ integrity [C1-018]; know [A2-040] ~ knowledge
-       [B1-010]; large [B1-009] ~ largely [B1-035]; law [A2-019] ~ legal [B1-018]; leading [B2-010]
-       ~ misleading [C2-019]; leg [A1-016] ~ legal [B1-018]; list [A1-005] ~ LISTEN [A1-022]; LIVE
-       [A1-012] ~ lively [B1-016]; lively [B1-016] ~ livelihood [C1-019]; living [A1-012] ~ lively
-       [B1-016]; loan [B1-010] ~ lend [C2-035]; major [B1-033] ~ majority [C1-039]; man [A1-037] ~
-       MANAGE [B1-007]; minority [B2-011] ~ minor [C1-010]; mobile [A1-036] ~ mobility [C1-023];
-       moral [B1-026] ~ morale [C1-018]; nation [C2-011] ~ nationalism [C2-027]; national [B2-018] ~
+       direction [A1-006] ~ direct [B2-005]; effective [B1-027] ~ effect [B1-029]; entrance [A2-017]
+       ~ enter [B2-014]; existence [C2-005] ~ existing [C2-020]; expert [B1-017] ~ expertise
+       [C2-009]; fairly [A2-035] ~ fair [B1-041]; form [B1-010] ~ formal [B1-015]; free [A1-030] ~
+       freedom [B2-034]; GIVE [A1-006] ~ gift [A2-007]; hard [A1-023] ~ hardship [C1-001]; heavy
+       [A2-016] ~ heavily [B2-013]; higher [B1-011] ~ high [B2-016]; highly [B1-002] ~ high
+       [B2-016]; hungry [A2-028] ~ hunger [C1-001]; ill [A2-018] ~ illness [B1-037]; information
+       [A1-021] ~ misinformation [C2-006]; information [A1-021] ~ disinformation [C2-009]; know
+       [A2-040] ~ knowledge [B1-010]; large [B1-009] ~ largely [B1-035]; law [A2-019] ~ legal
+       [B1-018]; leading [B2-010] ~ misleading [C2-019]; LIVE [A1-012] ~ lively [B1-016]; lively
+       [B1-016] ~ livelihood [C1-019]; living [A1-012] ~ lively [B1-016]; loan [B1-010] ~ lend
+       [C2-035]; major [B1-033] ~ majority [C1-039]; minority [B2-011] ~ minor [C1-010]; mobile
+       [A1-036] ~ mobility [C1-023]; nation [C2-011] ~ nationalism [C2-027]; national [B2-018] ~
        nation [C2-011]; national [B2-018] ~ nationalism [C2-027]; nature [A2-030] ~ natural
-       [B2-019]; note [A1-019] ~ notion [C2-033]; objectively [B2-002] ~ objection [C1-034]; pair
-       [A1-010] ~ PAY [A2-023]; party [A1-002] ~ part [A1-016]; party [A1-002] ~ partially [C1-014];
-       peace [A2-003] ~ peaceful [B1-027]; person [A2-006] ~ personal [B1-004]; police [A2-010] ~
-       POLICY [B2-020]; politely [A1-020] ~ politics [B1-016]; politely [A1-020] ~ political
-       [B2-001]; politics [B1-016] ~ political [B2-001]; poor [A1-011] ~ poverty [B1-024]; pose
-       [B1-033] ~ impose [B2-034]; position [B1-010] ~ pose [B1-033]; positive [A2-029] ~ position
-       [B1-010]; possible [B1-012] ~ possibility [C2-030]; powerful [B1-014] ~ power [B2-037];
-       present [A1-006] ~ presence [C2-003]; present [A1-006] ~ presentation [B1-006]; product
-       [B1-004] ~ production [B1-023]; product [B1-004] ~ productivity [C1-023]; production [B1-023]
-       ~ productivity [C1-023]; proof [B1-025] ~ prove [B2-012]; quota [C1-003] ~ quotation
-       [C2-012]; race [A2-027] ~ racism [B2-022]; ready [A1-003] ~ reader [A1-018]; ready [A1-003] ~
-       READ [A1-018]; ready [A1-003] ~ reading [A1-018]; real [B1-033] ~ reality [C2-015]; really
-       [A2-030] ~ real [B1-033]; reason [A2-010] ~ reasonably [B1-036]; relationship [B1-004] ~
-       relation [C1-008]; relative [A2-002] ~ relation [C1-008]; relative [A2-002] ~ relatively
-       [B2-011]; relatively [B2-011] ~ relation [C1-008]; remark [B2-021] ~ remarkably [C1-025];
-       require [B1-006] ~ requirement [C2-038]; responsibility [B1-035] ~ response [C1-004];
-       RESPONSIBLE [B1-035] ~ response [C1-004]; responsibly [B1-035] ~ response [C1-004]; right
-       [A2-014] ~ rights [B1-022]; save [A1-011] ~ safety [A2-038]; save [A1-011] ~ SAFE [A2-038];
-       sell [A1-010] ~ sale [B1-023]; sense [B1-035] ~ nonsense [C2-004]; sensible [B1-013] ~ sense
-       [B1-035]; short [A2-002] ~ shortage [B2-031]; shower [A1-004] ~ SHOW [A2-009]; state [B1-040]
-       ~ statement [B2-007]; station [A1-033] ~ state [B1-040]; station [A1-033] ~ STAY [A2-002];
-       STAY [A2-002] ~ star [B2-037]; student [A1-036] ~ study [A2-021]; subject [A2-012] ~
-       subjective [C1-013]; surgical [C1-033] ~ surge [C1-037]; TAKE [A1-004] ~ mistake [A1-005];
-       talent [A2-009] ~ tale [C2-026]; test [A2-035] ~ testify [C1-006]; text [A1-018] ~ texture
-       [C2-012]; top [A1-012] ~ topic [A2-022]; train [A1-033] ~ training [B1-011]; uncertain
-       [B2-039] ~ certain [B2-040]; university [A2-022] ~ universal [C2-018]; valuable [B1-005] ~
-       value [B2-002]; vary [B2-027] ~ variable [C2-039]; virtually [C1-037] ~ virtue [C2-010]; wide
-       [A1-028] ~ widely [B2-003]; youth [B1-009] ~ young [B2-032]
+       [B2-019]; peace [A2-003] ~ peaceful [B1-027]; person [A2-006] ~ personal [B1-004]; politics
+       [B1-016] ~ political [B2-001]; poor [A1-011] ~ poverty [B1-024]; possible [B1-012] ~
+       possibility [C2-030]; powerful [B1-014] ~ power [B2-037]; product [B1-004] ~ production
+       [B1-023]; product [B1-004] ~ productivity [C1-023]; production [B1-023] ~ productivity
+       [C1-023]; proof [B1-025] ~ prove [B2-012]; real [B1-033] ~ reality [C2-015]; really [A2-030]
+       ~ real [B1-033]; reason [A2-010] ~ reasonably [B1-036]; relationship [B1-004] ~ relation
+       [C1-008]; relative [A2-002] ~ relation [C1-008]; relative [A2-002] ~ relatively [B2-011];
+       relatively [B2-011] ~ relation [C1-008]; remark [B2-021] ~ remarkably [C1-025]; require
+       [B1-006] ~ requirement [C2-038]; save [A1-011] ~ safety [A2-038]; save [A1-011] ~ SAFE
+       [A2-038]; sell [A1-010] ~ sale [B1-023]; sense [B1-035] ~ nonsense [C2-004]; sensible
+       [B1-013] ~ sense [B1-035]; short [A2-002] ~ shortage [B2-031]; student [A1-036] ~ study
+       [A2-021]; TAKE [A1-004] ~ mistake [A1-005]; uncertain [B2-039] ~ certain [B2-040]; valuable
+       [B1-005] ~ value [B2-002]; vary [B2-027] ~ variable [C2-039]; wide [A1-028] ~ widely
+       [B2-003]; youth [B1-009] ~ young [B2-032]
 
 11. ROADMAP — MAIN WORDS RESERVED FOR THE NEXT PARTS
 ----------------------------------------------------------------------------------------------------

@@ -476,6 +476,8 @@ class DB(object):
         self.distinct_used = set()
         self.lemma_over = {}
         self.not_related = set()
+        self.related = set()              # confirmed family links (source/related.txt)
+        self.unreviewed_links = set()     # stem-based candidates not yet confirmed or rejected
         self.reserved = {}                # lower form -> (HEAD, level)
         self.roadmap = OrderedDict((l, []) for l in LEVELS)   # level -> [(HEAD, [family])]
         self.units = OrderedDict((l, []) for l in LEVELS)
@@ -563,6 +565,12 @@ def load_aux(db):
             a, _, b = s.partition('#')[0].partition('|')
             if a.strip() and b.strip():
                 db.not_related.add(frozenset((a.strip().lower(), b.strip().lower())))
+    p = os.path.join(SRC, 'related.txt')
+    if os.path.exists(p):
+        for n, s in read_lines(p):
+            a, _, b = s.partition('#')[0].partition('|')
+            if a.strip() and b.strip():
+                db.related.add(frozenset((a.strip().lower(), b.strip().lower())))
     p = os.path.join(SRC, 'roadmap.txt')
     if os.path.exists(p):
         for n, s in read_lines(p):
@@ -793,18 +801,26 @@ def build_db(plan_lessons=None):
 
 # ------------------------------------------------------------------ cross references
 def cross_refs(db):
-    """item.seq -> list of related items taught in OTHER lessons (same family, different form)."""
+    """item.seq -> related items taught in OTHER lessons (same family, different form).
+    A shared stem only PROPOSES a link.  A link is shown to the learner only when the pair is confirmed in
+    source/related.txt; rejected pairs live in source/not_related.txt; everything else is reported as
+    "not yet reviewed" in the QA report, never in the lesson files."""
     by_lemma = {}
     by_stem = defaultdict(list)
     for it in db.items:
         by_lemma.setdefault(it.lemma.lower(), it)
         by_stem[stem(it.lemma)].append(it)
     rel = defaultdict(dict)
+    db.unreviewed_links = set()
 
-    def link(a, b):
+    def link(a, b, confirmed=False):
         if a is b or a.lesson == b.lesson:
             return
-        if frozenset((a.lemma.lower(), b.lemma.lower())) in db.not_related:
+        pair = frozenset((a.lemma.lower(), b.lemma.lower()))
+        if len(pair) < 2 or pair in db.not_related:
+            return
+        if not confirmed and pair not in db.related:
+            db.unreviewed_links.add(pair)
             return
         rel[a.seq][b.seq] = b
         rel[b.seq][a.seq] = a
@@ -824,6 +840,10 @@ def cross_refs(db):
             for other, gs in FAMILY_GROUP.items():
                 if g in gs and other != low and other in by_lemma:
                     link(it, by_lemma[other])
+    for pair in db.related:                      # confirmed pairs that the stemmer did not propose
+        x, y = sorted(pair)
+        if x in by_lemma and y in by_lemma:
+            link(by_lemma[x], by_lemma[y], confirmed=True)
     return rel
 
 
@@ -962,6 +982,11 @@ def qa_report(db, refs):
             if tot[i]:
                 out.append('  %s: %d of %d reference headwords (%.0f%%)' % (lv, cov[i], tot[i], 100.0 * cov[i] / tot[i]))
         out.append('')
+    out.append('== WORD-FAMILY LINK CANDIDATES not yet reviewed (shared stem; shown to the learner only after review) ==')
+    for pair in sorted(db.unreviewed_links, key=lambda p: sorted(p)):
+        out.append('  ' + ' | '.join(sorted(pair)))
+    out.append('  count=%d   (move each pair to source/related.txt or source/not_related.txt)' % len(db.unreviewed_links))
+    out.append('')
     if refs['ipa']:
         out.append('== IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==')
         cnt = {'Britfone': [0, 0, 0], 'fallback': [0, 0, 0]}
@@ -1260,8 +1285,11 @@ def render_master(db, rel, files, qa):
                   'natural expressions, example sentences and a usage explanation. A global database guarantees '
                   'that no word is ever taught twice anywhere between A1 and C2.', '   '))
     o.append(wrap('This is a finite, growing database. It does not contain every English word, and CEFR levels '
-                  'are not universally fixed lists: levels here follow the usual English Vocabulary Profile / '
-                  'Oxford 3000–5000 conventions and were cross-checked against open CEFR word lists.', '   '))
+                  'are not universally fixed lists. Each lesson was placed at a level by the author, according to '
+                  'the difficulty of the expression network it teaches, and the placement was then cross-checked '
+                  'against two open CEFR word lists (CEFR-J for A1–B2, Octanove for C1–C2). Where those lists give a '
+                  'headword a different level, the lesson says so in a "Level note"; the full comparison is in '
+                  'database/qa_report.txt.', '   '))
     o.append('')
     o.append('2. FILES')
     o.append(THIN)

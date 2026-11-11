@@ -146,6 +146,9 @@
   C1: 79 of 921 reference headwords (9%)
   C2: 48 of 882 reference headwords (5%)
 
+== WORD-FAMILY LINK CANDIDATES not yet reviewed (shared stem; shown to the learner only after review) ==
+  count=0   (move each pair to source/related.txt or source/not_related.txt)
+
 == IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
   variant A2-040 INTEREST       here /ˈɪntrəst/   Britfone: ˈɪntəɹɪst | ˈɪntɹɪst
   variant B1-005 EXPERIENCE     here /ɪkˈspɪəriəns/   Britfone: ɪkspˈɪəɹɪəns
