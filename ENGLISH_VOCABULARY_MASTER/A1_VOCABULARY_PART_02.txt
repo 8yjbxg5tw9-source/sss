@@ -1,0 +1,507 @@
+====================================================================================================
+ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
+LEVEL A1 — BEGINNER  /  Başlanğıc səviyyə
+====================================================================================================
+File: A1_VOCABULARY_PART_02.txt   |   Part 2 of 2   |   Generated: 2026-11-11
+Lessons in this file: 8 (0 main-word lessons + 8 fixed-phrase lessons)
+Expressions: 0   |   Fixed phrases: 48   |   Example sentences: 27
+New vocabulary items introduced at level A1: 573   |   Language of usage notes: Azerbaijani
+
+HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
+  A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
+  B. WORD FAMILY .......... Söz ailəsi: eyni kökdən yaranan isim, fel, sifət və zərf formaları
+  C. RELATED EXPRESSIONS .. Əlaqəli ifadələr: əsas sözlə işlənən 7–8 təbii söz birləşməsi (hər biri yeni söz öyrədir)
+  D. EXAMPLE SENTENCES .... Nümunə cümlələr: ifadələrin cümlədə işlənməsi və Azərbaycanca tərcüməsi
+  E. USAGE EXPLANATION .... İşlənmə izahı: oxşar ifadələrin fərqi, qrammatik qəliblər, üslub
+  DATABASE UPDATE ......... Bu dərsdə bazaya əlavə olunan yeni sözlər və təkrar yoxlamasının nəticəsi
+
+  FIXED-PHRASE LESSON ..... Sabit ifadələr dərsi: əvvəl öyrədilmiş sözlərdən qurulan 4–8 hazır ifadə (get up, at least)
+
+  sb = somebody (kimsə)      sth = something (nəsə)      one's = my / your / his / her ... (öz)
+  An expression marked [related] belongs to the same topic but does not contain the main word itself.
+  [related] işarəli ifadə eyni mövzuya aiddir, lakin əsas sözün özünü ehtiva etmir.
+
+THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
+  Every English word is taught exactly ONCE in the whole A1–C2 system: as a main word, as a word-family
+  form, or as the new word inside one expression. Only grammar words (a, the, of, to, be, have, do ...)
+  listed in A1 "Section 0" may recur inside expressions. Example sentences may recycle known words.
+  A fixed phrase (get up, at least, in fact) is an item of its own: it is built from words that were taught
+  earlier and it is taught once, as a phrase, in a fixed-phrase lesson.
+  Hər bir ingilis sözü bütün sistemdə (A1–C2) yalnız BİR dəfə öyrədilir. Yalnız A1 faylının
+  "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
+  Sabit ifadə (get up, at least, in fact) ayrıca vahiddir: əvvəl öyrədilmiş sözlərdən qurulur və
+  sabit ifadələr dərsində bir dəfə — ifadə kimi — öyrədilir.
+
+CONTENTS OF THIS FILE
+   UNIT 13 — Fixed phrases: everyday life and conversation  /  Sabit ifadələr: gündəlik həyat və ünsiyyət
+      A1-077 Daily routine, A1-078 Getting there, A1-079 Verbs with prepositions, A1-080 Meeting
+      people, A1-081 Offers and suggestions, A1-082 News and free time, A1-083 Phone and television,
+      A1-084 Grammar phrases
+
+
+####################################################################################################
+#  UNIT 13 — FIXED PHRASES: EVERYDAY LIFE AND CONVERSATION
+#  Sabit ifadələr: gündəlik həyat və ünsiyyət
+####################################################################################################
+
+====================================================================================================
+LESSON A1-077   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: DAILY ROUTINE
+Azerbaijani: Gündəlik rejim
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. How often…? — Nə qədər tez-tez ...? Neçə vaxtdan bir ...?
+      Usage: How often do you ...? Cavab: once a week, every day
+   2. X times a… — ...-da X dəfə
+      Usage: X yerinə say qoyulur: three times a day, four times a week; iki dəfə = twice
+   3. X hours a day — gündə X saat
+      Usage: eight hours a day = gündə səkkiz saat; burada "a" = hər bir
+   4. go to work — işə getmək
+      Usage: Artiklsiz: go to work by bus
+   5. for lunch — nahar üçün, nahara
+      Usage: have soup for lunch; for breakfast, for dinner
+   6. hard work — ağır zəhmət, gərgin iş
+      Usage: It is hard work = Bu, ağır işdir
+
+B. NATURAL EXAMPLE SENTENCES
+   1. How often do you go to the gym? — Three times a week.
+      → İdman zalına nə qədər tez-tez gedirsən? — Həftədə üç dəfə.
+   2. He works ten hours a day.
+      → O, gündə on saat işləyir.
+   3. What do you usually have for lunch?
+      → Sən adətən naharda nə yeyirsən?
+
+C. USAGE EXPLANATION
+   Tezlik "say + times + a + zaman vahidi" qəlibi ilə bildirilir: three times a week. Bir dəfə –
+   ONCE, iki dəfə – TWICE, sonra three times, four times ... Burada "a" artikli "hər bir, ...-da"
+   mənasını verir: once a year = ildə bir dəfə. GO TO WORK ifadəsində artikl yoxdur, eynilə: go to
+   school, go to bed. HARD WORK "ağır zəhmət" deməkdir (isim); "work hard" isə "çox çalışmaq"dır
+   (fel + zərf). FOR LUNCH ifadəsində FOR "üçün, ...-a" deməkdir: What's for lunch?
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): How often…?; X times a…; X hours a day; go to work;
+      for lunch; hard work
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (54 phrases in the database).
+
+====================================================================================================
+LESSON A1-078   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: GETTING THERE
+Azerbaijani: Çatmaq, minmək, düşmək
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. get home — evə çatmaq
+      Usage: "home" ilə sözönü işlənmir: get home late
+   2. get there — oraya çatmaq
+      Usage: "there" və "here" ilə sözönü işlənmir: How do I get there?
+   3. get to… — ...-a çatmaq, gedib çıxmaq
+      Usage: get to + yer: get to work, get to the station
+   4. get on — (avtobusa, qatara) minmək
+      Usage: get on the bus; Are you getting on? = Minirsiniz?
+   5. get off — (avtobusdan, qatardan) düşmək
+      Usage: get off the bus; I'm getting off here = Mən burada düşürəm
+   6. go back — qayıtmaq, geri getmək
+      Usage: go back to… = ...-a qayıtmaq: go back home, go back to work
+
+B. NATURAL EXAMPLE SENTENCES
+   1. What time do you get home in the evening?
+      → Axşam evə saat neçədə çatırsan?
+   2. Get on the number five bus and get off at the station.
+      → Beş nömrəli avtobusa min və stansiyada düş.
+   3. How can I get to the airport?
+      → Hava limanına necə gedə bilərəm?
+
+C. USAGE EXPLANATION
+   GET hərəkət mənasında "çatmaq, gedib çıxmaq" deməkdir: get to + yer. HOME, HERE, THERE sözləri
+   ilə "to" işlənmir: get home, get there. GET ON və GET OFF ictimai nəqliyyat (bus, train, plane)
+   üçündür; avtomobil və taksi üçün "get in" və "get out of" deyilir: get in the car. GO BACK "geri
+   getmək", COME BACK isə "geri gəlmək" (danışanın olduğu yerə) deməkdir.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): get home; get there; get to…; get on; get off; go
+      back
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (60 phrases in the database).
+
+====================================================================================================
+LESSON A1-079   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: VERBS WITH PREPOSITIONS
+Azerbaijani: Sözönülü fellər
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. go into sth — nəyinsə içinə girmək
+      Usage: She went into her room = O, öz otağına girdi
+   2. come into sth — nəyinsə içinə gəlmək, daxil olmaq
+      Usage: He came into the room = O, otağa daxil oldu
+   3. end in sth — nə iləsə bitmək, qurtarmaq
+      Usage: The word ends in "-ing"; The film ends in a wedding
+   4. wait for sb/sth — kimisə / nəyisə gözləmək
+      Usage: Sözönü "for" mütləqdir: wait for the bus ("wait the bus" səhvdir)
+   5. work with sb — kiminləsə (birlikdə) işləmək
+      Usage: work with children = uşaqlarla işləmək
+   6. work together — birlikdə işləmək, əməkdaşlıq etmək
+      Usage: work together for sth / to do sth = nəyinsə uğrunda birgə çalışmaq
+
+B. NATURAL EXAMPLE SENTENCES
+   1. Wait for me! I'm coming.
+      → Məni gözlə! Gəlirəm.
+   2. The teacher came into the classroom and said hello.
+      → Müəllim sinif otağına daxil oldu və salam verdi.
+   3. We work together on every project.
+      → Biz hər layihə üzərində birlikdə işləyirik.
+
+C. USAGE EXPLANATION
+   INTO hərəkətin içəriyə doğru olduğunu bildirir (go into the room), IN isə yerin içində olmağı (be
+   in the room). GO danışandan uzaqlaşmaq, COME isə danışana tərəf gəlmək deməkdir: go into, come
+   into. WAIT feli ilə gözlənilən şəxs və ya əşyadan əvvəl FOR işlənir: I am waiting for my friend.
+   END IN bir şeyin nə ilə bitdiyini göstərir. WORK WITH + şəxs və WORK TOGETHER birgə fəaliyyəti
+   bildirir.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): go into sth; come into sth; end in sth; wait for
+      sb/sth; work with sb; work together
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (66 phrases in the database).
+
+====================================================================================================
+LESSON A1-080   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: MEETING PEOPLE
+Azerbaijani: İnsanlarla görüşərkən
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. How are you? — Necəsən? Necəsiniz?
+      Usage: Cavab: Fine, thanks. And you? = Yaxşıyam, sağ ol. Bəs sən?
+   2. This is… — Bu, ...-dır (tanış edərkən); Danışan ...-dır (telefonda)
+      Usage: This is my dad = Bu, mənim atamdır
+   3. See you — Görüşərik, hələlik
+      Usage: See you later, See you soon, See you tomorrow = Sonra / tezliklə / sabah görüşərik
+   4. No problem — Problem deyil; dəyməz
+      Usage: Xahişə razılıq və ya təşəkkürə cavab kimi
+   5. old friend — köhnə (çoxdankı) dost
+      Usage: an old friend of mine = mənim köhnə dostlarımdan biri
+   6. Oh yes — Hə, düzdür; Ah, bəli
+      Usage: Nəyisə xatırlayanda və ya həvəslə razılaşanda
+
+B. NATURAL EXAMPLE SENTENCES
+   1. Hello, Leyla! How are you? — Fine, thank you.
+      → Salam, Leyla! Necəsən? — Yaxşıyam, sağ ol.
+   2. Mum, this is Rashad, an old friend from school.
+      → Ana, bu, Rəşaddır, məktəbdən köhnə dostumdur.
+   3. Can you help me? — No problem.
+      → Mənə kömək edə bilərsən? — Problem deyil.
+   4. Goodbye! See you tomorrow.
+      → Sağ ol! Sabah görüşərik.
+
+C. USAGE EXPLANATION
+   "How are you?" sualına qısa və müsbət cavab verilir: "Fine, thanks" və ya "Not bad"; bu, həqiqi
+   sağlamlıq sualı deyil, salamlaşmanın bir hissəsidir. Kimisə tanış edəndə "This is ..." deyilir
+   ("He is ..." yox). Telefonda da özünü belə təqdim edirlər: "Hello, this is Anar". SEE YOU
+   qeyri-rəsmi sağollaşmadır. "Thank you" ifadəsinə cavab: "You're welcome" və ya "No problem". OLD
+   FRIEND yaşlı dost yox, çoxdankı dost deməkdir.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): How are you?; This is…; See you; No problem; old
+      friend; Oh yes
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (72 phrases in the database).
+
+====================================================================================================
+LESSON A1-081   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: OFFERS AND SUGGESTIONS
+Azerbaijani: Təklif və dəvət
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. would like — istərdim (nəzakətli "want")
+      Usage: I would like… / I'd like… + isim və ya to + fel: I'd like a coffee; I would like to go
+   2. Would you like…? — ... istərdinizmi? ... istəyirsiniz?
+      Usage: Nəzakətli təklif: Would you like some tea?
+   3. How about…? — ... necə olar? Bəs ...?
+      Usage: How about + isim / fel + -ing: How about a walk? How about going out?
+   4. What about…? — Bəs ...? ... necə?
+      Usage: What about you? = Bəs sən?
+   5. Guess what… — Bil görüm nə olub; Tap görüm ...
+      Usage: Maraqlı xəbərdən əvvəl deyilir: Guess what! I passed!
+   6. Oh no! — Ay aman! Vay!
+      Usage: Pis xəbərə və ya səhvə reaksiya
+
+B. NATURAL EXAMPLE SENTENCES
+   1. I would like a cup of tea, please.
+      → Mən bir fincan çay istərdim, zəhmət olmasa.
+   2. Would you like to come with us?
+      → Bizimlə gəlmək istərdinizmi?
+   3. How about a pizza tonight?
+      → Bu axşam pizza yesək, necə olar?
+
+C. USAGE EXPLANATION
+   WOULD LIKE "want" felinin nəzakətli formasıdır və mağazada, restoranda, qonaqlıqda işlənir: I'd
+   like ... ("I want ..." kobud səslənə bilər). Ondan sonra isim və ya "to + fel" gəlir: I'd like to
+   go. "Would you like ...?" təklif və dəvət üçündür; "Do you like ...?" isə ümumi zövqü soruşur.
+   HOW ABOUT və WHAT ABOUT təklif vermək və ya sualı başqasına yönəltmək üçündür; onlardan sonra fel
+   "-ing" formasında olur.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): would like; Would you like…?; How about…?; What
+      about…?; Guess what…; Oh no!
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (78 phrases in the database).
+
+====================================================================================================
+LESSON A1-082   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: NEWS AND FREE TIME
+Azerbaijani: Xəbərlər və asudə vaxt
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. good news — yaxşı xəbər
+      Usage: "news" sayılmayan isimdir: I have some good news
+   2. bad news — pis xəbər
+      Usage: I have some bad news = Pis xəbərim var
+   3. bad for sb/sth — kiməsə / nəyəsə zərərli, pis
+      Usage: Sugar is bad for your teeth; əksi: good for
+   4. have fun — əylənmək, vaxtını xoş keçirmək
+      Usage: Have fun! = Yaxşı əylən(in)!
+   5. spend time — vaxt keçirmək
+      Usage: spend time with sb = kiminləsə vaxt keçirmək; spend time doing sth
+   6. learn how to do sth — nəyisə necə etməyi öyrənmək
+      Usage: learn how to swim, learn how to cook
+
+B. NATURAL EXAMPLE SENTENCES
+   1. I have good news: we are going to Baku!
+      → Yaxşı xəbərim var: biz Bakıya gedirik!
+   2. I like to spend time with my family at the weekend.
+      → Həftə sonu ailəmlə vaxt keçirməyi xoşlayıram.
+   3. Too much sugar is bad for you.
+      → Həddindən artıq şəkər sizə zərərlidir.
+   4. The children had fun at the party.
+      → Uşaqlar şənlikdə yaxşı əyləndilər.
+
+C. USAGE EXPLANATION
+   NEWS sonu "-s" ilə bitsə də, təkdə işlənən sayılmayan isimdir: "The news IS good" ("are" yox); "a
+   news" deyilmir – "some news" və ya "a piece of news". HAVE FUN – əylənmək: We had fun at the
+   party. SPEND (spend – spent – spent) həm pul xərcləmək, həm də vaxt keçirmək deməkdir. BAD FOR və
+   GOOD FOR sağlamlığa və ya vəziyyətə təsiri bildirir: Fruit is good for you. LEARN HOW TO + fel
+   bacarıq qazanmağı bildirir.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): good news; bad news; bad for sb/sth; have fun; spend
+      time; learn how to do sth
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (84 phrases in the database).
+
+====================================================================================================
+LESSON A1-083   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: PHONE AND TELEVISION
+Azerbaijani: Telefon və televiziya
+
+A. FIXED PHRASES OF THIS LESSON (5)
+   1. mobile phone — mobil telefon
+      Usage: Britaniya ingiliscəsində; Amerikada: cell phone; qısa: mobile
+   2. phone number — telefon nömrəsi
+      Usage: What's your phone number? = Telefon nömrən neçədir?
+   3. on the phone — telefonda, telefonla
+      Usage: be on the phone = telefonla danışmaq; talk on the phone
+   4. on TV — televizorda
+      Usage: What's on TV tonight? = Bu axşam televizorda nə var?
+   5. on television — televiziyada, televizorda
+      Usage: "on TV" ilə eyni mənada, bir qədər rəsmi; həmçinin: on the television
+
+B. NATURAL EXAMPLE SENTENCES
+   1. Can I have your phone number?
+      → Telefon nömrənizi ala bilərəm?
+   2. She is on the phone; please wait a minute.
+      → O, telefonla danışır; zəhmət olmasa, bir dəqiqə gözləyin.
+   3. I saw that film on TV last week.
+      → Mən o filmi keçən həftə televizorda görmüşəm.
+
+C. USAGE EXPLANATION
+   Yayım və rabitə vasitələri ON sözönüsü ilə işlənir: on the phone, on TV, on television, on the
+   radio. Müqayisə edin: "on TV" – verilişdə, ekranda; "on the TV" isə həm də əşya kimi televizorun
+   üstündə ola bilər. Telefon nömrəsi rəqəm-rəqəm deyilir, 0 rəqəmi isə çox vaxt "oh" kimi oxunur.
+   MOBILE PHONE Britaniyada, CELL PHONE Amerikada işlənir; gündəlik danışıqda sadəcə "phone"
+   deyirlər.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (5): mobile phone; phone number; on the phone; on TV; on
+      television
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (89 phrases in the database).
+
+====================================================================================================
+LESSON A1-084   |   UNIT 13: Fixed phrases: everyday life and conversation
+====================================================================================================
+FIXED PHRASES: GRAMMAR PHRASES
+Azerbaijani: Qrammatik ifadələr
+
+A. FIXED PHRASES OF THIS LESSON (7)
+   1. there is — var (təkdə)
+      Usage: there is + tək isim; cəmdə: there are; keçmişdə: there was, there were
+   2. have got — (kiminsə nəyisə) var
+      Usage: Britaniya danışıq dilində "have" əvəzinə: I've got a car
+   3. be going to do sth — nəyisə etmək niyyətində olmaq; edəcək
+      Usage: Plan və niyyət: I am going to study tonight
+   4. he or she — o (kişi və ya qadın)
+      Usage: Cinsi bilinməyən şəxs haqqında: If a student is late, he or she must wait
+   5. his or her — onun (kişinin və ya qadının)
+      Usage: Every student has his or her own book
+   6. someone else — başqa birisi, başqa kimsə
+      Usage: else = başqa; həmçinin: something else, anyone else
+   7. anything else — başqa bir şey (sual və inkarda)
+      Usage: Mağazada: Anything else? = Başqa bir şey?
+
+B. NATURAL EXAMPLE SENTENCES
+   1. There is a park near my house.
+      → Evimin yanında park var.
+   2. I have got two brothers and a sister.
+      → Mənim iki qardaşım və bir bacım var.
+   3. We are going to visit our grandparents on Sunday.
+      → Biz bazar günü baba və nənəmizə baş çəkəcəyik.
+   4. Do you want anything else?
+      → Başqa bir şey istəyirsiniz?
+
+C. USAGE EXPLANATION
+   THERE IS / THERE ARE nəyinsə mövcud olduğunu bildirir və Azərbaycan dilinə "var" kimi tərcümə
+   olunur: There is a book on the table = Stolun üstündə kitab var. HAVE GOT yalnız indiki zamanda
+   işlənir və "have" ilə eyni mənadadır; sualı: Have you got ...? BE GOING TO + fel əvvəlcədən
+   qərara alınmış planı bildirir. Azərbaycan dilində "o" əvəzliyi cins bildirmir; ingilis dilində
+   cins məlum olmayanda HE OR SHE, HIS OR HER (və ya "they", "their") deyilir. ELSE "başqa" deməkdir
+   və something, anything, someone, what, where kimi sözlərdən sonra gəlir.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (7): there is; have got; be going to do sth; he or she;
+      his or her; someone else; anything else
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (96 phrases in the database).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 13 (Fixed phrases: everyday life and conversation)
+----------------------------------------------------------------------------------------------------
+   Fixed-phrase lessons in this unit: Daily routine; Getting there; Verbs with prepositions; Meeting
+      people; Offers and suggestions; News and free time; Phone and television; Grammar phrases
+   Fixed phrases registered in this unit: 48   |   Phrases in the database after this unit: 96
+   How often…?; X times a…; X hours a day; go to work; for lunch; hard work; get home; get there;
+   get to…; get on; get off; go back; go into sth; come into sth; end in sth; wait for sb/sth; work
+   with sb; work together; How are you?; This is…; See you; No problem; old friend; Oh yes; would
+   like; Would you like…?; How about…?; What about…?; Guess what…; Oh no!; good news; bad news; bad
+   for sb/sth; have fun; spend time; learn how to do sth; mobile phone; phone number; on the phone;
+   on TV; on television; there is; have got; be going to do sth; he or she; his or her; someone
+   else; anything else
+
+====================================================================================================
+UPDATED VOCABULARY INDEX — END OF LEVEL A1
+====================================================================================================
+   Main words covered at A1 (68):
+      GO (001), COME (002), GET (003), TAKE (004), MAKE (005), GIVE (006), EAT (007), DRINK (008),
+      COOK (009), BUY (010), MONEY (011), LIVE (012), HOUSE (013), FAMILY (014), FRIEND (015), BODY
+      (016), LEARN (017), READ (018), WRITE (019), SPEAK (020), ASK (021), LISTEN (022), WORK (023),
+      PLAY (024), WATCH (025), HELP (026), LOOK (027), OPEN (028), WEAR (029), TIME (030), DAY
+      (031), WEATHER (032), CITY (033), GOOD (034), BIG (035), NEW (036), OLD (037), HAPPY (038),
+      HOT (039), COLOUR (040), WANT (041), SAY (042), SIT (043), WAKE (044), BECOME (045), BELIEVE
+      (046), BEGIN (047), ADD (048), ORDER (049), DRESS (050), PREFER (051), HATE (052), COMPARE
+      (053), TEACH (054), SPELL (055), DESCRIBE (056), DRAW (057), PAINT (058), SING (059), DANCE
+      (060), INTRODUCE (061), BUILD (062), RIDE (063), FLY (064), FARM (065), AFRAID (066), MONTH
+      (067), BOY (068)
+
+   Fixed phrases taught at A1 (96 phrases in 16 lessons; the number is the lesson):
+      a few 069; a little 069; a lot 069; anything else 084; at home 071; at school 071; at the
+      beginning of sth 073; at the end 073; at the end of sth 073; away from sb/sth 073; bad for
+      sb/sth 082; bad news 082; be going to do sth 084; because of 070; car park 072; come into sth
+      079; end in sth 079; for example 070; for lunch 077; for many years 075; for the first time
+      076; get home 078; get off 078; get on 078; get there 078; get to… 078; go back 078; go into
+      sth 079; go to work 077; good news 082; Guess what… 081; hard work 077; have fun 082; have got
+      084; he or she 084; his or her 084; How about…? 081; How are you? 080; How many…? 069; How
+      much…? 069; How often…? 077; in April 074; in bed 071; in school 071; in space 072; in summer
+      074; in the centre 072; in the country 071; in the morning 074; in the past 076; in the street
+      071; in the summer 074; It takes… 076; last year 075; learn how to do sth 082; lots of… 069;
+      millions of… 070; mobile phone 083; more than… 070; next to 073; next year 075; No problem
+      080; Oh no! 081; Oh yes 080; old friend 080; on Monday 074; on television 083; on the beach
+      072; on the floor 073; on the phone 083; on TV 083; phone number 083; See you 080; someone
+      else 084; spend time 082; such as 070; swimming pool 072; that day 076; the next day 076;
+      there is 084; This is… 080; this morning 074; this time 076; this year 075; thousands of… 070;
+      town centre 072; wait for sb/sth 079; What about…? 081; work together 079; work with sb 079;
+      would like 081; Would you like…? 081; X hours a day 077; X times a… 077; X years ago 075; X
+      years later 075
+
+   All vocabulary introduced at A1, A–Z (573 items; the number is the lesson):
+      actress 045, ADD 048, address 019, AFRAID 066, afternoon 034, again 021, age 037, alive 012,
+      alone 012, angry 003, animal 035, answer 006, apartment 062, apple 007, arm 016, artist 045,
+      ASK 021, aunt 014, awesome 059, Azerbaijani 020, baby 027, bad 032, bag 026, balcony 013,
+      banana 041, band 059, bar 059, baseball 052, basketball 052, bath 039, bathroom 013, beach
+      063, beautiful 027, BECOME 045, bed 001, bedroom 013, beer 041, BEGIN 047, BELIEVE 046, best
+      015, better 034, bicycle 063, BIG 035, bill 021, bird 022, birthday 038, black 040, blog 047,
+      blond 068, blue 040, board 019, boat 058, BODY 016, book 018, boot 050, bored 066, born 068,
+      borrow 011, bottle 008, box 028, BOY 068, boyfriend 061, brand 036, bread 010, breakfast 007,
+      bridge 037, bright 040, brother 014, brown 040, brush 016, BUILD 062, building 037, bus 001,
+      busy 031, butter 048, BUY 010, buyer 010, cafe 051, cake 005, call 005, capital 033, car 036,
+      card 024, care 004, carefully 022, carrot 048, carry 026, cartoon 025, cat 044, centre 033,
+      chart 057, chat 015, cheap 011, cheese 010, chess 024, chicken 009, child 038, chocolate 039,
+      CITY 033, classroom 054, clean 013, clearly 020, clock 044, close 015, clothes 010, cloud 032,
+      coat 029, coffee 008, cold 008, college 054, COLOUR 040, colourful 040, COME 002, company 023,
+      COMPARE 053, complete 049, computer 024, conversation 022, COOK 009, cooker 009, cooking 009,
+      cool 067, correct 056, cost 011, country 035, couple 038, cousin 056, cow 065, cream 048,
+      cross 026, cup 005, curtain 028, cut 055, dad 044, daily 031, DANCE 060, dancer 060, dangerous
+      066, dark 040, daughter 014, DAY 031, dear 068, delicious 049, DESCRIBE 056, description 056,
+      desk 043, die 066, dinner 005, direction 006, dirty 052, dish 039, doctor 023, dog 035, door
+      028, downstairs 013, DRAW 057, drawing 057, DRESS 050, dressed 003, DRINK 008, drive 017,
+      driver 047, dry 039, ear 016, early 002, earn 011, east 064, EAT 007, egg 009, elephant 063,
+      email 018, end 047, English 017, euro 053, evening 034, exam 004, example 006, excited 066,
+      expensive 011, eye 028, face 038, FAMILY 014, famous 045, fantastic 060, FARM 065, farmer 065,
+      farming 065, father 014, favourite 040, festival 060, fill 055, film 025, finger 016, finish
+      023, fish 009, flat 012, floor 012, flower 006, FLY 064, flying 064, foot 043, football 024,
+      forecast 032, forget 046, free 030, FRIEND 015, friendly 015, friendship 015, front 043, fruit
+      007, fun 060, game 024, garden 026, gate 028, geography 054, GET 003, girl 060, girlfriend
+      061, GIVE 006, glass 008, glasses 029, GO 001, GOOD 034, grandfather 014, grandmother 014,
+      grandparent 061, great 009, green 040, grey 040, guess 046, guitar 024, gym 051, hair 016,
+      hand 006, happen 042, happily 038, happiness 038, HAPPY 038, hard 023, hard-working 023, hat
+      029, HATE 052, head 016, heart 017, heat 039, heater 039, heating 039, HELP 026, helper 026,
+      helpful 026, helpless 026, history 017, holiday 001, home 001, homework 026, horse 063, HOT
+      039, hotel 033, hour 028, HOUSE 013, housework 013, hug 006, human 016, husband 014, ice 048,
+      idea 034, imagine 046, include 055, information 021, INTRODUCE 061, invite 015, island 064,
+      jacket 029, jeans 029, job 036, juice 008, key 027, kitchen 009, language 017, last 030, late
+      002, LEARN 017, learner 017, learning 017, leg 016, lesson 036, let 046, letter 018, library
+      062, life 012, line 057, lion 057, list 005, LISTEN 022, listener 022, listening 022, LIVE
+      012, living 012, LOOK 027, loudly 020, luck 034, lunch 007, machine 062, magazine 018, MAKE
+      005, mall 062, man 037, map 018, married 003, match 025, meal 009, mean 046, meat 007,
+      medicine 004, meet 015, meeting 047, member 014, menu 021, message 018, metre 053, mile 053,
+      milk 008, mistake 005, mobile 036, modern 033, MONEY 011, MONTH 067, morning 034, mother 014,
+      mountain 058, mouth 028, movie 059, mum 044, museum 033, music 022, name 019, native 020, need
+      026, neighbour 026, neighbourhood 056, NEW 036, newly 036, news 018, newspaper 010, next 030,
+      nice 031, night 034, noise 005, north 064, nose 016, note 019, number 013, object 057, ocean
+      058, office 023, OLD 037, onion 048, online 010, OPEN 028, opening 028, openly 028, opposite
+      042, orange 008, ORDER 049, oven 039, PAINT 058, painting 058, pair 010, pants 050, parent
+      012, park 033, part 016, party 002, past 067, pasta 009, pen 019, pencil 057, people 037,
+      pepper 048, perfect 047, phone 005, photo 004, photograph 058, piano 024, picture 027, pig
+      065, pink 040, pizza 049, PLAY 024, player 024, pocket 011, podcast 022, politely 020, pool
+      062, poor 011, postcard 019, pound 053, PREFER 051, present 006, price 021, problem 035,
+      programme 025, purple 040, quarter 067, question 021, quick 056, quickly 017, quiet 012, radio
+      022, rain 032, READ 018, reader 018, reading 018, ready 003, red 040, rent 013, repeat 022,
+      restaurant 033, rice 009, rich 011, RIDE 063, river 065, road 026, room 012, sad 038, salt
+      041, same 030, sandwich 005, save 011, SAY 042, school 001, science 054, scientist 045, sea
+      012, seat 004, section 055, see 038, sell 010, sentence 019, series 025, sheep 065, shirt 029,
+      shoe 010, shop 050, shopping 001, shoulder 016, shower 004, similar 053, SING 059, singer 059,
+      sister 014, SIT 043, skirt 029, sleep 044, slow 067, slowly 020, small 013, smart 068, smile
+      015, snake 066, snow 032, soft 008, son 014, song 022, soup 039, south 064, space 064, SPEAK
+      020, speaker 020, speech 020, SPELL 055, spelling 055, spend 011, spoken 020, spring 051,
+      square 033, stand 043, start 023, station 033, store 049, story 018, street 033, student 036,
+      sugar 041, summer 039, sun 043, sunny 032, supermarket 010, sure 042, surprise 035, sweater
+      050, swim 017, swimming 052, T-shirt 050, TAKE 004, taxi 003, tea 005, TEACH 054, teacher 054,
+      teaching 054, teenager 045, telephone 051, television 051, tennis 024, terrible 042, text 018,
+      thank 042, thanks 026, theatre 033, ticket 003, TIME 030, tired 003, toe 016, toilet 052,
+      tomorrow 031, tooth 016, top 012, tourist 061, town 036, toy 024, train 033, tree 035,
+      trousers 029, truck 063, true 042, TV 025, umbrella 004, uncle 014, unfriendly 015, unhappy
+      038, upstairs 013, vacation 067, vegetable 007, video 025, village 012, visit 015, visitor
+      061, wait 021, waiter 049, WAKE 044, walk 001, WANT 041, warm 032, wash 016, WATCH 025, water
+      008, way 021, WEAR 029, WEATHER 032, weekend 023, well 034, west 064, wet 032, white 040,
+      whole 014, wide 028, wife 014, wind 032, window 027, wine 041, woman 037, word 017, WORK 023,
+      worker 023, working 023, WRITE 019, writer 019, writing 019, written 019, yard 068, year 037,
+      yellow 040, yesterday 031
+
+   Cumulative database size after A1: 592 individual vocabulary items (+ 285 structural words).
+   Global duplicate check for this level: PASSED (0 repeated items).
+
+END OF LEVEL A1

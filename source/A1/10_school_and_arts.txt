@@ -1,0 +1,120 @@
+// A1 expansion (Oxford 3000 list): every lesson teaches six A1 words of the list.
+## School and the arts | Məktəb və incəsənət
+@ TEACH | verb | tiːtʃ | öyrətmək, dərs demək
+forms: teach – teaches – taught – taught – teaching
+n: teacher = müəllim; teaching = müəllimlik, tədris (peşə kimi)
+- teach science = təbiət elmləri (fənnini) tədris etmək :: science /ˈsaɪəns/ = elm; məktəbdə: təbiət elmləri
+- a geography teacher = coğrafiya müəllimi :: geography /dʒiˈɒɡrəfi/ = coğrafiya
+- teach at a college = kollecdə dərs demək :: college /ˈkɒlɪdʒ/ = kollec; ABŞ-da həm də ali məktəb
+- teach in a classroom = sinif otağında dərs demək :: classroom = sinif otağı
+- teach sb to do sth = kiməsə nəyisə etməyi öyrətmək :: teach + şəxs + to + fel: teach a child to read
+- teach yourself = öz-özünə öyrənmək :: teach yourself English = ingilis dilini müstəqil öyrənmək
+- my first teacher = mənim ilk müəllimim :: İbtidai sinif müəllimi haqqında
+> My mother teaches science at a college. = Anam kollecdə təbiət elmlərini tədris edir.
+> Who taught you to swim? = Sənə üzməyi kim öyrədib?
+> Our geography teacher is very kind. = Coğrafiya müəllimimiz çox mehribandır.
+! TEACH düzgün olmayan feldir: teach – taught /tɔːt/ – taught. TEACH bilik verməkdir (müəllim öyrədir), LEARN isə bilik almaqdır (şagird öyrənir); Azərbaycan dilində hər ikisi "öyrənmək / öyrətmək" kökündəndir, ona görə qarışdırmayın: "She teaches English" – O, ingilis dili öyrədir; "She learns English" – O, ingilis dili öyrənir. Qəliblər: teach + fənn, teach + şəxs + fənn (teach children maths), teach + şəxs + to + fel.
+
+@ SPELL | verb | spel | hərf-hərf demək və ya yazmaq
+forms: spell – spells – spelled / spelt – spelled / spelt – spelling
+n: spelling = orfoqrafiya, yazılış
+- how do you spell it = bu necə yazılır :: Sözün və ya adın yazılışını soruşmaq üçün əsas sual
+- spell it out = hərf-hərf demək; ətraflı izah etmək :: Frazeoloji fel
+- the spelling of sth = nəyinsə yazılışı :: the spelling of your name = adının yazılışı
+~ fill in this section = bu bölməni doldurmaq :: fill = doldurmaq; fill in = (blankı) doldurmaq; section = bölmə, hissə
+~ cut it out = onu kəsib çıxarmaq :: cut – cut – cut = kəsmək
+~ include everything = hər şeyi daxil etmək :: include /ɪnˈkluːd/ = daxil etmək, əhatə etmək
+- spell sth for sb = kimin üçünsə nəyisə hərf-hərf demək :: Can you spell it for me?
+> How do you spell your surname? = Soyadınız necə yazılır?
+> Please fill in this section and write your name. = Zəhmət olmasa, bu bölməni doldurun və adınızı yazın.
+> Does the price include breakfast? = Qiymətə səhər yeməyi daxildir?
+! SPELL sözün hərflərini düzgün ardıcıllıqla demək və ya yazmaqdır: "How do you spell 'beautiful'?" Keçmiş zamanı Britaniyada həm "spelt", həm "spelled", Amerikada "spelled" olur. SPELLING isə yazılış, orfoqrafiya deməkdir: a spelling mistake = orfoqrafik səhv. Bu dərsdə blank və tapşırıq dilinin başqa sözləri də var: FILL IN (blankı doldurmaq), SECTION (bölmə), CUT (kəsmək; üç forması eynidir: cut – cut – cut) və INCLUDE (daxil etmək).
+
+@ DESCRIBE | verb | dɪˈskraɪb | təsvir etmək
+forms: describe – describes – described – described – describing
+n: description = təsvir
+- describe your neighbourhood = məhəlləni (yaşadığın ərazini) təsvir etmək :: neighbourhood = məhəllə, qonşuluq; Amerika yazılışı: neighborhood
+- describe your cousin = əmioğlunu (xalaqızını və s.) təsvir etmək :: cousin /ˈkʌzən/ = əmi, dayı, xala və ya bibi uşağı
+- a correct description = düzgün təsvir :: correct = düzgün; fel kimi: düzəltmək
+- a quick description = qısa (tez) təsvir :: quick = cəld, tez; a quick look = ötəri nəzər
+- describe sth to sb = nəyisə kiməsə təsvir etmək :: Şəxsdən əvvəl "to" işlənir: describe it to me
+- describe yourself = özünü təsvir etmək :: Müsahibə sualı: How would you describe yourself?
+- a description of sth = nəyinsə təsviri :: a description of the house
+> Can you describe your neighbourhood? = Yaşadığın məhəlləni təsvir edə bilərsən?
+> She described the man to the police. = O, kişini polisə təsvir etdi.
+> Write a quick description of your cousin. = Əmin oğlunun (və ya xalan qızının) qısa təsvirini yaz.
+! DESCRIBE düzgün feldir və vurğu ikinci hecadadır. Şəxs bildirən tamamlıqdan əvvəl "to" mütləqdir: "Describe it TO me" ("Describe me it" səhvdir). İsmi DESCRIPTION-dır: give a description = təsvir vermək. Təsvir soruşan sual "What is ... like?" şəklindədir: What is your neighbourhood like? = Sənin məhəllən necədir? COUSIN sözü ingilis dilində həm oğlan, həm qız üçün işlənir və bütün əmi, dayı, xala, bibi uşaqlarını bildirir.
+
+@ DRAW | verb | drɔː | (karandaşla) şəkil çəkmək; çəkmək, dartmaq
+forms: draw – draws – drew – drawn – drawing
+n: drawing = (karandaşla çəkilmiş) rəsm, şəkil, həmçinin rəsmxət
+- draw a line = xətt çəkmək :: line = xətt; sətir; növbə
+- draw a chart = cədvəl (diaqram) çəkmək :: chart /tʃɑːt/ = diaqram, cədvəl, qrafik
+- draw with a pencil = karandaşla çəkmək :: pencil = karandaş; "with" alət bildirir
+- draw an object = bir əşyanın şəklini çəkmək :: object /ˈɒbdʒɪkt/ = əşya, cisim
+- draw a lion = şir şəkli çəkmək :: lion /ˈlaɪən/ = şir
+- draw it for me = onu mənim üçün çək :: for + şəxs
+- draw something = nəsə çəkmək :: Uşaqla danışarkən: Draw something for me
+> The children are drawing lions and horses. = Uşaqlar şir və at şəkilləri çəkirlər.
+> Draw a line under the correct answer. = Düzgün cavabın altından xətt çək.
+> I can't draw with this pencil. = Mən bu karandaşla çəkə bilmirəm.
+! DRAW düzgün olmayan feldir: draw – drew /druː/ – drawn. DRAW karandaş və ya qələmlə (boyasız) şəkil çəkməkdir; boya ilə çəkmək PAINT-dir; foto çəkmək isə "take a photo"dur – Azərbaycan dilində üçü də "çəkmək"dir, ingilis dilində isə fərqlidir. DRAW-un ikinci mənası "dartmaq, çəkmək"dir: draw the curtains = pərdələri çəkmək. LINE həm xətt, həm sətir, həm də (Amerikada) növbə deməkdir.
+
+@ PAINT | verb, noun | peɪnt | (boya ilə) şəkil çəkmək; rəngləmək; boya
+forms: paint – paints – painted – painted – painting
+n: painting = rəsm əsəri, tablo
+- paint a boat = qayıq şəkli çəkmək; qayığı rəngləmək :: boat /bəʊt/ = qayıq, kiçik gəmi
+- paint a mountain = dağ şəkli çəkmək :: mountain /ˈmaʊntən/ = dağ
+- a painting of the ocean = okeanın rəsmi :: ocean /ˈəʊʃən/ = okean
+- paint from a photograph = fotoşəkilə baxıb çəkmək :: photograph = fotoşəkil (rəsmi; gündəlik: photo)
+- paint it yourself = onu özün rənglə (çək) :: yourself = özün
+- a painting by sb = kiminsə çəkdiyi rəsm əsəri :: "by" müəllifi bildirir: a painting by Sattar Bahlulzade
+- paint over sth = nəyinsə üstündən rəngləmək :: Köhnə rəngi və ya şəkli örtmək üçün
+> She painted a small boat on the ocean. = O, okeanda kiçik bir qayıq çəkdi.
+> This is a painting by a famous artist. = Bu, məşhur bir rəssamın çəkdiyi rəsm əsəridir.
+> We painted the kitchen white. = Biz mətbəxi ağ rəngə boyadıq.
+! PAINT düzgün feldir və iki mənası var: 1) boya ilə şəkil çəkmək (paint a mountain); 2) divarı, qapını rəngləmək (paint the door blue). İsim kimi PAINT "boya" deməkdir (sayılmır), PAINTING isə rəsm əsəri, tablodur (sayılır: a painting, two paintings). Rəsmin müəllifi "by" ilə göstərilir, rəsmdə təsvir olunan isə "of" ilə: a painting OF the sea BY Aivazovsky.
+
+@ SING | verb | sɪŋ | (mahnı) oxumaq
+forms: sing – sings – sang – sung – singing
+n: singer = müğənni
+- sing in a band = musiqi qrupunda oxumaq :: band = musiqi qrupu, ansambl
+- sing in a bar = barda oxumaq :: bar = bar; həmçinin: a bar of chocolate = şokolad plitkası
+- an awesome singer = möhtəşəm müğənni :: awesome /ˈɔːsəm/ = möhtəşəm, əla (danışıq dilində)
+- sing in a movie = filmdə oxumaq :: movie /ˈmuːvi/ = film, kino (Amerika ingiliscəsində; Britaniyada: film)
+- sing along = (mahnıya) qoşulub oxumaq :: sing along to the radio
+- sing to sb = kiməsə (kimin üçünsə) oxumaq :: sing to the baby = körpəyə layla oxumaq
+- sing together = birlikdə oxumaq :: together = birlikdə
+> She sings in a band at weekends. = O, həftə sonları musiqi qrupunda oxuyur.
+> My favourite singer sang in that movie. = Sevimli müğənnim o filmdə oxuyub.
+> Everybody knows this song, so sing along! = Bu mahnını hamı bilir, qoşulub oxuyun!
+! SING düzgün olmayan feldir: sing – sang – sung. Azərbaycan dilində "oxumaq" həm kitab, həm mahnı üçün işlənir; ingilis dilində kitab üçün READ, mahnı üçün SING deyilir. "-ng" sonluğu /ŋ/ kimi tələffüz olunur, "g" səsi eşidilmir: singer /ˈsɪŋə/. MOVIE Amerika, FILM Britaniya ingiliscəsində daha çox işlənir; AWESOME danışıq dilində "əla, möhtəşəm" deməkdir.
+
+@ DANCE | verb, noun | dɑːns | rəqs etmək, oynamaq; rəqs
+forms: dance – dances – danced – danced – dancing
+n: dancer = rəqqas, rəqqasə
+- dance at a festival = festivalda rəqs etmək :: festival = festival, bayram şənliyi
+- dance for fun = əylənmək üçün rəqs etmək :: fun = əyləncə, zövq; for fun = əyləncə xatirinə
+- a fantastic dancer = fantastik (əla) rəqqas :: fantastic = çox yaxşı, əla
+- dance with a girl = qızla rəqs etmək :: girl /ɡɜːl/ = qız
+- dance together = birlikdə rəqs etmək :: together = birlikdə
+- a dance for two = iki nəfərlik rəqs :: Burada "dance" isimdir
+- dance with me = mənimlə rəqs et :: Dəvət: Would you like to dance with me?
+> They danced at the festival all night. = Onlar bütün gecəni festivalda rəqs etdilər.
+> I am not a good dancer; I only dance for fun. = Mən yaxşı rəqqas deyiləm; yalnız əylənmək üçün rəqs edirəm.
+> Would you like to dance with me? = Mənimlə rəqs etmək istərdinizmi?
+! DANCE həm fel, həm isimdir: to dance = rəqs etmək, a dance = rəqs; rəqs gecəsi. Britaniya tələffüzü /dɑːns/, Amerika tələffüzü /dæns/-dir. FUN sayılmayan isimdir: "It was fun" (əyləncəli idi), "have fun" (əylənmək); sifət kimi FUNNY isə "gülməli" deməkdir – qarışdırmayın. DANCER həm kişi, həm qadın üçün işlənir.
+
+@ INTRODUCE | verb | ˌɪntrəˈdjuːs | tanış etmək, təqdim etmək
+forms: introduce – introduces – introduced – introduced – introducing
+- introduce yourself = özünü təqdim etmək :: Let me introduce myself = İcazə verin, özümü təqdim edim
+- introduce your boyfriend = sevgilini (oğlan dostunu) tanış etmək :: boyfriend = oğlan dostu, sevgili
+- introduce your girlfriend = sevgilini (qız dostunu) tanış etmək :: girlfriend = qız dostu, sevgili
+- introduce your grandparents = baba və nənəni tanış etmək :: grandparent = baba və ya nənə; cəmi: grandparents
+- introduce a visitor = qonağı (ziyarətçini) təqdim etmək :: visitor = ziyarətçi, qonaq
+- introduce tourists to sth = turistləri nə iləsə tanış etmək :: tourist /ˈtʊərɪst/ = turist
+- introduce sb to sb = kimisə kiminləsə tanış etmək :: Sözönü "to"dur: introduce Ali to Leyla
+> Let me introduce myself: my name is Kamran. = İcazə verin, özümü təqdim edim: mənim adım Kamrandır.
+> She introduced her boyfriend to her grandparents. = O, sevgilisini baba və nənəsi ilə tanış etdi.
+> The guide introduced the tourists to the old city. = Bələdçi turistləri köhnə şəhərlə tanış etdi.
+! INTRODUCE düzgün feldir; vurğu sonuncu hecadadır. Qəlib: introduce + kim + TO + kim. Tanışlıq zamanı deyilir: "This is my friend Ali" – "Nice to meet you". Azərbaycan dilindəki "tanış olmaq" ingiliscə "meet"dir (I met him in Baku), "tanış etmək" isə "introduce"dur. GRANDPARENTS baba və nənə birlikdə deməkdir: grandfather + grandmother.

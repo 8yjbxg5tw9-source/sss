@@ -1,0 +1,199 @@
+## Analysis, evidence and research | Təhlil, sübut və tədqiqat
+@ ANALYSE | verb | ˈænəlaɪz | təhlil etmək, analiz etmək
+forms: analyse – analyses – analysed – analysed – analysing
+n: analysis = təhlil, analiz; analyst = analitik, təhlilçi
+adj: analytical = analitik, təhlili
+- statistical analysis = statistik təhlil :: statistical = based on numbers that show facts
+- a thorough analysis = hərtərəfli (əsaslı) təhlil :: thorough /ˈθʌrə/ = complete and careful
+- analyse a sample = nümunəni təhlil etmək :: sample = a small amount tested to learn about the whole
+- a critical analysis = tənqidi təhlil :: critical = judging the good and bad points carefully
+- a political analyst = siyasi şərhçi (analitik) :: political = connected with government and public affairs
+- analytical ability = analitik qabiliyyət :: ability = the skill or power to do something
+- analyse patterns = qanunauyğunluqları təhlil etmək :: pattern = the regular way in which something happens
+- an in-depth analysis = dərin (ətraflı) təhlil :: in-depth = very detailed and complete
+> Researchers analysed data from more than fifty countries. = Tədqiqatçılar əllidən çox ölkənin məlumatlarını təhlil ediblər.
+> The report provides a thorough analysis of the housing market. = Hesabatda mənzil bazarının hərtərəfli təhlili verilir.
+> Blood samples were sent to the laboratory to be analysed. = Qan nümunələri təhlil olunmaq üçün laboratoriyaya göndərildi.
+> The job requires strong analytical ability. = Bu iş güclü analitik qabiliyyət tələb edir.
+! ANALYSE is the British spelling; American English writes "analyze". The noun ANALYSIS has the irregular plural ANALYSES /əˈnæləsiːz/. Notice how the stress moves through the family: ANalyse, aNALysis, ANalyst, anaLYTical. In academic writing you "carry out" or "conduct" an analysis OF something; "in the final analysis" means "when everything has been considered".
+
+@ ASSESS | verb | əˈses | qiymətləndirmək, dəyərləndirmək
+forms: assess – assesses – assessed – assessed – assessing
+n: assessment = qiymətləndirmə
+- assess the value = dəyərini müəyyən etmək, qiymətləndirmək :: value = how much something is worth
+- continuous assessment = cari (davamlı) qiymətləndirmə :: continuous = without stopping; marks given for work during the course
+- assess a candidate = namizədi qiymətləndirmək :: candidate = a person applying for a job or taking an exam
+- an accurate assessment = dəqiq qiymətləndirmə :: accurate = correct in every detail
+- assess progress = irəliləyişi qiymətləndirmək :: progress = movement towards a better state; uncountable
+- assess objectively = obyektiv qiymətləndirmək :: objectively = without being influenced by personal feelings
+- an initial assessment = ilkin qiymətləndirmə :: initial = happening at the beginning
+- assess a patient = xəstəni müayinə edib vəziyyətini qiymətləndirmək :: patient = a person receiving medical treatment
+> It is too early to assess the effects of the new law. = Yeni qanunun təsirlərini qiymətləndirmək hələ tezdir.
+> Students are judged by continuous assessment rather than by a final exam. = Tələbələr yekun imtahanla deyil, cari qiymətləndirmə ilə dəyərləndirilirlər.
+> The nurse assessed the patient before the doctor arrived. = Tibb bacısı həkim gələnə qədər xəstənin vəziyyətini qiymətləndirdi.
+> Teachers meet every month to assess the progress of each pupil. = Müəllimlər hər bir şagirdin irəliləyişini qiymətləndirmək üçün hər ay görüşürlər.
+! ASSESS means to form a careful judgement about the quality, size or importance of something. It is more formal than "judge" and more general than "evaluate", which suggests a systematic study. Patterns: assess something; assess whether / how / what + clause; be assessed AT + amount ("The damage was assessed at two million pounds"). In education, ASSESSMENT covers tests, coursework and exams.
+
+@ ASSUME | verb | əˈsjuːm | güman etmək, fərz etmək; (vəzifəni, məsuliyyəti) öz üzərinə götürmək
+forms: assume – assumes – assumed – assumed – assuming
+n: assumption = fərziyyə, güman
+- assume that = güman etmək ki, fərz etmək ki :: The basic pattern: assume (that) + clause
+- an underlying assumption = (fikrin) əsasında duran fərziyyə :: underlying = existing under the surface; basic but not stated
+- an incorrect assumption = yanlış fərziyyə :: incorrect = not right or true
+- assume command = komandanlığı öz üzərinə götürmək :: command = control over a group, especially soldiers; here "assume" = take
+- automatically assume = düşünmədən (avtomatik) güman etmək :: automatically = without thinking
+- on the assumption that = ... fərziyyəsi ilə, ... olduğunu güman edərək :: Formal linker
+- it is widely assumed = çoxları güman edir ki, geniş yayılmış fikrə görə :: widely = by many people; impersonal academic pattern
+- assume otherwise = əksini güman etmək :: otherwise = differently
+> I assumed that you knew each other. = Mən güman edirdim ki, siz bir-birinizi tanıyırsınız.
+> Don't automatically assume that expensive products are better. = Avtomatik olaraq güman etməyin ki, bahalı məhsullar daha yaxşıdır.
+> The plan was based on the assumption that prices would continue to rise. = Plan qiymətlərin artmaqda davam edəcəyi fərziyyəsinə əsaslanırdı.
+> It is widely assumed that the minister will resign. = Çoxları nazirin istefa verəcəyini güman edir.
+! ASSUME means to accept that something is true without proof. PRESUME is close, but suggests you have some reason; SUPPOSE is more informal. "Assuming (that) ..." works like "if": "Assuming the weather is good, we'll leave at six." In formal English ASSUME also means to take a position or duty: assume responsibility, assume office, assume control.
+
+@ EVIDENCE | noun | ˈevɪdəns | sübut, dəlil; əlamət
+adj: evident = aydın, aşkar; self-evident = öz-özlüyündə aydın, sübuta ehtiyacı olmayan
+adv: evidently = görünür, aydın görünür ki
+- scientific evidence = elmi sübut :: scientific = connected with science
+- gather evidence = sübut toplamaq :: gather = collect from different places
+- conclusive evidence = qəti (təkzibolunmaz) sübut :: conclusive = proving something beyond doubt
+- evidence to the contrary = əksini göstərən sübut :: contrary = the opposite
+- sufficient evidence = kifayət qədər (yetərli) sübut :: sufficient = enough (formal)
+- it is evident that = aydındır ki :: Formal pattern with the adjective
+- examine the evidence = sübutları araşdırmaq :: examine = look at carefully
+- weigh the evidence = sübutları ölçüb-biçmək :: weigh = consider carefully before deciding
+> There is no scientific evidence that the diet works. = Bu pəhrizin təsirli olduğuna dair heç bir elmi sübut yoxdur.
+> The police did not have sufficient evidence to arrest him. = Polisin onu həbs etmək üçün kifayət qədər sübutu yox idi.
+> It is evident that the system needs to be changed. = Aydındır ki, sistem dəyişdirilməlidir.
+> The jury must weigh the evidence before reaching a decision. = Andlılar qərar verməzdən əvvəl sübutları ölçüb-biçməlidirlər.
+! EVIDENCE is uncountable: "a lot of evidence", "a piece of evidence" – never "an evidence" or "evidences". Prepositions: evidence OF / FOR something, evidence THAT + clause, evidence AGAINST somebody. PROOF is stronger: evidence makes you believe something, proof shows it is definitely true. In essays, "There is growing evidence that ..." and "The evidence suggests that ..." are safe, cautious ways to introduce a claim.
+
+@ CONSEQUENCE | noun | ˈkɒnsɪkwəns | nəticə (adətən mənfi), fəsad
+adv: consequently = nəticədə, buna görə də
+- as a consequence = nəticədə, bunun nəticəsi olaraq :: Linker; as a consequence OF + noun
+- severe consequences = ağır nəticələr :: severe = extremely bad or serious
+- suffer the consequences = nəticələrinə qatlaşmaq, cəzasını çəkmək :: suffer = experience something unpleasant
+- unintended consequences = gözlənilməyən (nəzərdə tutulmayan) nəticələr :: unintended = not planned
+- a direct consequence = birbaşa nəticə :: direct = with nothing in between
+- an inevitable consequence = qaçılmaz nəticə :: inevitable = certain to happen
+- far-reaching consequences = genişmiqyaslı (uzağa gedən) nəticələr :: far-reaching = having a wide influence
+- regardless of the consequences = nəticələrindən asılı olmayaraq :: regardless of = paying no attention to
+> Many people lost their jobs as a consequence of the crisis. = Böhran nəticəsində bir çox insan işini itirdi.
+> If you break the rules, you will have to suffer the consequences. = Qaydaları pozsan, nəticələrinə qatlaşmalı olacaqsan.
+> The decision could have far-reaching consequences for the whole region. = Bu qərarın bütün region üçün genişmiqyaslı nəticələri ola bilər.
+> Demand fell and, consequently, prices dropped. = Tələbat azaldı və nəticədə qiymətlər düşdü.
+! CONSEQUENCE is usually plural and usually negative; a neutral word is RESULT and a positive one is BENEFIT. Prepositions: the consequences OF an action FOR a person or thing. CONSEQUENTLY is a formal linker meaning "as a result" and is followed by a comma at the start of a sentence. "Of little consequence" (formal) means "not important". Typical verbs: have, face, suffer, accept, consider the consequences.
+
+@ IMPACT | noun, verb | ˈɪmpækt (noun), ɪmˈpækt (verb) | təsir; zərbə, toqquşma; təsir etmək
+- have an impact on = nəyəsə təsir göstərmək :: The basic pattern: have an impact ON something
+- a considerable impact = xeyli (əhəmiyyətli) təsir :: considerable = large enough to be important
+- a dramatic impact = kəskin (çox güclü) təsir :: dramatic = sudden and very noticeable
+- a negative impact = mənfi təsir :: negative = bad or harmful; opposite: positive
+- minimise the impact = təsiri minimuma endirmək :: minimise = reduce to the lowest possible level
+- the impact of tourism = turizmin təsiri :: tourism = the business of providing services for visitors
+- an immediate impact = dərhal hiss olunan təsir :: immediate = happening without delay
+- an enormous impact = çox böyük (nəhəng) təsir :: enormous = extremely large
+> Social media has had an enormous impact on the way we communicate. = Sosial media ünsiyyət tərzimizə çox böyük təsir göstərib.
+> The new tax will have a negative impact on small businesses. = Yeni vergi kiçik müəssisələrə mənfi təsir göstərəcək.
+> The government is trying to minimise the impact of rising prices. = Hökumət artan qiymətlərin təsirini minimuma endirməyə çalışır.
+> The essay examines the impact of tourism on the local environment. = Essedə turizmin yerli ətraf mühitə təsiri araşdırılır.
+! The noun is stressed on the first syllable (IMpact), the verb on the second (imPACT). The noun pattern is "have / make an impact ON something" – not "to" or "in". IMPACT is stronger than EFFECT or INFLUENCE and suggests a powerful, noticeable result. As a verb ("impact on prices") it is common in business and journalism, but many writers prefer "affect" in formal essays. "On impact" means at the moment when one object hits another.
+
+@ ISSUE | noun, verb | ˈɪʃuː, ˈɪsjuː | məsələ, problem; (jurnal) buraxılış, nömrə; rəsmən vermək, dərc etmək
+forms: issue – issues – issued – issued – issuing
+- raise an issue = məsələ qaldırmaq :: raise = mention a subject for discussion
+- a sensitive issue = həssas məsələ :: sensitive = needing careful treatment because it may upset people
+- a pressing issue = təxirəsalınmaz məsələ :: pressing = needing attention immediately
+- a complex issue = mürəkkəb məsələ :: complex = having many parts and difficult to understand
+- an ethical issue = etik məsələ :: ethical = connected with principles of right and wrong
+- resolve an issue = məsələni həll etmək :: resolve = find a solution to (formal)
+- issue a statement = bəyanat yaymaq :: statement = a formal announcement; here "issue" is a verb
+- issue a warning = xəbərdarlıq etmək :: warning = a statement that something bad may happen
+> Several parents raised the issue of safety at the meeting. = İclasda bir neçə valideyn təhlükəsizlik məsələsini qaldırdı.
+> Unemployment is the most pressing issue facing the country. = İşsizlik ölkənin üzləşdiyi ən təxirəsalınmaz məsələdir.
+> The company issued a statement denying the report. = Şirkət bu xəbəri təkzib edən bəyanat yaydı.
+> Immigration is a complex and sensitive issue. = İmmiqrasiya mürəkkəb və həssas məsələdir.
+! An ISSUE is an important subject that people discuss or argue about; it is more neutral than PROBLEM, which is why it is the preferred word in essays ("environmental issues"). The verb means to give out officially: issue a passport, a statement, a warning. Another meaning is one number of a magazine ("the March issue"). "Take issue with somebody" (formal) means to disagree; "the point at issue" is the subject being discussed.
+
+@ TREND | noun | trend | meyil, tendensiya; dəb
+adj: trendy = dəbdə olan, müasir (danışıq dilində)
+- a current trend = hazırkı (cari) meyil :: current = happening now
+- an upward trend = artım meyli :: upward = moving towards a higher level
+- a downward trend = azalma meyli :: downward = moving towards a lower level
+- a recent trend = son dövrün meyli :: recent = that happened a short time ago
+- reverse a trend = meyli əks istiqamətə döndərmək :: reverse = change something to its opposite
+- a general trend = ümumi meyil :: general = affecting most people or things
+- a disturbing trend = narahatedici meyil :: disturbing = making you feel worried
+- population trends = əhalinin dəyişmə meylləri, demoqrafik meyllər :: population = all the people living in a country or area
+> The graph shows an upward trend in the number of students studying abroad. = Qrafik xaricdə təhsil alan tələbələrin sayında artım meylini göstərir.
+> If current trends continue, the city will need thousands of new homes. = Hazırkı meyllər davam edərsə, şəhərə minlərlə yeni ev lazım olacaq.
+> The government hopes to reverse the downward trend in birth rates. = Hökumət doğum səviyyəsindəki azalma meylini dəyişməyə ümid edir.
+> There is a general trend towards working from home. = Evdən işləməyə doğru ümumi bir meyil var.
+! A TREND is a general direction in which a situation is changing. It is essential vocabulary for describing graphs in IELTS Writing Task 1: an upward / downward trend IN something; a trend TOWARDS something. In everyday English a trend is also a fashion ("the latest trends"), and TRENDY is an informal adjective for fashionable places and people. "Set a trend" means to start something that others copy.
+
+@ APPROACH | noun, verb | əˈprəʊtʃ | yanaşma, üsul; yaxınlaşmaq
+forms: approach – approaches – approached – approached – approaching
+- adopt an approach = yanaşma qəbul etmək (tətbiq etmək) :: adopt = start to use a method
+- a flexible approach = çevik yanaşma :: flexible = able to change to suit new conditions
+- a systematic approach = sistemli yanaşma :: systematic = done according to a careful plan
+- a cautious approach = ehtiyatlı yanaşma :: cautious = careful to avoid risks
+- a step-by-step approach = mərhələli (addım-addım) yanaşma :: step-by-step = dealing with one thing at a time
+- a radical approach = radikal (köklü) yanaşma :: radical = new and very different from what is usual
+- a traditional approach = ənənəvi yanaşma :: traditional = following older methods
+- rapidly approaching = sürətlə yaxınlaşan :: rapidly = very quickly; here "approach" is a verb
+> The school has adopted a new approach to teaching languages. = Məktəb dillərin tədrisinə yeni yanaşma tətbiq edib.
+> We need a more flexible approach to working hours. = İş saatlarına daha çevik yanaşmaya ehtiyacımız var.
+> The deadline is rapidly approaching. = Son müddət sürətlə yaxınlaşır.
+> As we approached the village, it started to rain. = Biz kəndə yaxınlaşanda yağış yağmağa başladı.
+! As a noun, APPROACH means a way of dealing with something and takes TO: "an approach TO the problem" (not "of" or "for"). As a verb it takes a direct object with no preposition: "We approached the town" – never "approached to the town". You can also approach a person (speak to them about a request) or approach a task (begin to deal with it). Typical verbs: adopt, take, try, develop an approach.
+
+@ RESEARCH | noun, verb | rɪˈsɜːtʃ, ˈriːsɜːtʃ | tədqiqat, araşdırma; tədqiq etmək
+forms: research – researches – researched – researched – researching
+n: researcher = tədqiqatçı
+- conduct research = tədqiqat aparmaq :: conduct = organise and carry out (formal)
+- research indicates = tədqiqat göstərir ki :: indicate = show that something is true
+- market research = bazar araşdırması :: market = the people who might buy a product
+- fund research = tədqiqatı maliyyələşdirmək :: fund = provide money for
+- a research grant = tədqiqat qrantı :: grant = money given by an organisation for a purpose
+- publish research = tədqiqatı nəşr etmək :: publish = print and make available to the public
+- a field of research = tədqiqat sahəsi :: field = an area of study or activity
+- a leading researcher = aparıcı tədqiqatçı :: leading = most important or most successful
+> She is conducting research into the causes of the disease. = O, xəstəliyin səbəblərini tədqiq edir.
+> Recent research indicates that sleep improves memory. = Son tədqiqatlar yuxunun yaddaşı yaxşılaşdırdığını göstərir.
+> The university received a research grant of two million pounds. = Universitet iki milyon funt məbləğində tədqiqat qrantı aldı.
+> He is one of the leading researchers in his field. = O, öz sahəsinin aparıcı tədqiqatçılarından biridir.
+! RESEARCH is uncountable: "some research", "a piece of research" – not "a research" or "many researches". The usual verbs are DO, CARRY OUT and CONDUCT (never "make research"). Prepositions: research INTO / ON a subject. Both stress patterns are heard in British English: reSEARCH and REsearch. In essays, "Research shows / indicates / suggests that ..." is a standard way to support a claim.
+
+@ SIGNIFICANT | adjective | sɪɡˈnɪfɪkənt | əhəmiyyətli, mühüm; xeyli, nəzərəçarpan
+n: significance = əhəmiyyət, məna
+adj: insignificant = əhəmiyyətsiz, cüzi
+adv: significantly = xeyli dərəcədə, əhəmiyyətli şəkildə
+- a significant proportion = əhəmiyyətli hissə (pay) :: proportion = a part of a whole
+- a significant shift = əhəmiyyətli dəyişiklik (dönüş) :: shift = a change in position or direction
+- a significant minority = xeyli sayda azlıq :: minority = the smaller part of a group
+- significantly affect = xeyli dərəcədə təsir etmək :: affect = produce a change in
+- a significant decline = nəzərəçarpan azalma (tənəzzül) :: decline = a gradual decrease
+- a significant factor = mühüm amil :: factor = one of the things that cause a result
+- attach significance to = nəyəsə əhəmiyyət vermək :: attach = connect; formal collocation
+- relatively insignificant = nisbətən əhəmiyyətsiz :: relatively = compared with other things
+> A significant proportion of the population lives in cities. = Əhalinin əhəmiyyətli hissəsi şəhərlərdə yaşayır.
+> There was a significant decline in sales last year. = Keçən il satışlarda nəzərəçarpan azalma oldu.
+> The weather can significantly affect our mood. = Hava əhval-ruhiyyəmizə xeyli dərəcədə təsir edə bilər.
+> Cost was a significant factor in our decision. = Qiymət qərarımızda mühüm amil idi.
+! SIGNIFICANT means large or important enough to be noticed, and it is the standard academic alternative to "big" or "important": a significant increase, a significant difference. SIGNIFICANTLY is frequent in descriptions of data: "significantly higher", "rose significantly". In statistics, "statistically significant" means unlikely to be the result of chance. Remember that AFFECT is the verb and EFFECT is the noun.
+
+@ CRUCIAL | adjective | ˈkruːʃəl | həlledici, son dərəcə vacib
+adv: crucially = həlledici dərəcədə, ən əsası
+- a crucial stage = həlledici mərhələ :: stage = a period in a process
+- a crucial element = ən vacib ünsür (element) :: element = a necessary part of something
+- a crucial distinction = prinsipial fərq :: distinction = a clear difference between similar things
+- a crucial period = həlledici dövr :: period = a length of time
+- a crucial aspect = ən mühüm cəhət :: aspect = one part or side of a situation
+- a crucial component = əsas tərkib hissəsi :: component = one of the parts of a system
+- it is crucial that = son dərəcə vacibdir ki :: Formal pattern, often followed by "should"
+- prove crucial = həlledici olmaq (olduğu üzə çıxmaq) :: prove = turn out to be
+> The talks have reached a crucial stage. = Danışıqlar həlledici mərhələyə çatıb.
+> Trust is a crucial element of any relationship. = Etimad istənilən münasibətin ən vacib ünsürüdür.
+> It is crucial that we act now. = İndi hərəkətə keçməyimiz son dərəcə vacibdir.
+> Her experience proved crucial to the success of the project. = Onun təcrübəsi layihənin uğuru üçün həlledici oldu.
+! CRUCIAL is an "extreme" adjective meaning extremely important because other things depend on it. Because it is already strong, do not say "very crucial"; use "absolutely crucial". Patterns: crucial TO / FOR something; it is crucial THAT ...; play a crucial role IN. Near synonyms: VITAL, ESSENTIAL, CRITICAL. In IELTS essays it is a good replacement for "very important".

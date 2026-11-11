@@ -1,0 +1,102 @@
+// A1 expansion (Oxford 3000 list): every lesson teaches six or seven A1 words of the list.
+## Places, animals and people | Yerlər, heyvanlar və insanlar
+@ BUILD | verb | bɪld | tikmək, inşa etmək; qurmaq
+forms: build – builds – built – built – building
+- build a machine = maşın (mexanizm) düzəltmək :: machine /məˈʃiːn/ = maşın, dəzgah, mexanizm (avtomobil yox)
+- build a library = kitabxana tikmək :: library /ˈlaɪbrəri/ = kitabxana
+- build a mall = ticarət mərkəzi tikmək :: mall /mɔːl/ = böyük ticarət mərkəzi (əsasən Amerika ingiliscəsində)
+- build apartments = mənzillər tikmək :: apartment = mənzil (Amerika ingiliscəsində; Britaniyada: flat)
+- build a pool = hovuz tikmək :: pool = hovuz; a swimming pool = üzgüçülük hovuzu
+- build on sth = nəyinsə üzərində qurmaq; nəyəsə əsaslanmaq :: build on your success
+- build up = tədricən artırmaq, möhkəmləndirmək :: Frazeoloji fel: build up your English
+> They are building a new library near our school. = Onlar məktəbimizin yanında yeni kitabxana tikirlər.
+> The city wants to build more apartments. = Şəhər daha çox mənzil tikmək istəyir.
+> This house was built in 1950. = Bu ev 1950-ci ildə tikilib.
+! BUILD düzgün olmayan feldir: build – built – built. "u" hərfi oxunmur: /bɪld/. Ev, körpü, yol kimi böyük şeylər üçün işlənir; kiçik şeylər üçün MAKE deyilir. Məchul formada çox rast gəlinir: The bridge was built in 2010. İsmi BUILDING (bina) ayrıca sözdür. Diqqət: MACHINE avtomobil deyil, hər hansı mexanizm və ya dəzgahdır (a washing machine = paltaryuyan maşın); avtomobil CAR-dır.
+
+@ RIDE | verb, noun | raɪd | (at, velosiped) sürmək, minmək; gəzinti
+forms: ride – rides – rode – ridden – riding
+- ride a bicycle = velosiped sürmək :: bicycle /ˈbaɪsɪkəl/ = velosiped (qısa: bike)
+- ride a horse = at sürmək, ata minmək :: horse = at
+- ride an elephant = filə minmək :: elephant /ˈelɪfənt/ = fil
+- ride to the beach = çimərliyə (velosipedlə, atla) getmək :: beach /biːtʃ/ = çimərlik, dəniz sahili
+- ride in a truck = yük maşınında getmək :: truck = yük maşını (Amerika ingiliscəsində; Britaniyada: lorry)
+- ride away = (minib) uzaqlaşmaq :: away = uzağa
+- ride with me = mənimlə get (eyni nəqliyyatda) :: Dəvət edərkən
+> Can you ride a bicycle? = Sən velosiped sürə bilirsən?
+> We rode to the beach in the morning. = Biz səhər çimərliyə velosipedlə getdik.
+> The children want to ride an elephant at the zoo. = Uşaqlar zooparkda filə minmək istəyirlər.
+! RIDE düzgün olmayan feldir: ride – rode – ridden. Üstünə oturulan nəqliyyat və heyvanlar üçün işlənir: ride a bicycle / a horse / a motorbike. Avtomobil, avtobus kimi nəqliyyatı idarə etmək isə DRIVE-dır: drive a car. Sərnişin kimi getmək "ride in a car / on a bus" şəklində deyilir. İsim kimi: go for a ride = gəzintiyə çıxmaq (at və ya velosipedlə); give sb a ride = kimisə maşınla aparmaq (Amerika ingiliscəsində).
+
+@ FLY | verb | flaɪ | uçmaq; təyyarə ilə getmək
+forms: fly – flies – flew – flown – flying
+n: flying = uçuş, təyyarə ilə səyahət
+~ in the north = şimalda :: north = şimal; the north of the country = ölkənin şimalı
+- fly south = cənuba uçmaq :: south /saʊθ/ = cənub; istiqamət zərfi kimi sözönüsüz işlənir
+- fly east = şərqə uçmaq :: east = şərq
+- fly west = qərbə uçmaq :: west = qərb
+- fly to an island = adaya uçmaq :: island /ˈaɪlənd/ = ada ("s" hərfi oxunmur)
+- fly into space = kosmosa uçmaq :: space = kosmos; həmçinin: boş yer
+- fly away = uçub getmək :: Quşlar haqqında: The bird flew away
+- fly over sth = nəyinsə üzərindən uçmaq :: fly over the mountains
+> Many birds fly south in autumn. = Bir çox quş payızda cənuba uçur.
+> We flew to a small island in the west of the country. = Biz ölkənin qərbindəki kiçik bir adaya uçduq.
+> Quba is in the north of Azerbaijan. = Quba Azərbaycanın şimalındadır.
+> One day people will fly into space for a holiday. = Bir gün insanlar tətil üçün kosmosa uçacaqlar.
+! FLY düzgün olmayan feldir: fly – flew /fluː/ – flown. Həm quşlar və təyyarələr (uçmaq), həm də sərnişinlər üçün (təyyarə ilə getmək) işlənir: I flew to London. Dörd cəhət: NORTH (şimal), SOUTH (cənub), EAST (şərq), WEST (qərb). Onlar isim (in the north), sifət (the north coast) və zərf (fly north) ola bilər. "In the north of" ölkənin daxilində, "to the north of" isə ondan kənarda, şimal tərəfdə deməkdir.
+
+@ FARM | noun | fɑːm | ferma, təsərrüfat
+forms: farm – farms
+n: farmer = fermer; farming = əkinçilik, fermer təsərrüfatı işi
+- a sheep farm = qoyunçuluq ferması :: sheep = qoyun; cəmi də "sheep"dir: one sheep, ten sheep
+- a pig farmer = donuzçuluqla məşğul olan fermer :: pig = donuz
+- cows on a farm = fermadakı inəklər :: cow /kaʊ/ = inək
+- a farm by the river = çay kənarındakı ferma :: river = çay (axar su); by = yanında, kənarında
+- a farm near here = buraya yaxın bir ferma :: near here = bu yaxınlıqda
+- be a farmer = fermer olmaq :: Peşə adından əvvəl artikl: He is a farmer
+- from the farm = fermadan :: fresh milk from the farm = fermadan təzə süd
+> My uncle has a sheep farm in Shamakhi. = Əmimin Şamaxıda qoyunçuluq ferması var.
+> There are forty cows on the farm. = Fermada qırx inək var.
+> We buy fresh eggs from a farm by the river. = Biz təzə yumurtanı çay kənarındakı fermadan alırıq.
+! FARM heyvan saxlanan və ya məhsul yetişdirilən təsərrüfatdır. Sözönü ON-dur: live ON a farm, work ON a farm ("in a farm" səhvdir). Orada işləyən şəxs FARMER-dir. Ferma heyvanları: COW (inək), SHEEP (qoyun), PIG (donuz), horse (at). SHEEP sözünün cəmi dəyişmir: two sheep ("sheeps" yoxdur). RIVER axar sudur (the Kura river); Azərbaycan dilindəki içməli "çay" isə TEA-dır.
+
+@ AFRAID | adjective | əˈfreɪd | qorxan; təəssüf ki
+- afraid of sb/sth = kimdənsə / nədənsə qorxan :: Sözönü "of"dur: afraid of the dark
+- afraid of snakes = ilanlardan qorxan :: snake = ilan
+- afraid to die = ölməkdən qorxan :: die = ölmək; -ing forması: dying
+- afraid of anything dangerous = təhlükəli hər şeydən qorxan :: dangerous /ˈdeɪndʒərəs/ = təhlükəli
+~ bored or excited = darıxmış, yoxsa həyəcanlı :: bored = darıxmış, canı sıxılmış; excited = həyəcanlı, sevincək
+- I'm afraid so = təəssüf ki, elədir :: Pis xəbəri nəzakətlə təsdiqləmək üçün
+- I'm afraid not = təəssüf ki, yox :: Nəzakətli inkar
+> Are you afraid of snakes? = Sən ilanlardan qorxursan?
+> I'm afraid I can't come tomorrow. = Təəssüf ki, sabah gələ bilməyəcəyəm.
+> The children were excited, not bored. = Uşaqlar darıxmırdılar, əksinə, həyəcanlı idilər.
+! AFRAID sifətdir və həmişə BE feli ilə işlənir: I am afraid ("I afraid" səhvdir); ismin qarşısında işlənmir ("an afraid child" deyilmir – "a frightened child"). Nədən qorxduğunu OF bildirir: afraid of dogs. "I'm afraid ..." həm də "təəssüf ki" mənasında nəzakətli ifadədir. Hiss bildirən sifətlərdə -ED insanın hissini (bored = darıxmış, excited = həyəcanlı), -ING isə səbəbi bildirir (boring = darıxdırıcı, exciting = həyəcanlandıran).
+
+@ MONTH | noun | mʌnθ | ay (təqvim ayı)
+forms: month – months
+- the past month = ötən ay; son bir ay :: past = keçmiş, ötən; half past two = üçün yarısı
+~ the first quarter = birinci rüb :: quarter /ˈkwɔːtə/ = dörddə bir, rüb; a quarter past two = üçə on beş dəqiqə işləmiş
+- a month's vacation = bir aylıq məzuniyyət :: vacation = məzuniyyət, tətil (Amerika ingiliscəsində; Britaniyada: holiday)
+- a slow month = sakit (işlərin zəif getdiyi) ay :: slow = yavaş, ləng; əksi: fast, quick
+- a cool month = sərin ay :: cool = sərin; danışıq dilində: əla, qəşəng
+- once a month = ayda bir dəfə :: once / twice a month = ayda bir / iki dəfə
+- a month ago = bir ay əvvəl :: "ago" keçmiş zamanla işlənir
+> There are twelve months in a year. = Bir ildə on iki ay var.
+> I visit my grandparents once a month. = Mən ayda bir dəfə baba və nənəmə baş çəkirəm.
+> October is a cool month in Baku. = Oktyabr Bakıda sərin aydır.
+! MONTH təqvim ayıdır; göydəki ay isə MOON-dur – Azərbaycan dilində hər ikisi "ay"dır, ingilis dilində isə fərqli sözlərdir. Sonluğu /nθ/ kimi tələffüz olunur: month /mʌnθ/, months /mʌnθs/. Ay adları böyük hərflə yazılır və "in" ilə işlənir: in May. "This / last / next month" ifadələrində sözönü işlənmir. QUARTER dörddə bir deməkdir: ilin rübü (üç ay), saatın on beş dəqiqəsi.
+
+@ BOY | noun | bɔɪ | oğlan (uşaq)
+forms: boy – boys
+- a smart boy = ağıllı oğlan :: smart = ağıllı, zirək; Britaniyada həm də: səliqəli geyinmiş
+- a blond boy = sarışın oğlan :: blond = sarışın (saç haqqında); qadınlar üçün "blonde" də yazılır
+- a dear little boy = əziz (sevimli) balaca oğlan :: dear = əziz; məktubun əvvəlində: Dear Ali, ...
+- boys in the yard = həyətdəki oğlanlar :: yard = həyət; həmçinin uzunluq vahidi (91 sm)
+- a boy is born = oğlan uşağı doğulur :: be born = doğulmaq: I was born in 2005
+- one of the boys = oğlanlardan biri :: one of + the + cəm isim
+- the boy over there = oradakı oğlan :: over there = orada, o tərəfdə
+> The boys are playing football in the yard. = Oğlanlar həyətdə futbol oynayırlar.
+> He is a smart boy and learns fast. = O, ağıllı oğlandır və tez öyrənir.
+> I was born in Baku in 2008. = Mən 2008-ci ildə Bakıda doğulmuşam.
+! BOY oğlan uşağı və ya gəncdir; qız uşağı GIRL-dür. Diqqət: Azərbaycan dilindəki "oğul" mənasında SON işlənir (my son = oğlum), BOY isə ümumiyyətlə oğlan uşağıdır. BE BORN həmişə keçmiş zamanda işlənir: "I was born in ..." ("I born" və ya "I am born" səhvdir). DEAR məktub və e-poçtda müraciət sözüdür: Dear Mr Aliyev. SMART Amerikada "ağıllı", Britaniyada daha çox "səliqəli, qəşəng geyinmiş" deməkdir.

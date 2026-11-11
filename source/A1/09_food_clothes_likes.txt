@@ -1,0 +1,85 @@
+// A1 expansion (Oxford 3000 list): every lesson teaches six or seven A1 words of the list.
+## Food, clothes and likes | Yemək, geyim və zövqlər
+@ ADD | verb | æd | əlavə etmək; (rəqəmləri) toplamaq
+forms: add – adds – added – added – adding
+- add butter = kərə yağı əlavə etmək :: butter /ˈbʌtə/ = kərə yağı; sayılmayan isim
+- add ice cream = dondurma əlavə etmək :: ice = buz; cream = qaymaq, krem; ice cream = dondurma
+- add an onion = bir soğan əlavə etmək :: onion /ˈʌnjən/ = soğan
+- add pepper = istiot əlavə etmək :: pepper = istiot; bibər
+- add a carrot = bir yerkökü əlavə etmək :: carrot /ˈkærət/ = yerkökü
+- add up = toplamaq, cəmləmək :: Frazeoloji fel: add up the numbers
+- add to sth = nəyəsə əlavə etmək; nəyisə artırmaq :: add milk to the tea
+> Add some butter and a little pepper. = Bir az kərə yağı və azca istiot əlavə edin.
+> Cut an onion and a carrot and add them to the soup. = Bir soğan və bir yerkökü doğra və şorbaya əlavə et.
+> The children want ice cream after dinner. = Uşaqlar şam yeməyindən sonra dondurma istəyirlər.
+! ADD düzgün feldir: add – added. İki əsas mənası var: 1) nəyisə başqa bir şeyin üstünə əlavə etmək (add salt to the soup – "to" sözönüsü ilə); 2) rəqəmləri toplamaq (Add two and three = İki ilə üçü topla). Reseptlərdə ən çox işlənən fellərdən biridir. Diqqət: ICE CREAM iki sözlə yazılır və sayılmayan isimdir: some ice cream, an ice cream = bir dənə dondurma. PEPPER həm üyüdülmüş istiot, həm də bibər deməkdir.
+
+@ ORDER | verb, noun | ˈɔːdə | sifariş etmək; sifariş; qayda, sıra
+forms: order – orders – ordered – ordered – ordering
+- order a pizza = pizza sifariş etmək :: pizza /ˈpiːtsə/ = pizza
+- order from the waiter = ofisiantdan sifariş etmək :: waiter = ofisiant (kişi); qadın: waitress
+- order something delicious = dadlı bir şey sifariş etmək :: delicious /dɪˈlɪʃəs/ = çox dadlı, ləzzətli
+- order from a store = mağazadan sifariş etmək :: store = mağaza (Amerika ingiliscəsində; Britaniyada: shop)
+- complete an order = sifarişi tamamlamaq :: complete /kəmˈpliːt/ = tamamlamaq; tam, bütöv
+- in order = qaydasında; sıra ilə :: in the right order = düzgün ardıcıllıqla
+- out of order = xarab, işləmir (cihaz haqqında) :: Lövhələrdə: OUT OF ORDER
+> Are you ready to order? = Sifariş verməyə hazırsınız?
+> We ordered a pizza and it was delicious. = Biz pizza sifariş etdik və o, çox dadlı idi.
+> The lift is out of order again. = Lift yenə işləmir.
+! ORDER həm fel, həm də isimdir. Restoranda və internetdə "sifariş etmək" deməkdir: order a pizza, order online. İsim kimi üç mənası var: sifariş (an order), sıra (in order = sıra ilə) və qayda. "Out of order" cihazın işləmədiyini bildirir. "In order to + fel" isə "... etmək üçün" deməkdir: I get up early in order to study. DELICIOUS artıq "çox dadlı" deməkdir, ona görə "very delicious" deyilmir.
+
+@ DRESS | noun, verb | dres | don (qadın paltarı); geyinmək, geyindirmək
+forms: dress – dresses – dressed – dressed – dressing
+- a dress shop = don mağazası :: shop = mağaza, dükan; fel kimi: alış-veriş etmək
+~ a T-shirt and pants = futbolka və şalvar :: T-shirt = futbolka; pants = şalvar (Amerika ingiliscəsində; Britaniyada: trousers)
+~ a sweater and boots = sviter və çəkmələr :: sweater /ˈswetə/ = sviter; boot = çəkmə, uzunboğaz ayaqqabı
+- dress up = bəzənmək, gözəl geyinmək :: Frazeoloji fel; bayram və ya şənlik üçün
+- dress yourself = özün geyinmək :: Uşaqlar haqqında: He can dress himself
+- dress in sth = nəsə geyinmək (rəng, üslub) :: dress in black = qara geyinmək
+- this dress or that one = bu don, yoxsa o biri :: "one" ismin təkrarının qarşısını alır
+> She bought a new dress for the party. = O, şənlik üçün yeni don aldı.
+> He usually wears a T-shirt and pants. = O, adətən futbolka və şalvar geyinir.
+> In winter I wear a sweater and boots. = Qışda mən sviter və çəkmə geyinirəm.
+! DRESS isim kimi yalnız qadın donudur; ümumiyyətlə "paltar" mənasında "clothes" işlənir. Fel kimi "geyinmək" deməkdir, lakin gündəlik danışıqda "get dressed" daha çox işlənir. "Wear" əynində olmaq (She is wearing a dress), "put on" isə geyinmə hərəkətidir. Diqqət: PANTS Amerika ingiliscəsində "şalvar", Britaniya ingiliscəsində isə "alt paltarı" deməkdir; Britaniyada şalvara "trousers" deyirlər. PANTS və BOOTS adətən cəmdə işlənir.
+
+@ PREFER | verb | prɪˈfɜː | üstünlük vermək, daha çox bəyənmək
+forms: prefer – prefers – preferred – preferred – preferring
+- prefer a cafe = kafeyə üstünlük vermək :: cafe /ˈkæfeɪ/ = kafe
+- prefer the gym = idman zalına üstünlük vermək :: gym /dʒɪm/ = idman zalı
+- prefer spring = yazı (bahar fəslini) daha çox sevmək :: spring = yaz, bahar; in spring = yazda
+- prefer the telephone = telefona üstünlük vermək :: telephone = telefon (rəsmi; gündəlik: phone)
+- prefer television = televiziyaya üstünlük vermək :: television = televiziya; televizor (qısa: TV)
+- prefer sth to sth = bir şeyi başqasından üstün tutmaq :: Sözönü "to"dur ("than" yox): prefer tea to coffee
+- prefer to do sth = nəyisə etməyə üstünlük vermək :: prefer + to + fel və ya prefer + -ing
+> I prefer tea to coffee. = Mən çayı qəhvədən üstün tuturam.
+> Do you prefer spring or autumn? = Yazı daha çox sevirsən, yoxsa payızı?
+> He prefers to watch television at home. = O, evdə televizora baxmağa üstünlük verir.
+! PREFER düzgün feldir, lakin son samit qoşalaşır: preferred, preferring. Vurğu ikinci hecadadır. İki şeyi müqayisə edəndə "to" işlənir: I prefer tea TO coffee ("than coffee" səhvdir). Ondan sonra isim (prefer the gym), "to + fel" (prefer to walk) və ya "-ing" (prefer walking) gələ bilər. "I would prefer ..." konkret bir vəziyyətdə nəzakətli seçim bildirir: I would prefer a cafe = Kafe olsa, daha yaxşı olar.
+
+@ HATE | verb | heɪt | nifrət etmək; heç xoşlamamaq
+forms: hate – hates – hated – hated – hating
+- hate baseball = beysbolu heç xoşlamamaq :: baseball = beysbol
+- hate basketball = basketbolu heç xoşlamamaq :: basketball = basketbol
+- hate swimming = üzməyi heç sevməmək :: swimming = üzgüçülük, üzmə
+- hate dirty toilets = çirkli tualetlərə nifrət etmək :: dirty = çirkli (əksi: clean); toilet = tualet
+- hate doing sth = nəyisə etməyi heç xoşlamamaq :: hate + fel + -ing: I hate getting up early
+- hate to do sth = nəyisə etmək istəməmək :: I hate to say it, but ... = Bunu demək istəməzdim, amma ...
+- hate each other = bir-birinə nifrət etmək :: each other = bir-biri
+> I hate getting up early on Sundays. = Bazar günləri tez durmağı heç xoşlamıram.
+> My brother loves basketball, but he hates swimming. = Qardaşım basketbolu sevir, amma üzməyi heç xoşlamır.
+> Everybody hates dirty toilets. = Çirkli tualetləri heç kim sevmir.
+! HATE düzgün feldir: hate – hated. LIKE və LOVE fellərinin əksidir və güclü hiss bildirir; daha yumşaq variant "don't like"dır. Ondan sonra isim (hate baseball) və ya "-ing" forması gəlir (hate waiting). LIKE, LOVE, HATE kimi hiss felləri davamedici zamanda adətən işlənmir: "I hate it" deyilir, "I am hating it" yox. Gündəlik danışıqda HATE çox vaxt sadəcə "heç xoşlamıram" deməkdir.
+
+@ COMPARE | verb | kəmˈpeə | müqayisə etmək, tutuşdurmaq
+forms: compare – compares – compared – compared – comparing
+- compare sth with sth = bir şeyi başqası ilə müqayisə etmək :: Fərqləri və oxşarlıqları tapmaq üçün
+- compare sth to sth = bir şeyi başqasına bənzətmək; müqayisə etmək :: compare life to a journey
+- compare euros and pounds = avro ilə funtu müqayisə etmək :: euro = avro; pound = funt sterlinq (pul); həmçinin çəki vahidi (454 q)
+- compare miles and metres = mil ilə metri müqayisə etmək :: mile = mil (1,6 km); metre = metr (Amerika yazılışı: meter)
+~ similar to sth = nəyəsə oxşar, bənzər :: similar /ˈsɪmələ/ = oxşar; sözönü "to"dur
+- compare the two = ikisini müqayisə etmək :: the two = hər ikisi
+- compare them = onları müqayisə etmək :: Tapşırıqlarda çox işlənir: Compare them and choose one
+> Compare your answers with your friend's. = Cavablarını dostununkularla müqayisə et.
+> One mile is about 1,600 metres. = Bir mil təxminən 1600 metrdir.
+> Your bag is similar to mine. = Sənin çantan mənimkinə oxşardır.
+! COMPARE düzgün feldir. "Compare A with B" iki şeyi yanaşı qoyub fərqlərini araşdırmaqdır; "compare A to B" həm də bənzətmək deməkdir. SIMILAR sifəti "to" ilə işlənir (similar TO mine), "the same" isə "as" ilə: the same AS mine. Britaniyada pul vahidi POUND (£), Avropanın bir çox ölkəsində EURO (€)-dur. Məsafə Britaniya və ABŞ-da MILE ilə, başqa ölkələrdə kilometr və METRE ilə ölçülür.

@@ -1,0 +1,173 @@
+## Academic verbs for processes and ideas | Proseslər və ideyalar üçün akademik leksika
+@ ACCUMULATE | verb | əˈkjuːmjəleɪt | toplamaq, yığmaq; yığılmaq, toplanmaq
+forms: accumulate – accumulates – accumulated – accumulated – accumulating
+n: accumulation = yığılma, toplanma
+adj: cumulative = məcmu, yığılıb artan
+- accumulate dust = toz yığmaq (toz basmaq) :: dust = dry dirt in the form of powder
+- accumulate savings = yığım toplamaq :: savings = money that you have saved
+- accumulate possessions = əşya (var-dövlət) toplamaq :: possession = something that you own
+- accumulate fat = piy toplamaq :: fat = the substance under the skin that stores energy
+- accumulate toxins = toksinlər toplamaq :: toxin = a poisonous substance
+- accumulate assets = aktivlər toplamaq :: asset = something valuable that a person or company owns
+- a cumulative total = məcmu yekun :: total = the number you get by adding everything together
+- accumulate a surplus = artıq vəsait (profisit) toplamaq :: surplus = an amount that is more than is needed
+> Dust had accumulated on the shelves. = Rəflərin üstünə toz yığılmışdı.
+> Over the years she accumulated enough savings to buy a flat. = İllər ərzində o, mənzil almaq üçün kifayət qədər yığım topladı.
+> Toxins can accumulate in the body over time. = Toksinlər zaman keçdikcə orqanizmdə toplana bilər.
+> The cumulative total for the year was three million pounds. = İl üzrə məcmu yekun üç milyon funt təşkil etdi.
+! ACCUMULATE means to collect or increase gradually over a period of time. It is transitive ("accumulate wealth") and intransitive ("Debts accumulated"). Compare COLLECT (bring together deliberately), GATHER (bring together from different places) and AMASS (collect a very large amount, especially money). CUMULATIVE describes an effect that grows with each addition: "the cumulative effect of small changes".
+
+@ ASPIRE | verb | əˈspaɪə | can atmaq, nail olmağa çalışmaq
+forms: aspire – aspires – aspired – aspired – aspiring
+n: aspiration = arzu, ali məqsəd
+adj: aspiring = (bir peşəyə) can atan; aspirational = yüksək həyat səviyyəsinə can atan
+- aspire to = nəyəsə can atmaq :: aspire TO + noun / infinitive
+- aspire to leadership = rəhbərliyə can atmaq :: leadership = the position of being the leader
+- an aspiring actor = aktyor olmağa can atan gənc :: actor = a person who performs in plays or films
+- an aspiring entrepreneur = sahibkar olmağa can atan şəxs :: entrepreneur = a person who starts a business
+- fulfil an aspiration = arzunu həyata keçirmək :: fulfil = achieve something hoped for
+- lofty aspirations = ali arzular :: lofty = noble and deserving admiration
+- thwart sb's aspirations = kiminsə arzularını puça çıxarmaq :: thwart = prevent somebody from doing what they want
+- harbour aspirations = ürəyində arzu bəsləmək :: harbour = keep a feeling in your mind for a long time
+> She aspires to become a judge. = O, hakim olmağa can atır.
+> The course is designed for aspiring entrepreneurs. = Kurs sahibkar olmağa can atanlar üçün nəzərdə tutulub.
+> He never fulfilled his aspiration to study abroad. = O, xaricdə təhsil almaq arzusunu heç vaxt həyata keçirə bilmədi.
+> Poverty thwarted the aspirations of a whole generation. = Yoxsulluq bütöv bir nəslin arzularını puça çıxardı.
+! ASPIRE means to have a strong desire to achieve something important. It takes TO: "aspire to a career in medicine", "aspire to be a doctor". ASPIRATIONS (usually plural) are strong hopes for the future: career aspirations, political aspirations. ASPIRING before a job title means "hoping to become": an aspiring writer. Compare AMBITION (a strong wish to be successful) and DREAM (less formal).
+
+@ AUTONOMY | noun | ɔːˈtɒnəmi | muxtariyyət; müstəqillik, sərbəstlik
+adj: autonomous = muxtar, müstəqil
+adv: autonomously = müstəqil şəkildə
+- autonomy over = nəyinsə üzərində sərbəstlik :: autonomy OVER decisions / budgets
+- individual autonomy = fərdi müstəqillik :: individual = of one person rather than a group
+- an autonomous region = muxtar vilayət :: region = a large area of a country
+- an autonomous republic = muxtar respublika :: republic = a country with a president and no king or queen
+- editorial autonomy = redaksiya müstəqilliyi :: editorial = connected with preparing a newspaper or book
+- function autonomously = müstəqil fəaliyyət göstərmək :: function = work or operate
+- autonomous robots = avtonom robotlar :: robot = a machine that can do tasks automatically
+- curtail autonomy = müstəqilliyi məhdudlaşdırmaq :: curtail = limit or reduce
+> Nakhchivan is an autonomous republic within Azerbaijan. = Naxçıvan Azərbaycanın tərkibində muxtar respublikadır.
+> Teachers should have more autonomy over what they teach. = Müəllimlərin nə tədris etdikləri üzərində daha çox sərbəstliyi olmalıdır.
+> Each department functions autonomously. = Hər şöbə müstəqil fəaliyyət göstərir.
+> The new law curtails the autonomy of universities. = Yeni qanun universitetlərin müstəqilliyini məhdudlaşdırır.
+! AUTONOMY is the freedom of a country, region or organisation to govern itself, and also the ability of a person to act without being controlled by others. It is uncountable. Patterns: autonomy FROM a central government; autonomy OVER something. AUTONOMOUS describes self-governing regions and, in technology, machines that operate without human control: autonomous vehicles. Compare INDEPENDENCE (complete freedom from control) and SOVEREIGNTY (the full power of a state).
+
+@ CATALYST | noun | ˈkætəlɪst | katalizator; təkanverici amil
+v: catalyse = sürətləndirmək, təkan vermək
+adj: catalytic = katalitik
+- a catalyst for = nəyinsə katalizatoru (təkanverici qüvvəsi) :: The preposition is FOR
+- serve as a catalyst = katalizator rolunu oynamaq :: serve = perform a function
+- a chemical catalyst = kimyəvi katalizator :: chemical = connected with chemistry
+- a catalyst for revolution = inqilab üçün təkan :: revolution = an attempt to change a government by force; also a great change
+- a catalyst for regeneration = dirçəliş üçün təkan :: regeneration = making an area active and successful again
+- a catalyst for unrest = iğtişaşlara təkan verən amil :: unrest = angry or violent behaviour by people who are protesting
+- a potent catalyst = güclü katalizator :: potent = having a strong effect
+- a catalytic converter = katalitik neytrallaşdırıcı :: converter = a device that changes something into a different form
+> The scandal was a catalyst for change. = Qalmaqal dəyişiklik üçün katalizator oldu.
+> The new stadium served as a catalyst for the regeneration of the area. = Yeni stadion ərazinin dirçəlişi üçün katalizator rolunu oynadı.
+> Rising food prices were a catalyst for unrest. = Ərzaq qiymətlərinin artması iğtişaşlara təkan verən amil oldu.
+> A chemical catalyst speeds up a reaction without being used up. = Kimyəvi katalizator özü sərf olunmadan reaksiyanı sürətləndirir.
+! In chemistry, a CATALYST is a substance that makes a reaction happen faster without being changed itself. Figuratively it is a person or event that causes an important change: "a catalyst FOR change" is the classic collocation. Typical verbs: act as, serve as, prove (to be) a catalyst. Compare TRIGGER (the immediate cause) and IMPETUS (a force that makes something happen more quickly). The British spelling of the verb is CATALYSE.
+
+@ COMPREHENSIVE | adjective | ˌkɒmprɪˈhensɪv | hərtərəfli, əhatəli, tam
+adv: comprehensively = hərtərəfli şəkildə, tamamilə
+- a comprehensive review = hərtərəfli icmal (təhlil) :: review = a careful examination of a situation
+- a comprehensive overview = əhatəli ümumi baxış :: overview = a general description of a subject
+- a comprehensive database = əhatəli məlumat bazası :: database = an organised set of data stored in a computer
+- a comprehensive audit = hərtərəfli audit (yoxlama) :: audit = an official examination of accounts or quality
+- a comprehensive handbook = əhatəli məlumat kitabçası :: handbook = a book giving instructions or information
+- a comprehensive overhaul = köklü yenidənqurma :: overhaul = a thorough examination and improvement of a system
+- a comprehensive defeat = tam (qəti) məğlubiyyət :: defeat = failure to win
+- comprehensively beaten = tamamilə məğlub edilmiş :: beat = defeat somebody in a game or fight
+> The report gives a comprehensive overview of the housing market. = Hesabat mənzil bazarının əhatəli ümumi mənzərəsini verir.
+> The tax system needs a comprehensive overhaul. = Vergi sisteminin köklü yenidənqurmaya ehtiyacı var.
+> The government has ordered a comprehensive review of the policy. = Hökumət bu siyasətin hərtərəfli təhlilini tapşırıb.
+> Our team was comprehensively beaten in the final. = Komandamız finalda tamamilə məğlub oldu.
+! COMPREHENSIVE means including all, or almost all, the details or facts: a comprehensive guide, comprehensive insurance (covering every kind of risk). In Britain a COMPREHENSIVE (school) is a state secondary school for pupils of all abilities. Do not confuse it with COMPREHENSIBLE (able to be understood); both come from COMPREHEND. Synonyms: THOROUGH, EXHAUSTIVE, EXTENSIVE, COMPLETE.
+
+@ CONTEMPLATE | verb | ˈkɒntəmpleɪt | götür-qoy etmək, barəsində düşünmək; seyr etmək
+forms: contemplate – contemplates – contemplated – contemplated – contemplating
+n: contemplation = dərin düşüncə, seyr
+adj: contemplative = düşüncəli, fikrə dalmış
+- contemplate retirement = təqaüdə çıxmaq barədə düşünmək :: retirement = the time when you stop working because of your age
+- contemplate resignation = istefa vermək barədə düşünmək :: resignation = the act of giving up your job
+- contemplate emigration = mühacirət etmək barədə düşünmək :: emigration = leaving your own country to live in another
+- contemplate the horizon = üfüqü seyr etmək :: horizon = the line where the sky seems to meet the land or sea
+- too awful to contemplate = düşünmək belə dəhşətlidir :: awful = very bad or unpleasant
+- contemplate a takeover = şirkəti ələ keçirmək barədə düşünmək :: takeover = the act of taking control of a company
+- contemplate a sabbatical = yaradıcılıq məzuniyyəti götürmək barədə düşünmək :: sabbatical = a long period of leave for study or travel
+- contemplate the abyss = uçuruma baxmaq (fəlakətlə üz-üzə qalmaq) :: abyss = a very deep hole; a hopeless situation
+> At sixty he began to contemplate retirement. = Altmış yaşında o, təqaüdə çıxmaq barədə düşünməyə başladı.
+> The consequences of failure are too awful to contemplate. = Uğursuzluğun nəticələri barədə düşünmək belə dəhşətlidir.
+> She sat on the beach, contemplating the horizon. = O, çimərlikdə oturub üfüqü seyr edirdi.
+> The company is contemplating a takeover of its main rival. = Şirkət əsas rəqibini ələ keçirmək barədə düşünür.
+! CONTEMPLATE means to think carefully about a possible future action, or to look at something thoughtfully for a long time. It is followed by a noun or -ing form: "contemplate leaving" – not "contemplate to leave". It is more formal and more serious than CONSIDER. CONTEMPLATION is deep thought, often religious or philosophical. Compare PONDER (think about carefully) and MULL OVER (informal).
+
+@ CORRELATE | verb | ˈkɒrəleɪt | qarşılıqlı əlaqədə olmaq, uzlaşmaq
+forms: correlate – correlates – correlated – correlated – correlating
+n: correlation = korrelyasiya, qarşılıqlı əlaqə
+adj: correlated = qarşılıqlı əlaqəli
+- correlate with = nə iləsə əlaqəli olmaq :: correlate WITH something
+- a correlation between = ... arasında korrelyasiya :: correlation BETWEEN two variables
+- correlation and causation = korrelyasiya və səbəb-nəticə əlaqəsi :: causation = the process of one event causing another
+- an inverse correlation = tərs korrelyasiya :: inverse = opposite in amount: when one rises, the other falls
+- a correlation coefficient = korrelyasiya əmsalı :: coefficient = a number that measures a property
+- a robust correlation = möhkəm (etibarlı) korrelyasiya :: robust = strong and unlikely to fail
+- detect a correlation = korrelyasiya aşkar etmək :: detect = discover or notice something that is not easy to see
+- a modest correlation = zəif (orta dərəcəli) korrelyasiya :: modest = not very large
+> Poverty correlates strongly with poor health. = Yoxsulluq zəif sağlamlıqla sıx əlaqəlidir.
+> There is a clear correlation between education and income. = Təhsillə gəlir arasında aydın korrelyasiya var.
+> Researchers found an inverse correlation between exercise and stress. = Tədqiqatçılar idmanla stress arasında tərs korrelyasiya aşkar ediblər.
+> Students must learn the difference between correlation and causation. = Tələbələr korrelyasiya ilə səbəb-nəticə əlaqəsinin fərqini öyrənməlidirlər.
+! To CORRELATE is to have a relationship in which one thing changes when the other does. The noun CORRELATION is central to statistics and to describing data: a strong / weak / positive / negative correlation BETWEEN A and B. The warning "correlation does not imply causation" means that two things happening together does not prove that one causes the other – a valuable point for critical essays.
+
+@ CULMINATE | verb | ˈkʌlmɪneɪt | (nə iləsə) yekunlaşmaq, ən yüksək nöqtəyə çatmaq
+forms: culminate – culminates – culminated – culminated – culminating
+n: culmination = ən yüksək nöqtə, zirvə, yekun
+- culminate in = nə iləsə nəticələnmək (yekunlaşmaq) :: culminate IN / WITH something
+- the culmination of = nəyinsə zirvəsi (yekunu) :: Noun pattern
+- culminate in a riot = iğtişaşla nəticələnmək :: riot = violent behaviour by a crowd in a public place
+- culminate in a ceremony = mərasimlə yekunlaşmaq :: ceremony = a formal public or religious event
+- culminate in the collapse = çöküşlə (iflasla) nəticələnmək :: collapse = a sudden failure of a system or organisation
+- culminate in a showdown = həlledici qarşıdurma ilə nəticələnmək :: showdown = a final argument or fight that settles a dispute
+- culminate in an arrest = həbslə nəticələnmək :: arrest = the act of taking somebody to a police station
+- culminate in a breakthrough = mühüm irəliləyişlə nəticələnmək :: breakthrough = an important discovery or development
+> Months of protests culminated in a riot. = Aylarla davam edən etirazlar iğtişaşla nəticələndi.
+> The festival culminates in a ceremony on the main square. = Festival əsas meydanda keçirilən mərasimlə yekunlaşır.
+> The award was the culmination of forty years of work. = Bu mükafat qırx illik əməyin zirvəsi idi.
+> Years of research culminated in a breakthrough. = İllərlə aparılan tədqiqatlar mühüm irəliləyişlə nəticələndi.
+! CULMINATE means to end with a particular result or to reach the highest point after a long development. It is intransitive and takes IN or WITH: "culminate IN victory". The subject is usually a process or series of events: talks, protests, a career, a campaign. Compare RESULT IN (neutral), END IN and CLIMAX. THE CULMINATION OF something is its final and most important point.
+
+@ DISCERN | verb | dɪˈsɜːn | sezmək, ayırd etmək, güclə görmək
+forms: discern – discerns – discerned – discerned – discerning
+n: discernment = fərasət, incə duyum
+adj: discernible = sezilən, gözə çarpan; discerning = incə zövqlü, seçici
+- no discernible outline = heç bir sezilən kontur :: outline = the line that shows the shape of something
+- a discerning palate = incə dad duyumu :: palate = the ability to recognise and enjoy good food and drink
+- a discerning audience = zövqlü (tələbkar) tamaşaçı :: audience = the people watching a play, film or concert
+- discern a silhouette = silueti ayırd etmək :: silhouette = the dark shape of something seen against light
+- discern through the mist = duman arasından seçmək :: mist = a thin cloud of very small drops of water in the air
+- discern a trace of = nəyinsə izini sezmək :: trace = a very small amount; a sign that something was present
+- readily discernible = asanlıqla sezilən :: readily = quickly and easily
+- a discerning collector = seçici kolleksiyaçı :: collector = a person who collects things as a hobby
+> I could just discern the silhouette of a ship through the mist. = Duman arasından güclə bir gəminin siluetini seçə bilirdim.
+> There has been no discernible improvement. = Heç bir sezilən yaxşılaşma olmayıb.
+> I discerned a trace of irony in her voice. = Onun səsində istehza izi sezdim.
+> The restaurant is popular with diners who have a discerning palate. = Restoran incə dad duyumu olan müştərilər arasında məşhurdur.
+! DISCERN is a formal verb meaning to see or understand something that is not obvious: discern a pattern, discern a difference. It is not used in the progressive. DISCERNIBLE means able to be noticed ("no discernible difference"); DISCERNING is a word of praise for people with good judgement and taste ("a discerning reader"). Compare DETECT (discover something hidden), PERCEIVE (become aware of) and MAKE OUT (informal).
+
+@ ELICIT | verb | ɪˈlɪsɪt | (cavab, reaksiya) doğurmaq, almaq, üzə çıxarmaq
+forms: elicit – elicits – elicited – elicited – eliciting
+- elicit sympathy = rəğbət (şəfqət) doğurmaq :: sympathy = the feeling of being sorry for somebody
+- elicit a confession = etiraf almaq :: confession = a statement admitting that you are guilty
+- elicit laughter = gülüş doğurmaq :: laughter = the sound or act of laughing
+- elicit applause = alqış qazanmaq :: applause = the noise of people clapping their hands
+- elicit a gasp = heyrət nidasına səbəb olmaq :: gasp = a quick deep breath caused by surprise
+- elicit outrage = qəzəb doğurmaq :: outrage = a strong feeling of shock and anger
+- elicit compassion = mərhəmət hissi oyatmaq :: compassion = a strong feeling of sympathy for people who are suffering
+- elicit donations = ianə toplamağa nail olmaq :: donation = money given to help a person or organisation
+> The police failed to elicit a confession. = Polis etiraf ala bilmədi.
+> His joke elicited laughter from the audience. = Onun zarafatı tamaşaçıların gülüşünə səbəb oldu.
+> The decision elicited outrage among parents. = Qərar valideynlər arasında qəzəb doğurdu.
+> The teacher tried to elicit the answer from the class. = Müəllim cavabı sinifdən almağa çalışdı.
+! ELICIT means to get information or a reaction from somebody, often with difficulty: elicit a response, a reply, information, support. In language teaching, to elicit is to draw answers out of students instead of telling them. Do not confuse ELICIT /ɪˈlɪsɪt/ (verb) with ILLICIT (adjective: illegal) – they sound the same. Pattern: elicit something FROM somebody. Synonyms: DRAW OUT, EVOKE, OBTAIN.

@@ -1,0 +1,262 @@
+== MAIN WORD LEVEL vs open reference lists (CEFR-J A1-B2, Octanove C1-C2) ==
+  near  A1-051 PREFER         here A1, reference A2
+  near  A1-052 HATE           here A1, reference A2
+  near  A1-053 COMPARE        here A1, reference A2
+  near  A2-001 TRAVEL         here A2, reference A1
+  near  A2-002 STAY           here A2, reference A1
+  near  A2-003 LEAVE          here A2, reference A1
+  near  A2-004 ARRIVE         here A2, reference A1
+  near  A2-005 CATCH          here A2, reference A1
+  near  A2-006 MISS           here A2, reference A1
+  near  A2-007 BRING          here A2, reference A1
+  near  A2-009 SHOW           here A2, reference A1
+  near  A2-010 TELL           here A2, reference A1
+  near  A2-011 TRY            here A2, reference A1
+  near  A2-012 CHANGE         here A2, reference A1
+  near  A2-013 MOVE           here A2, reference A1
+  near  A2-014 TURN           here A2, reference A1
+  near  A2-015 KEEP           here A2, reference A1
+  near  A2-017 FIND           here A2, reference A1
+  near  A2-019 BREAK          here A2, reference A1
+  near  A2-020 GROW           here A2, reference A1
+  near  A2-021 PLAN           here A2, reference A1
+  near  A2-022 CHOOSE         here A2, reference A1
+  near  A2-023 PAY            here A2, reference A1
+  near  A2-024 USE            here A2, reference A1
+  near  A2-025 PUT            here A2, reference A1
+  near  A2-026 STOP           here A2, reference A1
+  near  A2-027 WIN            here A2, reference A1
+  near  A2-028 FEEL           here A2, reference A1
+  near  A2-029 THINK          here A2, reference A1
+  near  A2-030 ENJOY          here A2, reference A1
+  near  A2-031 HOPE           here A2, reference A1
+  near  A2-032 WORRY          here A2, reference A1
+  near  A2-033 HEALTH         here A2, reference A1
+  near  A2-034 SPORT          here A2, reference A1
+  near  A2-035 EASY           here A2, reference A1
+  near  A2-036 DIFFERENT      here A2, reference A1
+  near  A2-037 IMPORTANT      here A2, reference A1
+  near  A2-039 STRONG         here A2, reference A1
+  near  A2-044 COLLECT        here A2, reference A1
+  near  A2-046 COVER          here A2, reference A1
+  near  A2-049 THROW          here A2, reference A1
+  near  A2-050 ATTEND         here A2, reference B1
+  near  A2-054 CONNECT        here A2, reference B1
+  near  A2-057 ADVERTISE      here A2, reference B1
+  near  A2-058 ARRANGE        here A2, reference B1
+  near  A2-059 BEHAVE         here A2, reference B1
+  near  A2-064 CONTAIN        here A2, reference B1
+  near  A2-069 FEED           here A2, reference A1
+  near  A2-070 FIGHT          here A2, reference A1
+  near  A2-071 FOCUS          here A2, reference A1
+  near  A2-072 GREET          here A2, reference A1
+  near  A2-074 HURT           here A2, reference A1
+  near  A2-076 JUMP           here A2, reference A1
+  near  A2-085 PICK           here A2, reference A1
+  near  A2-086 AVAILABLE      here A2, reference B1
+  near  A2-087 REACT          here A2, reference B1
+  near  A2-089 RECOMMEND      here A2, reference B1
+  near  A2-091 GUY            here A2, reference A1
+  near  A2-092 ITEM           here A2, reference A1
+  near  A2-093 RESPOND        here A2, reference B1
+  near  B1-001 ACHIEVE        here B1, reference A2
+  near  B1-002 SUCCEED        here B1, reference A2
+  near  B1-003 IMPROVE        here B1, reference A2
+  near  B1-004 DEVELOP        here B1, reference A2
+  near  B1-005 EXPERIENCE     here B1, reference A2
+  REVIEW B1-006 SKILL          here B1, reference A1
+  near  B1-007 MANAGE         here B1, reference A2
+  near  B1-008 PREPARE        here B1, reference A2
+  near  B1-009 EMPLOY         here B1, reference B2
+  near  B1-010 APPLY          here B1, reference A2
+  near  B1-011 EDUCATION      here B1, reference A2
+  near  B1-012 EXPLAIN        here B1, reference A2
+  near  B1-013 SUGGEST        here B1, reference A2
+  near  B1-014 ARGUE          here B1, reference A2
+  near  B1-015 COMPLAIN       here B1, reference A2
+  REVIEW B1-016 DISCUSS        here B1, reference A1
+  near  B1-017 OPINION        here B1, reference A2
+  near  B1-018 ADVICE         here B1, reference A2
+  REVIEW B1-019 AGREE          here B1, reference A1
+  near  B1-020 DECIDE         here B1, reference A2
+  near  B1-021 ENVIRONMENT    here B1, reference B2
+  near  B1-023 INCREASE       here B1, reference A2
+  near  B1-025 PROVIDE        here B1, reference A2
+  near  B1-026 SUPPORT        here B1, reference A2
+  REVIEW B1-027 SOLVE          here B1, reference A1
+  near  B1-028 AVOID          here B1, reference A2
+  near  B1-029 CAUSE          here B1, reference A2
+  near  B1-030 EFFORT         here B1, reference A2
+  REVIEW B1-031 HABIT          here B1, reference A1
+  near  B1-032 OPPORTUNITY    here B1, reference A2
+  near  B1-033 CHALLENGE      here B1, reference A2
+  near  B1-034 PRESSURE       here B1, reference A2
+  near  B1-036 CONFIDENT      here B1, reference A2
+  REVIEW B1-038 SET            here B1, reference A1
+  REVIEW B1-039 RUN            here B1, reference A1
+  REVIEW B1-040 MIND           here B1, reference A1
+  near  B1-041 DEAL           here B1, reference A2
+  near  B2-001 ANALYSE        here B2, reference B1
+  near  B2-003 ASSUME         here B2, reference B1
+  REVIEW B2-004 EVIDENCE       here B2, reference A2
+  REVIEW B2-005 CONSEQUENCE    here B2, reference A2
+  REVIEW B2-006 IMPACT         here B2, reference A2
+  REVIEW B2-007 ISSUE          here B2, reference A2
+  near  B2-008 TREND          here B2, reference B1
+  near  B2-009 APPROACH       here B2, reference B1
+  REVIEW B2-010 RESEARCH       here B2, reference A2
+  REVIEW B2-011 SIGNIFICANT    here B2, reference A2
+  near  B2-013 INVEST         here B2, reference B1
+  near  B2-014 COMPETE        here B2, reference B1
+  near  B2-015 CONSUME        here B2, reference B1
+  near  B2-016 DEMAND         here B2, reference B1
+  near  B2-018 ECONOMY        here B2, reference B1
+  near  B2-019 RESOURCE       here B2, reference B1
+  near  B2-020 POLICY         here B2, reference B1
+  near  B2-021 CONTROVERSIAL  here B2, reference B1
+  near  B2-024 INNOVATE       here B2, reference C1
+  near  B2-025 CLIMATE        here B2, reference B1
+  near  B2-026 MOTIVATE       here B2, reference B1
+  REVIEW B2-027 ATTITUDE       here B2, reference A2
+  REVIEW B2-028 ESTABLISH      here B2, reference A2
+  near  B2-029 MAINTAIN       here B2, reference B1
+  REVIEW B2-030 REVEAL         here B2, reference A2
+  near  B2-032 GENERATE       here B2, reference B1
+  near  B2-033 PROMOTE        here B2, reference B1
+  near  B2-034 RESTRICT       here B2, reference B1
+  near  B2-035 ADAPT          here B2, reference B1
+  near  B2-036 CONTRIBUTE     here B2, reference B1
+  near  B2-037 EMERGE         here B2, reference B1
+  REVIEW B2-038 ACCOUNT        here B2, reference A2
+  near  B2-039 TERM           here B2, reference B1
+  near  B2-040 EXTENT         here B2, reference B1
+  near  C1-004 AMBIGUOUS      here C1, reference B2
+  near  C1-005 COHERENT       here C1, reference B2
+  near  C1-009 FACILITATE     here C1, reference B2
+  near  C1-010 FLUCTUATE      here C1, reference C2
+  near  C1-011 IMPLEMENT      here C1, reference B2
+  near  C1-012 INCENTIVE      here C1, reference B2
+  near  C1-020 CONSENSUS      here C1, reference B2
+  near  C1-023 HINDER         here C1, reference C2
+  near  C1-031 ENDORSE        here C1, reference B2
+  near  C1-034 LEGITIMATE     here C1, reference B2
+  near  C1-035 SUBTLE         here C1, reference B2
+  REVIEW C1-036 TRIGGER        here C1, reference B1
+  near  C1-039 STAKE          here C1, reference B2
+  REVIEW C1-040 BEAR           here C1, reference A1
+  near  C1-041 ACCUMULATE     here C1, reference B2
+  near  C1-042 ASPIRE         here C1, reference B2
+  near  C1-044 CATALYST       here C1, reference B2
+  near  C1-045 COMPREHENSIVE  here C1, reference B2
+  near  C1-047 CORRELATE      here C1, reference C2
+  near  C1-051 ENCOMPASS      here C1, reference C2
+  REVIEW C1-055 OUTWEIGH       here C1, reference B1
+  near  C1-056 PERCEIVE       here C1, reference B2
+  near  C1-058 REINFORCE      here C1, reference B2
+  near  C1-060 TRANSPARENT    here C1, reference B2
+  near  C2-006 PROLIFERATE    here C2, reference C1
+  near  C2-032 TANTAMOUNT     here C2, reference C1
+  near  C2-054 IMPEDE         here C2, reference C1
+  summary: same=134, one level apart=137, two or more apart=21, not in reference=70
+
+== COLLOCATES two or more levels ABOVE their lesson level ==
+  A1-013 HOUSE        housework        ref B1  "do the housework"
+  A1-016 BODY         finger           ref B1  "fingers and toes"
+  A1-019 WRITE        postcard         ref B1  "write a postcard"
+  A1-020 SPEAK        politely         ref B1  "speak politely"
+  A1-025 WATCH        series           ref B1  "watch a series"
+  A1-028 OPEN         curtain          ref B1  "open the curtains"
+  A1-032 WEATHER      forecast         ref B1  "the weather forecast"
+  A1-043 SIT          foot             ref B1  "on foot"
+  A1-045 BECOME       artist           ref B1  "become an artist"
+  A1-045 BECOME       actress          ref B1  "become an actress"
+  A1-047 BEGIN        blog             ref B1  "begin a blog"
+  A1-050 DRESS        boot             ref B1  "a sweater and boots"
+  A1-051 PREFER       gym              ref B1  "prefer the gym"
+  A1-053 COMPARE      pound            ref B1  "compare euros and pounds"
+  A1-053 COMPARE      mile             ref B1  "compare miles and metres"
+  A1-054 TEACH        geography        ref B1  "a geography teacher"
+  A1-056 DESCRIBE     neighbourhood    ref B1  "describe your neighbourhood"
+  A1-057 DRAW         object           ref B1  "draw an object"
+  A1-058 PAINT        ocean            ref B1  "a painting of the ocean"
+  A1-059 SING         awesome          ref B1  "an awesome singer"
+  A2-007 BRING        laptop           ref B2  "bring your laptop"
+  A2-008 SEND         reminder         ref B2  "send a reminder"
+  A2-011 TRY          recipe           ref B2  "try a recipe"
+  A2-017 FIND         accommodation    ref B2  "find accommodation"
+  A2-024 USE          media            ref B2  "use social media"
+  A2-043 BELONG       united           ref B2  "belong to a united army"
+  A2-050 ATTEND       conference       ref B2  "attend a conference"
+  A2-057 ADVERTISE    clothing         ref B2  "advertise clothing"
+  A2-060 STORM        sail             ref B2  "sail into a storm"
+  A2-062 BURN         chip             ref B2  "burn the chips"
+  A2-064 CONTAIN      nut              ref B2  "contain nuts"
+  A2-065 DISAPPEAR    underground      ref B2  "disappear underground"
+  A2-067 DOWNLOAD     profile          ref B2  "download a profile"
+  A2-068 IMPOSSIBLE   identify         ref B2  "impossible to identify"
+  A2-071 FOCUS        particular       ref B2  "a particular focus"
+  A2-090 REFER        god              ref B2  "refer to a god"
+  A2-093 RESPOND      understanding    ref B2  "respond with understanding"
+  A2-093 RESPOND      informal         ref B2  "quite informal"
+  count=38
+
+== COVERAGE of the reference lists by this database ==
+  A1: 945 of 1058 reference headwords (89%)
+  A2: 759 of 1221 reference headwords (62%)
+  B1: 753 of 2099 reference headwords (36%)
+  B2: 427 of 2428 reference headwords (18%)
+  C1: 107 of 921 reference headwords (12%)
+  C2: 70 of 882 reference headwords (8%)
+
+== WORD-FAMILY LINK CANDIDATES not yet reviewed (shared stem; shown to the learner only after review) ==
+  count=0   (move each pair to source/related.txt or source/not_related.txt)
+
+== IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
+  variant A2-040 INTEREST       here /ˈɪntrəst/   Britfone: ˈɪntəɹɪst | ˈɪntɹɪst
+  variant A2-068 IMPOSSIBLE     here /ɪmˈpɒsəbəl/   Britfone: ɪmpˈɒsɪbəl
+  variant A2-087 REACT          here /riˈækt/   Britfone: ɹɪˈækt
+  variant B1-005 EXPERIENCE     here /ɪkˈspɪəriəns/   Britfone: ɪkspˈɪəɹɪəns
+  variant B1-011 EDUCATION      here /ˌedʒuˈkeɪʃən/   Britfone: ˌɛdjʊkˈeɪʃən
+  variant B1-032 OPPORTUNITY    here /ˌɒpəˈtjuːnəti/   Britfone: ˌɒpətjˈuːnɪti
+  variant B1-035 RESPONSIBLE    here /rɪˈspɒnsəbəl/   Britfone: ɹɪspˈɒnsɪbəl
+  variant B1-037 SERIOUS        here /ˈsɪəriəs/   Britfone: sˈɪəɹɪəs
+  variant B2-020 POLICY         here /ˈpɒləsi/   Britfone: pˈɒlɪsi
+  variant B2-025 CLIMATE        here /ˈklaɪmət/   Britfone: klˈaɪmɪt
+  variant C1-001 ALLEVIATE      here /əˈliːvieɪt/   fallback: ɐlˈiːvɪˌeɪt
+  variant C1-004 AMBIGUOUS      here /æmˈbɪɡjuəs/   Britfone: æmbˈɪgjʊəs
+  variant C1-008 DETERIORATE    here /dɪˈtɪəriəreɪt/   Britfone: dɪtˈɪəɹɪəɹˌeɪt
+  variant C1-010 FLUCTUATE      here /ˈflʌktʃueɪt/   fallback: flˈʌktʃuːˌeɪt
+  variant C1-021 FEASIBLE       here /ˈfiːzəbəl/   Britfone: fˈiːzɪbəl
+  variant C1-024 PLAUSIBLE      here /ˈplɔːzəbəl/   Britfone: plˈɔːzɪbəl
+  reviewed C1-025 RESILIENT      here /rɪˈzɪliənt/   fallback: ɹɪsˈɪliənt   (fallback has /s/; British dictionaries give /z/: rɪˈzɪliənt)
+  variant C1-028 DISPARITY      here /dɪˈspærəti/   fallback: dɪspˈæɹɪti
+  variant C1-034 LEGITIMATE     here /lɪˈdʒɪtɪmət/   Britfone: lɪdʒˈɪtɪmɪt
+  variant C1-041 ACCUMULATE     here /əˈkjuːmjəleɪt/   Britfone: əkjˈuːmjʊlˌeɪt
+  variant C1-057 PERPETUATE     here /pəˈpetʃueɪt/   fallback: pəpˈɛtʃuːˌeɪt
+  variant C1-059 SUSCEPTIBLE    here /səˈseptəbəl/   Britfone: səsˈɛptɪbəl
+  reviewed C2-001 EXACERBATE     here /ɪɡˈzæsəbeɪt/   fallback: ɛɡzˈæsəbˌeɪt   (fallback starts with a full /e/; the prefix is weak: ɪɡ-)
+  reviewed C2-004 PERNICIOUS     here /pəˈnɪʃəs/   fallback: pɜːnˈɪʃəs   (fallback has a long vowel in the unstressed first syllable; it is a schwa: pə-)
+  variant C2-005 PRECARIOUS     here /prɪˈkeəriəs/   fallback: pɹɪkˈeəɹɪəs
+  reviewed C2-008 CIRCUMVENT     here /ˌsɜːkəmˈvent/   fallback: sˈɜːkəmvˌɛnt   (fallback puts the main stress on the first syllable; it falls on the last: ˌsɜːkəmˈvent)
+  reviewed C2-010 EPITOMISE      here /ɪˈpɪtəmaɪz/   fallback: ɛpˈɪtəmˌaɪz   (fallback starts with a full /e/; the first syllable is weak: ɪ-)
+  reviewed C2-012 JUXTAPOSE      here /ˌdʒʌkstəˈpəʊz/   fallback: dʒˈʌkstɐpˌəʊz   (fallback puts the main stress on the first syllable; it falls on the last: ˌdʒʌkstəˈpəʊz)
+  reviewed C2-024 METICULOUS     here /məˈtɪkjələs/   fallback: mɛtˈɪkjʊləs   (fallback has a full /e/ in the unstressed first syllable; it is a schwa: mə-)
+  variant C2-028 TENUOUS        here /ˈtenjuəs/   fallback: tˈɛnjuːəs
+  variant C2-029 INSIDIOUS      here /ɪnˈsɪdiəs/   Britfone: ɪnsˈɪdɪəs
+  reviewed C2-032 TANTAMOUNT     here /ˈtæntəmaʊnt/   fallback: tˈɑːntɐmˌaʊnt   (fallback has a long /ɑː/ in the first syllable; it is /æ/: ˈtæntəmaʊnt)
+  reviewed C2-035 IMPETUS        here /ˈɪmpɪtəs/   fallback: ˈɪmpɛtəs   (fallback has a full /e/ in the unstressed second syllable; it is weak: ˈɪmpɪtəs)
+  reviewed C2-036 ENTRENCHED     here /ɪnˈtrentʃt/   fallback: ɛntɹˈɛntʃt   (fallback starts with a full /e/; the prefix is weak: ɪn-)
+  reviewed C2-040 REPERCUSSION   here /ˌriːpəˈkʌʃən/   fallback: ɹɪpəkˈʌʃən   (fallback has a short first syllable and no secondary stress; it is ˌriːpəˈkʌʃən)
+  variant C2-046 CONSPICUOUS    here /kənˈspɪkjuəs/   Britfone: kənspˈɪkjʊəs
+  reviewed C2-049 DELINEATE      here /dɪˈlɪnieɪt/   fallback: dɪlˈɪniːt   (fallback drops the final diphthong; the word has four syllables: dɪˈlɪnieɪt)
+  reviewed C2-056 OBFUSCATE      here /ˈɒbfʌskeɪt/   fallback: ˈɒbfəskˌeɪt   (fallback has a schwa in the second syllable; British dictionaries give /ʌ/ first: ˈɒbfʌskeɪt)
+  variant C2-058 PROPENSITY     here /prəˈpensəti/   fallback: pɹəpˈɛnsɪti
+  reviewed C2-060 SPURIOUS       here /ˈspjʊəriəs/   fallback: spjˈʊɹɪəs   (fallback writes a short /ʊ/; the stressed vowel is the diphthong /ʊə/: ˈspjʊəriəs)
+  "variant" = same sounds and stress, different notation of a weak vowel (i/ɪ, u/ʊ, ɪ/ə, jʊ/jə, tj/tʃ, dj/dʒ).
+  "fallback" = ipa-dict en_UK, a second open list used only for words that Britfone does not contain.
+  Both lists are open community resources and can contain errors themselves: a DIFFER line is a prompt
+  to re-check the word in a printed dictionary, not proof of an error.
+  summary: IPA vs Britfone 3.0.1: agree=281, notation variants=19, differ=0
+  "reviewed" = differs from the fallback list, re-checked by the author and kept; the reason is given
+  in source/ipa_reviewed.txt (an author's judgement, not a machine verification).
+  summary: IPA vs fallback list (words missing from Britfone): agree=41, notation variants=7, differ=0, differ but reviewed by the author=14; in neither list=0

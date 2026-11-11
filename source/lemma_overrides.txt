@@ -1,0 +1,12 @@
+// Dictionary form to display for a token when the automatic rule gets it wrong.  Format:  token = lemma
+rights = rights  # plural noun "rights" (hüquqlar) is kept as its own item; see distinct_lexemes.txt
+younger = young
+laughing = laugh  # "stop laughing" teaches the verb laugh (the note gives its base form)
+talking = talk  # "stop talking" teaches the verb talk
+pants = pants  # plural-only noun (AmE: şalvar)
+happened = happen
+crying = cry  # "stop crying" teaches the verb cry
+shouting = shout  # "stop shouting" teaches the verb shout
+businessmen = businessman
+cookies = cookie
+stairs = stair

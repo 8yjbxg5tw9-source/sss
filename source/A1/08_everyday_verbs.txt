@@ -1,0 +1,104 @@
+// A1 expansion (Oxford 3000 list): every lesson teaches six A1 words of the list.
+## Everyday verbs | Gündəlik fellər
+@ WANT | verb | wɒnt | istəmək
+forms: want – wants – wanted – wanted – wanting
+- want a beer = pivə istəmək :: beer /bɪə/ = pivə; "a beer" = bir stəkan (şüşə) pivə
+- want some wine = bir az şərab istəmək :: wine = şərab; sayılmayan isim: some wine, a glass of wine
+- want more sugar = daha çox şəkər istəmək :: sugar /ˈʃʊɡə/ = şəkər, qənd; sayılmayan isim
+- want the salt = duzu istəmək :: salt /sɔːlt/ = duz; süfrədə: Do you want the salt?
+- want a banana = banan istəmək :: banana /bəˈnɑːnə/ = banan; cəmi: bananas
+- want to do sth = nəyisə etmək istəmək :: want + to + fel: I want to go ("want go" yox)
+- want sb to do sth = kiminsə nəyisə etməsini istəmək :: want + şəxs + to + fel: I want you to stay
+> I want to learn English. = Mən ingilis dilini öyrənmək istəyirəm.
+> Do you want some wine or a beer? = Şərab istəyirsən, yoxsa pivə?
+> She wants more sugar in her tea. = O, çayına daha çox şəkər istəyir.
+! WANT düzgün feldir: want – wanted. Ondan sonra isim (want a banana) və ya "to + fel" gəlir (want to go). Başqasının nəsə etməsini istəyəndə "want + şəxs + to + fel" qəlibi işlənir: I want you to help me ("I want that you help" demək səhvdir). WANT davamedici formada (-ing) adətən işlənmir: "I want" deyilir, "I am wanting" yox. Xahiş edərkən "I want" kobud səslənə bilər; "I would like" daha nəzakətlidir.
+
+@ SAY | verb | seɪ | demək, söyləmək
+forms: say – says – said – said – saying
+- say hello = salam vermək, salam demək :: Kiməsə salam göndərəndə: Say hello to your parents
+- say it is true = bunun doğru olduğunu demək :: true /truː/ = doğru, həqiqi; əksi: false
+- cannot say for sure = dəqiq deyə bilməmək :: sure /ʃɔː/ = əmin; for sure = dəqiq, şübhəsiz
+- say something terrible = dəhşətli bir şey demək :: terrible = dəhşətli, çox pis; something + sifət
+- say the opposite = əksini demək :: opposite /ˈɒpəzɪt/ = əks; üzbəüz
+- say thank you = "sağ ol" demək, təşəkkür etmək :: thank = təşəkkür etmək; Thank you! = Sağ olun!
+- say what happened = nə baş verdiyini demək :: happen = baş vermək; What happened? = Nə oldu?
+- say goodbye = sağollaşmaq, vidalaşmaq :: say goodbye to + şəxs
+> She said hello and sat down. = O, salam verdi və əyləşdi.
+> I cannot say for sure, but I think it is true. = Dəqiq deyə bilmərəm, amma məncə, bu doğrudur.
+> Please say what happened yesterday. = Zəhmət olmasa, dünən nə baş verdiyini deyin.
+> Always say thank you when somebody helps you. = Kimsə sənə kömək edəndə həmişə "sağ ol" de.
+! SAY düzgün olmayan feldir: say – said – said; "says" /sez/, "said" isə /sed/ kimi tələffüz olunur. SAY deyilən sözlərin özünü bildirir və ondan sonra şəxs birbaşa gəlmir: "He said (that) he was tired"; şəxs lazımdırsa "to" işlənir: "He said to me ...". TELL isə həmişə şəxs tələb edir: "He told me ...". Müqayisə edin: say hello, say goodbye, say thank you, say yes / no – lakin tell a story, tell the truth.
+
+@ SIT | verb | sɪt | oturmaq, əyləşmək
+forms: sit – sits – sat – sat – sitting
+- sit down = oturmaq, əyləşmək :: Hərəkəti bildirir; nəzakətlə: Please sit down
+- sit at a desk = yazı masasının arxasında oturmaq :: desk = yazı masası, parta; "at" sözönüsü ilə
+- sit in the sun = günün altında oturmaq :: sun = günəş; in the sun = günəş altında
+- sit in front of sb = kiminsə qabağında oturmaq :: front /frʌnt/ = ön tərəf; in front of = qabağında, önündə
+~ stand up = ayağa qalxmaq :: stand – stood – stood = ayaq üstə durmaq; "sit down" ifadəsinin əksi
+~ on foot = piyada :: foot = ayaq (pəncə); cəmi: feet; go on foot = piyada getmək
+- sit with us = bizimlə oturmaq :: Dəvət edərkən: Come and sit with us
+> Please sit down and open your books. = Zəhmət olmasa, əyləşin və kitablarınızı açın.
+> He sits at a desk all day. = O, bütün günü yazı masasının arxasında oturur.
+> Stand up, please, and say your name. = Zəhmət olmasa, ayağa qalx və adını de.
+> The station is near, so we can go on foot. = Stansiya yaxındır, ona görə piyada gedə bilərik.
+! SIT düzgün olmayan feldir: sit – sat – sat. "Sit" vəziyyəti (She is sitting = O oturub), "sit down" isə hərəkəti (əyləşmək) bildirir. Yerlə işlənən sözönülər: sit AT a desk / a table, sit ON a chair / the floor, sit IN an armchair / the sun. Əks hərəkət "stand up"dır: stand – stood – stood. "On foot" nəqliyyatsız, piyada getmək deməkdir: We went there on foot ("by foot" az işlənir).
+
+@ WAKE | verb | weɪk | oyanmaq; oyatmaq
+forms: wake – wakes – woke – woken – waking
+- wake up = oyanmaq :: Frazeoloji fel; "get up" isə yataqdan qalxmaq deməkdir
+- wake up at six o'clock = saat altıda oyanmaq :: Vaxt "at" ilə göstərilir: at six o'clock
+- wake your dad = atanı oyatmaq :: dad = ata (danışıq dilində "father")
+- wake your mum = ananı oyatmaq :: mum = ana (danışıq dilində "mother"); Amerika yazılışı: mom
+- wake the cat = pişiyi oyatmaq :: cat = pişik
+~ sleep until ten o'clock = saat ona qədər yatmaq :: sleep – slept – slept = yatmaq, yuxulamaq
+- wake up without a clock = saatsız oyanmaq :: clock = divar və ya stol saatı; qol saatı – watch
+> I usually wake up at six o'clock. = Mən adətən saat altıda oyanıram.
+> Be quiet, or you will wake your dad. = Sakit ol, yoxsa atanı oyadarsan.
+> On Sundays the children sleep until ten o'clock. = Bazar günləri uşaqlar saat ona qədər yatırlar.
+! WAKE düzgün olmayan feldir: wake – woke – woken. "Wake up" həm "oyanmaq" (I woke up early), həm də "oyatmaq" (Wake me up at seven) mənasında işlənir. WAKE UP – gözünü açmaq, oyanmaq; GET UP – yataqdan qalxmaq. SLEEP yuxuda olmaq deməkdir (sleep – slept – slept), "go to bed" isə yatmağa getməkdir. MUM Britaniya, MOM Amerika yazılışıdır; DAD hər ikisində eynidir.
+
+@ BECOME | verb | bɪˈkʌm | olmaq, çevrilmək (yeni hala gəlmək)
+forms: become – becomes – became – become – becoming
+- become famous = məşhur olmaq, məşhurlaşmaq :: famous /ˈfeɪməs/ = məşhur; become + sifət
+- become an artist = rəssam olmaq :: artist = rəssam; sənətçi; become + a/an + peşə
+- become an actress = aktrisa olmaq :: actress = aktrisa; kişi: actor
+- become a scientist = alim olmaq :: scientist /ˈsaɪəntɪst/ = alim, elm adamı
+- become a teenager = yeniyetmə olmaq :: teenager = 13–19 yaşlı yeniyetmə (thirteen ... nineteen)
+- become one of us = bizdən biri olmaq :: one of + cəm əvəzlik
+- what will become of sb = kiminsə axırı (taleyi) necə olacaq :: Sabit ifadə: What will become of him?
+> She wants to become a scientist. = O, alim olmaq istəyir.
+> He became famous after his first film. = O, ilk filmindən sonra məşhur oldu.
+> My sister became a teenager last month. = Bacım keçən ay yeniyetmə oldu.
+! BECOME düzgün olmayan feldir: become – became – become. Dəyişmə nəticəsində yeni hala gəlməyi bildirir və ondan sonra sifət (become famous, become rich) və ya isim (become a doctor) gəlir. Peşə adından əvvəl a/an artikli mütləqdir: become AN artist. Danışıq dilində sifətlərlə çox vaxt GET işlənir (get tired, get cold); BECOME bir qədər rəsmidir. Diqqət: Azərbaycan dilindəki "olmaq" həm BE, həm də BECOME ilə tərcümə olunur: "O, həkimdir" – He is a doctor; "O, həkim oldu" – He became a doctor.
+
+@ BELIEVE | verb | bɪˈliːv | inanmaq
+forms: believe – believes – believed – believed – believing
+- believe in sb/sth = kiməsə / nəyəsə inanmaq (varlığına, gücünə) :: believe in yourself = özünə inanmaq
+- believe me = inan mənə :: Dediyinin doğru olduğunu vurğulamaq üçün
+- believe it or not = inanmayacaqsan, amma; inan, ya inanma :: Təəccüblü xəbərdən əvvəl deyilir
+~ I guess so = yəqin ki, elədir; deyəsən, hə :: guess /ɡes/ = təxmin etmək; güman etmək
+~ just imagine = bir təsəvvür et :: imagine /ɪˈmædʒɪn/ = təsəvvür etmək, xəyalına gətirmək
+~ forget about it = bunu unut; boş ver :: forget – forgot – forgotten = unutmaq
+~ what do you mean = nə demək istəyirsən :: mean – meant /ment/ – meant = demək istəmək; məna vermək
+~ let me do it = icazə ver, mən edim :: let – let – let = icazə vermək, qoymaq; let + şəxs + fel ("to" işlənmir)
+> I believe in you. = Mən sənə inanıram.
+> Believe it or not, he is only ten years old. = İnanmayacaqsan, amma onun cəmi on yaşı var.
+> What do you mean? I don't understand. = Nə demək istəyirsən? Mən başa düşmürəm.
+> Let me do it for you. = İcazə ver, bunu sənin üçün mən edim.
+! BELIEVE düzgün feldir. "Believe + şəxs" kiminsə dediyinə inanmaq deməkdir (I believe you), "believe in" isə nəyinsə varlığına və ya dəyərinə inanmaqdır (believe in God, believe in yourself). Bu dərsdə fikir bildirən başqa mühüm fellər də var: GUESS (təxmin etmək; I guess = məncə, yəqin), IMAGINE (təsəvvür etmək), FORGET (unutmaq: forget – forgot – forgotten), MEAN (demək istəmək: What does this word mean? = Bu söz nə deməkdir?) və LET (icazə vermək: Let me help you). LET-dən sonra gələn feldən əvvəl "to" işlənmir.
+
+@ BEGIN | verb | bɪˈɡɪn | başlamaq; başlanmaq
+forms: begin – begins – began – begun – beginning
+- begin with sth = nə iləsə başlamaq :: Let's begin with the first question
+- begin a meeting = iclası başlamaq :: meeting = iclas, yığıncaq; görüş
+- begin a blog = bloq yazmağa başlamaq :: blog = bloq, internet gündəliyi
+- begin and end = başlamaq və bitmək :: end = bitmək, qurtarmaq; son; at the end = sonda
+- a perfect beginning = mükəmməl başlanğıc :: perfect /ˈpɜːfɪkt/ = mükəmməl, qüsursuz
+- begin as a driver = sürücü kimi (işə) başlamaq :: driver = sürücü; begin as + peşə
+- begin to do sth = nəyisə etməyə başlamaq :: begin + to + fel və ya begin + -ing: begin to rain / begin raining
+> The lesson begins at nine o'clock. = Dərs saat doqquzda başlayır.
+> Let's begin with an easy question. = Gəlin asan bir sualla başlayaq.
+> The film began well, but the end was terrible. = Film yaxşı başladı, amma sonu dəhşətli idi.
+! BEGIN düzgün olmayan feldir: begin – began – begun; -ing forması iki "n" ilə yazılır: beginning. BEGIN və START demək olar ki, eyni mənalıdır, lakin BEGIN bir qədər rəsmidir; maşın və cihazlar haqqında isə yalnız START işlənir (start the car). Ondan sonra həm "to + fel", həm də "-ing" gələ bilər. "Begin with" – nə iləsə başlamaq; "at the beginning" – əvvəlində. Əks mənalı fellər END və FINISH-dir.

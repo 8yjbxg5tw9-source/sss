@@ -1,0 +1,80 @@
+## Food, drink and shopping | Yemək, içki və alış-veriş
+@ EAT | verb | iːt | yemək
+forms: eat – eats – ate – eaten – eating
+- eat breakfast = səhər yeməyi yemək :: "have breakfast" daha çox işlənir; artikl olmur
+- eat lunch = nahar etmək, günorta yeməyi yemək :: Artiklsiz işlənir
+- eat meat = ət yemək :: Sayılmayan isim: artikl və cəm şəkilçisi olmur
+- eat fruit = meyvə yemək :: "fruit" adətən sayılmayan isimdir
+- eat vegetables = tərəvəz yemək :: Adətən cəmdə işlənir
+- eat an apple = alma yemək :: Sait səsdən əvvəl "an": an apple
+- eat out = evdən kənarda (restoranda, kafedə) yemək :: Frazeoloji fel; gündəlik danışıq
+- eat too much = həddindən artıq çox yemək :: too much = lazım olandan artıq
+> I eat breakfast at eight o'clock. = Mən səhər yeməyini saat səkkizdə yeyirəm.
+> She doesn't eat meat. = O, ət yemir.
+> We eat out on Fridays. = Biz cümə günləri restoranda yeyirik.
+> Children should eat fruit and vegetables every day. = Uşaqlar hər gün meyvə və tərəvəz yeməlidirlər.
+! EAT düzgün olmayan feldir: eat – ate – eaten. Yemək adları (breakfast, lunch, dinner) ilə artikl işlənmir: eat breakfast. Gündəlik danışıqda "eat" əvəzinə çox vaxt "have" deyilir: have breakfast, have lunch. "Meat" və "fruit" sayılmayan isimlərdir, ona görə "a meat" deyilmir. "Eat out" restoran və ya kafedə yemək deməkdir.
+
+@ DRINK | verb, noun | drɪŋk | içmək; içki
+forms: drink – drinks – drank – drunk – drinking
+- drink water = su içmək :: Sayılmayan isim: artiklsiz işlənir
+- drink coffee = qəhvə içmək :: Ümumi mənada artiklsiz; a coffee = bir fincan qəhvə
+- drink a glass of milk = bir stəkan süd içmək :: a glass of + sayılmayan isim
+- drink orange juice = portağal şirəsi içmək :: isim + isim birləşməsi
+- a cold drink = soyuq içki :: Burada "drink" isimdir
+- a soft drink = spirtsiz sərinləşdirici içki :: Limonad, kola və s.
+- drink from a bottle = butulkadan içmək :: from + qab
+- have a drink = bir şey içmək :: have a + isim; dəvət: Would you like a drink?
+> I drink two cups of coffee every morning. = Mən hər səhər iki fincan qəhvə içirəm.
+> Would you like a cold drink? = Soyuq içki istərdinizmi?
+> The baby drinks milk from a bottle. = Körpə südü butulkadan içir.
+> You should drink a lot of water in summer. = Yayda çoxlu su içməlisən.
+! DRINK həm feldir (içmək), həm də isimdir (içki). Düzgün olmayan feldir: drink – drank – drunk. Maye bildirən isimlər sayılmayandır, ona görə miqdarı "a glass of", "a cup of", "a bottle of" ilə göstəririk: a glass of water. "Soft drink" spirtsiz içki deməkdir. "Have a drink" çox vaxt dəvət kimi işlənir.
+
+@ COOK | verb, noun | kʊk | bişirmək; aşpaz
+n: cooker = mətbəx plitəsi; cooking = yemək bişirmə, aşpazlıq
+- cook a meal = yemək bişirmək :: meal = bir dəfəlik yemək (səhər, günorta və ya axşam yeməyi)
+- cook rice = düyü bişirmək :: Sayılmayan isim
+- cook pasta = makaron bişirmək :: Sayılmayan isim
+- cook chicken = toyuq bişirmək :: Yemək kimi sayılmayan; a chicken = bir toyuq (quş)
+- cook fish = balıq bişirmək :: Yemək kimi sayılmayan isimdir
+- cook eggs = yumurta bişirmək :: Sayılan isim: an egg, two eggs
+- a great cook = əla aşpaz :: "cook" isim kimi = yemək bişirən adam ("cooker" yox!)
+- cook in the kitchen = mətbəxdə yemək bişirmək :: in the kitchen = mətbəxdə
+> My father cooks a meal for us every evening. = Atam hər axşam bizim üçün yemək bişirir.
+> Can you cook rice? = Sən düyü bişirə bilirsən?
+> My grandmother is a great cook. = Nənəm əla aşpazdır.
+> She is cooking fish in the kitchen now. = O, indi mətbəxdə balıq bişirir.
+! COOK odun üstündə, istiliklə yemək hazırlamaq deməkdir; soyuq yeməklər üçün "make" işlənir (make a sandwich). Diqqət: "cook" həm də isimdir və "aşpaz" deməkdir, "cooker" isə adam deyil, mətbəx plitəsidir. "Cooking" isim kimi yemək bişirmə işini bildirir: I like cooking.
+
+@ BUY | verb | baɪ | almaq, satın almaq
+forms: buy – buys – bought – bought – buying
+n: buyer = alıcı
+- buy bread = çörək almaq :: Sayılmayan isim; a loaf of bread = bir (bütöv) çörək
+- buy cheese = pendir almaq :: Sayılmayan isim
+- buy clothes = paltar almaq :: "clothes" həmişə cəmdədir
+- buy a pair of shoes = bir cüt ayaqqabı almaq :: a pair of = bir cüt
+- buy a newspaper = qəzet almaq :: Sayılan isim
+- buy online = internetdən almaq, onlayn almaq :: "online" burada zərfdir
+- buy at the supermarket = supermarketdən almaq :: Yer üçün "at" və ya "in"
+- buy and sell = alıb-satmaq, alqı-satqı etmək :: Sabit cüt ifadə; sell = satmaq
+> I buy bread and cheese every morning. = Mən hər səhər çörək və pendir alıram.
+> She bought a new pair of shoes yesterday. = O, dünən yeni bir cüt ayaqqabı aldı.
+> Many people buy clothes online. = Bir çox insan paltarı internetdən alır.
+> They buy and sell old cars. = Onlar köhnə maşınlar alıb-satırlar.
+! BUY düzgün olmayan feldir: buy – bought – bought (tələffüzü /bɔːt/). İki qəlib var: buy + şəxs + əşya (buy me a coffee) və buy + əşya + for + şəxs (buy a coffee for me). BUY-ın əksi SELL-dir (satmaq). Azərbaycan dilində "almaq" həm pulla almaq, həm də götürmək mənasında işlənir; ingiliscə pulla almaq yalnız "buy"dır.
+
+@ MONEY | noun | ˈmʌni | pul
+- spend money = pul xərcləmək :: spend money on + nə
+- save money = pul yığmaq; pula qənaət etmək :: save money for + məqsəd
+- earn money = pul qazanmaq :: İşləyərək qazanmaq
+- borrow money = borc pul almaq :: borrow from + kim; əksi: lend – borc vermək
+- pocket money = cib xərcliyi :: Valideynin uşağa verdiyi pul (Britaniya ingiliscəsi)
+- cost a lot of money = çox pula başa gəlmək, baha olmaq :: It costs a lot of money
+~ rich and poor = varlı və kasıb :: Sabit cüt ifadə; the rich = varlılar, the poor = kasıblar
+~ cheap or expensive = ucuz, yoxsa baha :: Qiyməti soruşarkən və müqayisə edərkən
+> I spend a lot of money on books. = Mən kitablara çox pul xərcləyirəm.
+> She is saving money for a new phone. = O, yeni telefon üçün pul yığır.
+> A new car costs a lot of money. = Yeni maşın çox pula başa gəlir.
+> Is this restaurant cheap or expensive? = Bu restoran ucuzdur, yoxsa bahadır?
+! MONEY sayılmayan isimdir: "a money" və ya "moneys" deyilmir; "much money", "a lot of money" deyilir və fel təkdə olur (The money is on the table). SPEND – xərcləmək, SAVE – yığmaq və ya qənaət etmək, EARN – işləyib qazanmaq deməkdir. BORROW borc almaq, LEND isə borc vermək mənasındadır – bu iki feli qarışdırmayın.

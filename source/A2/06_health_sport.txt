@@ -1,0 +1,32 @@
+## Health and sport | Sağlamlıq və idman
+@ HEALTH | noun | helθ | sağlamlıq, səhhət
+adj: healthy = sağlam, sağlamlığa faydalı; unhealthy = qeyri-sağlam, zərərli
+- damage your health = sağlamlığına ziyan vurmaq :: damage = ziyan vurmaq; zərər
+- mental health = psixi sağlamlıq, ruhi sağlamlıq :: mental = əqli, psixi
+- a healthy diet = sağlam qidalanma (rasion) :: diet = qida rasionu; pəhriz
+- a healthy lifestyle = sağlam həyat tərzi :: lifestyle = həyat tərzi
+- health service = səhiyyə xidməti :: Britaniyada: the National Health Service (NHS)
+- health insurance = tibbi sığorta :: insurance = sığorta
+- physical health = fiziki sağlamlıq :: physical = fiziki, bədənlə bağlı
+- a health check = tibbi müayinə, sağlamlıq yoxlanışı :: check = yoxlama
+> Smoking can damage your health. = Siqaret çəkmək sağlamlığınıza ziyan vura bilər.
+> Sport is good for your physical and mental health. = İdman fiziki və psixi sağlamlığınız üçün faydalıdır.
+> A healthy diet includes a lot of fruit and vegetables. = Sağlam qidalanmaya çoxlu meyvə və tərəvəz daxildir.
+> Do you have health insurance? = Sizin tibbi sığortanız var?
+! HEALTH sayılmayan isimdir: "a health" deyilmir. HEALTHY sifətdir: a healthy child, healthy food. "In good health" – səhhəti yaxşı, "in poor health" – səhhəti pis deməkdir. DIET həm gündəlik qida rasionu, həm də pəhriz mənasındadır: be on a diet – pəhriz saxlamaq. Asqıran adama ingiliscə "Bless you!" deyilir.
+
+@ SPORT | noun | spɔːt | idman; idman növü
+adj: sporty = idmansevər, idmançı görkəmli
+- do sport = idmanla məşğul olmaq :: Britaniyada "do sport", Amerikada "play sports"
+- a team sport = komanda idman növü :: team = komanda
+- winter sports = qış idman növləri :: winter = qış
+- a sports club = idman klubu :: Təyinedici kimi cəmdə: sports
+- sports equipment = idman avadanlığı (ləvazimatı) :: "equipment" sayılmayan isimdir
+- extreme sports = ekstremal idman növləri :: extreme = ifrat, son dərəcə
+- a sports fan = idman azarkeşi :: fan = azarkeş, pərəstişkar
+- a sports stadium = idman stadionu :: stadium = stadion
+> Do you do any sport? = Hər hansı idmanla məşğul olursan?
+> Football is a team sport. = Futbol komanda idman növüdür.
+> I joined a sports club last month. = Mən keçən ay idman klubuna yazıldım.
+> My brother is a big sports fan. = Qardaşım böyük idman azarkeşidir.
+! SPORT Britaniya ingiliscəsində ümumi mənada sayılmayan isimdir (I like sport), konkret idman növü kimi isə sayılandır (Tennis is a popular sport). Başqa isimdən əvvəl cəm forması işlənir: a sports club, sports equipment. Fellərə diqqət: PLAY – toplu oyunlar (play football), GO – "-ing" ilə bitən növlər (go swimming), DO – digərləri (do karate, do gymnastics).

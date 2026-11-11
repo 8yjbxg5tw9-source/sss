@@ -1,0 +1,9 @@
+// ROADMAP: main words (and their key family forms) reserved for their own lesson.
+// A reserved word cannot be used up as a collocate in any other lesson.
+// Format:  LEVEL: MAIN + family, family; MAIN; ...
+// When a lesson has been written, delete its word from this file.
+// Every word below was verified to be unused on 2026-11-11 (python3 tools/vocab.py free WORD).
+B1: DIVIDE; TREAT + treatment; WONDER
+B2: PERSUADE; PRIORITISE; REGULATE; ENFORCE; EVALUATE; EXCEED; INTEGRATE; JUSTIFY; NEGLECT; UNDERGO; WITHDRAW
+C1: AMBIVALENT; CONCEDE; CONSOLIDATE; DEVISE; DIMINISH; DISCREPANCY; EXEMPLIFY; IMPARTIAL; INDISPENSABLE; JEOPARDISE; MARGINALISE; PARAMOUNT; PREDOMINANT; PREREQUISITE; REDUNDANT; TANGIBLE; VERSATILE
+C2: ACQUIESCE; CAPITULATE; EXONERATE; HEGEMONY; IDIOSYNCRASY; INCONTROVERTIBLE; NEBULOUS; RECALCITRANT; SUPERFLUOUS; UNPALATABLE; VACILLATE; VEHEMENT; VERACITY

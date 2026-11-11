@@ -1,0 +1,76 @@
+// Phrases of the Oxford Phrase List that are already taught by an expression of a main-word lesson.
+// Each line was checked by hand: the expression on the right teaches the phrase on the left (same meaning).
+// A phrase written exactly like an expression or like a phrase of a fixed-phrase lesson needs no line here.
+// Line format:  phrase as printed in the list = expression as written in the lesson
+// ---- A1
+a lot of sth = cost a lot of money
+around the world = travel around the world
+arrive at… = arrive at the hospital
+arrive in… = arrive in Paris
+ask for sth = ask for the bill
+at the weekend = work at the weekend
+good for sb/sth = good for you
+have time = have time for
+in town = new in town
+listen to sb/sth = listen to music
+live with sb = live with your parents
+look at sb/sth = look at a picture
+look for sb/sth = look for the keys
+look like sb/sth = look like
+on holiday = go on holiday
+out of sth = look out of the window
+phone call = make a phone call
+play with sb/sth = play with toys
+think about sb/sth = think about
+think of sb/sth = think of
+too much = eat too much
+work as sth = work as a doctor
+work for sb/sth = work for a company
+X years old = ten years old
+each other = hate each other
+in front of = sit in front of sb
+once a… = once a month
+over there = the boy over there
+thank you = say thank you
+// ---- A2
+apply for sth = apply for a visa
+deal with sb = deal with
+deal with sth = deal with
+fall off = fall off a bike
+feel like sth = feel like
+go for sth = go for a walk
+happy with sb/sth = happy with sth
+in love = fall in love
+look sth up = look up
+public transport = use public transport
+put sth on = put on
+take sth off = take off
+turn sth off = turn off
+turn sth on = turn on
+write sth down = write down
+// ---- B1
+access to sth = access to education
+decide on sth = decide on
+in favour of sb/sth = a consensus in favour of
+in terms of sth = in terms of
+in touch = stay in touch
+prepared to do sth = be prepared to
+run out = run out of
+run out of sth = run out of
+set sth up = set up
+tend to do sth = tend to agree
+turn sth up = turn up the volume
+// ---- B2
+account for sth = account for
+associated with sth = a stigma associated with
+bring sb up = bring up
+confidence in sb/sth = have confidence in
+contribute to sth = contribute to
+cope with sth = cope with pressure
+far from sth = far from easy
+in advance = pay in advance
+turn into sth = turn into
+// ---- C1
+all the more = all the more poignant
+bring sth up = bring up
+on behalf of sb = advocacy on behalf of

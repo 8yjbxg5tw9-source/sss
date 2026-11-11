@@ -1,0 +1,166 @@
+## Policy, evaluation and criticism | Siyasət, qiymətləndirmə və tənqid
+@ IMPLEMENT | verb, noun | ˈɪmplɪment (verb), ˈɪmplɪmənt (noun) | həyata keçirmək, tətbiq etmək; alət
+forms: implement – implements – implemented – implemented – implementing
+n: implementation = həyata keçirilmə, icra
+- implement recommendations = tövsiyələri həyata keçirmək :: recommendation = an official suggestion about the best thing to do
+- implement legislation = qanunvericiliyi tətbiq etmək :: legislation = a law or set of laws
+- implement a directive = direktivi (göstərişi) icra etmək :: directive = an official instruction
+- implement sanctions = sanksiyalar tətbiq etmək :: sanction = an official action taken against a country to force it to obey
+- implement an initiative = təşəbbüsü həyata keçirmək :: initiative = a new plan for dealing with a problem
+- implement procedures = prosedurları tətbiq etmək :: procedure = the official or correct way of doing something
+- implement guidelines = təlimatları (rəhbər prinsipləri) tətbiq etmək :: guideline = official advice about how to do something
+- oversee the implementation = icraya nəzarət etmək :: oversee = watch a process to make sure it is done correctly
+> The government has promised to implement the committee's recommendations in full. = Hökumət komitənin tövsiyələrini tam şəkildə həyata keçirməyə söz verib.
+> The new safety procedures will be implemented next month. = Yeni təhlükəsizlik prosedurları gələn ay tətbiq olunacaq.
+> A special team was set up to oversee the implementation of the reforms. = İslahatların icrasına nəzarət etmək üçün xüsusi qrup yaradıldı.
+> The plan is good in theory, but it will be difficult to implement. = Plan nəzəri cəhətdən yaxşıdır, amma onu həyata keçirmək çətin olacaq.
+! IMPLEMENT means to put a decision, plan or law into action; you decide first and implement afterwards. It is the standard formal verb with policy, plan, strategy, reform, measure and recommendation. Compare CARRY OUT (neutral), ENFORCE (make people obey a law) and EXECUTE (formal: perform a plan or order). As a noun, an IMPLEMENT is a simple tool: farming implements. The verb ends in /ment/, the noun in a weak /mənt/.
+
+@ INCENTIVE | noun | ɪnˈsentɪv | stimul, həvəsləndirici amil
+n: disincentive = həvəsdən salan amil
+v: incentivise = stimullaşdırmaq, həvəsləndirmək
+- an incentive to do sth = nəyisə etmək üçün stimul :: incentive + to-infinitive
+- ample incentive = kifayət qədər (bol) stimul :: ample = more than enough
+- a perverse incentive = əks nəticə verən (yanlış) stimul :: perverse = having an effect opposite to the one intended
+- an incentive bonus = həvəsləndirici mükafat (bonus) :: bonus = extra money added to your pay
+- a lucrative incentive = sərfəli (gəlirli) stimul :: lucrative = producing a lot of money
+- fiscal incentives = vergi güzəştləri, fiskal stimullar :: fiscal = connected with government money, especially taxes
+- incentives to recycle = təkrar emala həvəsləndirən stimullar :: recycle = treat used things so that they can be used again
+- a disincentive to = nəyəsə həvəsi azaldan amil :: disincentive TO work / TO investment
+> Low wages give people little incentive to work harder. = Aşağı maaşlar insanlara daha çox işləmək üçün az stimul verir.
+> The government offers fiscal incentives to companies that invest in poorer regions. = Hökumət yoxsul regionlara sərmayə qoyan şirkətlərə vergi güzəştləri təklif edir.
+> The tax break gives firms ample incentive to hire young people. = Vergi güzəşti şirkətlərə gəncləri işə götürmək üçün kifayət qədər stimul verir.
+> High taxes can act as a disincentive to investment. = Yüksək vergilər sərmayə qoyuluşuna həvəsi azalda bilər.
+! An INCENTIVE is something that encourages you to do something, usually a reward such as money. It is followed by TO + infinitive ("an incentive to save") or FOR ("incentives for employers"). A PERVERSE INCENTIVE is a term from economics for a reward that produces the opposite of the intended result. MOTIVATION comes from inside a person; an INCENTIVE is offered from outside. Verb: INCENTIVISE somebody TO do something.
+
+@ INHERENT | adjective | ɪnˈhɪərənt, ɪnˈherənt | xas olan, ayrılmaz, daxili
+adv: inherently = təbiətcə, mahiyyət etibarilə
+- inherent in = nəyəsə xas olan, təbiətində olan :: The preposition is IN: the risks inherent in the plan
+- an inherent contradiction = daxili ziddiyyət :: contradiction = a difference between two statements that cannot both be true
+- an inherent bias = daxili (sistemə xas) qərəz :: bias = an unfair preference for one side
+- an inherent characteristic = xas olan xüsusiyyət :: characteristic = a typical feature or quality
+- an inherent defect = daxili qüsur, istehsal qüsuru :: defect = a fault in the way something is made
+- inherently evil = təbiətcə şər (pis) :: evil = morally very bad
+- inherently superior = mahiyyətcə üstün :: superior = better than others
+- inherently subjective = mahiyyət etibarilə subyektiv :: subjective = based on personal opinions rather than facts
+> There are risks inherent in any investment. = İstənilən sərmayə qoyuluşuna xas olan risklər var.
+> There is an inherent contradiction in the government's policy. = Hökumətin siyasətində daxili ziddiyyət var.
+> No language is inherently superior to another. = Heç bir dil mahiyyətcə digərindən üstün deyil.
+> Judging art is an inherently subjective process. = İncəsənəti qiymətləndirmək mahiyyət etibarilə subyektiv prosesdir.
+! INHERENT describes a quality that is a basic, permanent part of something and cannot be removed. It usually comes before a noun (an inherent weakness) or is followed by IN (dangers inherent in the system). Compare INTRINSIC (belonging to the essential nature of a thing; often of value) and INNATE (present from birth; of people and animals). INHERENTLY is common before adjectives: inherently dangerous, inherently unstable.
+
+@ MITIGATE | verb | ˈmɪtɪɡeɪt | yumşaltmaq, azaltmaq, yüngülləşdirmək
+forms: mitigate – mitigates – mitigated – mitigated – mitigating
+n: mitigation = yumşaltma, azaldılma
+adj: unmitigated = tam, başdan-başa (mənfi mənada)
+- mitigate flooding = daşqınların təsirini azaltmaq :: flooding = large amounts of water covering an area that is usually dry
+- mitigate hazards = təhlükələri azaltmaq :: hazard = something that can be dangerous
+- mitigate the fallout = xoşagəlməz nəticələri yumşaltmaq :: fallout = the bad results of a situation
+- mitigate a penalty = cəzanı yüngülləşdirmək :: penalty = a punishment for breaking a law or rule
+- mitigate inflation = inflyasiyanın təsirini azaltmaq :: inflation = a general rise in prices
+- mitigate disruption = fəaliyyətin pozulmasını minimuma endirmək :: disruption = a situation in which something cannot continue normally
+- partially mitigate = qismən yumşaltmaq :: partially = not completely
+- in mitigation = cəzanı yüngülləşdirən hal kimi :: Legal phrase: say something in mitigation
+> Planting trees can help to mitigate flooding. = Ağac əkmək daşqınların təsirini azaltmağa kömək edə bilər.
+> Governments must act now to mitigate the effects of climate change. = Hökumətlər iqlim dəyişikliyinin təsirlərini azaltmaq üçün indi hərəkətə keçməlidirlər.
+> The extra payments only partially mitigate the rise in prices. = Əlavə ödənişlər qiymət artımını yalnız qismən yumşaldır.
+> The party was an unmitigated disaster. = Qonaqlıq başdan-başa fəlakət oldu.
+! MITIGATE means to make something less harmful, serious or painful. In climate science, MITIGATION (reducing emissions) is contrasted with ADAPTATION (adjusting to the changes). In law, MITIGATING CIRCUMSTANCES are facts that make a crime less serious. Do not confuse MITIGATE with MILITATE: "militate against" means to make something less likely. UNMITIGATED is used before negative nouns for emphasis: an unmitigated disaster.
+
+@ PREVALENT | adjective | ˈprevələnt | geniş yayılmış, hakim
+n: prevalence = yayılma dərəcəsi, geniş yayılma
+v: prevail = üstün gəlmək, hökm sürmək
+adj: prevailing = hakim, üstünlük təşkil edən
+- prevalent among = kimlərinsə arasında geniş yayılmış :: prevalent AMONG a group / IN a place
+- particularly prevalent = xüsusilə geniş yayılmış :: particularly = more than usual
+- a prevalent misconception = geniş yayılmış yanlış təsəvvür :: misconception = a belief that is not correct
+- a prevalent stereotype = geniş yayılmış stereotip :: stereotype = a fixed idea about a type of person
+- the prevalent ideology = hakim ideologiya :: ideology = a set of political beliefs
+- the prevalence of diabetes = şəkərli diabetin yayılma dərəcəsi :: diabetes = a disease in which the body cannot control blood sugar
+- prevailing norms = hakim normalar :: norm = a standard of behaviour that is typical of a group
+- justice will prevail = ədalət qalib gələcək :: justice = fair treatment according to the law
+> The disease is particularly prevalent among older people. = Bu xəstəlik xüsusilə yaşlı insanlar arasında geniş yayılıb.
+> It is a prevalent misconception that bats are blind. = Yarasaların kor olması geniş yayılmış yanlış təsəvvürdür.
+> The prevalence of diabetes has doubled in twenty years. = Şəkərli diabetin yayılma dərəcəsi iyirmi ildə iki dəfə artıb.
+> We believe that justice will prevail in the end. = İnanırıq ki, sonda ədalət qalib gələcək.
+! PREVALENT means existing or happening very commonly at a particular time or in a particular place; it is typical of medical and sociological writing ("the prevalence of obesity"). PREVAILING describes what is most common or powerful now: the prevailing view, prevailing winds. The verb PREVAIL means to win after a struggle (prevail OVER an enemy) or to be accepted ("Common sense prevailed"). COMMON and WIDESPREAD are more general synonyms.
+
+@ PROFOUND | adjective | prəˈfaʊnd | dərin, çox güclü; dərin mənalı
+adv: profoundly = dərindən, son dərəcə
+- a profound influence = dərin təsir :: influence = the power to affect how somebody thinks or behaves
+- profound implications = ciddi (uzağa gedən) nəticələr :: implication = a possible future effect of an action
+- profound grief = dərin kədər :: grief = great sadness, especially when somebody dies
+- profound gratitude = dərin minnətdarlıq :: gratitude = the feeling of being thankful
+- a profound transformation = köklü dəyişiklik :: transformation = a complete change
+- profound admiration = dərin heyranlıq :: admiration = a feeling of great respect and liking
+- profoundly deaf = tamamilə kar :: deaf = unable to hear
+- profoundly sceptical = dərin şübhə ilə yanaşan :: sceptical = having doubts that something is true
+> Her grandmother had a profound influence on her life. = Nənəsi onun həyatına dərin təsir göstərib.
+> The discovery has profound implications for medicine. = Bu kəşfin tibb üçün ciddi nəticələri var.
+> I would like to express my profound gratitude to all my colleagues. = Bütün həmkarlarıma dərin minnətdarlığımı bildirmək istərdim.
+> The country has undergone a profound transformation in the last thirty years. = Ölkə son otuz ildə köklü dəyişiklik keçirib.
+! PROFOUND is used with effects and feelings (a profound effect, profound sadness) and with ideas that show great knowledge (a profound book). DEEP is its everyday synonym, but PROFOUND is not used for physical depth: "deep water", not "profound water". PROFOUNDLY intensifies adjectives: profoundly affected, profoundly different, profoundly deaf. It is a strong, formal word; keep it for really important changes.
+
+@ SCRUTINY | noun | ˈskruːtɪni | diqqətli yoxlama, ciddi nəzarət, araşdırma
+v: scrutinise = diqqətlə yoxlamaq, incələmək
+- under scrutiny = diqqət mərkəzində, ciddi nəzarət altında :: be / come UNDER scrutiny
+- parliamentary scrutiny = parlament nəzarəti :: parliamentary = connected with a parliament
+- judicial scrutiny = məhkəmə nəzarəti :: judicial = connected with judges and courts of law
+- escape scrutiny = nəzarətdən yayınmaq :: escape = avoid something unpleasant
+- withstand scrutiny = ciddi yoxlamaya tab gətirmək :: withstand = be strong enough not to be harmed by
+- heightened scrutiny = gücləndirilmiş nəzarət :: heightened = made stronger or greater
+- international scrutiny = beynəlxalq nəzarət (diqqət) :: international = involving several countries
+- scrutinise expenditure = xərcləri diqqətlə yoxlamaq :: expenditure = the amount of money spent
+> The company's finances have come under scrutiny. = Şirkətin maliyyə vəziyyəti ciddi nəzarət altına düşüb.
+> His argument does not withstand close scrutiny. = Onun dəlili diqqətli araşdırmaya tab gətirmir.
+> The new law was passed with very little parliamentary scrutiny. = Yeni qanun parlamentdə demək olar ki, müzakirə olunmadan qəbul edildi.
+> A committee was set up to scrutinise public expenditure. = Dövlət xərclərini diqqətlə yoxlamaq üçün komitə yaradıldı.
+! SCRUTINY is careful and thorough examination, often critical. It is uncountable: "close scrutiny", "intense public scrutiny". The fixed pattern is "be / come UNDER scrutiny". Verbs: face, withstand, bear, escape, avoid scrutiny; subject something TO scrutiny. SCRUTINISE (American: scrutinize) is stronger than EXAMINE or CHECK and suggests looking for faults.
+
+@ UNDERMINE | verb | ˌʌndəˈmaɪn | sarsıtmaq, zəiflətmək, altını oymaq
+forms: undermine – undermines – undermined – undermined – undermining
+- undermine authority = nüfuzu (hakimiyyəti) sarsıtmaq :: authority = the power to give orders
+- undermine trust = etimadı sarsıtmaq :: trust = the belief that somebody is honest and reliable
+- undermine credibility = inandırıcılığı (etibarı) zədələmək :: credibility = the quality of being believed
+- undermine morale = ruh yüksəkliyini sarsıtmaq :: morale = the confidence and enthusiasm of a group
+- undermine the foundations = əsaslarını (bünövrəsini) sarsıtmaq :: foundation = the base on which something stands
+- undermine sb's self-esteem = kiminsə özünə hörmətini sarsıtmaq :: self-esteem = a feeling of being happy with your own character and abilities
+- undermine the integrity = bütövlüyünə (dürüstlüyünə) xələl gətirmək :: integrity = the state of being whole; also honesty
+- fatally undermine = sağalmaz zərbə vurmaq, tamamilə sarsıtmaq :: fatally = in a way that causes failure or death
+> The scandal has undermined public trust in the police. = Qalmaqal ictimaiyyətin polisə etimadını sarsıdıb.
+> Constant criticism can undermine a child's self-esteem. = Daimi tənqid uşağın özünə hörmətini sarsıda bilər.
+> Parents should not undermine a teacher's authority. = Valideynlər müəllimin nüfuzunu sarsıtmamalıdırlar.
+> The leak fatally undermined the minister's credibility. = Məlumat sızması nazirin etibarına sağalmaz zərbə vurdu.
+! UNDERMINE means to make something weaker or less effective gradually, often secretly. Literally it means to dig under a wall so that it falls. Its objects are abstract: confidence, authority, position, credibility, efforts, democracy. Compare WEAKEN (general), ERODE (slowly destroy over time) and SABOTAGE (damage deliberately). It is a favourite verb in argumentative essays: "This would undermine the principle of equality."
+
+@ VIABLE | adjective | ˈvaɪəbəl | həyata keçirilə bilən, yaşamaq qabiliyyəti olan, səmərəli
+n: viability = yaşamaq qabiliyyəti, məqsədəuyğunluq
+- a viable proposition = həyata keçirilə bilən (sərfəli) təklif :: proposition = an offer or plan, especially in business
+- a viable livelihood = dolanışığı təmin edən məşğuliyyət :: livelihood = the way you earn the money you need to live
+- a viable substitute = tam əvəz edə bilən vasitə :: substitute = a thing used in place of another
+- a viable enterprise = ayaqda dura bilən müəssisə :: enterprise = a company or business
+- a viable route = istifadəsi mümkün olan marşrut (yol) :: route = a way from one place to another
+- barely viable = güclə ayaqda duran :: barely = only just; almost not
+- a viable model = işlək model :: model = a system that can be copied by others
+- ensure the viability = yaşamaq qabiliyyətini təmin etmək :: ensure = make certain that something happens
+> Solar power is now a viable alternative to coal. = Günəş enerjisi artıq kömürə real alternativdir.
+> Without more customers, the shop is barely viable. = Daha çox müştəri olmasa, mağaza güclə ayaqda durur.
+> Small farms are no longer a viable livelihood for many families. = Kiçik təsərrüfatlar artıq bir çox ailənin dolanışığını təmin etmir.
+> The loan will ensure the viability of the project. = Kredit layihənin yaşamaq qabiliyyətini təmin edəcək.
+! VIABLE describes a plan, business or method that can work successfully. It often follows an adverb: commercially viable, economically viable, financially viable. Compare FEASIBLE (possible to do) – a project may be feasible but not viable if it cannot survive or make money. The most common nouns after it are ALTERNATIVE, OPTION, SOLUTION and BUSINESS. In biology, VIABLE means able to live: viable seeds.
+
+@ CONSENSUS | noun | kənˈsensəs | ümumi razılıq, yekdil rəy, konsensus
+n: consensus-building = ümumi razılığın formalaşdırılması
+- consensus on = nə barədəsə ümumi razılıq :: The preposition is ON (or ABOUT)
+- by consensus = ümumi razılıq əsasında :: decide / govern by consensus
+- a fragile consensus = kövrək razılıq :: fragile = easily broken or destroyed
+- an overwhelming consensus = böyük əksəriyyətin yekdil rəyi :: overwhelming = very great in amount
+- a cross-party consensus = partiyalararası razılıq :: cross-party = involving several political parties
+- forge a consensus = razılıq formalaşdırmaq (əldə etmək) :: forge = create something strong with effort
+- a tacit consensus = dilə gətirilməyən (səssiz) razılıq :: tacit = understood without being said
+- a consensus in favour of = nəyinsə lehinə ümumi rəy :: in favour of = supporting
+> There is a growing consensus on the need for reform. = İslahatın zəruriliyi barədə getdikcə daha çox ümumi razılıq yaranır.
+> Decisions in the committee are taken by consensus. = Komitədə qərarlar ümumi razılıq əsasında qəbul edilir.
+> There is an overwhelming consensus among scientists that the climate is changing. = Alimlərin böyük əksəriyyəti iqlimin dəyişdiyi barədə yekdil rəydədir.
+> The prime minister tried to forge a consensus between the two sides. = Baş nazir iki tərəf arasında razılıq əldə etməyə çalışdı.
+! CONSENSUS is general agreement among the members of a group. It is singular and usually takes "a" or "the": "reach a consensus", "the consensus is that ...". The spelling is conSENsus (it is not related to "census"). "Consensus of opinion" is common but is criticised as repetitive, because consensus already means agreement of opinion. Typical verbs: reach, achieve, build, forge a consensus; a consensus emerges or breaks down.

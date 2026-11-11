@@ -1,0 +1,57 @@
+// Look-alike pairs that the conservative duplicate checker would merge, but which are DIFFERENT words.
+// Every pair must be justified.  Format:  word | word  # reason
+new | news  # "news" (xəbərlər) is an independent uncountable noun, not a form of "new"
+glass | glasses  # "glasses" = eyewear (eynək), a plural-only noun; "glass" = drinking glass (stəkan)
+left | leave  # "left" = sol tərəf (direction); a different word from "left", the past form of LEAVE
+train | training  # "training" = təlim, peşə hazırlığı; "train" in A1 is the vehicle (qatar)
+right | rights  # "rights" = hüquqlar (plural noun); "right" in A2 is the direction / "correct"
+good | goods  # "goods" = mallar, a plural-only noun; not a form of the adjective "good"
+wind | wound  # "wound" = yara (noun); not "wound", the past form of the verb "wind", nor the noun "wind" (külək)
+// ---- pairs that the Oxford 3000 / 5000 list itself prints as two separate headwords
+build | building  # list: build v. (tikmək) and building n. (bina) are separate headwords
+begin | beginning  # list: begin v. (başlamaq) and beginning n. (başlanğıc) are separate headwords
+dance | dancing  # list: dance n., v. (rəqs; rəqs etmək) and dancing n. (rəqs etmə) are separate headwords
+sing | singing  # list: sing v. (oxumaq) and singing n. (mahnı oxuma) are separate headwords
+end | ending  # list: end n., v. (son; bitmək) and ending n. (sonluq) are separate headwords
+mean | meaning  # list: mean v. (demək istəmək) and meaning n. (məna) are separate headwords
+meet | meeting  # list: meet v. (görüşmək) and meeting n. (iclas, görüş) are separate headwords
+shop | shopping  # list: shop n., v. (mağaza) and shopping n. (alış-veriş) are separate headwords
+swim | swimming  # list: swim v. (üzmək) and swimming n. (üzgüçülük) are separate headwords
+thank | thanks  # list: thank v. (təşəkkür etmək) and thanks exclam., n. (sağ ol) are separate headwords
+dress | dressed  # list: dress n., v. (don; geyinmək) and dressed adj. (geyinmiş) are separate headwords
+born | bear  # list: born v. (be born – doğulmaq) is a headword of its own; "bear" in C1 = dözmək, daşımaq
+bored | boring  # list: bored adj. (darıxmış) and boring adj. (darıxdırıcı) are separate headwords
+excited | exciting  # list: excited adj. (həyəcanlı) and exciting adj. (həyəcanlandıran) are separate headwords
+// ---- A2 words of the list
+advertise | advertising  # list: advertise v. and advertising n. (reklam işi) are separate headwords
+clothing | clothes  # list: clothes n. (paltar) and clothing n. (geyim, rəsmi) are separate headwords
+drive | driving  # list: drive v. and driving n. (sürücülük) are separate headwords
+fish | fishing  # list: fish n. and fishing n. (balıq ovu) are separate headwords
+park | parking  # list: park n., v. and parking n. (dayanacaq, park etmə) are separate headwords
+record | recording  # list: record n., v. and recording n. (səsyazma) are separate headwords
+smoke | smoking  # list: smoke n., v. (tüstü; siqaret çəkmək) and smoking n. (siqaret çəkmə) are separate headwords
+understand | understanding  # list: understand v. and understanding n. (anlayış) are separate headwords
+wash | washing  # list: wash v. and washing n. (paltar yuma; yuyulacaq paltar) are separate headwords
+close | closed  # list: close v., adj. and closed adj. (bağlı) are separate headwords
+crowd | crowded  # list: crowd n. and crowded adj. (adamla dolu) are separate headwords
+divorce | divorced  # list: divorce n., v. and divorced adj. (boşanmış) are separate headwords
+follow | following  # list: follow v. and following adj. (növbəti, aşağıdakı) are separate headwords
+include | included  # list: include v. and included adj. (daxil edilmiş) are separate headwords
+include | including  # list: include v. and including prep. (o cümlədən) are separate headwords
+included | including  # list: included adj. and including prep. are separate headwords
+scar | scared  # false look-alike: scared adj. (qorxmuş) is not a form of scar (çapıq)
+surprise | surprised  # list: surprise n., v. and surprised adj. (təəccüblənmiş) are separate headwords
+surprise | surprising  # list: surprise n., v. and surprising adj. (təəccüblü) are separate headwords
+surprised | surprising  # list: surprised adj. and surprising adj. are separate headwords
+feed | fee  # false look-alike: feed v. (yedizdirmək) is not a form of fee (haqq, ödəniş)
+hide | hidden  # list: hide v. and hidden adj. (gizli) are separate headwords
+lead | leading  # list: lead v., n. and leading adj. (aparıcı) are separate headwords
+marry | married  # list: marry v. and married adj. (evli) are separate headwords
+use | used  # list: use v., n. and used to modal v. / used adj. are separate headwords
+exist | existing  # existing adj. (mövcud olan; only before a noun) has its own dictionary entry
+suppose | supposed  # supposed adj. (guya, ehtimal edilən; only before a noun) has its own dictionary entry
+ring | ringing  # ringing adj. (uca, gur) has its own dictionary entry; ring n., v. = üzük; zəng çalmaq
+camp | camping  # list: camp n., v. and camping n. (çadırda istirahət) are separate headwords
+ski | skiing  # list: ski v., adj., n. and skiing n. (xizək idmanı) are separate headwords
+sail | sailing  # list: sail v., n. and sailing n. (yelkənli idman) are separate headwords
+unit | united  # false look-alike: united adj. (birləşmiş) is not a form of unit (vahid, bölmə)

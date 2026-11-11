@@ -1,0 +1,155 @@
+## Environment, problems and solutions | Ətraf mühit, problemlər və həll yolları
+@ ENVIRONMENT | noun | ɪnˈvaɪrənmənt | ətraf mühit; mühit, şərait
+n: environmentalist = ekoloq, ətraf mühit müdafiəçisi
+adj: environmental = ətraf mühitlə bağlı, ekoloji
+adv: environmentally = ekoloji baxımdan
+- environmental pollution = ətraf mühitin çirklənməsi :: pollution = damage to air, water or land by harmful substances
+- the urban environment = şəhər mühiti :: urban = of towns and cities
+- environmental awareness = ekoloji şüur, ətraf mühit haqqında maariflilik :: awareness = knowing that something exists and is important
+- preserve the environment = ətraf mühiti qoruyub saxlamaq :: preserve = keep in its original state
+- a stable environment = sabit mühit :: stable = not likely to change; here "environment" = conditions
+- an environmental disaster = ekoloji fəlakət :: disaster = an event causing great damage
+- the global environment = qlobal ətraf mühit :: global = of the whole world
+- destroy the environment = ətraf mühiti məhv etmək :: destroy = damage so badly that it no longer exists
+> We must do more to preserve the environment. = Ətraf mühiti qoruyub saxlamaq üçün daha çox iş görməliyik.
+> Environmental pollution is a danger to our health. = Ətraf mühitin çirklənməsi sağlamlığımız üçün təhlükədir.
+> The oil spill was an environmental disaster. = Neft dağılması ekoloji fəlakət idi.
+> Children need a stable environment at home. = Uşaqların evdə sabit mühitə ehtiyacı var.
+! With "the", THE ENVIRONMENT means the natural world: air, water, land, plants and animals. With "a/an" and an adjective it means the conditions around a person: a working environment, a learning environment. Watch the spelling: enviroNment. "Environmentally friendly" describes products that do not harm nature. This word family is essential for IELTS Writing Task 2.
+
+@ PROTECT | verb | prəˈtekt | qorumaq, mühafizə etmək, müdafiə etmək
+forms: protect – protects – protected – protected – protecting
+n: protection = qoruma, müdafiə, mühafizə
+adj: protective = qoruyucu, himayə edən
+- protect wildlife = vəhşi təbiəti qorumaq :: wildlife = animals and plants living in natural conditions
+- protect your skin = dərini qorumaq :: skin = the outer covering of the body
+- protect against = nədənsə qorumaq :: protect (sb/sth) AGAINST / FROM + danger
+- protect the planet = planeti qorumaq :: planet = here: the Earth
+- protect forests = meşələri qorumaq :: forest = a large area of trees
+- protect your rights = hüquqlarını qorumaq :: rights = things the law allows you to have or do
+- data protection = məlumatların qorunması :: data = information, especially stored on computers
+- protective gloves = qoruyucu əlcəklər :: glove = a covering for the hand
+> Sun cream protects your skin against the sun. = Günəş kremi dərinizi günəşdən qoruyur.
+> New laws are needed to protect wildlife. = Vəhşi təbiəti qorumaq üçün yeni qanunlar lazımdır.
+> Workers must wear protective gloves. = İşçilər qoruyucu əlcək geyinməlidirlər.
+> What can each of us do to protect the planet? = Planeti qorumaq üçün hər birimiz nə edə bilərik?
+! PROTECT is used with FROM or AGAINST: "protect children from harm", "protect the skin against the sun". PROTECT means to keep safe from possible harm; DEFEND means to act against an attack that is happening; GUARD means to watch a place or person; PRESERVE means to keep something as it is. The adjective PROTECTIVE describes both equipment (protective clothing) and caring behaviour (protective parents).
+
+@ INCREASE | verb, noun | ɪnˈkriːs (verb), ˈɪnkriːs (noun) | artmaq, artırmaq; artım
+forms: increase – increases – increased – increased – increasing
+adv: increasingly = getdikcə daha çox
+- a sharp increase = kəskin artım :: sharp = sudden and large
+- increase sales = satışları artırmaq :: sales = the number of items sold
+- increase the risk = riski artırmaq :: risk = the possibility of something bad happening
+- a steady increase = sabit (davamlı) artım :: steady = continuing gradually without sudden changes
+- increase the amount = miqdarı artırmaq :: amount = a quantity (with uncountable nouns)
+- increase by ten per cent = on faiz artmaq :: increase BY + the size of the change; per cent = %
+- increase production = istehsalı artırmaq :: production = the process of making goods
+- increase your income = gəlirini artırmaq :: income = money that you earn or receive
+> Prices have increased by ten per cent this year. = Bu il qiymətlər on faiz artıb.
+> Smoking increases the risk of heart disease. = Siqaret çəkmək ürək xəstəliyi riskini artırır.
+> There has been a sharp increase in the number of tourists. = Turistlərin sayında kəskin artım olub.
+> The company plans to increase production next year. = Şirkət gələn il istehsalı artırmağı planlaşdırır.
+! The stress moves: the verb is inCREASE, the noun is INcrease. The verb is both transitive (increase prices) and intransitive (Prices increased). Prepositions: an increase IN something (not "of"), increase BY 10 per cent (the difference), increase TO 50 (the final figure). This is core language for IELTS Writing Task 1; the opposite is DECREASE. INCREASINGLY means "more and more": increasingly popular.
+
+@ REDUCE | verb | rɪˈdjuːs | azaltmaq, endirmək
+forms: reduce – reduces – reduced – reduced – reducing
+n: reduction = azalma, azaldılma, endirim
+- reduce waste = tullantıları azaltmaq; israfı azaltmaq :: waste = unwanted material; using more than is needed
+- reduce speed = sürəti azaltmaq :: speed = how fast something moves
+- reduce emissions = (zərərli qaz) tullantılarını azaltmaq :: emissions = gases sent into the air
+- reduce poverty = yoxsulluğu azaltmaq :: poverty = the state of being poor
+- reduce crime = cinayətkarlığı azaltmaq :: crime = illegal activities in general
+- reduce by half = yarıbayarı azaltmaq :: reduce BY + amount; half = 50 per cent
+- reduce traffic = nəqliyyat sıxlığını azaltmaq :: traffic = the vehicles on the roads
+- reduce debt = borcu azaltmaq :: debt /det/ – the "b" is silent
+> We need to reduce the amount of plastic waste. = Plastik tullantıların miqdarını azaltmalıyıq.
+> Please reduce your speed near the school. = Zəhmət olmasa, məktəbin yaxınlığında sürəti azaldın.
+> The new road will reduce traffic in the city centre. = Yeni yol şəhərin mərkəzində nəqliyyat sıxlığını azaldacaq.
+> The government promised to reduce poverty. = Hökumət yoxsulluğu azaltmağa söz verdi.
+! REDUCE is normally transitive: somebody reduces something. When nothing causes the change, use an intransitive verb such as FALL, DROP or DECREASE: "Prices fell" (not "Prices reduced"). Patterns: reduce something BY 20 per cent; reduce something FROM 100 TO 80. The noun REDUCTION takes IN: "a reduction in crime". In shops, "reduced" means cheaper than before.
+
+@ PROVIDE | verb | prəˈvaɪd | təmin etmək, vermək, təqdim etmək
+forms: provide – provides – provided – provided – providing
+n: provider = təminatçı, xidmət göstərən; provision = təminat, təchizat
+- provide shelter = sığınacaq vermək :: shelter = a place giving protection from weather or danger
+- provide for = (ailəni) dolandırmaq, ehtiyaclarını təmin etmək :: provide FOR a family = give them what they need to live
+- provide assistance = yardım göstərmək :: assistance = help (formal)
+- provided that = bir şərtlə ki :: Conjunction = only if; also "providing (that)"
+- provide feedback = rəy bildirmək, əks-əlaqə vermək :: feedback = comments on how good something is; uncountable
+- provide facilities = şərait (imkanlar, obyektlər) yaratmaq :: facilities = buildings, services or equipment for a purpose
+- provide security = təhlükəsizliyi təmin etmək :: security = protection against danger or crime
+- provide proof = sübut təqdim etmək :: proof = facts showing that something is true
+> The organisation provides shelter for homeless people. = Təşkilat evsiz insanlara sığınacaq verir.
+> He works hard to provide for his family. = O, ailəsini dolandırmaq üçün çox işləyir.
+> You can borrow the car, provided that you bring it back today. = Maşını götürə bilərsən, bir şərtlə ki, bu gün qaytarasan.
+> Teachers should provide feedback on students' work. = Müəllimlər tələbələrin işləri haqqında rəy bildirməlidirlər.
+! Two patterns with the same meaning: provide somebody WITH something ("The school provides students with books") and provide something FOR somebody ("The school provides books for students"). Not: "provide students books". PROVIDE is more formal than GIVE and is typical of reports and essays. PROVIDED THAT introduces a condition and is slightly more formal than "if".
+
+@ SUPPORT | verb, noun | səˈpɔːt | dəstəkləmək, kömək etmək; dəstək; (ailəni) dolandırmaq
+forms: support – supports – supported – supported – supporting
+n: supporter = tərəfdar, azarkeş
+adj: supportive = dəstək olan, arxa duran
+- financial support = maliyyə dəstəyi :: financial = connected with money
+- emotional support = mənəvi-psixoloji dəstək :: emotional = connected with feelings
+- support a claim = iddianı əsaslandırmaq (təsdiqləmək) :: claim = a statement that something is true
+- moral support = mənəvi dəstək :: moral = giving encouragement rather than practical help
+- support a charity = xeyriyyə təşkilatına dəstək olmaq :: charity = an organisation that helps people in need
+- in support of = nəyinsə lehinə, dəstək olaraq :: Fixed phrase: speak in support of a plan
+- support the government = hökuməti dəstəkləmək :: government = the group of people who rule a country
+- a loyal supporter = sadiq tərəfdar :: loyal = always supporting somebody
+> My parents gave me a lot of emotional support. = Valideynlərim mənə böyük mənəvi dəstək oldular.
+> Many students need financial support. = Bir çox tələbənin maliyyə dəstəyinə ehtiyacı var.
+> There is no evidence to support this claim. = Bu iddianı təsdiqləyən heç bir sübut yoxdur.
+> Which team do you support? = Sən hansı komandanın azarkeşisən?
+! SUPPORT covers several Azerbaijani verbs: dəstəkləmək (support a plan), azarkeşlik etmək (support a team, British English), dolandırmaq (support a family) and əsaslandırmaq (support an argument with facts). The noun is uncountable: "a lot of support", not "a support". In essays, "support your opinion with examples" is a key instruction. SUPPORTIVE describes people who give help and encouragement.
+
+@ SOLVE | verb | sɒlv | həll etmək, (sirri) açmaq
+forms: solve – solves – solved – solved – solving
+n: solution = həll, həll yolu, həmçinin məhlul
+- solve a puzzle = tapmacanı (başsındıranı) həll etmək :: puzzle = a game or problem that tests your thinking
+- solve a mystery = sirri açmaq, müəmmanı çözmək :: mystery = something that is difficult to explain
+- solve a crisis = böhranı həll etmək :: crisis = a time of great difficulty; plural: crises
+- an effective solution = səmərəli həll yolu :: effective = producing the result that is wanted
+- a peaceful solution = sülh yolu ilə həll :: peaceful = without violence
+- solve a conflict = münaqişəni həll etmək :: conflict = a serious disagreement or fight
+- an ideal solution = ideal həll yolu :: ideal = the best possible
+- an obvious solution = göz qabağında olan həll yolu :: obvious = easy to see or understand
+> Nobody has been able to solve the mystery. = Heç kim bu sirri aça bilməyib.
+> We need to find an effective solution to this problem. = Bu problemin səmərəli həll yolunu tapmalıyıq.
+> Both sides want a peaceful solution to the conflict. = Hər iki tərəf münaqişənin sülh yolu ilə həllini istəyir.
+> There is no obvious solution. = Göz qabağında olan bir həll yolu yoxdur.
+! You SOLVE a problem, a puzzle, a mystery or a crime, but you ANSWER a question and you RESOLVE a dispute (resolve is more formal). The noun SOLUTION takes TO: "a solution TO the problem" (not "of"). Common verbs with solution: find, offer, propose, come up with. In chemistry, a SOLUTION is a liquid in which something is dissolved.
+
+@ AVOID | verb | əˈvɔɪd | çəkinmək, uzaq durmaq, yayınmaq; yol verməmək
+forms: avoid – avoids – avoided – avoided – avoiding
+adj: avoidable = qarşısı alına bilən; unavoidable = qaçılmaz
+- avoid doing sth = nəyisə etməkdən çəkinmək :: avoid + -ing (never "avoid to do")
+- avoid an accident = qəzadan yayınmaq :: accident = a sudden event causing damage or injury
+- avoid danger = təhlükədən uzaq durmaq :: danger = the possibility of harm
+- avoid contact = təmasdan qaçmaq :: avoid contact WITH + person / thing
+- avoid confusion = dolaşıqlığa (anlaşılmazlığa) yol verməmək :: confusion = not being clear
+- avoid the crowds = izdihamdan uzaq durmaq :: crowd = a large number of people together
+- avoid trouble = bəladan (problemdən) uzaq durmaq :: trouble is uncountable here
+- avoid alcohol = spirtli içkilərdən çəkinmək :: alcohol = drinks such as beer and wine
+> You should avoid eating late at night. = Gecə gec yemək yeməkdən çəkinməlisən.
+> The driver braked to avoid an accident. = Sürücü qəzadan yayınmaq üçün əyləci basdı.
+> We left early to avoid the crowds. = İzdihamdan uzaq olmaq üçün tez çıxdıq.
+> To avoid confusion, please write clearly. = Anlaşılmazlıq olmasın deyə, zəhmət olmasa, aydın yazın.
+! AVOID is followed by a noun or by the -ing form: "avoid sugar", "avoid making mistakes". The infinitive is wrong: not "avoid to make". AVOID means to keep away from something; PREVENT means to stop something from happening at all (prevent an accident, prevent somebody from doing something). UNAVOIDABLE describes things that cannot be prevented: an unavoidable delay.
+
+@ CAUSE | noun, verb | kɔːz | səbəb; səbəb olmaq, törətmək
+forms: cause – causes – caused – caused – causing
+- cause pain = ağrı vermək, əzab vermək :: pain = the feeling when part of your body hurts
+- cause concern = narahatlıq doğurmaq :: concern = worry (more formal)
+- cause of death = ölüm səbəbi :: death = the end of life
+- cause and effect = səbəb və nəticə :: effect = a change produced by a cause
+- the root cause = əsas (kök) səbəb :: root = the origin of a problem
+- cause a disease = xəstəlik törətmək :: disease = an illness with a specific name
+- cause an injury = xəsarət yetirmək :: injury = physical harm to the body
+- cause chaos = xaos yaratmaq, hərc-mərcliyə səbəb olmaq :: chaos /ˈkeɪɒs/ = complete disorder
+> The heavy snow caused chaos on the roads. = Güclü qar yollarda xaos yaratdı.
+> The news caused great concern among parents. = Bu xəbər valideynlər arasında böyük narahatlıq doğurdu.
+> Police are still trying to find the cause of the fire. = Polis hələ də yanğının səbəbini araşdırır.
+> Poverty is the root cause of many social problems. = Yoxsulluq bir çox sosial problemin kök səbəbidir.
+! As a verb, CAUSE usually has a negative object: cause damage, problems, pain, an accident. For good results, use "bring about", "lead to" or "result in". Patterns: cause something; cause somebody something ("cause him pain"); cause somebody TO do something. As a noun, note the prepositions: the cause OF a problem, but a reason FOR something. CAUSE is what makes something happen; REASON is the explanation given.

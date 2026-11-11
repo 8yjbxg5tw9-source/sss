@@ -1,0 +1,168 @@
+## Feasibility, resilience and inequality | Mümkünlük, dayanıqlılıq və bərabərsizlik
+@ FEASIBLE | adjective | ˈfiːzəbəl | mümkün, həyata keçirilə bilən
+n: feasibility = mümkünlük, həyata keçirilmə imkanı
+adj: unfeasible = mümkün olmayan, qeyri-real
+- it is feasible to = nəyisə etmək mümkündür :: Impersonal pattern + infinitive
+- a feasible timetable = real (icrası mümkün) qrafik :: timetable = a plan of when things will happen
+- render sth feasible = nəyisə mümkün etmək :: render = cause something to be in a particular state (formal)
+- a feasible compromise = mümkün kompromis :: compromise = an agreement in which each side gives up something
+- entirely feasible = tamamilə mümkün :: entirely = completely
+- a feasible remedy = mümkün çarə :: remedy = a way of dealing with a problem
+- explore the feasibility = mümkünlüyünü araşdırmaq :: explore = examine carefully to find out more
+- demonstrate the feasibility = mümkünlüyünü sübut etmək (nümayiş etdirmək) :: demonstrate = show clearly by giving proof
+> It is not feasible to finish the work by Friday. = İşi cümə gününə qədər bitirmək mümkün deyil.
+> New technology has rendered the project feasible. = Yeni texnologiya layihəni mümkün edib.
+> The council is exploring the feasibility of building a new bridge. = Bələdiyyə yeni körpü tikməyin mümkünlüyünü araşdırır.
+> We need a plan with a feasible timetable. = Bizə icrası mümkün qrafiki olan plan lazımdır.
+! FEASIBLE means possible and practical to do, given the time, money and technology available. A FEASIBILITY STUDY examines whether a project is worth starting. Adverbs: technically feasible, economically feasible, perfectly feasible. Compare POSSIBLE (can happen), FEASIBLE (can be done in practice), VIABLE (can succeed and survive) and PLAUSIBLE (can be believed). The negative forms are "not feasible", UNFEASIBLE and INFEASIBLE.
+
+@ FOSTER | verb, adjective | ˈfɒstə | inkişafına kömək etmək, təşviq etmək; himayəyə götürmək
+forms: foster – fosters – fostered – fostered – fostering
+- foster creativity = yaradıcılığı inkişaf etdirmək :: creativity = the ability to produce new and original ideas
+- foster a spirit of = ... ruhunu aşılamaq :: spirit = a particular attitude or feeling
+- foster goodwill = xoş münasibət yaratmaq :: goodwill = friendly feelings towards other people
+- foster curiosity = bilmək həvəsini inkişaf etdirmək :: curiosity = a strong desire to know about things
+- foster unity = birliyi möhkəmləndirmək :: unity = the state of being joined together and in agreement
+- foster harmony = harmoniyanı (həmahəngliyi) təşviq etmək :: harmony = a state of peaceful agreement
+- foster resentment = kin-küdurət yaratmaq :: resentment = a feeling of anger about something unfair
+- foster inclusion = inklüzivliyi (hər kəsin cəlb olunmasını) təşviq etmək :: inclusion = making sure that everyone is able to take part
+> Good schools foster creativity as well as knowledge. = Yaxşı məktəblər biliklə yanaşı yaradıcılığı da inkişaf etdirir.
+> The club aims to foster a spirit of cooperation among young people. = Klub gənclər arasında əməkdaşlıq ruhunu aşılamağı qarşısına məqsəd qoyub.
+> Such unfair treatment only fosters resentment. = Belə ədalətsiz rəftar yalnız kin-küdurət yaradır.
+> They have fostered several children over the years. = Onlar bu illər ərzində bir neçə uşağı himayəyə götürüblər.
+! FOSTER means to encourage something good to develop over time: foster understanding, foster relations, foster a sense of community. It can also be used of negative feelings (foster resentment). Its second meaning is to take another person's child into your home for a period without becoming the legal parent – compare ADOPT, which is permanent. As an adjective: foster parents, a foster child, foster care. Synonyms: PROMOTE, ENCOURAGE, NURTURE, CULTIVATE.
+
+@ HINDER | verb | ˈhɪndə | mane olmaq, əngəl törətmək
+forms: hinder – hinders – hindered – hindered – hindering
+n: hindrance = maneə, əngəl
+- hinder an investigation = istintaqa (araşdırmaya) mane olmaq :: investigation = an official examination of the facts
+- hinder mobility = hərəkət imkanını məhdudlaşdırmaq :: mobility = the ability to move easily
+- hinder the search = axtarışa mane olmaq :: search = an attempt to find somebody or something
+- hinder sb from doing sth = kiminsə nəyisə etməsinə mane olmaq :: Pattern: hinder + object + FROM + -ing
+- hinder productivity = məhsuldarlığı aşağı salmaq :: productivity = the rate at which goods are produced
+- hinder the delivery = çatdırılmasına mane olmaq :: delivery = taking goods or services to people
+- hinder visibility = görmə məsafəsini məhdudlaşdırmaq :: visibility = how far you can see
+- without hindrance = maneəsiz :: Formal: move / travel without hindrance
+> Heavy snow hindered the search for the missing climbers. = Güclü qar itkin düşmüş alpinistlərin axtarışına mane oldu.
+> Lack of sleep can seriously hinder productivity. = Yuxusuzluq məhsuldarlığı ciddi şəkildə aşağı sala bilər.
+> Fog hindered visibility on the motorway. = Duman avtomagistralda görmə məsafəsini məhdudlaşdırdı.
+> High costs hinder many young people from starting a business. = Yüksək xərclər bir çox gəncin biznes qurmasına mane olur.
+! HINDER means to make it difficult for something to happen or for somebody to do something; unlike PREVENT, it does not stop it completely. Patterns: hinder something; hinder somebody FROM doing something. The noun HINDRANCE loses the "e": hinder – hindrance. "More of a hindrance than a help" is a common phrase. Synonyms: HAMPER, IMPEDE (formal), OBSTRUCT (block deliberately). Opposites: HELP, FACILITATE.
+
+@ PLAUSIBLE | adjective | ˈplɔːzəbəl | ağlabatan, inandırıcı
+n: plausibility = ağlabatanlıq, inandırıcılıq
+adj: implausible = ağlabatmayan, inandırıcı olmayan
+adv: plausibly = ağlabatan şəkildə
+- a plausible excuse = ağlabatan bəhanə :: excuse = a reason that you give to explain bad behaviour
+- a plausible scenario = mümkün (ağlabatan) ssenari :: scenario = a description of how things might happen
+- a plausible hypothesis = ağlabatan fərziyyə :: hypothesis = an idea that has not yet been proved
+- a plausible interpretation = ağlabatan şərh (yozum) :: interpretation = the particular way in which something is understood
+- seem plausible = ağlabatan görünmək :: seem = give the impression of being
+- a plausible pretext = inandırıcı bəhanə :: pretext = a false reason given to hide the real one
+- superficially plausible = zahirən ağlabatan :: superficially = only on the surface
+- an implausible coincidence = inanılmaz təsadüf :: coincidence = two things happening at the same time by chance
+> She could not think of a plausible excuse for being late. = O, gecikməsi üçün ağlabatan bəhanə fikirləşə bilmədi.
+> The explanation seems plausible, but there is no evidence for it. = İzah ağlabatan görünür, amma onu təsdiq edən sübut yoxdur.
+> Scientists have put forward several plausible hypotheses. = Alimlər bir neçə ağlabatan fərziyyə irəli sürüblər.
+> The plot of the film depends on a rather implausible coincidence. = Filmin süjeti olduqca inanılmaz bir təsadüf üzərində qurulub.
+! PLAUSIBLE describes an explanation or statement that seems reasonable and likely to be true, although it has not been proved. It can also describe a person who is good at sounding honest when they may not be: "a plausible liar". Do not confuse PLAUSIBLE (believable) with POSSIBLE (can happen) or FEASIBLE (can be done). The opposite is IMPLAUSIBLE. A useful hedge for essays: "It is plausible that ...".
+
+@ RESILIENT | adjective | rɪˈzɪliənt | dayanıqlı, tez özünə gələn, möhkəm
+n: resilience = dayanıqlılıq, çətinlikdən sonra bərpa olunma qabiliyyəti
+adj: climate-resilient = iqlim dəyişikliyinə davamlı
+- remarkably resilient = heyrətamiz dərəcədə dayanıqlı :: remarkably = in a way that is unusual and surprising
+- resilient to setbacks = uğursuzluqlara qarşı dayanıqlı :: setback = a problem that delays progress
+- resilience in adversity = çətin günlərdə dayanıqlılıq :: adversity = a difficult or unpleasant situation
+- resilient to drought = quraqlığa davamlı :: drought = a long period without rain
+- climate-resilient crops = iqlim dəyişikliyinə davamlı bitkilər (əkinlər) :: crop = a plant grown in large quantities for food
+- psychological resilience = psixoloji dayanıqlılıq :: psychological = connected with the mind
+- enhance resilience = dayanıqlılığı artırmaq :: enhance = improve the quality or strength of
+- inner resilience = daxili dayanıqlılıq (mətanət) :: inner = private and inside your mind
+> Children are often remarkably resilient. = Uşaqlar çox vaxt heyrətamiz dərəcədə dayanıqlı olurlar.
+> The economy has proved resilient to external shocks. = İqtisadiyyat xarici sarsıntılara qarşı dayanıqlı olduğunu göstərdi.
+> Farmers are being encouraged to plant climate-resilient crops. = Fermerlər iqlim dəyişikliyinə davamlı bitkilər əkməyə təşviq olunurlar.
+> Sport can enhance young people's psychological resilience. = İdman gənclərin psixoloji dayanıqlılığını artıra bilər.
+! RESILIENT describes people, economies and systems that can recover quickly after difficulties. RESILIENCE has become a key word in psychology, economics and climate policy. Patterns: resilient TO shocks; resilience IN THE FACE OF difficulties. Compare TOUGH (strong enough to deal with hard conditions), ROBUST (strong and unlikely to fail) and DURABLE (lasting a long time; of products). Of materials, resilient means returning to the original shape after being bent.
+
+@ RIGOROUS | adjective | ˈrɪɡərəs | ciddi, dəqiq, hərtərəfli; sərt
+n: rigour = ciddilik, dəqiqlik, həmçinin (cəmdə) çətinliklər
+adv: rigorously = ciddi şəkildə, dəqiqliklə
+- rigorous selection = ciddi seçim :: selection = the process of choosing
+- rigorous enforcement = (qaydaların) ciddi icrası :: enforcement = making sure that a law is obeyed
+- a rigorous inspection = ciddi yoxlama :: inspection = an official visit to check that rules are being obeyed
+- a rigorous evaluation = hərtərəfli qiymətləndirmə :: evaluation = a careful judgement about how good something is
+- rigorous methodology = dəqiq metodologiya :: methodology = the set of methods used in a study
+- intellectually rigorous = intellektual cəhətdən ciddi :: intellectually = in a way connected with thinking and reasoning
+- rigorously monitored = ciddi nəzarətdə saxlanılan :: monitor = watch and check over a period of time
+- the rigours of = nəyinsə çətinlikləri (sərtliyi) :: Plural noun: the rigours of winter / of army life
+> All new drugs undergo rigorous testing before they are sold. = Bütün yeni dərmanlar satışa çıxarılmazdan əvvəl ciddi sınaqdan keçir.
+> The study was praised for its rigorous methodology. = Tədqiqat dəqiq metodologiyasına görə təriflənib.
+> Air quality in the city is rigorously monitored. = Şəhərdə havanın keyfiyyəti ciddi nəzarətdə saxlanılır.
+> Few plants can survive the rigours of a mountain winter. = Dağ qışının sərtliyinə az bitki tab gətirə bilir.
+! RIGOROUS describes work that is careful, thorough and exact (rigorous analysis, rigorous testing) or rules that are strictly applied (rigorous standards). British English spells the noun RIGOUR but the adjective RIGOROUS, without the second "u"; American English writes "rigor". Compare THOROUGH (complete, with attention to detail) and STRICT (demanding that rules are obeyed). "Academic rigour" is a quality expected of university work.
+
+@ STIGMA | noun | ˈstɪɡmə | damğa, ictimai qınaq, ləkə
+v: stigmatise = damğalamaq, qınaq obyektinə çevirmək
+- the stigma of divorce = boşanmanın ictimai qınağı :: divorce = the legal ending of a marriage
+- a stigma associated with = nə iləsə bağlı damğa (qınaq) :: associated with = connected with
+- the stigma of addiction = asılılığın damğası :: addiction = being unable to stop taking or doing something harmful
+- the stigma of disability = əlilliyin damğası :: disability = a physical or mental condition that limits activity
+- combat stigma = damğalanma ilə mübarizə aparmaq :: combat = try to stop something harmful
+- stigma and shame = damğa və utanc :: shame = the painful feeling of having done something wrong
+- stigma and prejudice = damğa və qərəzli münasibət :: prejudice = an unfair dislike of a group of people
+- be stigmatised as = ... kimi damğalanmaq :: Passive pattern + AS
+> There is still a stigma associated with mental illness. = Psixi xəstəliklə bağlı damğa hələ də qalmaqdadır.
+> The campaign aims to combat stigma and prejudice. = Kampaniyanın məqsədi damğalanma və qərəzli münasibətlə mübarizə aparmaqdır.
+> In the past, the stigma of divorce was much greater. = Keçmişdə boşanmanın ictimai qınağı daha güclü idi.
+> Children from poor families should not be stigmatised as failures. = Yoxsul ailələrdən olan uşaqlar uğursuz kimi damğalanmamalıdırlar.
+! STIGMA is the negative feeling that society has about a particular condition or behaviour, such as mental illness, unemployment or poverty. It is usually uncountable or singular: "a stigma attached to ...", "the stigma of ...". Typical verbs: carry a stigma, remove / reduce / overcome the stigma. STIGMATISE (American: stigmatize) is mostly passive. The word is valuable for IELTS topics on health and social issues.
+
+@ DISPARITY | noun | dɪˈspærəti | (ədalətsiz) fərq, qeyri-bərabərlik, uyğunsuzluq
+forms: disparity – disparities
+- disparity between = ... arasındakı fərq :: disparity BETWEEN two groups; disparity IN income
+- a glaring disparity = göz qabağında olan kəskin fərq :: glaring = very easily seen; said of something bad
+- regional disparities = regionlar arasındakı fərqlər :: regional = connected with a particular part of a country
+- gender disparity = gender qeyri-bərabərliyi :: gender = the fact of being male or female
+- wage disparity = əməkhaqqı fərqi :: wage = money paid for work, usually weekly or by the hour
+- disparities persist = fərqlər qalmaqda davam edir :: persist = continue to exist
+- narrow the disparity = fərqi azaltmaq :: narrow = make smaller
+- a stark disparity = kəskin fərq :: stark = very obvious and unpleasant
+> There is a glaring disparity between the rich and the poor in the city. = Şəhərdə varlılarla yoxsullar arasında göz qabağında olan kəskin fərq var.
+> The government wants to reduce regional disparities in income. = Hökumət gəlirlərdə regionlar arasındakı fərqləri azaltmaq istəyir.
+> Wage disparity between men and women has narrowed, but it has not disappeared. = Kişilərlə qadınlar arasında əməkhaqqı fərqi azalıb, amma aradan qalxmayıb.
+> Despite the reforms, serious disparities persist. = İslahatlara baxmayaraq, ciddi fərqlər qalmaqda davam edir.
+! A DISPARITY is a difference, especially one that is unfair: a disparity BETWEEN groups, a disparity IN pay, health or opportunity. It is stronger and more formal than DIFFERENCE and close to INEQUALITY and GAP. Useful collocations for IELTS Task 2: "the growing disparity between rich and poor", "address regional disparities". Do not confuse it with DISCREPANCY, a difference between two things that should be the same (figures, accounts, statements).
+
+@ DETRIMENTAL | adjective | ˌdetrɪˈmentəl | zərərli, ziyanlı
+n: detriment = zərər, ziyan
+- detrimental to = nəyəsə zərərli :: The preposition is TO
+- detrimental to welfare = rifaha zərərli :: welfare = the general health, happiness and safety of people
+- detrimental to biodiversity = biomüxtəlifliyə zərərli :: biodiversity = the variety of plants and animals in an area
+- detrimental to the ecosystem = ekosistemə zərərli :: ecosystem = all the living things in an area and their environment
+- mutually detrimental = hər iki tərəf üçün zərərli :: mutually = felt or done equally by both sides
+- detrimental to concentration = diqqətin cəmlənməsinə mane olan :: concentration = the ability to give all your attention to one thing
+- to the detriment of = nəyinsə zərərinə :: Formal fixed phrase
+- without detriment to = nəyəsə xələl gətirmədən :: Formal fixed phrase
+> Too much screen time can be detrimental to children's health. = Ekran qarşısında həddindən artıq vaxt keçirmək uşaqların sağlamlığına zərərli ola bilər.
+> The use of pesticides is detrimental to biodiversity. = Pestisidlərdən istifadə biomüxtəlifliyə zərərlidir.
+> He worked long hours, to the detriment of his family life. = O, ailə həyatının zərərinə uzun saatlar işləyirdi.
+> Constant noise is detrimental to concentration. = Daimi səs-küy diqqətin cəmlənməsinə mane olur.
+! DETRIMENTAL is a formal synonym of HARMFUL and DAMAGING. It is almost always followed by TO: "detrimental to health", or used before EFFECT or IMPACT: "a detrimental effect on the environment". The noun appears mainly in two fixed phrases: "to the detriment of" (resulting in harm to) and "without detriment to". The opposite is BENEFICIAL. It is an excellent upgrade for "bad for" in formal essays.
+
+@ DEPLETE | verb | dɪˈpliːt | tükətmək, azaltmaq
+forms: deplete – depletes – depleted – depleted – depleting
+n: depletion = tükənmə, azalma
+adj: depleted = tükənmiş, azalmış
+- deplete reserves = ehtiyatları tükətmək :: reserve = a supply kept for future use
+- deplete the ozone layer = ozon təbəqəsini dağıtmaq (nazikləşdirmək) :: ozone = a gas high above the Earth; layer = a thin sheet of a substance
+- deplete the battery = batareyanı boşaltmaq :: battery = a device that stores electricity
+- deplete nutrients = qida maddələrini tükətmək :: nutrient = a substance that plants and animals need to grow
+- deplete groundwater = yeraltı suları tükətmək :: groundwater = water found under the ground
+- deplete oxygen = oksigeni tükətmək :: oxygen = the gas in the air that we need to breathe
+- a depleted squad = sıraları seyrəlmiş komanda (heyət) :: squad = a group of players from which a team is chosen
+- oil depletion = neft ehtiyatlarının tükənməsi :: oil = the thick liquid from under the ground used for fuel
+> Overfishing has seriously depleted fish stocks in the North Sea. = Həddindən artıq balıq ovu Şimal dənizində balıq ehtiyatlarını ciddi şəkildə azaldıb.
+> Certain chemicals deplete the ozone layer. = Bəzi kimyəvi maddələr ozon təbəqəsini dağıdır.
+> Growing the same crop every year depletes nutrients in the soil. = Hər il eyni bitkini əkmək torpaqdakı qida maddələrini tükədir.
+> Using the camera a lot will quickly deplete the battery. = Kameradan çox istifadə etmək batareyanı tez boşaldacaq.
+! DEPLETE means to reduce the amount of something so that there is not enough left; it is usually passive: "Stocks are seriously depleted." It is typical of environmental writing: deplete natural resources, the depletion of the ozone layer. Compare EXHAUST (use up completely), DRAIN (use up strength, money or energy) and RUN OUT OF (informal). The opposite is REPLENISH (fill again).

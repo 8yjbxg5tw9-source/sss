@@ -1,0 +1,172 @@
+## Evaluation, perception and structure | Qiymətləndirmə, qavrayış və quruluş
+@ ENCOMPASS | verb | ɪnˈkʌmpəs | əhatə etmək, özündə birləşdirmək
+forms: encompass – encompasses – encompassed – encompassed – encompassing
+adj: all-encompassing = hər şeyi əhatə edən
+- encompass a spectrum = geniş spektri əhatə etmək :: spectrum = a complete range of opinions or types
+- encompass a multitude of = çoxlu sayda ... əhatə etmək :: multitude = an extremely large number
+- encompass an array of = geniş çeşiddə ... əhatə etmək :: array = a large and impressive group of things
+- encompass five continents = beş qitəni əhatə etmək :: continent = one of the large land masses of the Earth
+- encompass the suburbs = şəhərətrafı əraziləri əhatə etmək :: suburb = an area where people live outside the centre of a city
+- encompass centuries = əsrləri əhatə etmək :: century = a period of 100 years
+- encompass genres = janrları əhatə etmək :: genre = a particular type of art, film, music or literature
+- encompass the realm of = ... sahəsini (aləmini) əhatə etmək :: realm = an area of activity, interest or knowledge
+> The course encompasses a wide spectrum of subjects. = Kurs geniş fənn spektrini əhatə edir.
+> Her work encompasses many genres, from poetry to film. = Onun yaradıcılığı poeziyadan kinoya qədər bir çox janrı əhatə edir.
+> The new district encompasses the suburbs to the north of the city. = Yeni rayon şəhərin şimalındakı şəhərətrafı əraziləri əhatə edir.
+> The exhibition encompasses five centuries of Azerbaijani art. = Sərgi Azərbaycan incəsənətinin beş əsrini əhatə edir.
+! ENCOMPASS means to include a large number or range of things, or to surround an area completely. It is formal; the subject is usually a study, plan, term or area. Compare INCLUDE (have as one part), COVER (deal with a subject), COMPRISE (consist of) and EMBRACE (include willingly). ALL-ENCOMPASSING means including everything: "an all-encompassing theory".
+
+@ EXPLICIT | adjective | ɪkˈsplɪsɪt | açıq-aydın, birbaşa ifadə olunmuş; açıq-saçıq
+adj: implicit = üstüörtülü, nəzərdə tutulan
+adv: explicitly = açıq şəkildə; implicitly = üstüörtülü şəkildə, həmçinin şərtsiz
+- explicit consent = açıq şəkildə verilmiş razılıq :: consent = permission to do something
+- an explicit reference = birbaşa istinad (xatırlatma) :: reference = a mention of something
+- sexually explicit = açıq-saçıq (cinsi məzmunlu) :: sexually = in a way connected with sex
+- explicit content = açıq-saçıq məzmun :: content = the material contained in a film, book or website
+- explicit approval = açıq şəkildə bildirilmiş razılıq (təsdiq) :: approval = official agreement
+- explicitly mention = açıq şəkildə qeyd etmək :: mention = refer to something briefly
+- explicitly prohibit = açıq şəkildə qadağan etmək :: prohibit = forbid by law or rule
+- implicit in = nədəsə üstüörtülü şəkildə mövcud olan :: The preposition is IN
+> Data may not be shared without the user's explicit consent. = İstifadəçinin açıq razılığı olmadan məlumatlar paylaşıla bilməz.
+> The contract explicitly prohibits working for a rival company. = Müqavilə rəqib şirkətdə işləməyi açıq şəkildə qadağan edir.
+> The report makes no explicit reference to the minister. = Hesabatda nazirə birbaşa istinad yoxdur.
+> A criticism of the government was implicit in his speech. = Onun çıxışında hökumətin tənqidi üstüörtülü şəkildə duyulurdu.
+! EXPLICIT means stated clearly and in detail, leaving nothing to be guessed: explicit instructions, an explicit warning. It also describes books and films that show sex or violence openly. Its opposite, IMPLICIT, means suggested without being directly expressed; "implicit trust" means complete, unquestioning trust. In academic writing: "make an assumption explicit". Compare TACIT (understood without being said) and OVERT (done openly).
+
+@ INHIBIT | verb | ɪnˈhɪbɪt | ləngitmək, mane olmaq, qarşısını almaq
+forms: inhibit – inhibits – inhibited – inhibited – inhibiting
+n: inhibition = sıxılma, utancaqlıq, həmçinin ləngimə; inhibitor = ləngidici maddə
+adj: uninhibited = sərbəst, sıxılmayan
+- inhibit sb from doing sth = kiminsə nəyisə etməsinə mane olmaq :: Pattern: inhibit + object + FROM + -ing
+- shed your inhibitions = sıxılmanı bir kənara qoymaq :: shed = get rid of something that is not wanted
+- inhibit absorption = sorulmanı (mənimsənilməni) ləngitmək :: absorption = the process of taking a substance in
+- inhibit digestion = həzmi ləngitmək :: digestion = the process of changing food into substances the body can use
+- inhibit appetite = iştahanı azaltmaq :: appetite = the desire for food
+- inhibit corrosion = korroziyanın qarşısını almaq :: corrosion = the gradual destruction of metal by chemical action
+- inhibit the release of = nəyinsə ifraz olunmasını (buraxılmasını) ləngitmək :: release = the act of letting something out
+- inhibit dissent = fərqli fikirlərin ifadəsinə mane olmaq :: dissent = disagreement with official opinions
+> Fear of failure can inhibit people from trying new things. = Uğursuzluq qorxusu insanların yeni şeyləri sınamasına mane ola bilər.
+> Tea can inhibit the absorption of iron. = Çay dəmirin mənimsənilməsini ləngidə bilər.
+> After a few minutes the children shed their inhibitions and began to sing. = Bir neçə dəqiqədən sonra uşaqlar sıxılmanı bir kənara qoyub oxumağa başladılar.
+> A special coating inhibits corrosion. = Xüsusi örtük korroziyanın qarşısını alır.
+! INHIBIT means to prevent something from happening or developing normally, or to make somebody too nervous to act freely. It is common in science (inhibit growth, inhibit an enzyme) and in psychology. INHIBITIONS are feelings of embarrassment that stop you from behaving naturally: "lose / shed your inhibitions". Compare HINDER (make difficult), IMPEDE (delay progress) and PROHIBIT (forbid by rule) – "inhibit" never means "forbid".
+
+@ OBSOLETE | adjective | ˈɒbsəliːt | köhnəlmiş, istifadədən çıxmış
+n: obsolescence = köhnəlmə, istifadədən çıxma
+- obsolete machinery = köhnəlmiş avadanlıq (dəzgahlar) :: machinery = machines as a group
+- built-in obsolescence = qəsdən nəzərdə tutulmuş köhnəlmə :: built-in = included as part of the design
+- an obsolete factory = köhnəlmiş zavod :: factory = a building where goods are made
+- an obsolete format = istifadədən çıxmış format :: format = the way data is arranged or stored
+- obsolete hardware = köhnəlmiş aparat təminatı :: hardware = the machinery and electronic parts of a computer
+- an obsolete typewriter = köhnəlmiş yazı makinası :: typewriter = a machine with keys for printing letters on paper
+- an obsolete appliance = köhnəlmiş məişət cihazı :: appliance = a machine for a particular task in the home
+- on the verge of obsolescence = köhnəlib sıradan çıxmaq ərəfəsində :: on the verge of = very near to the moment when something happens
+> The factory closed because its machinery was obsolete. = Zavod avadanlığı köhnəldiyi üçün bağlandı.
+> New technology has made many skills obsolete. = Yeni texnologiya bir çox bacarığı lazımsız edib.
+> Critics accuse phone makers of built-in obsolescence. = Tənqidçilər telefon istehsalçılarını məhsulların qəsdən tez köhnəldilməsində ittiham edirlər.
+> Cash is on the verge of obsolescence in some countries. = Bəzi ölkələrdə nağd pul istifadədən çıxmaq ərəfəsindədir.
+! OBSOLETE means no longer used because something newer and better exists. The usual verbs are BECOME obsolete and MAKE or RENDER something obsolete. OUTDATED and OLD-FASHIONED describe things that are still in use but no longer modern; OBSOLETE is stronger. PLANNED (or BUILT-IN) OBSOLESCENCE is the practice of designing products so that they must soon be replaced – a frequent topic in essays on consumerism.
+
+@ OUTWEIGH | verb | ˌaʊtˈweɪ | üstələmək, daha əhəmiyyətli olmaq
+forms: outweigh – outweighs – outweighed – outweighed – outweighing
+- outweigh the disadvantages = mənfi cəhətləri üstələmək :: disadvantage = something that causes problems
+- outweigh the drawbacks = çatışmazlıqları üstələmək :: drawback = a disadvantage that makes something less attractive
+- outweigh the downsides = mənfi tərəfləri üstələmək :: downside = the negative part of a situation
+- the pros outweigh the cons = müsbət cəhətlər mənfiləri üstələyir :: pros and cons = the arguments for and against
+- outweigh the inconvenience = narahatlığı (əziyyəti) üstələmək :: inconvenience = trouble or difficulty
+- outweigh the expense = xərci üstələmək :: expense = the money that you spend on something
+- be outweighed by = nə iləsə üstələnmək :: The passive pattern
+- vastly outweigh = qat-qat üstələmək :: vastly = very much
+> The advantages of the scheme far outweigh the disadvantages. = Layihənin üstünlükləri mənfi cəhətlərini qat-qat üstələyir.
+> In my view, the pros outweigh the cons. = Mənim fikrimcə, müsbət cəhətlər mənfiləri üstələyir.
+> Any savings are outweighed by the cost of transport. = İstənilən qənaət nəqliyyat xərci ilə üstələnir.
+> The benefits of exercise vastly outweigh the risks. = İdmanın faydaları risklərini qat-qat üstələyir.
+! OUTWEIGH means to be greater or more important than something else. It is the key verb in one of the standard IELTS Task 2 questions: "Do the advantages outweigh the disadvantages?" It takes a direct object, with no preposition. Typical adverbs: far, greatly, vastly, clearly. Useful variations: "the benefits outweigh the costs", "the drawbacks are outweighed by the gains".
+
+@ PERCEIVE | verb | pəˈsiːv | qavramaq, dərk etmək; hesab etmək, ... kimi görmək
+forms: perceive – perceives – perceived – perceived – perceiving
+n: perception = qavrayış, təsəvvür; self-perception = özünüqavrama
+adj: perceptive = fərasətli, incə müşahidəli; perceptible = sezilən; perceived = təsəvvür edilən, güman edilən
+- be perceived as = ... kimi qəbul edilmək :: Passive pattern + AS
+- depth perception = dərinliyin qavranılması :: depth = the distance from the front to the back, or from top to bottom
+- sensory perception = hissi qavrayış :: sensory = connected with the physical senses
+- a distorted perception = təhrif olunmuş təsəvvür :: distorted = changed so that it is no longer true or accurate
+- a perceived insult = təhqir kimi qəbul edilən söz (hərəkət) :: insult = a remark or action that offends somebody
+- a perceived snub = saymazlıq kimi qəbul edilən hərəkət :: snub = an action that ignores somebody deliberately
+- perceive intuitively = intuitiv olaraq dərk etmək :: intuitively = by feeling rather than by reasoning
+- a perceptible pause = sezilən fasilə :: pause = a short period of silence or inactivity
+> The new tax is widely perceived as unfair. = Yeni vergi çoxları tərəfindən ədalətsiz hesab olunur.
+> Social media can give teenagers a distorted perception of reality. = Sosial media yeniyetmələrdə reallıq haqqında təhrif olunmuş təsəvvür yarada bilər.
+> There was a perceptible pause before she answered. = O, cavab verməzdən əvvəl sezilən fasilə oldu.
+> She made some very perceptive comments about the film. = O, film haqqında çox fərasətli fikirlər söylədi.
+! PERCEIVE has two meanings: to notice or become aware of something ("perceive a change"), and to understand or think of something in a particular way ("be perceived AS a threat"). PERCEIVED before a noun means "believed to exist, whether or not it really does": a perceived threat, a perceived lack of support. PERCEPTION is how something is seen or understood: public perception. Spelling: "i before e except after c" – perCEIve.
+
+@ PERPETUATE | verb | pəˈpetʃueɪt | (pis halı) davam etdirmək, əbədiləşdirmək
+forms: perpetuate – perpetuates – perpetuated – perpetuated – perpetuating
+n: perpetuation = davam etdirilmə, əbədiləşdirmə
+adj: perpetual = daimi, ardı-arası kəsilməyən
+adv: perpetually = daim, ara vermədən
+- perpetuate injustice = ədalətsizliyi davam etdirmək :: injustice = a situation that is not fair
+- perpetuate a fiction = uydurmanı yaşatmaq :: fiction = something that is not true
+- perpetuate oppression = zülmü davam etdirmək :: oppression = cruel and unfair treatment of a group of people
+- perpetuate ignorance = cəhaləti davam etdirmək :: ignorance = lack of knowledge
+- perpetuate a feud = ədavəti davam etdirmək :: feud = an angry argument between two groups that lasts for years
+- perpetuate segregation = ayrı-seçkilik əsasında bölgünü yaşatmaq :: segregation = the policy of separating groups of people
+- perpetuate the illusion = illüziyanı yaşatmaq :: illusion = a false idea or belief
+- perpetual twilight = daimi alaqaranlıq :: twilight = the faint light after sunset
+> Such films perpetuate harmful stereotypes about women. = Belə filmlər qadınlar haqqında zərərli stereotipləri yaşadır.
+> The current system perpetuates injustice. = Mövcud sistem ədalətsizliyi davam etdirir.
+> Advertising perpetuates the illusion that money brings happiness. = Reklam pulun xoşbəxtlik gətirdiyi illüziyasını yaşadır.
+> They lived in perpetual fear of being discovered. = Onlar aşkar edilmək qorxusu ilə daimi təşviş içində yaşayırdılar.
+! PERPETUATE means to make a bad situation, belief or system continue for a long time: perpetuate a myth, a stereotype, inequality, the cycle of poverty. The object is nearly always negative. PERPETUAL describes something that continues without stopping or is repeated very often: perpetual noise. Do not confuse PERPETUATE with PERPETRATE (commit a crime: "perpetrate a fraud").
+
+@ REINFORCE | verb | ˌriːɪnˈfɔːs | möhkəmləndirmək, gücləndirmək
+forms: reinforce – reinforces – reinforced – reinforced – reinforcing
+n: reinforcement = möhkəmləndirmə, həmçinin (cəmdə) əlavə qüvvələr
+adj: reinforced = möhkəmləndirilmiş
+- reinforced concrete = dəmir-beton :: concrete = a building material made from cement, sand and water
+- reinforce a wall = divarı möhkəmləndirmək :: wall = a vertical structure of brick or stone
+- reinforce the impression = təəssüratı gücləndirmək :: impression = an idea or feeling about what something is like
+- reinforce the fence = hasarı möhkəmləndirmək :: fence = a structure of wood or wire around a piece of land
+- reinforce a conviction = əminliyi möhkəmləndirmək :: conviction = a strong belief
+- reinforce the border = sərhədi möhkəmləndirmək :: border = the line that divides two countries
+- reinforce a dam = bəndi möhkəmləndirmək :: dam = a wall built across a river to hold back water
+- reinforce the roof = damı möhkəmləndirmək :: roof = the structure that covers the top of a building
+> The bridge is built of reinforced concrete. = Körpü dəmir-betondan tikilib.
+> The film reinforces the impression that crime is increasing. = Film cinayətkarlığın artdığı təəssüratını gücləndirir.
+> Engineers are working to reinforce the dam. = Mühəndislər bəndi möhkəmləndirmək üçün çalışırlar.
+> The experience reinforced my conviction that I had chosen the right career. = Bu təcrübə düzgün peşə seçdiyimə əminliyimi möhkəmləndirdi.
+! REINFORCE means to make a structure stronger, or to make a feeling, idea or habit stronger: reinforce a belief, reinforce a stereotype, reinforce a message. In psychology, POSITIVE REINFORCEMENT is encouraging behaviour by rewarding it. REINFORCEMENTS (plural) are extra soldiers or police sent to help. Compare STRENGTHEN (general), BOLSTER (support and make stronger) and CONSOLIDATE (make a position more secure).
+
+@ SUSCEPTIBLE | adjective | səˈseptəbəl | meyilli, həssas, asan təsirə düşən
+n: susceptibility = meyillilik, həssaslıq
+- susceptible to persuasion = dilə tutulmağa meyilli :: persuasion = the act of making somebody agree to do something
+- susceptible to frost = şaxtaya davamsız :: frost = very cold weather when thin white ice forms
+- susceptible to bribery = rüşvətə meyilli :: bribery = giving or taking money in exchange for dishonest help
+- susceptible to decay = çürüməyə meyilli :: decay = the process of being slowly destroyed by natural causes
+- susceptible to depression = depressiyaya meyilli :: depression = a medical condition of extreme sadness
+- susceptible to manipulation = manipulyasiyaya asan məruz qalan :: manipulation = controlling people in a dishonest way
+- susceptible to scams = fırıldaqlara asan aldanan :: scam = a clever and dishonest plan for making money
+- genetically susceptible = irsən meyilli :: genetically = in a way connected with genes
+> Young plants are susceptible to frost. = Cavan bitkilər şaxtaya davamsızdır.
+> Older people are more susceptible to scams. = Yaşlı insanlar fırıldaqlara daha asan aldanırlar.
+> Some people are genetically susceptible to the disease. = Bəzi insanlar bu xəstəliyə irsən meyillidirlər.
+> Teeth are susceptible to decay if they are not cleaned regularly. = Dişlər müntəzəm təmizlənməsə, çürüməyə meyilli olur.
+! SUSCEPTIBLE means likely to be influenced, harmed or affected by something. It always takes TO: "susceptible TO infection / pressure / flattery". Compare VULNERABLE (weak and easily hurt), PRONE TO (likely to suffer from or to do something bad: prone to accidents) and LIABLE TO (likely to do something). Used alone of a person, it means easily influenced by feelings.
+
+@ TRANSPARENT | adjective | trænsˈpærənt | şəffaf; açıq, aydın
+n: transparency = şəffaflıq
+adv: transparently = şəffaf şəkildə, açıq-aşkar
+- transparent about = nə barədəsə açıq (şəffaf) :: The preposition is ABOUT
+- transparency and accountability = şəffaflıq və hesabatlılıq :: accountability = being responsible for your decisions and able to explain them
+- transparent plastic = şəffaf plastik :: plastic = a light, strong material produced by chemical processes
+- a transparent fabric = şəffaf parça :: fabric = cloth
+- a transparent liquid = şəffaf maye :: liquid = a substance that flows freely, such as water
+- transparent governance = şəffaf idarəçilik :: governance = the way an organisation or country is controlled
+- corporate transparency = korporativ şəffaflıq :: corporate = connected with a large company
+- a transparent ploy = açıq-aşkar hiylə :: ploy = a clever trick used to gain an advantage
+> The company should be more transparent about how it uses our data. = Şirkət məlumatlarımızdan necə istifadə etdiyi barədə daha açıq olmalıdır.
+> Voters are demanding greater transparency and accountability. = Seçicilər daha çox şəffaflıq və hesabatlılıq tələb edirlər.
+> The box is made of transparent plastic. = Qutu şəffaf plastikdən hazırlanıb.
+> His offer of help was a transparent ploy to win votes. = Onun kömək təklifi səs qazanmaq üçün açıq-aşkar hiylə idi.
+! TRANSPARENT literally describes material that you can see through (compare OPAQUE, which you cannot). Of organisations it means open and honest, with nothing hidden: a transparent process. Of lies and excuses it means easy to recognise as false: "a transparent lie". TRANSPARENCY is a key word in essays on government and business, usually paired with ACCOUNTABILITY.
