@@ -37,19 +37,21 @@ All of these files are **generated**. Never edit them by hand: edit `source/` an
 | A2 | 7 | 40 | 55 | 264 | 320 | 160 |
 | B1 | 5 | 41 | 79 | 264 | 328 | 164 |
 | B2 | 4 | 40 | 75 | 298 | 320 | 160 |
-| C1 | 4 | 40 | 61 | 295 | 320 | 160 |
-| C2 | 4 | 40 | 44 | 298 | 320 | 160 |
-| **Total** | **31** | **241** | **354** | **1,736** | **1,928** | **964** |
+| C1 | 6 | 60 | 100 | 444 | 480 | 240 |
+| C2 | 6 | 60 | 66 | 451 | 480 | 240 |
+| **Total** | **35** | **281** | **415** | **2,038** | **2,248** | **1,124** |
 
-2,350 vocabulary items in total (the rows above plus 19 reference words: days and months), and 245
-structural grammar words that are taught once in A1 "Section 0". The authoritative, always current
-figures are in section 3 of `MASTER_INDEX.txt`.
+2,753 vocabulary items in total (the rows above plus 19 reference words: days and months), and 245
+structural grammar words that are taught once in A1 "Section 0". C1 and C2 carry extra weight on
+purpose: they hold the academic and IELTS vocabulary. The authoritative, always current figures are
+in section 3 of `MASTER_INDEX.txt`; section 11 lists 78 further main words that are already reserved
+for the next parts.
 
 ## What this is not
 
 * It is **not every English word**. It is a finite, growing database. Measured against the open
-  reference lists it currently covers about 68% of A1 headwords, 42% of A2, 28% of B1, 13% of B2,
-  9% of C1 and 5% of C2 (`database/qa_report.txt`, section COVERAGE).
+  reference lists it currently covers about 69% of A1 headwords, 45% of A2, 31% of B1, 17% of B2,
+  12% of C1 and 8% of C2 (`database/qa_report.txt`, section COVERAGE).
 * **CEFR levels are not universally fixed.** Each lesson was placed at a level by the author according
   to the difficulty of the expression network it teaches, and then compared with two open word lists.
   Those lists rate many bare headwords lower than the lesson (for example TRAVEL: A1 in the list, A2
@@ -163,7 +165,7 @@ Level files split automatically into `<LEVEL>_VOCABULARY_PART_02.txt` … when a
   (C1–C2); collocates rated two or more levels above their lesson are listed.
 * **IPA comparison** – each main word against Britfone, and against a second open list (ipa-dict
   `en_UK`) for words Britfone lacks. Differences that are only weak-vowel notation (i/ɪ, ɪ/ə, tj/tʃ)
-  are counted as variants. Eleven rarer C1/C2 words differ from the second list; they were re-checked
+  are counted as variants. Fourteen rarer C1/C2 words differ from the second list; they were re-checked
   by the author and kept, with the reason for each in `source/ipa_reviewed.txt`. That re-check is an
   author's judgement made without online dictionary access, not a machine verification.
 * **Word-family links** – only pairs confirmed in `source/related.txt` are shown to learners.

@@ -79,3 +79,13 @@ potent | potential
 read | readily
 ignorance | ignore
 rest | unrest
+display | play
+empire | empirical
+expose | exposition
+fatally | fate
+flow | flower
+inverse | verse
+invoice | voice
+iron | irony
+tide | tidy
+verse | version

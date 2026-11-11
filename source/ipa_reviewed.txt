@@ -16,3 +16,6 @@ TANTAMOUNT | fallback has a long /ɑː/ in the first syllable; it is /æ/: ˈtæ
 IMPETUS | fallback has a full /e/ in the unstressed second syllable; it is weak: ˈɪmpɪtəs
 ENTRENCHED | fallback starts with a full /e/; the prefix is weak: ɪn-
 REPERCUSSION | fallback has a short first syllable and no secondary stress; it is ˌriːpəˈkʌʃən
+DELINEATE | fallback drops the final diphthong; the word has four syllables: dɪˈlɪnieɪt
+OBFUSCATE | fallback has a schwa in the second syllable; British dictionaries give /ʌ/ first: ˈɒbfʌskeɪt
+SPURIOUS | fallback writes a short /ʊ/; the stressed vowel is the diphthong /ʊə/: ˈspjʊəriəs

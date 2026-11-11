@@ -905,14 +905,16 @@ def _ipa_norm(s):
 
 def _ipa_broad(s):
     """Broad form used to recognise transcriptions that differ ONLY in weak-vowel notation, where
-    dictionaries legitimately disagree (happy-vowel i/ɪ, u/ʊ, unstressed ɪ/ə, tj/tʃ, dj/dʒ)."""
-    s = _ipa_norm(s)
+    dictionaries legitimately disagree (happy-vowel i/ɪ, u/ʊ, unstressed ɪ/ə, jʊ/jə, tj/tʃ, dj/dʒ)."""
+    s = _ipa_clean(s).replace('ˈ', '').replace('ˌ', '')
     s = re.sub('uː(?=[ɑæɒɔəɜɪʊʌeiuao])', 'u', s)     # weak u before a vowel (fluctuate, situation)
     s = re.sub('iː(?=[ɑæɒɔəɜɪʊʌeiuao])', 'i', s)     # weak i before a vowel (alleviate, create)
     s = re.sub('i(?!ː)', 'ɪ', s)
     s = re.sub('u(?!ː)', 'ʊ', s)
     s = s.replace('dj', 'dʒ').replace('tj', 'tʃ')
     s = s.replace('jʊ', 'jə')                         # weak -ul- syllable: accumulate, regular, particular
+    for a, b in (('əl', 'l'), ('ən', 'n'), ('əm', 'm')):
+        s = s.replace(a, b)
     for k, d in enumerate(('ɪə', 'eə', 'ʊə', 'əʊ', 'aɪ', 'eɪ', 'ɔɪ', 'aʊ')):
         s = s.replace(d, str(k))
     return s.replace('ə', 'ɪ')

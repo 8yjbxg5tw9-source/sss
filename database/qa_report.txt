@@ -131,7 +131,8 @@
   near  C1-060 TRANSPARENT    here C1, reference B2
   near  C2-006 PROLIFERATE    here C2, reference C1
   near  C2-032 TANTAMOUNT     here C2, reference C1
-  summary: same=73, one level apart=111, two or more apart=21, not in reference=56
+  near  C2-054 IMPEDE         here C2, reference C1
+  summary: same=78, one level apart=112, two or more apart=21, not in reference=70
 
 == COLLOCATES two or more levels ABOVE their lesson level ==
   A1-013 HOUSE        housework        ref B1  "do the housework"
@@ -149,12 +150,12 @@
   count=12
 
 == COVERAGE of the reference lists by this database ==
-  A1: 725 of 1058 reference headwords (69%)
-  A2: 529 of 1221 reference headwords (43%)
-  B1: 623 of 2099 reference headwords (30%)
-  B2: 370 of 2428 reference headwords (15%)
-  C1: 92 of 921 reference headwords (10%)
-  C2: 55 of 882 reference headwords (6%)
+  A1: 734 of 1058 reference headwords (69%)
+  A2: 544 of 1221 reference headwords (45%)
+  B1: 658 of 2099 reference headwords (31%)
+  B2: 404 of 2428 reference headwords (17%)
+  C1: 106 of 921 reference headwords (12%)
+  C2: 68 of 882 reference headwords (8%)
 
 == WORD-FAMILY LINK CANDIDATES not yet reviewed (shared stem; shown to the learner only after review) ==
   count=0   (move each pair to source/related.txt or source/not_related.txt)
@@ -177,7 +178,7 @@
   reviewed C1-025 RESILIENT      here /rɪˈzɪliənt/   fallback: ɹɪsˈɪliənt   (fallback has /s/; British dictionaries give /z/: rɪˈzɪliənt)
   variant C1-028 DISPARITY      here /dɪˈspærəti/   fallback: dɪspˈæɹɪti
   variant C1-034 LEGITIMATE     here /lɪˈdʒɪtɪmət/   Britfone: lɪdʒˈɪtɪmɪt
-  DIFFER  C1-041 ACCUMULATE     here /əˈkjuːmjəleɪt/   Britfone: əkjˈuːmjʊlˌeɪt
+  variant C1-041 ACCUMULATE     here /əˈkjuːmjəleɪt/   Britfone: əkjˈuːmjʊlˌeɪt
   variant C1-057 PERPETUATE     here /pəˈpetʃueɪt/   fallback: pəpˈɛtʃuːˌeɪt
   variant C1-059 SUSCEPTIBLE    here /səˈseptəbəl/   Britfone: səsˈɛptɪbəl
   reviewed C2-001 EXACERBATE     here /ɪɡˈzæsəbeɪt/   fallback: ɛɡzˈæsəbˌeɪt   (fallback starts with a full /e/; the prefix is weak: ɪɡ-)
@@ -193,11 +194,16 @@
   reviewed C2-035 IMPETUS        here /ˈɪmpɪtəs/   fallback: ˈɪmpɛtəs   (fallback has a full /e/ in the unstressed second syllable; it is weak: ˈɪmpɪtəs)
   reviewed C2-036 ENTRENCHED     here /ɪnˈtrentʃt/   fallback: ɛntɹˈɛntʃt   (fallback starts with a full /e/; the prefix is weak: ɪn-)
   reviewed C2-040 REPERCUSSION   here /ˌriːpəˈkʌʃən/   fallback: ɹɪpəkˈʌʃən   (fallback has a short first syllable and no secondary stress; it is ˌriːpəˈkʌʃən)
+  variant C2-046 CONSPICUOUS    here /kənˈspɪkjuəs/   Britfone: kənspˈɪkjʊəs
+  reviewed C2-049 DELINEATE      here /dɪˈlɪnieɪt/   fallback: dɪlˈɪniːt   (fallback drops the final diphthong; the word has four syllables: dɪˈlɪnieɪt)
+  reviewed C2-056 OBFUSCATE      here /ˈɒbfʌskeɪt/   fallback: ˈɒbfəskˌeɪt   (fallback has a schwa in the second syllable; British dictionaries give /ʌ/ first: ˈɒbfʌskeɪt)
+  variant C2-058 PROPENSITY     here /prəˈpensəti/   fallback: pɹəpˈɛnsɪti
+  reviewed C2-060 SPURIOUS       here /ˈspjʊəriəs/   fallback: spjˈʊɹɪəs   (fallback writes a short /ʊ/; the stressed vowel is the diphthong /ʊə/: ˈspjʊəriəs)
   "variant" = same sounds and stress, different notation of a weak vowel (i/ɪ, u/ʊ, ɪ/ə, jʊ/jə, tj/tʃ, dj/dʒ).
   "fallback" = ipa-dict en_UK, a second open list used only for words that Britfone does not contain.
   Both lists are open community resources and can contain errors themselves: a DIFFER line is a prompt
   to re-check the word in a printed dictionary, not proof of an error.
-  summary: IPA vs Britfone 3.0.1: agree=197, notation variants=15, differ=1
+  summary: IPA vs Britfone 3.0.1: agree=202, notation variants=17, differ=0
   "reviewed" = differs from the fallback list, re-checked by the author and kept; the reason is given
   in source/ipa_reviewed.txt (an author's judgement, not a machine verification).
-  summary: IPA vs fallback list (words missing from Britfone): agree=31, notation variants=6, differ=0, differ but reviewed by the author=11; in neither list=0
+  summary: IPA vs fallback list (words missing from Britfone): agree=41, notation variants=7, differ=0, differ but reviewed by the author=14; in neither list=0

@@ -28374,6 +28374,2151 @@
    "expr": "dread the repercussions",
    "expr_az": "nəticələrindən vahimələnmək",
    "seq": 2557
+  },
+  {
+   "lemma": "ANOMALY",
+   "token": "ANOMALY",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "cat": "noun",
+   "az": "anomaliya, qaydadan kənarlıq, uyğunsuzluq",
+   "seq": 2558
+  },
+  {
+   "lemma": "anomalous",
+   "token": "anomalous",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "cat": "adj",
+   "az": "anomal, qaydadan kənar",
+   "seq": 2559
+  },
+  {
+   "lemma": "historical",
+   "token": "historical",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "a historical anomaly",
+   "expr_az": "tarixi anomaliya (tarixdən qalma uyğunsuzluq)",
+   "seq": 2560
+  },
+  {
+   "lemma": "apparent",
+   "token": "apparent",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "an apparent anomaly",
+   "expr_az": "zahiri uyğunsuzluq",
+   "seq": 2561
+  },
+  {
+   "lemma": "strange",
+   "token": "strange",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "a strange anomaly",
+   "expr_az": "qəribə anomaliya",
+   "seq": 2562
+  },
+  {
+   "lemma": "arise",
+   "token": "arises",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "an anomaly arises",
+   "expr_az": "uyğunsuzluq yaranır",
+   "seq": 2563
+  },
+  {
+   "lemma": "congenital",
+   "token": "congenital",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "a congenital anomaly",
+   "expr_az": "anadangəlmə anomaliya",
+   "seq": 2564
+  },
+  {
+   "lemma": "spot",
+   "token": "spot",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "spot an anomaly",
+   "expr_az": "uyğunsuzluğu sezmək",
+   "seq": 2565
+  },
+  {
+   "lemma": "rectify",
+   "token": "rectify",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "rectify an anomaly",
+   "expr_az": "uyğunsuzluğu aradan qaldırmaq",
+   "seq": 2566
+  },
+  {
+   "lemma": "iron",
+   "token": "iron",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-041",
+   "head": "ANOMALY",
+   "expr": "iron out anomalies",
+   "expr_az": "uyğunsuzluqları yoluna qoymaq (hamarlamaq)",
+   "seq": 2567
+  },
+  {
+   "lemma": "ARBITRARY",
+   "token": "ARBITRARY",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "cat": "adjective",
+   "az": "əsassız, özbaşına, təsadüfi seçilmiş",
+   "seq": 2568
+  },
+  {
+   "lemma": "arbitrariness",
+   "token": "arbitrariness",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "cat": "n",
+   "az": "özbaşınalıq, əsassızlıq",
+   "seq": 2569
+  },
+  {
+   "lemma": "arbitrarily",
+   "token": "arbitrarily",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "cat": "adv",
+   "az": "özbaşına, əsassız olaraq",
+   "seq": 2570
+  },
+  {
+   "lemma": "detention",
+   "token": "detention",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "arbitrary detention",
+   "expr_az": "özbaşına (qanunsuz) həbs",
+   "seq": 2571
+  },
+  {
+   "lemma": "threshold",
+   "token": "threshold",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "an arbitrary threshold",
+   "expr_az": "şərti (əsassız) hədd",
+   "seq": 2572
+  },
+  {
+   "lemma": "cut-off",
+   "token": "cut-off",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "an arbitrary cut-off",
+   "expr_az": "şərti son hədd",
+   "seq": 2573
+  },
+  {
+   "lemma": "dismissal",
+   "token": "dismissal",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "arbitrary dismissal",
+   "expr_az": "əsassız işdən çıxarılma",
+   "seq": 2574
+  },
+  {
+   "lemma": "punishment",
+   "token": "punishment",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "arbitrary punishment",
+   "expr_az": "özbaşına cəza",
+   "seq": 2575
+  },
+  {
+   "lemma": "whim",
+   "token": "whim",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "an arbitrary whim",
+   "expr_az": "özbaşına şıltaqlıq",
+   "seq": 2576
+  },
+  {
+   "lemma": "assigned",
+   "token": "assigned",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "arbitrarily assigned",
+   "expr_az": "təsadüfi (əsassız) şəkildə təyin edilmiş",
+   "seq": 2577
+  },
+  {
+   "lemma": "category",
+   "token": "categories",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-042",
+   "head": "ARBITRARY",
+   "expr": "arbitrary categories",
+   "expr_az": "şərti kateqoriyalar",
+   "seq": 2578
+  },
+  {
+   "lemma": "BURGEON",
+   "token": "BURGEON",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "cat": "verb",
+   "az": "sürətlə inkişaf etmək, çiçəklənmək",
+   "seq": 2579
+  },
+  {
+   "lemma": "burgeoning",
+   "token": "burgeoning",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "cat": "adj",
+   "az": "sürətlə böyüyən, çiçəklənən",
+   "seq": 2580
+  },
+  {
+   "lemma": "romance",
+   "token": "romance",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "expr": "a burgeoning romance",
+   "expr_az": "yenicə alovlanan sevgi macərası",
+   "seq": 2581
+  },
+  {
+   "lemma": "sector",
+   "token": "sector",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "expr": "a burgeoning sector",
+   "expr_az": "sürətlə böyüyən sektor",
+   "seq": 2582
+  },
+  {
+   "lemma": "metropolis",
+   "token": "metropolis",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "expr": "a burgeoning metropolis",
+   "expr_az": "sürətlə böyüyən nəhəng şəhər",
+   "seq": 2583
+  },
+  {
+   "lemma": "deficit",
+   "token": "deficit",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "expr": "a burgeoning deficit",
+   "expr_az": "sürətlə artan kəsir",
+   "seq": 2584
+  },
+  {
+   "lemma": "export",
+   "token": "exports",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "expr": "burgeoning exports",
+   "expr_az": "sürətlə artan ixrac",
+   "seq": 2585
+  },
+  {
+   "lemma": "empire",
+   "token": "empire",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "expr": "a burgeoning empire",
+   "expr_az": "sürətlə genişlənən imperiya",
+   "seq": 2586
+  },
+  {
+   "lemma": "workload",
+   "token": "workload",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-043",
+   "head": "BURGEON",
+   "expr": "a burgeoning workload",
+   "expr_az": "getdikcə artan iş yükü",
+   "seq": 2587
+  },
+  {
+   "lemma": "COGENT",
+   "token": "COGENT",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "cat": "adjective",
+   "az": "inandırıcı, tutarlı, məntiqli",
+   "seq": 2588
+  },
+  {
+   "lemma": "cogency",
+   "token": "cogency",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "cat": "n",
+   "az": "inandırıcılıq, tutarlılıq",
+   "seq": 2589
+  },
+  {
+   "lemma": "cogently",
+   "token": "cogently",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "cat": "adv",
+   "az": "inandırıcı şəkildə",
+   "seq": 2590
+  },
+  {
+   "lemma": "rebuttal",
+   "token": "rebuttal",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "a cogent rebuttal",
+   "expr_az": "tutarlı təkzib",
+   "seq": 2591
+  },
+  {
+   "lemma": "thesis",
+   "token": "thesis",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "a cogent thesis",
+   "expr_az": "tutarlı tezis",
+   "seq": 2592
+  },
+  {
+   "lemma": "exposition",
+   "token": "exposition",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "a cogent exposition",
+   "expr_az": "aydın və inandırıcı şərh",
+   "seq": 2593
+  },
+  {
+   "lemma": "synthesis",
+   "token": "synthesis",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "a cogent synthesis",
+   "expr_az": "bitkin (inandırıcı) sintez",
+   "seq": 2594
+  },
+  {
+   "lemma": "appraisal",
+   "token": "appraisal",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "a cogent appraisal",
+   "expr_az": "əsaslandırılmış qiymətləndirmə",
+   "seq": 2595
+  },
+  {
+   "lemma": "commentary",
+   "token": "commentary",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "a cogent commentary",
+   "expr_az": "tutarlı şərh",
+   "seq": 2596
+  },
+  {
+   "lemma": "prose",
+   "token": "prose",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "cogent prose",
+   "expr_az": "aydın və inandırıcı nəsr",
+   "seq": 2597
+  },
+  {
+   "lemma": "concise",
+   "token": "concise",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-044",
+   "head": "COGENT",
+   "expr": "cogent and concise",
+   "expr_az": "tutarlı və yığcam",
+   "seq": 2598
+  },
+  {
+   "lemma": "CONFLATE",
+   "token": "CONFLATE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "cat": "verb",
+   "az": "qarışdırmaq, (iki fərqli şeyi) eyniləşdirmək",
+   "seq": 2599
+  },
+  {
+   "lemma": "conflation",
+   "token": "conflation",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "cat": "n",
+   "az": "qarışdırma, eyniləşdirmə",
+   "seq": 2600
+  },
+  {
+   "lemma": "religion",
+   "token": "religion",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate religion with ethnicity",
+   "expr_az": "dini etnik mənsubiyyətlə eyniləşdirmək",
+   "seq": 2601
+  },
+  {
+   "lemma": "ethnicity",
+   "token": "ethnicity",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate religion with ethnicity",
+   "expr_az": "dini etnik mənsubiyyətlə eyniləşdirmək",
+   "seq": 2602
+  },
+  {
+   "lemma": "journalism",
+   "token": "journalism",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate journalism with entertainment",
+   "expr_az": "jurnalistikanı əyləncə ilə qarışdırmaq",
+   "seq": 2603
+  },
+  {
+   "lemma": "entertainment",
+   "token": "entertainment",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate journalism with entertainment",
+   "expr_az": "jurnalistikanı əyləncə ilə qarışdırmaq",
+   "seq": 2604
+  },
+  {
+   "lemma": "equality",
+   "token": "equality",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate equality with uniformity",
+   "expr_az": "bərabərliyi eynilik ilə qarışdırmaq",
+   "seq": 2605
+  },
+  {
+   "lemma": "uniformity",
+   "token": "uniformity",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate equality with uniformity",
+   "expr_az": "bərabərliyi eynilik ilə qarışdırmaq",
+   "seq": 2606
+  },
+  {
+   "lemma": "separate",
+   "token": "separate",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate separate phenomena",
+   "expr_az": "ayrı-ayrı hadisələri qarışdırmaq",
+   "seq": 2607
+  },
+  {
+   "lemma": "phenomenon",
+   "token": "phenomena",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate separate phenomena",
+   "expr_az": "ayrı-ayrı hadisələri qarışdırmaq",
+   "seq": 2608
+  },
+  {
+   "lemma": "incident",
+   "token": "incidents",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "conflate two incidents",
+   "expr_az": "iki hadisəni bir-birinə qarışdırmaq",
+   "seq": 2609
+  },
+  {
+   "lemma": "lazy",
+   "token": "lazy",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-045",
+   "head": "CONFLATE",
+   "expr": "a lazy conflation",
+   "expr_az": "səthi (düşünülməmiş) eyniləşdirmə",
+   "seq": 2610
+  },
+  {
+   "lemma": "CONSPICUOUS",
+   "token": "CONSPICUOUS",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "cat": "adjective",
+   "az": "gözə çarpan, diqqəti çəkən",
+   "seq": 2611
+  },
+  {
+   "lemma": "inconspicuous",
+   "token": "inconspicuous",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "cat": "adj",
+   "az": "gözə çarpmayan, diqqət çəkməyən",
+   "seq": 2612
+  },
+  {
+   "lemma": "conspicuously",
+   "token": "conspicuously",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "cat": "adv",
+   "az": "gözə çarpacaq dərəcədə",
+   "seq": 2613
+  },
+  {
+   "lemma": "absence",
+   "token": "absence",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "a conspicuous absence",
+   "expr_az": "gözə çarpan yoxluq",
+   "seq": 2614
+  },
+  {
+   "lemma": "display",
+   "token": "display",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "a conspicuous display",
+   "expr_az": "nümayişkaranə göstəriş",
+   "seq": 2615
+  },
+  {
+   "lemma": "bravery",
+   "token": "bravery",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "conspicuous bravery",
+   "expr_az": "xüsusi (fərqlənən) igidlik",
+   "seq": 2616
+  },
+  {
+   "lemma": "exception",
+   "token": "exception",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "a conspicuous exception",
+   "expr_az": "gözə çarpan istisna",
+   "seq": 2617
+  },
+  {
+   "lemma": "extravagance",
+   "token": "extravagance",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "conspicuous extravagance",
+   "expr_az": "gözə soxulan israfçılıq",
+   "seq": 2618
+  },
+  {
+   "lemma": "omission",
+   "token": "omission",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "a conspicuous omission",
+   "expr_az": "gözə çarpan çatışmazlıq (buraxılma)",
+   "seq": 2619
+  },
+  {
+   "lemma": "tattoo",
+   "token": "tattoo",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "a conspicuous tattoo",
+   "expr_az": "gözə çarpan döymə",
+   "seq": 2620
+  },
+  {
+   "lemma": "doorway",
+   "token": "doorway",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-046",
+   "head": "CONSPICUOUS",
+   "expr": "an inconspicuous doorway",
+   "expr_az": "gözə çarpmayan giriş (qapı ağzı)",
+   "seq": 2621
+  },
+  {
+   "lemma": "CORROBORATE",
+   "token": "CORROBORATE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "cat": "verb",
+   "az": "təsdiq etmək, (sübutla) möhkəmləndirmək",
+   "seq": 2622
+  },
+  {
+   "lemma": "corroboration",
+   "token": "corroboration",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "cat": "n",
+   "az": "təsdiq, əlavə sübut",
+   "seq": 2623
+  },
+  {
+   "lemma": "corroborative",
+   "token": "corroborative",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "cat": "adj",
+   "az": "təsdiqedici",
+   "seq": 2624
+  },
+  {
+   "lemma": "version",
+   "token": "version",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "expr": "corroborate a version",
+   "expr_az": "hadisənin (kiminsə) versiyasını təsdiq etmək",
+   "seq": 2625
+  },
+  {
+   "lemma": "alibi",
+   "token": "alibi",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "expr": "corroborate an alibi",
+   "expr_az": "alibini təsdiq etmək",
+   "seq": 2626
+  },
+  {
+   "lemma": "allegation",
+   "token": "allegations",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "expr": "corroborate allegations",
+   "expr_az": "ittihamları (iddiaları) təsdiq etmək",
+   "seq": 2627
+  },
+  {
+   "lemma": "assertion",
+   "token": "assertion",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "expr": "corroborate an assertion",
+   "expr_az": "iddianı (fikri) təsdiq etmək",
+   "seq": 2628
+  },
+  {
+   "lemma": "recollection",
+   "token": "recollection",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "expr": "corroborate a recollection",
+   "expr_az": "xatirəni (yadda qalanı) təsdiq etmək",
+   "seq": 2629
+  },
+  {
+   "lemma": "estimate",
+   "token": "estimate",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-047",
+   "head": "CORROBORATE",
+   "expr": "corroborate an estimate",
+   "expr_az": "təxmini hesablamanı təsdiq etmək",
+   "seq": 2630
+  },
+  {
+   "lemma": "DEARTH",
+   "token": "DEARTH",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "cat": "noun",
+   "az": "qıtlıq, çatışmazlıq",
+   "seq": 2631
+  },
+  {
+   "lemma": "nurse",
+   "token": "nurses",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "expr": "a dearth of nurses",
+   "expr_az": "tibb bacılarının çatışmazlığı",
+   "seq": 2632
+  },
+  {
+   "lemma": "imagination",
+   "token": "imagination",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "expr": "a dearth of imagination",
+   "expr_az": "təxəyyül qıtlığı",
+   "seq": 2633
+  },
+  {
+   "lemma": "rainfall",
+   "token": "rainfall",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "expr": "a dearth of rainfall",
+   "expr_az": "yağıntı qıtlığı",
+   "seq": 2634
+  },
+  {
+   "lemma": "engineer",
+   "token": "engineers",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "expr": "a dearth of engineers",
+   "expr_az": "mühəndis çatışmazlığı",
+   "seq": 2635
+  },
+  {
+   "lemma": "amenity",
+   "token": "amenities",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "expr": "a dearth of amenities",
+   "expr_az": "məişət xidmətlərinin (şəraitin) çatışmazlığı",
+   "seq": 2636
+  },
+  {
+   "lemma": "vacancy",
+   "token": "vacancies",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "expr": "a dearth of vacancies",
+   "expr_az": "boş iş yerlərinin azlığı",
+   "seq": 2637
+  },
+  {
+   "lemma": "chronic",
+   "token": "chronic",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-048",
+   "head": "DEARTH",
+   "expr": "a chronic dearth",
+   "expr_az": "xroniki qıtlıq",
+   "seq": 2638
+  },
+  {
+   "lemma": "DELINEATE",
+   "token": "DELINEATE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "cat": "verb",
+   "az": "dəqiq müəyyən etmək, sərhədini cızmaq; ətraflı təsvir etmək",
+   "seq": 2639
+  },
+  {
+   "lemma": "delineation",
+   "token": "delineation",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "cat": "n",
+   "az": "dəqiq müəyyənləşdirmə, sərhədlərin cızılması",
+   "seq": 2640
+  },
+  {
+   "lemma": "contour",
+   "token": "contours",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "expr": "delineate the contours",
+   "expr_az": "cizgilərini (konturlarını) müəyyən etmək",
+   "seq": 2641
+  },
+  {
+   "lemma": "zone",
+   "token": "zone",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "expr": "delineate a zone",
+   "expr_az": "zonanı müəyyən etmək",
+   "seq": 2642
+  },
+  {
+   "lemma": "parameter",
+   "token": "parameters",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "expr": "delineate the parameters",
+   "expr_az": "çərçivəni (parametrləri) müəyyən etmək",
+   "seq": 2643
+  },
+  {
+   "lemma": "jurisdiction",
+   "token": "jurisdiction",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "expr": "delineate jurisdiction",
+   "expr_az": "səlahiyyət dairəsini müəyyən etmək",
+   "seq": 2644
+  },
+  {
+   "lemma": "frontier",
+   "token": "frontier",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "expr": "delineate the frontier",
+   "expr_az": "sərhədi müəyyən etmək",
+   "seq": 2645
+  },
+  {
+   "lemma": "remit",
+   "token": "remit",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "expr": "delineate the remit",
+   "expr_az": "səlahiyyət çərçivəsini müəyyən etmək",
+   "seq": 2646
+  },
+  {
+   "lemma": "perimeter",
+   "token": "perimeter",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-049",
+   "head": "DELINEATE",
+   "expr": "delineate the perimeter",
+   "expr_az": "ərazinin xarici sərhədini cızmaq",
+   "seq": 2647
+  },
+  {
+   "lemma": "ELUCIDATE",
+   "token": "ELUCIDATE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "cat": "verb",
+   "az": "aydınlaşdırmaq, izah edib açıqlamaq",
+   "seq": 2648
+  },
+  {
+   "lemma": "elucidation",
+   "token": "elucidation",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "cat": "n",
+   "az": "aydınlaşdırma, izah",
+   "seq": 2649
+  },
+  {
+   "lemma": "mechanism",
+   "token": "mechanism",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate the mechanism",
+   "expr_az": "mexanizmi aydınlaşdırmaq",
+   "seq": 2650
+  },
+  {
+   "lemma": "pathway",
+   "token": "pathway",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate the pathway",
+   "expr_az": "(prosesin) yolunu aydınlaşdırmaq",
+   "seq": 2651
+  },
+  {
+   "lemma": "obscure",
+   "token": "obscure",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate an obscure verse",
+   "expr_az": "anlaşılmaz misranı izah etmək",
+   "seq": 2652
+  },
+  {
+   "lemma": "verse",
+   "token": "verse",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate an obscure verse",
+   "expr_az": "anlaşılmaz misranı izah etmək",
+   "seq": 2653
+  },
+  {
+   "lemma": "riddle",
+   "token": "riddle",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate a riddle",
+   "expr_az": "tapmacanı (müəmmanı) açmaq",
+   "seq": 2654
+  },
+  {
+   "lemma": "intricacy",
+   "token": "intricacies",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate the intricacies",
+   "expr_az": "incə məqamları aydınlaşdırmaq",
+   "seq": 2655
+  },
+  {
+   "lemma": "dynamics",
+   "token": "dynamics",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate the dynamics",
+   "expr_az": "dinamikanı (qarşılıqlı təsirləri) aydınlaşdırmaq",
+   "seq": 2656
+  },
+  {
+   "lemma": "metaphor",
+   "token": "metaphor",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate a metaphor",
+   "expr_az": "metaforanı izah etmək",
+   "seq": 2657
+  },
+  {
+   "lemma": "context",
+   "token": "context",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-050",
+   "head": "ELUCIDATE",
+   "expr": "elucidate the context",
+   "expr_az": "konteksti aydınlaşdırmaq",
+   "seq": 2658
+  },
+  {
+   "lemma": "EPHEMERAL",
+   "token": "EPHEMERAL",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "cat": "adjective",
+   "az": "ötəri, qısaömürlü, keçici",
+   "seq": 2659
+  },
+  {
+   "lemma": "ephemerality",
+   "token": "ephemerality",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "cat": "n",
+   "az": "ötərilik, qısaömürlülük",
+   "seq": 2660
+  },
+  {
+   "lemma": "pleasure",
+   "token": "pleasures",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "ephemeral pleasures",
+   "expr_az": "ötəri həzlər",
+   "seq": 2661
+  },
+  {
+   "lemma": "beauty",
+   "token": "beauty",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "ephemeral beauty",
+   "expr_az": "keçici gözəllik",
+   "seq": 2662
+  },
+  {
+   "lemma": "glory",
+   "token": "glory",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "ephemeral glory",
+   "expr_az": "ötəri şan-şöhrət",
+   "seq": 2663
+  },
+  {
+   "lemma": "craze",
+   "token": "craze",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "an ephemeral craze",
+   "expr_az": "ötəri dəb (həvəs)",
+   "seq": 2664
+  },
+  {
+   "lemma": "glimpse",
+   "token": "glimpse",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "an ephemeral glimpse",
+   "expr_az": "bir anlıq görünüş",
+   "seq": 2665
+  },
+  {
+   "lemma": "fleeting",
+   "token": "fleeting",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "ephemeral and fleeting",
+   "expr_az": "ötəri və bir anlıq",
+   "seq": 2666
+  },
+  {
+   "lemma": "sculpture",
+   "token": "sculpture",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "an ephemeral sculpture",
+   "expr_az": "qısaömürlü heykəl (məsələn, buzdan)",
+   "seq": 2667
+  },
+  {
+   "lemma": "thrill",
+   "token": "thrill",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-051",
+   "head": "EPHEMERAL",
+   "expr": "an ephemeral thrill",
+   "expr_az": "ötəri həyəcan",
+   "seq": 2668
+  },
+  {
+   "lemma": "ERADICATE",
+   "token": "ERADICATE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "cat": "verb",
+   "az": "kökünü kəsmək, tamamilə aradan qaldırmaq",
+   "seq": 2669
+  },
+  {
+   "lemma": "eradication",
+   "token": "eradication",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "cat": "n",
+   "az": "kökünün kəsilməsi, tam aradan qaldırılma",
+   "seq": 2670
+  },
+  {
+   "lemma": "polio",
+   "token": "polio",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate polio",
+   "expr_az": "poliomielitin kökünü kəsmək",
+   "seq": 2671
+  },
+  {
+   "lemma": "smallpox",
+   "token": "smallpox",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate smallpox",
+   "expr_az": "çiçək xəstəliyinin kökünü kəsmək",
+   "seq": 2672
+  },
+  {
+   "lemma": "malaria",
+   "token": "malaria",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate malaria",
+   "expr_az": "malyariyanın kökünü kəsmək",
+   "seq": 2673
+  },
+  {
+   "lemma": "terrorism",
+   "token": "terrorism",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate terrorism",
+   "expr_az": "terrorizmin kökünü kəsmək",
+   "seq": 2674
+  },
+  {
+   "lemma": "slavery",
+   "token": "slavery",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate slavery",
+   "expr_az": "köləliyi tamamilə aradan qaldırmaq",
+   "seq": 2675
+  },
+  {
+   "lemma": "pest",
+   "token": "pests",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate pests",
+   "expr_az": "zərərvericiləri məhv etmək",
+   "seq": 2676
+  },
+  {
+   "lemma": "superstition",
+   "token": "superstition",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate superstition",
+   "expr_az": "mövhumatın kökünü kəsmək",
+   "seq": 2677
+  },
+  {
+   "lemma": "scourge",
+   "token": "scourge",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-052",
+   "head": "ERADICATE",
+   "expr": "eradicate the scourge of",
+   "expr_az": "... bəlasının kökünü kəsmək",
+   "seq": 2678
+  },
+  {
+   "lemma": "FALLACY",
+   "token": "FALLACY",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "cat": "noun",
+   "az": "yanlış təsəvvür; məntiqi səhv",
+   "seq": 2679
+  },
+  {
+   "lemma": "fallacious",
+   "token": "fallacious",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "cat": "adj",
+   "az": "yanlış, əsassız",
+   "seq": 2680
+  },
+  {
+   "lemma": "gambler",
+   "token": "gambler",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "expr": "the gambler's fallacy",
+   "expr_az": "qumarbaz yanılması",
+   "seq": 2681
+  },
+  {
+   "lemma": "sunk-cost",
+   "token": "sunk-cost",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "expr": "the sunk-cost fallacy",
+   "expr_az": "batmış xərclər yanılması",
+   "seq": 2682
+  },
+  {
+   "lemma": "straw-man",
+   "token": "straw-man",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "expr": "the straw-man fallacy",
+   "expr_az": "\"saman müqəvva\" yanılması (rəqibin fikrini təhrif edib təkzib etmək)",
+   "seq": 2683
+  },
+  {
+   "lemma": "refute",
+   "token": "refute",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "expr": "refute a fallacy",
+   "expr_az": "yanlış fikri təkzib etmək",
+   "seq": 2684
+  },
+  {
+   "lemma": "debunk",
+   "token": "debunk",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "expr": "debunk a fallacy",
+   "expr_az": "yanlış fikri ifşa etmək",
+   "seq": 2685
+  },
+  {
+   "lemma": "enduring",
+   "token": "enduring",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "expr": "an enduring fallacy",
+   "expr_az": "uzunömürlü yanlış təsəvvür",
+   "seq": 2686
+  },
+  {
+   "lemma": "inference",
+   "token": "inference",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-053",
+   "head": "FALLACY",
+   "expr": "a fallacious inference",
+   "expr_az": "yanlış nəticə (çıxarış)",
+   "seq": 2687
+  },
+  {
+   "lemma": "IMPEDE",
+   "token": "IMPEDE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "cat": "verb",
+   "az": "mane olmaq, ləngitmək, əngəl törətmək",
+   "seq": 2688
+  },
+  {
+   "lemma": "impediment",
+   "token": "impediment",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "cat": "n",
+   "az": "maneə, əngəl",
+   "seq": 2689
+  },
+  {
+   "lemma": "flow",
+   "token": "flow",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "expr": "impede the flow",
+   "expr_az": "axını ləngitmək",
+   "seq": 2690
+  },
+  {
+   "lemma": "circulation",
+   "token": "circulation",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "expr": "impede circulation",
+   "expr_az": "dövranı (qan dövranını, hərəkəti) ləngitmək",
+   "seq": 2691
+  },
+  {
+   "lemma": "breathing",
+   "token": "breathing",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "expr": "impede breathing",
+   "expr_az": "nəfəs almağı çətinləşdirmək",
+   "seq": 2692
+  },
+  {
+   "lemma": "navigation",
+   "token": "navigation",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "expr": "impede navigation",
+   "expr_az": "gəmiçiliyə (hərəkətə) mane olmaq",
+   "seq": 2693
+  },
+  {
+   "lemma": "drainage",
+   "token": "drainage",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "expr": "impede drainage",
+   "expr_az": "suyun axıb getməsinə mane olmaq",
+   "seq": 2694
+  },
+  {
+   "lemma": "pedestrian",
+   "token": "pedestrians",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "expr": "impede pedestrians",
+   "expr_az": "piyadaların hərəkətinə mane olmaq",
+   "seq": 2695
+  },
+  {
+   "lemma": "formidable",
+   "token": "formidable",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-054",
+   "head": "IMPEDE",
+   "expr": "a formidable impediment",
+   "expr_az": "ciddi (böyük) maneə",
+   "seq": 2696
+  },
+  {
+   "lemma": "INEXORABLE",
+   "token": "INEXORABLE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "cat": "adjective",
+   "az": "qarşısıalınmaz, dönməz, amansız",
+   "seq": 2697
+  },
+  {
+   "lemma": "inexorably",
+   "token": "inexorably",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "cat": "adv",
+   "az": "qarşısıalınmaz şəkildə, dönmədən",
+   "seq": 2698
+  },
+  {
+   "lemma": "countdown",
+   "token": "countdown",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "expr": "an inexorable countdown",
+   "expr_az": "dayanmayan geri sayım",
+   "seq": 2699
+  },
+  {
+   "lemma": "slide",
+   "token": "slide",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "expr": "an inexorable slide",
+   "expr_az": "qarşısıalınmaz eniş (tənəzzül)",
+   "seq": 2700
+  },
+  {
+   "lemma": "tide",
+   "token": "tide",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "expr": "an inexorable tide",
+   "expr_az": "qarşısıalınmaz axın",
+   "seq": 2701
+  },
+  {
+   "lemma": "fate",
+   "token": "fate",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "expr": "an inexorable fate",
+   "expr_az": "dönməz tale",
+   "seq": 2702
+  },
+  {
+   "lemma": "descent",
+   "token": "descent",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "expr": "an inexorable descent",
+   "expr_az": "qarşısıalınmaz eniş (çöküş)",
+   "seq": 2703
+  },
+  {
+   "lemma": "climb",
+   "token": "climb",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "expr": "an inexorable climb",
+   "expr_az": "dayanmadan davam edən yüksəliş",
+   "seq": 2704
+  },
+  {
+   "lemma": "drawn",
+   "token": "drawn",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-055",
+   "head": "INEXORABLE",
+   "expr": "inexorably drawn to",
+   "expr_az": "qarşısıalınmaz şəkildə nəyəsə çəkilən",
+   "seq": 2705
+  },
+  {
+   "lemma": "OBFUSCATE",
+   "token": "OBFUSCATE",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "cat": "verb",
+   "az": "qəsdən dolaşdırmaq, anlaşılmaz etmək",
+   "seq": 2706
+  },
+  {
+   "lemma": "obfuscation",
+   "token": "obfuscation",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "cat": "n",
+   "az": "qəsdən dolaşdırma, çaşdırma",
+   "seq": 2707
+  },
+  {
+   "lemma": "code",
+   "token": "code",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "obfuscate code",
+   "expr_az": "proqram kodunu qəsdən anlaşılmaz etmək",
+   "seq": 2708
+  },
+  {
+   "lemma": "paper",
+   "token": "paper",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "obfuscate the paper trail",
+   "expr_az": "sənəd izini itirmək",
+   "seq": 2709
+  },
+  {
+   "lemma": "trail",
+   "token": "trail",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "obfuscate the paper trail",
+   "expr_az": "sənəd izini itirmək",
+   "seq": 2710
+  },
+  {
+   "lemma": "blame",
+   "token": "blame",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "obfuscate the blame",
+   "expr_az": "günahın kimdə olduğunu dolaşdırmaq",
+   "seq": 2711
+  },
+  {
+   "lemma": "wrongdoing",
+   "token": "wrongdoing",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "obfuscate wrongdoing",
+   "expr_az": "qanunsuz əməli ört-basdır etmək",
+   "seq": 2712
+  },
+  {
+   "lemma": "smokescreen",
+   "token": "smokescreen",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "a smokescreen of obfuscation",
+   "expr_az": "çaşdırıcı sözlərdən ibarət pərdə",
+   "seq": 2713
+  },
+  {
+   "lemma": "verbal",
+   "token": "verbal",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "verbal obfuscation",
+   "expr_az": "söz oyunu ilə çaşdırma",
+   "seq": 2714
+  },
+  {
+   "lemma": "wilful",
+   "token": "wilful",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "wilful obfuscation",
+   "expr_az": "qəsdən çaşdırma",
+   "seq": 2715
+  },
+  {
+   "lemma": "evade",
+   "token": "evade",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-056",
+   "head": "OBFUSCATE",
+   "expr": "obfuscate and evade",
+   "expr_az": "dolaşdırmaq və cavabdan yayınmaq",
+   "seq": 2716
+  },
+  {
+   "lemma": "PLETHORA",
+   "token": "PLETHORA",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "cat": "noun",
+   "az": "həddindən artıq bolluq, çoxluq",
+   "seq": 2717
+  },
+  {
+   "lemma": "app",
+   "token": "apps",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "expr": "a plethora of apps",
+   "expr_az": "çoxlu sayda tətbiq (proqram)",
+   "seq": 2718
+  },
+  {
+   "lemma": "acronym",
+   "token": "acronyms",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "expr": "a plethora of acronyms",
+   "expr_az": "saysız-hesabsız abreviatura",
+   "seq": 2719
+  },
+  {
+   "lemma": "website",
+   "token": "websites",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "expr": "a plethora of websites",
+   "expr_az": "çoxlu sayda veb-sayt",
+   "seq": 2720
+  },
+  {
+   "lemma": "committee",
+   "token": "committees",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "expr": "a plethora of committees",
+   "expr_az": "komitələrin bolluğu",
+   "seq": 2721
+  },
+  {
+   "lemma": "platform",
+   "token": "platforms",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "expr": "a plethora of platforms",
+   "expr_az": "çoxlu sayda platforma",
+   "seq": 2722
+  },
+  {
+   "lemma": "loophole",
+   "token": "loopholes",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "expr": "a plethora of loopholes",
+   "expr_az": "çoxlu sayda qanun boşluğu",
+   "seq": 2723
+  },
+  {
+   "lemma": "bewildering",
+   "token": "bewildering",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-057",
+   "head": "PLETHORA",
+   "expr": "a bewildering plethora",
+   "expr_az": "baş gicəlləndirən bolluq",
+   "seq": 2724
+  },
+  {
+   "lemma": "PROPENSITY",
+   "token": "PROPENSITY",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-058",
+   "head": "PROPENSITY",
+   "cat": "noun",
+   "az": "meyil, meyillilik",
+   "seq": 2725
+  },
+  {
+   "lemma": "exaggerate",
+   "token": "exaggerate",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-058",
+   "head": "PROPENSITY",
+   "expr": "a propensity to exaggerate",
+   "expr_az": "şişirtməyə meyil",
+   "seq": 2726
+  },
+  {
+   "lemma": "procrastinate",
+   "token": "procrastinate",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-058",
+   "head": "PROPENSITY",
+   "expr": "a propensity to procrastinate",
+   "expr_az": "işi təxirə salmağa meyil",
+   "seq": 2727
+  },
+  {
+   "lemma": "mischief",
+   "token": "mischief",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-058",
+   "head": "PROPENSITY",
+   "expr": "a propensity for mischief",
+   "expr_az": "dəcəlliyə meyil",
+   "seq": 2728
+  },
+  {
+   "lemma": "hoard",
+   "token": "hoard",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-058",
+   "head": "PROPENSITY",
+   "expr": "a propensity to hoard",
+   "expr_az": "yığıb saxlamağa meyil",
+   "seq": 2729
+  },
+  {
+   "lemma": "innate",
+   "token": "innate",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-058",
+   "head": "PROPENSITY",
+   "expr": "an innate propensity",
+   "expr_az": "anadangəlmə meyil",
+   "seq": 2730
+  },
+  {
+   "lemma": "conform",
+   "token": "conform",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-058",
+   "head": "PROPENSITY",
+   "expr": "a propensity to conform",
+   "expr_az": "çoxluğa uymağa meyil",
+   "seq": 2731
+  },
+  {
+   "lemma": "QUINTESSENTIAL",
+   "token": "QUINTESSENTIAL",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "cat": "adjective",
+   "az": "ən səciyyəvi, tipik nümunə olan",
+   "seq": 2732
+  },
+  {
+   "lemma": "quintessence",
+   "token": "quintessence",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "cat": "n",
+   "az": "ən mükəmməl nümunə, mahiyyət",
+   "seq": 2733
+  },
+  {
+   "lemma": "quintessentially",
+   "token": "quintessentially",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "cat": "adv",
+   "az": "ən səciyyəvi şəkildə, tam mənası ilə",
+   "seq": 2734
+  },
+  {
+   "lemma": "gentleman",
+   "token": "gentleman",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential gentleman",
+   "expr_az": "əsl centlmen nümunəsi",
+   "seq": 2735
+  },
+  {
+   "lemma": "villain",
+   "token": "villain",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential villain",
+   "expr_az": "tipik mənfi qəhrəman",
+   "seq": 2736
+  },
+  {
+   "lemma": "hero",
+   "token": "hero",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential hero",
+   "expr_az": "tipik qəhrəman nümunəsi",
+   "seq": 2737
+  },
+  {
+   "lemma": "pub",
+   "token": "pub",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential pub",
+   "expr_az": "tipik ingilis meyxanası (pab)",
+   "seq": 2738
+  },
+  {
+   "lemma": "seaside",
+   "token": "seaside",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential seaside resort",
+   "expr_az": "tipik dənizkənarı kurort",
+   "seq": 2739
+  },
+  {
+   "lemma": "resort",
+   "token": "resort",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential seaside resort",
+   "expr_az": "tipik dənizkənarı kurort",
+   "seq": 2740
+  },
+  {
+   "lemma": "outsider",
+   "token": "outsider",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential outsider",
+   "expr_az": "cəmiyyətdən kənarda qalan adamın tipik nümunəsi",
+   "seq": 2741
+  },
+  {
+   "lemma": "underdog",
+   "token": "underdog",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-059",
+   "head": "QUINTESSENTIAL",
+   "expr": "the quintessential underdog",
+   "expr_az": "zəif tərəfin tipik nümunəsi",
+   "seq": 2742
+  },
+  {
+   "lemma": "SPURIOUS",
+   "token": "SPURIOUS",
+   "role": "MAIN",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "cat": "adjective",
+   "az": "saxta, əsassız, yalançı",
+   "seq": 2743
+  },
+  {
+   "lemma": "spuriously",
+   "token": "spuriously",
+   "role": "FAMILY",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "cat": "adv",
+   "az": "əsassız olaraq, saxta şəkildə",
+   "seq": 2744
+  },
+  {
+   "lemma": "charge",
+   "token": "charge",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "a spurious charge",
+   "expr_az": "əsassız ittiham",
+   "seq": 2745
+  },
+  {
+   "lemma": "lawsuit",
+   "token": "lawsuit",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "a spurious lawsuit",
+   "expr_az": "əsassız məhkəmə iddiası",
+   "seq": 2746
+  },
+  {
+   "lemma": "signature",
+   "token": "signature",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "a spurious signature",
+   "expr_az": "saxta imza",
+   "seq": 2747
+  },
+  {
+   "lemma": "sentiment",
+   "token": "sentiment",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "spurious sentiment",
+   "expr_az": "saxta hissiyyat",
+   "seq": 2748
+  },
+  {
+   "lemma": "invoice",
+   "token": "invoice",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "a spurious invoice",
+   "expr_az": "saxta hesab-faktura",
+   "seq": 2749
+  },
+  {
+   "lemma": "credential",
+   "token": "credentials",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "spurious credentials",
+   "expr_az": "saxta diplomlar (etimadnamələr)",
+   "seq": 2750
+  },
+  {
+   "lemma": "comparison",
+   "token": "comparison",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "a spurious comparison",
+   "expr_az": "əsassız müqayisə",
+   "seq": 2751
+  },
+  {
+   "lemma": "patently",
+   "token": "patently",
+   "role": "COLLOCATE",
+   "level": "C2",
+   "lesson": "C2-060",
+   "head": "SPURIOUS",
+   "expr": "patently spurious",
+   "expr_az": "açıq-aşkar əsassız",
+   "seq": 2752
   }
  ],
  "lessons": [
@@ -56036,14 +58181,2183 @@
     "reverberate",
     "dread"
    ]
+  },
+  {
+   "id": "C2-041",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "ANOMALY",
+   "pos": "noun",
+   "ipa_british": "əˈnɒməli",
+   "azerbaijani": "anomaliya, qaydadan kənarlıq, uyğunsuzluq",
+   "key_forms": "anomaly – anomalies",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "anomalous",
+      "az": "anomal, qaydadan kənar"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "a historical anomaly",
+     "az": "tarixi anomaliya (tarixdən qalma uyğunsuzluq)",
+     "usage": "historical = connected with the past",
+     "related_only": false
+    },
+    {
+     "en": "an apparent anomaly",
+     "az": "zahiri uyğunsuzluq",
+     "usage": "apparent = seeming to be real, but perhaps not",
+     "related_only": false
+    },
+    {
+     "en": "a strange anomaly",
+     "az": "qəribə anomaliya",
+     "usage": "strange = unusual or surprising",
+     "related_only": false
+    },
+    {
+     "en": "an anomaly arises",
+     "az": "uyğunsuzluq yaranır",
+     "usage": "arise = begin to exist",
+     "related_only": false
+    },
+    {
+     "en": "a congenital anomaly",
+     "az": "anadangəlmə anomaliya",
+     "usage": "congenital = existing from birth",
+     "related_only": false
+    },
+    {
+     "en": "spot an anomaly",
+     "az": "uyğunsuzluğu sezmək",
+     "usage": "spot = notice",
+     "related_only": false
+    },
+    {
+     "en": "rectify an anomaly",
+     "az": "uyğunsuzluğu aradan qaldırmaq",
+     "usage": "rectify = put right something that is wrong",
+     "related_only": false
+    },
+    {
+     "en": "iron out anomalies",
+     "az": "uyğunsuzluqları yoluna qoymaq (hamarlamaq)",
+     "usage": "iron out = remove small problems; an iron is a tool for making clothes smooth",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The results contained an anomaly that nobody could explain.",
+     "az": "Nəticələrdə heç kimin izah edə bilmədiyi bir anomaliya var idi."
+    },
+    {
+     "en": "It is a historical anomaly that the two villages have different tax rules.",
+     "az": "İki kəndin fərqli vergi qaydalarına malik olması tarixi anomaliyadır."
+    },
+    {
+     "en": "The software is designed to spot anomalies in bank accounts.",
+     "az": "Proqram bank hesablarındakı uyğunsuzluqları sezmək üçün nəzərdə tutulub."
+    },
+    {
+     "en": "The new law will rectify this anomaly.",
+     "az": "Yeni qanun bu uyğunsuzluğu aradan qaldıracaq."
+    }
+   ],
+   "usage": [
+    "An ANOMALY is something that is different from what is normal or expected: an anomaly IN the data, an anomaly IN the system. It is common in science, statistics and law. ANOMALOUS is the adjective: \"an anomalous result\". Compare IRREGULARITY (something that does not follow the rules), ABERRATION (a temporary departure from what is normal) and OUTLIER (a value far from the others in a set of data)."
+   ],
+   "new_items": [
+    "ANOMALY",
+    "anomalous",
+    "historical",
+    "apparent",
+    "strange",
+    "arise",
+    "congenital",
+    "spot",
+    "rectify",
+    "iron"
+   ]
+  },
+  {
+   "id": "C2-042",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "ARBITRARY",
+   "pos": "adjective",
+   "ipa_british": "ˈɑːbɪtrəri",
+   "azerbaijani": "əsassız, özbaşına, təsadüfi seçilmiş",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "arbitrariness",
+      "az": "özbaşınalıq, əsassızlıq"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "arbitrarily",
+      "az": "özbaşına, əsassız olaraq"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "arbitrary detention",
+     "az": "özbaşına (qanunsuz) həbs",
+     "usage": "detention = the state of being kept in prison",
+     "related_only": false
+    },
+    {
+     "en": "an arbitrary threshold",
+     "az": "şərti (əsassız) hədd",
+     "usage": "threshold = the level at which something starts to happen",
+     "related_only": false
+    },
+    {
+     "en": "an arbitrary cut-off",
+     "az": "şərti son hədd",
+     "usage": "cut-off = a point or limit at which something stops",
+     "related_only": false
+    },
+    {
+     "en": "arbitrary dismissal",
+     "az": "əsassız işdən çıxarılma",
+     "usage": "dismissal = the act of removing somebody from a job",
+     "related_only": false
+    },
+    {
+     "en": "arbitrary punishment",
+     "az": "özbaşına cəza",
+     "usage": "punishment = a penalty for doing something wrong",
+     "related_only": false
+    },
+    {
+     "en": "an arbitrary whim",
+     "az": "özbaşına şıltaqlıq",
+     "usage": "whim = a sudden wish to do something unusual",
+     "related_only": false
+    },
+    {
+     "en": "arbitrarily assigned",
+     "az": "təsadüfi (əsassız) şəkildə təyin edilmiş",
+     "usage": "assign = give somebody a task or put them in a group",
+     "related_only": false
+    },
+    {
+     "en": "arbitrary categories",
+     "az": "şərti kateqoriyalar",
+     "usage": "category = a group of things with similar features",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The choice of forty as the pass mark seems arbitrary.",
+     "az": "Keçid balı kimi qırxın seçilməsi əsassız görünür."
+    },
+    {
+     "en": "Human rights groups condemned the arbitrary detention of journalists.",
+     "az": "Hüquq müdafiə təşkilatları jurnalistlərin özbaşına həbsini pislədi."
+    },
+    {
+     "en": "Students were arbitrarily assigned to one of three groups.",
+     "az": "Tələbələr təsadüfi qaydada üç qrupdan birinə təyin edildi."
+    },
+    {
+     "en": "The law protects employees against arbitrary dismissal.",
+     "az": "Qanun işçiləri əsassız işdən çıxarılmadan qoruyur."
+    }
+   ],
+   "usage": [
+    "ARBITRARY describes a decision or rule that is not based on a reason, system or plan and therefore often seems unfair. In law and politics it means using power without restriction: arbitrary arrest, arbitrary rule. Do not confuse it with ARBITRATION (settling a dispute through an independent person). Compare RANDOM (without any pattern), CAPRICIOUS (changing suddenly) and DISCRETIONARY (decided by somebody's judgement)."
+   ],
+   "new_items": [
+    "ARBITRARY",
+    "arbitrariness",
+    "arbitrarily",
+    "detention",
+    "threshold",
+    "cut-off",
+    "dismissal",
+    "punishment",
+    "whim",
+    "assigned",
+    "category"
+   ]
+  },
+  {
+   "id": "C2-043",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "BURGEON",
+   "pos": "verb",
+   "ipa_british": "ˈbɜːdʒən",
+   "azerbaijani": "sürətlə inkişaf etmək, çiçəklənmək",
+   "key_forms": "burgeon – burgeons – burgeoned – burgeoned – burgeoning",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "burgeoning",
+      "az": "sürətlə böyüyən, çiçəklənən"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "a burgeoning romance",
+     "az": "yenicə alovlanan sevgi macərası",
+     "usage": "romance = a love affair",
+     "related_only": false
+    },
+    {
+     "en": "a burgeoning sector",
+     "az": "sürətlə böyüyən sektor",
+     "usage": "sector = a part of a country's economic activity",
+     "related_only": false
+    },
+    {
+     "en": "a burgeoning metropolis",
+     "az": "sürətlə böyüyən nəhəng şəhər",
+     "usage": "metropolis = a very large and important city",
+     "related_only": false
+    },
+    {
+     "en": "a burgeoning deficit",
+     "az": "sürətlə artan kəsir",
+     "usage": "deficit = the amount by which spending is greater than income",
+     "related_only": false
+    },
+    {
+     "en": "burgeoning exports",
+     "az": "sürətlə artan ixrac",
+     "usage": "export = a product sold to another country",
+     "related_only": false
+    },
+    {
+     "en": "a burgeoning empire",
+     "az": "sürətlə genişlənən imperiya",
+     "usage": "empire = a group of countries or companies controlled by one ruler or owner",
+     "related_only": false
+    },
+    {
+     "en": "a burgeoning workload",
+     "az": "getdikcə artan iş yükü",
+     "usage": "workload = the amount of work that has to be done",
+     "related_only": false
+    },
+    {
+     "en": "burgeon into",
+     "az": "böyüyüb nəyəsə çevrilmək",
+     "usage": "burgeon INTO something larger",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Baku is a burgeoning metropolis on the Caspian Sea.",
+     "az": "Bakı Xəzər dənizi sahilində sürətlə böyüyən nəhəng şəhərdir."
+    },
+    {
+     "en": "The country has a burgeoning technology sector.",
+     "az": "Ölkənin sürətlə böyüyən texnologiya sektoru var."
+    },
+    {
+     "en": "The small business burgeoned into an international company.",
+     "az": "Kiçik müəssisə böyüyüb beynəlxalq şirkətə çevrildi."
+    },
+    {
+     "en": "The government is struggling with a burgeoning deficit.",
+     "az": "Hökumət sürətlə artan kəsirlə mübarizə aparır."
+    }
+   ],
+   "usage": [
+    "BURGEON is a literary and journalistic verb meaning to begin to grow or develop rapidly. It is used far more often as the adjective BURGEONING before a noun: a burgeoning population, a burgeoning market, burgeoning demand. Originally it described plants putting out new buds. Synonyms: FLOURISH, THRIVE, BOOM, MUSHROOM. It is intransitive: things burgeon; you cannot \"burgeon something\"."
+   ],
+   "new_items": [
+    "BURGEON",
+    "burgeoning",
+    "romance",
+    "sector",
+    "metropolis",
+    "deficit",
+    "export",
+    "empire",
+    "workload"
+   ]
+  },
+  {
+   "id": "C2-044",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "COGENT",
+   "pos": "adjective",
+   "ipa_british": "ˈkəʊdʒənt",
+   "azerbaijani": "inandırıcı, tutarlı, məntiqli",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "cogency",
+      "az": "inandırıcılıq, tutarlılıq"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "cogently",
+      "az": "inandırıcı şəkildə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "a cogent rebuttal",
+     "az": "tutarlı təkzib",
+     "usage": "rebuttal = a statement that says a claim is false",
+     "related_only": false
+    },
+    {
+     "en": "a cogent thesis",
+     "az": "tutarlı tezis",
+     "usage": "thesis = a statement or opinion that is discussed logically",
+     "related_only": false
+    },
+    {
+     "en": "a cogent exposition",
+     "az": "aydın və inandırıcı şərh",
+     "usage": "exposition = a full explanation of a theory or plan",
+     "related_only": false
+    },
+    {
+     "en": "a cogent synthesis",
+     "az": "bitkin (inandırıcı) sintez",
+     "usage": "synthesis = a combination of ideas into a whole",
+     "related_only": false
+    },
+    {
+     "en": "a cogent appraisal",
+     "az": "əsaslandırılmış qiymətləndirmə",
+     "usage": "appraisal = a judgement of the value or quality of something",
+     "related_only": false
+    },
+    {
+     "en": "a cogent commentary",
+     "az": "tutarlı şərh",
+     "usage": "commentary = a written explanation or discussion of something",
+     "related_only": false
+    },
+    {
+     "en": "cogent prose",
+     "az": "aydın və inandırıcı nəsr",
+     "usage": "prose = writing that is not poetry",
+     "related_only": false
+    },
+    {
+     "en": "cogent and concise",
+     "az": "tutarlı və yığcam",
+     "usage": "concise = giving only the necessary information in few words",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "She presented a cogent case for reform.",
+     "az": "O, islahatın zəruriliyini tutarlı şəkildə əsaslandırdı."
+    },
+    {
+     "en": "The article offers a cogent rebuttal of the minister's claims.",
+     "az": "Məqalədə nazirin iddialarının tutarlı təkzibi verilir."
+    },
+    {
+     "en": "A good essay is cogent and concise.",
+     "az": "Yaxşı esse tutarlı və yığcam olur."
+    },
+    {
+     "en": "He argued his point cogently.",
+     "az": "O, fikrini inandırıcı şəkildə əsaslandırdı."
+    }
+   ],
+   "usage": [
+    "COGENT describes an argument, reason or piece of writing that is clear, logical and convincing. It is a term of praise in academic contexts: \"a cogent argument\", \"cogent reasons\". The \"g\" is soft: /ˈkəʊdʒənt/. Compare CONVINCING and PERSUASIVE (making you believe), COMPELLING (so strong that you must accept it) and COHERENT (logically connected, though not necessarily convincing)."
+   ],
+   "new_items": [
+    "COGENT",
+    "cogency",
+    "cogently",
+    "rebuttal",
+    "thesis",
+    "exposition",
+    "synthesis",
+    "appraisal",
+    "commentary",
+    "prose",
+    "concise"
+   ]
+  },
+  {
+   "id": "C2-045",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "CONFLATE",
+   "pos": "verb",
+   "ipa_british": "kənˈfleɪt",
+   "azerbaijani": "qarışdırmaq, (iki fərqli şeyi) eyniləşdirmək",
+   "key_forms": "conflate – conflates – conflated – conflated – conflating",
+   "word_family": {
+    "n": [
+     {
+      "form": "conflation",
+      "az": "qarışdırma, eyniləşdirmə"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "conflate with",
+     "az": "nə iləsə qarışdırmaq (eyniləşdirmək)",
+     "usage": "conflate A WITH B",
+     "related_only": false
+    },
+    {
+     "en": "conflate the two",
+     "az": "bu iki anlayışı qarışdırmaq",
+     "usage": "A very common pattern",
+     "related_only": false
+    },
+    {
+     "en": "conflate religion with ethnicity",
+     "az": "dini etnik mənsubiyyətlə eyniləşdirmək",
+     "usage": "religion = belief in a god; ethnicity = belonging to a particular people",
+     "related_only": false
+    },
+    {
+     "en": "conflate journalism with entertainment",
+     "az": "jurnalistikanı əyləncə ilə qarışdırmaq",
+     "usage": "journalism = the work of reporting news; entertainment = films, shows and other amusements",
+     "related_only": false
+    },
+    {
+     "en": "conflate equality with uniformity",
+     "az": "bərabərliyi eynilik ilə qarışdırmaq",
+     "usage": "equality = having the same rights; uniformity = being the same in every way",
+     "related_only": false
+    },
+    {
+     "en": "conflate separate phenomena",
+     "az": "ayrı-ayrı hadisələri qarışdırmaq",
+     "usage": "separate = different, not connected; phenomena = facts or events (singular: phenomenon)",
+     "related_only": false
+    },
+    {
+     "en": "conflate two incidents",
+     "az": "iki hadisəni bir-birinə qarışdırmaq",
+     "usage": "incident = something that happens, especially something unpleasant",
+     "related_only": false
+    },
+    {
+     "en": "a lazy conflation",
+     "az": "səthi (düşünülməmiş) eyniləşdirmə",
+     "usage": "lazy = not making enough effort",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "People often conflate wealth with success.",
+     "az": "İnsanlar çox vaxt var-dövləti uğurla eyniləşdirirlər."
+    },
+    {
+     "en": "Privacy and secrecy are different things; we should not conflate the two.",
+     "az": "Şəxsi həyatın toxunulmazlığı ilə gizlilik fərqli şeylərdir; bu ikisini qarışdırmamalıyıq."
+    },
+    {
+     "en": "The witness seems to have conflated two incidents.",
+     "az": "Deyəsən, şahid iki hadisəni bir-birinə qarışdırıb."
+    },
+    {
+     "en": "It is a mistake to conflate equality with uniformity.",
+     "az": "Bərabərliyi eynilik ilə qarışdırmaq səhvdir."
+    }
+   ],
+   "usage": [
+    "To CONFLATE is to combine two or more separate ideas, texts or sets of information into one, usually wrongly. It is a precise critical verb for essays: \"The author conflates correlation with causation.\" Patterns: conflate A WITH / AND B; conflate the two. Compare CONFUSE (mistake one thing for another), EQUATE (treat as equal) and MERGE (join together, neutral)."
+   ],
+   "new_items": [
+    "CONFLATE",
+    "conflation",
+    "religion",
+    "ethnicity",
+    "journalism",
+    "entertainment",
+    "equality",
+    "uniformity",
+    "separate",
+    "phenomenon",
+    "incident",
+    "lazy"
+   ]
+  },
+  {
+   "id": "C2-046",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "CONSPICUOUS",
+   "pos": "adjective",
+   "ipa_british": "kənˈspɪkjuəs",
+   "azerbaijani": "gözə çarpan, diqqəti çəkən",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "inconspicuous",
+      "az": "gözə çarpmayan, diqqət çəkməyən"
+     }
+    ],
+    "adv": [
+     {
+      "form": "conspicuously",
+      "az": "gözə çarpacaq dərəcədə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "a conspicuous absence",
+     "az": "gözə çarpan yoxluq",
+     "usage": "absence = the fact of not being present",
+     "related_only": false
+    },
+    {
+     "en": "a conspicuous display",
+     "az": "nümayişkaranə göstəriş",
+     "usage": "display = an arrangement or show of something",
+     "related_only": false
+    },
+    {
+     "en": "conspicuous bravery",
+     "az": "xüsusi (fərqlənən) igidlik",
+     "usage": "bravery = the quality of being brave",
+     "related_only": false
+    },
+    {
+     "en": "a conspicuous exception",
+     "az": "gözə çarpan istisna",
+     "usage": "exception = a thing that does not follow a rule",
+     "related_only": false
+    },
+    {
+     "en": "conspicuous extravagance",
+     "az": "gözə soxulan israfçılıq",
+     "usage": "extravagance = spending more money than is necessary",
+     "related_only": false
+    },
+    {
+     "en": "a conspicuous omission",
+     "az": "gözə çarpan çatışmazlıq (buraxılma)",
+     "usage": "omission = something that has not been included",
+     "related_only": false
+    },
+    {
+     "en": "a conspicuous tattoo",
+     "az": "gözə çarpan döymə",
+     "usage": "tattoo = a picture marked permanently on the skin",
+     "related_only": false
+    },
+    {
+     "en": "an inconspicuous doorway",
+     "az": "gözə çarpmayan giriş (qapı ağzı)",
+     "usage": "doorway = the space where a door opens",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The minister was conspicuous by his absence.",
+     "az": "Nazirin yoxluğu dərhal gözə çarpırdı."
+    },
+    {
+     "en": "He was awarded a medal for conspicuous bravery.",
+     "az": "O, xüsusi igidliyə görə medalla təltif olundu."
+    },
+    {
+     "en": "There is one conspicuous omission from the list.",
+     "az": "Siyahıda bir gözə çarpan çatışmazlıq var."
+    },
+    {
+     "en": "The entrance is an inconspicuous doorway between two shops.",
+     "az": "Giriş iki mağaza arasında gözə çarpmayan bir qapıdır."
+    }
+   ],
+   "usage": [
+    "CONSPICUOUS means easy to see or notice, often because of being different. \"Conspicuous by its / his absence\" is a fixed ironic phrase: noticed because it is not there. CONSPICUOUS CONSUMPTION is buying expensive things in order to impress others – a term from sociology. The opposite is INCONSPICUOUS. Compare NOTICEABLE (easy to see), PROMINENT (important or well known) and OBTRUSIVE (noticeable in an unpleasant way)."
+   ],
+   "new_items": [
+    "CONSPICUOUS",
+    "inconspicuous",
+    "conspicuously",
+    "absence",
+    "display",
+    "bravery",
+    "exception",
+    "extravagance",
+    "omission",
+    "tattoo",
+    "doorway"
+   ]
+  },
+  {
+   "id": "C2-047",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "CORROBORATE",
+   "pos": "verb",
+   "ipa_british": "kəˈrɒbəreɪt",
+   "azerbaijani": "təsdiq etmək, (sübutla) möhkəmləndirmək",
+   "key_forms": "corroborate – corroborates – corroborated – corroborated – corroborating",
+   "word_family": {
+    "n": [
+     {
+      "form": "corroboration",
+      "az": "təsdiq, əlavə sübut"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "corroborative",
+      "az": "təsdiqedici"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "corroborate a version",
+     "az": "hadisənin (kiminsə) versiyasını təsdiq etmək",
+     "usage": "version = one person's description of an event",
+     "related_only": false
+    },
+    {
+     "en": "corroborate an alibi",
+     "az": "alibini təsdiq etmək",
+     "usage": "alibi = evidence that somebody was elsewhere when a crime happened",
+     "related_only": false
+    },
+    {
+     "en": "corroborate allegations",
+     "az": "ittihamları (iddiaları) təsdiq etmək",
+     "usage": "allegation = a statement, made without proof, that somebody has done wrong",
+     "related_only": false
+    },
+    {
+     "en": "corroborate an assertion",
+     "az": "iddianı (fikri) təsdiq etmək",
+     "usage": "assertion = a statement that you strongly believe is true",
+     "related_only": false
+    },
+    {
+     "en": "corroborate a recollection",
+     "az": "xatirəni (yadda qalanı) təsdiq etmək",
+     "usage": "recollection = a memory of something",
+     "related_only": false
+    },
+    {
+     "en": "corroborate an estimate",
+     "az": "təxmini hesablamanı təsdiq etmək",
+     "usage": "estimate = a judgement of size or cost made without exact figures",
+     "related_only": false
+    },
+    {
+     "en": "without corroboration",
+     "az": "təsdiqedici sübut olmadan",
+     "usage": "Formal fixed phrase",
+     "related_only": false
+    },
+    {
+     "en": "corroborated by",
+     "az": "nə iləsə təsdiqlənmiş",
+     "usage": "The frequent passive pattern",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The evidence was corroborated by two independent witnesses.",
+     "az": "Sübutlar iki müstəqil şahid tərəfindən təsdiqləndi."
+    },
+    {
+     "en": "Nobody could corroborate his alibi.",
+     "az": "Heç kim onun alibisini təsdiq edə bilmədi."
+    },
+    {
+     "en": "The documents corroborate the allegations of fraud.",
+     "az": "Sənədlər dələduzluq ittihamlarını təsdiq edir."
+    },
+    {
+     "en": "The court will not accept such a claim without corroboration.",
+     "az": "Məhkəmə belə bir iddianı təsdiqedici sübut olmadan qəbul etməyəcək."
+    }
+   ],
+   "usage": [
+    "CORROBORATE means to provide evidence that supports a statement, theory or account. It is formal and typical of legal and academic language; it is often passive: \"be corroborated BY\". Compare CONFIRM (show that something is definitely true), SUBSTANTIATE (provide proof for a claim), VERIFY (check that something is correct) and VALIDATE (show to be acceptable or correct)."
+   ],
+   "new_items": [
+    "CORROBORATE",
+    "corroboration",
+    "corroborative",
+    "version",
+    "alibi",
+    "allegation",
+    "assertion",
+    "recollection",
+    "estimate"
+   ]
+  },
+  {
+   "id": "C2-048",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "DEARTH",
+   "pos": "noun",
+   "ipa_british": "dɜːθ",
+   "azerbaijani": "qıtlıq, çatışmazlıq",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "a dearth of",
+     "az": "nəyinsə qıtlığı (çatışmazlığı)",
+     "usage": "Always in this pattern: a dearth OF + noun",
+     "related_only": false
+    },
+    {
+     "en": "a dearth of nurses",
+     "az": "tibb bacılarının çatışmazlığı",
+     "usage": "nurse = a person trained to care for sick people",
+     "related_only": false
+    },
+    {
+     "en": "a dearth of imagination",
+     "az": "təxəyyül qıtlığı",
+     "usage": "imagination = the ability to form new ideas or pictures in your mind",
+     "related_only": false
+    },
+    {
+     "en": "a dearth of rainfall",
+     "az": "yağıntı qıtlığı",
+     "usage": "rainfall = the amount of rain that falls",
+     "related_only": false
+    },
+    {
+     "en": "a dearth of engineers",
+     "az": "mühəndis çatışmazlığı",
+     "usage": "engineer = a person who designs machines, roads or bridges",
+     "related_only": false
+    },
+    {
+     "en": "a dearth of amenities",
+     "az": "məişət xidmətlərinin (şəraitin) çatışmazlığı",
+     "usage": "amenity = a useful feature of a place, such as a shop or park",
+     "related_only": false
+    },
+    {
+     "en": "a dearth of vacancies",
+     "az": "boş iş yerlərinin azlığı",
+     "usage": "vacancy = a job that is available",
+     "related_only": false
+    },
+    {
+     "en": "a chronic dearth",
+     "az": "xroniki qıtlıq",
+     "usage": "chronic = lasting for a long time; difficult to cure",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "There is a dearth of reliable information on the subject.",
+     "az": "Bu mövzuda etibarlı məlumat qıtlığı var."
+    },
+    {
+     "en": "Rural hospitals suffer from a chronic dearth of nurses.",
+     "az": "Kənd xəstəxanaları tibb bacılarının xroniki çatışmazlığından əziyyət çəkir."
+    },
+    {
+     "en": "The new suburb has a dearth of amenities.",
+     "az": "Yeni şəhərətrafı qəsəbədə məişət xidmətləri çatışmır."
+    },
+    {
+     "en": "A dearth of rainfall has ruined the harvest.",
+     "az": "Yağıntı qıtlığı məhsulu məhv edib."
+    }
+   ],
+   "usage": [
+    "DEARTH is a formal noun used almost only in the pattern \"a dearth OF something\", meaning that there is not enough of it. It is singular and takes a singular verb: \"There is a dearth of evidence.\" Pronunciation: /dɜːθ/, rhyming with \"earth\". Compare LACK (general), SHORTAGE (not enough of something needed), SCARCITY (a situation in which something is hard to obtain) and PAUCITY (very formal). The opposite idea is PLETHORA or ABUNDANCE."
+   ],
+   "new_items": [
+    "DEARTH",
+    "nurse",
+    "imagination",
+    "rainfall",
+    "engineer",
+    "amenity",
+    "vacancy",
+    "chronic"
+   ]
+  },
+  {
+   "id": "C2-049",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "DELINEATE",
+   "pos": "verb",
+   "ipa_british": "dɪˈlɪnieɪt",
+   "azerbaijani": "dəqiq müəyyən etmək, sərhədini cızmaq; ətraflı təsvir etmək",
+   "key_forms": "delineate – delineates – delineated – delineated – delineating",
+   "word_family": {
+    "n": [
+     {
+      "form": "delineation",
+      "az": "dəqiq müəyyənləşdirmə, sərhədlərin cızılması"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "delineate the contours",
+     "az": "cizgilərini (konturlarını) müəyyən etmək",
+     "usage": "contour = the outer shape of something",
+     "related_only": false
+    },
+    {
+     "en": "delineate a zone",
+     "az": "zonanı müəyyən etmək",
+     "usage": "zone = an area with a particular feature or use",
+     "related_only": false
+    },
+    {
+     "en": "delineate the parameters",
+     "az": "çərçivəni (parametrləri) müəyyən etmək",
+     "usage": "parameter = a limit that controls how something should be done",
+     "related_only": false
+    },
+    {
+     "en": "delineate jurisdiction",
+     "az": "səlahiyyət dairəsini müəyyən etmək",
+     "usage": "jurisdiction = the authority to make legal decisions",
+     "related_only": false
+    },
+    {
+     "en": "delineate the frontier",
+     "az": "sərhədi müəyyən etmək",
+     "usage": "frontier = a line that separates two countries",
+     "related_only": false
+    },
+    {
+     "en": "delineate the remit",
+     "az": "səlahiyyət çərçivəsini müəyyən etmək",
+     "usage": "remit = the area of activity over which somebody has authority",
+     "related_only": false
+    },
+    {
+     "en": "delineate the perimeter",
+     "az": "ərazinin xarici sərhədini cızmaq",
+     "usage": "perimeter = the outside edge of an area",
+     "related_only": false
+    },
+    {
+     "en": "the delineation of",
+     "az": "nəyinsə dəqiq müəyyənləşdirilməsi",
+     "usage": "Formal noun pattern",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The contract clearly delineates the responsibilities of each partner.",
+     "az": "Müqavilə hər bir tərəfdaşın məsuliyyətini aydın şəkildə müəyyən edir."
+    },
+    {
+     "en": "A white line delineates the perimeter of the pitch.",
+     "az": "Ağ xətt meydançanın xarici sərhədini cızır."
+    },
+    {
+     "en": "The report delineates the parameters of the inquiry.",
+     "az": "Hesabat araşdırmanın çərçivəsini müəyyən edir."
+    },
+    {
+     "en": "The treaty delineated the frontier between the two states.",
+     "az": "Müqavilə iki dövlət arasındakı sərhədi müəyyən etdi."
+    }
+   ],
+   "usage": [
+    "DELINEATE means to describe or mark something precisely, especially a boundary or a set of duties. It is formal: delineate responsibilities, delineate roles, delineate boundaries. It is frequently passive with an adverb: \"clearly delineated\", \"sharply delineated\". Compare OUTLINE (give the main points), DEMARCATE (mark the limits of an area) and DEFINE (state exactly what something is)."
+   ],
+   "new_items": [
+    "DELINEATE",
+    "delineation",
+    "contour",
+    "zone",
+    "parameter",
+    "jurisdiction",
+    "frontier",
+    "remit",
+    "perimeter"
+   ]
+  },
+  {
+   "id": "C2-050",
+   "level": "C2",
+   "unit": "Precision in argument and evidence",
+   "main_word": "ELUCIDATE",
+   "pos": "verb",
+   "ipa_british": "ɪˈluːsɪdeɪt",
+   "azerbaijani": "aydınlaşdırmaq, izah edib açıqlamaq",
+   "key_forms": "elucidate – elucidates – elucidated – elucidated – elucidating",
+   "word_family": {
+    "n": [
+     {
+      "form": "elucidation",
+      "az": "aydınlaşdırma, izah"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "elucidate the mechanism",
+     "az": "mexanizmi aydınlaşdırmaq",
+     "usage": "mechanism = the way in which something works",
+     "related_only": false
+    },
+    {
+     "en": "elucidate the pathway",
+     "az": "(prosesin) yolunu aydınlaşdırmaq",
+     "usage": "pathway = a series of stages or reactions leading to a result",
+     "related_only": false
+    },
+    {
+     "en": "elucidate an obscure verse",
+     "az": "anlaşılmaz misranı izah etmək",
+     "usage": "obscure = difficult to understand; verse = a line or group of lines of poetry",
+     "related_only": false
+    },
+    {
+     "en": "elucidate a riddle",
+     "az": "tapmacanı (müəmmanı) açmaq",
+     "usage": "riddle = a question that is difficult to understand and has a clever answer",
+     "related_only": false
+    },
+    {
+     "en": "elucidate the intricacies",
+     "az": "incə məqamları aydınlaşdırmaq",
+     "usage": "intricacy = one of the complicated details of something",
+     "related_only": false
+    },
+    {
+     "en": "elucidate the dynamics",
+     "az": "dinamikanı (qarşılıqlı təsirləri) aydınlaşdırmaq",
+     "usage": "dynamics = the way in which people or things react to each other",
+     "related_only": false
+    },
+    {
+     "en": "elucidate a metaphor",
+     "az": "metaforanı izah etmək",
+     "usage": "metaphor = a way of describing something by comparing it to something else",
+     "related_only": false
+    },
+    {
+     "en": "elucidate the context",
+     "az": "konteksti aydınlaşdırmaq",
+     "usage": "context = the situation in which something happens",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The lecturer used a diagram to elucidate the mechanism.",
+     "az": "Mühazirəçi mexanizmi aydınlaşdırmaq üçün sxemdən istifadə etdi."
+    },
+    {
+     "en": "Further research is needed to elucidate the dynamics of the process.",
+     "az": "Prosesin dinamikasını aydınlaşdırmaq üçün əlavə tədqiqatlar lazımdır."
+    },
+    {
+     "en": "The notes elucidate the more obscure verses of the poem.",
+     "az": "Qeydlər poemanın daha anlaşılmaz misralarını izah edir."
+    },
+    {
+     "en": "Could you elucidate your last point?",
+     "az": "Son fikrinizi aydınlaşdıra bilərsinizmi?"
+    }
+   ],
+   "usage": [
+    "ELUCIDATE is a formal verb meaning to make something clear by explaining it more fully. It takes a direct object or stands alone: \"Let me elucidate.\" It is typical of academic writing and scientific papers (\"elucidate the mechanism\"). Compare CLARIFY (make easier to understand), EXPLAIN (general) and ILLUMINATE (make clearer, often by giving new information). The root is the Latin \"lucidus\" (clear), as in LUCID."
+   ],
+   "new_items": [
+    "ELUCIDATE",
+    "elucidation",
+    "mechanism",
+    "pathway",
+    "obscure",
+    "verse",
+    "riddle",
+    "intricacy",
+    "dynamics",
+    "metaphor",
+    "context"
+   ]
+  },
+  {
+   "id": "C2-051",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "EPHEMERAL",
+   "pos": "adjective",
+   "ipa_british": "ɪˈfemərəl",
+   "azerbaijani": "ötəri, qısaömürlü, keçici",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "ephemerality",
+      "az": "ötərilik, qısaömürlülük"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "ephemeral pleasures",
+     "az": "ötəri həzlər",
+     "usage": "pleasure = a feeling of enjoyment",
+     "related_only": false
+    },
+    {
+     "en": "ephemeral beauty",
+     "az": "keçici gözəllik",
+     "usage": "beauty = the quality of being pleasing to look at",
+     "related_only": false
+    },
+    {
+     "en": "ephemeral glory",
+     "az": "ötəri şan-şöhrət",
+     "usage": "glory = great honour and admiration",
+     "related_only": false
+    },
+    {
+     "en": "an ephemeral craze",
+     "az": "ötəri dəb (həvəs)",
+     "usage": "craze = an enthusiastic interest that lasts a short time",
+     "related_only": false
+    },
+    {
+     "en": "an ephemeral glimpse",
+     "az": "bir anlıq görünüş",
+     "usage": "glimpse = a very brief look",
+     "related_only": false
+    },
+    {
+     "en": "ephemeral and fleeting",
+     "az": "ötəri və bir anlıq",
+     "usage": "fleeting = lasting only a short time",
+     "related_only": false
+    },
+    {
+     "en": "an ephemeral sculpture",
+     "az": "qısaömürlü heykəl (məsələn, buzdan)",
+     "usage": "sculpture = a work of art made by shaping stone, metal or other material",
+     "related_only": false
+    },
+    {
+     "en": "an ephemeral thrill",
+     "az": "ötəri həyəcan",
+     "usage": "thrill = a sudden strong feeling of excitement",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Fame in the age of social media is ephemeral.",
+     "az": "Sosial media dövründə şöhrət ötəridir."
+    },
+    {
+     "en": "The artist makes ephemeral sculptures out of ice and sand.",
+     "az": "Rəssam buzdan və qumdan qısaömürlü heykəllər düzəldir."
+    },
+    {
+     "en": "Most online crazes are ephemeral.",
+     "az": "İnternetdəki dəblərin çoxu ötəridir."
+    },
+    {
+     "en": "The poem is about the ephemeral beauty of spring flowers.",
+     "az": "Şeir yaz çiçəklərinin keçici gözəlliyindən bəhs edir."
+    }
+   ],
+   "usage": [
+    "EPHEMERAL means lasting for only a very short time. It is a literary and academic word, common in discussions of fashion, fame, media and art: \"the ephemeral nature of fame\". Pronunciation: /ɪˈfemərəl/ – \"ph\" is /f/. Compare TRANSIENT (staying or lasting only a short time), FLEETING (passing very quickly), SHORT-LIVED (plain English) and TEMPORARY (intended to last a limited time). The noun EPHEMERA means things that are used for a short time, such as tickets and posters."
+   ],
+   "new_items": [
+    "EPHEMERAL",
+    "ephemerality",
+    "pleasure",
+    "beauty",
+    "glory",
+    "craze",
+    "glimpse",
+    "fleeting",
+    "sculpture",
+    "thrill"
+   ]
+  },
+  {
+   "id": "C2-052",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "ERADICATE",
+   "pos": "verb",
+   "ipa_british": "ɪˈrædɪkeɪt",
+   "azerbaijani": "kökünü kəsmək, tamamilə aradan qaldırmaq",
+   "key_forms": "eradicate – eradicates – eradicated – eradicated – eradicating",
+   "word_family": {
+    "n": [
+     {
+      "form": "eradication",
+      "az": "kökünün kəsilməsi, tam aradan qaldırılma"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "eradicate polio",
+     "az": "poliomielitin kökünü kəsmək",
+     "usage": "polio = a serious infectious disease that can cause paralysis",
+     "related_only": false
+    },
+    {
+     "en": "eradicate smallpox",
+     "az": "çiçək xəstəliyinin kökünü kəsmək",
+     "usage": "smallpox = a serious infectious disease, now eradicated",
+     "related_only": false
+    },
+    {
+     "en": "eradicate malaria",
+     "az": "malyariyanın kökünü kəsmək",
+     "usage": "malaria = a disease caused by the bite of some mosquitoes",
+     "related_only": false
+    },
+    {
+     "en": "eradicate terrorism",
+     "az": "terrorizmin kökünü kəsmək",
+     "usage": "terrorism = the use of violence for political aims",
+     "related_only": false
+    },
+    {
+     "en": "eradicate slavery",
+     "az": "köləliyi tamamilə aradan qaldırmaq",
+     "usage": "slavery = the system of owning people as property",
+     "related_only": false
+    },
+    {
+     "en": "eradicate pests",
+     "az": "zərərvericiləri məhv etmək",
+     "usage": "pest = an insect or animal that destroys plants or food",
+     "related_only": false
+    },
+    {
+     "en": "eradicate superstition",
+     "az": "mövhumatın kökünü kəsmək",
+     "usage": "superstition = a belief that is not based on reason or science",
+     "related_only": false
+    },
+    {
+     "en": "eradicate the scourge of",
+     "az": "... bəlasının kökünü kəsmək",
+     "usage": "scourge = something that causes great suffering",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Smallpox was eradicated in 1980.",
+     "az": "Çiçək xəstəliyinin kökü 1980-ci ildə kəsilib."
+    },
+    {
+     "en": "The campaign aims to eradicate polio worldwide.",
+     "az": "Kampaniyanın məqsədi bütün dünyada poliomielitin kökünü kəsməkdir."
+    },
+    {
+     "en": "It will take decades to eradicate the scourge of corruption.",
+     "az": "Korrupsiya bəlasının kökünü kəsmək onilliklər çəkəcək."
+    },
+    {
+     "en": "Farmers use chemicals to eradicate pests.",
+     "az": "Fermerlər zərərvericiləri məhv etmək üçün kimyəvi maddələrdən istifadə edirlər."
+    }
+   ],
+   "usage": [
+    "ERADICATE means to destroy or get rid of something bad completely: eradicate a disease, eradicate poverty, eradicate racism. It is stronger than REDUCE or TACKLE and suggests that nothing remains (Latin \"radix\" = root: to pull up by the roots). Compare ELIMINATE (remove completely; more general), WIPE OUT (informal) and STAMP OUT (end something bad by strong action). \"Eradicate poverty\" is a favourite collocation in IELTS essays."
+   ],
+   "new_items": [
+    "ERADICATE",
+    "eradication",
+    "polio",
+    "smallpox",
+    "malaria",
+    "terrorism",
+    "slavery",
+    "pest",
+    "superstition",
+    "scourge"
+   ]
+  },
+  {
+   "id": "C2-053",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "FALLACY",
+   "pos": "noun",
+   "ipa_british": "ˈfæləsi",
+   "azerbaijani": "yanlış təsəvvür; məntiqi səhv",
+   "key_forms": "fallacy – fallacies",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "fallacious",
+      "az": "yanlış, əsassız"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "the fallacy of",
+     "az": "... haqqında yanlış təsəvvür",
+     "usage": "The usual pattern: the fallacy OF + noun / -ing",
+     "related_only": false
+    },
+    {
+     "en": "the gambler's fallacy",
+     "az": "qumarbaz yanılması",
+     "usage": "gambler = a person who risks money on games of chance",
+     "related_only": false
+    },
+    {
+     "en": "the sunk-cost fallacy",
+     "az": "batmış xərclər yanılması",
+     "usage": "sunk-cost = money already spent that cannot be recovered",
+     "related_only": false
+    },
+    {
+     "en": "the straw-man fallacy",
+     "az": "\"saman müqəvva\" yanılması (rəqibin fikrini təhrif edib təkzib etmək)",
+     "usage": "straw-man = a weak, invented version of an opponent's argument",
+     "related_only": false
+    },
+    {
+     "en": "refute a fallacy",
+     "az": "yanlış fikri təkzib etmək",
+     "usage": "refute = prove that a statement is wrong",
+     "related_only": false
+    },
+    {
+     "en": "debunk a fallacy",
+     "az": "yanlış fikri ifşa etmək",
+     "usage": "debunk = show that an idea or belief is false",
+     "related_only": false
+    },
+    {
+     "en": "an enduring fallacy",
+     "az": "uzunömürlü yanlış təsəvvür",
+     "usage": "enduring = lasting for a long time",
+     "related_only": false
+    },
+    {
+     "en": "a fallacious inference",
+     "az": "yanlış nəticə (çıxarış)",
+     "usage": "inference = a conclusion reached from the facts available",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "It is a fallacy that money always brings happiness.",
+     "az": "Pulun həmişə xoşbəxtlik gətirməsi yanlış təsəvvürdür."
+    },
+    {
+     "en": "Continuing a bad project because of the money already spent is the sunk-cost fallacy.",
+     "az": "Artıq xərclənmiş pula görə uğursuz layihəni davam etdirmək batmış xərclər yanılmasıdır."
+    },
+    {
+     "en": "The book debunks several popular fallacies about diet.",
+     "az": "Kitab pəhrizlə bağlı bir neçə geniş yayılmış yanlış fikri ifşa edir."
+    },
+    {
+     "en": "His conclusion rests on a fallacious inference.",
+     "az": "Onun gəldiyi nəticə yanlış çıxarışa əsaslanır."
+    }
+   ],
+   "usage": [
+    "A FALLACY is a false idea that many people believe, or an error in reasoning that makes an argument invalid. Naming fallacies is useful in critical essays: the STRAW-MAN fallacy (attacking a distorted version of the other side's view), the FALSE DICHOTOMY, the SLIPPERY SLOPE. FALLACIOUS is the formal adjective. Compare MISCONCEPTION (a wrong idea based on poor understanding) and MYTH (a widely held false belief)."
+   ],
+   "new_items": [
+    "FALLACY",
+    "fallacious",
+    "gambler",
+    "sunk-cost",
+    "straw-man",
+    "refute",
+    "debunk",
+    "enduring",
+    "inference"
+   ]
+  },
+  {
+   "id": "C2-054",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "IMPEDE",
+   "pos": "verb",
+   "ipa_british": "ɪmˈpiːd",
+   "azerbaijani": "mane olmaq, ləngitmək, əngəl törətmək",
+   "key_forms": "impede – impedes – impeded – impeded – impeding",
+   "word_family": {
+    "n": [
+     {
+      "form": "impediment",
+      "az": "maneə, əngəl"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "impede the flow",
+     "az": "axını ləngitmək",
+     "usage": "flow = the steady movement of something in one direction",
+     "related_only": false
+    },
+    {
+     "en": "an impediment to",
+     "az": "nəyəsə maneə",
+     "usage": "The preposition is TO",
+     "related_only": false
+    },
+    {
+     "en": "impede circulation",
+     "az": "dövranı (qan dövranını, hərəkəti) ləngitmək",
+     "usage": "circulation = the movement of blood, air or traffic around a system",
+     "related_only": false
+    },
+    {
+     "en": "impede breathing",
+     "az": "nəfəs almağı çətinləşdirmək",
+     "usage": "breathing = the act of taking air into the lungs",
+     "related_only": false
+    },
+    {
+     "en": "impede navigation",
+     "az": "gəmiçiliyə (hərəkətə) mane olmaq",
+     "usage": "navigation = the movement of ships; also finding the way",
+     "related_only": false
+    },
+    {
+     "en": "impede drainage",
+     "az": "suyun axıb getməsinə mane olmaq",
+     "usage": "drainage = the system or process by which water flows away",
+     "related_only": false
+    },
+    {
+     "en": "impede pedestrians",
+     "az": "piyadaların hərəkətinə mane olmaq",
+     "usage": "pedestrian = a person who is walking in the street",
+     "related_only": false
+    },
+    {
+     "en": "a formidable impediment",
+     "az": "ciddi (böyük) maneə",
+     "usage": "formidable = very great and difficult to deal with",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Fallen trees impeded the flow of traffic.",
+     "az": "Yıxılmış ağaclar nəqliyyatın axınını ləngitdi."
+    },
+    {
+     "en": "Tight clothing can impede circulation.",
+     "az": "Dar paltar qan dövranını ləngidə bilər."
+    },
+    {
+     "en": "The lack of funds is a formidable impediment to progress.",
+     "az": "Vəsait çatışmazlığı irəliləyişə ciddi maneədir."
+    },
+    {
+     "en": "Cars parked on the pavement impede pedestrians.",
+     "az": "Səkidə saxlanılan maşınlar piyadaların hərəkətinə mane olur."
+    }
+   ],
+   "usage": [
+    "IMPEDE means to delay or stop the progress of something. It is more formal than HINDER and close to HAMPER and OBSTRUCT. The noun IMPEDIMENT takes TO: \"an impediment to growth\"; a \"speech impediment\" is a condition that makes it difficult to speak clearly. The Latin root means \"to tie the feet\" – compare PEDESTRIAN and PEDAL. Opposites: FACILITATE, EXPEDITE."
+   ],
+   "new_items": [
+    "IMPEDE",
+    "impediment",
+    "flow",
+    "circulation",
+    "breathing",
+    "navigation",
+    "drainage",
+    "pedestrian",
+    "formidable"
+   ]
+  },
+  {
+   "id": "C2-055",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "INEXORABLE",
+   "pos": "adjective",
+   "ipa_british": "ɪnˈeksərəbəl",
+   "azerbaijani": "qarşısıalınmaz, dönməz, amansız",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "inexorably",
+      "az": "qarşısıalınmaz şəkildə, dönmədən"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "an inexorable countdown",
+     "az": "dayanmayan geri sayım",
+     "usage": "countdown = the counting of seconds backwards to zero before an event",
+     "related_only": false
+    },
+    {
+     "en": "an inexorable slide",
+     "az": "qarşısıalınmaz eniş (tənəzzül)",
+     "usage": "slide = a change to a lower or worse condition",
+     "related_only": false
+    },
+    {
+     "en": "an inexorable tide",
+     "az": "qarşısıalınmaz axın",
+     "usage": "tide = the regular rise and fall of the sea; also a strong movement of opinion",
+     "related_only": false
+    },
+    {
+     "en": "an inexorable fate",
+     "az": "dönməz tale",
+     "usage": "fate = the things that will happen to somebody and cannot be changed",
+     "related_only": false
+    },
+    {
+     "en": "an inexorable descent",
+     "az": "qarşısıalınmaz eniş (çöküş)",
+     "usage": "descent = a movement downwards",
+     "related_only": false
+    },
+    {
+     "en": "an inexorable climb",
+     "az": "dayanmadan davam edən yüksəliş",
+     "usage": "climb = an increase in value or amount; also the act of going up",
+     "related_only": false
+    },
+    {
+     "en": "inexorably drawn to",
+     "az": "qarşısıalınmaz şəkildə nəyəsə çəkilən",
+     "usage": "drawn = attracted; from \"draw\"",
+     "related_only": false
+    },
+    {
+     "en": "inexorably towards",
+     "az": "dönmədən nəyəsə doğru",
+     "usage": "Common adverbial pattern with verbs of movement",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The inexorable rise in prices worries every family.",
+     "az": "Qiymətlərin qarşısıalınmaz artımı hər bir ailəni narahat edir."
+    },
+    {
+     "en": "The country seemed to be moving inexorably towards war.",
+     "az": "Ölkə sanki dönmədən müharibəyə doğru gedirdi."
+    },
+    {
+     "en": "The film traces the hero's inexorable descent into madness.",
+     "az": "Film qəhrəmanın dəliliyə doğru qarşısıalınmaz enişini izləyir."
+    },
+    {
+     "en": "She felt inexorably drawn to the sea.",
+     "az": "O, özünü qarşısıalınmaz şəkildə dənizə çəkilən hiss edirdi."
+    }
+   ],
+   "usage": [
+    "INEXORABLE describes a process that cannot be stopped or changed: the inexorable rise of prices, the inexorable march of time. It is formal and often used of trends in essays. The adverb INEXORABLY is at least as common: \"move inexorably towards\". Stress: inEXorable. Compare RELENTLESS (never stopping or becoming weaker), UNSTOPPABLE (plain English) and INEVITABLE (certain to happen)."
+   ],
+   "new_items": [
+    "INEXORABLE",
+    "inexorably",
+    "countdown",
+    "slide",
+    "tide",
+    "fate",
+    "descent",
+    "climb",
+    "drawn"
+   ]
+  },
+  {
+   "id": "C2-056",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "OBFUSCATE",
+   "pos": "verb",
+   "ipa_british": "ˈɒbfʌskeɪt",
+   "azerbaijani": "qəsdən dolaşdırmaq, anlaşılmaz etmək",
+   "key_forms": "obfuscate – obfuscates – obfuscated – obfuscated – obfuscating",
+   "word_family": {
+    "n": [
+     {
+      "form": "obfuscation",
+      "az": "qəsdən dolaşdırma, çaşdırma"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "obfuscate code",
+     "az": "proqram kodunu qəsdən anlaşılmaz etmək",
+     "usage": "code = a set of instructions for a computer",
+     "related_only": false
+    },
+    {
+     "en": "obfuscate the paper trail",
+     "az": "sənəd izini itirmək",
+     "usage": "paper = documents; trail = a series of marks or records left behind",
+     "related_only": false
+    },
+    {
+     "en": "obfuscate the blame",
+     "az": "günahın kimdə olduğunu dolaşdırmaq",
+     "usage": "blame = responsibility for something bad",
+     "related_only": false
+    },
+    {
+     "en": "obfuscate wrongdoing",
+     "az": "qanunsuz əməli ört-basdır etmək",
+     "usage": "wrongdoing = illegal or dishonest behaviour",
+     "related_only": false
+    },
+    {
+     "en": "a smokescreen of obfuscation",
+     "az": "çaşdırıcı sözlərdən ibarət pərdə",
+     "usage": "smokescreen = something said or done to hide the truth",
+     "related_only": false
+    },
+    {
+     "en": "verbal obfuscation",
+     "az": "söz oyunu ilə çaşdırma",
+     "usage": "verbal = connected with words",
+     "related_only": false
+    },
+    {
+     "en": "wilful obfuscation",
+     "az": "qəsdən çaşdırma",
+     "usage": "wilful = done deliberately, although it is wrong",
+     "related_only": false
+    },
+    {
+     "en": "obfuscate and evade",
+     "az": "dolaşdırmaq və cavabdan yayınmaq",
+     "usage": "evade = avoid dealing with something",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The minister was accused of trying to obfuscate the issue.",
+     "az": "Nazir məsələni qəsdən dolaşdırmağa çalışmaqda ittiham olundu."
+    },
+    {
+     "en": "The company used complex accounting to obfuscate wrongdoing.",
+     "az": "Şirkət qanunsuz əməli ört-basdır etmək üçün mürəkkəb mühasibat üsullarından istifadə etdi."
+    },
+    {
+     "en": "His answer was a masterpiece of verbal obfuscation.",
+     "az": "Onun cavabı söz oyunu ilə çaşdırmanın şah əsəri idi."
+    },
+    {
+     "en": "Instead of answering, officials continued to obfuscate and evade.",
+     "az": "Rəsmilər cavab vermək əvəzinə məsələni dolaşdırmaqda və yayınmaqda davam etdilər."
+    }
+   ],
+   "usage": [
+    "OBFUSCATE means to make something unclear or difficult to understand, especially deliberately. It is a formal word of criticism for politicians, lawyers and bureaucrats who hide the truth behind complicated language. In computing, code is obfuscated to protect it from being copied. Compare OBSCURE (make difficult to see or understand), CONFUSE (general) and MUDDY THE WATERS (idiom). Opposites: CLARIFY, ELUCIDATE."
+   ],
+   "new_items": [
+    "OBFUSCATE",
+    "obfuscation",
+    "code",
+    "paper",
+    "trail",
+    "blame",
+    "wrongdoing",
+    "smokescreen",
+    "verbal",
+    "wilful",
+    "evade"
+   ]
+  },
+  {
+   "id": "C2-057",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "PLETHORA",
+   "pos": "noun",
+   "ipa_british": "ˈpleθərə",
+   "azerbaijani": "həddindən artıq bolluq, çoxluq",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "a plethora of",
+     "az": "nəyinsə bolluğu (həddindən artıq çoxluğu)",
+     "usage": "Always in this pattern: a plethora OF + plural noun",
+     "related_only": false
+    },
+    {
+     "en": "a plethora of apps",
+     "az": "çoxlu sayda tətbiq (proqram)",
+     "usage": "app = a program for a phone or tablet",
+     "related_only": false
+    },
+    {
+     "en": "a plethora of acronyms",
+     "az": "saysız-hesabsız abreviatura",
+     "usage": "acronym = a word formed from the first letters of a name",
+     "related_only": false
+    },
+    {
+     "en": "a plethora of websites",
+     "az": "çoxlu sayda veb-sayt",
+     "usage": "website = a set of pages on the internet",
+     "related_only": false
+    },
+    {
+     "en": "a plethora of committees",
+     "az": "komitələrin bolluğu",
+     "usage": "committee = a group of people chosen to make decisions",
+     "related_only": false
+    },
+    {
+     "en": "a plethora of platforms",
+     "az": "çoxlu sayda platforma",
+     "usage": "platform = a type of computer system or online service",
+     "related_only": false
+    },
+    {
+     "en": "a plethora of loopholes",
+     "az": "çoxlu sayda qanun boşluğu",
+     "usage": "loophole = a mistake in a law that allows people to avoid obeying it",
+     "related_only": false
+    },
+    {
+     "en": "a bewildering plethora",
+     "az": "baş gicəlləndirən bolluq",
+     "usage": "bewildering = confusing because there are too many things",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "There is a plethora of apps for learning languages.",
+     "az": "Dil öyrənmək üçün çoxlu sayda tətbiq var."
+    },
+    {
+     "en": "Consumers face a bewildering plethora of choices.",
+     "az": "İstehlakçılar baş gicəlləndirən seçim bolluğu ilə üzləşirlər."
+    },
+    {
+     "en": "The report is full of a plethora of acronyms.",
+     "az": "Hesabat saysız-hesabsız abreviatura ilə doludur."
+    },
+    {
+     "en": "The tax code contains a plethora of loopholes.",
+     "az": "Vergi məcəlləsində çoxlu sayda boşluq var."
+    }
+   ],
+   "usage": [
+    "PLETHORA means a very large amount of something, strictly more than is needed, though in modern use it often simply means \"a lot\". The pattern is \"a plethora OF + plural noun\", usually with a plural verb in everyday English. Stress the first syllable: PLEthora /ˈpleθərə/. Compare ABUNDANCE (a large, welcome quantity), PROFUSION (a very large quantity), SURFEIT and GLUT (too much). The opposite is DEARTH."
+   ],
+   "new_items": [
+    "PLETHORA",
+    "app",
+    "acronym",
+    "website",
+    "committee",
+    "platform",
+    "loophole",
+    "bewildering"
+   ]
+  },
+  {
+   "id": "C2-058",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "PROPENSITY",
+   "pos": "noun",
+   "ipa_british": "prəˈpensəti",
+   "azerbaijani": "meyil, meyillilik",
+   "key_forms": "propensity – propensities",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "a propensity for",
+     "az": "nəyəsə meyil",
+     "usage": "propensity FOR + noun",
+     "related_only": false
+    },
+    {
+     "en": "a propensity to do sth",
+     "az": "nəyisə etməyə meyil",
+     "usage": "propensity + to-infinitive",
+     "related_only": false
+    },
+    {
+     "en": "a propensity to exaggerate",
+     "az": "şişirtməyə meyil",
+     "usage": "exaggerate = make something seem larger or more important than it is",
+     "related_only": false
+    },
+    {
+     "en": "a propensity to procrastinate",
+     "az": "işi təxirə salmağa meyil",
+     "usage": "procrastinate = delay doing something that you should do",
+     "related_only": false
+    },
+    {
+     "en": "a propensity for mischief",
+     "az": "dəcəlliyə meyil",
+     "usage": "mischief = bad behaviour that is annoying but not serious",
+     "related_only": false
+    },
+    {
+     "en": "a propensity to hoard",
+     "az": "yığıb saxlamağa meyil",
+     "usage": "hoard = collect and keep large amounts of something",
+     "related_only": false
+    },
+    {
+     "en": "an innate propensity",
+     "az": "anadangəlmə meyil",
+     "usage": "innate = that you have when you are born",
+     "related_only": false
+    },
+    {
+     "en": "a propensity to conform",
+     "az": "çoxluğa uymağa meyil",
+     "usage": "conform = behave in the way that most other people do",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "He has a propensity to exaggerate.",
+     "az": "Onun şişirtməyə meyli var."
+    },
+    {
+     "en": "Humans have an innate propensity for language.",
+     "az": "İnsanların dilə anadangəlmə meyli var."
+    },
+    {
+     "en": "Students have a propensity to procrastinate before exams.",
+     "az": "Tələbələrin imtahanlardan əvvəl işi təxirə salmağa meyli var."
+    },
+    {
+     "en": "People in crowds show a strong propensity to conform.",
+     "az": "İzdiham içindəki insanlar çoxluğa uymağa güclü meyil göstərirlər."
+    }
+   ],
+   "usage": [
+    "PROPENSITY is a formal noun for a natural tendency to behave in a particular way, often a bad one. Patterns: a propensity FOR something; a propensity TO do something. In economics, \"the propensity to consume\" is the proportion of income that people spend. Compare TENDENCY (general), INCLINATION (a feeling that makes you want to do something), PREDISPOSITION (a condition that makes something likely) and PENCHANT (a special liking)."
+   ],
+   "new_items": [
+    "PROPENSITY",
+    "exaggerate",
+    "procrastinate",
+    "mischief",
+    "hoard",
+    "innate",
+    "conform"
+   ]
+  },
+  {
+   "id": "C2-059",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "QUINTESSENTIAL",
+   "pos": "adjective",
+   "ipa_british": "ˌkwɪntɪˈsenʃəl",
+   "azerbaijani": "ən səciyyəvi, tipik nümunə olan",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "quintessence",
+      "az": "ən mükəmməl nümunə, mahiyyət"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "quintessentially",
+      "az": "ən səciyyəvi şəkildə, tam mənası ilə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "the quintessential gentleman",
+     "az": "əsl centlmen nümunəsi",
+     "usage": "gentleman = a man who is polite and behaves well",
+     "related_only": false
+    },
+    {
+     "en": "the quintessential villain",
+     "az": "tipik mənfi qəhrəman",
+     "usage": "villain = the main bad character in a story",
+     "related_only": false
+    },
+    {
+     "en": "the quintessential hero",
+     "az": "tipik qəhrəman nümunəsi",
+     "usage": "hero = a person admired for brave or good actions",
+     "related_only": false
+    },
+    {
+     "en": "the quintessential pub",
+     "az": "tipik ingilis meyxanası (pab)",
+     "usage": "pub = a building where people go to drink and meet friends",
+     "related_only": false
+    },
+    {
+     "en": "the quintessential seaside resort",
+     "az": "tipik dənizkənarı kurort",
+     "usage": "seaside = an area by the sea; resort = a place where people go on holiday",
+     "related_only": false
+    },
+    {
+     "en": "the quintessential outsider",
+     "az": "cəmiyyətdən kənarda qalan adamın tipik nümunəsi",
+     "usage": "outsider = a person who is not accepted as a member of a group",
+     "related_only": false
+    },
+    {
+     "en": "the quintessential underdog",
+     "az": "zəif tərəfin tipik nümunəsi",
+     "usage": "underdog = a person or team thought to be in a weaker position",
+     "related_only": false
+    },
+    {
+     "en": "the quintessence of",
+     "az": "nəyinsə ən mükəmməl nümunəsi",
+     "usage": "Formal noun pattern",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "He was the quintessential English gentleman.",
+     "az": "O, əsl ingilis centlmeninin nümunəsi idi."
+    },
+    {
+     "en": "Brighton is the quintessential seaside resort.",
+     "az": "Brayton tipik dənizkənarı kurortdur."
+    },
+    {
+     "en": "Tea with milk is quintessentially British.",
+     "az": "Südlü çay tam mənası ilə Britaniyaya xasdır."
+    },
+    {
+     "en": "The film's hero is the quintessential outsider.",
+     "az": "Filmin qəhrəmanı cəmiyyətdən kənarda qalan adamın tipik nümunəsidir."
+    }
+   ],
+   "usage": [
+    "QUINTESSENTIAL means being the most typical or perfect example of a kind of person or thing: \"the quintessential tourist\". It always comes before a noun and usually follows \"the\". QUINTESSENTIALLY is common before nationalities: quintessentially English. The noun QUINTESSENCE means the perfect example or the most important feature: \"the quintessence of good taste\". Compare TYPICAL (plain), ARCHETYPAL (the original model) and CLASSIC."
+   ],
+   "new_items": [
+    "QUINTESSENTIAL",
+    "quintessence",
+    "quintessentially",
+    "gentleman",
+    "villain",
+    "hero",
+    "pub",
+    "seaside",
+    "resort",
+    "outsider",
+    "underdog"
+   ]
+  },
+  {
+   "id": "C2-060",
+   "level": "C2",
+   "unit": "Time, tendency and truth",
+   "main_word": "SPURIOUS",
+   "pos": "adjective",
+   "ipa_british": "ˈspjʊəriəs",
+   "azerbaijani": "saxta, əsassız, yalançı",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "spuriously",
+      "az": "əsassız olaraq, saxta şəkildə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "a spurious charge",
+     "az": "əsassız ittiham",
+     "usage": "charge = an official claim that somebody has committed a crime",
+     "related_only": false
+    },
+    {
+     "en": "a spurious lawsuit",
+     "az": "əsassız məhkəmə iddiası",
+     "usage": "lawsuit = a claim brought to a court of law",
+     "related_only": false
+    },
+    {
+     "en": "a spurious signature",
+     "az": "saxta imza",
+     "usage": "signature = your name written in your own way",
+     "related_only": false
+    },
+    {
+     "en": "spurious sentiment",
+     "az": "saxta hissiyyat",
+     "usage": "sentiment = a feeling or opinion, especially one based on emotion",
+     "related_only": false
+    },
+    {
+     "en": "a spurious invoice",
+     "az": "saxta hesab-faktura",
+     "usage": "invoice = a list of goods or services with the amount to be paid",
+     "related_only": false
+    },
+    {
+     "en": "spurious credentials",
+     "az": "saxta diplomlar (etimadnamələr)",
+     "usage": "credentials = documents that prove your qualifications",
+     "related_only": false
+    },
+    {
+     "en": "a spurious comparison",
+     "az": "əsassız müqayisə",
+     "usage": "comparison = the act of examining similarities and differences",
+     "related_only": false
+    },
+    {
+     "en": "patently spurious",
+     "az": "açıq-aşkar əsassız",
+     "usage": "patently = clearly and without doubt",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "He was arrested on spurious charges.",
+     "az": "O, əsassız ittihamlarla həbs olundu."
+    },
+    {
+     "en": "The company was fined for sending spurious invoices.",
+     "az": "Şirkət saxta hesab-fakturalar göndərdiyinə görə cərimələndi."
+    },
+    {
+     "en": "The argument rests on a spurious comparison between the two countries.",
+     "az": "Dəlil iki ölkə arasındakı əsassız müqayisəyə söykənir."
+    },
+    {
+     "en": "The claim that the drug cures cancer is patently spurious.",
+     "az": "Bu dərmanın xərçəngi sağaltdığı iddiası açıq-aşkar əsassızdır."
+    }
+   ],
+   "usage": [
+    "SPURIOUS means false, although seeming to be genuine, or based on false reasoning: a spurious argument, a spurious claim, spurious accuracy. In statistics, a SPURIOUS CORRELATION is a connection between two sets of figures that appears real but is caused by chance or by a third factor. Compare BOGUS (pretending to be real), FAKE (a copy), SPECIOUS (seeming right but actually wrong) and UNFOUNDED (not based on facts)."
+   ],
+   "new_items": [
+    "SPURIOUS",
+    "spuriously",
+    "charge",
+    "lawsuit",
+    "signature",
+    "sentiment",
+    "invoice",
+    "credential",
+    "comparison",
+    "patently"
+   ]
   }
  ],
  "reserved_main_words": {
-  "A1": [],
-  "A2": [],
-  "B1": [],
-  "B2": [],
-  "C1": [],
-  "C2": []
+  "A1": [
+   "WANT",
+   "SAY",
+   "SIT",
+   "STAND",
+   "TEACH",
+   "WAKE"
+  ],
+  "A2": [
+   "BECOME",
+   "BELIEVE",
+   "FORGET",
+   "FLY",
+   "RIDE",
+   "ALLOW",
+   "APPEAR",
+   "BELONG",
+   "COLLECT",
+   "COUNT",
+   "COVER",
+   "CUT",
+   "FILL",
+   "NOTICE",
+   "PASS",
+   "THROW"
+  ],
+  "B1": [
+   "FAIL",
+   "ATTEND",
+   "CONTINUE",
+   "DEPEND",
+   "DESCRIBE",
+   "INCLUDE",
+   "REPLACE",
+   "DIVIDE",
+   "TREAT",
+   "WONDER",
+   "COMPARE",
+   "CONNECT",
+   "EXPECT",
+   "COMPLETE"
+  ],
+  "B2": [
+   "PERSUADE",
+   "PREDICT",
+   "PRIORITISE",
+   "REGULATE",
+   "ENFORCE",
+   "EVALUATE",
+   "EXCEED",
+   "INTEGRATE",
+   "JUSTIFY",
+   "NEGLECT",
+   "UNDERGO",
+   "WITHDRAW"
+  ],
+  "C1": [
+   "AMBIVALENT",
+   "CONCEDE",
+   "CONSOLIDATE",
+   "DEVISE",
+   "DIMINISH",
+   "DISCREPANCY",
+   "EXEMPLIFY",
+   "IMPARTIAL",
+   "INDISPENSABLE",
+   "JEOPARDISE",
+   "MARGINALISE",
+   "PARAMOUNT",
+   "PREDOMINANT",
+   "PREREQUISITE",
+   "REDUNDANT",
+   "TANGIBLE",
+   "VERSATILE"
+  ],
+  "C2": [
+   "ACQUIESCE",
+   "CAPITULATE",
+   "EXONERATE",
+   "HEGEMONY",
+   "IDIOSYNCRASY",
+   "INCONTROVERTIBLE",
+   "NEBULOUS",
+   "RECALCITRANT",
+   "SUPERFLUOUS",
+   "UNPALATABLE",
+   "VACILLATE",
+   "VEHEMENT",
+   "VERACITY"
+  ]
  }
 }

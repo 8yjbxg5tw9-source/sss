@@ -104,3 +104,9 @@ region | regional
 save | savings
 total | totally
 readily | ready
+app | apply
+beautiful | beauty
+equality | equally
+equality | inequality
+historical | history
+journal | journalism

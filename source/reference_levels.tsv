@@ -13,8 +13,10 @@ allocate	-
 ambiguous	B2
 ameliorate	-
 analyse	B1
+anomaly	-
 apply	A2
 approach	B1
+arbitrary	-
 argue	A2
 arrive	A1
 ask	A1
@@ -30,6 +32,7 @@ body	A1
 bolster	-
 break	A1
 bring	A1
+burgeon	-
 buy	A1
 campaign	B2
 catalyst	B2
@@ -41,6 +44,7 @@ choose	A1
 circumvent	-
 city	A1
 climate	B1
+cogent	C2
 coherent	B2
 colour	A1
 come	A1
@@ -50,8 +54,10 @@ complacent	-
 complain	A2
 comprehensive	B2
 confident	A2
+conflate	-
 consensus	B2
 consequence	A2
+conspicuous	-
 constraint	C1
 consume	B1
 contemplate	-
@@ -61,11 +67,14 @@ controversial	B1
 conundrum	-
 cook	A1
 correlate	C2
+corroborate	-
 crucial	B2
 culminate	-
 day	A1
 deal	A2
+dearth	-
 decide	A2
+delineate	-
 demand	B1
 deplete	-
 deteriorate	-
@@ -84,6 +93,7 @@ economy	B1
 education	A2
 effort	A2
 elicit	-
+elucidate	-
 emerge	B1
 employ	B2
 encompass	C2
@@ -91,7 +101,9 @@ endorse	B2
 enjoy	A1
 entrenched	-
 environment	B2
+ephemeral	C2
 epitomise	-
+eradicate	-
 erode	-
 establish	A2
 evidence	A2
@@ -102,6 +114,7 @@ explicit	-
 extent	B1
 facilitate	B2
 fall	A2
+fallacy	C2
 family	A1
 feasible	-
 feel	A1
@@ -126,12 +139,14 @@ hope	A1
 hot	A1
 house	A1
 impact	A2
+impede	C1
 impetus	-
 implement	B2
 important	A1
 improve	A2
 incentive	B2
 increase	A2
+inexorable	C2
 inherent	C1
 inhibit	-
 innovate	C1
@@ -162,6 +177,7 @@ motivate	B1
 move	A1
 new	A1
 nuance	-
+obfuscate	-
 obsolete	-
 old	A1
 open	A1
@@ -178,6 +194,7 @@ pervasive	C2
 plan	A1
 plausible	C1
 play	A1
+plethora	-
 poignant	-
 policy	B1
 precarious	-
@@ -189,9 +206,11 @@ profit	B2
 profound	C1
 proliferate	C1
 promote	B1
+propensity	-
 protect	B1
 provide	A2
 put	A1
+quintessential	-
 ramification	-
 read	A1
 reduce	B1
@@ -219,6 +238,7 @@ skill	A1
 solve	A1
 speak	A1
 sport	A1
+spurious	C2
 stake	B2
 stay	A1
 stigma	-
