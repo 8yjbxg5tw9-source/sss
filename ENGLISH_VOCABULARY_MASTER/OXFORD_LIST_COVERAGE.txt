@@ -1,0 +1,1004 @@
+====================================================================================================
+ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
+COVERAGE OF THE OXFORD 3000, THE OXFORD 5000 AND THE OXFORD PHRASE LIST
+====================================================================================================
+Generated: 2026-11-11
+
+This file is the progress record for one goal: every word of the Oxford 3000 and Oxford 5000 word
+lists and every phrase of the Oxford Phrase List (the PDF supplied for this course) must be taught
+in the course, each one exactly once. The lists are used only as a checklist of WHAT to teach; the
+lessons, translations and explanations are written for this course.
+Bu fayl bir məqsədin gedişat hesabatıdır: Oxford 3000 və Oxford 5000 söz siyahılarındakı hər söz və
+Oxford Phrase List-dəki hər ifadə (kurs üçün verilmiş PDF) bu kursda — hər biri yalnız bir dəfə —
+öyrədilməlidir. Aşağıda hansı sözün hansı dərsdə öyrədildiyi və hələ nələrin qaldığı göstərilir.
+
+1. SUMMARY  /  XÜLASƏ
+----------------------------------------------------------------------------------------------------
+   Level   Words on    in the      taught in   still to  |  Phrases on   taught   still to
+           the list    foundation  a lesson    teach     |  the list              teach
+   A1           899         186         713         0    |        200       159        41
+   A2           794          39         400       355    |        175        29       146
+   B1           693          17         293       383    |        175        18       157
+   B2          1277          10         482       785    |        125        11       114
+   C1          1272           0         337       935    |         75         3        72
+   TOTAL       4935         252        2225      2458    |        750       220       530
+
+   Words:   2,477 of 4,935 taught (50.2%)   |   Phrases: 220 of 750 taught (29.3%)
+
+   • A "word on the list" is one spelling. The PDF prints 5,323 entries because it lists some words
+     more than once (another part of speech at a higher level, or two senses such as bank (money) /
+     bank (river)); these are 4,935 different spellings, and one spelling is one item of the course
+     database.
+   • The word list in the PDF is the American English edition. The course uses British spelling, so
+     an American spelling counts as taught when its British form is taught (color → colour); these
+     pairs are in source/targets/spelling_variants.txt and are marked with → below.
+   • "In the foundation" = a grammar word taught in A1 Section 0. "Taught in a lesson" = a main
+     word, a word-family form or the new word of an expression; a word taught through an inflected
+     form is shown as  laugh → laughing.
+   • A phrase counts as taught when it is one of the phrases of a fixed-phrase lesson, or when an
+     expression of a main-word lesson teaches it (confirmed one by one in
+     source/targets/phrase_links.txt).
+   • The Phrase List also prints 249 example lines under its 750 phrases; they are used as examples
+     in the lessons where they fit, but they are not counted here.
+
+2. WORDS STILL TO BE TAUGHT  /  HƏLƏ ÖYRƏDİLMƏMİŞ SÖZLƏR (2,458)
+----------------------------------------------------------------------------------------------------
+   A1 (0) — complete / tamamlanıb
+   A2 (355)
+      able, according to, active, actually, adventure, advertise, advertisement, ah, airline, all
+      right, allow, almost, already, ancient, ankle, anymore, anyway, appear, appearance, architect,
+      architecture, army, arrange, arrangement, assistant, athlete, attend, attractive, audio,
+      author, available, background, badly, based, bean, beef, behave, belong, belt, biology, birth,
+      bit, block, blow, boil, bottom, bowl, brilliant, burn, businessman, button, camp, camping,
+      campus, candy, careful, carpet, certainly, chef, chemistry, chip, church, cigarette, circle,
+      clerk, closed, closet, clothing, coast, collect, column, communicate, conference, connect,
+      connected, contain, continue, cookie, copy, correctly, count, cover, crazy, creative, credit,
+      criminal, crowded, cry, curly, dead, deep, definitely, dentist, depend, desert, designer,
+      dessert, detective, director, disappear, discover, divorced, double, download, downtown,
+      drama, drawing, driving, drug, earth, electric, electrical, electronic, elevator, engine,
+      everyday, exact, exist, expect, experiment, expression, extremely, fail, farming, feed,
+      female, fever, fight, finally, fishing, flying, focus, following, fork, fortunately, frog,
+      gallery, garbage, god, gold, golf, greet, grocery, gun, guy, height, hide, hike, hill, hit,
+      hockey, hole, hurt, identify, immediately, impossible, included, including, incredible,
+      independent, informal, insect, instead, instead of, instructor, instrument, intelligent,
+      introduction, invent, invention, invitation, item, jam, jazz, jewelry, journalist, jump, kill,
+      kilometer, king, knee, knock, lab, lady, lake, lamp, lawyer, lead, lecture, lemon, likely,
+      lock, loud, low, lucky, mail, male, manner, mark, marry, math, mathematics, mayor, metal,
+      middle, mirror, monkey, moon, mostly, motorcycle, musical, musician, nearly, necessary, neck,
+      noisy, normal, normally, notice, nut, officer, ordinary, organize, owner, pack, painter,
+      palace, parking, particular, pass, passenger, penny, perform, perhaps, personality, physics,
+      pick, pilot, pleased, polite, pop, poster, predict, print, printer, produce, professor,
+      profile, pronounce, push, quantity, queen, quietly, railroad, rather, react, realize,
+      recently, reception, recognize, recommend, recording, refer, refrigerator, replace, reporter,
+      respond, ring, rock, rude, sadly, sail, sailing, sauce, scared, scary, schedule, score,
+      season, secretary, shake, sheet, ship, shout, shut, side, sir, site, ski, skiing, sky, smoke,
+      sneaker, soap, soccer, sock, soldier, sort, specific, spider, spoon, stair, stamp, steal,
+      stomach, stone, storm, stove, straight, stupid, subway, suddenly, suit, suppose, surprised,
+      surprising, sweet, tablet, teaching, teenage, thick, thin, thinking, throw, tour, tower,
+      track, tradition, transportation, trash, twin, typical, underground, understanding,
+      unfortunately, uniform, unit, united, unusual, used to, usual, valley, variety, washing, wave,
+      weak, web, wheel, wild, wood, wooden, working, worse, wow, yet
+   B1 (383)
+      ad, addition, administration, admire, admit, advanced, AI, album, alcoholic, amazed, announce,
+      announcement, annoy, annoyed, apologize, approximately, assignment, assist, attraction,
+      automatic, aware, backward, bake, base, battle, beat, bee, bell, bend, bite, bomb, bother,
+      branch, brave, breathe, bride, bubble, bury, cable, cap, captain, careless, ceiling,
+      celebration, central, champion, chapter, cheat, cheerful, chest, childhood, clever, click,
+      client, cloth, coal, coin, collection, colored, combine, commit, concentrate, conclude,
+      conclusion, confirm, confuse, confused, consist, container, contrast, convenient, convince,
+      corn, costume, cotton, court, covered, cruel, cultural, cupboard, currently, custom, decade,
+      define, definite, definition, deliver, destination, determine, diagram, diamond, directly,
+      dirt, disappointed, disappointing, discount, dislike, district, divide, documentary, donate,
+      drum, drunk, due, earthquake, eastern, editor, effectively, embarrassed, embarrassing,
+      emotion, engaged, engineering, entertain, entry, episode, equal, excitement, exhibition,
+      expand, expected, explode, familiar, fancy, fascinating, fashionable, fasten, federal,
+      fighting, fitness, fixed, flag, flood, flour, fold, folk, force, forever, frame, freeze,
+      frequently, frighten, frightened, frightening, frozen, fry, fur, garage, generally, generous,
+      gentle, ghost, giant, glad, graduate, grain, grateful, guilty, hang, headline, helicopter,
+      highway, hire, historic, horrible, horror, host, hunt, hurricane, illegal, imaginary,
+      immigrant, impressive, incredibly, indeed, indirect, indoor, ingredient, injure, injured,
+      innocent, intelligence, intend, investigate, involved, judge, keyboard, killing, kiss, label,
+      laboratory, latest, lay, leaf, leather, leisure, length, lip, locate, located, location, mad,
+      magic, mainly, marketing, meanwhile, medium, mess, mix, mixture, mud, nail, naturally, neat,
+      needle, northern, obviously, occasion, occur, odd, official, old-fashioned, operation,
+      organized, organizer, originally, outdoor, outdoors, painful, pale, pan, participate, passion,
+      path, percentage, personally, persuade, photographer, photography, pin, pipe, pleasant,
+      plenty, plus, poem, poet, poetry, poisonous, politician, port, possibly, pot, pour, powder,
+      pray, prayer, prediction, press, pretend, previously, priest, prince, princess, principal,
+      printing, prisoner, producer, profession, proper, properly, proud, punish, qualification,
+      qualify, quit, quote, racing, rarely, receipt, regularly, reject, relate, related, relaxed,
+      relaxing, reliable, religious, remind, remote, repeated, represent, reservation, retire,
+      retired, revise, roll, romantic, rope, rough, row, royal, sailor, sand, scan, script, seed,
+      servant, sex, sexual, shell, shine, shiny, shoot, shy, sight, signal, silent, similarity,
+      similarly, simply, sink, slave, slice, smooth, southern, specialize, specifically, spending,
+      spicy, statistic, statue, stick, stranger, string, studio, stuff, substance, suitable,
+      summarize, surely, surface, switch, tail, talented, tent, therefore, throat, tight, tiny, ton,
+      tongue, trainer, translate, translation, treat, treatment, trick, tube, typically, ugly,
+      unable, uncomfortable, underwear, unfair, union, unlike, unnecessary, unpleasant, update,
+      upset, used, various, victim, viewer, violent, vote, warn, western, Wi-Fi, wing, wonder, wool,
+      worldwide
+   B2 (785)
+      absolute, absorb, abstract, acceptable, accidentally, accommodate, accompany, accomplish,
+      accuracy, accurately, accuse, acid, acknowledge, activate, actual, additional, additionally,
+      adequate, adjust, affair, affordable, afterward, aggressive, aircraft, alien, altogether,
+      ambulance, amusing, ancestor, anger, angle, animation, anniversary, annually, anticipate,
+      anxious, apparently, appropriate, approve, armed, arrow, artistic, artwork, ashamed, assign,
+      associate, association, assure, astonishing, attachment, attorney, auction, badge, balanced,
+      ballet, balloon, bargain, barrier, basement, basically, basket, bat, bay, beg, beneficial,
+      bent, besides, bet, bid, billionaire, biological, bitter, blanket, blind, bold, bombing,
+      booking, bound, brake, breast, breath, brick, brief, broadcast, broadcaster, broadly, bug,
+      bunch, bush, cabin, calculate, canal, cancel, candle, capable, caption, cast, cave, certainty,
+      certificate, chase, cheek, cheer, chief, choir, chop, circuit, cite, citizen, civilization,
+      clarify, classic, classify, clinic, clip, closely, colony, combination, comedian, comfort,
+      comic, commander, commission, commonly, comparative, completion, complicated, compose,
+      composer, compound, comprise, concerned, confusing, congress, conscious, conservation,
+      conservative, considerably, consideration, consistent, consistently, console, conspiracy,
+      constant, construct, construction, consultant, contemporary, convenience, conventional,
+      convert, convey, convinced, core, corporation, corridor, council, counter, county, crack,
+      craft, crash, creation, critic, critically, criticize, cruise, cure, curious, curve, curved,
+      cute, dairy, dare, darkness, decent, deck, declare, decorate, decoration, decrease, defend,
+      defender, delete, deliberate, democratic, demonstration, depart, dependent, depressed,
+      depressing, desire, desperately, destruction, detailed, determination, devote, dig, disabled,
+      disappoint, disappointment, discourage, dishonest, dismiss, disorder, distant, distinct,
+      distinguish, distract, distribute, distribution, disturb, dive, diverse, domestic, dominate,
+      dot, dozen, draft, drag, dramatically, dull, dump, duration, dynamic, edit, edition,
+      efficient, elbow, elect, electronics, elegant, elementary, eliminate, elsewhere, emphasis,
+      emphasize, enable, engage, entertaining, enthusiastic, entire, envelope, equip, equivalent,
+      erupt, essentially, estate, ethic, ethnic, evaluate, evolution, evolve, examination, exceed,
+      exclude, executive, exhibit, exotic, exploration, exposure, extract, extraordinary, fabulous,
+      failure, fake, fantasy, fare, fault, feather, fellow, finance, firefighter, firework, firm,
+      flame, flash, float, folding, follower, fond, fool, forbid, forgive, formation, former,
+      formerly, fortunate, forum, fossil, found, founder, fraction, fragment, frequency, fully,
+      funding, furious, furthermore, gaming, gang, gay, gene, genetic, genius, genuinely,
+      globalization, globe, goodness, gorgeous, govern, governor, grab, grand, graphic, graphics,
+      greatly, guarantee, harmful, headquarters, heal, healthcare, hearing, heaven, heel, hell,
+      hence, herb, hesitate, hilarious, hip, historian, hollow, holy, homeless, honesty, honor,
+      hook, housing, humorous, hunting, icon, identical, illustrate, illustration, immune,
+      impatient, imply, impress, impressed, inch, incorporate, index, indication, industrial, infer,
+      info, inform, inhabitant, inherit, initially, ink, input, inquiry, insert, insist, inspector,
+      install, installation, instance, instant, instantly, institute, institution, integrate,
+      intellectual, intended, interact, interaction, internal, interpret, interrupt, interval,
+      invade, invasion, isolate, isolated, jail, jet, joy, junior, jury, justify, kit, labor,
+      ladder, landing, landscape, lane, lately, league, lean, legend, lens, lifetime, lighting,
+      likewise, limitation, limited, literally, literary, litre, litter, load, logo, loose, lord,
+      lower, lung, lyric, magnificent, make-up, making, manufacture, manufacturing, marker, massive,
+      matching, mate, maximum, means, measurement, mechanic, mechanical, medication, melt,
+      membership, memorable, military, miner, minimum, minister, miserable, mission, mixed, mode,
+      modify, monitor, monster, monthly, monument, moreover, mortgage, mosque, motor, mount,
+      multiple, multiply, mysterious, naked, navigate, nearby, necessity, negotiation, nerve,
+      neutral, nevertheless, nightmare, notebook, novelist, nowadays, numerous, nursing, nutrition,
+      obey, objective, obligation, observe, observer, obtain, occasionally, occupation, occupy,
+      offend, offender, offensive, ongoing, opera, operator, oppose, opposed, optimistic, orchestra,
+      organ, organic, origin, outer, outfit, overall, owe, ownership, packet, palm, pandemic, panel,
+      parade, participant, partly, partnership, patience, permanently, permit, pharmacy, phase,
+      pile, pill, pitch, pity, placement, plain, pointed, popularity, possess, potentially, praise,
+      precede, precise, precisely, predictable, pregnant, preview, primarily, prime, prior,
+      probability, probable, proceed, programming, progressive, promising, prompt, propose, protein,
+      protester, psychologist, psychology, publication, publicity, publishing, punk, purchase, pure,
+      pursuit, questionnaire, racial, racist, radiation, rail, random, rank, rapid, rat, rating,
+      raw, realistic, reasonable, rebuild, recall, receiver, reckon, recognition, recover, recruit,
+      recruitment, referee, refugee, regard, register, registration, regulate, relief, relieved,
+      rely, remarkable, reporting, representative, resident, resign, resolution, retail, retain,
+      revision, rhythm, rid, ridiculous, risky, rob, robbery, rocket, rose, roughly, rub, rubber,
+      ruin, rural, rush, satellite, satisfaction, satisfied, saving, scare, scholar, scratch,
+      scream, screening, secure, seeker, select, self, seminar, senate, senator, sensor, sequence,
+      session, settler, severely, sexy, shallow, shaped, shock, shocked, shooting, shore, shortly,
+      shot, sibling, silk, sincere, skull, slight, slope, solar, somehow, sometime, sophisticated,
+      soul, spare, specialist, specify, spectacular, spectator, speculate, speculation, spill,
+      spiritual, spite, split, spoil, spokesman, spokesperson, spokeswoman, sponsor, sponsorship,
+      sporting, stall, stare, steadily, steam, steep, sticky, stream, stretch, strictly, striking,
+      stroke, stunning, submit, subsequent, subsequently, suffering, sum, super, surgeon, surgery,
+      surround, survival, survivor, suspect, suspend, swallow, swear, sweep, sympathetic, tag, tank,
+      tap, tear, tease, technological, teens, temple, temporarily, tendency, terminal, terms,
+      terrify, terror, terrorist, testing, textbook, theft, therapist, therapy, thoroughly,
+      threaten, thumb, thus, timeline, timing, tissue, tonne, tournament, trading, tragic,
+      transform, transmit, trap, treasure, trial, tribe, trillion, truly, tsunami, tune, tunnel,
+      ultimate, unacceptable, uncertainty, unconscious, undergo, undertake, unexpected, unfold,
+      unfortunate, unite, universe, unknown, upper, urge, urgent, usage, vaccinate, vaccination,
+      vaccine, valid, van, variation, vast, venue, vertical, viewpoint, virtual, visible, visual,
+      vital, vitamin, voting, wander, warming, wealthy, weekly, weird, wheat, whilst, whisper,
+      willing, wire, wisdom, withdraw, workplace, workshop, worm, wrap, wrist
+   C1 (935)
+      , abolish, abortion, absent, absurd, abundance, academy, accelerate, acceptance, accessible,
+      accessory, accomplishment, accordance, accountable, accusation, acquisition, acre, activation,
+      activist, adhere, adjacent, adjustment, administer, administrative, administrator, adolescent,
+      adoption, aesthetic, affection, aftermath, aggression, agricultural, aide, albeit, alert,
+      algorithm, align, alignment, alike, all-time, allege, allegedly, allowance, ally, alongside,
+      aluminium, amateur, ambassador, amend, amid, analytics, anchor, angel, anonymous, appealing,
+      applaud, applicable, appoint, appreciation, architectural, archive, arena, arguably,
+      articulate, ash, assassination, assault, assemble, assembly, assert, asylum, attain,
+      authentic, authorize, auto, availability, await, awkward, backdrop, backing, bail, ballot,
+      bang, banner, bare, barrel, bass, battlefield, beam, beast, beloved, bench, benchmark,
+      beneath, beneficiary, betray, bind, biography, bishop, blade, blast, blaze, bleed, bless,
+      blessing, boast, boom, bounce, bout, bow, breach, breakdown, broadband, browser, brutal, buck,
+      buddy, buffer, bulk, burial, burst, buzz, cabinet, calculation, cancellation, canvas,
+      capability, capitalism, capitalist, cargo, carriage, carve, casino, casualty, catalogue,
+      cater, cattle, caution, cease, cemetery, chamber, characterize, charming, charter, chill,
+      chunk, circulate, citizenship, civic, civilian, clarity, clash, classification, clinical,
+      closure, cluster, cocktail, cognitive, coincide, collaborate, collective, collision,
+      columnist, comeback, commence, commentator, commerce, commissioner, commodity, communist,
+      companion, comparable, compensate, compensation, competence, competent, compile, complement,
+      complexity, comply, composition, conceal, concede, conceive, concession, condemn, confess,
+      configuration, confine, confirmation, confront, confrontation, congratulate, congregation,
+      congressional, connectivity, conquer, conscience, consciousness, consecutive, consistency,
+      consolidate, constituency, constitute, constitutional, consultation, contempt, continually,
+      contractor, conversion, convict, cooperate, cooperative, coordinate, coordination,
+      coordinator, cop, copper, copyright, correction, correspond, correspondent, corresponding,
+      corrupt, costly, councillor, counselling, counsellor, counterpart, countless, coup, courtesy,
+      crawl, creator, credible, creep, crown, crush, cryptocurrency, crystal, cult, cultivate,
+      custody, damaging, dawn, debris, debut, dedicated, dedication, deed, deem, default, defensive,
+      deficiency, defy, delegate, delegation, delicate, demon, denial, denounce, dense, density,
+      dependence, depict, deploy, deployment, deprive, deputy, descend, designate, desirable,
+      desktop, destructive, detain, detection, devastate, devise, diagnose, dictate, differentiate,
+      dimension, diminish, dip, diplomat, disastrous, discard, discharge, disclose, discretion,
+      displace, disposal, dispose, disrupt, dissolve, distinctive, divert, dividend, documentation,
+      domain, dominance, donor, dose, drain, drone, drown, dual, dub, duo, e-commerce, eager,
+      earnings, echo, educator, effectiveness, efficiency, elaborate, electoral, elevate, eligible,
+      embark, embarrassment, embassy, embed, embody, empower, enact, encouragement, encouraging,
+      endeavour, endless, endure, enforce, engagement, engaging, enquire, enrich, enrol, ensue,
+      enthusiast, entitle, entity, epidemic, equation, equity, erect, essence, evacuate,
+      evolutionary, excellence, exceptional, excess, exclusion, exclusive, exclusively, execute,
+      execution, exile, experimental, expire, exploitation, explosive, extremist, faction, faculty,
+      fade, fairness, fatal, favourable, feminist, festive, fibre, film-maker, filter, firearm,
+      fixture, flawed, flee, fleet, flesh, flexibility, fluid, follow-up, footage, formula, forth,
+      forthcoming, franchise, frankly, freely, frustrated, frustrating, functional, funeral, gallon,
+      gambling, gathering, gaze, gear, generic, genocide, gig, glance, glorious, grace, gravity,
+      grid, grind, guidance, guilt, gut, hack, halfway, hammer, handful, handling, handy,
+      harassment, harvest, haunt, heighten, heritage, high-profile, homeland, horn, hospitality,
+      hostage, humanity, humble, hybrid, hydrogen, identification, imagery, immense, imminent,
+      imprisonment, inability, inadequate, inappropriate, incidence, inclined, inclusive, incur,
+      indicator, indictment, indigenous, induce, indulge, infamous, infant, infect, infectious,
+      inflict, influential, initiate, injection, inmate, insider, inspect, inspiration, instruct,
+      instrumental, insufficient, intact, intake, integral, integrated, intensify, intensity,
+      intensive, intent, interactive, interface, interfere, interference, interim, interior,
+      intimate, investigator, invisible, invoke, involvement, ironically, irrelevant, isolation,
+      junction, kidnap, kidney, kingdom, lad, landlord, lap, large-scale, laser, latter, lawn,
+      layout, leak, leap, legendary, legislative, legislature, lengthy, lesbian, lethal, levy,
+      liable, liberal, likelihood, limb, line-up, linear, linger, listing, liver, lobby,
+      long-standing, long-time, loom, loop, loyalty, magical, magistrate, magnetic, magnitude,
+      mainland, mainstream, mandatory, manifest, manipulate, marginal, marine, marketplace, mask,
+      massacre, mathematical, meaningful, meantime, medieval, meditation, melody, memo, memoir,
+      memorial, mentor, merchant, mercy, mere, merge, midst, migrant, migration, milestone,
+      militant, militia, mill, minimal, mining, ministry, miracle, misery, missile, mob, mobilize,
+      moderate, modification, motorist, municipal, mutual, namely, neglect, neighbouring, nest,
+      newsletter, niche, nod, nominate, nomination, nominee, nonetheless, noon, notable, notably,
+      notification, notify, notorious, nursery, oblige, obsess, obsession, occasional, occurrence,
+      odds, offering, offset, offshore, operational, opt, optical, oral, organizational,
+      orientation, originate, outing, outlet, outlook, overlook, overly, overwhelm, pad, parental,
+      parish, partial, passing, passive, pastor, patch, patent, patrol, patron, peak, persistent,
+      personnel, petition, pharmaceutical, philosopher, physician, pioneer, pipeline, pirate, pit,
+      plead, plug, plunge, pole, pond, portfolio, portray, postpone, practitioner, predator,
+      predecessor, predominantly, pregnancy, preliminary, premium, prescribe, prescription,
+      presently, preservation, preside, presidency, presidential, prestigious, presumably, presume,
+      prevention, prey, prioritize, probe, problematic, proceedings, proceeds, processing,
+      processor, proclaim, productive, projection, prominent, pronounced, prosecute, prosecutor,
+      prospective, province, provincial, provoke, pulse, pump, punch, query, quest, radar, raid,
+      rally, ranking, rape, ratio, rational, ray, realization, rear, reasoning, reassure, rebel,
+      rebellion, recipient, recount, reflection, refuge, refusal, regain, regulator, rehabilitation,
+      reign, relevance, reliability, remainder, remains, removal, renew, renowned, rental,
+      replacement, reportedly, representation, reproduce, resemble, reside, residence, residential,
+      resistance, respective, respectively, restoration, restraint, resume, retreat, retrieve,
+      revenge, revival, revive, revolutionary, rifle, rip, ritual, rotate, rotation, ruling, sack,
+      sacred, sacrifice, sake, scattered, scrap, screw, seal, secular, seemingly, segment,
+      selective, sensation, sensitivity, separation, sequel, serial, set-up, settlement, sexuality,
+      shareholder, sheer, shipping, shrink, sigh, simulation, simultaneously, sin, situated, sketch,
+      skip, slam, slap, slash, slot, smash, snap, soak, soar, socialist, sole, solely, solicitor,
+      solidarity, solo, span, specialized, specification, specimen, spectacle, sphere, spin, spine,
+      spotlight, spouse, spray, spy, squeeze, stab, stability, stabilize, start-up, steer, stem,
+      stimulus, stir, storage, straightforward, strain, strategic, streaming, strip, strive,
+      structural, stumble, stun, submission, subscribe, subscriber, subscription, substantial,
+      substitution, suburban, succession, successive, successor, suck, sue, suicide, suite, superb,
+      supervise, supervisor, supplement, supposedly, suppress, surpass, suspension, suspicious,
+      swing, sword, symbolic, syndrome, tactic, tactical, taxpayer, tempt, tenant, tenure,
+      terminate, terrain, terrific, testimony, thankfully, theoretical, thereafter, thereby,
+      thrilled, thrive, timber, timely, tobacco, tolerate, toll, toss, toxic, trademark,
+      trafficking, trailer, trans, transcript, transit, transmission, tribal, tribunal, trio,
+      triumph, trophy, troubled, trustee, tuition, turnover, twist, undoubtedly, unify, unveil,
+      upcoming, upgrade, uphold, utility, utilize, vacuum, vague, vanish, varied, vegan, vein,
+      vendor, verify, versus, vessel, veteran, vibrant, vice, vicious, villager, violate, violation,
+      viral, vocal, vow, ward, warehouse, warfare, warrant, warrior, weaken, weave, weed,
+      whatsoever, whip, wholly, widen, widow, width, wildfire, willingness, wipe, wit, withdrawal,
+      workout, worsen, worship, worthy, yell, yield, youngster
+
+3. PHRASES STILL TO BE TAUGHT  /  HƏLƏ ÖYRƏDİLMƏMİŞ İFADƏLƏR (530)
+----------------------------------------------------------------------------------------------------
+   A1 (41)
+      all over the world; a period of time; at the moment; at university; bad thing; cell phone;
+      differences between A and B; difficult for sb; excuse me; for a long time; for a moment; good
+      thing; half an hour; high school; How long…?; important for sb/sth; I'm sorry; in class; in
+      fact; in the future; it is important to do sth; kind of sb/sth; know how; of course; on the
+      internet; on the left; pay for sth; plan for sth; post office; pretty good; really good;
+      really like; right now; stay in; talk about sb/sth; the 20th century; this kind of…; too long;
+      TV show; welcome to sth; You're welcome
+   A2 (146)
+      a bit; able to do sth; a couple of sth; again and again; all about…; all kinds of…; all over…;
+      all sorts of…; a long time ago; a long way; a number of sth; art gallery; as a result; as part
+      of sth; as soon as; as well; at first; at least; at the age of…; at the start of sth; at the
+      time; at the time of sth; at the top; based on sth; be allowed to do sth; belong to sb; belong
+      to sth; be made of sth; by the end of sth; care about sth; carry on; carry sth out; check in;
+      check out; climate change; close to sb/sth; connected to sth; connected with sb/sth; credit
+      card; depend on sb/sth; depend on sth; do well; each one; end with sth; even more…; everyone
+      else; except for; far away; feel good; fill sth in; find it difficult to do sth; first of all;
+      focus on sb/sth; followed by sb/sth; for the rest of sth; for this reason; get back; get
+      better; get lost; get out; give up; give sth up; go and…; go away; go down; go down sth; go
+      up; happen to sb/sth; have got to; Have you ever…?; health problems; hear about sb/sth; I
+      don't care; if necessary; if you want to; I guess; I'm afraid…; I mean; in business; in
+      danger; in history; in hospital; in prison; in some cases; instead of; in the air; in the end;
+      in the middle; in the same way; in this way; it depends; lead to sth; less than…; Let me…; let
+      me know; look after sb/sth/yourself; look back at sth; make money; make sense; make sure; much
+      better; not at all; no way; Oh dear; Oh well; on earth; on the ground; on the other side; on
+      the wall; on top of sth/sb; one or two; ordinary people; per hour; pick sb/sth up; police
+      officer; police station; quite a lot; reasons why; refer to sb/sth; report on sth; respond to
+      sth/sb; science fiction; search for sth/sb; so that…; solution to sth; sort of sth; sound like
+      sb/sth; start with sb/sth; such a/an…; take care of sb/sth/yourself; take part; take place;
+      the best thing; the first thing; the following…; the important thing; the other side of sth;
+      the rest of sth; these days; they say…; throw sth away; up and down; Why not…?; work out;
+      worried about sb/sth; would love to do sth
+   B1 (157)
+      a bit more; a bit of sth; after all; a great deal; aim to do sth; a kind of…; a little bit; a
+      little more; along with sb/sth; a lot more; alternative to sth; and so on; apart from; a range
+      of sth; as if…; as much as; as soon as possible; at last; at risk; at times; attached to
+      sb/sth; a variety of sth; be about to do sth; be going on; be known as sb/sth; benefit from
+      sth; be supposed to do sth; by the time (that)…; can't afford sth; care for sb; caused by sth;
+      check sb/sth out; choose to do sth; clean up; click on sth; come up with sth; compared with
+      sth; concentrate on sth; consist of sb/sth; depending on; developing countries; due to sb/sth;
+      economic growth; end up; even if; even though; exactly the same; experience in sth; fail to do
+      sth; far more; far too; fed up; for a while; for free; for instance; for life; for long; for
+      some time; get on with sb; get to know sb; get used to sth; global warming; go ahead; go
+      wrong; growth in sth; have no idea; have sth in common; hear of sb/sth; heart disease; high
+      street; if I were you; in addition; in a way that...; in case…; in charge of sb/sth; in
+      contrast; in general; in order of sth; in order to do sth; in other words; in particular; in
+      public; in recent years; in response to sth; in the case of sth; in the form of sb/sth; in the
+      way (that)…; in this case; in time; I wonder if…; leave sb/sth out; likely to do sth; look
+      forward to sth; look out; make a difference; make sth up; mean to do sth; more and more; no
+      longer; no more than…; not even; not necessarily; not only; on a regular basis; on my own; on
+      the other hand; on the street; on the way; or something; or two; ought to; out there; over the
+      years; over time; participate in sth; point of view; point out; primary school; prime
+      minister; put sth up; quite a…; raise money; rather than; reaction to sth; relate to sth/sb;
+      related to sth/sb; respect for sb/sth; result in sth; rise in sth; search engine; secondary
+      school; slow down; so far; some kind of…; suffer from sth; sure to do sth; take sb/sth on;
+      take up sth; take sth up; thanks to sb/sth; that's it; the case; the fact that…; those who…;
+      to do with sb/sth; together with; too bad; try and…; turn out; unable to do sth; up to sth;
+      way of life; well known; work on sth; work sth out; wrong with sb/sth; you see
+   B2 (114)
+      a bit of a…; accused of sth; act as sth; aimed at sb; aimed at doing sth; all the way; a means
+      of sth; appeal to sb; apply to sb/sth; as a whole; as far as I am concerned; as follows…; as
+      for sb/sth; as long as…; as though…; at once; at present; at some point; at the end of the
+      day; at this point; at this stage; awareness of sth; back sb/sth up; be charged with sth; be
+      derived from sth; be expected to do sth; be known to do sth; be made up of sth; be surrounded
+      by sb/sth; be to blame; both sides; bound to do sth; by now; call for sth; case study; come
+      across sb/sth; come true; concerned about sth; concerned with sth; control over sb/sth;
+      decline in sth; dependent on sb/sth; despite the fact that…; draw attention to sb/sth; engage
+      in sth; engaged in sth; ever since(…); exposure to sth; figure sb/sth out; find yourself doing
+      sth; get in; get over sth/sb; get rid of sb/sth; go off; go on to do sth; go through sth; had
+      better; hang on; human being; human rights; if only…; I have to say…; in action; in an attempt
+      to do sth; in part; in place; in relation to sb/sth; in spite of sth; in the first place; in
+      the near future; in turn; investment in sth; I would say...; loads of sb/sth; more or less; no
+      doubt; no matter…; nothing but; on board; once again; one another; on the basis of sth; on the
+      one hand; opposed to sth; or so; other than; potential for sth; pretty much; prior to; prove
+      to be sth; put sth forward; put sth together; quality of life; ranging from; regarded as sth;
+      relevant to sb/sth; rely on sb/sth; role model; short of sth; so as to do sth; something
+      like…; sort sb/sth/yourself out; stick to sth; subject to sth; sum up; take advantage of
+      sb/sth; take sth into account; take over; that is; the vast majority of sth; up to sb; when it
+      comes to sth; whether or not…; would rather…
+   C1 (72)
+      above all; all but; as far as sb/sth is concerned; as of…; as opposed to; as such; as to sth;
+      at the expense of sb/sth; at the hands of sb; back and forth; bear sb/sth in mind; be
+      attributed to sb; be entitled to sth; be found to do sth; be meant to do sth; be reported to
+      be sth; be said to be sth; bring sth about; by means of sth; by no means; call on sb;
+      consistent with sth; dedicated to sth; deprive sb/sth of sth; dispose of sb/sth; follow sth
+      up; for that matter; for the benefit of sb; for the sake of sb/sth; get away with sth; given
+      that…; have sb/sth in mind; have nothing to do with sb/sth; in accordance with sth; in any
+      case; in a position to do sth; in conjunction with sb/sth; in connection with sb/sth; in
+      effect; in full; in line with sth; in practice; in respect of sth; in such a way (that)…; in
+      the absence of sb/sth; in the course of…; in the event of sth; in the face of sth; in the
+      hands of sb; in the light of sth; in the meantime; in the midst of sth; in the presence of sb;
+      in the wake of sb/sth; involvement in sth; let alone; little more than…; live on sth; may
+      well; nothing like; not to mention; on the part of sb; over the course of…; put it; seek to do
+      sth; set to do sth; the extent to which…; to date; up against sth; with regard to sb/sth; with
+      respect to sth; with the exception of sb/sth
+
+4. WHERE EVERY WORD OF THE LIST IS TAUGHT  /  SİYAHIDAKI HƏR SÖZ HARADA ÖYRƏDİLİR
+----------------------------------------------------------------------------------------------------
+   Format: word (lesson).  S0 = A1 Section 0 (foundation).  → = taught in this spelling or form.
+
+   A1 — 899 of 899 words
+      a, an (S0), about (S0), above (S0), across (S0), action (C2-011), activity (B1-013), actor
+      (C1-042), actress (A1-045), add (A1-048), address (A1-019), adult (B1-011), advice (B1-018),
+      afraid (A1-066), after (S0), afternoon (A1-034), again (A1-021), age (A1-037), ago (S0), agree
+      (B1-019), air (B1-034), airport (A2-003), all (S0), also (S0), always (S0), amazing (B1-005),
+      an (S0), and (S0), angry (A1-003), animal (A1-035), another (S0), answer (A1-006), any (S0),
+      anyone (S0), anything (S0), apartment → apartments (A1-062), apple (A1-007), April (A1-000),
+      area (A2-038), arm → arms (A1-016), around (S0), arrive (A2-004), art (B1-041), article
+      (A2-040), artist (A1-045), as (S0), ask (A1-021), at (S0), August (A1-000), aunt (A1-014),
+      away (S0), awesome (A1-059), baby (A1-027), back (S0), bad (A1-032), bag (A1-026), ball
+      (A2-005), banana (A1-041), band (A1-059), bank (B2-038), bar (A1-059), baseball (A1-052),
+      basketball (A1-052), bath (A1-039), bathroom (A1-013), be (S0), beach (A1-063), beautiful
+      (A1-027), because (S0), because of (S0), become (A1-045), bed (A1-001), bedroom (A1-013), beer
+      (A1-041), before (S0), begin (A1-047), beginning (A2-006), behind (S0), believe (A1-046),
+      below (S0), best (A1-015), better (A1-034), between (S0), bicycle (A1-063), big (A1-035), bike
+      (A2-018), bill (A1-021), bird → birds (A1-022), birthday (A1-038), black (A1-040), blog
+      (A1-047), blond (A1-068), blue (A1-040), boat (A1-058), body (A1-016), book (A1-018), boot →
+      boots (A1-050), bored (A1-066), boring (A2-017), born (A1-068), both (S0), bottle (A1-008),
+      box (A1-028), boy (A1-068), boyfriend (A1-061), bread (A1-010), break (A2-019), breakfast
+      (A1-007), bring (A2-007), brother (A1-014), brown (A1-040), build (A1-062), building (A1-037),
+      bus (A1-001), business (A2-001), busy (A1-031), but (S0), butter (A1-048), buy (A1-010), by
+      (S0), bye (S0), cafe (A1-051), cake (A1-005), call (A1-005), camera (A2-007), can (S0), cannot
+      (S0), capital (A1-033), car (A1-036), card → cards (A1-024), career (A2-022), carrot (A1-048),
+      carry (A1-026), cat (A1-044), cent (B1-023), center → centre (A1-033), chair (A2-013), change
+      (A2-012), chart (A1-057), cheap (A1-011), check (A2-033), cheese (A1-010), chicken (A1-009),
+      child (A1-038), chocolate (A1-039), choose (A2-022), city (A1-033), class (A2-006), classroom
+      (A1-054), clean (A1-013), climb (C2-055), clock (A1-044), close (A1-015), clothes (A1-010),
+      club (A2-034), coat (A1-029), coffee (A1-008), cold (A1-008), college (A1-054), color → colour
+      (A1-040), come (A1-002), common (A2-040), company (A1-023), compare (A1-053), complete
+      (A1-049), computer (A1-024), concert (A2-030), conversation (A1-022), cook (A1-009), cooking
+      (A1-009), cool (A1-067), correct (A1-056), cost (A1-011), could (S0), country (A1-035), course
+      (A2-022), cousin (A1-056), cow → cows (A1-065), cream (A1-048), create (B1-032), culture →
+      cultures (A2-036), cup (A1-005), customer (B1-015), cut (A1-055), dad (A1-044), dance
+      (A1-060), dancer (A1-060), dancing (A2-030), dangerous (A1-066), dark (A1-040), date (A2-012),
+      daughter (A1-014), day (A1-031), dear (A1-068), December (A1-000), decide (B1-020), delicious
+      (A1-049), describe (A1-056), description (A1-056), design (A2-022), desk (A1-043), detail →
+      details (A2-010), dialogue (C1-009), dictionary (A2-024), die (A1-066), diet (A2-033),
+      difference (A2-036), different (A2-036), difficult (A2-017), dinner (A1-005), dirty (A1-052),
+      discuss (B1-016), dish (A1-039), do (S0), doctor (A1-023), dog (A1-035), dollar (C2-027), door
+      (A1-028), down (S0), downstairs (A1-013), draw (A1-057), dress (A1-050), drink (A1-008), drive
+      (A1-017), driver (A1-047), during (S0), each (S0), ear → ears (A1-016), early (A1-002), east
+      (A1-064), easy (A2-035), eat (A1-007), egg → eggs (A1-009), eight (S0), eighteen (S0), eighty
+      (S0), elephant (A1-063), eleven (S0), else (S0), email (A1-018), end (A1-047), enjoy (A2-030),
+      enough (S0), euro → euros (A1-053), even (S0), evening (A1-034), event (A2-021), ever (S0),
+      every (S0), everybody (S0), everyone (S0), everything (S0), exam (A1-004), example (A1-006),
+      excited (A1-066), exciting (B1-033), exercise (A2-035), expensive (A1-011), explain (B1-012),
+      extra (A2-023), eye → eyes (A1-028), face (A1-038), fact → facts (A2-040), fall (A2-018),
+      false (A2-031), family (A1-014), famous (A1-045), fantastic (A1-060), far (A2-035), farm
+      (A1-065), farmer (A1-065), fast (A2-020), fat (C1-041), father (A1-014), favorite → favourite
+      (A1-040), February (A1-000), feel (A2-028), feeling (A2-028), festival (A1-060), few (S0),
+      fifteen (S0), fifth (S0), fifty (S0), fill (A1-055), final (A2-027), find (A2-017), fine
+      (A2-023), finish (A1-023), fire (A2-005), first (S0), fish (A1-009), five (S0), flight
+      (A2-005), floor (A1-012), flower → flowers (A1-006), fly (A1-064), follow (A2-035), food
+      (A2-011), foot (A1-043), football (A1-024), for (S0), forget (A1-046), form (B1-010), forty
+      (S0), four (S0), fourteen (S0), fourth (S0), free (A1-030), Friday (A1-000), friend (A1-015),
+      friendly (A1-015), from (S0), front (A1-043), fruit (A1-007), full (A2-026), fun (A1-060),
+      funny (A2-017), future (A2-021), game → games (A1-024), garden (A1-026), geography (A1-054),
+      get (A1-003), girl (A1-060), girlfriend (A1-061), give (A1-006), glass (A1-008), go (A1-001),
+      good (A1-034), goodbye (S0), grandfather (A1-014), grandmother (A1-014), grandparent →
+      grandparents (A1-061), gray → grey (A1-040), great (A1-009), green (A1-040), group (B1-016),
+      grow (A2-020), guess (A1-046), guitar (A1-024), gym (A1-051), hair (A1-016), half (B1-024),
+      hand (A1-006), happen → happened (A1-042), happy (A1-038), hard (A1-023), hat (A1-029), hate
+      (A1-052), have (S0), have to (S0), he (S0), head (A1-016), health (A2-033), healthy (A2-033),
+      hear (A2-031), hello (S0), help (A1-026), her (S0), here (S0), hey (S0), hi (S0), high
+      (B2-016), him (S0), his (S0), history (A1-017), hobby → hobbies (A2-040), home (A1-001),
+      homework (A1-026), hope (A2-031), horse (A1-063), hospital (A2-004), hot (A1-039), hotel →
+      hotels (A1-033), hour → hours (A1-028), house (A1-013), how (S0), however (S0), hundred (S0),
+      hungry (A2-028), husband (A1-014), I (S0), ice (A1-048), ice cream (A1-048), idea (A1-034), if
+      (S0), imagine (A1-046), important (A2-037), improve (B1-003), in (S0), include (A1-055),
+      information (A1-021), interest (A2-040), interested (A2-040), interesting (A2-040), internet
+      (A2-024), interview (B1-008), into (S0), introduce (A1-061), island (A1-064), it (S0), its
+      (S0), jacket (A1-029), January (A1-000), jeans (A1-029), job (A1-036), join (B1-016), juice
+      (A1-008), July (A1-000), June (A1-000), just (S0), keep (A2-015), key → keys (A1-027), kind
+      (A2-036), kitchen (A1-009), know (A2-040), land (C1-003), language (A1-017), large (B1-009),
+      last (A1-030), late (A1-002), later (S0), laugh → laughing (A2-026), learn (A1-017), leave
+      (A2-003), left (A2-014), leg → legs (A1-016), lesson (A1-036), let (A1-046), letter (A1-018),
+      library (A1-062), lie (A2-010), life (A1-012), light (A2-001), like (S0), line (A1-057), lion
+      (A1-057), list (A1-005), listen (A1-022), little (S0), live (A1-012), local (A2-011), long
+      (B1-039), look (A1-027), lose (A2-016), lot (S0), love (A2-018), lunch (A1-007), machine
+      (A1-062), magazine (A1-018), main (A2-032), make (A1-005), mall (A1-062), man (A1-037), many
+      (S0), map (A1-018), March (A1-000), market (B2-010), married (A1-003), match (A1-025), May
+      (S0), maybe (S0), me (S0), meal (A1-009), mean (A1-046), meaning → meanings (A2-036), meat
+      (A1-007), meet (A1-015), meeting (A1-047), member (A1-014), menu (A1-021), message (A1-018),
+      meter → metre (A1-053), midnight (A2-004), mile → miles (A1-053), milk (A1-008), million (S0),
+      minute → minutes (A2-004), miss (A2-006), mistake (A1-005), model (C1-019), modern (A1-033),
+      mom → mum (A1-044), moment (B1-020), Monday (A1-000), money (A1-011), month (A1-067), more
+      (S0), morning (A1-034), most (S0), mother (A1-014), mountain (A1-058), mouse (A2-005), mouth
+      (A1-028), move (A2-013), movie (A1-059), much (S0), museum → museums (A1-033), music (A1-022),
+      must (S0), my (S0), name (A1-019), natural (B2-019), near (S0), need (A1-026), negative
+      (B2-006), neighbor → neighbour (A1-026), neighborhood → neighbourhood (A1-056), never
+      (B1-040), new (A1-036), news (A1-018), newspaper (A1-010), next (A1-030), next to (A1-073),
+      nice (A1-031), night (A1-034), nine (S0), nineteen (S0), ninety (S0), no (S0), no one (S0),
+      nobody (S0), north (A1-064), nose (A1-016), not (S0), note (A1-019), nothing (S0), November
+      (A1-000), now (S0), number (A1-013), nurse → nurses (C2-048), o'clock (S0), object (A1-057),
+      ocean (A1-058), October (A1-000), of (S0), off (S0), office (A1-023), often (S0), oh (S0), OK
+      (S0), old (A1-037), on (S0), once (S0), one (S0), onion (A1-048), online (A1-010), only
+      (A2-031), open (A1-028), opinion (B1-017), opposite (A1-042), or (S0), orange (A1-008), order
+      (A1-049), other (S0), our (S0), out (S0), outside (S0), over (S0), own (B1-007), page
+      (A2-014), paint (A1-058), painting (A1-058), pair (A1-010), pants (A1-050), paper (C2-056),
+      paragraph (C1-005), parent → parents (A1-012), park → parks (A1-033), part → parts (A1-016),
+      partner (A2-017), party (A1-002), passport (A2-007), past (A1-067), pay (A2-023), pen
+      (A1-019), pencil (A1-057), people (A1-037), pepper (A1-048), perfect (A1-047), period
+      (B2-012), person (A2-006), personal (B1-004), phone (A1-005), photo (A1-004), photograph
+      (A1-058), phrase (C1-004), piano (A1-024), picture (A1-027), piece (B1-018), pig (A1-065),
+      pink (A1-040), pizza (A1-049), place → places (A2-012), plan (A2-021), plane (A2-001), plant →
+      plants (A2-020), play (A1-024), player (A1-024), please (S0), point (A2-037), police (A2-010),
+      pool (A1-062), poor (A1-011), popular (B1-017), positive (A2-029), possible (B1-012), post
+      (A2-008), potato → potatoes (A2-020), pound → pounds (A1-053), practice → practise (B1-006),
+      prefer (A1-051), prepare (B1-008), present (A1-006), pretty (A2-035), price (A1-021), probably
+      (S0), problem (A1-035), product (B1-004), program → programme (A1-025), project (B1-007),
+      purple (A1-040), put (A2-025), quarter (A1-067), question (A1-021), quick (A1-056), quickly
+      (A1-017), quiet (A1-012), quite (S0), radio (A1-022), rain (A1-032), read (A1-018), reader
+      (A1-018), reading (A1-018), ready (A1-003), real (B1-033), really (A2-030), reason (A2-010),
+      red (A1-040), relax (A2-011), remember (A2-011), repeat (A1-022), report (B1-008), restaurant
+      → restaurants (A1-033), result → results (B1-001), return (B2-013), rice (A1-009), rich
+      (A1-011), ride (A1-063), right (A2-014), river (A1-065), road (A1-026), room (A1-012), routine
+      (B2-029), rule (A2-019), run (B1-039), sad (A1-038), salad (B1-008), salt (A1-041), same
+      (A1-030), sandwich (A1-005), Saturday (A1-000), say (A1-042), school (A1-001), science
+      (A1-054), scientist (A1-045), second (S0), section (A1-055), see (A1-038), sell (A1-010), send
+      (A2-008), sentence (A1-019), September (A1-000), seven (S0), seventeen (S0), seventy (S0),
+      share (A2-040), she (S0), sheep (A1-065), shirt (A1-029), shoe → shoes (A1-010), shop
+      (A1-050), shopping (A1-001), short (A2-002), should (S0), show (A2-009), shower (A1-004), sick
+      (A2-028), similar (A1-053), sing (A1-059), singer (A1-059), sister (A1-014), sit (A1-043),
+      situation (B1-003), six (S0), sixteen (S0), sixty (S0), skill (B1-006), skirt (A1-029), sleep
+      (A1-044), slow (A1-067), small (A1-013), smart (A1-068), snake → snakes (A1-066), snow
+      (A1-032), so (S0), some (S0), somebody (S0), someone (S0), something (S0), sometimes (S0), son
+      (A1-014), song (A1-022), soon (A2-004), sorry (A2-028), sound (A2-038), soup (A1-039), south
+      (A1-064), space (A1-064), speak (A1-020), special (A2-040), spell (A1-055), spelling (A1-055),
+      spend (A1-011), sport (A2-034), spring (A1-051), stand (A1-043), star (B2-037), start
+      (A1-023), statement (B2-007), station (A1-033), stay (A2-002), still (A2-031), stop (A2-026),
+      store (A1-049), story (A1-018), street → streets (A1-033), strong (A2-039), student (A1-036),
+      study (A2-021), style (B2-035), subject (A2-012), success (B1-002), sugar (A1-041), summer
+      (A1-039), sun (A1-043), Sunday (A1-000), sunny (A1-032), supermarket (A1-010), sure (A1-042),
+      sweater (A1-050), swim (A1-017), swimming (A1-052), T-shirt (A1-050), table (A2-003), take
+      (A1-004), talk → talking (A2-026), tall (A2-020), taxi (A1-003), tea (A1-005), teach (A1-054),
+      teacher (A1-054), team (A2-034), teenager (A1-045), telephone (A1-051), television (A1-051),
+      tell (A2-010), ten (S0), tennis (A1-024), terrible (A1-042), test (A2-035), text (A1-018),
+      than (S0), thank (A1-042), thanks (A1-026), that (S0), the (S0), theater → theatre (A1-033),
+      their (S0), them (S0), then (S0), there (S0), they (S0), thing (A2-037), think (A2-029), third
+      (S0), thirsty (A2-028), thirteen (S0), thirty (S0), this (S0), thousand (S0), three (S0),
+      through (S0), Thursday (A1-000), ticket (A1-003), time (A1-030), tired (A1-003), title
+      (C2-022), to (S0), today (S0), together (S0), toilet → toilets (A1-052), tomato → tomatoes
+      (A2-020), tomorrow (A1-031), tonight (S0), too (S0), tooth → teeth (A1-016), topic (A2-022),
+      tourist → tourists (A1-061), town (A1-036), traffic (B1-024), train (A1-033), travel (A2-001),
+      tree (A1-035), trip (A2-021), truck (A1-063), true (A1-042), try (A2-011), Tuesday (A1-000),
+      turn (A2-014), TV (A1-025), twelve (S0), twenty (S0), twice (A2-029), two (S0), type → types
+      (A2-036), umbrella (A1-004), uncle (A1-014), under (S0), understand (A2-011), university
+      (A2-022), until (S0), up (S0), upstairs (A1-013), us (S0), use (A2-024), useful (A2-024),
+      usually (S0), vacation (A1-067), vegetable → vegetables (A1-007), very (S0), video (A1-025),
+      visit (A1-015), visitor (A1-061), wait (A1-021), waiter (A1-049), wake (A1-044), walk
+      (A1-001), wall (C1-058), want (A1-041), warm (A1-032), wash (A1-016), watch (A1-025), water
+      (A1-008), way (A1-021), we (S0), wear (A1-029), weather (A1-032), website → websites (C2-057),
+      Wednesday (A1-000), week (A2-002), weekend (A1-023), welcome (B1-013), well (A1-034), west
+      (A1-064), what (S0), when (S0), where (S0), which (S0), white (A1-040), who (S0), why (S0),
+      wife (A1-014), will (S0), win (A2-027), window (A1-027), wine (A1-041), winter (A2-034), with
+      (S0), without (S0), woman (A1-037), wonderful (B1-032), word → words (A1-017), work (A1-023),
+      worker (A1-023), world (A2-001), would (S0), write (A1-019), writer (A1-019), writing
+      (A1-019), wrong (B1-020), yard (A1-068), yeah (S0), year → years (A1-037), yellow (A1-040),
+      yes (S0), yesterday (A1-031), you (S0), young → younger (B2-032), your (S0), yourself (S0)
+
+   A2 — 439 of 794 words
+      ability (B2-001), accept (B1-013), accident (B1-028), achieve (B1-001), act (B1-035),
+      advantage → advantages (B1-016), advertising (B2-022), affect (B2-011), against (S0), alive
+      (A1-012), alone (A1-012), along (S0), alternative (B1-013), although (S0), among (S0), amount
+      (B1-023), analyze → analyse (B2-001), anybody (S0), anywhere (S0), app → apps (C2-057), apply
+      (B1-010), argue (B1-014), argument (B1-014), asleep (A2-018), attack (B2-023), attention
+      (A2-023), audience (C1-049), average (B2-015), avoid (B1-028), award (A2-027), awful (C1-046),
+      bear (C1-040), behavior → behaviour (B1-035), benefit → benefits (B2-039), billion (S0), blood
+      (B1-034), board (A1-019), bone (A2-019), borrow (A1-011), boss (B2-016), brain (A2-024),
+      bridge (A1-037), bright (A1-040), broken (A2-019), brush (A1-016), care (A1-004), carefully
+      (A1-022), cartoon → cartoons (A1-025), case (C1-006), cash (A2-023), catch (A2-005), cause
+      (B1-029), celebrate (B1-002), celebrity (C1-031), cell → cells (C2-006), century → centuries
+      (C1-051), certain (B2-040), chance (A2-006), character (A2-039), charity (B1-026), chat
+      (A1-015), choice (A2-022), classical (C2-020), clear (C1-004), clearly (A1-020), climate
+      (B2-025), cloud → clouds (A1-032), coach (A2-004), code (C2-056), colleague → colleagues
+      (B1-016), comedy (C2-012), comfortable (A2-028), comment (A2-003), community (B2-036), compete
+      (B2-014), competition (B2-014), complain (B1-015), completely (A2-012), condition → conditions
+      (B1-003), consider (B1-013), context (C2-050), continent → continents (C1-051), control
+      (A2-016), corner (A2-014), couple (A1-038), crime (B1-024), cross (A1-026), crowd → crowds
+      (B1-028), cycle (C2-004), daily (A1-031), danger (B1-028), data (B1-022), deal (B1-041), death
+      (B1-029), decision (B1-020), degree (B2-018), department (B1-007), destroy (B1-021), develop
+      (B1-004), device (C2-015), diary (A2-015), differently (A2-036), digital (B2-018), direct
+      (B2-005), direction → directions (A1-006), disagree (B1-019), disaster (B1-021), discovery
+      (A2-037), discussion (B1-016), disease (B1-029), distance (A2-038), document (A2-008), dream →
+      dreams (A2-031), drop (B2-016), dry (A1-039), earn (A1-011), easily (A2-035), education
+      (B1-011), effect (B1-029), either (S0), electricity (B2-032), employ (B1-009), employee
+      (B1-009), employer (B1-009), empty (C2-015), ending (C1-004), energy (B2-015), engineer →
+      engineers (C2-048), enormous (B2-006), enter (B2-014), environment (B1-021), equipment
+      (A2-034), error (B2-038), especially (A2-037), essay (B1-008), everywhere (S0), evidence
+      (B2-004), exactly (B1-012), excellent (B1-001), except (S0), experience (B1-005), expert
+      (B1-017), explanation (B1-012), express (B1-017), extreme (A2-034), factor (B2-011), factory
+      (C1-054), fair (B1-041), fan (A2-034), fashion (A2-009), fear (B2-025), feature (B2-024),
+      fiction (C1-057), field (B2-010), figure (B2-021), film (A1-025), finger → fingers (A1-016),
+      fit (A2-015), fix (B2-039), flat (A1-012), flu (A2-005), foreign (B2-020), forest → forests
+      (B1-022), formal (B1-015), forward (S0), fresh (A2-015), furniture (A2-013), further (C1-008),
+      gap (B2-032), gas → gases (B2-025), gate (A1-028), general (B2-008), gift (A2-007), goal
+      (B1-001), government (B1-026), grass (A2-015), ground (A2-018), guest (A2-037), guide
+      (A2-001), habit (B1-031), hall (A2-004), happily (A1-038), headache (B1-015), heart (A1-017),
+      heat (A1-039), heavy (A2-016), helpful (A1-026), hero (C2-059), hers (S0), herself (S0),
+      himself (S0), hold (B1-035), huge (B1-030), human (A1-016), ideal (B1-027), ill (A2-018),
+      illness (B1-037), image → images (C2-012), increase (B1-023), individual (C1-043), industry
+      (B2-037), injury (B1-029), inside (S0), instruction → instructions (A2-038), international
+      (C1-017), invite (A1-015), involve (C1-039), itself (S0), joke (A2-010), kid → kids (A2-032),
+      knife (A2-024), knowledge (B1-010), laptop (A2-007), laughter (C1-050), law (A2-019), lazy
+      (C2-045), leader (A2-039), learning (A1-017), least (S0), lend (C2-035), less (S0), level →
+      levels (A2-036), lifestyle (A2-033), lift (B2-034), link (A2-008), listener (A1-022), lost
+      (A2-016), loudly (A1-020), luck (A1-034), major (B1-033), manage (B1-007), manager (B1-007),
+      material → materials (B2-023), matter (B1-016), may (S0), media (A2-024), medical (B1-018),
+      medicine (A1-004), memory (A2-016), mention (C1-052), method (B1-004), might (S0), mind
+      (B1-040), mine (S0), missing (A2-006), mobile (A1-036), movement (A2-013), myself (S0), narrow
+      (C1-028), national (B2-018), nature (A2-030), neither (S0), nervous (A2-028), network
+      (B2-040), noise (A1-005), none (S0), novel (C2-025), nowhere (S0), offer (B1-018), oil
+      (C1-030), onto (S0), opportunity (B1-032), option (A2-022), organization → organisation
+      (B2-017), original (C2-035), ourselves (S0), oven (A1-039), overseas (B2-013), pain (B1-029),
+      patient (B2-002), pattern → patterns (B2-001), peace (A2-003), per (S0), percent → per cent
+      (B1-023), permission (B1-010), pet → pets (A2-015), physical (A2-033), planet (B1-022),
+      plastic (C1-060), plate (A2-019), platform → platforms (C2-057), pocket (A1-011), pollution
+      (B1-021), population (B2-008), position (B1-010), possession → possessions (C1-041),
+      possibility (C2-030), power (B2-037), president (B1-039), prevent (C1-008), prison (B2-039),
+      prize (A2-027), process (B1-012), professional (B1-018), progress (B2-002), promise (A2-015),
+      protect (B1-022), provide (B1-025), public (A2-024), publish (B2-010), pull (C1-036), purpose
+      (B1-012), quality (B1-003), race (A2-027), raise (B2-007), rate (B1-009), reach (A2-035),
+      receive (B1-011), recent (B2-008), recipe (A2-011), record (A2-019), recycle (C1-012), reduce
+      (B1-024), refuse (B2-030), region (C1-043), regular (B1-031), relationship (B1-004), remove
+      (C1-004), repair (C1-008), reply (A2-008), request (B2-040), research (B2-010), researcher
+      (B2-010), response (C1-004), rest (A2-026), review (C1-045), rise (B1-033), role (A2-037),
+      roof (C1-058), round (S0), route (C1-019), runner (B1-039), running (B1-039), safe (A2-038),
+      salary (B2-014), sale → sales (B1-023), save (A1-011), scene (B1-038), screen (B2-035), sea
+      (A1-012), search (C1-023), seat (A1-004), secret (A2-010), seem (C1-024), sense (B1-035),
+      separate (C2-045), series (A1-025), serious (B1-037), serve (C1-044), service (A2-033),
+      several (S0), shape → shapes (A2-036), shoulder → shoulders (A1-016), sign (B1-019), silver
+      (C2-018), simple (B1-012), since (S0), singing (A2-030), single (C2-018), size (A2-020), skin
+      (B1-022), slowly (A1-020), smartphone → smartphones (C2-003), smell (A2-039), smile (A1-015),
+      smoking (A2-026), social (A2-024), society (B2-015), soft (A1-008), solution (B1-027), solve
+      (B1-027), somewhere (S0), source → sources (B2-023), speaker (A1-020), speech (A1-020), speed
+      (B1-024), square → squares (A1-033), stage (B2-012), state (B1-040), step (A2-037), strange
+      (C2-041), strategy (B2-024), stress (B1-007), structure (C1-005), succeed (B1-002), successful
+      (B1-002), such (S0), suggest (B1-013), suggestion (B1-013), support (B1-026), surprise
+      (A1-035), survey (B2-030), symbol (C2-026), system (B1-004), target (A2-006), task (A2-035),
+      taste (A2-039), technology (B1-004), temperature (A2-018), term (B2-039), themselves (S0),
+      thief (A2-005), thought (A2-029), tie → ties (B2-028), tip (A2-003), tool (A2-024), top
+      (A1-012), touch (A2-002), tourism (B2-006), toward → towards (S0), towel (A2-007), toy → toys
+      (A1-024), traditional (B2-009), training (B1-011), traveler → traveller (A2-001), trouble
+      (B1-028), unhappy (A1-038), user (A2-024), vehicle (B2-029), view (A2-030), village (A1-012),
+      virus (C2-027), voice (A2-016), war (C1-036), wedding (A2-021), weight (A2-016), wet (A1-032),
+      while (S0), whole (A1-014), whose (S0), wide (A1-028), wind (A1-032), winner (A2-027), wish
+      (B1-002), worried (A2-032), worry (A2-032), worst (B1-008), yours (S0), zero (S0)
+
+   B1 — 310 of 693 words
+      absolutely (B1-019), academic (B1-002), access (B1-011), account (B2-038), achievement
+      (B1-001), advise (B1-018), afford (C2-021), agent (A2-001), agreement (B1-019), ahead (S0),
+      aim (B1-001), alarm (B1-038), alcohol (B1-028), ambition (B1-001), analysis (B2-001), annoying
+      (B1-031), apart (S0), application (B1-010), appointment (A2-006), appreciate (C2-013), arrest
+      (C1-048), arrival (A2-004), atmosphere (C2-025), attach (B2-011), attitude (B2-027), attract
+      (B2-013), authority (C1-018), automatically (B2-003), balance (A2-016), ban (C1-002), basic
+      (B1-006), basis (C2-028), battery (C1-030), beauty (C2-051), belief (B1-033), border (C1-058),
+      brand (A1-036), breathing (C2-054), calm (A2-002), campaign (B2-022), candidate (B2-002),
+      category → categories (C2-042), ceremony (C1-048), chain (C1-036), challenge (B1-033), channel
+      (A2-012), charge (C2-060), chemical (C1-044), claim (B1-026), clause (C2-022), clue (C1-035),
+      commercial (B1-002), communication (B1-006), comparison (C2-060), competitive (B2-014),
+      competitor (B2-014), complaint (B1-015), complex (B2-007), confident (B1-036), connection
+      (B2-028), consequence (B2-005), consume (B2-015), consumer (B2-015), contact (B1-028), content
+      (C1-052), continuous (B2-002), countryside (A2-013), currency (C1-010), current (B2-008),
+      curtain → curtains (A1-028), damage (A2-033), departure → departures (A2-004), despite (S0),
+      determined (B1-030), development (B1-004), difficulty (C2-034), disadvantage → disadvantages
+      (C1-055), doubt → doubts (B1-037), dressed (A1-003), dust (C1-041), duty → duties (C1-003),
+      economic (B2-018), economy (B2-018), edge (B2-014), educate (B1-011), educated (B1-011),
+      educational (B1-011), effective (B1-027), effort (B1-030), election (B2-022), element
+      (B2-012), emergency (B1-041), employment (B1-009), encourage (B2-024), enemy (C2-029),
+      entertainment (C2-045), entrance (A2-017), environmental (B1-021), equally (A2-037), escape
+      (C1-017), essential (B1-006), eventually (C2-031), examine (B2-004), exchange (C1-009), exit
+      (A2-017), experienced (B1-005), explore (C1-021), explosion (C1-036), export → exports
+      (C2-043), fairly (A2-035), favor → favour (C1-020), fence (C1-058), file (A2-008), financial
+      (B1-026), flow (C2-054), friendship (A1-015), fuel (B2-015), function (C1-043), gather
+      (B2-004), generation (B2-032), global (B1-021), glove → gloves (B1-022), grade → grades
+      (B1-001), growth (A2-020), guard (C2-021), happiness (A1-038), hardly (C2-018), heating
+      (A1-039), heavily (B2-013), highlight (C2-039), highly (B1-002), historical (C2-041), honest
+      (B1-017), hurry (A2-003), identity (B2-028), ignore (B1-018), immediate (B2-006), impact
+      (B2-006), import → imports (B2-034), importance (A2-037), impression (C1-058), improvement
+      (B1-003), indicate → indicates (B2-010), indoors (A2-002), influence (C1-016), intention →
+      intentions (B2-030), invest (B2-013), iron (C2-041), issue (B2-007), IT (S0), journal →
+      journals (C2-009), journey (A2-021), kick (B1-031), lack (B1-005), layer (C1-030), leading
+      (B2-010), legal (B1-018), limit (B1-038), liquid (C1-060), literature (C2-009), living
+      (A1-012), lonely (A2-028), loss (A2-016), luxury (C2-010), management (B1-007), marriage
+      (C2-034), measure → measures (B2-034), mental (A2-033), mild (B2-025), mood (C1-010), murder
+      (C2-032), muscle → muscles (A2-039), mystery (B1-027), narrative (C1-005), nation (C2-011),
+      native (A1-020), necessarily (C2-030), net (B2-017), nor (S0), nuclear (C2-006), obvious
+      (B1-027), ought (S0), ours (S0), package (A2-008), particularly (C1-015), payment (A2-023),
+      peaceful (B1-027), perfectly (A2-038), performance (B1-003), planning (A2-021), pleasure →
+      pleasures (C2-051), plot (B2-030), podcast (A1-022), poison (C2-029), policy (B2-020),
+      political (B2-001), politics (B1-016), portrait (C1-006), poverty (B1-024), powerful (B1-014),
+      practical (B1-005), prepared (B1-008), presentation (B1-006), pressure (B1-034), previous
+      (B1-005), primary (B1-011), private (B1-011), production (B1-023), profit (B2-017), promote
+      (B2-033), property (A2-016), protest (C1-034), prove (B2-012), punishment (C2-042), qualified
+      (B2-038), quotation → quotations (C2-012), range (B2-040), rare (B1-032), reaction (C1-036),
+      reality (C2-015), recommendation → recommendations (C1-011), reference (C1-052), reflect
+      (B2-027), relation → relations (C1-008), relative → relatives (A2-002), release (C1-053),
+      religion (C2-045), remain (B2-021), renewable (B2-019), rent (A1-013), require (B1-006),
+      resource (B2-019), respect (A2-009), responsibility (B1-035), responsible (B1-035), risk
+      (B1-023), robot → robots (C1-043), safety (A2-038), sample (B2-001), scientific (B2-004),
+      secondary (B1-011), security (B1-025), sensible (B1-013), seriously (B1-037), set (B1-038),
+      setting (B1-038), sharp (B1-023), shelf (A2-025), shift (B2-011), silly (B1-014), slightly
+      (A2-032), software (B1-004), soil (C1-032), solid (C2-033), spirit (C1-022), spoken (A1-020),
+      spot (C2-041), spread (B2-036), stadium (A2-034), staff (B1-007), standard (B1-038), strength
+      (A2-039), strongly (A2-039), successfully (B1-002), sudden (B2-037), suffer (B2-005), summary
+      (B1-008), supply (B2-016), supporter (B1-026), survive (B2-035), symptom → symptoms (C1-001),
+      talent (A2-009), tax (A2-023), technical (B1-006), technique (B2-024), tend (B1-019), theirs
+      (S0), theme (C2-025), theory (B1-004), though (S0), throughout (S0), till (S0), tire → tyre
+      (A2-012), toe → toes (A1-016), total (C1-041), totally (A2-036), trade (B1-019), transport
+      (A2-024), trend (B2-008), truth (A2-010), unemployed (B1-009), unemployment (B1-009), unless
+      (S0), unlikely (C2-027), upon (S0), valuable (B1-005), value (B2-002), version (C2-047),
+      volunteer → volunteers (C2-011), warning (B2-007), waste (B1-024), weapon → weapons (C2-006),
+      weigh (B2-004), whatever (S0), whenever (S0), whether (S0), within (S0), worth (B1-030),
+      written (A1-019), youth (B1-009)
+
+   B2 — 492 of 1277 words
+      abandon (B2-020), abroad (A2-001), accent (A2-039), accountant (B2-038), accurate (B2-002),
+      acquire (C1-039), adapt (B2-035), addiction (C1-027), adopt (B2-009), advance (A2-023), agency
+      (B1-009), agenda (C2-029), agriculture (B2-023), aid (C1-003), alter (C1-035), analyst
+      (B2-001), annual (B2-017), anxiety (C1-001), apology (B2-016), apparent (C2-041), appeal
+      (C2-007), applicant (B1-010), approach (B2-009), approval (C1-052), arise → arises (C2-041),
+      arms (A1-016), artificial (C2-019), aside (S0), aspect (B2-012), assess (B2-002), assessment
+      (B2-002), asset → assets (C1-041), assistance (B1-025), associated (C1-027), assume (B2-003),
+      assumption (B2-003), attempt (B1-037), awareness (B1-021), bacteria (C2-006), barely (C1-019),
+      being (S0), beside (S0), beyond (S0), bias (C1-013), blame (C2-056), bond (C2-028), briefly
+      (B1-012), broad (B2-039), budget (B1-007), bullet (C2-018), cancer (C2-029), capacity
+      (C1-007), capture (C2-013), carbon (B2-025), casual (B2-027), challenging (B1-033),
+      championship (A2-027), characteristic (C1-013), circumstance → circumstances (B2-035), civil
+      (C1-032), cliff → cliffs (C1-032), coincidence (C1-024), collapse (C1-048), collector
+      (C1-049), colourful (A1-040), command (B2-003), commitment (B2-023), committee → committees
+      (C2-057), component (B2-012), comprehensive (C1-045), compulsory (C1-006), concentration
+      (C1-029), concept (B2-024), concern (B1-029), concrete (C1-058), conduct (B2-010), confidence
+      (B1-036), conflict (B1-027), confusion (B1-028), consequently (B2-005), considerable (B2-006),
+      constantly (B2-024), consult (C1-039), consumption (B2-015), contest (A2-027), contract
+      (B2-014), contribute (B2-036), contribution (B2-036), controversial (B2-021), controversy
+      (B2-021), convention (C1-007), convincing (B1-014), cope (B1-034), corporate (C1-060), courage
+      (C2-037), coverage (B2-040), creativity (C1-022), creature (B1-031), crew (B2-029), crisis
+      (B1-027), criterion → criteria (B2-028), critical (B2-001), criticism (C1-034), crop → crops
+      (C1-025), crucial (B2-012), cue → cues (C2-039), curriculum (C2-033), database (C1-045),
+      deadline (A2-006), deadly (B1-037), dealer (B1-041), debate (B2-032), debt (B1-024), decline
+      (B2-011), deeply (A2-029), defeat (C1-045), defense → defence (C2-037), delay (B1-015),
+      deliberately (C1-004), delivery (C1-023), demand (B2-016), democracy (B2-028), demonstrate
+      (C1-021), deny (B1-035), deposit (B2-038), depression (C1-059), depth (C1-056), derive
+      (C2-035), deserve (B2-033), desperate (B1-030), detect (C1-047), diabetes (C1-015), differ
+      (A2-036), disability (C1-027), disagreement (B1-019), discipline (B2-029), display (C2-046),
+      diversity (B2-033), division → divisions (C2-001), divorce (C1-027), dominant (C2-020),
+      donation → donations (C1-050), downward (B2-008), dramatic (B2-006), drought (C1-025),
+      economics (B2-018), economist (B2-018), ecosystem (C1-029), editorial (C1-043), efficiently
+      (C1-003), elderly (C1-038), embrace (B2-024), emerge (B2-037), emission → emissions (B1-024),
+      emotional (B1-026), empire (C2-043), encounter (C2-034), enhance (C1-025), enjoyable (A2-030),
+      ensure (C1-019), enthusiasm (B2-032), entirely (C1-021), entrepreneur (C1-042), era (C1-037),
+      establish (B2-028), estimate (C2-047), ethical (B2-007), evaluation (C1-026), evident
+      (B2-004), evil (C1-013), exception (C2-046), excessive (B2-015), excuse (C1-024), existence
+      (C2-005), expansion (C1-037), expectation (C1-034), expense (C1-055), expertise (C2-009),
+      exploit (B2-019), expose (C1-038), extend (B2-040), extension (B2-040), extensive (B2-040),
+      extent (B2-040), external (C1-007), fabric (C1-060), facility → facilities (B1-025), faith
+      (C1-032), fame (B1-001), fee (A2-023), feedback (B1-025), finding (A2-017), firmly (B2-028),
+      flavour (C1-035), flexible (B2-009), footprint (B2-025), forecast (A1-032), format (C1-054),
+      fortune → fortunes (C1-010), foundation → foundations (C1-018), framework (C1-005), fraud
+      (C1-038), freedom (B2-034), frequent (B2-036), fulfil (C1-042), full-time (B1-009), fund
+      (B2-010), fundamental (C2-019), gain (B1-005), gender (C1-028), generate (B2-032), genre →
+      genres (C1-051), genuine (C2-022), gesture (C1-004), golden (B1-032), goods (B2-015),
+      gradually (B1-003), grant (B2-010), greenhouse (B2-025), guideline → guidelines (C1-011),
+      habitat → habitats (C1-038), handle (B1-015), harbour (C1-042), harm (A2-038), helmet
+      (A2-038), hidden (B2-026), hopefully (A2-031), household → households (C1-038), hug (A1-006),
+      humor → humour (C1-035), hunger (C1-001), hypothesis (C1-024), illusion (C1-057), imagination
+      (C2-048), immigration (B2-020), implement (C1-011), implication → implications (C1-016),
+      impose (B2-034), incentive (C1-012), incident → incidents (C2-045), income (B1-023), incorrect
+      (B2-003), increasingly (B1-023), independence (B1-001), inevitable (B2-005), infection
+      (C1-038), inflation (C1-014), infrastructure (B2-013), initial (B2-002), initiative (C1-011),
+      inner (C1-025), innovation (B2-024), innovative (B2-024), insight (B2-030), inspire (B2-026),
+      insurance (A2-033), intense (B1-034), interpretation (C1-024), investigation (C1-023),
+      investment (B2-013), investor (B2-013), journalism (C2-045), judgment → judgement (C2-007),
+      justice (C1-015), largely (B1-035), launch (B2-022), leadership (C1-042), license → licence
+      (B1-010), lively (B1-016), loan (B1-010), logical (B1-012), long-term (B2-039), lottery
+      (A2-027), loyal (B1-026), maintain (B2-029), majority (C1-039), marathon (B1-039), margin
+      (B2-017), mass (C2-009), master (B1-006), mechanism (C2-050), medal (A2-027), metaphor
+      (C2-050), mineral (B2-019), minor (C1-010), minority (B2-011), modest (C1-047), moral
+      (B1-026), motion (C1-031), motivate (B2-026), motivation (B2-026), moving (A2-013), myth
+      (C2-004), nasty (B1-031), navigation (C2-054), negotiate (B2-039), newly (A1-036), norm →
+      norms (C1-015), notion (C2-033), obesity (B2-031), observation (C2-024), obstacle (C2-008),
+      offense → offence (B1-037), opening (A1-028), openly (A1-028), operate (C1-007), opponent
+      (B2-031), opposition (C2-011), otherwise (B2-003), outcome (B1-002), outline (C1-049), output
+      (C2-037), outstanding (B2-036), overcome (B1-033), overnight (A2-002), oxygen (C1-030), pace
+      (B2-023), panic (C1-036), parallel (C2-028), part-time (B1-009), participation (C1-009),
+      passage → passages (C2-039), passionate (C1-002), password (A2-012), pause (C1-056), peer
+      (B1-034), penalty (C1-014), perceive (C1-056), perception (C1-056), permanent (B1-009),
+      perspective (C2-013), phenomenon → phenomena (C2-045), philosophy (C1-005), portion (C1-003),
+      pose (B1-033), potential (B2-013), precious (B2-019), preference → preferences (B2-015),
+      preparation (B1-008), presence (C2-003), preserve (B1-021), pride (C2-037), principle
+      (B1-019), priority → priorities (B2-028), privacy (C1-032), procedure → procedures (C1-011),
+      prohibit (C1-052), promotion (B2-033), proof (B1-025), proportion (B2-011), proposal (B2-021),
+      prospect → prospects (B2-033), protection (B1-022), psychological (C1-025), pursue (B2-020),
+      puzzle (B1-027), racism (B2-022), rapidly (B2-009), reasonably (B1-036), recession (B2-037),
+      recovery (B2-018), reduction (B1-024), refund (B2-016), regional (C1-028), regret (B1-020),
+      regulation → regulations (C2-008), reinforce (C1-058), relatively (B2-011), relevant (C1-039),
+      relieve (B1-034), remark (B2-021), reputation (B2-028), requirement → requirements (C2-038),
+      rescue (B1-030), reserve → reserves (C1-030), resist (B1-034), resolve (B2-007), resort
+      (C2-059), restore (B1-036), restrict (B2-034), restriction (B2-034), retirement (C1-046),
+      reveal (B2-030), revenue (B2-032), revolution (C1-044), reward (C2-023), rival → rivals
+      (B2-014), romance (C2-043), root (B1-029), satisfy (B2-016), scale (C1-037), scandal (B2-030),
+      scenario (C1-024), scholarship (B1-010), sector (C2-043), seek (B1-018), selection (C1-026),
+      senior (B1-007), sensitive (B2-007), settle (B1-014), severe (B2-005), shade (C1-035), shadow
+      → shadows (B2-037), shall (S0), shame (C1-027), shelter (B1-025), shocking (B2-030),
+      short-term (B2-039), shortage (B2-031), signature (C2-060), significance (B2-011), significant
+      (B2-011), significantly (B2-011), silence (B2-029), skilled (B1-006), slide (C2-055), slip
+      (B1-040), slogan (B2-022), so-called (C2-018), somewhat (C1-004), species (B2-035), stable
+      (B1-021), stance (C2-007), status (B2-029), steady (B1-023), steel (C2-011), stimulate
+      (B2-018), stock → stocks (B2-013), strengthen (A2-039), strict (B2-020), strike (B1-041),
+      struggle (B2-035), suburb → suburbs (C1-051), sufficient (B2-004), surrounding (B2-021),
+      sustainable (B2-023), sympathy (C1-050), tackle (B2-031), tale (C2-026), tattoo (C2-046),
+      temporary (B1-009), tension (C1-001), terribly (A2-032), territory (C1-039), terrorism
+      (C2-052), thesis (C2-044), thorough (B2-001), threat (B1-037), tone (C2-013), tough (B1-020),
+      trace (C1-049), tragedy (C2-012), trait → traits (C2-039), transfer (C1-009), transition
+      (C1-009), trigger (C1-036), troop → troops (C2-011), tropical (B2-025), trust (C1-018),
+      ultimately (B2-023), unique (B1-032), unity (C1-022), universal (C2-018), upward (B2-008),
+      urban (B1-021), useless (A2-024), vary (B2-027), via (S0), victory (B1-001), villain (C2-059),
+      violence (C1-008), visa (B1-010), vision (C1-005), volume (A2-014), voluntary (B2-036), wage
+      (C1-028), weakness → weaknesses (A2-039), wealth (B2-032), welfare (C1-029), well-being
+      (B2-033), whereas (S0), wherever (S0), whoever (S0), whom (S0), widely (B2-003), widespread
+      (C2-040), wildlife (B1-022), wise (B1-020), witness (C1-040), workforce (B2-026), wound →
+      wounds (C2-031), zone (C2-049)
+
+   C1 — 337 of 1272 words
+      absence (C2-046), abuse (C1-038), accordingly (B2-035), accountability (C1-060), accumulate
+      (C1-041), accumulation (C1-041), accused (C2-007), acute (C2-001), adaptation (B2-035),
+      admission (C2-032), adverse (C2-040), advocate (C1-002), allegation → allegations (C2-047),
+      alliance (C2-028), allocate (C1-003), allocation (C1-003), amendment (C2-022), analogy
+      (C2-028), appetite (C1-053), array (C1-051), aspiration (C1-042), aspire (C1-042), assertion
+      (C2-047), assurance (C2-016), attendance (C1-006), attribute (C2-023), audit (C1-045),
+      autonomy (C1-043), backup (B2-032), behalf (C1-002), bizarre (C2-012), blend (C1-035), bolster
+      (C2-037), bonus (C1-012), boost (B1-036), boundary → boundaries (C1-032), breakthrough
+      (C1-048), breed (C2-021), burden (C1-001), cautious (B2-009), chaos (B1-029), charm (C2-023),
+      chronic (C2-048), circulation (C2-054), cling (C2-005), coalition (C2-028), coastal (C1-032),
+      collaboration (C1-009), combat (C1-027), commentary (C2-044), compassion (C1-050), compel
+      (C1-006), compelling (C1-006), compliance (C2-038), complication → complications (C2-034),
+      compromise (C1-021), confession (C1-050), consensus (C1-020), consent (C1-052), conserve
+      (B2-019), constitution (C2-033), constraint (C1-007), contemplate (C1-046), contend (C2-022),
+      contender (C2-022), contention (C2-022), contrary (B2-004), contributor (B2-036), conviction
+      (C1-058), cooperation (B2-033), correlate (C1-047), correlation (C1-047), corruption (B2-031),
+      credibility (C1-018), critique (C2-013), crude (C2-019), curiosity (C1-022), dam (C1-058),
+      decision-making (C1-009), decisive (B1-020), declaration (C2-016), defect (C1-013), deficit
+      (C2-043), descent (C2-055), detention (C2-042), deteriorate (C1-008), devastating (C2-040),
+      devil (C1-002), diagnosis (C2-030), dignity (B2-029), dilemma (C2-010), diplomatic (C2-014),
+      disclosure (C2-030), discourse (C2-025), discrimination (B2-031), dismissal (C2-042), dispute
+      (C1-033), disruption (C1-014), distinction (B2-012), distress (C1-001), disturbing (B2-008),
+      doctrine (C2-004), drift (C2-021), ease (A2-035), ecological (C2-014), ego (C2-037), elite
+      (C2-036), emergence (B2-037), encompass (C1-051), endorse (C1-031), endorsement (C1-031),
+      enforcement (C1-026), enterprise (C1-019), equality (C2-045), escalate (C2-015), establishment
+      (B2-028), evoke (C2-026), exaggerate (C2-058), expenditure (C1-017), explicit (C1-052),
+      facilitate (C1-009), fate (C2-055), fierce (B2-014), flaw (B2-030), flourish (C2-015), forge
+      (C1-020), formulate (B2-020), foster (C1-022), fragile (C1-020), frustration (C2-034),
+      fundraising (B2-022), glimpse (C2-051), glory (C2-051), governance (C1-060), grasp (C2-013),
+      grave (C2-040), grief (C1-016), grip (C2-005), hail (C2-018), halt (C2-006), hardware
+      (C1-054), harmony (C1-022), harsh (B2-025), hatred (C2-009), hazard → hazards (C1-014),
+      hierarchy (C2-036), hint (C1-035), hopeful (A2-031), horizon (C1-046), hostile (B2-027), hub
+      (B2-024), humanitarian (C1-033), ideology (C1-015), ignorance (C1-057), immunity (C2-037),
+      implementation (C1-011), inclusion (C1-022), inequality (B2-031), inherent (C1-013), inhibit
+      (C1-053), inject (C2-035), injustice (C1-057), inspection (C1-026), instinct → instincts
+      (C2-007), institutional (C1-007), insult (C1-056), integration (C1-009), integrity (C1-018),
+      intervene (C1-033), intervention (C1-033), intriguing (C2-017), irony (C1-035), joint
+      (B1-030), judicial (C1-017), jurisdiction (C2-049), justification (C1-006), landmark (C2-039),
+      lawsuit (C2-060), legacy (C2-004), legislation (C1-011), legitimate (C1-034), lesser (B2-040),
+      liberty → liberties (C1-032), lifelong (B1-031), literacy (B2-033), logic (C2-055), machinery
+      (C1-054), maintenance (B2-029), mandate (C2-016), manipulation (C1-059), march (A1-000),
+      mature (B2-027), maximize → maximise (B2-017), merely (C2-001), merger (C2-022), merit
+      (C2-023), methodology (C1-026), mindset (C2-036), minimize → minimise (B2-006), misleading
+      (C2-019), mitigate (C1-014), mobility (C1-023), momentum (B2-023), monopoly (C2-036), motive
+      (B2-026), nationwide (B2-022), non-profit (B2-017), nonsense (C2-004), objection (C1-034),
+      optimism (C2-027), outbreak (C1-036), outrage (C1-050), outsider (C2-059), oversee (C1-011),
+      overturn (C2-020), overwhelming (C1-020), parameter → parameters (C2-049), parliamentary
+      (C1-017), partially (C1-014), pathway (C2-050), persist (C1-028), plea (C2-026), pledge
+      (C2-016), poll (B1-017), precedent (C1-037), precision (C2-024), prejudice (C1-027), premise
+      (C2-028), prevail (C1-015), prevalence (C1-015), privilege (C2-036), productivity (C1-023),
+      profitable (B2-017), profound (C1-016), propaganda (C2-004), proposition (C1-019), prosecution
+      (C2-030), prosperity (C1-037), protective (B1-022), protocol → protocols (C2-038), provision
+      (B1-025), purely (C2-015), quota (C1-003), radical (B2-009), rage (C1-005), readily (C1-049),
+      realm (C1-051), reconstruction (C2-024), referendum (C2-022), reform (B2-018), regardless
+      (B2-005), regime (C1-034), regulatory (C1-007), rejection (C2-016), reluctant (C1-033), remedy
+      (C1-021), reminder (A2-008), render (C1-021), republic (C1-043), resignation (C1-046),
+      resilience (C1-025), revelation (B2-030), reverse (B2-008), rhetoric (C2-015), riot (C1-048),
+      robust (C1-047), rumour (C2-004), safeguard → safeguards (C2-008), sanction → sanctions
+      (C1-011), scam → scams (C1-059), sceptical (C1-016), scope (B2-034), scrutiny (C1-017),
+      seasonal (C1-010), seize (B1-032), sentiment (C2-060), shatter (C2-021), shed (C1-053),
+      slavery (C2-052), sovereignty (C1-032), spark (B2-021), spectrum (C1-051), squad (C1-030),
+      stake (C1-039), stark (C1-028), statistical (B2-001), stereotype (C1-015), subsidy → subsidies
+      (C1-003), substantially (B2-036), substitute (C1-019), subtle (C1-035), summit (B2-025),
+      superior (C1-013), supervision (C2-038), supportive (B1-026), surge (C1-037), surgical
+      (C1-033), surplus (C1-041), surrender (C2-032), surveillance (C2-003), suspicion → suspicions
+      (C2-007), sustain (B2-023), sustainability (B2-023), systematic (B2-009), testify (C1-006),
+      texture → textures (C2-012), thoughtful (A2-029), thread (C2-028), threshold (C2-042), tide
+      (C2-055), tighten (B2-034), tolerance (B2-033), torture (C2-032), trail (C2-056), transaction
+      (C1-034), transformation (C1-016), transparency (C1-060), transparent (C1-060), trauma
+      (C2-002), treaty (C1-031), tremendous (C2-035), tribute (C2-026), turnout (C2-037), underlying
+      (B2-003), undermine (C1-018), unprecedented (C1-037), utterly (C1-006), variable → variables
+      (C2-039), venture (B2-017), verbal (C2-056), verdict (C1-031), verse (C2-050), viable
+      (C1-019), virtue → virtues (C2-010), vulnerability (C1-038), vulnerable (C1-038), worthwhile
+      (C2-023)
+
+5. WHERE EVERY PHRASE OF THE LIST IS TAUGHT  /  SİYAHIDAKI HƏR İFADƏ HARADA ÖYRƏDİLİR
+----------------------------------------------------------------------------------------------------
+   Format: phrase (lesson).  "phrase = expression (lesson)" means: taught through that expression.
+
+   A1 — 159 of 200 phrases
+      a few (A1-069); a good idea (A1-034); agree with sb (B1-019); a little (A1-069); a lot
+      (A1-069); a lot of sth = cost a lot of money (A1-011); all day (A1-031); anything else
+      (A1-084); around the world = travel around the world (A2-001); arrive at… = arrive at the
+      hospital (A2-004); arrive in… = arrive in paris (A2-004); ask for sth = ask for the bill
+      (A1-021); at home (A1-071); at school (A1-071); at the beginning of sth (A1-073); at the end
+      (A1-073); at the end of sth (A1-073); at the same time (A1-030); at the weekend = work at the
+      weekend (A1-023); at work (A1-023); away from sb/sth (A1-073); bad for sb/sth (A1-082); bad
+      news (A1-082); because of (A1-070); begin with sth (A1-047); be going to do sth (A1-084); best
+      friend (A1-015); black and white (A1-040); car park (A1-072); city centre (A1-033); come from…
+      (A1-002); come into sth (A1-079); each other = hate each other (A1-052); end in sth (A1-079);
+      every day (A1-031); family member (A1-014); find out (A2-017); for example (A1-070); for lunch
+      (A1-077); for many years (A1-075); for the first time (A1-076); get home (A1-078); get married
+      (A1-003); get off (A1-078); get on (A1-078); get ready (A1-003); get there (A1-078); get to…
+      (A1-078); get up (A1-003); go back (A1-078); go home (A1-001); go into sth (A1-079); good at
+      sth (A1-034); good for sb/sth = good for you (A1-034); Good morning (A1-034); good news
+      (A1-082); go out (A1-001); go to bed (A1-001); go to school (A1-001); go to work (A1-077);
+      grow up (A2-020); Guess what… (A1-081); hard work (A1-077); have fun (A1-082); have got
+      (A1-084); have time = have time for (A1-030); he or she (A1-084); his or her (A1-084); How
+      about…? (A1-081); How are you? (A1-080); How many…? (A1-069); How much…? (A1-069); How often…?
+      (A1-077); in April (A1-074); in bed (A1-071); in front of = sit in front of sb (A1-043); in my
+      opinion (B1-017); in school (A1-071); in space (A1-072); in summer (A1-074); in the centre
+      (A1-072); in the country (A1-071); in the morning (A1-074); in the north (A1-064); in the past
+      (A1-076); in the street (A1-071); in the summer (A1-074); in town = new in town (A1-036); It
+      takes… (A1-076); last time (A1-030); last year (A1-075); learn how to do sth (A1-082); listen
+      to sb/sth = listen to music (A1-022); live with sb = live with your parents (A1-012); living
+      room (A1-012); look at sb/sth = look at a picture (A1-027); look for sb/sth = look for the
+      keys (A1-027); look like sb/sth = look like (A1-027); lots of… (A1-069); millions of…
+      (A1-070); mobile phone (A1-083); more than… (A1-070); next time (A1-030); next year (A1-075);
+      No problem (A1-080); Oh no! (A1-081); Oh yes (A1-080); old friend (A1-080); once a… = once a
+      month (A1-067); one day (A1-031); on holiday = go on holiday (A1-001); on Monday (A1-074); on
+      television (A1-083); on the beach (A1-072); on the floor (A1-073); on the phone (A1-083); on
+      TV (A1-083); out of sth = look out of the window (A1-027); over there = the boy over there
+      (A1-068); phone call = make a phone call (A1-005); phone number (A1-083); play with sb/sth =
+      play with toys (A1-024); really enjoy (A2-030); See you (A1-080); sit down (A1-043); someone
+      else (A1-084); speak to sb (A1-020); spend time (A1-082); stand up (A1-043); such as (A1-070);
+      swimming pool (A1-072); thank you = say thank you (A1-042); that day (A1-076); the next day
+      (A1-076); there is (A1-084); think about sb/sth = think about (A2-029); think of sb/sth =
+      think of (A2-029); This is… (A1-080); this morning (A1-074); this time (A1-076); this year
+      (A1-075); thousands of… (A1-070); too much = eat too much (A1-007); town centre (A1-072); wait
+      for sb/sth (A1-079); wake up (A1-044); What about…? (A1-081); work as sth = work as a doctor
+      (A1-023); work for sb/sth = work for a company (A1-023); work hard (A1-023); work together
+      (A1-079); work with sb (A1-079); would like (A1-081); Would you like…? (A1-081); X hours a day
+      (A1-077); X times a… (A1-077); X years ago (A1-075); X years later (A1-075); X years old = ten
+      years old (A1-037)
+
+   A2 — 29 of 175 phrases
+      add to sth (A1-048); all the time (A1-030); apply for sth = apply for a visa (B1-010); believe
+      in sb/sth (A1-046); come back (A1-002); Come on! (A1-002); deal with sb = deal with (B1-041);
+      deal with sth = deal with (B1-041); fall in love (A2-018); fall off = fall off a bike
+      (A2-018); feel like sth = feel like (A2-028); go for sth = go for a walk (A1-001); good luck
+      (A1-034); happy with sb/sth = happy with sth (A1-038); have a look (A1-027); in love = fall in
+      love (A2-018); I think so (A2-029); look sth up = look up (A1-027); make a mistake (A1-005);
+      on time (A1-030); pay attention (A2-023); public transport = use public transport (A2-024);
+      put sth on = put on (A2-025); save money (A1-011); take off (A1-004); take sth off = take off
+      (A1-004); turn sth off = turn off (A2-014); turn sth on = turn on (A2-014); write sth down =
+      write down (A1-019)
+
+   B1 — 18 of 175 phrases
+      access to sth = access to education (B1-011); break up (A2-019); decide on sth = decide on
+      (B1-020); fall asleep (A2-018); higher education (B1-011); in favour of sb/sth = a consensus
+      in favour of (C1-020); in terms of sth = in terms of (B2-039); in touch = stay in touch
+      (A2-002); manage to do sth (B1-007); move on (A2-013); prepared to do sth = be prepared to
+      (B1-008); run out = run out of (B1-039); run out of sth = run out of (B1-039); set sth up =
+      set up (B1-038); succeed in doing sth (B1-002); tell the truth (A2-010); tend to do sth = tend
+      to agree (B1-019); turn sth up = turn up the volume (A2-014)
+
+   B2 — 11 of 125 phrases
+      account for sth = account for (B2-038); associated with sth = a stigma associated with
+      (C1-027); bring sb up = bring up (A2-007); confidence in sb/sth = have confidence in (B1-036);
+      contribute to sth = contribute to (B2-036); cope with sth = cope with pressure (B1-034); far
+      from sth = far from easy (A2-035); in advance = pay in advance (A2-023); mental health
+      (A2-033); set out (B1-038); turn into sth = turn into (A2-014)
+
+   C1 — 3 of 75 phrases
+      all the more = all the more poignant (C2-026); bring sth up = bring up (A2-007); on behalf of
+      sb = advocacy on behalf of (C1-002)
+
+6. WORDS THAT THE LIST SPLITS INTO SENSES OR HOMOGRAPHS (36)
+----------------------------------------------------------------------------------------------------
+   The list prints these spellings more than once. The database holds one item per spelling; the
+   lesson that teaches the word is the place where its different senses are explained.
+   bank [money / river]; can [homograph 1 / homograph 2]; close [homograph 1 / homograph 2]; do
+   [homograph 1]; kind [type / caring]; last [homograph 1; final / homograph 1; taking time]; lie
+   [homograph 1 / homograph 2; tell a lie]; light [from the sun/a lamp / not heavy]; like [similar /
+   find sb/sth pleasant]; live [homograph 1 / homograph 2]; long [homograph 1]; match
+   [contest/correspond]; minute [homograph 1 / homograph 2]; second [homograph 1; next after the
+   first / homograph 1; unit of time]; bear [animal / deal with]; lead [homograph 1]; mine [belongs
+   to me / hole in the ground]; race [competition / of people]; refuse [homograph 1]; rest
+   [remaining part / sleep/relax]; ring [homograph 1 / homograph 2]; rock [stone / music]; wind
+   [homograph 1 / homograph 2]; content [homograph 1 / homograph 2]; plus [homograph 1]; row
+   [homograph 1]; set [put / group]; stick [push into/attach / piece of wood]; console [homograph
+   2]; counter [long flat surface / argue against]; tear [homograph 1 / homograph 2]; bass
+   [homograph 1]; bow [homograph 1]; grave [for dead person / serious]; recount [homograph 1]; strip
+   [long narrow piece / remove clothes/a layer]
+
+END OF COVERAGE REPORT

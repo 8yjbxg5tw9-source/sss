@@ -10,6 +10,10 @@ Standard library only.  Usage (run from anywhere):
   python3 tools/vocab.py check FILE|-   dry-run a plan of NEW lessons against the database
   python3 tools/vocab.py find WORD...   look words up in the database
   python3 tools/vocab.py free WORD...   say which of the given words are still unused
+  python3 tools/vocab.py targets [LEVEL] [words|phrases]
+                                        words / phrases of the target lists (source/targets/) not taught yet
+  python3 tools/vocab.py offlist [LESSON-ID]
+                                        new words taught from that lesson on that are not on the target list
 
 Source of truth:  source/   (hand-written lesson files, see README.md)
 Generated output: ENGLISH_VOCABULARY_MASTER/*.txt  and  database/*.json|tsv
@@ -22,6 +26,7 @@ SRC = os.path.join(ROOT, 'source')
 OUT = os.path.join(ROOT, 'ENGLISH_VOCABULARY_MASTER')
 DBD = os.path.join(ROOT, 'database')
 REF = os.environ.get('VOCAB_REFDATA', os.path.join(os.path.dirname(ROOT), 'refdata'))
+TGT = os.path.join(SRC, 'targets')
 
 LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 LEVEL_NAME = {'A1': 'Beginner', 'A2': 'Elementary', 'B1': 'Intermediate',
@@ -34,6 +39,10 @@ MAX_ITEMS_PER_GLOBAL_FILE = 9000
 CATS = [('n', 'Noun forms'), ('v', 'Verb forms'), ('adj', 'Adjective forms'), ('adv', 'Adverb forms')]
 
 TOKEN_RE = re.compile(r"[^\W\d_]+(?:['-][^\W\d_]+)*")
+ORDINAL_RE = re.compile(r"\d+(?:st|nd|rd|th)\b")
+# notation used inside fixed phrases (agree with sb, X years ago, differences between A and B)
+PLACEHOLDERS = {'sb', 'sth', 'x', 'b', 'etc'}
+MIN_PHRASES, MAX_PHRASES = 4, 8
 
 # ------------------------------------------------------------------ morphology
 _IRREG_VERBS = """be was were been|bear bore borne born|beat beaten|become became|begin began begun|bend bent
@@ -374,7 +383,7 @@ def soft_bases(lemma):
 
 # ------------------------------------------------------------------ text helpers
 def tokenize(text):
-    return TOKEN_RE.findall(text.replace('’', "'"))
+    return TOKEN_RE.findall(ORDINAL_RE.sub(' ', text.replace('’', "'")))
 
 
 _CONTR = {"can't": 'can', "won't": 'will', "shan't": 'shall'}
@@ -454,6 +463,8 @@ class Lesson(object):
         self.new_items, self.db_before, self.db_after = [], 0, 0
         self.own = set()
         self.plan = False
+        self.kind = 'word'            # 'word' = main-word network, 'phrases' = fixed-phrase lesson
+        self.phr_items = []
 
 
 class Unit(object):
@@ -483,6 +494,13 @@ class DB(object):
         self.units = OrderedDict((l, []) for l in LEVELS)
         self.lessons = []
         self.lesson_by_head = {}
+        self.phrases = []                 # fixed phrases taught in phrase lessons (role PHRASE, not in self.items)
+        self.own_all = set()              # every inflected form of the main words and family forms taught so far
+        self.phrase_index = {}            # normalised phrase -> Item
+        self.t_words = OrderedDict()      # target word -> dict(level, list, detail, senses)
+        self.t_phrases = []               # (level, kind, phrase)
+        self.t_variants = {}              # listed spelling (lower) -> [course spelling, ...]
+        self.t_links = OrderedDict()      # normalised target phrase -> normalised expression that teaches it
 
     # ---- registration with global duplicate detection
     def register(self, token, role, L, expr=None, expr_az=None, cat=None, az=None, err=None):
@@ -593,6 +611,222 @@ def load_aux(db):
                     db.reserved.setdefault(x.lower(), (head, lvl))
 
 
+def load_targets(db):
+    """Target lists the course is being extended to cover (source/targets/).  Optional."""
+    p = os.path.join(TGT, 'oxford_words.tsv')
+    if os.path.exists(p):
+        with open(p, encoding='utf-8') as f:
+            for raw in f:
+                if raw.startswith('#') or not raw.strip():
+                    continue
+                c = raw.rstrip('\n').split('\t')
+                c += [''] * (5 - len(c))
+                db.t_words[c[0]] = {'level': c[1], 'list': c[2], 'detail': c[3], 'senses': c[4]}
+    p = os.path.join(TGT, 'oxford_phrases.tsv')
+    if os.path.exists(p):
+        with open(p, encoding='utf-8') as f:
+            for raw in f:
+                if raw.startswith('#') or not raw.strip():
+                    continue
+                c = raw.rstrip('\n').split('\t')
+                if len(c) >= 3:
+                    db.t_phrases.append((c[0], c[1], c[2]))
+    p = os.path.join(TGT, 'spelling_variants.txt')
+    if os.path.exists(p):
+        for n, line in read_lines(p):
+            a, _, b = line.partition('#')[0].partition('=')
+            if a.strip() and b.strip():
+                db.t_variants.setdefault(a.strip().lower(), []).append(b.strip().lower())
+    p = os.path.join(TGT, 'phrase_links.txt')
+    if os.path.exists(p):
+        for n, line in read_lines(p):
+            a, _, b = line.partition('#')[0].partition('=')
+            if a.strip() and b.strip():
+                db.t_links[norm_expr(a)] = norm_expr(b)
+
+
+def coverage(db):
+    """Where every word and phrase of the target lists is taught.  -> (word rows, phrase rows)."""
+    exact = {}
+    for it in db.items:
+        exact.setdefault(it.lemma.lower(), it)
+        exact.setdefault(it.token.lower(), it)
+    seqs = []
+    for L in db.lessons:
+        for (en, az, note, _r) in L.exprs:
+            seqs.append((L.uid, [t.lower() for t in tokenize(en)]))
+
+    def find(form):
+        toks = [t.lower() for t in tokenize(form)]
+        if not toks:
+            return None
+        low = form.lower()
+        if len(toks) == 1:
+            if toks[0] in db.structural or low in db.structural:
+                return ('FOUNDATION', 'A1-000', None)
+            it = exact.get(low) or exact.get(toks[0])
+            return (it.role, it.lesson, it) if it is not None else None
+        if all(t in db.structural for t in toks):
+            return ('FOUNDATION', 'A1-000', None)
+        n = len(toks)
+        for uid, seq in seqs:
+            for i in range(len(seq) - n + 1):
+                if seq[i:i + n] == toks:
+                    return ('EXPRESSION', uid, None)
+        return None
+
+    words = []
+    for w, t in db.t_words.items():
+        hit, as_form = None, ''
+        for form in [w] + db.t_variants.get(w.lower(), []):
+            hit = find(form)
+            if hit:
+                as_form = form if form.lower() != w.lower() else ''
+                break
+        if hit and hit[2] is not None and not as_form and hit[2].token.lower() != w.lower():
+            as_form = hit[2].token                 # taught through an inflected form (laughing -> laugh)
+        words.append({'word': w, 'level': t['level'], 'list': t['list'], 'detail': t['detail'],
+                      'senses': t['senses'], 'status': hit[0] if hit else 'NOT YET',
+                      'lesson': hit[1] if hit else '', 'as': as_form})
+    phrases = []
+    for lvl, kind, ph in db.t_phrases:
+        if kind != 'main':
+            continue
+        ne = norm_expr(ph)
+        st, les, via = 'NOT YET', '', ''
+        if ne in db.phrase_index:
+            st, les = 'PHRASE', db.phrase_index[ne].lesson
+        elif ne in db.expr_index:
+            st, les = 'EXPRESSION', db.expr_index[ne]
+        elif ne in db.t_links:
+            tgt = db.t_links[ne]
+            if tgt in db.expr_index:
+                st, les, via = 'EXPRESSION', db.expr_index[tgt], tgt
+            elif tgt in db.phrase_index:
+                st, les, via = 'PHRASE', db.phrase_index[tgt].lesson, tgt
+            else:
+                db.warnings.append('targets/phrase_links.txt: "%s" points to an expression that is not in the '
+                                   'course: "%s"' % (ph, tgt))
+        phrases.append({'phrase': ph, 'level': lvl, 'status': st, 'lesson': les, 'via': via})
+    return words, phrases
+
+
+def coverage_summary(db):
+    """level -> [words, in foundation, taught in lessons, not yet, phrases, phrases taught, phrases not yet]"""
+    rows = OrderedDict((l, [0] * 7) for l in LEVELS)
+    for w in db.cov_words:
+        r = rows[w['level']]
+        r[0] += 1
+        r[1 if w['status'] == 'FOUNDATION' else 3 if w['status'] == 'NOT YET' else 2] += 1
+    for ph in db.cov_phrases:
+        r = rows[ph['level']]
+        r[4] += 1
+        r[6 if ph['status'] == 'NOT YET' else 5] += 1
+    return rows
+
+
+def render_coverage(db):
+    rows = coverage_summary(db)
+    tot = [sum(r[i] for r in rows.values()) for i in range(7)]
+    o = [RULE, 'ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)',
+         'COVERAGE OF THE OXFORD 3000, THE OXFORD 5000 AND THE OXFORD PHRASE LIST', RULE,
+         'Generated: %s' % TODAY, '']
+    o.append(wrap('This file is the progress record for one goal: every word of the Oxford 3000 and Oxford 5000 word '
+                  'lists and every phrase of the Oxford Phrase List (the PDF supplied for this course) must be taught '
+                  'in the course, each one exactly once. The lists are used only as a checklist of WHAT to teach; the '
+                  'lessons, translations and explanations are written for this course.'))
+    o.append(wrap('Bu fayl bir məqsədin gedişat hesabatıdır: Oxford 3000 və Oxford 5000 söz siyahılarındakı hər söz və '
+                  'Oxford Phrase List-dəki hər ifadə (kurs üçün verilmiş PDF) bu kursda — hər biri yalnız bir dəfə — '
+                  'öyrədilməlidir. Aşağıda hansı sözün hansı dərsdə öyrədildiyi və hələ nələrin qaldığı göstərilir.'))
+    o.append('')
+    o.append('1. SUMMARY  /  XÜLASƏ')
+    o.append(THIN)
+    o.append('   Level   Words on    in the      taught in   still to  |  Phrases on   taught   still to')
+    o.append('           the list    foundation  a lesson    teach     |  the list              teach')
+    for lvl, r in rows.items():
+        if r[0] or r[4]:
+            o.append('   %-6s %9d %11d %11d %9d    |  %9d %9d %9d' % ((lvl,) + tuple(r)))
+    o.append('   %-6s %9d %11d %11d %9d    |  %9d %9d %9d' % (('TOTAL',) + tuple(tot)))
+    o.append('')
+    done_w, done_p = tot[1] + tot[2], tot[5]
+    o.append('   Words:   %s of %s taught (%.1f%%)   |   Phrases: %s of %s taught (%.1f%%)'
+             % (thousands(done_w), thousands(tot[0]), 100.0 * done_w / tot[0] if tot[0] else 0,
+                thousands(done_p), thousands(tot[4]), 100.0 * done_p / tot[4] if tot[4] else 0))
+    o.append('')
+    for t in ['A "word on the list" is one spelling. The PDF prints %s entries because it lists some words more than '
+              'once (another part of speech at a higher level, or two senses such as bank (money) / bank (river)); '
+              'these are %s different spellings, and one spelling is one item of the course database.'
+              % (thousands(sum(len(t['detail'].split(' | ')) for t in db.t_words.values())), thousands(len(db.t_words))),
+              'The word list in the PDF is the American English edition. The course uses British spelling, so an '
+              'American spelling counts as taught when its British form is taught (color → colour); these pairs are '
+              'in source/targets/spelling_variants.txt and are marked with → below.',
+              '"In the foundation" = a grammar word taught in A1 Section 0. "Taught in a lesson" = a main word, a '
+              'word-family form or the new word of an expression; a word taught through an inflected form is shown '
+              'as  laugh → laughing.',
+              'A phrase counts as taught when it is one of the phrases of a fixed-phrase lesson, or when an '
+              'expression of a main-word lesson teaches it (confirmed one by one in source/targets/phrase_links.txt).',
+              'The Phrase List also prints %d example lines under its 750 phrases; they are used as examples in the '
+              'lessons where they fit, but they are not counted here.'
+              % sum(1 for l, k, x in db.t_phrases if k == 'example')]:
+        o.append(wrap(t, '   • ', '     '))
+    o.append('')
+    o.append('2. WORDS STILL TO BE TAUGHT  /  HƏLƏ ÖYRƏDİLMƏMİŞ SÖZLƏR (%s)' % thousands(tot[3]))
+    o.append(THIN)
+    for lvl in LEVELS:
+        left = [w['word'] for w in db.cov_words if w['level'] == lvl and w['status'] == 'NOT YET']
+        if rows[lvl][0]:
+            o.append('   %s (%d)%s' % (lvl, len(left), '' if left else ' — complete / tamamlanıb'))
+            if left:
+                o.append(wrap_list(sorted(left, key=str.lower), '      '))
+    o.append('')
+    o.append('3. PHRASES STILL TO BE TAUGHT  /  HƏLƏ ÖYRƏDİLMƏMİŞ İFADƏLƏR (%s)' % thousands(tot[6]))
+    o.append(THIN)
+    for lvl in LEVELS:
+        left = [x['phrase'] for x in db.cov_phrases if x['level'] == lvl and x['status'] == 'NOT YET']
+        if rows[lvl][4]:
+            o.append('   %s (%d)%s' % (lvl, len(left), '' if left else ' — complete / tamamlanıb'))
+            if left:
+                o.append(wrap('; '.join(left), '      ', '      '))
+    o.append('')
+    o.append('4. WHERE EVERY WORD OF THE LIST IS TAUGHT  /  SİYAHIDAKI HƏR SÖZ HARADA ÖYRƏDİLİR')
+    o.append(THIN)
+    o.append('   Format: word (lesson).  S0 = A1 Section 0 (foundation).  → = taught in this spelling or form.')
+    for lvl in LEVELS:
+        got = [w for w in db.cov_words if w['level'] == lvl and w['status'] != 'NOT YET']
+        if not got:
+            continue
+        o.append('')
+        o.append('   %s — %d of %d words' % (lvl, len(got), rows[lvl][0]))
+        buf = []
+        for w in sorted(got, key=lambda x: x['word'].lower()):
+            where = 'S0' if w['status'] == 'FOUNDATION' else w['lesson']
+            buf.append('%s%s (%s)' % (w['word'], ' → ' + w['as'] if w['as'] else '', where))
+        o.append(wrap(', '.join(buf), '      ', '      '))
+    o.append('')
+    o.append('5. WHERE EVERY PHRASE OF THE LIST IS TAUGHT  /  SİYAHIDAKI HƏR İFADƏ HARADA ÖYRƏDİLİR')
+    o.append(THIN)
+    o.append('   Format: phrase (lesson).  "phrase = expression (lesson)" means: taught through that expression.')
+    for lvl in LEVELS:
+        got = [x for x in db.cov_phrases if x['level'] == lvl and x['status'] != 'NOT YET']
+        if not got:
+            continue
+        o.append('')
+        o.append('   %s — %d of %d phrases' % (lvl, len(got), rows[lvl][4]))
+        o.append(wrap('; '.join('%s%s (%s)' % (x['phrase'], ' = ' + x['via'] if x['via'] else '', x['lesson'])
+                                for x in got), '      ', '      '))
+    o.append('')
+    sens = [(w, t) for w, t in db.t_words.items() if t['senses']]
+    if sens:
+        o.append('6. WORDS THAT THE LIST SPLITS INTO SENSES OR HOMOGRAPHS (%d)' % len(sens))
+        o.append(THIN)
+        o.append(wrap('The list prints these spellings more than once. The database holds one item per spelling; '
+                      'the lesson that teaches the word is the place where its different senses are explained.', '   '))
+        o.append(wrap('; '.join('%s [%s]' % (w, t['senses'].replace(' | ', ' / ')) for w, t in sens), '   ', '   '))
+        o.append('')
+    o.append('END OF COVERAGE REPORT')
+    return o
+
+
 def load_foundation(db):
     p = os.path.join(SRC, '00_foundation.txt')
     if not os.path.exists(p):
@@ -638,6 +872,24 @@ def load_lessons(db):
                         unit = Unit(lvl, parts[0], parts[1] if len(parts) > 1 else '')
                         db.units[lvl].append(unit)
                         unit.no = len(db.units[lvl])
+                    elif s.startswith('@@'):
+                        parts = [x.strip() for x in s[2:].split('|')]
+                        if len(parts) != 2 or not parts[0] or not parts[1]:
+                            raise ValueError('phrase lesson header needs: @@ TITLE | azerbaijani title')
+                        if unit is None:
+                            raise ValueError('lesson before any "## unit" header')
+                        cur = Lesson(lvl, unit, parts[0], 'fixed phrases', '', parts[1], rel, n)
+                        cur.kind = 'phrases'
+                        unit.lessons.append(cur)
+                        db.lessons.append(cur)
+                    elif s.startswith('+ '):
+                        if cur is None or cur.kind != 'phrases':
+                            raise ValueError('"+ phrase" lines belong to a phrase lesson (@@ header)')
+                        body, _, note = s[2:].partition('::')
+                        en, _, az = body.partition('=')
+                        if not az.strip():
+                            raise ValueError('phrase without translation')
+                        cur.exprs.append((en.strip(), az.strip(), note.strip(), False))
                     elif s.startswith('@'):
                         parts = [x.strip() for x in s[1:].split('|')]
                         if len(parts) != 4:
@@ -658,6 +910,8 @@ def load_lessons(db):
                                     raise ValueError('family form without translation: %r' % chunk)
                                 cur.family[cat].append((form.strip(), az.strip()))
                     elif s.startswith(('- ', '~ ')):
+                        if cur is not None and cur.kind == 'phrases':
+                            raise ValueError('a phrase lesson takes "+ phrase" lines, not "- / ~" expressions')
                         body, _, note = s[2:].partition('::')
                         en, _, az = body.partition('=')
                         if not az.strip():
@@ -683,7 +937,85 @@ def load_lessons(db):
 
 
 # ------------------------------------------------------------------ validation
+def is_known(db, low):
+    """True if the word (or a form of it) has been taught up to this point of the course."""
+    if low in db.structural or low.replace('-', '') in db.structural or low in db.own_all:
+        return True
+    for c in candidates(low):
+        if c in db.by_form or c in db.structural:
+            return True
+    return bool(db.by_cand.get(low))
+
+
+def phrase_tokens(en):
+    return [t for t in (strip_contr(x).lower() for x in tokenize(en)) if t not in PLACEHOLDERS]
+
+
+def process_phrase_lesson(db, L):
+    """A fixed-phrase lesson teaches 4-8 phrases that are built ONLY from words taught before it.
+    Each phrase is registered once (as a phrase); it introduces no new word."""
+    def err(msg):
+        db.errors.append('%s %s: %s' % (L.uid, L.head, msg))
+
+    def warn(msg):
+        db.warnings.append('%s %s: %s' % (L.uid, L.head, msg))
+
+    L.db_before = L.db_after = len(db.items)
+    key = '@@' + L.head.lower()
+    if key in db.lesson_by_head:
+        err('phrase lesson title already used (%s)' % db.lesson_by_head[key].uid)
+    db.lesson_by_head[key] = L
+    for (en, az, note, _r) in L.exprs:
+        ne = norm_expr(en)
+        if not ne:
+            err('empty phrase')
+            continue
+        if ne in db.expr_index:
+            err('DUPLICATE PHRASE "%s" (already taught as an expression in %s)' % (en, db.expr_index[ne]))
+            continue
+        if ne in db.phrase_index:
+            err('DUPLICATE PHRASE "%s" (already in %s)' % (en, db.phrase_index[ne].lesson))
+            continue
+        for t in phrase_tokens(en):
+            if not is_known(db, t):
+                err('phrase "%s" uses the word \'%s\', which has not been taught before this lesson' % (en, t))
+        it = Item(lemma=en, token=en, role='PHRASE', level=L.level, lesson=L.uid, head=L.head,
+                  expr=en, expr_az=az, seq=len(db.phrases))
+        db.phrases.append(it)
+        db.phrase_index[ne] = it
+        L.phr_items.append(it)
+        if not note:
+            err('phrase "%s" has no usage note' % en)
+        b = set(az) - AZ_OK
+        if b:
+            warn('odd characters in translation of "%s": %s' % (en, ' '.join(sorted(b))))
+    if not (MIN_PHRASES <= len(L.exprs) <= MAX_PHRASES):
+        err('needs %d-%d phrases, has %d' % (MIN_PHRASES, MAX_PHRASES, len(L.exprs)))
+    if not (3 <= len(L.sents) <= 6):
+        err('needs 3-6 example sentences, has %d' % len(L.sents))
+    if not L.usage:
+        err('usage explanation missing')
+    skels = [[t for t in phrase_tokens(en) if t not in ('do', 'doing')] for (en, az, note, _r) in L.exprs]
+    for i, (en, az) in enumerate(L.sents, 1):
+        toks = set()
+        for t in tokenize(en):
+            low = strip_contr(t).lower()
+            toks |= candidates(low) | {low, t.lower()}
+            toks |= IRREG_BACK.get(low, set())
+        toks |= {'be'} if toks & {'am', 'is', 'are', 'was', 'were', 'been', 'being'} else set()
+        if not any(sk and all(t in toks for t in sk) for sk in skels):
+            warn('example sentence %d uses none of the phrases of this lesson' % i)
+        b = set(az) - AZ_OK
+        if b:
+            warn('odd characters in sentence %d translation: %s' % (i, ' '.join(sorted(b))))
+        if en[-1] not in '.!?"\'' or az[-1] not in '.!?"\'':
+            warn('example sentence %d lacks final punctuation' % i)
+
+
 def process_lesson(db, L):
+    if L.kind == 'phrases':
+        return process_phrase_lesson(db, L)
+
     def err(msg):
         db.errors.append('%s %s: %s' % (L.uid, L.head, msg))
 
@@ -719,6 +1051,7 @@ def process_lesson(db, L):
             db.register(form, 'FAMILY', L, az=az, cat=cat, err=err)
             own |= inflections(form, cat in ('adj', 'adv'))
     L.own = own
+    db.own_all |= {x.lower() for x in own}
     lesson_new = set()
     for (en, az, note, related) in L.exprs:
         ne = norm_expr(en)
@@ -783,11 +1116,12 @@ def process_lesson(db, L):
 def build_db(plan_lessons=None):
     db = DB()
     load_aux(db)
+    load_targets(db)
     load_foundation(db)
     load_lessons(db)
     for L in db.lessons:
         process_lesson(db, L)
-    done = {L.head.lower() for L in db.lessons}
+    done = {L.head.lower() for L in db.lessons if L.kind == 'word'}
     for lvl in LEVELS:
         for head, fams in db.roadmap[lvl]:
             if head.lower() in done and db.lesson_by_head[head.lower()].level != lvl:
@@ -796,6 +1130,7 @@ def build_db(plan_lessons=None):
     for pair in db.distinct:
         if pair not in db.distinct_used:
             db.notes.append('distinct_lexemes.txt: pair not (yet) needed: %s' % ' | '.join(sorted(pair)))
+    db.cov_words, db.cov_phrases = coverage(db)
     return db
 
 
@@ -942,6 +1277,8 @@ def qa_report(db, refs):
         out.append('== MAIN WORD LEVEL vs open reference lists (CEFR-J A1-B2, Octanove C1-C2) ==')
         same = near = far = unk = 0
         for L in db.lessons:
+            if L.kind != 'word':
+                continue
             r = cefr.get(L.head.lower())
             if r is None:
                 unk += 1
@@ -1004,7 +1341,7 @@ def qa_report(db, refs):
         nrev = 0
         for L in db.lessons:
             w = L.head.lower()
-            if ' ' in w:
+            if ' ' in w or L.kind != 'word':
                 continue
             src = 'Britfone'
             theirs = refs['ipa'].get(w)
@@ -1064,6 +1401,8 @@ LEGEND = [
     '  E. USAGE EXPLANATION .... İşlənmə izahı: oxşar ifadələrin fərqi, qrammatik qəliblər, üslub',
     '  DATABASE UPDATE ......... Bu dərsdə bazaya əlavə olunan yeni sözlər və təkrar yoxlamasının nəticəsi',
     '',
+    '  FIXED-PHRASE LESSON ..... Sabit ifadələr dərsi: əvvəl öyrədilmiş sözlərdən qurulan 4–8 hazır ifadə (get up, at least)',
+    '',
     '  sb = somebody (kimsə)      sth = something (nəsə)      one\'s = my / your / his / her ... (öz)',
     '  An expression marked [related] belongs to the same topic but does not contain the main word itself.',
     '  [related] işarəli ifadə eyni mövzuya aiddir, lakin əsas sözün özünü ehtiva etmir.',
@@ -1072,8 +1411,12 @@ LEGEND = [
     '  Every English word is taught exactly ONCE in the whole A1–C2 system: as a main word, as a word-family',
     '  form, or as the new word inside one expression. Only grammar words (a, the, of, to, be, have, do ...)',
     '  listed in A1 "Section 0" may recur inside expressions. Example sentences may recycle known words.',
+    '  A fixed phrase (get up, at least, in fact) is an item of its own: it is built from words that were taught',
+    '  earlier and it is taught once, as a phrase, in a fixed-phrase lesson.',
     '  Hər bir ingilis sözü bütün sistemdə (A1–C2) yalnız BİR dəfə öyrədilir. Yalnız A1 faylının',
     '  "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.',
+    '  Sabit ifadə (get up, at least, in fact) ayrıca vahiddir: əvvəl öyrədilmiş sözlərdən qurulur və',
+    '  sabit ifadələr dərsində bir dəfə — ifadə kimi — öyrədilir.',
 ]
 
 
@@ -1081,7 +1424,38 @@ def note_lang(level):
     return 'Azerbaijani' if level in ('A1', 'A2') else 'English'
 
 
+def render_phrase_lesson(db, L):
+    o = [RULE, 'LESSON %s   |   UNIT %d: %s' % (L.uid, L.unit.no, L.unit.en), RULE]
+    o.append('FIXED PHRASES: %s' % L.head.upper())
+    o.append('Azerbaijani: %s' % az_cap(L.az))
+    o.append('')
+    o.append('A. FIXED PHRASES OF THIS LESSON (%d)' % len(L.exprs))
+    for i, (en, az, note, _r) in enumerate(L.exprs, 1):
+        o.append(wrap('%d. %s — %s' % (i, en, az), '   ', '      '))
+        o.append(wrap('Usage: %s' % note, '      ', '             '))
+    o.append('')
+    o.append('B. NATURAL EXAMPLE SENTENCES')
+    for i, (en, az) in enumerate(L.sents, 1):
+        o.append(wrap('%d. %s' % (i, en), '   ', '      '))
+        o.append(wrap('→ %s' % az, '      ', '        '))
+    o.append('')
+    o.append('C. USAGE EXPLANATION')
+    for para in L.usage:
+        o.append(wrap(para, '   ', '   '))
+    o.append('')
+    o.append('DATABASE UPDATE')
+    o.append(wrap('Fixed phrases registered in this lesson (%d): %s'
+                  % (len(L.phr_items), '; '.join(it.lemma for it in L.phr_items)), '   ', '      '))
+    o.append(wrap('Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is '
+                  'registered once and appears in no other lesson (%s phrases in the database).'
+                  % thousands(L.phr_items[-1].seq + 1 if L.phr_items else len(db.phrases)), '   ', '      '))
+    o.append('')
+    return o
+
+
 def render_lesson(db, L, rel):
+    if L.kind == 'phrases':
+        return render_phrase_lesson(db, L)
     o = []
     o.append(RULE)
     o.append('LESSON %s   |   UNIT %d: %s' % (L.uid, L.unit.no, L.unit.en))
@@ -1207,8 +1581,12 @@ def render_level_files(db, rel):
                  'LEVEL %s — %s  /  %s' % (lvl, LEVEL_NAME[lvl].upper(), LEVEL_AZ[lvl]), RULE]
             o.append('File: %s   |   Part %d of %d   |   Generated: %s' % (name, pi, len(parts), TODAY))
             pl = [L for u in punits for L in u.lessons]
-            o.append('Lessons in this file: %d   |   Expressions: %d   |   Example sentences: %d'
-                     % (len(pl), sum(len(L.exprs) for L in pl), sum(len(L.sents) for L in pl)))
+            wl = [L for L in pl if L.kind == 'word']
+            fl = [L for L in pl if L.kind == 'phrases']
+            o.append('Lessons in this file: %d (%d main-word lessons + %d fixed-phrase lessons)'
+                     % (len(pl), len(wl), len(fl)))
+            o.append('Expressions: %d   |   Fixed phrases: %d   |   Example sentences: %d'
+                     % (sum(len(L.exprs) for L in wl), sum(len(L.exprs) for L in fl), sum(len(L.sents) for L in pl)))
             o.append('New vocabulary items introduced at level %s: %s   |   Language of usage notes: %s'
                      % (lvl, thousands(len(items)), note_lang(lvl)))
             o.append('')
@@ -1236,18 +1614,37 @@ def render_level_files(db, rel):
                 o.append(THIN)
                 o.append('UPDATED VOCABULARY INDEX — after UNIT %d (%s)' % (u.no, u.en))
                 o.append(THIN)
-                o.append('   Main words in this unit: %s' % ', '.join(L.head for L in u.lessons))
-                o.append('   New items registered in this unit: %d   |   Database total after this unit: %s'
-                         % (len(uitems), thousands(u.lessons[-1].db_after) if u.lessons else '0'))
-                o.append(wrap_list(sorted({it.lemma for it in uitems}, key=str.lower)))
+                uw = [L for L in u.lessons if L.kind == 'word']
+                uf = [L for L in u.lessons if L.kind == 'phrases']
+                if uw:
+                    o.append(wrap('Main words in this unit: %s' % ', '.join(L.head for L in uw), '   ', '      '))
+                    o.append('   New items registered in this unit: %d   |   Database total after this unit: %s'
+                             % (len(uitems), thousands(u.lessons[-1].db_after) if u.lessons else '0'))
+                    o.append(wrap_list(sorted({it.lemma for it in uitems}, key=str.lower)))
+                if uf:
+                    uph = [it for L in uf for it in L.phr_items]
+                    o.append(wrap('Fixed-phrase lessons in this unit: %s' % '; '.join(L.head for L in uf),
+                                  '   ', '      '))
+                    o.append('   Fixed phrases registered in this unit: %d   |   Phrases in the database after this '
+                             'unit: %s' % (len(uph), thousands(uph[-1].seq + 1 if uph else 0)))
+                    o.append(wrap('; '.join(it.lemma for it in uph), '   ', '   '))
                 o.append('')
             if pi == len(parts):
                 o.append(RULE)
                 o.append('UPDATED VOCABULARY INDEX — END OF LEVEL %s' % lvl)
                 o.append(RULE)
-                o.append('   Main words covered at %s (%d):' % (lvl, len(lessons)))
-                o.append(wrap_list(['%s (%s)' % (L.head, L.uid[-3:]) for L in lessons], '      '))
+                wls = [L for L in lessons if L.kind == 'word']
+                fls = [L for L in lessons if L.kind == 'phrases']
+                o.append('   Main words covered at %s (%d):' % (lvl, len(wls)))
+                o.append(wrap_list(['%s (%s)' % (L.head, L.uid[-3:]) for L in wls], '      '))
                 o.append('')
+                if fls:
+                    lph = [it for L in fls for it in L.phr_items]
+                    o.append('   Fixed phrases taught at %s (%d phrases in %d lessons; the number is the lesson):'
+                             % (lvl, len(lph), len(fls)))
+                    o.append(wrap('; '.join('%s %s' % (it.lemma, it.lesson[-3:])
+                                            for it in sorted(lph, key=lambda x: x.lemma.lower())), '      ', '      '))
+                    o.append('')
                 o.append('   All vocabulary introduced at %s, A–Z (%s items; the number is the lesson):'
                          % (lvl, thousands(len(items))))
                 o.append(wrap_list(['%s %s' % (it.lemma, it.lesson[-3:])
@@ -1264,12 +1661,15 @@ def render_level_files(db, rel):
 
 def stats_table(db):
     rows = []
-    tot = [0] * 7
+    tot = [0] * 9
     for lvl in LEVELS:
-        ls = [L for u in db.units[lvl] for L in u.lessons]
+        al = [L for u in db.units[lvl] for L in u.lessons]
+        ls = [L for L in al if L.kind == 'word']
+        fl = [L for L in al if L.kind == 'phrases']
         it = level_items(db, lvl)
         r = [len(ls), sum(1 for x in it if x.role == 'FAMILY'), sum(1 for x in it if x.role == 'COLLOCATE'),
-             len(it), sum(len(L.exprs) for L in ls), sum(len(L.sents) for L in ls), len(db.units[lvl])]
+             len(it), sum(len(L.exprs) for L in ls), sum(len(L.sents) for L in al), len(db.units[lvl]),
+             len(fl), sum(len(L.exprs) for L in fl)]
         rows.append((lvl, r))
         tot = [a + b for a, b in zip(tot, r)]
     return rows, tot
@@ -1286,7 +1686,8 @@ def render_master(db, rel, files, qa):
     o.append(wrap('A network-based vocabulary curriculum for an Azerbaijani-speaking learner. Words are never '
                   'taught alone: every MAIN WORD is the hub of a small network made of its word family, 7–8 '
                   'natural expressions, example sentences and a usage explanation. A global database guarantees '
-                  'that no word is ever taught twice anywhere between A1 and C2.', '   '))
+                  'that no word is ever taught twice anywhere between A1 and C2. Fixed phrases (get up, at least) '
+                  'are taught in fixed-phrase lessons, built only from words that were taught earlier.', '   '))
     o.append(wrap('This is a finite, growing database. It does not contain every English word, and CEFR levels '
                   'are not universally fixed lists. Each lesson was placed at a level by the author, according to '
                   'the difficulty of the expression network it teaches, and the placement was then cross-checked '
@@ -1302,6 +1703,9 @@ def render_master(db, rel, files, qa):
         lvl = name[:2]
         o.append('      %s %s level %s lessons' % (name, '.' * max(2, 28 - len(name)), lvl))
     o.append('      GLOBAL_LEARNED_WORDS.txt .... every vocabulary item A–Z with level, lesson and source expression')
+    if db.t_words:
+        o.append('      OXFORD_LIST_COVERAGE.txt .... which words and phrases of the Oxford 3000 / 5000 / Phrase List')
+        o.append('                                    are taught, in which lesson, and which are still to come')
     o.append('   database/vocabulary_db.json ..... the same database in machine-readable form (reusable across sessions)')
     o.append('   database/learned_words.tsv ...... one line per learned word (for quick searching)')
     o.append('   source/ ......................... hand-written lesson sources; tools/vocab.py rebuilds everything')
@@ -1313,6 +1717,11 @@ def render_master(db, rel, files, qa):
         o.append('   %-6s %6d %11d %13d %20d %12d %12d %10d' % (lvl, r[6], r[0], r[1], r[2], r[3], r[4], r[5]))
     o.append('   %-6s %6d %11d %13d %20d %12d %12d %10d' % ('TOTAL', tot[6], tot[0], tot[1], tot[2], tot[3], tot[4], tot[5]))
     o.append('')
+    o.append('   Lessons: %s in total = %s main-word lessons + %s fixed-phrase lessons (%s fixed phrases)'
+             % (thousands(tot[0] + tot[7]), thousands(tot[0]), thousands(tot[7]), thousands(tot[8])))
+    if tot[7]:
+        o.append('   Fixed-phrase lessons / phrases by level: '
+                 + ', '.join('%s %d / %d' % (lvl, r[7], r[8]) for lvl, r in rows if r[7]))
     o.append('   Individual vocabulary items in the database: %s' % thousands(tot[3] + refn))
     o.append('      = %d main words + %d word-family forms + %s new words taught inside expressions + %d reference-set words'
              % (tot[0], tot[1], thousands(tot[2]), refn))
@@ -1341,6 +1750,10 @@ def render_master(db, rel, files, qa):
         'as collocates in other lessons before their own lesson is written.',
         'R9. Words from the same family that are taught in different lessons (each form still only once) are '
         'cross-referenced, so the network stays connected without repetition (Record 6b).',
+        'R10. A fixed phrase (get up, at least, in fact, look forward to sth) is an item of its own. It is taught '
+        'once, in a fixed-phrase lesson; every word inside it must have been taught before that lesson, and the '
+        'same phrase may not appear in another phrase lesson or as an expression of a main-word lesson. A phrase '
+        'lesson never introduces a new word.',
     ]:
         o.append(wrap(t, '   ', '       '))
     o.append('')
@@ -1351,6 +1764,9 @@ def render_master(db, rel, files, qa):
         for u in db.units[lvl]:
             o.append('   %s  UNIT %d — %s' % (lvl, u.no, u.en))
             for L in u.lessons:
+                if L.kind == 'phrases':
+                    o.append(wrap('%s  [fixed phrases] %s  —  %s' % (L.uid, L.head, L.az), '      ', ' ' * 14))
+                    continue
                 o.append(wrap('%s  %-16s %-18s /%s/  —  %s' % (L.uid, L.head, L.pos, L.ipa.split(',')[0].strip(), L.az),
                               '      ', ' ' * 14))
         o.append('')
@@ -1378,7 +1794,7 @@ def render_master(db, rel, files, qa):
     flush()
     o.append('')
     # Record 3
-    exprs = sorted(((en, L.uid, L.head) for L in db.lessons for (en, az, note, rl) in L.exprs),
+    exprs = sorted(((en, L.uid, L.head) for L in db.lessons if L.kind == 'word' for (en, az, note, rl) in L.exprs),
                    key=lambda x: x[0].lower())
     o.append('7. RECORD 3 — ALL EXPRESSIONS AND COLLOCATIONS COVERED (%s)' % thousands(len(exprs)))
     o.append(THIN)
@@ -1387,10 +1803,17 @@ def render_master(db, rel, files, qa):
         col.append('%s [%s]' % (en, uid))
     o.append(wrap('; '.join(col), '   ', '   '))
     o.append('')
+    if db.phrases:
+        o.append('   RECORD 3b — FIXED PHRASES COVERED (%s)' % thousands(len(db.phrases)))
+        o.append(wrap('; '.join('%s [%s]' % (it.lemma, it.lesson)
+                                for it in sorted(db.phrases, key=lambda x: x.lemma.lower())), '   ', '   '))
+        o.append('')
     # Record 4
     o.append('8. RECORD 4 — WORD-FAMILY FORMS COVERED (%d)' % tot[1])
     o.append(THIN)
     for L in db.lessons:
+        if L.kind != 'word':
+            continue
         fam = ['%s (%s)' % (f, c) for c, _ in CATS for f, a in L.family[c]]
         if fam:
             o.append(wrap('%s %s: %s' % (L.uid, L.head, ', '.join(fam)), '   ', '          '))
@@ -1418,6 +1841,8 @@ def render_master(db, rel, files, qa):
     o.append('   Result of the last build: PASSED')
     o.append('   Items checked: %s   |   Expressions checked: %s   |   Repeated items: 0   |   Repeated expressions: 0'
              % (thousands(len(db.items)), thousands(tot[4])))
+    o.append('   Fixed phrases checked: %s   |   Repeated phrases: 0   |   Phrases using a word not yet taught: 0'
+             % thousands(len(db.phrases)))
     o.append('')
     o.append('   6a. Look-alike pairs declared to be DIFFERENT words (%d):' % len(db.distinct_used))
     for pair in sorted(db.distinct_used, key=lambda p: sorted(p)):
@@ -1435,8 +1860,21 @@ def render_master(db, rel, files, qa):
         lines.append('%s [%s] ~ %s [%s]' % (a.lemma, a.lesson, b.lemma, b.lesson))
     o.append(wrap('; '.join(lines), '       ', '       ') if lines else '       —')
     o.append('')
+    if db.t_words:
+        cr = coverage_summary(db)
+        ct = [sum(r[i] for r in cr.values()) for i in range(7)]
+        o.append('10b. RECORD 7 — COVERAGE OF THE OXFORD 3000 / OXFORD 5000 / OXFORD PHRASE LIST')
+        o.append(THIN)
+        o.append(wrap('The course is being extended until it teaches every word and phrase of these lists (the PDF '
+                      'supplied for the course). Full details, word by word: OXFORD_LIST_COVERAGE.txt.', '   '))
+        o.append('   Level   Words on the list   taught   still to teach  |  Phrases on the list   taught   still to teach')
+        for lvl, r in cr.items():
+            if r[0] or r[4]:
+                o.append('   %-6s %17d %8d %16d  |  %19d %8d %16d' % (lvl, r[0], r[1] + r[2], r[3], r[4], r[5], r[6]))
+        o.append('   %-6s %17d %8d %16d  |  %19d %8d %16d' % ('TOTAL', ct[0], ct[1] + ct[2], ct[3], ct[4], ct[5], ct[6]))
+        o.append('')
     # Roadmap
-    done = {L.head.lower() for L in db.lessons}
+    done = {L.head.lower() for L in db.lessons if L.kind == 'word'}
     o.append('11. ROADMAP — MAIN WORDS RESERVED FOR THE NEXT PARTS')
     o.append(THIN)
     any_left = False
@@ -1514,9 +1952,18 @@ def render_global(db, rel):
             chunks.append(cur)
             cur = []
     chunks.append(cur)
-    tail = ['', 'PART D — CHECK', THIN,
-            '   Total individual vocabulary items: %s   |   Repeated items: 0   |   Duplicate check: PASSED'
-            % thousands(len(db.items)), '', 'END OF GLOBAL LEARNED WORDS']
+    tail = []
+    if db.phrases:
+        tail += ['', 'PART D — FIXED PHRASES A–Z (%s)' % thousands(len(db.phrases)), THIN,
+                 '   phrase | level | lesson (title) | translation', '']
+        for it in sorted(db.phrases, key=lambda x: (x.lemma.lower(), x.seq)):
+            tail.append(wrap('%s | %s | %s (%s) | %s' % (it.lemma, it.level, it.lesson, it.head, it.expr_az),
+                             '   ', '        '))
+    tail += ['', 'PART E — CHECK' if db.phrases else 'PART D — CHECK', THIN,
+             '   Total individual vocabulary items: %s   |   Repeated items: 0   |   Duplicate check: PASSED'
+             % thousands(len(db.items)),
+             '   Total fixed phrases: %s   |   Repeated phrases: 0' % thousands(len(db.phrases)),
+             '', 'END OF GLOBAL LEARNED WORDS']
     for i, ch in enumerate(chunks, 1):
         name = 'GLOBAL_LEARNED_WORDS.txt' if i == 1 else 'GLOBAL_LEARNED_WORDS_PART_%02d.txt' % i
         body = (o if i == 1 else list(head) + ['(continued, part %d of %d)' % (i, len(chunks))]) + ch
@@ -1532,7 +1979,8 @@ def export_json(db, rel):
     lessons = []
     for L in db.lessons:
         lessons.append(OrderedDict([
-            ('id', L.uid), ('level', L.level), ('unit', L.unit.en), ('main_word', L.head), ('pos', L.pos),
+            ('id', L.uid), ('kind', L.kind), ('level', L.level), ('unit', L.unit.en), ('main_word', L.head),
+            ('pos', L.pos),
             ('ipa_british', L.ipa), ('azerbaijani', L.az), ('key_forms', L.forms),
             ('word_family', OrderedDict((c, [OrderedDict([('form', f), ('az', a)]) for f, a in L.family[c]])
                                         for c, _ in CATS)),
@@ -1541,12 +1989,14 @@ def export_json(db, rel):
             ('sentences', [OrderedDict([('en', en), ('az', az)]) for en, az in L.sents]),
             ('usage', L.usage),
             ('new_items', [it.lemma for it in L.new_items]),
+            ('phrases', [it.lemma for it in L.phr_items]),
         ]))
     return OrderedDict([
         ('generated', TODAY),
         ('levels', LEVELS),
         ('structural_words', sorted(db.structural)),
         ('items', [it.as_dict() for it in db.items]),
+        ('phrases', [it.as_dict() for it in db.phrases]),
         ('lessons', lessons),
         ('reserved_main_words', OrderedDict((l, [h for h, f in db.roadmap[l]
                                                  if h.lower() not in db.lesson_by_head]) for l in LEVELS)),
@@ -1575,6 +2025,8 @@ def sync_ref_levels(db, refs):
             cache[w] = lv
     if refs.get('cefr'):
         for L in db.lessons:
+            if L.kind != 'word':
+                continue
             lv = refs['cefr'].get(L.head.lower())
             cache[L.head.lower()] = LEVELS[lv] if lv is not None else '-'
         with open(path, 'w', encoding='utf-8') as f:
@@ -1592,9 +2044,15 @@ def cmd_build(args):
     db = build_db()
     report(db)
     rows, tot = stats_table(db)
-    print(' | '.join('%s:%d' % (lvl, r[0]) for lvl, r in rows),
-          '| lessons=%d items=%d expressions=%d errors=%d warnings=%d'
-          % (tot[0], len(db.items), tot[4], len(db.errors), len(db.warnings)))
+    print(' | '.join('%s:%d' % (lvl, r[0] + r[7]) for lvl, r in rows),
+          '| lessons=%d (word %d + phrase %d) items=%d expressions=%d phrases=%d errors=%d warnings=%d'
+          % (tot[0] + tot[7], tot[0], tot[7], len(db.items), tot[4], tot[8], len(db.errors), len(db.warnings)))
+    if db.t_words:
+        cr = coverage_summary(db)
+        ct = [sum(r[i] for r in cr.values()) for i in range(7)]
+        print('target lists: words %d of %d taught, %d to go (%s) | phrases %d of %d taught, %d to go'
+              % (ct[1] + ct[2], ct[0], ct[3], ' '.join('%s:%d' % (l, r[3]) for l, r in cr.items() if r[0]),
+                 ct[5], ct[4], ct[6]))
     if db.errors:
         print('BUILD STOPPED: fix the errors above; no output files were written.')
         return 1
@@ -1609,6 +2067,8 @@ def cmd_build(args):
     allfiles['MASTER_INDEX.txt'] = render_master(db, rel, files, qa)
     allfiles.update(files)
     allfiles.update(render_global(db, rel))
+    if db.t_words:
+        allfiles['OXFORD_LIST_COVERAGE.txt'] = render_coverage(db)
     for old in os.listdir(OUT):
         if old.endswith('.txt') and old not in allfiles:
             os.remove(os.path.join(OUT, old))
@@ -1622,6 +2082,17 @@ def cmd_build(args):
         for it in sorted(db.items, key=lambda x: x.lemma.lower()):
             f.write('\t'.join([it.lemma, it.role, it.level, it.lesson, it.head, it.expr or '',
                                it.expr_az or it.az or '']) + '\n')
+    with open(os.path.join(DBD, 'learned_phrases.tsv'), 'w', encoding='utf-8') as f:
+        f.write('phrase\tlevel\tlesson\tlesson_title\ttranslation\n')
+        for it in sorted(db.phrases, key=lambda x: x.lemma.lower()):
+            f.write('\t'.join([it.lemma, it.level, it.lesson, it.head, it.expr_az or '']) + '\n')
+    if db.t_words:
+        with open(os.path.join(DBD, 'oxford_coverage.tsv'), 'w', encoding='utf-8') as f:
+            f.write('kind\tlevel\ttarget\tstatus\tlesson\ttaught_as\n')
+            for w in db.cov_words:
+                f.write('\t'.join(['word', w['level'], w['word'], w['status'], w['lesson'], w['as']]) + '\n')
+            for x in db.cov_phrases:
+                f.write('\t'.join(['phrase', x['level'], x['phrase'], x['status'], x['lesson'], x['via']]) + '\n')
     if qa:
         with open(os.path.join(DBD, 'qa_report.txt'), 'w', encoding='utf-8') as f:
             f.write('\n'.join(qa) + '\n')
@@ -1713,14 +2184,75 @@ def cmd_find(args, only_free=False):
     return 0
 
 
+def cmd_targets(args):
+    db = build_db()
+    if not db.t_words:
+        print('no target lists in source/targets/')
+        return 0
+    lv = [a for a in args if a in LEVELS]
+    what = [a for a in args if a in ('words', 'phrases')] or ['words', 'phrases']
+    cr = coverage_summary(db)
+    print('level  words  foundation  lessons  NOT YET | phrases  taught  NOT YET')
+    for l, r in cr.items():
+        if r[0] or r[4]:
+            print('%-5s %6d %11d %8d %8d | %7d %7d %8d' % ((l,) + tuple(r)))
+    for l in lv:
+        if 'words' in what:
+            left = [w for w in db.cov_words if w['level'] == l and w['status'] == 'NOT YET']
+            print('\n%s words not yet taught (%d):' % (l, len(left)))
+            for w in left:
+                print('  %-18s %s%s' % (w['word'], w['detail'], '   [' + w['senses'] + ']' if w['senses'] else ''))
+        if 'phrases' in what:
+            left = [x for x in db.cov_phrases if x['level'] == l and x['status'] == 'NOT YET']
+            print('\n%s phrases not yet taught (%d):' % (l, len(left)))
+            for x in left:
+                unk = [t for t in phrase_tokens(x['phrase']) if not is_known(db, t)]
+                print('  %s%s' % (x['phrase'], '      <-- word(s) not taught yet: ' + ', '.join(unk) if unk else ''))
+    return 0
+
+
+def cmd_offlist(args):
+    db = build_db()
+    start = args[0] if args else ''
+    tset = {}
+    for w, t in db.t_words.items():
+        tset[w.lower()] = t['level']
+        for v in db.t_variants.get(w.lower(), []):
+            tset[v] = t['level']
+    on = not start
+    n = bad = 0
+    for L in db.lessons:
+        if L.uid == start:
+            on = True
+        if not on or L.kind != 'word' or (start and L.level != start[:2]):
+            continue
+        for it in L.new_items:
+            n += 1
+            lv = tset.get(it.lemma.lower()) or tset.get(it.token.lower())
+            if lv is None:
+                bad += 1
+                print('%s %-14s %-16s not on the target list   %s' % (L.uid, L.head, it.lemma, it.expr or it.role))
+            elif lv != L.level:
+                print('%s %-14s %-16s list level %s' % (L.uid, L.head, it.lemma, lv))
+        k = len(L.new_items)
+        if start and k != 6:
+            print('%s %-14s teaches %d new words (standard for list lessons: 6)' % (L.uid, L.head, k))
+    print('checked %d new words; %d not on the target list' % (n, bad))
+    return 0
+
+
 def main(argv):
-    if len(argv) < 2 or argv[1] not in ('build', 'check', 'find', 'free'):
+    if len(argv) < 2 or argv[1] not in ('build', 'check', 'find', 'free', 'targets', 'offlist'):
         print(__doc__)
         return 2
     if argv[1] == 'build':
         return cmd_build(argv[2:])
     if argv[1] == 'check':
         return cmd_check(argv[2:])
+    if argv[1] == 'targets':
+        return cmd_targets(argv[2:])
+    if argv[1] == 'offlist':
+        return cmd_offlist(argv[2:])
     return cmd_find(argv[2:], only_free=(argv[1] == 'free'))
 
 

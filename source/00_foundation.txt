@@ -68,6 +68,7 @@ may = ola bilər; icazə (May I ...? – ... olarmı?)
 might = ola bilsin, bəlkə
 must = mütləq -malı / -məli (məcburiyyət)
 ought = gərək, -malı / -məli (ought to)
+cannot = bacarmamaq, edə bilməmək (can + not; danışıqda: can't)
 # STRUCTURAL | Negation | İnkar
 not = deyil; inkar şəkilçisi -ma / -mə
 no = xeyr; heç bir
@@ -189,6 +190,37 @@ then = onda; sonra
 # STRUCTURAL | Degree words | Dərəcə bildirən sözlər
 very = çox, olduqca
 too = həddindən artıq; həmçinin
+# STRUCTURAL | Frequency and time adverbs | Tezlik və zaman zərfləri
+always = həmişə: She is always late – O həmişə gecikir
+usually = adətən: I usually get up at seven – Mən adətən yeddidə dururam
+often = tez-tez: How often? – Nə qədər tez-tez?
+sometimes = bəzən, hərdən
+ever = nə vaxtsa, heç (sual və inkarda): Have you ever ...? – Heç ... olmusunuzmu?
+once = bir dəfə; bir vaxtlar: once a week – həftədə bir dəfə
+today = bu gün
+tonight = bu axşam, bu gecə
+later = sonra, bir az sonra: See you later – Sonra görüşərik
+ago = əvvəl (keçmiş zamanla): two years ago – iki il əvvəl
+o'clock = saat (yalnız tam saatlarda): seven o'clock – saat yeddi
+# STRUCTURAL | Linking and focusing adverbs | Bağlayıcı və vurğu zərfləri
+also = həmçinin, də / da
+even = hətta: even now – hətta indi də
+just = sadəcə, yalnız; elə indicə: just now – elə indicə
+quite = xeyli, kifayət qədər; tamamilə: quite a lot – xeyli çox
+maybe = bəlkə
+probably = yəqin ki, çox güman ki
+however = lakin, bununla belə (iki cümləni bağlayır)
+# STRUCTURAL | Greetings and short answers | Salamlaşma və qısa cavablar
+hello = salam
+hi = salam (qeyri-rəsmi)
+hey = ey; salam (çox qeyri-rəsmi)
+goodbye = sağ ol, xudahafiz
+bye = hələlik, sağ ol (qeyri-rəsmi)
+yes = bəli, hə
+yeah = hə (danışıq dilində "yes")
+OK = yaxşı, oldu; qaydasındadır
+oh = ah, oy (təəccüb, sevinc və ya təəssüf bildirir)
+please = zəhmət olmasa, xahiş edirəm
 # STRUCTURAL | Dictionary abbreviations used in this course | Bu kursda işlənən lüğət qısaltmaları
 sb = somebody – kimsə (ifadədə şəxsin yerini göstərir)
 sth = something – nəsə (ifadədə əşyanın yerini göstərir)

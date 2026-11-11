@@ -23,7 +23,7 @@ adj: habitual = adət halını almış, həmişəki
 - kick the habit = zərərli vərdişi tərgitmək :: Informal; especially of smoking
 - an annoying habit = əsəbiləşdirən vərdiş :: annoying = making you slightly angry
 - a nasty habit = pis (xoşagəlməz) vərdiş :: nasty = unpleasant
-- sleeping habits = yuxu vərdişləri, yuxu rejimi :: sleep = rest with your eyes closed, as at night
+- a lifelong habit = ömürlük vərdiş :: lifelong = lasting for the whole of your life
 - a regular habit = daimi vərdiş :: regular = happening often or at the same time each day
 - a creature of habit = vərdişlərindən əl çəkməyən adam :: Idiom; creature = a living being
 > I only smoke out of habit. = Mən yalnız vərdiş üzrə siqaret çəkirəm.

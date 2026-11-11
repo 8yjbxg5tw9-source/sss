@@ -3,7 +3,8 @@ ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL C1 — ADVANCED  /  Yüksək səviyyə
 ====================================================================================================
 File: C1_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
-Lessons in this file: 60   |   Expressions: 480   |   Example sentences: 240
+Lessons in this file: 60 (60 main-word lessons + 0 fixed-phrase lessons)
+Expressions: 480   |   Fixed phrases: 0   |   Example sentences: 240
 New vocabulary items introduced at level C1: 604   |   Language of usage notes: English
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
@@ -14,6 +15,8 @@ HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   E. USAGE EXPLANATION .... İşlənmə izahı: oxşar ifadələrin fərqi, qrammatik qəliblər, üslub
   DATABASE UPDATE ......... Bu dərsdə bazaya əlavə olunan yeni sözlər və təkrar yoxlamasının nəticəsi
 
+  FIXED-PHRASE LESSON ..... Sabit ifadələr dərsi: əvvəl öyrədilmiş sözlərdən qurulan 4–8 hazır ifadə (get up, at least)
+
   sb = somebody (kimsə)      sth = something (nəsə)      one's = my / your / his / her ... (öz)
   An expression marked [related] belongs to the same topic but does not contain the main word itself.
   [related] işarəli ifadə eyni mövzuya aiddir, lakin əsas sözün özünü ehtiva etmir.
@@ -22,8 +25,12 @@ THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
   Every English word is taught exactly ONCE in the whole A1–C2 system: as a main word, as a word-family
   form, or as the new word inside one expression. Only grammar words (a, the, of, to, be, have, do ...)
   listed in A1 "Section 0" may recur inside expressions. Example sentences may recycle known words.
+  A fixed phrase (get up, at least, in fact) is an item of its own: it is built from words that were taught
+  earlier and it is taught once, as a phrase, in a fixed-phrase lesson.
   Hər bir ingilis sözü bütün sistemdə (A1–C2) yalnız BİR dəfə öyrədilir. Yalnız A1 faylının
   "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
+  Sabit ifadə (get up, at least, in fact) ayrıca vahiddir: əvvəl öyrədilmiş sözlərdən qurulur və
+  sabit ifadələr dərsində bir dəfə — ifadə kimi — öyrədilir.
 
 CONTENTS OF THIS FILE
    UNIT 1 — Advanced academic vocabulary: action and description  /  Yüksək səviyyəli akademik leksika: fəaliyyət və təsvir
@@ -109,7 +116,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ALLEVIATE [main], alleviation [family], symptom,
       burden, anxiety, hardship, distress, tension, overcrowding, hunger
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,572 → 1,582 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,743 → 1,753 items).
 
 ====================================================================================================
 LESSON C1-002   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -169,7 +176,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): ADVOCATE [main], advocacy [family], staunch,
       passionate, outspoken, ban, abolition, devil, behalf
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,582 → 1,591 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,753 → 1,762 items).
 
 ====================================================================================================
 LESSON C1-003   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -229,7 +236,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ALLOCATE [main], allocation [family], subsidy,
       portion, land, quota, duty, efficiently, randomly, aid
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,591 → 1,601 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,762 → 1,772 items).
 
 ====================================================================================================
 LESSON C1-004   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -291,7 +298,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): AMBIGUOUS [main], ambiguity [family], unambiguous
       [family], ambiguously [family], deliberately, somewhat, phrase, ending, gesture, response,
       remove, clear
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,601 → 1,613 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,772 → 1,784 items).
 
 ====================================================================================================
 LESSON C1-005   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -354,7 +361,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): COHERENT [main], coherence [family], cohesion
       [family], incoherent [family], coherently [family], philosophy, narrative, framework, vision,
       structure, paragraph, rage
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,613 → 1,625 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,784 → 1,796 items).
 
 ====================================================================================================
 LESSON C1-006   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -413,7 +420,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): COMPELLING [main], compulsion [family], compel
       [family], compulsory [family], case, portrait, utterly, justification, testify, attendance
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,625 → 1,635 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,796 → 1,806 items).
 
 ====================================================================================================
 LESSON C1-007   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -472,7 +479,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CONSTRAINT [main], constrain [family], constrained
       [family], operate, institutional, external, regulatory, capacity, convention
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,635 → 1,644 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,806 → 1,815 items).
 
 ====================================================================================================
 LESSON C1-008   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -532,7 +539,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): DETERIORATE [main], deterioration [family],
       further, markedly, relation, violence, eyesight, prevent, repair
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,644 → 1,653 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,815 → 1,824 items).
 
 ====================================================================================================
 LESSON C1-009   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -596,7 +603,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): FACILITATE [main], facilitator [family],
       facilitation [family], dialogue, integration, exchange, transfer, transition, collaboration,
       participation, decision-making
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,653 → 1,664 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,824 → 1,835 items).
 
 ====================================================================================================
 LESSON C1-010   |   UNIT 1: Advanced academic vocabulary: action and description
@@ -659,13 +666,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FLUCTUATE [main], fluctuation [family], wildly,
       unpredictably, currency, seasonal, minor, mood, fortune
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,664 → 1,673 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,835 → 1,844 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 1 (Advanced academic vocabulary: action and description)
 ----------------------------------------------------------------------------------------------------
-   Main words in this unit: ALLEVIATE, ADVOCATE, ALLOCATE, AMBIGUOUS, COHERENT, COMPELLING, CONSTRAINT, DETERIORATE, FACILITATE, FLUCTUATE
-   New items registered in this unit: 101   |   Database total after this unit: 1,673
+   Main words in this unit: ALLEVIATE, ADVOCATE, ALLOCATE, AMBIGUOUS, COHERENT, COMPELLING,
+      CONSTRAINT, DETERIORATE, FACILITATE, FLUCTUATE
+   New items registered in this unit: 101   |   Database total after this unit: 1,844
    abolition, advocacy, ADVOCATE, aid, ALLEVIATE, alleviation, ALLOCATE, allocation, ambiguity,
    AMBIGUOUS, ambiguously, anxiety, attendance, ban, behalf, burden, capacity, case, clear,
    coherence, COHERENT, coherently, cohesion, collaboration, compel, COMPELLING, compulsion,
@@ -745,7 +753,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): IMPLEMENT [main], implementation [family],
       recommendation, legislation, directive, sanction, initiative, procedure, guideline, oversee
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,673 → 1,683 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,844 → 1,854 items).
 
 ====================================================================================================
 LESSON C1-012   |   UNIT 2: Policy, evaluation and criticism
@@ -771,8 +779,8 @@ B. WORD FAMILY
 C. RELATED EXPRESSIONS
    1. An incentive to do sth — Nəyisə etmək üçün stimul
       Usage: incentive + to-infinitive
-   2. An added incentive — Əlavə stimul
-      Usage: added = extra; from "add"
+   2. Ample incentive — Kifayət qədər (bol) stimul
+      Usage: ample = more than enough
    3. A perverse incentive — Əks nəticə verən (yanlış) stimul
       Usage: perverse = having an effect opposite to the one intended
    4. An incentive bonus — Həvəsləndirici mükafat (bonus)
@@ -791,8 +799,8 @@ D. NATURAL EXAMPLE SENTENCES
       → Aşağı maaşlar insanlara daha çox işləmək üçün az stimul verir.
    2. The government offers fiscal incentives to companies that invest in poorer regions.
       → Hökumət yoxsul regionlara sərmayə qoyan şirkətlərə vergi güzəştləri təklif edir.
-   3. The free gift is an added incentive to buy.
-      → Pulsuz hədiyyə almaq üçün əlavə stimuldur.
+   3. The tax break gives firms ample incentive to hire young people.
+      → Vergi güzəşti şirkətlərə gəncləri işə götürmək üçün kifayət qədər stimul verir.
    4. High taxes can act as a disincentive to investment.
       → Yüksək vergilər sərmayə qoyuluşuna həvəsi azalda bilər.
 
@@ -805,8 +813,8 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): INCENTIVE [main], disincentive [family],
-      incentivise [family], added, perverse, bonus, lucrative, fiscal, recycle
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,683 → 1,692 items).
+      incentivise [family], ample, perverse, bonus, lucrative, fiscal, recycle
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,854 → 1,863 items).
 
 ====================================================================================================
 LESSON C1-013   |   UNIT 2: Policy, evaluation and criticism
@@ -865,7 +873,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): INHERENT [main], inherently [family],
       contradiction, bias, characteristic, defect, evil, superior, subjective
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,692 → 1,701 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,863 → 1,872 items).
 
 ====================================================================================================
 LESSON C1-014   |   UNIT 2: Policy, evaluation and criticism
@@ -925,7 +933,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): MITIGATE [main], mitigation [family], unmitigated
       [family], flooding, hazard, fallout, penalty, inflation, disruption, partially
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,701 → 1,711 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,872 → 1,882 items).
 
 ====================================================================================================
 LESSON C1-015   |   UNIT 2: Policy, evaluation and criticism
@@ -985,7 +993,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): PREVALENT [main], prevalence [family], prevail
       [family], prevailing [family], particularly, misconception, stereotype, ideology, diabetes,
       norm, justice
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,711 → 1,722 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,882 → 1,893 items).
 
 ====================================================================================================
 LESSON C1-016   |   UNIT 2: Policy, evaluation and criticism
@@ -1044,7 +1052,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PROFOUND [main], profoundly [family], influence,
       implication, grief, gratitude, transformation, admiration, deaf, sceptical
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,722 → 1,732 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,893 → 1,903 items).
 
 ====================================================================================================
 LESSON C1-017   |   UNIT 2: Policy, evaluation and criticism
@@ -1102,7 +1110,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): SCRUTINY [main], scrutinise [family],
       parliamentary, judicial, escape, withstand, heightened, international, expenditure
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,732 → 1,741 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,903 → 1,912 items).
 
 ====================================================================================================
 LESSON C1-018   |   UNIT 2: Policy, evaluation and criticism
@@ -1162,7 +1170,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): UNDERMINE [main], authority, trust, credibility,
       morale, foundation, self-esteem, integrity, fatally
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,741 → 1,750 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,912 → 1,921 items).
 
 ====================================================================================================
 LESSON C1-019   |   UNIT 2: Policy, evaluation and criticism
@@ -1221,7 +1229,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): VIABLE [main], viability [family], proposition,
       livelihood, substitute, enterprise, route, barely, model, ensure
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,750 → 1,760 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,921 → 1,931 items).
 
 ====================================================================================================
 LESSON C1-020   |   UNIT 2: Policy, evaluation and criticism
@@ -1282,14 +1290,15 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): CONSENSUS [main], consensus-building [family],
       fragile, overwhelming, cross-party, forge, tacit, favour
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,760 → 1,768 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,931 → 1,939 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 2 (Policy, evaluation and criticism)
 ----------------------------------------------------------------------------------------------------
-   Main words in this unit: IMPLEMENT, INCENTIVE, INHERENT, MITIGATE, PREVALENT, PROFOUND, SCRUTINY, UNDERMINE, VIABLE, CONSENSUS
-   New items registered in this unit: 95   |   Database total after this unit: 1,768
-   added, admiration, authority, barely, bias, bonus, characteristic, CONSENSUS, consensus-building,
+   Main words in this unit: IMPLEMENT, INCENTIVE, INHERENT, MITIGATE, PREVALENT, PROFOUND, SCRUTINY,
+      UNDERMINE, VIABLE, CONSENSUS
+   New items registered in this unit: 95   |   Database total after this unit: 1,939
+   admiration, ample, authority, barely, bias, bonus, characteristic, CONSENSUS, consensus-building,
    contradiction, credibility, cross-party, deaf, defect, diabetes, directive, disincentive,
    disruption, ensure, enterprise, escape, evil, expenditure, fallout, fatally, favour, fiscal,
    flooding, forge, foundation, fragile, gratitude, grief, guideline, hazard, heightened, ideology,
@@ -1364,7 +1373,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): FEASIBLE [main], feasibility [family], unfeasible
       [family], timetable, render, compromise, entirely, remedy, explore, demonstrate
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,768 → 1,778 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,939 → 1,949 items).
 
 ====================================================================================================
 LESSON C1-022   |   UNIT 3: Feasibility, resilience and inequality
@@ -1424,7 +1433,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FOSTER [main], creativity, spirit, goodwill,
       curiosity, unity, harmony, resentment, inclusion
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,778 → 1,787 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,949 → 1,958 items).
 
 ====================================================================================================
 LESSON C1-023   |   UNIT 3: Feasibility, resilience and inequality
@@ -1487,7 +1496,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): HINDER [main], hindrance [family], investigation,
       mobility, search, productivity, delivery, visibility
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,787 → 1,795 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,958 → 1,966 items).
 
 ====================================================================================================
 LESSON C1-024   |   UNIT 3: Feasibility, resilience and inequality
@@ -1547,7 +1556,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): PLAUSIBLE [main], plausibility [family],
       implausible [family], plausibly [family], excuse, scenario, hypothesis, interpretation, seem,
       pretext, superficially, coincidence
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,795 → 1,807 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,966 → 1,978 items).
 
 ====================================================================================================
 LESSON C1-025   |   UNIT 3: Feasibility, resilience and inequality
@@ -1607,7 +1616,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): RESILIENT [main], resilience [family],
       climate-resilient [family], remarkably, setback, adversity, drought, crop, psychological,
       enhance, inner
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,807 → 1,818 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,978 → 1,989 items).
 
 ====================================================================================================
 LESSON C1-026   |   UNIT 3: Feasibility, resilience and inequality
@@ -1667,7 +1676,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (10): RIGOROUS [main], rigour [family], rigorously
       [family], selection, enforcement, inspection, evaluation, methodology, intellectually,
       monitored
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,818 → 1,828 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,989 → 1,999 items).
 
 ====================================================================================================
 LESSON C1-027   |   UNIT 3: Feasibility, resilience and inequality
@@ -1726,7 +1735,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): STIGMA [main], stigmatise [family], divorce,
       associated, addiction, disability, combat, shame, prejudice
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,828 → 1,837 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,999 → 2,008 items).
 
 ====================================================================================================
 LESSON C1-028   |   UNIT 3: Feasibility, resilience and inequality
@@ -1786,7 +1795,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): DISPARITY [main], glaring, regional, gender, wage,
       persist, narrow, stark
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,837 → 1,845 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,008 → 2,016 items).
 
 ====================================================================================================
 LESSON C1-029   |   UNIT 3: Feasibility, resilience and inequality
@@ -1845,7 +1854,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): DETRIMENTAL [main], detriment [family], welfare,
       biodiversity, ecosystem, mutually, concentration
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,845 → 1,852 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,016 → 2,023 items).
 
 ====================================================================================================
 LESSON C1-030   |   UNIT 3: Feasibility, resilience and inequality
@@ -1904,13 +1913,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (12): DEPLETE [main], depletion [family], depleted
       [family], reserve, ozone, layer, battery, nutrient, groundwater, oxygen, squad, oil
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,852 → 1,864 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,023 → 2,035 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 3 (Feasibility, resilience and inequality)
 ----------------------------------------------------------------------------------------------------
-   Main words in this unit: FEASIBLE, FOSTER, HINDER, PLAUSIBLE, RESILIENT, RIGOROUS, STIGMA, DISPARITY, DETRIMENTAL, DEPLETE
-   New items registered in this unit: 96   |   Database total after this unit: 1,864
+   Main words in this unit: FEASIBLE, FOSTER, HINDER, PLAUSIBLE, RESILIENT, RIGOROUS, STIGMA,
+      DISPARITY, DETRIMENTAL, DEPLETE
+   New items registered in this unit: 96   |   Database total after this unit: 2,035
    addiction, adversity, associated, battery, biodiversity, climate-resilient, coincidence, combat,
    compromise, concentration, creativity, crop, curiosity, delivery, demonstrate, DEPLETE, depleted,
    depletion, detriment, DETRIMENTAL, disability, DISPARITY, divorce, drought, ecosystem,
@@ -1989,7 +1999,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ENDORSE [main], endorsement [family], officially,
       treaty, motion, verdict, wholeheartedly, unanimously, celebrity, ringing
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,864 → 1,874 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,035 → 2,045 items).
 
 ====================================================================================================
 LESSON C1-032   |   UNIT 4: Power, risk and responsibility
@@ -2049,7 +2059,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): ERODE [main], erosion [family], cliff, faith,
       boundary, sovereignty, privacy, civil, liberty, soil, coastal
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,874 → 1,885 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,045 → 2,056 items).
 
 ====================================================================================================
 LESSON C1-033   |   UNIT 4: Power, risk and responsibility
@@ -2110,7 +2120,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): INTERVENE [main], intervention [family],
       non-intervention [family], militarily, dispute, promptly, reluctant, forced, humanitarian,
       divine, surgical
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,885 → 1,896 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,056 → 2,067 items).
 
 ====================================================================================================
 LESSON C1-034   |   UNIT 4: Power, risk and responsibility
@@ -2172,7 +2182,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (13): LEGITIMATE [main], legitimacy [family], legitimise
       [family], illegitimate [family], legitimately [family], expectation, grievance, criticism,
       objection, transaction, protest, confer, regime
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,896 → 1,909 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,067 → 2,080 items).
 
 ====================================================================================================
 LESSON C1-035   |   UNIT 4: Power, risk and responsibility
@@ -2234,7 +2244,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): SUBTLE [main], subtlety [family], subtly [family],
       hint, flavour, humour, shade, irony, clue, blend, alter
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,909 → 1,920 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,080 → 2,091 items).
 
 ====================================================================================================
 LESSON C1-036   |   UNIT 4: Power, risk and responsibility
@@ -2296,7 +2306,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): TRIGGER [main], chain, reaction, war, explosion,
       allergy, panic, backlash, outbreak, pull
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,920 → 1,930 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,091 → 2,101 items).
 
 ====================================================================================================
 LESSON C1-037   |   UNIT 4: Power, risk and responsibility
@@ -2355,7 +2365,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): UNPRECEDENTED [main], precedent [family], scale,
       prosperity, surge, era, expansion, turmoil, virtually
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,930 → 1,939 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,101 → 2,110 items).
 
 ====================================================================================================
 LESSON C1-038   |   UNIT 4: Power, risk and responsibility
@@ -2415,7 +2425,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): VULNERABLE [main], vulnerability [family],
       infection, abuse, fraud, extinction, habitat, elderly, household, expose
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,939 → 1,949 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,110 → 2,120 items).
 
 ====================================================================================================
 LESSON C1-039   |   UNIT 4: Power, risk and responsibility
@@ -2476,7 +2486,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): STAKE [main], stakeholder [family], majority,
       acquire, territory, consult, involve, relevant
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,949 → 1,957 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,120 → 2,128 items).
 
 ====================================================================================================
 LESSON C1-040   |   UNIT 4: Power, risk and responsibility
@@ -2538,13 +2548,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): BEAR [main], bearable [family], unbearable
       [family], resemblance, brunt, witness, grudge, scar, hallmark, grin, agony
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,957 → 1,968 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,128 → 2,139 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 4 (Power, risk and responsibility)
 ----------------------------------------------------------------------------------------------------
-   Main words in this unit: ENDORSE, ERODE, INTERVENE, LEGITIMATE, SUBTLE, TRIGGER, UNPRECEDENTED, VULNERABLE, STAKE, BEAR
-   New items registered in this unit: 104   |   Database total after this unit: 1,968
+   Main words in this unit: ENDORSE, ERODE, INTERVENE, LEGITIMATE, SUBTLE, TRIGGER, UNPRECEDENTED,
+      VULNERABLE, STAKE, BEAR
+   New items registered in this unit: 104   |   Database total after this unit: 2,139
    abuse, acquire, agony, allergy, alter, backlash, BEAR, bearable, blend, boundary, brunt,
    celebrity, chain, civil, cliff, clue, coastal, confer, consult, criticism, dispute, divine,
    elderly, ENDORSE, endorsement, era, ERODE, erosion, expansion, expectation, explosion, expose,
@@ -2623,7 +2634,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): ACCUMULATE [main], accumulation [family],
       cumulative [family], dust, savings, possession, fat, toxin, asset, total, surplus
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,968 → 1,979 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,139 → 2,150 items).
 
 ====================================================================================================
 LESSON C1-042   |   UNIT 5: Academic verbs for processes and ideas
@@ -2687,7 +2698,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): ASPIRE [main], aspiration [family], aspiring
       [family], aspirational [family], leadership, actor, entrepreneur, fulfil, lofty, thwart,
       harbour
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,979 → 1,990 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,150 → 2,161 items).
 
 ====================================================================================================
 LESSON C1-043   |   UNIT 5: Academic verbs for processes and ideas
@@ -2746,7 +2757,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): AUTONOMY [main], autonomous [family], autonomously
       [family], individual, region, republic, editorial, function, robot, curtail
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,990 → 2,000 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,161 → 2,171 items).
 
 ====================================================================================================
 LESSON C1-044   |   UNIT 5: Academic verbs for processes and ideas
@@ -2807,7 +2818,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): CATALYST [main], catalyse [family], catalytic
       [family], serve, chemical, revolution, regeneration, unrest, potent, converter
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,000 → 2,010 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,171 → 2,181 items).
 
 ====================================================================================================
 LESSON C1-045   |   UNIT 5: Academic verbs for processes and ideas
@@ -2868,7 +2879,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): COMPREHENSIVE [main], comprehensively [family],
       review, overview, database, audit, handbook, overhaul, defeat, beaten
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,010 → 2,020 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,181 → 2,191 items).
 
 ====================================================================================================
 LESSON C1-046   |   UNIT 5: Academic verbs for processes and ideas
@@ -2929,7 +2940,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): CONTEMPLATE [main], contemplation [family],
       contemplative [family], retirement, resignation, emigration, horizon, awful, takeover,
       sabbatical, abyss
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,020 → 2,031 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,191 → 2,202 items).
 
 ====================================================================================================
 LESSON C1-047   |   UNIT 5: Academic verbs for processes and ideas
@@ -2992,7 +3003,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CORRELATE [main], correlation [family], correlated
       [family], causation, inverse, coefficient, robust, detect, modest
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,031 → 2,040 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,202 → 2,211 items).
 
 ====================================================================================================
 LESSON C1-048   |   UNIT 5: Academic verbs for processes and ideas
@@ -3051,7 +3062,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): CULMINATE [main], culmination [family], riot,
       ceremony, collapse, showdown, arrest, breakthrough
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,040 → 2,048 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,211 → 2,219 items).
 
 ====================================================================================================
 LESSON C1-049   |   UNIT 5: Academic verbs for processes and ideas
@@ -3112,7 +3123,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): DISCERN [main], discernment [family], discernible
       [family], discerning [family], outline, palate, audience, silhouette, mist, trace, readily,
       collector
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,048 → 2,060 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,219 → 2,231 items).
 
 ====================================================================================================
 LESSON C1-050   |   UNIT 5: Academic verbs for processes and ideas
@@ -3172,13 +3183,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): ELICIT [main], sympathy, confession, laughter,
       applause, gasp, outrage, compassion, donation
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,060 → 2,069 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,231 → 2,240 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 5 (Academic verbs for processes and ideas)
 ----------------------------------------------------------------------------------------------------
-   Main words in this unit: ACCUMULATE, ASPIRE, AUTONOMY, CATALYST, COMPREHENSIVE, CONTEMPLATE, CORRELATE, CULMINATE, DISCERN, ELICIT
-   New items registered in this unit: 101   |   Database total after this unit: 2,069
+   Main words in this unit: ACCUMULATE, ASPIRE, AUTONOMY, CATALYST, COMPREHENSIVE, CONTEMPLATE,
+      CORRELATE, CULMINATE, DISCERN, ELICIT
+   New items registered in this unit: 101   |   Database total after this unit: 2,240
    abyss, ACCUMULATE, accumulation, actor, applause, arrest, aspiration, aspirational, ASPIRE,
    aspiring, asset, audience, audit, autonomous, autonomously, AUTONOMY, awful, beaten,
    breakthrough, catalyse, CATALYST, catalytic, causation, ceremony, chemical, coefficient,
@@ -3257,7 +3269,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ENCOMPASS [main], all-encompassing [family],
       spectrum, multitude, array, continent, suburb, century, genre, realm
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,069 → 2,079 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,240 → 2,250 items).
 
 ====================================================================================================
 LESSON C1-052   |   UNIT 6: Evaluation, perception and structure
@@ -3317,7 +3329,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): EXPLICIT [main], implicit [family], explicitly
       [family], implicitly [family], consent, reference, sexually, content, approval, mention,
       prohibit
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,079 → 2,090 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,250 → 2,261 items).
 
 ====================================================================================================
 LESSON C1-053   |   UNIT 6: Evaluation, perception and structure
@@ -3379,7 +3391,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): INHIBIT [main], inhibition [family], inhibitor
       [family], uninhibited [family], shed, absorption, digestion, appetite, corrosion, release,
       dissent
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,090 → 2,101 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,261 → 2,272 items).
 
 ====================================================================================================
 LESSON C1-054   |   UNIT 6: Evaluation, perception and structure
@@ -3439,7 +3451,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): OBSOLETE [main], obsolescence [family], machinery,
       built-in, factory, format, hardware, typewriter, appliance, verge
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,101 → 2,111 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,272 → 2,282 items).
 
 ====================================================================================================
 LESSON C1-055   |   UNIT 6: Evaluation, perception and structure
@@ -3500,7 +3512,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): OUTWEIGH [main], disadvantage, drawback, downside,
       pro, con, inconvenience, expense, vastly
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,111 → 2,120 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,282 → 2,291 items).
 
 ====================================================================================================
 LESSON C1-056   |   UNIT 6: Evaluation, perception and structure
@@ -3564,7 +3576,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (13): PERCEIVE [main], perception [family],
       self-perception [family], perceptive [family], perceptible [family], perceived [family],
       depth, sensory, distorted, insult, snub, intuitively, pause
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,120 → 2,133 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,291 → 2,304 items).
 
 ====================================================================================================
 LESSON C1-057   |   UNIT 6: Evaluation, perception and structure
@@ -3625,7 +3637,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): PERPETUATE [main], perpetuation [family],
       perpetual [family], perpetually [family], injustice, fiction, oppression, ignorance, feud,
       segregation, illusion, twilight
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,133 → 2,145 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,304 → 2,316 items).
 
 ====================================================================================================
 LESSON C1-058   |   UNIT 6: Evaluation, perception and structure
@@ -3687,7 +3699,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): REINFORCE [main], reinforcement [family],
       reinforced [family], concrete, wall, impression, fence, conviction, border, dam, roof
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,145 → 2,156 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,316 → 2,327 items).
 
 ====================================================================================================
 LESSON C1-059   |   UNIT 6: Evaluation, perception and structure
@@ -3745,7 +3757,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): SUSCEPTIBLE [main], susceptibility [family],
       persuasion, frost, bribery, decay, depression, manipulation, scam, genetically
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,156 → 2,166 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,327 → 2,337 items).
 
 ====================================================================================================
 LESSON C1-060   |   UNIT 6: Evaluation, perception and structure
@@ -3805,13 +3817,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): TRANSPARENT [main], transparency [family],
       transparently [family], accountability, plastic, fabric, liquid, governance, corporate, ploy
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,166 → 2,176 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,337 → 2,347 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 6 (Evaluation, perception and structure)
 ----------------------------------------------------------------------------------------------------
-   Main words in this unit: ENCOMPASS, EXPLICIT, INHIBIT, OBSOLETE, OUTWEIGH, PERCEIVE, PERPETUATE, REINFORCE, SUSCEPTIBLE, TRANSPARENT
-   New items registered in this unit: 107   |   Database total after this unit: 2,176
+   Main words in this unit: ENCOMPASS, EXPLICIT, INHIBIT, OBSOLETE, OUTWEIGH, PERCEIVE, PERPETUATE,
+      REINFORCE, SUSCEPTIBLE, TRANSPARENT
+   New items registered in this unit: 107   |   Database total after this unit: 2,347
    absorption, accountability, all-encompassing, appetite, appliance, approval, array, border,
    bribery, built-in, century, con, concrete, consent, content, continent, conviction, corporate,
    corrosion, dam, decay, depression, depth, digestion, disadvantage, dissent, distorted, downside,
@@ -3843,20 +3856,20 @@ UPDATED VOCABULARY INDEX — END OF LEVEL C1
 
    All vocabulary introduced at C1, A–Z (604 items; the number is the lesson):
       abolition 002, absorption 053, abuse 038, abyss 046, accountability 060, ACCUMULATE 041,
-      accumulation 041, acquire 039, actor 042, added 012, addiction 027, admiration 016, adversity
-      025, advocacy 002, ADVOCATE 002, agony 040, aid 003, all-encompassing 051, allergy 036,
-      ALLEVIATE 001, alleviation 001, ALLOCATE 003, allocation 003, alter 035, ambiguity 004,
-      AMBIGUOUS 004, ambiguously 004, anxiety 001, appetite 053, applause 050, appliance 054,
-      approval 052, array 051, arrest 048, aspiration 042, aspirational 042, ASPIRE 042, aspiring
-      042, asset 041, associated 027, attendance 006, audience 049, audit 045, authority 018,
-      autonomous 043, autonomously 043, AUTONOMY 043, awful 046, backlash 036, ban 002, barely 019,
-      battery 030, BEAR 040, bearable 040, beaten 045, behalf 002, bias 013, biodiversity 029, blend
-      035, bonus 012, border 058, boundary 032, breakthrough 048, bribery 059, brunt 040, built-in
-      054, burden 001, capacity 007, case 006, catalyse 044, CATALYST 044, catalytic 044, causation
-      047, celebrity 031, century 051, ceremony 048, chain 036, characteristic 013, chemical 044,
-      civil 032, clear 004, cliff 032, climate-resilient 025, clue 035, coastal 032, coefficient
-      047, coherence 005, COHERENT 005, coherently 005, cohesion 005, coincidence 024, collaboration
-      009, collapse 048, collector 049, combat 027, compassion 050, compel 006, COMPELLING 006,
+      accumulation 041, acquire 039, actor 042, addiction 027, admiration 016, adversity 025,
+      advocacy 002, ADVOCATE 002, agony 040, aid 003, all-encompassing 051, allergy 036, ALLEVIATE
+      001, alleviation 001, ALLOCATE 003, allocation 003, alter 035, ambiguity 004, AMBIGUOUS 004,
+      ambiguously 004, ample 012, anxiety 001, appetite 053, applause 050, appliance 054, approval
+      052, array 051, arrest 048, aspiration 042, aspirational 042, ASPIRE 042, aspiring 042, asset
+      041, associated 027, attendance 006, audience 049, audit 045, authority 018, autonomous 043,
+      autonomously 043, AUTONOMY 043, awful 046, backlash 036, ban 002, barely 019, battery 030,
+      BEAR 040, bearable 040, beaten 045, behalf 002, bias 013, biodiversity 029, blend 035, bonus
+      012, border 058, boundary 032, breakthrough 048, bribery 059, brunt 040, built-in 054, burden
+      001, capacity 007, case 006, catalyse 044, CATALYST 044, catalytic 044, causation 047,
+      celebrity 031, century 051, ceremony 048, chain 036, characteristic 013, chemical 044, civil
+      032, clear 004, cliff 032, climate-resilient 025, clue 035, coastal 032, coefficient 047,
+      coherence 005, COHERENT 005, coherently 005, cohesion 005, coincidence 024, collaboration 009,
+      collapse 048, collector 049, combat 027, compassion 050, compel 006, COMPELLING 006,
       COMPREHENSIVE 045, comprehensively 045, compromise 021, compulsion 006, compulsory 006, con
       055, concentration 029, concrete 058, confer 034, confession 050, CONSENSUS 020,
       consensus-building 020, consent 052, constrain 007, constrained 007, CONSTRAINT 007, consult
@@ -3938,7 +3951,7 @@ UPDATED VOCABULARY INDEX — END OF LEVEL C1
       vulnerability 038, VULNERABLE 038, wage 028, wall 058, war 036, welfare 029, wholeheartedly
       031, wildly 010, withstand 017, witness 040
 
-   Cumulative database size after C1: 2,176 individual vocabulary items (+ 245 structural words).
+   Cumulative database size after C1: 2,347 individual vocabulary items (+ 274 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL C1

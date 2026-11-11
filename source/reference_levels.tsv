@@ -5,8 +5,10 @@ account	A2
 accumulate	B2
 achieve	A2
 adapt	B1
+add	A1
 advice	A2
 advocate	-
+afraid	A1
 agree	A1
 alleviate	C1
 allocate	-
@@ -27,11 +29,16 @@ attitude	A2
 autonomy	-
 avoid	A2
 bear	A1
+become	A1
+begin	A1
+believe	A1
 big	A1
 body	A1
 bolster	-
+boy	A1
 break	A1
 bring	A1
+build	A1
 burgeon	-
 buy	A1
 campaign	B2
@@ -48,6 +55,7 @@ cogent	C2
 coherent	B2
 colour	A1
 come	A1
+compare	A2
 compelling	-
 compete	B1
 complacent	-
@@ -70,6 +78,7 @@ correlate	C2
 corroborate	-
 crucial	B2
 culminate	-
+dance	A1
 day	A1
 deal	A2
 dearth	-
@@ -77,6 +86,7 @@ decide	A2
 delineate	-
 demand	B1
 deplete	-
+describe	A1
 deteriorate	-
 detrimental	C1
 develop	A2
@@ -86,6 +96,8 @@ discern	-
 discuss	A1
 disparity	-
 disseminate	C2
+draw	A1
+dress	A1
 drink	A1
 easy	A1
 eat	A1
@@ -116,10 +128,12 @@ facilitate	B2
 fall	A2
 fallacy	C2
 family	A1
+farm	A1
 feasible	-
 feel	A1
 find	A1
 fluctuate	C2
+fly	A1
 foster	-
 fraught	-
 friend	A1
@@ -132,6 +146,7 @@ good	A1
 grow	A1
 habit	A1
 happy	A1
+hate	A2
 health	A1
 help	A1
 hinder	C2
@@ -154,6 +169,7 @@ insidious	-
 interest	A2
 intervene	-
 intrinsic	C2
+introduce	A1
 invest	B1
 issue	A2
 juxtapose	-
@@ -173,6 +189,7 @@ mind	A1
 miss	A1
 mitigate	-
 money	A1
+month	A1
 motivate	B1
 move	A1
 new	A1
@@ -183,7 +200,9 @@ old	A1
 open	A1
 opinion	A2
 opportunity	A2
+order	A1
 outweigh	B1
+paint	A1
 panacea	-
 paradigm	-
 pay	A1
@@ -199,6 +218,7 @@ poignant	-
 policy	B1
 precarious	-
 preclude	-
+prefer	A2
 prepare	A2
 pressure	A2
 prevalent	-
@@ -224,19 +244,24 @@ restrict	B1
 resurgence	-
 reveal	A2
 rhetoric	C2
+ride	A1
 rigorous	-
 run	A1
 safe	A2
 salient	-
+say	A1
 scrutiny	C1
 send	A2
 serious	B1
 set	A1
 show	A1
 significant	A2
+sing	A1
+sit	A1
 skill	A1
 solve	A1
 speak	A1
+spell	A1
 sport	A1
 spurious	C2
 stake	B2
@@ -255,6 +280,7 @@ sustain	B2
 tackle	B2
 take	A1
 tantamount	C1
+teach	A1
 tell	A1
 tenuous	-
 term	B1
@@ -275,6 +301,8 @@ use	A1
 viable	-
 vindicate	C2
 vulnerable	-
+wake	A1
+want	A1
 watch	A1
 wear	A1
 weather	A1

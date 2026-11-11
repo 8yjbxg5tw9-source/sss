@@ -20,7 +20,7 @@ n: implementation = həyata keçirilmə, icra
 n: disincentive = həvəsdən salan amil
 v: incentivise = stimullaşdırmaq, həvəsləndirmək
 - an incentive to do sth = nəyisə etmək üçün stimul :: incentive + to-infinitive
-- an added incentive = əlavə stimul :: added = extra; from "add"
+- ample incentive = kifayət qədər (bol) stimul :: ample = more than enough
 - a perverse incentive = əks nəticə verən (yanlış) stimul :: perverse = having an effect opposite to the one intended
 - an incentive bonus = həvəsləndirici mükafat (bonus) :: bonus = extra money added to your pay
 - a lucrative incentive = sərfəli (gəlirli) stimul :: lucrative = producing a lot of money
@@ -29,7 +29,7 @@ v: incentivise = stimullaşdırmaq, həvəsləndirmək
 - a disincentive to = nəyəsə həvəsi azaldan amil :: disincentive TO work / TO investment
 > Low wages give people little incentive to work harder. = Aşağı maaşlar insanlara daha çox işləmək üçün az stimul verir.
 > The government offers fiscal incentives to companies that invest in poorer regions. = Hökumət yoxsul regionlara sərmayə qoyan şirkətlərə vergi güzəştləri təklif edir.
-> The free gift is an added incentive to buy. = Pulsuz hədiyyə almaq üçün əlavə stimuldur.
+> The tax break gives firms ample incentive to hire young people. = Vergi güzəşti şirkətlərə gəncləri işə götürmək üçün kifayət qədər stimul verir.
 > High taxes can act as a disincentive to investment. = Yüksək vergilər sərmayə qoyuluşuna həvəsi azalda bilər.
 ! An INCENTIVE is something that encourages you to do something, usually a reward such as money. It is followed by TO + infinitive ("an incentive to save") or FOR ("incentives for employers"). A PERVERSE INCENTIVE is a term from economics for a reward that produces the opposite of the intended result. MOTIVATION comes from inside a person; an INCENTIVE is offered from outside. Verb: INCENTIVISE somebody TO do something.
 

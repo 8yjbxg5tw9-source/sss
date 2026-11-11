@@ -2,9 +2,10 @@
 ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL A1 — BEGINNER  /  Başlanğıc səviyyə
 ====================================================================================================
-File: A1_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
-Lessons in this file: 40   |   Expressions: 320   |   Example sentences: 160
-New vocabulary items introduced at level A1: 397   |   Language of usage notes: Azerbaijani
+File: A1_VOCABULARY.txt   |   Part 1 of 2   |   Generated: 2026-11-11
+Lessons in this file: 76 (68 main-word lessons + 8 fixed-phrase lessons)
+Expressions: 519   |   Fixed phrases: 48   |   Example sentences: 274
+New vocabulary items introduced at level A1: 568   |   Language of usage notes: Azerbaijani
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -14,6 +15,8 @@ HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   E. USAGE EXPLANATION .... İşlənmə izahı: oxşar ifadələrin fərqi, qrammatik qəliblər, üslub
   DATABASE UPDATE ......... Bu dərsdə bazaya əlavə olunan yeni sözlər və təkrar yoxlamasının nəticəsi
 
+  FIXED-PHRASE LESSON ..... Sabit ifadələr dərsi: əvvəl öyrədilmiş sözlərdən qurulan 4–8 hazır ifadə (get up, at least)
+
   sb = somebody (kimsə)      sth = something (nəsə)      one's = my / your / his / her ... (öz)
   An expression marked [related] belongs to the same topic but does not contain the main word itself.
   [related] işarəli ifadə eyni mövzuya aiddir, lakin əsas sözün özünü ehtiva etmir.
@@ -22,8 +25,12 @@ THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
   Every English word is taught exactly ONCE in the whole A1–C2 system: as a main word, as a word-family
   form, or as the new word inside one expression. Only grammar words (a, the, of, to, be, have, do ...)
   listed in A1 "Section 0" may recur inside expressions. Example sentences may recycle known words.
+  A fixed phrase (get up, at least, in fact) is an item of its own: it is built from words that were taught
+  earlier and it is taught once, as a phrase, in a fixed-phrase lesson.
   Hər bir ingilis sözü bütün sistemdə (A1–C2) yalnız BİR dəfə öyrədilir. Yalnız A1 faylının
   "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
+  Sabit ifadə (get up, at least, in fact) ayrıca vahiddir: əvvəl öyrədilmiş sözlərdən qurulur və
+  sabit ifadələr dərsində bir dəfə — ifadə kimi — öyrədilir.
 
 CONTENTS OF THIS FILE
    SECTION 0 — Foundation: structural words and reference sets
@@ -41,6 +48,19 @@ CONTENTS OF THIS FILE
       A1-030 TIME, A1-031 DAY, A1-032 WEATHER, A1-033 CITY
    UNIT 7 — Describing people and things  /  İnsanların və əşyaların təsviri
       A1-034 GOOD, A1-035 BIG, A1-036 NEW, A1-037 OLD, A1-038 HAPPY, A1-039 HOT, A1-040 COLOUR
+   UNIT 8 — Everyday verbs  /  Gündəlik fellər
+      A1-041 WANT, A1-042 SAY, A1-043 SIT, A1-044 WAKE, A1-045 BECOME, A1-046 BELIEVE, A1-047 BEGIN
+   UNIT 9 — Food, clothes and likes  /  Yemək, geyim və zövqlər
+      A1-048 ADD, A1-049 ORDER, A1-050 DRESS, A1-051 PREFER, A1-052 HATE, A1-053 COMPARE
+   UNIT 10 — School and the arts  /  Məktəb və incəsənət
+      A1-054 TEACH, A1-055 SPELL, A1-056 DESCRIBE, A1-057 DRAW, A1-058 PAINT, A1-059 SING, A1-060
+      DANCE, A1-061 INTRODUCE
+   UNIT 11 — Places, animals and people  /  Yerlər, heyvanlar və insanlar
+      A1-062 BUILD, A1-063 RIDE, A1-064 FLY, A1-065 FARM, A1-066 AFRAID, A1-067 MONTH, A1-068 BOY
+   UNIT 12 — Fixed phrases: quantity, place and time  /  Sabit ifadələr: miqdar, yer və zaman
+      A1-069 Quantity: how much and how many, A1-070 More than, such as, because of, A1-071 At home,
+      at school, in bed, A1-072 Places in town and beyond, A1-073 Position: next to, at the end,
+      A1-074 Mornings, days and seasons, A1-075 Years, A1-076 Moments in time
 
 ====================================================================================================
 SECTION 0 — FOUNDATION: STRUCTURAL WORDS AND REFERENCE SETS
@@ -141,6 +161,7 @@ MODAL VERBS  /  Modal fellər
    might                        — ola bilsin, bəlkə
    must                         — mütləq -malı / -məli (məcburiyyət)
    ought                        — gərək, -malı / -məli (ought to)
+   cannot                       — bacarmamaq, edə bilməmək (can + not; danışıqda: can't)
 
 NEGATION  /  İnkar
 ----------------------------------------------------------------------------------------------------
@@ -276,6 +297,44 @@ DEGREE WORDS  /  Dərəcə bildirən sözlər
 ----------------------------------------------------------------------------------------------------
    very                         — çox, olduqca
    too                          — həddindən artıq; həmçinin
+
+FREQUENCY AND TIME ADVERBS  /  Tezlik və zaman zərfləri
+----------------------------------------------------------------------------------------------------
+   always                       — həmişə: She is always late – O həmişə gecikir
+   usually                      — adətən: I usually get up at seven – Mən adətən yeddidə dururam
+   often                        — tez-tez: How often? – Nə qədər tez-tez?
+   sometimes                    — bəzən, hərdən
+   ever                         — nə vaxtsa, heç (sual və inkarda): Have you ever ...? – Heç ...
+                                  olmusunuzmu?
+   once                         — bir dəfə; bir vaxtlar: once a week – həftədə bir dəfə
+   today                        — bu gün
+   tonight                      — bu axşam, bu gecə
+   later                        — sonra, bir az sonra: See you later – Sonra görüşərik
+   ago                          — əvvəl (keçmiş zamanla): two years ago – iki il əvvəl
+   o'clock                      — saat (yalnız tam saatlarda): seven o'clock – saat yeddi
+
+LINKING AND FOCUSING ADVERBS  /  Bağlayıcı və vurğu zərfləri
+----------------------------------------------------------------------------------------------------
+   also                         — həmçinin, də / da
+   even                         — hətta: even now – hətta indi də
+   just                         — sadəcə, yalnız; elə indicə: just now – elə indicə
+   quite                        — xeyli, kifayət qədər; tamamilə: quite a lot – xeyli çox
+   maybe                        — bəlkə
+   probably                     — yəqin ki, çox güman ki
+   however                      — lakin, bununla belə (iki cümləni bağlayır)
+
+GREETINGS AND SHORT ANSWERS  /  Salamlaşma və qısa cavablar
+----------------------------------------------------------------------------------------------------
+   hello                        — salam
+   hi                           — salam (qeyri-rəsmi)
+   hey                          — ey; salam (çox qeyri-rəsmi)
+   goodbye                      — sağ ol, xudahafiz
+   bye                          — hələlik, sağ ol (qeyri-rəsmi)
+   yes                          — bəli, hə
+   yeah                         — hə (danışıq dilində "yes")
+   OK                           — yaxşı, oldu; qaydasındadır
+   oh                           — ah, oy (təəccüb, sevinc və ya təəssüf bildirir)
+   please                       — zəhmət olmasa, xahiş edirəm
 
 DICTIONARY ABBREVIATIONS USED IN THIS COURSE  /  Bu kursda işlənən lüğət qısaltmaları
 ----------------------------------------------------------------------------------------------------
@@ -2825,70 +2884,2002 @@ UPDATED VOCABULARY INDEX — after UNIT 7 (Describing people and things)
    problem, purple, red, sad, see, soup, student, summer, surprise, town, tree, unhappy, well,
    white, woman, year, yellow
 
+
+####################################################################################################
+#  UNIT 8 — EVERYDAY VERBS
+#  Gündəlik fellər
+####################################################################################################
+
 ====================================================================================================
-UPDATED VOCABULARY INDEX — END OF LEVEL A1
+LESSON A1-041   |   UNIT 8: Everyday verbs
 ====================================================================================================
-   Main words covered at A1 (40):
-      GO (001), COME (002), GET (003), TAKE (004), MAKE (005), GIVE (006), EAT (007), DRINK (008),
-      COOK (009), BUY (010), MONEY (011), LIVE (012), HOUSE (013), FAMILY (014), FRIEND (015), BODY
-      (016), LEARN (017), READ (018), WRITE (019), SPEAK (020), ASK (021), LISTEN (022), WORK (023),
-      PLAY (024), WATCH (025), HELP (026), LOOK (027), OPEN (028), WEAR (029), TIME (030), DAY
-      (031), WEATHER (032), CITY (033), GOOD (034), BIG (035), NEW (036), OLD (037), HAPPY (038),
-      HOT (039), COLOUR (040)
+MAIN WORD: WANT
+Azerbaijani: İstəmək
 
-   All vocabulary introduced at A1, A–Z (397 items; the number is the lesson):
-      address 019, afternoon 034, again 021, age 037, alive 012, alone 012, angry 003, animal 035,
-      answer 006, apple 007, arm 016, ASK 021, aunt 014, Azerbaijani 020, baby 027, bad 032, bag
-      026, balcony 013, bath 039, bathroom 013, beautiful 027, bed 001, bedroom 013, best 015,
-      better 034, BIG 035, bill 021, bird 022, birthday 038, black 040, blue 040, board 019, BODY
-      016, book 018, borrow 011, bottle 008, box 028, brand 036, bread 010, breakfast 007, bridge
-      037, bright 040, brother 014, brown 040, brush 016, building 037, bus 001, busy 031, BUY 010,
-      buyer 010, cake 005, call 005, capital 033, car 036, card 024, care 004, carefully 022, carry
-      026, cartoon 025, centre 033, chat 015, cheap 011, cheese 010, chess 024, chicken 009, child
-      038, chocolate 039, CITY 033, clean 013, clearly 020, close 015, clothes 010, cloud 032, coat
-      029, coffee 008, cold 008, COLOUR 040, colourful 040, COME 002, company 023, computer 024,
-      conversation 022, COOK 009, cooker 009, cooking 009, cost 011, country 035, couple 038, cross
-      026, cup 005, curtain 028, daily 031, dark 040, daughter 014, DAY 031, dinner 005, direction
-      006, dish 039, doctor 023, dog 035, door 028, downstairs 013, dressed 003, DRINK 008, drive
-      017, dry 039, ear 016, early 002, earn 011, EAT 007, egg 009, email 018, English 017, evening
-      034, exam 004, example 006, expensive 011, eye 028, face 038, FAMILY 014, father 014,
-      favourite 040, film 025, finger 016, finish 023, fish 009, flat 012, floor 012, flower 006,
-      football 024, forecast 032, free 030, FRIEND 015, friendly 015, friendship 015, fruit 007,
-      game 024, garden 026, gate 028, GET 003, GIVE 006, glass 008, glasses 029, GO 001, GOOD 034,
-      grandfather 014, grandmother 014, great 009, green 040, grey 040, guitar 024, hair 016, hand
-      006, happily 038, happiness 038, HAPPY 038, hard 023, hard-working 023, hat 029, head 016,
-      heart 017, heat 039, heater 039, heating 039, HELP 026, helper 026, helpful 026, helpless 026,
-      history 017, holiday 001, home 001, homework 026, HOT 039, hotel 033, hour 028, HOUSE 013,
-      housework 013, hug 006, human 016, husband 014, idea 034, information 021, invite 015, jacket
-      029, jeans 029, job 036, juice 008, key 027, kitchen 009, language 017, last 030, late 002,
-      LEARN 017, learner 017, learning 017, leg 016, lesson 036, letter 018, life 012, list 005,
-      LISTEN 022, listener 022, listening 022, LIVE 012, living 012, LOOK 027, loudly 020, luck 034,
-      lunch 007, magazine 018, MAKE 005, man 037, map 018, married 003, match 025, meal 009, meat
-      007, medicine 004, meet 015, member 014, menu 021, message 018, milk 008, mistake 005, mobile
-      036, modern 033, MONEY 011, morning 034, mother 014, mouth 028, museum 033, music 022, name
-      019, native 020, need 026, neighbour 026, NEW 036, newly 036, news 018, newspaper 010, next
-      030, nice 031, night 034, noise 005, nose 016, note 019, number 013, office 023, OLD 037,
-      online 010, OPEN 028, opening 028, openly 028, orange 008, oven 039, pair 010, parent 012,
-      park 033, part 016, party 002, pasta 009, pen 019, people 037, phone 005, photo 004, piano
-      024, picture 027, pink 040, PLAY 024, player 024, pocket 011, podcast 022, politely 020, poor
-      011, postcard 019, present 006, price 021, problem 035, programme 025, purple 040, question
-      021, quickly 017, quiet 012, radio 022, rain 032, READ 018, reader 018, reading 018, ready
-      003, red 040, rent 013, repeat 022, restaurant 033, rice 009, rich 011, road 026, room 012,
-      sad 038, same 030, sandwich 005, save 011, school 001, sea 012, seat 004, see 038, sell 010,
-      sentence 019, series 025, shirt 029, shoe 010, shopping 001, shoulder 016, shower 004, sister
-      014, skirt 029, slowly 020, small 013, smile 015, snow 032, soft 008, son 014, song 022, soup
-      039, SPEAK 020, speaker 020, speech 020, spend 011, spoken 020, square 033, start 023, station
-      033, story 018, street 033, student 036, summer 039, sunny 032, supermarket 010, surprise 035,
-      swim 017, TAKE 004, taxi 003, tea 005, tennis 024, text 018, thanks 026, theatre 033, ticket
-      003, TIME 030, tired 003, toe 016, tomorrow 031, tooth 016, top 012, town 036, toy 024, train
-      033, tree 035, trousers 029, TV 025, umbrella 004, uncle 014, unfriendly 015, unhappy 038,
-      upstairs 013, vegetable 007, video 025, village 012, visit 015, wait 021, walk 001, warm 032,
-      wash 016, WATCH 025, water 008, way 021, WEAR 029, WEATHER 032, weekend 023, well 034, wet
-      032, white 040, whole 014, wide 028, wife 014, wind 032, window 027, woman 037, word 017, WORK
-      023, worker 023, WRITE 019, writer 019, writing 019, written 019, year 037, yellow 040,
-      yesterday 031
+A. MAIN WORD
+   English spelling ....... want
+   Azerbaijani meaning .... istəmək
+   Part of speech ......... verb
+   Key forms .............. want – wants – wanted – wanted – wanting
+   British English IPA .... /wɒnt/
+   CEFR level ............. A1 (Beginner)
 
-   Cumulative database size after A1: 416 individual vocabulary items (+ 245 structural words).
-   Global duplicate check for this level: PASSED (0 repeated items).
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ want (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
 
-END OF LEVEL A1
+C. RELATED EXPRESSIONS
+   1. Want a beer — Pivə istəmək
+      Usage: beer /bɪə/ = pivə; "a beer" = bir stəkan (şüşə) pivə
+   2. Want some wine — Bir az şərab istəmək
+      Usage: wine = şərab; sayılmayan isim: some wine, a glass of wine
+   3. Want more sugar — Daha çox şəkər istəmək
+      Usage: sugar /ˈʃʊɡə/ = şəkər, qənd; sayılmayan isim
+   4. Want the salt — Duzu istəmək
+      Usage: salt /sɔːlt/ = duz; süfrədə: Do you want the salt?
+   5. Want a banana — Banan istəmək
+      Usage: banana /bəˈnɑːnə/ = banan; cəmi: bananas
+   6. Want to do sth — Nəyisə etmək istəmək
+      Usage: want + to + fel: I want to go ("want go" yox)
+   7. Want sb to do sth — Kiminsə nəyisə etməsini istəmək
+      Usage: want + şəxs + to + fel: I want you to stay
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I want to learn English.
+      → Mən ingilis dilini öyrənmək istəyirəm.
+   2. Do you want some wine or a beer?
+      → Şərab istəyirsən, yoxsa pivə?
+   3. She wants more sugar in her tea.
+      → O, çayına daha çox şəkər istəyir.
+
+E. USAGE EXPLANATION
+   WANT düzgün feldir: want – wanted. Ondan sonra isim (want a banana) və ya "to + fel" gəlir (want
+   to go). Başqasının nəsə etməsini istəyəndə "want + şəxs + to + fel" qəlibi işlənir: I want you to
+   help me ("I want that you help" demək səhvdir). WANT davamedici formada (-ing) adətən işlənmir:
+   "I want" deyilir, "I am wanting" yox. Xahiş edərkən "I want" kobud səslənə bilər; "I would like"
+   daha nəzakətlidir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): WANT [main], beer, wine, sugar, salt, banana
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (416 → 422 items).
+
+====================================================================================================
+LESSON A1-042   |   UNIT 8: Everyday verbs
+====================================================================================================
+MAIN WORD: SAY
+Azerbaijani: Demək, söyləmək
+
+A. MAIN WORD
+   English spelling ....... say
+   Azerbaijani meaning .... demək, söyləmək
+   Part of speech ......... verb
+   Key forms .............. say – says – said – said – saying
+   British English IPA .... /seɪ/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ say (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Say hello — Salam vermək, salam demək
+      Usage: Kiməsə salam göndərəndə: Say hello to your parents
+   2. Say it is true — Bunun doğru olduğunu demək
+      Usage: true /truː/ = doğru, həqiqi; əksi: false
+   3. Cannot say for sure — Dəqiq deyə bilməmək
+      Usage: sure /ʃɔː/ = əmin; for sure = dəqiq, şübhəsiz
+   4. Say something terrible — Dəhşətli bir şey demək
+      Usage: terrible = dəhşətli, çox pis; something + sifət
+   5. Say the opposite — Əksini demək
+      Usage: opposite /ˈɒpəzɪt/ = əks; üzbəüz
+   6. Say thank you — "Sağ ol" demək, təşəkkür etmək
+      Usage: thank = təşəkkür etmək; Thank you! = Sağ olun!
+   7. Say what happened — Nə baş verdiyini demək
+      Usage: happen = baş vermək; What happened? = Nə oldu?
+   8. Say goodbye — Sağollaşmaq, vidalaşmaq
+      Usage: say goodbye to + şəxs
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She said hello and sat down.
+      → O, salam verdi və əyləşdi.
+   2. I cannot say for sure, but I think it is true.
+      → Dəqiq deyə bilmərəm, amma məncə, bu doğrudur.
+   3. Please say what happened yesterday.
+      → Zəhmət olmasa, dünən nə baş verdiyini deyin.
+   4. Always say thank you when somebody helps you.
+      → Kimsə sənə kömək edəndə həmişə "sağ ol" de.
+
+E. USAGE EXPLANATION
+   SAY düzgün olmayan feldir: say – said – said; "says" /sez/, "said" isə /sed/ kimi tələffüz
+   olunur. SAY deyilən sözlərin özünü bildirir və ondan sonra şəxs birbaşa gəlmir: "He said (that)
+   he was tired"; şəxs lazımdırsa "to" işlənir: "He said to me ...". TELL isə həmişə şəxs tələb
+   edir: "He told me ...". Müqayisə edin: say hello, say goodbye, say thank you, say yes / no –
+   lakin tell a story, tell the truth.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): SAY [main], true, sure, terrible, opposite, thank,
+      happen
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (422 → 429 items).
+
+====================================================================================================
+LESSON A1-043   |   UNIT 8: Everyday verbs
+====================================================================================================
+MAIN WORD: SIT
+Azerbaijani: Oturmaq, əyləşmək
+
+A. MAIN WORD
+   English spelling ....... sit
+   Azerbaijani meaning .... oturmaq, əyləşmək
+   Part of speech ......... verb
+   Key forms .............. sit – sits – sat – sat – sitting
+   British English IPA .... /sɪt/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ sit (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Sit down — Oturmaq, əyləşmək
+      Usage: Hərəkəti bildirir; nəzakətlə: Please sit down
+   2. Sit at a desk — Yazı masasının arxasında oturmaq
+      Usage: desk = yazı masası, parta; "at" sözönüsü ilə
+   3. Sit in the sun — Günün altında oturmaq
+      Usage: sun = günəş; in the sun = günəş altında
+   4. Sit in front of sb — Kiminsə qabağında oturmaq
+      Usage: front /frʌnt/ = ön tərəf; in front of = qabağında, önündə
+   5. Stand up — Ayağa qalxmaq  [related]
+      Usage: stand – stood – stood = ayaq üstə durmaq; "sit down" ifadəsinin əksi
+   6. On foot — Piyada  [related]
+      Usage: foot = ayaq (pəncə); cəmi: feet; go on foot = piyada getmək
+   7. Sit with us — Bizimlə oturmaq
+      Usage: Dəvət edərkən: Come and sit with us
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Please sit down and open your books.
+      → Zəhmət olmasa, əyləşin və kitablarınızı açın.
+   2. He sits at a desk all day.
+      → O, bütün günü yazı masasının arxasında oturur.
+   3. Stand up, please, and say your name.
+      → Zəhmət olmasa, ayağa qalx və adını de.
+   4. The station is near, so we can go on foot.
+      → Stansiya yaxındır, ona görə piyada gedə bilərik.
+
+E. USAGE EXPLANATION
+   SIT düzgün olmayan feldir: sit – sat – sat. "Sit" vəziyyəti (She is sitting = O oturub), "sit
+   down" isə hərəkəti (əyləşmək) bildirir. Yerlə işlənən sözönülər: sit AT a desk / a table, sit ON
+   a chair / the floor, sit IN an armchair / the sun. Əks hərəkət "stand up"dır: stand – stood –
+   stood. "On foot" nəqliyyatsız, piyada getmək deməkdir: We went there on foot ("by foot" az
+   işlənir).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): SIT [main], desk, sun, front, stand, foot
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (429 → 435 items).
+
+====================================================================================================
+LESSON A1-044   |   UNIT 8: Everyday verbs
+====================================================================================================
+MAIN WORD: WAKE
+Azerbaijani: Oyanmaq; oyatmaq
+
+A. MAIN WORD
+   English spelling ....... wake
+   Azerbaijani meaning .... oyanmaq; oyatmaq
+   Part of speech ......... verb
+   Key forms .............. wake – wakes – woke – woken – waking
+   British English IPA .... /weɪk/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ wake (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Wake up — Oyanmaq
+      Usage: Frazeoloji fel; "get up" isə yataqdan qalxmaq deməkdir
+   2. Wake up at six o'clock — Saat altıda oyanmaq
+      Usage: Vaxt "at" ilə göstərilir: at six o'clock
+   3. Wake your dad — Atanı oyatmaq
+      Usage: dad = ata (danışıq dilində "father")
+   4. Wake your mum — Ananı oyatmaq
+      Usage: mum = ana (danışıq dilində "mother"); Amerika yazılışı: mom
+   5. Wake the cat — Pişiyi oyatmaq
+      Usage: cat = pişik
+   6. Sleep until ten o'clock — Saat ona qədər yatmaq  [related]
+      Usage: sleep – slept – slept = yatmaq, yuxulamaq
+   7. Wake up without a clock — Saatsız oyanmaq
+      Usage: clock = divar və ya stol saatı; qol saatı – watch
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I usually wake up at six o'clock.
+      → Mən adətən saat altıda oyanıram.
+   2. Be quiet, or you will wake your dad.
+      → Sakit ol, yoxsa atanı oyadarsan.
+   3. On Sundays the children sleep until ten o'clock.
+      → Bazar günləri uşaqlar saat ona qədər yatırlar.
+
+E. USAGE EXPLANATION
+   WAKE düzgün olmayan feldir: wake – woke – woken. "Wake up" həm "oyanmaq" (I woke up early), həm
+   də "oyatmaq" (Wake me up at seven) mənasında işlənir. WAKE UP – gözünü açmaq, oyanmaq; GET UP –
+   yataqdan qalxmaq. SLEEP yuxuda olmaq deməkdir (sleep – slept – slept), "go to bed" isə yatmağa
+   getməkdir. MUM Britaniya, MOM Amerika yazılışıdır; DAD hər ikisində eynidir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): WAKE [main], dad, mum, cat, sleep, clock
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (435 → 441 items).
+
+====================================================================================================
+LESSON A1-045   |   UNIT 8: Everyday verbs
+====================================================================================================
+MAIN WORD: BECOME
+Azerbaijani: Olmaq, çevrilmək (yeni hala gəlmək)
+
+A. MAIN WORD
+   English spelling ....... become
+   Azerbaijani meaning .... olmaq, çevrilmək (yeni hala gəlmək)
+   Part of speech ......... verb
+   Key forms .............. become – becomes – became – become – becoming
+   British English IPA .... /bɪˈkʌm/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ become (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Become famous — Məşhur olmaq, məşhurlaşmaq
+      Usage: famous /ˈfeɪməs/ = məşhur; become + sifət
+   2. Become an artist — Rəssam olmaq
+      Usage: artist = rəssam; sənətçi; become + a/an + peşə
+   3. Become an actress — Aktrisa olmaq
+      Usage: actress = aktrisa; kişi: actor
+   4. Become a scientist — Alim olmaq
+      Usage: scientist /ˈsaɪəntɪst/ = alim, elm adamı
+   5. Become a teenager — Yeniyetmə olmaq
+      Usage: teenager = 13–19 yaşlı yeniyetmə (thirteen ... nineteen)
+   6. Become one of us — Bizdən biri olmaq
+      Usage: one of + cəm əvəzlik
+   7. What will become of sb — Kiminsə axırı (taleyi) necə olacaq
+      Usage: Sabit ifadə: What will become of him?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She wants to become a scientist.
+      → O, alim olmaq istəyir.
+   2. He became famous after his first film.
+      → O, ilk filmindən sonra məşhur oldu.
+   3. My sister became a teenager last month.
+      → Bacım keçən ay yeniyetmə oldu.
+
+E. USAGE EXPLANATION
+   BECOME düzgün olmayan feldir: become – became – become. Dəyişmə nəticəsində yeni hala gəlməyi
+   bildirir və ondan sonra sifət (become famous, become rich) və ya isim (become a doctor) gəlir.
+   Peşə adından əvvəl a/an artikli mütləqdir: become AN artist. Danışıq dilində sifətlərlə çox vaxt
+   GET işlənir (get tired, get cold); BECOME bir qədər rəsmidir. Diqqət: Azərbaycan dilindəki
+   "olmaq" həm BE, həm də BECOME ilə tərcümə olunur: "O, həkimdir" – He is a doctor; "O, həkim oldu"
+   – He became a doctor.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): BECOME [main], famous, artist, actress, scientist,
+      teenager
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (441 → 447 items).
+
+====================================================================================================
+LESSON A1-046   |   UNIT 8: Everyday verbs
+====================================================================================================
+MAIN WORD: BELIEVE
+Azerbaijani: İnanmaq
+
+A. MAIN WORD
+   English spelling ....... believe
+   Azerbaijani meaning .... inanmaq
+   Part of speech ......... verb
+   Key forms .............. believe – believes – believed – believed – believing
+   British English IPA .... /bɪˈliːv/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ believe (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): belief (B1-033, CHALLENGE)
+
+C. RELATED EXPRESSIONS
+   1. Believe in sb/sth — Kiməsə / nəyəsə inanmaq (varlığına, gücünə)
+      Usage: believe in yourself = özünə inanmaq
+   2. Believe me — İnan mənə
+      Usage: Dediyinin doğru olduğunu vurğulamaq üçün
+   3. Believe it or not — İnanmayacaqsan, amma; inan, ya inanma
+      Usage: Təəccüblü xəbərdən əvvəl deyilir
+   4. I guess so — Yəqin ki, elədir; deyəsən, hə  [related]
+      Usage: guess /ɡes/ = təxmin etmək; güman etmək
+   5. Just imagine — Bir təsəvvür et  [related]
+      Usage: imagine /ɪˈmædʒɪn/ = təsəvvür etmək, xəyalına gətirmək
+   6. Forget about it — Bunu unut; boş ver  [related]
+      Usage: forget – forgot – forgotten = unutmaq
+   7. What do you mean — Nə demək istəyirsən  [related]
+      Usage: mean – meant /ment/ – meant = demək istəmək; məna vermək
+   8. Let me do it — İcazə ver, mən edim  [related]
+      Usage: let – let – let = icazə vermək, qoymaq; let + şəxs + fel ("to" işlənmir)
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I believe in you.
+      → Mən sənə inanıram.
+   2. Believe it or not, he is only ten years old.
+      → İnanmayacaqsan, amma onun cəmi on yaşı var.
+   3. What do you mean? I don't understand.
+      → Nə demək istəyirsən? Mən başa düşmürəm.
+   4. Let me do it for you.
+      → İcazə ver, bunu sənin üçün mən edim.
+
+E. USAGE EXPLANATION
+   BELIEVE düzgün feldir. "Believe + şəxs" kiminsə dediyinə inanmaq deməkdir (I believe you),
+   "believe in" isə nəyinsə varlığına və ya dəyərinə inanmaqdır (believe in God, believe in
+   yourself). Bu dərsdə fikir bildirən başqa mühüm fellər də var: GUESS (təxmin etmək; I guess =
+   məncə, yəqin), IMAGINE (təsəvvür etmək), FORGET (unutmaq: forget – forgot – forgotten), MEAN
+   (demək istəmək: What does this word mean? = Bu söz nə deməkdir?) və LET (icazə vermək: Let me
+   help you). LET-dən sonra gələn feldən əvvəl "to" işlənmir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): BELIEVE [main], guess, imagine, forget, mean, let
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (447 → 453 items).
+
+====================================================================================================
+LESSON A1-047   |   UNIT 8: Everyday verbs
+====================================================================================================
+MAIN WORD: BEGIN
+Azerbaijani: Başlamaq; başlanmaq
+
+A. MAIN WORD
+   English spelling ....... begin
+   Azerbaijani meaning .... başlamaq; başlanmaq
+   Part of speech ......... verb
+   Key forms .............. begin – begins – began – begun – beginning
+   British English IPA .... /bɪˈɡɪn/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ begin (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): beginning (A2-006, MISS)
+
+C. RELATED EXPRESSIONS
+   1. Begin with sth — Nə iləsə başlamaq
+      Usage: Let's begin with the first question
+   2. Begin a meeting — İclası başlamaq
+      Usage: meeting = iclas, yığıncaq; görüş
+   3. Begin a blog — Bloq yazmağa başlamaq
+      Usage: blog = bloq, internet gündəliyi
+   4. Begin and end — Başlamaq və bitmək
+      Usage: end = bitmək, qurtarmaq; son; at the end = sonda
+   5. A perfect beginning — Mükəmməl başlanğıc
+      Usage: perfect /ˈpɜːfɪkt/ = mükəmməl, qüsursuz
+   6. Begin as a driver — Sürücü kimi (işə) başlamaq
+      Usage: driver = sürücü; begin as + peşə
+   7. Begin to do sth — Nəyisə etməyə başlamaq
+      Usage: begin + to + fel və ya begin + -ing: begin to rain / begin raining
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The lesson begins at nine o'clock.
+      → Dərs saat doqquzda başlayır.
+   2. Let's begin with an easy question.
+      → Gəlin asan bir sualla başlayaq.
+   3. The film began well, but the end was terrible.
+      → Film yaxşı başladı, amma sonu dəhşətli idi.
+
+E. USAGE EXPLANATION
+   BEGIN düzgün olmayan feldir: begin – began – begun; -ing forması iki "n" ilə yazılır: beginning.
+   BEGIN və START demək olar ki, eyni mənalıdır, lakin BEGIN bir qədər rəsmidir; maşın və cihazlar
+   haqqında isə yalnız START işlənir (start the car). Ondan sonra həm "to + fel", həm də "-ing" gələ
+   bilər. "Begin with" – nə iləsə başlamaq; "at the beginning" – əvvəlində. Əks mənalı fellər END və
+   FINISH-dir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): BEGIN [main], meeting, blog, end, perfect, driver
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (453 → 459 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 8 (Everyday verbs)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: WANT, SAY, SIT, WAKE, BECOME, BELIEVE, BEGIN
+   New items registered in this unit: 43   |   Database total after this unit: 459
+   actress, artist, banana, BECOME, beer, BEGIN, BELIEVE, blog, cat, clock, dad, desk, driver, end,
+   famous, foot, forget, front, guess, happen, imagine, let, mean, meeting, mum, opposite, perfect,
+   salt, SAY, scientist, SIT, sleep, stand, sugar, sun, sure, teenager, terrible, thank, true, WAKE,
+   WANT, wine
+
+
+####################################################################################################
+#  UNIT 9 — FOOD, CLOTHES AND LIKES
+#  Yemək, geyim və zövqlər
+####################################################################################################
+
+====================================================================================================
+LESSON A1-048   |   UNIT 9: Food, clothes and likes
+====================================================================================================
+MAIN WORD: ADD
+Azerbaijani: Əlavə etmək; (rəqəmləri) toplamaq
+
+A. MAIN WORD
+   English spelling ....... add
+   Azerbaijani meaning .... əlavə etmək; (rəqəmləri) toplamaq
+   Part of speech ......... verb
+   Key forms .............. add – adds – added – added – adding
+   British English IPA .... /æd/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ add (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Add butter — Kərə yağı əlavə etmək
+      Usage: butter /ˈbʌtə/ = kərə yağı; sayılmayan isim
+   2. Add ice cream — Dondurma əlavə etmək
+      Usage: ice = buz; cream = qaymaq, krem; ice cream = dondurma
+   3. Add an onion — Bir soğan əlavə etmək
+      Usage: onion /ˈʌnjən/ = soğan
+   4. Add pepper — İstiot əlavə etmək
+      Usage: pepper = istiot; bibər
+   5. Add a carrot — Bir yerkökü əlavə etmək
+      Usage: carrot /ˈkærət/ = yerkökü
+   6. Add up — Toplamaq, cəmləmək
+      Usage: Frazeoloji fel: add up the numbers
+   7. Add to sth — Nəyəsə əlavə etmək; nəyisə artırmaq
+      Usage: add milk to the tea
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Add some butter and a little pepper.
+      → Bir az kərə yağı və azca istiot əlavə edin.
+   2. Cut an onion and a carrot and add them to the soup.
+      → Bir soğan və bir yerkökü doğra və şorbaya əlavə et.
+   3. The children want ice cream after dinner.
+      → Uşaqlar şam yeməyindən sonra dondurma istəyirlər.
+
+E. USAGE EXPLANATION
+   ADD düzgün feldir: add – added. İki əsas mənası var: 1) nəyisə başqa bir şeyin üstünə əlavə etmək
+   (add salt to the soup – "to" sözönüsü ilə); 2) rəqəmləri toplamaq (Add two and three = İki ilə
+   üçü topla). Reseptlərdə ən çox işlənən fellərdən biridir. Diqqət: ICE CREAM iki sözlə yazılır və
+   sayılmayan isimdir: some ice cream, an ice cream = bir dənə dondurma. PEPPER həm üyüdülmüş
+   istiot, həm də bibər deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): ADD [main], butter, ice, cream, onion, pepper,
+      carrot
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (459 → 466 items).
+
+====================================================================================================
+LESSON A1-049   |   UNIT 9: Food, clothes and likes
+====================================================================================================
+MAIN WORD: ORDER
+Azerbaijani: Sifariş etmək; sifariş; qayda, sıra
+
+A. MAIN WORD
+   English spelling ....... order
+   Azerbaijani meaning .... sifariş etmək; sifariş; qayda, sıra
+   Part of speech ......... verb, noun
+   Key forms .............. order – orders – ordered – ordered – ordering
+   British English IPA .... /ˈɔːdə/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ order (main word)
+   Verb forms ........ order (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Order a pizza — Pizza sifariş etmək
+      Usage: pizza /ˈpiːtsə/ = pizza
+   2. Order from the waiter — Ofisiantdan sifariş etmək
+      Usage: waiter = ofisiant (kişi); qadın: waitress
+   3. Order something delicious — Dadlı bir şey sifariş etmək
+      Usage: delicious /dɪˈlɪʃəs/ = çox dadlı, ləzzətli
+   4. Order from a store — Mağazadan sifariş etmək
+      Usage: store = mağaza (Amerika ingiliscəsində; Britaniyada: shop)
+   5. Complete an order — Sifarişi tamamlamaq
+      Usage: complete /kəmˈpliːt/ = tamamlamaq; tam, bütöv
+   6. In order — Qaydasında; sıra ilə
+      Usage: in the right order = düzgün ardıcıllıqla
+   7. Out of order — Xarab, işləmir (cihaz haqqında)
+      Usage: Lövhələrdə: OUT OF ORDER
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Are you ready to order?
+      → Sifariş verməyə hazırsınız?
+   2. We ordered a pizza and it was delicious.
+      → Biz pizza sifariş etdik və o, çox dadlı idi.
+   3. The lift is out of order again.
+      → Lift yenə işləmir.
+
+E. USAGE EXPLANATION
+   ORDER həm fel, həm də isimdir. Restoranda və internetdə "sifariş etmək" deməkdir: order a pizza,
+   order online. İsim kimi üç mənası var: sifariş (an order), sıra (in order = sıra ilə) və qayda.
+   "Out of order" cihazın işləmədiyini bildirir. "In order to + fel" isə "... etmək üçün" deməkdir:
+   I get up early in order to study. DELICIOUS artıq "çox dadlı" deməkdir, ona görə "very delicious"
+   deyilmir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): ORDER [main], pizza, waiter, delicious, store,
+      complete
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (466 → 472 items).
+
+====================================================================================================
+LESSON A1-050   |   UNIT 9: Food, clothes and likes
+====================================================================================================
+MAIN WORD: DRESS
+Azerbaijani: Don (qadın paltarı); geyinmək, geyindirmək
+
+A. MAIN WORD
+   English spelling ....... dress
+   Azerbaijani meaning .... don (qadın paltarı); geyinmək, geyindirmək
+   Part of speech ......... noun, verb
+   Key forms .............. dress – dresses – dressed – dressed – dressing
+   British English IPA .... /dres/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ dress (main word)
+   Verb forms ........ dress (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): dressed (A1-003, GET)
+
+C. RELATED EXPRESSIONS
+   1. A dress shop — Don mağazası
+      Usage: shop = mağaza, dükan; fel kimi: alış-veriş etmək
+   2. A T-shirt and pants — Futbolka və şalvar  [related]
+      Usage: T-shirt = futbolka; pants = şalvar (Amerika ingiliscəsində; Britaniyada: trousers)
+   3. A sweater and boots — Sviter və çəkmələr  [related]
+      Usage: sweater /ˈswetə/ = sviter; boot = çəkmə, uzunboğaz ayaqqabı
+   4. Dress up — Bəzənmək, gözəl geyinmək
+      Usage: Frazeoloji fel; bayram və ya şənlik üçün
+   5. Dress yourself — Özün geyinmək
+      Usage: Uşaqlar haqqında: He can dress himself
+   6. Dress in sth — Nəsə geyinmək (rəng, üslub)
+      Usage: dress in black = qara geyinmək
+   7. This dress or that one — Bu don, yoxsa o biri
+      Usage: "one" ismin təkrarının qarşısını alır
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She bought a new dress for the party.
+      → O, şənlik üçün yeni don aldı.
+   2. He usually wears a T-shirt and pants.
+      → O, adətən futbolka və şalvar geyinir.
+   3. In winter I wear a sweater and boots.
+      → Qışda mən sviter və çəkmə geyinirəm.
+
+E. USAGE EXPLANATION
+   DRESS isim kimi yalnız qadın donudur; ümumiyyətlə "paltar" mənasında "clothes" işlənir. Fel kimi
+   "geyinmək" deməkdir, lakin gündəlik danışıqda "get dressed" daha çox işlənir. "Wear" əynində
+   olmaq (She is wearing a dress), "put on" isə geyinmə hərəkətidir. Diqqət: PANTS Amerika
+   ingiliscəsində "şalvar", Britaniya ingiliscəsində isə "alt paltarı" deməkdir; Britaniyada şalvara
+   "trousers" deyirlər. PANTS və BOOTS adətən cəmdə işlənir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): DRESS [main], shop, T-shirt, pants, sweater, boot
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (472 → 478 items).
+
+====================================================================================================
+LESSON A1-051   |   UNIT 9: Food, clothes and likes
+====================================================================================================
+MAIN WORD: PREFER
+Azerbaijani: Üstünlük vermək, daha çox bəyənmək
+
+A. MAIN WORD
+   English spelling ....... prefer
+   Azerbaijani meaning .... üstünlük vermək, daha çox bəyənmək
+   Part of speech ......... verb
+   Key forms .............. prefer – prefers – preferred – preferred – preferring
+   British English IPA .... /prɪˈfɜː/
+   CEFR level ............. A1 (Beginner)
+   Level note ............. The open reference wordlist places this headword at A2; it is taught
+                           here at A1 because the expressions chosen for it are A1 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ prefer (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): preference (B2-015, CONSUME)
+
+C. RELATED EXPRESSIONS
+   1. Prefer a cafe — Kafeyə üstünlük vermək
+      Usage: cafe /ˈkæfeɪ/ = kafe
+   2. Prefer the gym — İdman zalına üstünlük vermək
+      Usage: gym /dʒɪm/ = idman zalı
+   3. Prefer spring — Yazı (bahar fəslini) daha çox sevmək
+      Usage: spring = yaz, bahar; in spring = yazda
+   4. Prefer the telephone — Telefona üstünlük vermək
+      Usage: telephone = telefon (rəsmi; gündəlik: phone)
+   5. Prefer television — Televiziyaya üstünlük vermək
+      Usage: television = televiziya; televizor (qısa: TV)
+   6. Prefer sth to sth — Bir şeyi başqasından üstün tutmaq
+      Usage: Sözönü "to"dur ("than" yox): prefer tea to coffee
+   7. Prefer to do sth — Nəyisə etməyə üstünlük vermək
+      Usage: prefer + to + fel və ya prefer + -ing
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I prefer tea to coffee.
+      → Mən çayı qəhvədən üstün tuturam.
+   2. Do you prefer spring or autumn?
+      → Yazı daha çox sevirsən, yoxsa payızı?
+   3. He prefers to watch television at home.
+      → O, evdə televizora baxmağa üstünlük verir.
+
+E. USAGE EXPLANATION
+   PREFER düzgün feldir, lakin son samit qoşalaşır: preferred, preferring. Vurğu ikinci hecadadır.
+   İki şeyi müqayisə edəndə "to" işlənir: I prefer tea TO coffee ("than coffee" səhvdir). Ondan
+   sonra isim (prefer the gym), "to + fel" (prefer to walk) və ya "-ing" (prefer walking) gələ
+   bilər. "I would prefer ..." konkret bir vəziyyətdə nəzakətli seçim bildirir: I would prefer a
+   cafe = Kafe olsa, daha yaxşı olar.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): PREFER [main], cafe, gym, spring, telephone,
+      television
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (478 → 484 items).
+
+====================================================================================================
+LESSON A1-052   |   UNIT 9: Food, clothes and likes
+====================================================================================================
+MAIN WORD: HATE
+Azerbaijani: Nifrət etmək; heç xoşlamamaq
+
+A. MAIN WORD
+   English spelling ....... hate
+   Azerbaijani meaning .... nifrət etmək; heç xoşlamamaq
+   Part of speech ......... verb
+   Key forms .............. hate – hates – hated – hated – hating
+   British English IPA .... /heɪt/
+   CEFR level ............. A1 (Beginner)
+   Level note ............. The open reference wordlist places this headword at A2; it is taught
+                           here at A1 because the expressions chosen for it are A1 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ hate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Hate baseball — Beysbolu heç xoşlamamaq
+      Usage: baseball = beysbol
+   2. Hate basketball — Basketbolu heç xoşlamamaq
+      Usage: basketball = basketbol
+   3. Hate swimming — Üzməyi heç sevməmək
+      Usage: swimming = üzgüçülük, üzmə
+   4. Hate dirty toilets — Çirkli tualetlərə nifrət etmək
+      Usage: dirty = çirkli (əksi: clean); toilet = tualet
+   5. Hate doing sth — Nəyisə etməyi heç xoşlamamaq
+      Usage: hate + fel + -ing: I hate getting up early
+   6. Hate to do sth — Nəyisə etmək istəməmək
+      Usage: I hate to say it, but ... = Bunu demək istəməzdim, amma ...
+   7. Hate each other — Bir-birinə nifrət etmək
+      Usage: each other = bir-biri
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I hate getting up early on Sundays.
+      → Bazar günləri tez durmağı heç xoşlamıram.
+   2. My brother loves basketball, but he hates swimming.
+      → Qardaşım basketbolu sevir, amma üzməyi heç xoşlamır.
+   3. Everybody hates dirty toilets.
+      → Çirkli tualetləri heç kim sevmir.
+
+E. USAGE EXPLANATION
+   HATE düzgün feldir: hate – hated. LIKE və LOVE fellərinin əksidir və güclü hiss bildirir; daha
+   yumşaq variant "don't like"dır. Ondan sonra isim (hate baseball) və ya "-ing" forması gəlir (hate
+   waiting). LIKE, LOVE, HATE kimi hiss felləri davamedici zamanda adətən işlənmir: "I hate it"
+   deyilir, "I am hating it" yox. Gündəlik danışıqda HATE çox vaxt sadəcə "heç xoşlamıram" deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): HATE [main], baseball, basketball, swimming, dirty,
+      toilet
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (484 → 490 items).
+
+====================================================================================================
+LESSON A1-053   |   UNIT 9: Food, clothes and likes
+====================================================================================================
+MAIN WORD: COMPARE
+Azerbaijani: Müqayisə etmək, tutuşdurmaq
+
+A. MAIN WORD
+   English spelling ....... compare
+   Azerbaijani meaning .... müqayisə etmək, tutuşdurmaq
+   Part of speech ......... verb
+   Key forms .............. compare – compares – compared – compared – comparing
+   British English IPA .... /kəmˈpeə/
+   CEFR level ............. A1 (Beginner)
+   Level note ............. The open reference wordlist places this headword at A2; it is taught
+                           here at A1 because the expressions chosen for it are A1 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ compare (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): comparison (C2-060, SPURIOUS)
+
+C. RELATED EXPRESSIONS
+   1. Compare sth with sth — Bir şeyi başqası ilə müqayisə etmək
+      Usage: Fərqləri və oxşarlıqları tapmaq üçün
+   2. Compare sth to sth — Bir şeyi başqasına bənzətmək; müqayisə etmək
+      Usage: compare life to a journey
+   3. Compare euros and pounds — Avro ilə funtu müqayisə etmək
+      Usage: euro = avro; pound = funt sterlinq (pul); həmçinin çəki vahidi (454 q)
+   4. Compare miles and metres — Mil ilə metri müqayisə etmək
+      Usage: mile = mil (1,6 km); metre = metr (Amerika yazılışı: meter)
+   5. Similar to sth — Nəyəsə oxşar, bənzər  [related]
+      Usage: similar /ˈsɪmələ/ = oxşar; sözönü "to"dur
+   6. Compare the two — İkisini müqayisə etmək
+      Usage: the two = hər ikisi
+   7. Compare them — Onları müqayisə etmək
+      Usage: Tapşırıqlarda çox işlənir: Compare them and choose one
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Compare your answers with your friend's.
+      → Cavablarını dostununkularla müqayisə et.
+   2. One mile is about 1,600 metres.
+      → Bir mil təxminən 1600 metrdir.
+   3. Your bag is similar to mine.
+      → Sənin çantan mənimkinə oxşardır.
+
+E. USAGE EXPLANATION
+   COMPARE düzgün feldir. "Compare A with B" iki şeyi yanaşı qoyub fərqlərini araşdırmaqdır;
+   "compare A to B" həm də bənzətmək deməkdir. SIMILAR sifəti "to" ilə işlənir (similar TO mine),
+   "the same" isə "as" ilə: the same AS mine. Britaniyada pul vahidi POUND (£), Avropanın bir çox
+   ölkəsində EURO (€)-dur. Məsafə Britaniya və ABŞ-da MILE ilə, başqa ölkələrdə kilometr və METRE
+   ilə ölçülür.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): COMPARE [main], euro, pound, mile, metre, similar
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (490 → 496 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 9 (Food, clothes and likes)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: ADD, ORDER, DRESS, PREFER, HATE, COMPARE
+   New items registered in this unit: 37   |   Database total after this unit: 496
+   ADD, baseball, basketball, boot, butter, cafe, carrot, COMPARE, complete, cream, delicious,
+   dirty, DRESS, euro, gym, HATE, ice, metre, mile, onion, ORDER, pants, pepper, pizza, pound,
+   PREFER, shop, similar, spring, store, sweater, swimming, T-shirt, telephone, television, toilet,
+   waiter
+
+
+####################################################################################################
+#  UNIT 10 — SCHOOL AND THE ARTS
+#  Məktəb və incəsənət
+####################################################################################################
+
+====================================================================================================
+LESSON A1-054   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: TEACH
+Azerbaijani: Öyrətmək, dərs demək
+
+A. MAIN WORD
+   English spelling ....... teach
+   Azerbaijani meaning .... öyrətmək, dərs demək
+   Part of speech ......... verb
+   Key forms .............. teach – teaches – taught – taught – teaching
+   British English IPA .... /tiːtʃ/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ teacher — müəllim
+   Verb forms ........ teach (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Teach science — Təbiət elmləri (fənnini) tədris etmək
+      Usage: science /ˈsaɪəns/ = elm; məktəbdə: təbiət elmləri
+   2. A geography teacher — Coğrafiya müəllimi
+      Usage: geography /dʒiˈɒɡrəfi/ = coğrafiya
+   3. Teach at a college — Kollecdə dərs demək
+      Usage: college /ˈkɒlɪdʒ/ = kollec; ABŞ-da həm də ali məktəb
+   4. Teach in a classroom — Sinif otağında dərs demək
+      Usage: classroom = sinif otağı
+   5. Teach sb to do sth — Kiməsə nəyisə etməyi öyrətmək
+      Usage: teach + şəxs + to + fel: teach a child to read
+   6. Teach yourself — Öz-özünə öyrənmək
+      Usage: teach yourself English = ingilis dilini müstəqil öyrənmək
+   7. My first teacher — Mənim ilk müəllimim
+      Usage: İbtidai sinif müəllimi haqqında
+
+D. NATURAL EXAMPLE SENTENCES
+   1. My mother teaches science at a college.
+      → Anam kollecdə təbiət elmlərini tədris edir.
+   2. Who taught you to swim?
+      → Sənə üzməyi kim öyrədib?
+   3. Our geography teacher is very kind.
+      → Coğrafiya müəllimimiz çox mehribandır.
+
+E. USAGE EXPLANATION
+   TEACH düzgün olmayan feldir: teach – taught /tɔːt/ – taught. TEACH bilik verməkdir (müəllim
+   öyrədir), LEARN isə bilik almaqdır (şagird öyrənir); Azərbaycan dilində hər ikisi "öyrənmək /
+   öyrətmək" kökündəndir, ona görə qarışdırmayın: "She teaches English" – O, ingilis dili öyrədir;
+   "She learns English" – O, ingilis dili öyrənir. Qəliblər: teach + fənn, teach + şəxs + fənn
+   (teach children maths), teach + şəxs + to + fel.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): TEACH [main], teacher [family], science, geography,
+      college, classroom
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (496 → 502 items).
+
+====================================================================================================
+LESSON A1-055   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: SPELL
+Azerbaijani: Hərf-hərf demək və ya yazmaq
+
+A. MAIN WORD
+   English spelling ....... spell
+   Azerbaijani meaning .... hərf-hərf demək və ya yazmaq
+   Part of speech ......... verb
+   Key forms .............. spell – spells – spelled / spelt – spelled / spelt – spelling
+   British English IPA .... /spel/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ spelling — orfoqrafiya, yazılış
+   Verb forms ........ spell (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. How do you spell it — Bu necə yazılır
+      Usage: Sözün və ya adın yazılışını soruşmaq üçün əsas sual
+   2. Spell it out — Hərf-hərf demək; ətraflı izah etmək
+      Usage: Frazeoloji fel
+   3. The spelling of sth — Nəyinsə yazılışı
+      Usage: the spelling of your name = adının yazılışı
+   4. Fill in this section — Bu bölməni doldurmaq  [related]
+      Usage: fill = doldurmaq; fill in = (blankı) doldurmaq; section = bölmə, hissə
+   5. Cut it out — Onu kəsib çıxarmaq  [related]
+      Usage: cut – cut – cut = kəsmək
+   6. Include everything — Hər şeyi daxil etmək  [related]
+      Usage: include /ɪnˈkluːd/ = daxil etmək, əhatə etmək
+   7. Spell sth for sb — Kimin üçünsə nəyisə hərf-hərf demək
+      Usage: Can you spell it for me?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. How do you spell your surname?
+      → Soyadınız necə yazılır?
+   2. Please fill in this section and write your name.
+      → Zəhmət olmasa, bu bölməni doldurun və adınızı yazın.
+   3. Does the price include breakfast?
+      → Qiymətə səhər yeməyi daxildir?
+
+E. USAGE EXPLANATION
+   SPELL sözün hərflərini düzgün ardıcıllıqla demək və ya yazmaqdır: "How do you spell 'beautiful'?"
+   Keçmiş zamanı Britaniyada həm "spelt", həm "spelled", Amerikada "spelled" olur. SPELLING isə
+   yazılış, orfoqrafiya deməkdir: a spelling mistake = orfoqrafik səhv. Bu dərsdə blank və tapşırıq
+   dilinin başqa sözləri də var: FILL IN (blankı doldurmaq), SECTION (bölmə), CUT (kəsmək; üç
+   forması eynidir: cut – cut – cut) və INCLUDE (daxil etmək).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): SPELL [main], spelling [family], fill, section,
+      cut, include
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (502 → 508 items).
+
+====================================================================================================
+LESSON A1-056   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: DESCRIBE
+Azerbaijani: Təsvir etmək
+
+A. MAIN WORD
+   English spelling ....... describe
+   Azerbaijani meaning .... təsvir etmək
+   Part of speech ......... verb
+   Key forms .............. describe – describes – described – described – describing
+   British English IPA .... /dɪˈskraɪb/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ description — təsvir
+   Verb forms ........ describe (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Describe your neighbourhood — Məhəlləni (yaşadığın ərazini) təsvir etmək
+      Usage: neighbourhood = məhəllə, qonşuluq; Amerika yazılışı: neighborhood
+   2. Describe your cousin — Əmioğlunu (xalaqızını və s.) təsvir etmək
+      Usage: cousin /ˈkʌzən/ = əmi, dayı, xala və ya bibi uşağı
+   3. A correct description — Düzgün təsvir
+      Usage: correct = düzgün; fel kimi: düzəltmək
+   4. A quick description — Qısa (tez) təsvir
+      Usage: quick = cəld, tez; a quick look = ötəri nəzər
+   5. Describe sth to sb — Nəyisə kiməsə təsvir etmək
+      Usage: Şəxsdən əvvəl "to" işlənir: describe it to me
+   6. Describe yourself — Özünü təsvir etmək
+      Usage: Müsahibə sualı: How would you describe yourself?
+   7. A description of sth — Nəyinsə təsviri
+      Usage: a description of the house
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Can you describe your neighbourhood?
+      → Yaşadığın məhəlləni təsvir edə bilərsən?
+   2. She described the man to the police.
+      → O, kişini polisə təsvir etdi.
+   3. Write a quick description of your cousin.
+      → Əmin oğlunun (və ya xalan qızının) qısa təsvirini yaz.
+
+E. USAGE EXPLANATION
+   DESCRIBE düzgün feldir və vurğu ikinci hecadadır. Şəxs bildirən tamamlıqdan əvvəl "to" mütləqdir:
+   "Describe it TO me" ("Describe me it" səhvdir). İsmi DESCRIPTION-dır: give a description = təsvir
+   vermək. Təsvir soruşan sual "What is ... like?" şəklindədir: What is your neighbourhood like? =
+   Sənin məhəllən necədir? COUSIN sözü ingilis dilində həm oğlan, həm qız üçün işlənir və bütün əmi,
+   dayı, xala, bibi uşaqlarını bildirir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): DESCRIBE [main], description [family],
+      neighbourhood, cousin, correct, quick
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (508 → 514 items).
+
+====================================================================================================
+LESSON A1-057   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: DRAW
+Azerbaijani: (Karandaşla) şəkil çəkmək; çəkmək, dartmaq
+
+A. MAIN WORD
+   English spelling ....... draw
+   Azerbaijani meaning .... (karandaşla) şəkil çəkmək; çəkmək, dartmaq
+   Part of speech ......... verb
+   Key forms .............. draw – draws – drew – drawn – drawing
+   British English IPA .... /drɔː/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ draw (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Draw a line — Xətt çəkmək
+      Usage: line = xətt; sətir; növbə
+   2. Draw a chart — Cədvəl (diaqram) çəkmək
+      Usage: chart /tʃɑːt/ = diaqram, cədvəl, qrafik
+   3. Draw with a pencil — Karandaşla çəkmək
+      Usage: pencil = karandaş; "with" alət bildirir
+   4. Draw an object — Bir əşyanın şəklini çəkmək
+      Usage: object /ˈɒbdʒɪkt/ = əşya, cisim
+   5. Draw a lion — Şir şəkli çəkmək
+      Usage: lion /ˈlaɪən/ = şir
+   6. Draw it for me — Onu mənim üçün çək
+      Usage: for + şəxs
+   7. Draw something — Nəsə çəkmək
+      Usage: Uşaqla danışarkən: Draw something for me
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The children are drawing lions and horses.
+      → Uşaqlar şir və at şəkilləri çəkirlər.
+   2. Draw a line under the correct answer.
+      → Düzgün cavabın altından xətt çək.
+   3. I can't draw with this pencil.
+      → Mən bu karandaşla çəkə bilmirəm.
+
+E. USAGE EXPLANATION
+   DRAW düzgün olmayan feldir: draw – drew /druː/ – drawn. DRAW karandaş və ya qələmlə (boyasız)
+   şəkil çəkməkdir; boya ilə çəkmək PAINT-dir; foto çəkmək isə "take a photo"dur – Azərbaycan
+   dilində üçü də "çəkmək"dir, ingilis dilində isə fərqlidir. DRAW-un ikinci mənası "dartmaq,
+   çəkmək"dir: draw the curtains = pərdələri çəkmək. LINE həm xətt, həm sətir, həm də (Amerikada)
+   növbə deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): DRAW [main], line, chart, pencil, object, lion
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (514 → 520 items).
+
+====================================================================================================
+LESSON A1-058   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: PAINT
+Azerbaijani: (Boya ilə) şəkil çəkmək; rəngləmək; boya
+
+A. MAIN WORD
+   English spelling ....... paint
+   Azerbaijani meaning .... (boya ilə) şəkil çəkmək; rəngləmək; boya
+   Part of speech ......... verb, noun
+   Key forms .............. paint – paints – painted – painted – painting
+   British English IPA .... /peɪnt/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ paint (main word); painting — rəsm əsəri, tablo
+   Verb forms ........ paint (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Paint a boat — Qayıq şəkli çəkmək; qayığı rəngləmək
+      Usage: boat /bəʊt/ = qayıq, kiçik gəmi
+   2. Paint a mountain — Dağ şəkli çəkmək
+      Usage: mountain /ˈmaʊntən/ = dağ
+   3. A painting of the ocean — Okeanın rəsmi
+      Usage: ocean /ˈəʊʃən/ = okean
+   4. Paint from a photograph — Fotoşəkilə baxıb çəkmək
+      Usage: photograph = fotoşəkil (rəsmi; gündəlik: photo)
+   5. Paint it yourself — Onu özün rənglə (çək)
+      Usage: yourself = özün
+   6. A painting by sb — Kiminsə çəkdiyi rəsm əsəri
+      Usage: "by" müəllifi bildirir: a painting by Sattar Bahlulzade
+   7. Paint over sth — Nəyinsə üstündən rəngləmək
+      Usage: Köhnə rəngi və ya şəkli örtmək üçün
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She painted a small boat on the ocean.
+      → O, okeanda kiçik bir qayıq çəkdi.
+   2. This is a painting by a famous artist.
+      → Bu, məşhur bir rəssamın çəkdiyi rəsm əsəridir.
+   3. We painted the kitchen white.
+      → Biz mətbəxi ağ rəngə boyadıq.
+
+E. USAGE EXPLANATION
+   PAINT düzgün feldir və iki mənası var: 1) boya ilə şəkil çəkmək (paint a mountain); 2) divarı,
+   qapını rəngləmək (paint the door blue). İsim kimi PAINT "boya" deməkdir (sayılmır), PAINTING isə
+   rəsm əsəri, tablodur (sayılır: a painting, two paintings). Rəsmin müəllifi "by" ilə göstərilir,
+   rəsmdə təsvir olunan isə "of" ilə: a painting OF the sea BY Aivazovsky.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): PAINT [main], painting [family], boat, mountain,
+      ocean, photograph
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (520 → 526 items).
+
+====================================================================================================
+LESSON A1-059   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: SING
+Azerbaijani: (Mahnı) oxumaq
+
+A. MAIN WORD
+   English spelling ....... sing
+   Azerbaijani meaning .... (mahnı) oxumaq
+   Part of speech ......... verb
+   Key forms .............. sing – sings – sang – sung – singing
+   British English IPA .... /sɪŋ/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ singer — müğənni
+   Verb forms ........ sing (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): song (A1-022, LISTEN); singing
+      (A2-030, ENJOY)
+
+C. RELATED EXPRESSIONS
+   1. Sing in a band — Musiqi qrupunda oxumaq
+      Usage: band = musiqi qrupu, ansambl
+   2. Sing in a bar — Barda oxumaq
+      Usage: bar = bar; həmçinin: a bar of chocolate = şokolad plitkası
+   3. An awesome singer — Möhtəşəm müğənni
+      Usage: awesome /ˈɔːsəm/ = möhtəşəm, əla (danışıq dilində)
+   4. Sing in a movie — Filmdə oxumaq
+      Usage: movie /ˈmuːvi/ = film, kino (Amerika ingiliscəsində; Britaniyada: film)
+   5. Sing along — (Mahnıya) qoşulub oxumaq
+      Usage: sing along to the radio
+   6. Sing to sb — Kiməsə (kimin üçünsə) oxumaq
+      Usage: sing to the baby = körpəyə layla oxumaq
+   7. Sing together — Birlikdə oxumaq
+      Usage: together = birlikdə
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She sings in a band at weekends.
+      → O, həftə sonları musiqi qrupunda oxuyur.
+   2. My favourite singer sang in that movie.
+      → Sevimli müğənnim o filmdə oxuyub.
+   3. Everybody knows this song, so sing along!
+      → Bu mahnını hamı bilir, qoşulub oxuyun!
+
+E. USAGE EXPLANATION
+   SING düzgün olmayan feldir: sing – sang – sung. Azərbaycan dilində "oxumaq" həm kitab, həm mahnı
+   üçün işlənir; ingilis dilində kitab üçün READ, mahnı üçün SING deyilir. "-ng" sonluğu /ŋ/ kimi
+   tələffüz olunur, "g" səsi eşidilmir: singer /ˈsɪŋə/. MOVIE Amerika, FILM Britaniya ingiliscəsində
+   daha çox işlənir; AWESOME danışıq dilində "əla, möhtəşəm" deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): SING [main], singer [family], band, bar, awesome,
+      movie
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (526 → 532 items).
+
+====================================================================================================
+LESSON A1-060   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: DANCE
+Azerbaijani: Rəqs etmək, oynamaq; rəqs
+
+A. MAIN WORD
+   English spelling ....... dance
+   Azerbaijani meaning .... rəqs etmək, oynamaq; rəqs
+   Part of speech ......... verb, noun
+   Key forms .............. dance – dances – danced – danced – dancing
+   British English IPA .... /dɑːns/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ dance (main word); dancer — rəqqas, rəqqasə
+   Verb forms ........ dance (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): dancing (A2-030, ENJOY)
+
+C. RELATED EXPRESSIONS
+   1. Dance at a festival — Festivalda rəqs etmək
+      Usage: festival = festival, bayram şənliyi
+   2. Dance for fun — Əylənmək üçün rəqs etmək
+      Usage: fun = əyləncə, zövq; for fun = əyləncə xatirinə
+   3. A fantastic dancer — Fantastik (əla) rəqqas
+      Usage: fantastic = çox yaxşı, əla
+   4. Dance with a girl — Qızla rəqs etmək
+      Usage: girl /ɡɜːl/ = qız
+   5. Dance together — Birlikdə rəqs etmək
+      Usage: together = birlikdə
+   6. A dance for two — İki nəfərlik rəqs
+      Usage: Burada "dance" isimdir
+   7. Dance with me — Mənimlə rəqs et
+      Usage: Dəvət: Would you like to dance with me?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. They danced at the festival all night.
+      → Onlar bütün gecəni festivalda rəqs etdilər.
+   2. I am not a good dancer; I only dance for fun.
+      → Mən yaxşı rəqqas deyiləm; yalnız əylənmək üçün rəqs edirəm.
+   3. Would you like to dance with me?
+      → Mənimlə rəqs etmək istərdinizmi?
+
+E. USAGE EXPLANATION
+   DANCE həm fel, həm isimdir: to dance = rəqs etmək, a dance = rəqs; rəqs gecəsi. Britaniya
+   tələffüzü /dɑːns/, Amerika tələffüzü /dæns/-dir. FUN sayılmayan isimdir: "It was fun" (əyləncəli
+   idi), "have fun" (əylənmək); sifət kimi FUNNY isə "gülməli" deməkdir – qarışdırmayın. DANCER həm
+   kişi, həm qadın üçün işlənir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): DANCE [main], dancer [family], festival, fun,
+      fantastic, girl
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (532 → 538 items).
+
+====================================================================================================
+LESSON A1-061   |   UNIT 10: School and the arts
+====================================================================================================
+MAIN WORD: INTRODUCE
+Azerbaijani: Tanış etmək, təqdim etmək
+
+A. MAIN WORD
+   English spelling ....... introduce
+   Azerbaijani meaning .... tanış etmək, təqdim etmək
+   Part of speech ......... verb
+   Key forms .............. introduce – introduces – introduced – introduced – introducing
+   British English IPA .... /ˌɪntrəˈdjuːs/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ introduce (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Introduce yourself — Özünü təqdim etmək
+      Usage: Let me introduce myself = İcazə verin, özümü təqdim edim
+   2. Introduce your boyfriend — Sevgilini (oğlan dostunu) tanış etmək
+      Usage: boyfriend = oğlan dostu, sevgili
+   3. Introduce your girlfriend — Sevgilini (qız dostunu) tanış etmək
+      Usage: girlfriend = qız dostu, sevgili
+   4. Introduce your grandparents — Baba və nənəni tanış etmək
+      Usage: grandparent = baba və ya nənə; cəmi: grandparents
+   5. Introduce a visitor — Qonağı (ziyarətçini) təqdim etmək
+      Usage: visitor = ziyarətçi, qonaq
+   6. Introduce tourists to sth — Turistləri nə iləsə tanış etmək
+      Usage: tourist /ˈtʊərɪst/ = turist
+   7. Introduce sb to sb — Kimisə kiminləsə tanış etmək
+      Usage: Sözönü "to"dur: introduce Ali to Leyla
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Let me introduce myself: my name is Kamran.
+      → İcazə verin, özümü təqdim edim: mənim adım Kamrandır.
+   2. She introduced her boyfriend to her grandparents.
+      → O, sevgilisini baba və nənəsi ilə tanış etdi.
+   3. The guide introduced the tourists to the old city.
+      → Bələdçi turistləri köhnə şəhərlə tanış etdi.
+
+E. USAGE EXPLANATION
+   INTRODUCE düzgün feldir; vurğu sonuncu hecadadır. Qəlib: introduce + kim + TO + kim. Tanışlıq
+   zamanı deyilir: "This is my friend Ali" – "Nice to meet you". Azərbaycan dilindəki "tanış olmaq"
+   ingiliscə "meet"dir (I met him in Baku), "tanış etmək" isə "introduce"dur. GRANDPARENTS baba və
+   nənə birlikdə deməkdir: grandfather + grandmother.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): INTRODUCE [main], boyfriend, girlfriend,
+      grandparent, visitor, tourist
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (538 → 544 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 10 (School and the arts)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: TEACH, SPELL, DESCRIBE, DRAW, PAINT, SING, DANCE, INTRODUCE
+   New items registered in this unit: 48   |   Database total after this unit: 544
+   awesome, band, bar, boat, boyfriend, chart, classroom, college, correct, cousin, cut, DANCE,
+   dancer, DESCRIBE, description, DRAW, fantastic, festival, fill, fun, geography, girl, girlfriend,
+   grandparent, include, INTRODUCE, line, lion, mountain, movie, neighbourhood, object, ocean,
+   PAINT, painting, pencil, photograph, quick, science, section, SING, singer, SPELL, spelling,
+   TEACH, teacher, tourist, visitor
+
+
+####################################################################################################
+#  UNIT 11 — PLACES, ANIMALS AND PEOPLE
+#  Yerlər, heyvanlar və insanlar
+####################################################################################################
+
+====================================================================================================
+LESSON A1-062   |   UNIT 11: Places, animals and people
+====================================================================================================
+MAIN WORD: BUILD
+Azerbaijani: Tikmək, inşa etmək; qurmaq
+
+A. MAIN WORD
+   English spelling ....... build
+   Azerbaijani meaning .... tikmək, inşa etmək; qurmaq
+   Part of speech ......... verb
+   Key forms .............. build – builds – built – built – building
+   British English IPA .... /bɪld/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ build (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): building (A1-037, OLD)
+
+C. RELATED EXPRESSIONS
+   1. Build a machine — Maşın (mexanizm) düzəltmək
+      Usage: machine /məˈʃiːn/ = maşın, dəzgah, mexanizm (avtomobil yox)
+   2. Build a library — Kitabxana tikmək
+      Usage: library /ˈlaɪbrəri/ = kitabxana
+   3. Build a mall — Ticarət mərkəzi tikmək
+      Usage: mall /mɔːl/ = böyük ticarət mərkəzi (əsasən Amerika ingiliscəsində)
+   4. Build apartments — Mənzillər tikmək
+      Usage: apartment = mənzil (Amerika ingiliscəsində; Britaniyada: flat)
+   5. Build a pool — Hovuz tikmək
+      Usage: pool = hovuz; a swimming pool = üzgüçülük hovuzu
+   6. Build on sth — Nəyinsə üzərində qurmaq; nəyəsə əsaslanmaq
+      Usage: build on your success
+   7. Build up — Tədricən artırmaq, möhkəmləndirmək
+      Usage: Frazeoloji fel: build up your English
+
+D. NATURAL EXAMPLE SENTENCES
+   1. They are building a new library near our school.
+      → Onlar məktəbimizin yanında yeni kitabxana tikirlər.
+   2. The city wants to build more apartments.
+      → Şəhər daha çox mənzil tikmək istəyir.
+   3. This house was built in 1950.
+      → Bu ev 1950-ci ildə tikilib.
+
+E. USAGE EXPLANATION
+   BUILD düzgün olmayan feldir: build – built – built. "u" hərfi oxunmur: /bɪld/. Ev, körpü, yol
+   kimi böyük şeylər üçün işlənir; kiçik şeylər üçün MAKE deyilir. Məchul formada çox rast gəlinir:
+   The bridge was built in 2010. İsmi BUILDING (bina) ayrıca sözdür. Diqqət: MACHINE avtomobil
+   deyil, hər hansı mexanizm və ya dəzgahdır (a washing machine = paltaryuyan maşın); avtomobil
+   CAR-dır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): BUILD [main], machine, library, mall, apartment,
+      pool
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (544 → 550 items).
+
+====================================================================================================
+LESSON A1-063   |   UNIT 11: Places, animals and people
+====================================================================================================
+MAIN WORD: RIDE
+Azerbaijani: (At, velosiped) sürmək, minmək; gəzinti
+
+A. MAIN WORD
+   English spelling ....... ride
+   Azerbaijani meaning .... (at, velosiped) sürmək, minmək; gəzinti
+   Part of speech ......... verb, noun
+   Key forms .............. ride – rides – rode – ridden – riding
+   British English IPA .... /raɪd/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ ride (main word)
+   Verb forms ........ ride (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Ride a bicycle — Velosiped sürmək
+      Usage: bicycle /ˈbaɪsɪkəl/ = velosiped (qısa: bike)
+   2. Ride a horse — At sürmək, ata minmək
+      Usage: horse = at
+   3. Ride an elephant — Filə minmək
+      Usage: elephant /ˈelɪfənt/ = fil
+   4. Ride to the beach — Çimərliyə (velosipedlə, atla) getmək
+      Usage: beach /biːtʃ/ = çimərlik, dəniz sahili
+   5. Ride in a truck — Yük maşınında getmək
+      Usage: truck = yük maşını (Amerika ingiliscəsində; Britaniyada: lorry)
+   6. Ride away — (Minib) uzaqlaşmaq
+      Usage: away = uzağa
+   7. Ride with me — Mənimlə get (eyni nəqliyyatda)
+      Usage: Dəvət edərkən
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Can you ride a bicycle?
+      → Sən velosiped sürə bilirsən?
+   2. We rode to the beach in the morning.
+      → Biz səhər çimərliyə velosipedlə getdik.
+   3. The children want to ride an elephant at the zoo.
+      → Uşaqlar zooparkda filə minmək istəyirlər.
+
+E. USAGE EXPLANATION
+   RIDE düzgün olmayan feldir: ride – rode – ridden. Üstünə oturulan nəqliyyat və heyvanlar üçün
+   işlənir: ride a bicycle / a horse / a motorbike. Avtomobil, avtobus kimi nəqliyyatı idarə etmək
+   isə DRIVE-dır: drive a car. Sərnişin kimi getmək "ride in a car / on a bus" şəklində deyilir.
+   İsim kimi: go for a ride = gəzintiyə çıxmaq (at və ya velosipedlə); give sb a ride = kimisə
+   maşınla aparmaq (Amerika ingiliscəsində).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): RIDE [main], bicycle, horse, elephant, beach, truck
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (550 → 556 items).
+
+====================================================================================================
+LESSON A1-064   |   UNIT 11: Places, animals and people
+====================================================================================================
+MAIN WORD: FLY
+Azerbaijani: Uçmaq; təyyarə ilə getmək
+
+A. MAIN WORD
+   English spelling ....... fly
+   Azerbaijani meaning .... uçmaq; təyyarə ilə getmək
+   Part of speech ......... verb
+   Key forms .............. fly – flies – flew – flown – flying
+   British English IPA .... /flaɪ/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ fly (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): flight (A2-005, CATCH)
+
+C. RELATED EXPRESSIONS
+   1. In the north — Şimalda  [related]
+      Usage: north = şimal; the north of the country = ölkənin şimalı
+   2. Fly south — Cənuba uçmaq
+      Usage: south /saʊθ/ = cənub; istiqamət zərfi kimi sözönüsüz işlənir
+   3. Fly east — Şərqə uçmaq
+      Usage: east = şərq
+   4. Fly west — Qərbə uçmaq
+      Usage: west = qərb
+   5. Fly to an island — Adaya uçmaq
+      Usage: island /ˈaɪlənd/ = ada ("s" hərfi oxunmur)
+   6. Fly into space — Kosmosa uçmaq
+      Usage: space = kosmos; həmçinin: boş yer
+   7. Fly away — Uçub getmək
+      Usage: Quşlar haqqında: The bird flew away
+   8. Fly over sth — Nəyinsə üzərindən uçmaq
+      Usage: fly over the mountains
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Many birds fly south in autumn.
+      → Bir çox quş payızda cənuba uçur.
+   2. We flew to a small island in the west of the country.
+      → Biz ölkənin qərbindəki kiçik bir adaya uçduq.
+   3. Quba is in the north of Azerbaijan.
+      → Quba Azərbaycanın şimalındadır.
+   4. One day people will fly into space for a holiday.
+      → Bir gün insanlar tətil üçün kosmosa uçacaqlar.
+
+E. USAGE EXPLANATION
+   FLY düzgün olmayan feldir: fly – flew /fluː/ – flown. Həm quşlar və təyyarələr (uçmaq), həm də
+   sərnişinlər üçün (təyyarə ilə getmək) işlənir: I flew to London. Dörd cəhət: NORTH (şimal), SOUTH
+   (cənub), EAST (şərq), WEST (qərb). Onlar isim (in the north), sifət (the north coast) və zərf
+   (fly north) ola bilər. "In the north of" ölkənin daxilində, "to the north of" isə ondan kənarda,
+   şimal tərəfdə deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): FLY [main], north, south, east, west, island, space
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (556 → 563 items).
+
+====================================================================================================
+LESSON A1-065   |   UNIT 11: Places, animals and people
+====================================================================================================
+MAIN WORD: FARM
+Azerbaijani: Ferma, təsərrüfat
+
+A. MAIN WORD
+   English spelling ....... farm
+   Azerbaijani meaning .... ferma, təsərrüfat
+   Part of speech ......... noun
+   Key forms .............. farm – farms
+   British English IPA .... /fɑːm/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ farm (main word); farmer — fermer
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. A sheep farm — Qoyunçuluq ferması
+      Usage: sheep = qoyun; cəmi də "sheep"dir: one sheep, ten sheep
+   2. A pig farmer — Donuzçuluqla məşğul olan fermer
+      Usage: pig = donuz
+   3. Cows on a farm — Fermadakı inəklər
+      Usage: cow /kaʊ/ = inək
+   4. A farm by the river — Çay kənarındakı ferma
+      Usage: river = çay (axar su); by = yanında, kənarında
+   5. A farm near here — Buraya yaxın bir ferma
+      Usage: near here = bu yaxınlıqda
+   6. Be a farmer — Fermer olmaq
+      Usage: Peşə adından əvvəl artikl: He is a farmer
+   7. From the farm — Fermadan
+      Usage: fresh milk from the farm = fermadan təzə süd
+
+D. NATURAL EXAMPLE SENTENCES
+   1. My uncle has a sheep farm in Shamakhi.
+      → Əmimin Şamaxıda qoyunçuluq ferması var.
+   2. There are forty cows on the farm.
+      → Fermada qırx inək var.
+   3. We buy fresh eggs from a farm by the river.
+      → Biz təzə yumurtanı çay kənarındakı fermadan alırıq.
+
+E. USAGE EXPLANATION
+   FARM heyvan saxlanan və ya məhsul yetişdirilən təsərrüfatdır. Sözönü ON-dur: live ON a farm, work
+   ON a farm ("in a farm" səhvdir). Orada işləyən şəxs FARMER-dir. Ferma heyvanları: COW (inək),
+   SHEEP (qoyun), PIG (donuz), horse (at). SHEEP sözünün cəmi dəyişmir: two sheep ("sheeps" yoxdur).
+   RIVER axar sudur (the Kura river); Azərbaycan dilindəki içməli "çay" isə TEA-dır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): FARM [main], farmer [family], sheep, pig, cow,
+      river
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (563 → 569 items).
+
+====================================================================================================
+LESSON A1-066   |   UNIT 11: Places, animals and people
+====================================================================================================
+MAIN WORD: AFRAID
+Azerbaijani: Qorxan; təəssüf ki
+
+A. MAIN WORD
+   English spelling ....... afraid
+   Azerbaijani meaning .... qorxan; təəssüf ki
+   Part of speech ......... adjective
+   British English IPA .... /əˈfreɪd/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ —
+   Adjective forms ... afraid (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Afraid of sb/sth — Kimdənsə / nədənsə qorxan
+      Usage: Sözönü "of"dur: afraid of the dark
+   2. Afraid of snakes — İlanlardan qorxan
+      Usage: snake = ilan
+   3. Afraid to die — Ölməkdən qorxan
+      Usage: die = ölmək; -ing forması: dying
+   4. Afraid of anything dangerous — Təhlükəli hər şeydən qorxan
+      Usage: dangerous /ˈdeɪndʒərəs/ = təhlükəli
+   5. Bored or excited — Darıxmış, yoxsa həyəcanlı  [related]
+      Usage: bored = darıxmış, canı sıxılmış; excited = həyəcanlı, sevincək
+   6. I'm afraid so — Təəssüf ki, elədir
+      Usage: Pis xəbəri nəzakətlə təsdiqləmək üçün
+   7. I'm afraid not — Təəssüf ki, yox
+      Usage: Nəzakətli inkar
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Are you afraid of snakes?
+      → Sən ilanlardan qorxursan?
+   2. I'm afraid I can't come tomorrow.
+      → Təəssüf ki, sabah gələ bilməyəcəyəm.
+   3. The children were excited, not bored.
+      → Uşaqlar darıxmırdılar, əksinə, həyəcanlı idilər.
+
+E. USAGE EXPLANATION
+   AFRAID sifətdir və həmişə BE feli ilə işlənir: I am afraid ("I afraid" səhvdir); ismin qarşısında
+   işlənmir ("an afraid child" deyilmir – "a frightened child"). Nədən qorxduğunu OF bildirir:
+   afraid of dogs. "I'm afraid ..." həm də "təəssüf ki" mənasında nəzakətli ifadədir. Hiss bildirən
+   sifətlərdə -ED insanın hissini (bored = darıxmış, excited = həyəcanlı), -ING isə səbəbi bildirir
+   (boring = darıxdırıcı, exciting = həyəcanlandıran).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): AFRAID [main], snake, die, dangerous, bored,
+      excited
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (569 → 575 items).
+
+====================================================================================================
+LESSON A1-067   |   UNIT 11: Places, animals and people
+====================================================================================================
+MAIN WORD: MONTH
+Azerbaijani: Ay (təqvim ayı)
+
+A. MAIN WORD
+   English spelling ....... month
+   Azerbaijani meaning .... ay (təqvim ayı)
+   Part of speech ......... noun
+   Key forms .............. month – months
+   British English IPA .... /mʌnθ/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ month (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. The past month — Ötən ay; son bir ay
+      Usage: past = keçmiş, ötən; half past two = üçün yarısı
+   2. The first quarter — Birinci rüb  [related]
+      Usage: quarter /ˈkwɔːtə/ = dörddə bir, rüb; a quarter past two = üçə on beş dəqiqə işləmiş
+   3. A month's vacation — Bir aylıq məzuniyyət
+      Usage: vacation = məzuniyyət, tətil (Amerika ingiliscəsində; Britaniyada: holiday)
+   4. A slow month — Sakit (işlərin zəif getdiyi) ay
+      Usage: slow = yavaş, ləng; əksi: fast, quick
+   5. A cool month — Sərin ay
+      Usage: cool = sərin; danışıq dilində: əla, qəşəng
+   6. Once a month — Ayda bir dəfə
+      Usage: once / twice a month = ayda bir / iki dəfə
+   7. A month ago — Bir ay əvvəl
+      Usage: "ago" keçmiş zamanla işlənir
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There are twelve months in a year.
+      → Bir ildə on iki ay var.
+   2. I visit my grandparents once a month.
+      → Mən ayda bir dəfə baba və nənəmə baş çəkirəm.
+   3. October is a cool month in Baku.
+      → Oktyabr Bakıda sərin aydır.
+
+E. USAGE EXPLANATION
+   MONTH təqvim ayıdır; göydəki ay isə MOON-dur – Azərbaycan dilində hər ikisi "ay"dır, ingilis
+   dilində isə fərqli sözlərdir. Sonluğu /nθ/ kimi tələffüz olunur: month /mʌnθ/, months /mʌnθs/. Ay
+   adları böyük hərflə yazılır və "in" ilə işlənir: in May. "This / last / next month" ifadələrində
+   sözönü işlənmir. QUARTER dörddə bir deməkdir: ilin rübü (üç ay), saatın on beş dəqiqəsi.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): MONTH [main], past, quarter, vacation, slow, cool
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (575 → 581 items).
+
+====================================================================================================
+LESSON A1-068   |   UNIT 11: Places, animals and people
+====================================================================================================
+MAIN WORD: BOY
+Azerbaijani: Oğlan (uşaq)
+
+A. MAIN WORD
+   English spelling ....... boy
+   Azerbaijani meaning .... oğlan (uşaq)
+   Part of speech ......... noun
+   Key forms .............. boy – boys
+   British English IPA .... /bɔɪ/
+   CEFR level ............. A1 (Beginner)
+
+B. WORD FAMILY
+   Noun forms ........ boy (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. A smart boy — Ağıllı oğlan
+      Usage: smart = ağıllı, zirək; Britaniyada həm də: səliqəli geyinmiş
+   2. A blond boy — Sarışın oğlan
+      Usage: blond = sarışın (saç haqqında); qadınlar üçün "blonde" də yazılır
+   3. A dear little boy — Əziz (sevimli) balaca oğlan
+      Usage: dear = əziz; məktubun əvvəlində: Dear Ali, ...
+   4. Boys in the yard — Həyətdəki oğlanlar
+      Usage: yard = həyət; həmçinin uzunluq vahidi (91 sm)
+   5. A boy is born — Oğlan uşağı doğulur
+      Usage: be born = doğulmaq: I was born in 2005
+   6. One of the boys — Oğlanlardan biri
+      Usage: one of + the + cəm isim
+   7. The boy over there — Oradakı oğlan
+      Usage: over there = orada, o tərəfdə
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The boys are playing football in the yard.
+      → Oğlanlar həyətdə futbol oynayırlar.
+   2. He is a smart boy and learns fast.
+      → O, ağıllı oğlandır və tez öyrənir.
+   3. I was born in Baku in 2008.
+      → Mən 2008-ci ildə Bakıda doğulmuşam.
+
+E. USAGE EXPLANATION
+   BOY oğlan uşağı və ya gəncdir; qız uşağı GIRL-dür. Diqqət: Azərbaycan dilindəki "oğul" mənasında
+   SON işlənir (my son = oğlum), BOY isə ümumiyyətlə oğlan uşağıdır. BE BORN həmişə keçmiş zamanda
+   işlənir: "I was born in ..." ("I born" və ya "I am born" səhvdir). DEAR məktub və e-poçtda
+   müraciət sözüdür: Dear Mr Aliyev. SMART Amerikada "ağıllı", Britaniyada daha çox "səliqəli,
+   qəşəng geyinmiş" deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): BOY [main], smart, blond, dear, yard, born
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (581 → 587 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 11 (Places, animals and people)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: BUILD, RIDE, FLY, FARM, AFRAID, MONTH, BOY
+   New items registered in this unit: 43   |   Database total after this unit: 587
+   AFRAID, apartment, beach, bicycle, blond, bored, born, BOY, BUILD, cool, cow, dangerous, dear,
+   die, east, elephant, excited, FARM, farmer, FLY, horse, island, library, machine, mall, MONTH,
+   north, past, pig, pool, quarter, RIDE, river, sheep, slow, smart, snake, south, space, truck,
+   vacation, west, yard
+
+
+####################################################################################################
+#  UNIT 12 — FIXED PHRASES: QUANTITY, PLACE AND TIME
+#  Sabit ifadələr: miqdar, yer və zaman
+####################################################################################################
+
+====================================================================================================
+LESSON A1-069   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: QUANTITY: HOW MUCH AND HOW MANY
+Azerbaijani: Miqdar: nə qədər və neçə
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. a few — bir neçə, bir az (sayılan isimlərlə)
+      Usage: a few + cəm isim: a few minutes, a few times, a few years
+   2. a little — bir az, azca (sayılmayan isimlərlə)
+      Usage: a little + sayılmayan isim: a little help, a little money, a little sugar
+   3. a lot — çox, xeyli
+      Usage: Felin ardınca gəlir: I read a lot; a lot to do = görüləsi çox iş
+   4. lots of… — çoxlu, xeyli (danışıq dilində)
+      Usage: "a lot of" ilə eyni mənada: lots of friends, lots of time
+   5. How many…? — Neçə ...? Nə qədər ...? (sayılan isimlərlə)
+      Usage: How many + cəm isim: How many books do you have?
+   6. How much…? — Nə qədər ...? (sayılmayan isimlərlə); Neçəyədir?
+      Usage: How much water? How much is it? = Bu neçəyədir?
+
+B. NATURAL EXAMPLE SENTENCES
+   1. I have a few friends in Ganja.
+      → Gəncədə bir neçə dostum var.
+   2. How much sugar do you want? — Just a little, please.
+      → Nə qədər şəkər istəyirsən? — Azca, zəhmət olmasa.
+   3. She has lots of books and reads a lot.
+      → Onun çoxlu kitabı var və o, çox oxuyur.
+
+C. USAGE EXPLANATION
+   Sayılan isimlərlə A FEW və HOW MANY (a few apples, How many apples?), sayılmayan isimlərlə A
+   LITTLE və HOW MUCH işlənir (a little milk, How much milk?). A LOT OF və LOTS OF hər iki növ
+   isimlə işlənir. A LOT isimsiz, felin ardınca gəlir: Thanks a lot. Diqqət: artiklsiz "few" və
+   "little" mənfi çalar daşıyır – "az, demək olar ki, yox": I have few friends = Dostum azdır.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): a few; a little; a lot; lots of…; How many…?; How
+      much…?
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (6 phrases in the database).
+
+====================================================================================================
+LESSON A1-070   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: MORE THAN, SUCH AS, BECAUSE OF
+Azerbaijani: Müqayisə, nümunə və səbəb
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. more than… — ...-dan çox, ...-dan artıq
+      Usage: more than + say / isim: more than ten people
+   2. millions of… — milyonlarla ...
+      Usage: Dəqiq olmayan böyük say; "of" ilə: millions of people
+   3. thousands of… — minlərlə ...
+      Usage: thousands of + cəm isim; dəqiq sayla "-s" yoxdur: two thousand
+   4. such as — məsələn, ... kimi
+      Usage: Nümunə sadalamaq üçün: fruit such as apples and bananas
+   5. for example — məsələn
+      Usage: Cümlənin əvvəlində, ortasında və ya sonunda gələ bilər; yazıda qısaltması: e.g.
+   6. because of — ...-ə görə, ... səbəbindən
+      Usage: because of + isim: because of the rain; "because" isə + cümlə
+
+B. NATURAL EXAMPLE SENTENCES
+   1. More than two million people live in Baku.
+      → Bakıda iki milyondan çox insan yaşayır.
+   2. Thousands of tourists visit the old city every year.
+      → Hər il minlərlə turist köhnə şəhəri ziyarət edir.
+   3. We stayed at home because of the rain.
+      → Biz yağışa görə evdə qaldıq.
+   4. I like sports such as football and tennis.
+      → Mən futbol və tennis kimi idman növlərini xoşlayıram.
+
+C. USAGE EXPLANATION
+   Dəqiq sayla "hundred, thousand, million" sözləri cəm şəkilçisi qəbul etmir: two thousand people,
+   five million. Qeyri-müəyyən böyük miqdar bildirəndə isə cəmdə və "of" ilə işlənir: thousands of
+   people = minlərlə insan. SUCH AS birbaşa isimdən əvvəl gəlir; FOR EXAMPLE isə adətən vergüllə
+   ayrılır. BECAUSE OF isimdən əvvəl (because of the weather), BECAUSE isə bütöv cümlədən əvvəl
+   işlənir (because the weather was bad).
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): more than…; millions of…; thousands of…; such as;
+      for example; because of
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (12 phrases in the database).
+
+====================================================================================================
+LESSON A1-071   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: AT HOME, AT SCHOOL, IN BED
+Azerbaijani: Evdə, məktəbdə, yataqda
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. at home — evdə
+      Usage: Artiklsiz: stay at home; hərəkət felləri ilə sözönü işlənmir: go home
+   2. at school — məktəbdə (dərsdə)
+      Usage: Şagird kimi dərsdə olmaq: The children are at school
+   3. in school — məktəbdə (oxuyur)
+      Usage: Əsasən Amerika ingiliscəsində: She is still in school = O hələ məktəbdə oxuyur
+   4. in bed — yataqda
+      Usage: Artiklsiz: stay in bed = yataqda qalmaq
+   5. in the street — küçədə
+      Usage: Britaniyada "in the street", Amerikada "on the street"
+   6. in the country — kənddə, şəhərdən kənarda; ölkədə
+      Usage: I live in the country = Mən kənddə yaşayıram; the best ... in the country = ölkədə ən
+             yaxşı ...
+
+B. NATURAL EXAMPLE SENTENCES
+   1. Is your father at home? — No, he is at work.
+      → Atan evdədir? — Xeyr, o, işdədir.
+   2. The children are playing in the street.
+      → Uşaqlar küçədə oynayırlar.
+   3. She was ill and stayed in bed all day.
+      → O, xəstə idi və bütün günü yataqda qaldı.
+
+C. USAGE EXPLANATION
+   Bəzi yer ifadələrində artikl işlənmir, çünki yerin özü yox, onun təyinatı nəzərdə tutulur: at
+   home, at school, at work, in bed. Müqayisə edin: "He is in bed" (yatır) – "The book is on the
+   bed" (çarpayının üstündədir). AT HOME vəziyyəti bildirir (I am at home); hərəkət bildirəndə
+   sözönü işlənmir: go home, come home. IN THE COUNTRY iki mənalıdır: "kənddə, şəhərdən kənarda" və
+   "ölkədə".
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): at home; at school; in school; in bed; in the
+      street; in the country
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (18 phrases in the database).
+
+====================================================================================================
+LESSON A1-072   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: PLACES IN TOWN AND BEYOND
+Azerbaijani: Şəhərdə və ondan kənarda
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. in the centre — mərkəzdə
+      Usage: in the centre of sth = nəyinsə mərkəzində; Amerika yazılışı: center
+   2. town centre — şəhərin mərkəzi
+      Usage: in the town centre, in the city centre = şəhərin mərkəzində
+   3. car park — avtomobil dayanacağı
+      Usage: Britaniya ingiliscəsində; Amerikada: parking lot
+   4. swimming pool — üzgüçülük hovuzu
+      Usage: go to the swimming pool = hovuza getmək
+   5. on the beach — çimərlikdə
+      Usage: Sözönü "on"dur: lie on the beach = çimərlikdə uzanmaq
+   6. in space — kosmosda
+      Usage: Artiklsiz: the first man in space = kosmosda ilk insan
+
+B. NATURAL EXAMPLE SENTENCES
+   1. Our hotel is in the town centre, next to a big car park.
+      → Mehmanxanamız şəhərin mərkəzində, böyük bir dayanacağın yanındadır.
+   2. We spent the whole day on the beach.
+      → Biz bütün günü çimərlikdə keçirdik.
+   3. There is a swimming pool in the centre of the park.
+      → Parkın mərkəzində üzgüçülük hovuzu var.
+
+C. USAGE EXPLANATION
+   Yer bildirən sözönülər: IN – bir məkanın içində (in the centre, in space, in the park); ON – səth
+   üzərində (on the beach, on the floor); AT – nöqtə kimi götürülən yer (at the station, at school).
+   TOWN CENTRE və CAR PARK kimi "isim + isim" birləşmələrində birinci isim sifət rolunu oynayır və
+   cəm şəkilçisini yalnız ikinci isim qəbul edir: car parks. Britaniya yazılışı CENTRE, Amerika
+   yazılışı CENTER-dir.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): in the centre; town centre; car park; swimming pool;
+      on the beach; in space
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (24 phrases in the database).
+
+====================================================================================================
+LESSON A1-073   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: POSITION: NEXT TO, AT THE END
+Azerbaijani: Mövqe: yanında, sonunda
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. next to — yanında, bitişik
+      Usage: next to the bank = bankın yanında; "near" sözündən daha yaxın
+   2. away from sb/sth — kimdənsə / nədənsə uzaqda, uzağa
+      Usage: Stay away from the dog = İtdən uzaq dur
+   3. on the floor — döşəmədə, yerdə
+      Usage: Otağın içində: sit on the floor; bayırda isə: on the ground
+   4. at the end — sonda, axırda
+      Usage: Yer və ya zaman: The shop is at the end; at the end, everybody was happy
+   5. at the end of sth — nəyinsə sonunda
+      Usage: at the end of the street / the month / the lesson
+   6. at the beginning of sth — nəyinsə əvvəlində
+      Usage: at the beginning of the lesson = dərsin əvvəlində
+
+B. NATURAL EXAMPLE SENTENCES
+   1. Come and sit next to me.
+      → Gəl, mənim yanımda otur.
+   2. The shop is at the end of the street.
+      → Mağaza küçənin sonundadır.
+   3. The children are sitting on the floor.
+      → Uşaqlar döşəmədə oturublar.
+
+C. USAGE EXPLANATION
+   NEXT TO "lap yanında" deməkdir: The bank is next to the post office. AT THE END (OF) və AT THE
+   BEGINNING (OF) bir şeyin son və ya ilk hissəsini bildirir – həm yer (at the end of the street),
+   həm də zaman üçün (at the beginning of May). Qarışdırmayın: "in the end" = nəhayət, axırda; "in
+   the beginning" = əvvəlcə, ilk vaxtlar. FLOOR otağın döşəməsidir; bayırda "yer" GROUND-dur. AWAY
+   FROM uzaqlaşmanı bildirir: Keep away from the fire.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): next to; away from sb/sth; on the floor; at the end;
+      at the end of sth; at the beginning of sth
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (30 phrases in the database).
+
+====================================================================================================
+LESSON A1-074   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: MORNINGS, DAYS AND SEASONS
+Azerbaijani: Səhər, günlər və fəsillər
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. in the morning — səhər (vaxtı)
+      Usage: Günün hissələri "in the" ilə: in the afternoon, in the evening; lakin: at night
+   2. this morning — bu səhər
+      Usage: "this" ilə sözönü işlənmir: this afternoon, this evening
+   3. in April — apreldə
+      Usage: Aylar "in" ilə: in July; ay adları böyük hərflə yazılır
+   4. on Monday — bazar ertəsi (günü)
+      Usage: Günlər "on" ilə: on Tuesday, on Friday
+   5. in summer — yayda
+      Usage: Fəsillər "in" ilə: in winter, in spring
+   6. in the summer — yayda (konkret bir yay və ya hər yay)
+      Usage: "the" ilə də işlənir: in the winter
+
+B. NATURAL EXAMPLE SENTENCES
+   1. I get up at seven in the morning.
+      → Mən səhər saat yeddidə dururam.
+   2. My birthday is in April.
+      → Mənim ad günüm apreldədir.
+   3. We have English on Monday and Thursday.
+      → Bizim bazar ertəsi və cümə axşamı ingilis dili dərsimiz var.
+   4. In summer we often go to the beach.
+      → Yayda biz tez-tez çimərliyə gedirik.
+
+C. USAGE EXPLANATION
+   Zaman sözönüləri: IN – aylar, fəsillər, illər və günün hissələri ilə (in April, in summer, in
+   2020, in the morning); ON – günlər və tarixlərlə (on Monday, on 5 May); AT – saat və "night" ilə
+   (at seven o'clock, at night). THIS, LAST, NEXT, EVERY sözləri ilə sözönü işlənmir: this morning,
+   last week, next year, every day ("in this morning" səhvdir). Günlərin və ayların adları həmişə
+   böyük hərflə yazılır.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): in the morning; this morning; in April; on Monday;
+      in summer; in the summer
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (36 phrases in the database).
+
+====================================================================================================
+LESSON A1-075   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: YEARS
+Azerbaijani: İllər
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. last year — keçən il
+      Usage: Sözönüsüz; həmçinin: last month, last week, last summer
+   2. next year — gələn il
+      Usage: Sözönüsüz; həmçinin: next month, next week
+   3. this year — bu il
+      Usage: Sözönüsüz; həmçinin: this summer, this weekend
+   4. for many years — uzun illər (ərzində)
+      Usage: for + müddət: for two hours, for a week
+   5. X years ago — X il əvvəl
+      Usage: X yerinə say qoyulur: two years ago, three days ago; fel keçmiş zamanda olur
+   6. X years later — X il sonra
+      Usage: Hekayədə: two years later, ten minutes later
+
+B. NATURAL EXAMPLE SENTENCES
+   1. We went to Turkey last year.
+      → Biz keçən il Türkiyəyə getdik.
+   2. She lived in Sumgait for many years.
+      → O, uzun illər Sumqayıtda yaşayıb.
+   3. I started school ten years ago.
+      → Mən məktəbə on il əvvəl getmişəm.
+
+C. USAGE EXPLANATION
+   LAST, NEXT, THIS ilə zaman ifadələrində nə sözönü, nə də artikl işlənir: last year, next week.
+   AGO indiki andan geriyə sayır və həmişə müddətdən sonra gəlir: two years ago; fel sadə keçmiş
+   zamanda olur (I saw him two days ago). LATER keçmişdəki bir andan sonranı bildirir: Two years
+   later he came back. FOR hərəkətin nə qədər davam etdiyini göstərir: for many years, for a long
+   time.
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): last year; next year; this year; for many years; X
+      years ago; X years later
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (42 phrases in the database).
+
+====================================================================================================
+LESSON A1-076   |   UNIT 12: Fixed phrases: quantity, place and time
+====================================================================================================
+FIXED PHRASES: MOMENTS IN TIME
+Azerbaijani: Zaman anları
+
+A. FIXED PHRASES OF THIS LESSON (6)
+   1. that day — o gün
+      Usage: Keçmişdəki konkret gün haqqında; sözönüsüz işlənir
+   2. the next day — ertəsi gün, səhəri gün
+      Usage: Keçmişdən danışarkən; indiki andan sonrakı gün isə "tomorrow"dur
+   3. this time — bu dəfə
+      Usage: this time, next time, last time = bu dəfə, gələn dəfə, keçən dəfə
+   4. for the first time — ilk dəfə (olaraq)
+      Usage: for the first time in my life = həyatımda ilk dəfə
+   5. in the past — keçmişdə, əvvəllər
+      Usage: Əksi: in the future = gələcəkdə
+   6. It takes… — ... vaxt aparır, ... çəkir
+      Usage: It takes an hour to get there = Oraya çatmaq bir saat çəkir
+
+B. NATURAL EXAMPLE SENTENCES
+   1. I saw the sea for the first time when I was five.
+      → Mən dənizi ilk dəfə beş yaşımda görmüşəm.
+   2. We arrived late, and the next day we slept until ten.
+      → Biz gec çatdıq və ertəsi gün ona qədər yatdıq.
+   3. It takes twenty minutes to walk to school.
+      → Məktəbə piyada getmək iyirmi dəqiqə çəkir.
+
+C. USAGE EXPLANATION
+   TIME iki mənalıdır: "vaxt" (sayılmır: I have no time) və "dəfə" (sayılır: this time, three times,
+   for the first time). THE NEXT DAY keçmişdəki bir günün səhərisidir; indiki andan sonrakı gün
+   TOMORROW-dur. IN THE PAST ilə adətən sadə keçmiş zaman işlənir: In the past people walked more.
+   IT TAKES + müddət + TO + fel bir işin nə qədər vaxt apardığını bildirir; sualı: How long does it
+   take?
+
+DATABASE UPDATE
+   Fixed phrases registered in this lesson (6): that day; the next day; this time; for the first
+      time; in the past; It takes…
+   Duplicate check: PASSED — every word inside these phrases was taught earlier; each phrase is
+      registered once and appears in no other lesson (48 phrases in the database).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 12 (Fixed phrases: quantity, place and time)
+----------------------------------------------------------------------------------------------------
+   Fixed-phrase lessons in this unit: Quantity: how much and how many; More than, such as, because
+      of; At home, at school, in bed; Places in town and beyond; Position: next to, at the end;
+      Mornings, days and seasons; Years; Moments in time
+   Fixed phrases registered in this unit: 48   |   Phrases in the database after this unit: 48
+   a few; a little; a lot; lots of…; How many…?; How much…?; more than…; millions of…; thousands
+   of…; such as; for example; because of; at home; at school; in school; in bed; in the street; in
+   the country; in the centre; town centre; car park; swimming pool; on the beach; in space; next
+   to; away from sb/sth; on the floor; at the end; at the end of sth; at the beginning of sth; in
+   the morning; this morning; in April; on Monday; in summer; in the summer; last year; next year;
+   this year; for many years; X years ago; X years later; that day; the next day; this time; for the
+   first time; in the past; It takes…

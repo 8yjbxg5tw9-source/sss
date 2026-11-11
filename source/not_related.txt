@@ -89,3 +89,12 @@ invoice | voice
 iron | irony
 tide | tidy
 verse | version
+// Reviewed on 2026-11-11 (A1 expansion)
+dear | dearth
+happen | happy
+let | letter
+missing | sing
+store | story
+wait | waiter
+object | objection
+object | objectively

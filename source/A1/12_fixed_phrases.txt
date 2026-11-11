@@ -1,0 +1,199 @@
+// A1 fixed-phrase lessons (Oxford Phrase List, A1).  Every phrase is built from words taught earlier in A1.
+## Fixed phrases: quantity, place and time | Sabit ifadələr: miqdar, yer və zaman
+@@ Quantity: how much and how many | Miqdar: nə qədər və neçə
++ a few = bir neçə, bir az (sayılan isimlərlə) :: a few + cəm isim: a few minutes, a few times, a few years
++ a little = bir az, azca (sayılmayan isimlərlə) :: a little + sayılmayan isim: a little help, a little money, a little sugar
++ a lot = çox, xeyli :: Felin ardınca gəlir: I read a lot; a lot to do = görüləsi çox iş
++ lots of… = çoxlu, xeyli (danışıq dilində) :: "a lot of" ilə eyni mənada: lots of friends, lots of time
++ How many…? = Neçə ...? Nə qədər ...? (sayılan isimlərlə) :: How many + cəm isim: How many books do you have?
++ How much…? = Nə qədər ...? (sayılmayan isimlərlə); Neçəyədir? :: How much water? How much is it? = Bu neçəyədir?
+> I have a few friends in Ganja. = Gəncədə bir neçə dostum var.
+> How much sugar do you want? — Just a little, please. = Nə qədər şəkər istəyirsən? — Azca, zəhmət olmasa.
+> She has lots of books and reads a lot. = Onun çoxlu kitabı var və o, çox oxuyur.
+! Sayılan isimlərlə A FEW və HOW MANY (a few apples, How many apples?), sayılmayan isimlərlə A LITTLE və HOW MUCH işlənir (a little milk, How much milk?). A LOT OF və LOTS OF hər iki növ isimlə işlənir. A LOT isimsiz, felin ardınca gəlir: Thanks a lot. Diqqət: artiklsiz "few" və "little" mənfi çalar daşıyır – "az, demək olar ki, yox": I have few friends = Dostum azdır.
+
+@@ More than, such as, because of | Müqayisə, nümunə və səbəb
++ more than… = ...-dan çox, ...-dan artıq :: more than + say / isim: more than ten people
++ millions of… = milyonlarla ... :: Dəqiq olmayan böyük say; "of" ilə: millions of people
++ thousands of… = minlərlə ... :: thousands of + cəm isim; dəqiq sayla "-s" yoxdur: two thousand
++ such as = məsələn, ... kimi :: Nümunə sadalamaq üçün: fruit such as apples and bananas
++ for example = məsələn :: Cümlənin əvvəlində, ortasında və ya sonunda gələ bilər; yazıda qısaltması: e.g.
++ because of = ...-ə görə, ... səbəbindən :: because of + isim: because of the rain; "because" isə + cümlə
+> More than two million people live in Baku. = Bakıda iki milyondan çox insan yaşayır.
+> Thousands of tourists visit the old city every year. = Hər il minlərlə turist köhnə şəhəri ziyarət edir.
+> We stayed at home because of the rain. = Biz yağışa görə evdə qaldıq.
+> I like sports such as football and tennis. = Mən futbol və tennis kimi idman növlərini xoşlayıram.
+! Dəqiq sayla "hundred, thousand, million" sözləri cəm şəkilçisi qəbul etmir: two thousand people, five million. Qeyri-müəyyən böyük miqdar bildirəndə isə cəmdə və "of" ilə işlənir: thousands of people = minlərlə insan. SUCH AS birbaşa isimdən əvvəl gəlir; FOR EXAMPLE isə adətən vergüllə ayrılır. BECAUSE OF isimdən əvvəl (because of the weather), BECAUSE isə bütöv cümlədən əvvəl işlənir (because the weather was bad).
+
+@@ At home, at school, in bed | Evdə, məktəbdə, yataqda
++ at home = evdə :: Artiklsiz: stay at home; hərəkət felləri ilə sözönü işlənmir: go home
++ at school = məktəbdə (dərsdə) :: Şagird kimi dərsdə olmaq: The children are at school
++ in school = məktəbdə (oxuyur) :: Əsasən Amerika ingiliscəsində: She is still in school = O hələ məktəbdə oxuyur
++ in bed = yataqda :: Artiklsiz: stay in bed = yataqda qalmaq
++ in the street = küçədə :: Britaniyada "in the street", Amerikada "on the street"
++ in the country = kənddə, şəhərdən kənarda; ölkədə :: I live in the country = Mən kənddə yaşayıram; the best ... in the country = ölkədə ən yaxşı ...
+> Is your father at home? — No, he is at work. = Atan evdədir? — Xeyr, o, işdədir.
+> The children are playing in the street. = Uşaqlar küçədə oynayırlar.
+> She was ill and stayed in bed all day. = O, xəstə idi və bütün günü yataqda qaldı.
+! Bəzi yer ifadələrində artikl işlənmir, çünki yerin özü yox, onun təyinatı nəzərdə tutulur: at home, at school, at work, in bed. Müqayisə edin: "He is in bed" (yatır) – "The book is on the bed" (çarpayının üstündədir). AT HOME vəziyyəti bildirir (I am at home); hərəkət bildirəndə sözönü işlənmir: go home, come home. IN THE COUNTRY iki mənalıdır: "kənddə, şəhərdən kənarda" və "ölkədə".
+
+@@ Places in town and beyond | Şəhərdə və ondan kənarda
++ in the centre = mərkəzdə :: in the centre of sth = nəyinsə mərkəzində; Amerika yazılışı: center
++ town centre = şəhərin mərkəzi :: in the town centre, in the city centre = şəhərin mərkəzində
++ car park = avtomobil dayanacağı :: Britaniya ingiliscəsində; Amerikada: parking lot
++ swimming pool = üzgüçülük hovuzu :: go to the swimming pool = hovuza getmək
++ on the beach = çimərlikdə :: Sözönü "on"dur: lie on the beach = çimərlikdə uzanmaq
++ in space = kosmosda :: Artiklsiz: the first man in space = kosmosda ilk insan
+> Our hotel is in the town centre, next to a big car park. = Mehmanxanamız şəhərin mərkəzində, böyük bir dayanacağın yanındadır.
+> We spent the whole day on the beach. = Biz bütün günü çimərlikdə keçirdik.
+> There is a swimming pool in the centre of the park. = Parkın mərkəzində üzgüçülük hovuzu var.
+! Yer bildirən sözönülər: IN – bir məkanın içində (in the centre, in space, in the park); ON – səth üzərində (on the beach, on the floor); AT – nöqtə kimi götürülən yer (at the station, at school). TOWN CENTRE və CAR PARK kimi "isim + isim" birləşmələrində birinci isim sifət rolunu oynayır və cəm şəkilçisini yalnız ikinci isim qəbul edir: car parks. Britaniya yazılışı CENTRE, Amerika yazılışı CENTER-dir.
+
+@@ Position: next to, at the end | Mövqe: yanında, sonunda
++ next to = yanında, bitişik :: next to the bank = bankın yanında; "near" sözündən daha yaxın
++ away from sb/sth = kimdənsə / nədənsə uzaqda, uzağa :: Stay away from the dog = İtdən uzaq dur
++ on the floor = döşəmədə, yerdə :: Otağın içində: sit on the floor; bayırda isə: on the ground
++ at the end = sonda, axırda :: Yer və ya zaman: The shop is at the end; at the end, everybody was happy
++ at the end of sth = nəyinsə sonunda :: at the end of the street / the month / the lesson
++ at the beginning of sth = nəyinsə əvvəlində :: at the beginning of the lesson = dərsin əvvəlində
+> Come and sit next to me. = Gəl, mənim yanımda otur.
+> The shop is at the end of the street. = Mağaza küçənin sonundadır.
+> The children are sitting on the floor. = Uşaqlar döşəmədə oturublar.
+! NEXT TO "lap yanında" deməkdir: The bank is next to the post office. AT THE END (OF) və AT THE BEGINNING (OF) bir şeyin son və ya ilk hissəsini bildirir – həm yer (at the end of the street), həm də zaman üçün (at the beginning of May). Qarışdırmayın: "in the end" = nəhayət, axırda; "in the beginning" = əvvəlcə, ilk vaxtlar. FLOOR otağın döşəməsidir; bayırda "yer" GROUND-dur. AWAY FROM uzaqlaşmanı bildirir: Keep away from the fire.
+
+@@ Mornings, days and seasons | Səhər, günlər və fəsillər
++ in the morning = səhər (vaxtı) :: Günün hissələri "in the" ilə: in the afternoon, in the evening; lakin: at night
++ this morning = bu səhər :: "this" ilə sözönü işlənmir: this afternoon, this evening
++ in April = apreldə :: Aylar "in" ilə: in July; ay adları böyük hərflə yazılır
++ on Monday = bazar ertəsi (günü) :: Günlər "on" ilə: on Tuesday, on Friday
++ in summer = yayda :: Fəsillər "in" ilə: in winter, in spring
++ in the summer = yayda (konkret bir yay və ya hər yay) :: "the" ilə də işlənir: in the winter
+> I get up at seven in the morning. = Mən səhər saat yeddidə dururam.
+> My birthday is in April. = Mənim ad günüm apreldədir.
+> We have English on Monday and Thursday. = Bizim bazar ertəsi və cümə axşamı ingilis dili dərsimiz var.
+> In summer we often go to the beach. = Yayda biz tez-tez çimərliyə gedirik.
+! Zaman sözönüləri: IN – aylar, fəsillər, illər və günün hissələri ilə (in April, in summer, in 2020, in the morning); ON – günlər və tarixlərlə (on Monday, on 5 May); AT – saat və "night" ilə (at seven o'clock, at night). THIS, LAST, NEXT, EVERY sözləri ilə sözönü işlənmir: this morning, last week, next year, every day ("in this morning" səhvdir). Günlərin və ayların adları həmişə böyük hərflə yazılır.
+
+@@ Years | İllər
++ last year = keçən il :: Sözönüsüz; həmçinin: last month, last week, last summer
++ next year = gələn il :: Sözönüsüz; həmçinin: next month, next week
++ this year = bu il :: Sözönüsüz; həmçinin: this summer, this weekend
++ for many years = uzun illər (ərzində) :: for + müddət: for two hours, for a week
++ X years ago = X il əvvəl :: X yerinə say qoyulur: two years ago, three days ago; fel keçmiş zamanda olur
++ X years later = X il sonra :: Hekayədə: two years later, ten minutes later
+> We went to Turkey last year. = Biz keçən il Türkiyəyə getdik.
+> She lived in Sumgait for many years. = O, uzun illər Sumqayıtda yaşayıb.
+> I started school ten years ago. = Mən məktəbə on il əvvəl getmişəm.
+! LAST, NEXT, THIS ilə zaman ifadələrində nə sözönü, nə də artikl işlənir: last year, next week. AGO indiki andan geriyə sayır və həmişə müddətdən sonra gəlir: two years ago; fel sadə keçmiş zamanda olur (I saw him two days ago). LATER keçmişdəki bir andan sonranı bildirir: Two years later he came back. FOR hərəkətin nə qədər davam etdiyini göstərir: for many years, for a long time.
+
+@@ Moments in time | Zaman anları
++ that day = o gün :: Keçmişdəki konkret gün haqqında; sözönüsüz işlənir
++ the next day = ertəsi gün, səhəri gün :: Keçmişdən danışarkən; indiki andan sonrakı gün isə "tomorrow"dur
++ this time = bu dəfə :: this time, next time, last time = bu dəfə, gələn dəfə, keçən dəfə
++ for the first time = ilk dəfə (olaraq) :: for the first time in my life = həyatımda ilk dəfə
++ in the past = keçmişdə, əvvəllər :: Əksi: in the future = gələcəkdə
++ It takes… = ... vaxt aparır, ... çəkir :: It takes an hour to get there = Oraya çatmaq bir saat çəkir
+> I saw the sea for the first time when I was five. = Mən dənizi ilk dəfə beş yaşımda görmüşəm.
+> We arrived late, and the next day we slept until ten. = Biz gec çatdıq və ertəsi gün ona qədər yatdıq.
+> It takes twenty minutes to walk to school. = Məktəbə piyada getmək iyirmi dəqiqə çəkir.
+! TIME iki mənalıdır: "vaxt" (sayılmır: I have no time) və "dəfə" (sayılır: this time, three times, for the first time). THE NEXT DAY keçmişdəki bir günün səhərisidir; indiki andan sonrakı gün TOMORROW-dur. IN THE PAST ilə adətən sadə keçmiş zaman işlənir: In the past people walked more. IT TAKES + müddət + TO + fel bir işin nə qədər vaxt apardığını bildirir; sualı: How long does it take?
+
+## Fixed phrases: everyday life and conversation | Sabit ifadələr: gündəlik həyat və ünsiyyət
+@@ Daily routine | Gündəlik rejim
++ How often…? = Nə qədər tez-tez ...? Neçə vaxtdan bir ...? :: How often do you ...? Cavab: once a week, every day
++ X times a… = ...-da X dəfə :: X yerinə say qoyulur: three times a day, four times a week; iki dəfə = twice
++ X hours a day = gündə X saat :: eight hours a day = gündə səkkiz saat; burada "a" = hər bir
++ go to work = işə getmək :: Artiklsiz: go to work by bus
++ for lunch = nahar üçün, nahara :: have soup for lunch; for breakfast, for dinner
++ hard work = ağır zəhmət, gərgin iş :: It is hard work = Bu, ağır işdir
+> How often do you go to the gym? — Three times a week. = İdman zalına nə qədər tez-tez gedirsən? — Həftədə üç dəfə.
+> He works ten hours a day. = O, gündə on saat işləyir.
+> What do you usually have for lunch? = Sən adətən naharda nə yeyirsən?
+! Tezlik "say + times + a + zaman vahidi" qəlibi ilə bildirilir: three times a week. Bir dəfə – ONCE, iki dəfə – TWICE, sonra three times, four times ... Burada "a" artikli "hər bir, ...-da" mənasını verir: once a year = ildə bir dəfə. GO TO WORK ifadəsində artikl yoxdur, eynilə: go to school, go to bed. HARD WORK "ağır zəhmət" deməkdir (isim); "work hard" isə "çox çalışmaq"dır (fel + zərf). FOR LUNCH ifadəsində FOR "üçün, ...-a" deməkdir: What's for lunch?
+
+@@ Getting there | Çatmaq, minmək, düşmək
++ get home = evə çatmaq :: "home" ilə sözönü işlənmir: get home late
++ get there = oraya çatmaq :: "there" və "here" ilə sözönü işlənmir: How do I get there?
++ get to… = ...-a çatmaq, gedib çıxmaq :: get to + yer: get to work, get to the station
++ get on = (avtobusa, qatara) minmək :: get on the bus; Are you getting on? = Minirsiniz?
++ get off = (avtobusdan, qatardan) düşmək :: get off the bus; I'm getting off here = Mən burada düşürəm
++ go back = qayıtmaq, geri getmək :: go back to… = ...-a qayıtmaq: go back home, go back to work
+> What time do you get home in the evening? = Axşam evə saat neçədə çatırsan?
+> Get on the number five bus and get off at the station. = Beş nömrəli avtobusa min və stansiyada düş.
+> How can I get to the airport? = Hava limanına necə gedə bilərəm?
+! GET hərəkət mənasında "çatmaq, gedib çıxmaq" deməkdir: get to + yer. HOME, HERE, THERE sözləri ilə "to" işlənmir: get home, get there. GET ON və GET OFF ictimai nəqliyyat (bus, train, plane) üçündür; avtomobil və taksi üçün "get in" və "get out of" deyilir: get in the car. GO BACK "geri getmək", COME BACK isə "geri gəlmək" (danışanın olduğu yerə) deməkdir.
+
+@@ Verbs with prepositions | Sözönülü fellər
++ go into sth = nəyinsə içinə girmək :: She went into her room = O, öz otağına girdi
++ come into sth = nəyinsə içinə gəlmək, daxil olmaq :: He came into the room = O, otağa daxil oldu
++ end in sth = nə iləsə bitmək, qurtarmaq :: The word ends in "-ing"; The film ends in a wedding
++ wait for sb/sth = kimisə / nəyisə gözləmək :: Sözönü "for" mütləqdir: wait for the bus ("wait the bus" səhvdir)
++ work with sb = kiminləsə (birlikdə) işləmək :: work with children = uşaqlarla işləmək
++ work together = birlikdə işləmək, əməkdaşlıq etmək :: work together for sth / to do sth = nəyinsə uğrunda birgə çalışmaq
+> Wait for me! I'm coming. = Məni gözlə! Gəlirəm.
+> The teacher came into the classroom and said hello. = Müəllim sinif otağına daxil oldu və salam verdi.
+> We work together on every project. = Biz hər layihə üzərində birlikdə işləyirik.
+! INTO hərəkətin içəriyə doğru olduğunu bildirir (go into the room), IN isə yerin içində olmağı (be in the room). GO danışandan uzaqlaşmaq, COME isə danışana tərəf gəlmək deməkdir: go into, come into. WAIT feli ilə gözlənilən şəxs və ya əşyadan əvvəl FOR işlənir: I am waiting for my friend. END IN bir şeyin nə ilə bitdiyini göstərir. WORK WITH + şəxs və WORK TOGETHER birgə fəaliyyəti bildirir.
+
+@@ Meeting people | İnsanlarla görüşərkən
++ How are you? = Necəsən? Necəsiniz? :: Cavab: Fine, thanks. And you? = Yaxşıyam, sağ ol. Bəs sən?
++ This is… = Bu, ...-dır (tanış edərkən); Danışan ...-dır (telefonda) :: This is my dad = Bu, mənim atamdır
++ See you = Görüşərik, hələlik :: See you later, See you soon, See you tomorrow = Sonra / tezliklə / sabah görüşərik
++ No problem = Problem deyil; dəyməz :: Xahişə razılıq və ya təşəkkürə cavab kimi
++ old friend = köhnə (çoxdankı) dost :: an old friend of mine = mənim köhnə dostlarımdan biri
++ Oh yes = Hə, düzdür; Ah, bəli :: Nəyisə xatırlayanda və ya həvəslə razılaşanda
+> Hello, Leyla! How are you? — Fine, thank you. = Salam, Leyla! Necəsən? — Yaxşıyam, sağ ol.
+> Mum, this is Rashad, an old friend from school. = Ana, bu, Rəşaddır, məktəbdən köhnə dostumdur.
+> Can you help me? — No problem. = Mənə kömək edə bilərsən? — Problem deyil.
+> Goodbye! See you tomorrow. = Sağ ol! Sabah görüşərik.
+! "How are you?" sualına qısa və müsbət cavab verilir: "Fine, thanks" və ya "Not bad"; bu, həqiqi sağlamlıq sualı deyil, salamlaşmanın bir hissəsidir. Kimisə tanış edəndə "This is ..." deyilir ("He is ..." yox). Telefonda da özünü belə təqdim edirlər: "Hello, this is Anar". SEE YOU qeyri-rəsmi sağollaşmadır. "Thank you" ifadəsinə cavab: "You're welcome" və ya "No problem". OLD FRIEND yaşlı dost yox, çoxdankı dost deməkdir.
+
+@@ Offers and suggestions | Təklif və dəvət
++ would like = istərdim (nəzakətli "want") :: I would like… / I'd like… + isim və ya to + fel: I'd like a coffee; I would like to go
++ Would you like…? = ... istərdinizmi? ... istəyirsiniz? :: Nəzakətli təklif: Would you like some tea?
++ How about…? = ... necə olar? Bəs ...? :: How about + isim / fel + -ing: How about a walk? How about going out?
++ What about…? = Bəs ...? ... necə? :: What about you? = Bəs sən?
++ Guess what… = Bil görüm nə olub; Tap görüm ... :: Maraqlı xəbərdən əvvəl deyilir: Guess what! I passed!
++ Oh no! = Ay aman! Vay! :: Pis xəbərə və ya səhvə reaksiya
+> I would like a cup of tea, please. = Mən bir fincan çay istərdim, zəhmət olmasa.
+> Would you like to come with us? = Bizimlə gəlmək istərdinizmi?
+> How about a pizza tonight? = Bu axşam pizza yesək, necə olar?
+! WOULD LIKE "want" felinin nəzakətli formasıdır və mağazada, restoranda, qonaqlıqda işlənir: I'd like ... ("I want ..." kobud səslənə bilər). Ondan sonra isim və ya "to + fel" gəlir: I'd like to go. "Would you like ...?" təklif və dəvət üçündür; "Do you like ...?" isə ümumi zövqü soruşur. HOW ABOUT və WHAT ABOUT təklif vermək və ya sualı başqasına yönəltmək üçündür; onlardan sonra fel "-ing" formasında olur.
+
+@@ News and free time | Xəbərlər və asudə vaxt
++ good news = yaxşı xəbər :: "news" sayılmayan isimdir: I have some good news
++ bad news = pis xəbər :: I have some bad news = Pis xəbərim var
++ bad for sb/sth = kiməsə / nəyəsə zərərli, pis :: Sugar is bad for your teeth; əksi: good for
++ have fun = əylənmək, vaxtını xoş keçirmək :: Have fun! = Yaxşı əylən(in)!
++ spend time = vaxt keçirmək :: spend time with sb = kiminləsə vaxt keçirmək; spend time doing sth
++ learn how to do sth = nəyisə necə etməyi öyrənmək :: learn how to swim, learn how to cook
+> I have good news: we are going to Baku! = Yaxşı xəbərim var: biz Bakıya gedirik!
+> I like to spend time with my family at the weekend. = Həftə sonu ailəmlə vaxt keçirməyi xoşlayıram.
+> Too much sugar is bad for you. = Həddindən artıq şəkər sizə zərərlidir.
+> The children had fun at the party. = Uşaqlar şənlikdə yaxşı əyləndilər.
+! NEWS sonu "-s" ilə bitsə də, təkdə işlənən sayılmayan isimdir: "The news IS good" ("are" yox); "a news" deyilmir – "some news" və ya "a piece of news". HAVE FUN – əylənmək: We had fun at the party. SPEND (spend – spent – spent) həm pul xərcləmək, həm də vaxt keçirmək deməkdir. BAD FOR və GOOD FOR sağlamlığa və ya vəziyyətə təsiri bildirir: Fruit is good for you. LEARN HOW TO + fel bacarıq qazanmağı bildirir.
+
+@@ Phone and television | Telefon və televiziya
++ mobile phone = mobil telefon :: Britaniya ingiliscəsində; Amerikada: cell phone; qısa: mobile
++ phone number = telefon nömrəsi :: What's your phone number? = Telefon nömrən neçədir?
++ on the phone = telefonda, telefonla :: be on the phone = telefonla danışmaq; talk on the phone
++ on TV = televizorda :: What's on TV tonight? = Bu axşam televizorda nə var?
++ on television = televiziyada, televizorda :: "on TV" ilə eyni mənada, bir qədər rəsmi; həmçinin: on the television
+> Can I have your phone number? = Telefon nömrənizi ala bilərəm?
+> She is on the phone; please wait a minute. = O, telefonla danışır; zəhmət olmasa, bir dəqiqə gözləyin.
+> I saw that film on TV last week. = Mən o filmi keçən həftə televizorda görmüşəm.
+! Yayım və rabitə vasitələri ON sözönüsü ilə işlənir: on the phone, on TV, on television, on the radio. Müqayisə edin: "on TV" – verilişdə, ekranda; "on the TV" isə həm də əşya kimi televizorun üstündə ola bilər. Telefon nömrəsi rəqəm-rəqəm deyilir, 0 rəqəmi isə çox vaxt "oh" kimi oxunur. MOBILE PHONE Britaniyada, CELL PHONE Amerikada işlənir; gündəlik danışıqda sadəcə "phone" deyirlər.
+
+@@ Grammar phrases | Qrammatik ifadələr
++ there is = var (təkdə) :: there is + tək isim; cəmdə: there are; keçmişdə: there was, there were
++ have got = (kiminsə nəyisə) var :: Britaniya danışıq dilində "have" əvəzinə: I've got a car
++ be going to do sth = nəyisə etmək niyyətində olmaq; edəcək :: Plan və niyyət: I am going to study tonight
++ he or she = o (kişi və ya qadın) :: Cinsi bilinməyən şəxs haqqında: If a student is late, he or she must wait
++ his or her = onun (kişinin və ya qadının) :: Every student has his or her own book
++ someone else = başqa birisi, başqa kimsə :: else = başqa; həmçinin: something else, anyone else
++ anything else = başqa bir şey (sual və inkarda) :: Mağazada: Anything else? = Başqa bir şey?
+> There is a park near my house. = Evimin yanında park var.
+> I have got two brothers and a sister. = Mənim iki qardaşım və bir bacım var.
+> We are going to visit our grandparents on Sunday. = Biz bazar günü baba və nənəmizə baş çəkəcəyik.
+> Do you want anything else? = Başqa bir şey istəyirsiniz?
+! THERE IS / THERE ARE nəyinsə mövcud olduğunu bildirir və Azərbaycan dilinə "var" kimi tərcümə olunur: There is a book on the table = Stolun üstündə kitab var. HAVE GOT yalnız indiki zamanda işlənir və "have" ilə eyni mənadadır; sualı: Have you got ...? BE GOING TO + fel əvvəlcədən qərara alınmış planı bildirir. Azərbaycan dilində "o" əvəzliyi cins bildirmir; ingilis dilində cins məlum olmayanda HE OR SHE, HIS OR HER (və ya "they", "their") deyilir. ELSE "başqa" deməkdir və something, anything, someone, what, where kimi sözlərdən sonra gəlir.

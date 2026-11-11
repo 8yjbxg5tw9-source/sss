@@ -74,12 +74,12 @@ adv: inexorably = qarşısıalınmaz şəkildə, dönmədən
 - an inexorable fate = dönməz tale :: fate = the things that will happen to somebody and cannot be changed
 - an inexorable descent = qarşısıalınmaz eniş (çöküş) :: descent = a movement downwards
 - an inexorable climb = dayanmadan davam edən yüksəliş :: climb = an increase in value or amount; also the act of going up
-- inexorably drawn to = qarşısıalınmaz şəkildə nəyəsə çəkilən :: drawn = attracted; from "draw"
+- inexorable logic = qarşısıalınmaz (dönməz) məntiq :: logic = a way of reasoning in which each step follows from the one before
 - inexorably towards = dönmədən nəyəsə doğru :: Common adverbial pattern with verbs of movement
 > The inexorable rise in prices worries every family. = Qiymətlərin qarşısıalınmaz artımı hər bir ailəni narahat edir.
 > The country seemed to be moving inexorably towards war. = Ölkə sanki dönmədən müharibəyə doğru gedirdi.
 > The film traces the hero's inexorable descent into madness. = Film qəhrəmanın dəliliyə doğru qarşısıalınmaz enişini izləyir.
-> She felt inexorably drawn to the sea. = O, özünü qarşısıalınmaz şəkildə dənizə çəkilən hiss edirdi.
+> The inexorable logic of the market forced the smaller shops to close. = Bazarın dönməz məntiqi kiçik mağazaları bağlanmağa məcbur etdi.
 ! INEXORABLE describes a process that cannot be stopped or changed: the inexorable rise of prices, the inexorable march of time. It is formal and often used of trends in essays. The adverb INEXORABLY is at least as common: "move inexorably towards". Stress: inEXorable. Compare RELENTLESS (never stopping or becoming weaker), UNSTOPPABLE (plain English) and INEVITABLE (certain to happen).
 
 @ OBFUSCATE | verb | ˈɒbfʌskeɪt | qəsdən dolaşdırmaq, anlaşılmaz etmək

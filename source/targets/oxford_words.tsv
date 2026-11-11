@@ -1,0 +1,4939 @@
+# Coverage target supplied by the user as a PDF: the Oxford 3000 by CEFR level (American English) and the
+# Oxford 5000 extension, (c) Oxford University Press.  Only the headword, the level and the part of speech are kept
+# here, so that tools/vocab.py can report which of these words the course already teaches and where.
+# word <TAB> lowest level <TAB> list <TAB> part of speech and level of every entry <TAB> senses marked in the list
+a, an	A1	3000	indefinite article A1	
+about	A1	3000	prep., adv. A1 | adj. B1	
+above	A1	3000	prep., adv. A1	
+across	A1	3000	prep., adv. A1	
+action	A1	3000	n. A1	
+activity	A1	3000	n. A1	
+actor	A1	3000	n. A1	
+actress	A1	3000	n. A1	
+add	A1	3000	v. A1	
+address	A1	3000	n. A1 | v. B2	
+adult	A1	3000	n. A1 | adj. A2	
+advice	A1	3000	n. A1	
+afraid	A1	3000	adj. A1	
+after	A1	3000	prep. A1 | conj., adv. A2	
+afternoon	A1	3000	n. A1	
+again	A1	3000	adv. A1	
+age	A1	3000	n. A1 | v. B1	
+ago	A1	3000	adv. A1	
+agree	A1	3000	v. A1	
+air	A1	3000	n. A1	
+airport	A1	3000	n. A1	
+all	A1	3000	det., pron. A1 | adv. A2	
+also	A1	3000	adv. A1	
+always	A1	3000	adv. A1	
+amazing	A1	3000	adj. A1	
+an	A1	3000	indefinite article A1	
+and	A1	3000	conj. A1	
+angry	A1	3000	adj. A1	
+animal	A1	3000	n. A1	
+another	A1	3000	det./pron. A1	
+answer	A1	3000	n., v. A1	
+any	A1	3000	det., pron. A1 | adv. A2	
+anyone	A1	3000	pron. A1	
+anything	A1	3000	pron. A1	
+apartment	A1	3000	n. A1	
+apple	A1	3000	n. A1	
+April	A1	3000	n. A1	
+area	A1	3000	n. A1	
+arm	A1	3000	n. A1 | v. C1	
+around	A1	3000	prep., adv. A1	
+arrive	A1	3000	v. A1	
+art	A1	3000	n. A1	
+article	A1	3000	n. A1	
+artist	A1	3000	n. A1	
+as	A1	3000	prep. A1 | adv., conj. A2	
+ask	A1	3000	v. A1	
+at	A1	3000	prep. A1	
+August	A1	3000	n. A1	
+aunt	A1	3000	n. A1	
+away	A1	3000	adv. A1	
+awesome	A1	3000	adj. A1	
+baby	A1	3000	n. A1	
+back	A1	3000	n., adv. A1 | adj. A2 | v. B2	
+bad	A1	3000	adj. A1	
+bag	A1	3000	n. A1	
+ball	A1	3000	n. A1	
+banana	A1	3000	n. A1	
+band	A1	3000	n. A1	
+bank	A1	3000	n. A1 | n. B1	money | river
+bar	A1	3000	n. A1 | v. B2	
+baseball	A1	3000	n. A1	
+basketball	A1	3000	n. A1	
+bath	A1	3000	n. A1	
+bathroom	A1	3000	n. A1	
+be	A1	3000	v., auxiliary v. A1	
+beach	A1	3000	n. A1	
+beautiful	A1	3000	adj. A1	
+because	A1	3000	conj. A1	
+because of	A1	3000	prep. A1	
+become	A1	3000	v. A1	
+bed	A1	3000	n. A1	
+bedroom	A1	3000	n. A1	
+beer	A1	3000	n. A1	
+before	A1	3000	prep. A1 | conj., adv. A2	
+begin	A1	3000	v. A1	
+beginning	A1	3000	n. A1	
+behind	A1	3000	prep., adv. A1	
+believe	A1	3000	v. A1	
+below	A1	3000	adv., prep. A1	
+best	A1	3000	adj. A1 | adv., n. A2	
+better	A1	3000	adj. A1 | adv. A2 | n. B1	
+between	A1	3000	prep. A1 | adv. A2	
+bicycle	A1	3000	n. A1	
+big	A1	3000	adj. A1	
+bike	A1	3000	n. A1	
+bill	A1	3000	n. A1 | v. B2	
+bird	A1	3000	n. A1	
+birthday	A1	3000	n. A1	
+black	A1	3000	adj., n. A1	
+blog	A1	3000	n. A1	
+blond	A1	3000	adj. A1	
+blue	A1	3000	adj., n. A1	
+boat	A1	3000	n. A1	
+body	A1	3000	n. A1	
+book	A1	3000	n. A1 | v. A2	
+boot	A1	3000	n. A1	
+bored	A1	3000	adj. A1	
+boring	A1	3000	adj. A1	
+born	A1	3000	v. A1	
+both	A1	3000	det./pron. A1	
+bottle	A1	3000	n. A1	
+box	A1	3000	n. A1	
+boy	A1	3000	n. A1	
+boyfriend	A1	3000	n. A1	
+bread	A1	3000	n. A1	
+break	A1	3000	v., n. A1	
+breakfast	A1	3000	n. A1	
+bring	A1	3000	v. A1	
+brother	A1	3000	n. A1	
+brown	A1	3000	adj., n. A1	
+build	A1	3000	v. A1	
+building	A1	3000	n. A1	
+bus	A1	3000	n. A1	
+business	A1	3000	n. A1	
+busy	A1	3000	adj. A1	
+but	A1	3000	conj. A1 | prep. B2	
+butter	A1	3000	n. A1	
+buy	A1	3000	v. A1	
+by	A1	3000	prep. A1 | adv. B1	
+bye	A1	3000	exclam. A1	
+cafe	A1	3000	n. A1	
+cake	A1	3000	n. A1	
+call	A1	3000	v., n. A1	
+camera	A1	3000	n. A1	
+can	A1	3000	modal v. A1 | n. A2	homograph 1 | homograph 2
+cannot	A1	3000	modal v. A1	
+capital	A1	3000	n., adj. A1	
+car	A1	3000	n. A1	
+card	A1	3000	n. A1	
+career	A1	3000	n. A1	
+carrot	A1	3000	n. A1	
+carry	A1	3000	v. A1	
+cat	A1	3000	n. A1	
+cent	A1	3000	n. A1	
+center	A1	3000	n. A1 | v. B1	
+chair	A1	3000	n. A1 | v. B2	
+change	A1	3000	v., n. A1	
+chart	A1	3000	n. A1 | v. B2	
+cheap	A1	3000	adj. A1 | adv. B1	
+check	A1	3000	v. A1 | n. A2	
+cheese	A1	3000	n. A1	
+chicken	A1	3000	n. A1	
+child	A1	3000	n. A1	
+chocolate	A1	3000	n. A1	
+choose	A1	3000	v. A1	
+city	A1	3000	n. A1	
+class	A1	3000	n. A1	
+classroom	A1	3000	n. A1	
+clean	A1	3000	adj., v. A1	
+climb	A1	3000	v. A1 | n. B1	
+clock	A1	3000	n. A1	
+close	A1	3000	v. A1 | adj. A2 | adv. B1 | n. B2	homograph 1 | homograph 2
+clothes	A1	3000	n. A1	
+club	A1	3000	n. A1	
+coat	A1	3000	n. A1	
+coffee	A1	3000	n. A1	
+cold	A1	3000	adj., n. A1	
+college	A1	3000	n. A1	
+color	A1	3000	n. A1	
+come	A1	3000	v. A1	
+common	A1	3000	adj. A1	
+company	A1	3000	n. A1	
+compare	A1	3000	v. A1	
+complete	A1	3000	adj., v. A1	
+computer	A1	3000	n. A1	
+concert	A1	3000	n. A1	
+conversation	A1	3000	n. A1	
+cook	A1	3000	v. A1 | n. A2	
+cooking	A1	3000	n. A1	
+cool	A1	3000	adj. A1 | v. B1	
+correct	A1	3000	adj., v. A1	
+cost	A1	3000	n., v. A1	
+could	A1	3000	modal v. A1	
+country	A1	3000	n. A1	
+course	A1	3000	n. A1	
+cousin	A1	3000	n. A1	
+cow	A1	3000	n. A1	
+cream	A1	3000	n. A1 | adj. B1	
+create	A1	3000	v. A1	
+culture	A1	3000	n. A1	
+cup	A1	3000	n. A1	
+customer	A1	3000	n. A1	
+cut	A1	3000	v. A1 | n. B1	
+dad	A1	3000	n. A1	
+dance	A1	3000	n., v. A1	
+dancer	A1	3000	n. A1	
+dancing	A1	3000	n. A1	
+dangerous	A1	3000	adj. A1	
+dark	A1	3000	adj. A1 | n. A2	
+date	A1	3000	n. A1 | v. B2	
+daughter	A1	3000	n. A1	
+day	A1	3000	n. A1	
+dear	A1	3000	adj. A1	
+December	A1	3000	n. A1	
+decide	A1	3000	v. A1	
+delicious	A1	3000	adj. A1	
+describe	A1	3000	v. A1	
+description	A1	3000	n. A1	
+design	A1	3000	n., v. A1	
+desk	A1	3000	n. A1	
+detail	A1	3000	n. A1 | v. B2	
+dialogue	A1	3000	n. A1	
+dictionary	A1	3000	n. A1	
+die	A1	3000	v. A1	
+diet	A1	3000	n. A1	
+difference	A1	3000	n. A1	
+different	A1	3000	adj. A1	
+difficult	A1	3000	adj. A1	
+dinner	A1	3000	n. A1	
+dirty	A1	3000	adj. A1	
+discuss	A1	3000	v. A1	
+dish	A1	3000	n. A1	
+do	A1	3000	v., auxiliary v. A1	homograph 1
+doctor	A1	3000	n. A1	
+dog	A1	3000	n. A1	
+dollar	A1	3000	n. A1	
+door	A1	3000	n. A1	
+down	A1	3000	adv., prep. A1	
+downstairs	A1	3000	adv. A1 | adj. A2	
+draw	A1	3000	v. A1	
+dress	A1	3000	n., v. A1	
+drink	A1	3000	n., v. A1	
+drive	A1	3000	v. A1 | n. A2	
+driver	A1	3000	n. A1	
+during	A1	3000	prep. A1	
+each	A1	3000	det./pron./adv. A1	
+ear	A1	3000	n. A1	
+early	A1	3000	adj., adv. A1	
+east	A1	3000	n., adj., adv. A1	
+easy	A1	3000	adj. A1	
+eat	A1	3000	v. A1	
+egg	A1	3000	n. A1	
+eight	A1	3000	number A1	
+eighteen	A1	3000	number A1	
+eighty	A1	3000	number A1	
+elephant	A1	3000	n. A1	
+eleven	A1	3000	number A1	
+else	A1	3000	adv. A1	
+email	A1	3000	n., v. A1	
+end	A1	3000	n., v. A1	
+enjoy	A1	3000	v. A1	
+enough	A1	3000	det., pron., adv. A1	
+euro	A1	3000	n. A1	
+even	A1	3000	adv. A1 | adj. B2	
+evening	A1	3000	n. A1	
+event	A1	3000	n. A1	
+ever	A1	3000	adv. A1	
+every	A1	3000	det. A1	
+everybody	A1	3000	pron. A1	
+everyone	A1	3000	pron. A1	
+everything	A1	3000	pron. A1	
+exam	A1	3000	n. A1	
+example	A1	3000	n. A1	
+excited	A1	3000	adj. A1	
+exciting	A1	3000	adj. A1	
+exercise	A1	3000	n., v. A1	
+expensive	A1	3000	adj. A1	
+explain	A1	3000	v. A1	
+extra	A1	3000	adj. A1 | n., adv. B1	
+eye	A1	3000	n. A1	
+face	A1	3000	n. A1 | v. B1	
+fact	A1	3000	n. A1	
+fall	A1	3000	v., n. A1	
+false	A1	3000	adj. A1	
+family	A1	3000	n., adj. A1	
+famous	A1	3000	adj. A1	
+fantastic	A1	3000	adj. A1	
+far	A1	3000	adv. A1 | adj. B1	
+farm	A1	3000	n. A1 | v. A2	
+farmer	A1	3000	n. A1	
+fast	A1	3000	adj., adv. A1	
+fat	A1	3000	adj. A1 | n. A2	
+father	A1	3000	n. A1	
+favorite	A1	3000	adj., n. A1	
+February	A1	3000	n. A1	
+feel	A1	3000	v. A1 | n. B2	
+feeling	A1	3000	n. A1	
+festival	A1	3000	n. A1	
+few	A1	3000	det./adj., pron. A1	
+fifteen	A1	3000	number A1	
+fifth	A1	3000	number A1	
+fifty	A1	3000	number A1	
+fill	A1	3000	v. A1	
+final	A1	3000	adj. A1 | n. A2	
+find	A1	3000	v. A1	
+fine	A1	3000	adj. A1 | n., v. C1	
+finish	A1	3000	v. A1 | n. A2	
+fire	A1	3000	n. A1 | v. A2	
+first	A1	3000	det./number, adv. A1 | n. A2	
+fish	A1	3000	n. A1 | v. A2	
+five	A1	3000	number A1	
+flight	A1	3000	n. A1	
+floor	A1	3000	n. A1	
+flower	A1	3000	n. A1	
+fly	A1	3000	v. A1 | n. A2	
+follow	A1	3000	v. A1	
+food	A1	3000	n. A1	
+foot	A1	3000	n. A1	
+football	A1	3000	n. A1	
+for	A1	3000	prep. A1	
+forget	A1	3000	v. A1	
+form	A1	3000	n., v. A1	
+forty	A1	3000	number A1	
+four	A1	3000	number A1	
+fourteen	A1	3000	number A1	
+fourth	A1	3000	number A1	
+free	A1	3000	adj. A1 | adv. A2 | v. B2	
+Friday	A1	3000	n. A1	
+friend	A1	3000	n. A1	
+friendly	A1	3000	adj. A1	
+from	A1	3000	prep. A1	
+front	A1	3000	n., adj. A1	
+fruit	A1	3000	n. A1	
+full	A1	3000	adj. A1	
+fun	A1	3000	n. A1 | adj. A2	
+funny	A1	3000	adj. A1	
+future	A1	3000	n. A1 | adj. A2	
+game	A1	3000	n. A1	
+garden	A1	3000	n. A1	
+geography	A1	3000	n. A1	
+get	A1	3000	v. A1	
+girl	A1	3000	n. A1	
+girlfriend	A1	3000	n. A1	
+give	A1	3000	v. A1	
+glass	A1	3000	n. A1	
+go	A1	3000	v. A1 | n. B1	
+good	A1	3000	adj. A1 | n. A2	
+goodbye	A1	3000	exclam./n. A1	
+grandfather	A1	3000	n. A1	
+grandmother	A1	3000	n. A1	
+grandparent	A1	3000	n. A1	
+gray	A1	3000	adj., n. A1	
+great	A1	3000	adj. A1	
+green	A1	3000	adj., n. A1	
+group	A1	3000	n. A1	
+grow	A1	3000	v. A1	
+guess	A1	3000	v., n. A1	
+guitar	A1	3000	n. A1	
+gym	A1	3000	n. A1	
+hair	A1	3000	n. A1	
+half	A1	3000	n., det./pron. A1 | adv. A2	
+hand	A1	3000	n. A1 | v. B1	
+happen	A1	3000	v. A1	
+happy	A1	3000	adj. A1	
+hard	A1	3000	adj., adv. A1	
+hat	A1	3000	n. A1	
+hate	A1	3000	v. A1 | n. B1	
+have	A1	3000	v. A1 | auxiliary v. A2	
+have to	A1	3000	modal v. A1	
+he	A1	3000	pron. A1	
+head	A1	3000	n. A1 | v. B1	
+health	A1	3000	n. A1	
+healthy	A1	3000	adj. A1	
+hear	A1	3000	v. A1	
+hello	A1	3000	exclam./n. A1	
+help	A1	3000	v., n. A1	
+her	A1	3000	pron., det. A1	
+here	A1	3000	adv. A1	
+hey	A1	3000	exclam. A1	
+hi	A1	3000	exclam. A1	
+high	A1	3000	adj. A1 | adv. A2 | n. B2	
+him	A1	3000	pron. A1	
+his	A1	3000	det. A1 | pron. A2	
+history	A1	3000	n. A1	
+hobby	A1	3000	n. A1	
+home	A1	3000	n., adv. A1 | adj. A2	
+homework	A1	3000	n. A1	
+hope	A1	3000	v. A1 | n. A2	
+horse	A1	3000	n. A1	
+hospital	A1	3000	n. A1	
+hot	A1	3000	adj. A1	
+hotel	A1	3000	n. A1	
+hour	A1	3000	n. A1	
+house	A1	3000	n. A1 | v. B2	
+how	A1	3000	adv. A1	
+however	A1	3000	adv. A1 | conj. B2	
+hundred	A1	3000	number A1	
+hungry	A1	3000	adj. A1	
+husband	A1	3000	n. A1	
+I	A1	3000	pron. A1	
+ice	A1	3000	n. A1	
+ice cream	A1	3000	n. A1	
+idea	A1	3000	n. A1	
+if	A1	3000	conj. A1	
+imagine	A1	3000	v. A1	
+important	A1	3000	adj. A1	
+improve	A1	3000	v. A1	
+in	A1	3000	prep., adv. A1	
+include	A1	3000	v. A1	
+information	A1	3000	n. A1	
+interest	A1	3000	n., v. A1	
+interested	A1	3000	adj. A1	
+interesting	A1	3000	adj. A1	
+internet	A1	3000	n. A1	
+interview	A1	3000	n., v. A1	
+into	A1	3000	prep. A1	
+introduce	A1	3000	v. A1	
+island	A1	3000	n. A1	
+it	A1	3000	pron. A1	
+its	A1	3000	det. A1	
+jacket	A1	3000	n. A1	
+January	A1	3000	n. A1	
+jeans	A1	3000	n. A1	
+job	A1	3000	n. A1	
+join	A1	3000	v. A1	
+juice	A1	3000	n. A1	
+July	A1	3000	n. A1	
+June	A1	3000	n. A1	
+just	A1	3000	adv. A1 | adj. C1	
+keep	A1	3000	v. A1	
+key	A1	3000	n., adj. A1 | v. B1	
+kind	A1	3000	n. A1 | adj. B1	type | caring
+kitchen	A1	3000	n. A1	
+know	A1	3000	v. A1	
+land	A1	3000	n. A1 | v. A2	
+language	A1	3000	n. A1	
+large	A1	3000	adj. A1	
+last	A1	3000	det. A1 | adv., n. A2 | v. A2	homograph 1; final | homograph 1; taking time
+late	A1	3000	adj., adv. A1	
+later	A1	3000	adv. A1 | adj. A2	
+laugh	A1	3000	v., n. A1	
+learn	A1	3000	v. A1	
+leave	A1	3000	v. A1 | n. B2	
+left	A1	3000	adj., adv., n. A1	
+leg	A1	3000	n. A1	
+lesson	A1	3000	n. A1	
+let	A1	3000	v. A1	
+letter	A1	3000	n. A1	
+library	A1	3000	n. A1	
+lie	A1	3000	v. A1 | v., n. B1	homograph 1 | homograph 2; tell a lie
+life	A1	3000	n. A1	
+light	A1	3000	n. adj. A1 | v. A2 | adj. A2	from the sun/a lamp | not heavy
+like	A1	3000	prep. A1 | v. A1 | n. B1	similar | find sb/sth pleasant
+line	A1	3000	n. A1 | v. B2	
+lion	A1	3000	n. A1	
+list	A1	3000	n., v. A1	
+listen	A1	3000	v. A1	
+little	A1	3000	adj., det./pron. A1 | adv. A2	
+live	A1	3000	v. A1 | adj., adv. B1	homograph 1 | homograph 2
+local	A1	3000	adj. A1 | n. B1	
+long	A1	3000	adj., adv. A1	homograph 1
+look	A1	3000	v. A1 | n. A2	
+lose	A1	3000	v. A1	
+lot	A1	3000	pron., det., adv. A1	
+love	A1	3000	n., v. A1	
+lunch	A1	3000	n. A1	
+machine	A1	3000	n. A1	
+magazine	A1	3000	n. A1	
+main	A1	3000	adj. A1	
+make	A1	3000	v. A1 | n. B2	
+mall	A1	3000	n. A1	
+man	A1	3000	n. A1	
+many	A1	3000	det./pron. A1	
+map	A1	3000	n. A1 | v. B2	
+March	A1	3000	n. A1	
+market	A1	3000	n. A1 | v. B1	
+married	A1	3000	adj. A1	
+match	A1	3000	n., v. A1	contest/correspond
+May	A1	3000	n. A1	
+maybe	A1	3000	adv. A1	
+me	A1	3000	pron. A1	
+meal	A1	3000	n. A1	
+mean	A1	3000	v. A1	
+meaning	A1	3000	n. A1	
+meat	A1	3000	n. A1	
+meet	A1	3000	v. A1	
+meeting	A1	3000	n. A1	
+member	A1	3000	n. A1	
+menu	A1	3000	n. A1	
+message	A1	3000	n. A1	
+meter	A1	3000	n. A1	
+midnight	A1	3000	n. A1	
+mile	A1	3000	n. A1	
+milk	A1	3000	n. A1	
+million	A1	3000	number A1	
+minute	A1	3000	n. A1 | adj. C1	homograph 1 | homograph 2
+miss	A1	3000	v. A1	
+mistake	A1	3000	n. A1 | v. B2	
+model	A1	3000	n. A1 | v. B2	
+modern	A1	3000	adj. A1	
+mom	A1	3000	n. A1	
+moment	A1	3000	n. A1	
+Monday	A1	3000	n. A1	
+money	A1	3000	n. A1	
+month	A1	3000	n. A1	
+more	A1	3000	det./pron., adv. A1	
+morning	A1	3000	n. A1	
+most	A1	3000	det./pron., adv. A1	
+mother	A1	3000	n. A1	
+mountain	A1	3000	n. A1	
+mouse	A1	3000	n. A1	
+mouth	A1	3000	n. A1	
+move	A1	3000	v. A1 | n. B1	
+movie	A1	3000	n. A1	
+much	A1	3000	det./pron., adv. A1	
+museum	A1	3000	n. A1	
+music	A1	3000	n. A1	
+must	A1	3000	modal v. A1	
+my	A1	3000	det. A1	
+name	A1	3000	n., v. A1	
+natural	A1	3000	adj. A1	
+near	A1	3000	prep., adj., adv. A1	
+need	A1	3000	v. A1 | n. A2 | modal v. B1	
+negative	A1	3000	adj. A1 | n. B2	
+neighbor	A1	3000	n. A1	
+neighborhood	A1	3000	n. A1	
+never	A1	3000	adv. A1	
+new	A1	3000	adj. A1	
+news	A1	3000	n. A1	
+newspaper	A1	3000	n. A1	
+next	A1	3000	adj., adv. A1 | n. B1	
+next to	A1	3000	prep. A1	
+nice	A1	3000	adj. A1	
+night	A1	3000	n. A1	
+nine	A1	3000	number A1	
+nineteen	A1	3000	number A1	
+ninety	A1	3000	number A1	
+no	A1	3000	exclam., det. A1	
+no one	A1	3000	pron. A1	
+nobody	A1	3000	pron. A1	
+north	A1	3000	n., adj., adv. A1	
+nose	A1	3000	n. A1	
+not	A1	3000	adv. A1	
+note	A1	3000	n. A1 | v. B1	
+nothing	A1	3000	pron. A1	
+November	A1	3000	n. A1	
+now	A1	3000	adv. A1 | conj. B1	
+number	A1	3000	n. A1 | v. A2	
+nurse	A1	3000	n. A1	
+o'clock	A1	3000	adv. A1	
+object	A1	3000	n. A1 | v. B2	
+ocean	A1	3000	n. A1	
+October	A1	3000	n. A1	
+of	A1	3000	prep. A1	
+off	A1	3000	adv., prep. A1	
+office	A1	3000	n. A1	
+often	A1	3000	adv. A1	
+oh	A1	3000	exclam. A1	
+OK	A1	3000	exclam., adj./adv. A1	
+old	A1	3000	adj. A1	
+on	A1	3000	prep., adv. A1	
+once	A1	3000	adv. A1 | conj. B1	
+one	A1	3000	number/det., pron. A1	
+onion	A1	3000	n. A1	
+online	A1	3000	adj., adv. A1	
+only	A1	3000	adj., adv. A1	
+open	A1	3000	adj., v. A1	
+opinion	A1	3000	n. A1	
+opposite	A1	3000	adj., n., prep., adv. A1	
+or	A1	3000	conj. A1	
+orange	A1	3000	n., adj. A1	
+order	A1	3000	n., v. A1	
+other	A1	3000	adj./pron. A1	
+our	A1	3000	det. A1	
+out	A1	3000	adv./prep. A1	
+outside	A1	3000	adv. A1 | prep., n., adj. A2	
+over	A1	3000	prep., adv. A1	
+own	A1	3000	adj./pron. A1 | v. A2	
+page	A1	3000	n. A1	
+paint	A1	3000	v., n. A1	
+painting	A1	3000	n. A1	
+pair	A1	3000	n. A1	
+pants	A1	3000	n. A1	
+paper	A1	3000	n. A1	
+paragraph	A1	3000	n. A1	
+parent	A1	3000	n. A1	
+park	A1	3000	n., v. A1	
+part	A1	3000	n. A1	
+partner	A1	3000	n. A1	
+party	A1	3000	n. A1	
+passport	A1	3000	n. A1	
+past	A1	3000	adj., n., prep. A1 | adv. A2	
+pay	A1	3000	v. A1 | n. A2	
+pen	A1	3000	n. A1	
+pencil	A1	3000	n. A1	
+people	A1	3000	n. A1	
+pepper	A1	3000	n. A1	
+perfect	A1	3000	adj. A1	
+period	A1	3000	n. A1	
+person	A1	3000	n. A1	
+personal	A1	3000	adj. A1	
+phone	A1	3000	n., v. A1	
+photo	A1	3000	n. A1	
+photograph	A1	3000	n. A1 | v. A2	
+phrase	A1	3000	n. A1	
+piano	A1	3000	n. A1	
+picture	A1	3000	n. A1 | v. B2	
+piece	A1	3000	n. A1	
+pig	A1	3000	n. A1	
+pink	A1	3000	adj., n. A1	
+pizza	A1	3000	n. A1	
+place	A1	3000	n. A1 | v. B1	
+plan	A1	3000	n., v. A1	
+plane	A1	3000	n. A1	
+plant	A1	3000	n. A1 | v. A2	
+play	A1	3000	v., n. A1	
+player	A1	3000	n. A1	
+please	A1	3000	exclam. A1 | v. A2	
+point	A1	3000	n. A1 | v. B1	
+police	A1	3000	n. A1	
+pool	A1	3000	n. A1	
+poor	A1	3000	adj. A1	
+popular	A1	3000	adj. A1	
+positive	A1	3000	adj. A1 | n. B2	
+possible	A1	3000	adj. A1	
+post	A1	3000	n., v. A1	
+potato	A1	3000	n. A1	
+pound	A1	3000	n. A1	
+practice	A1	3000	n., v. A1	
+prefer	A1	3000	v. A1	
+prepare	A1	3000	v. A1	
+present	A1	3000	adj., n. A1 | v. A2	
+pretty	A1	3000	adj., adv. A1	
+price	A1	3000	n. A1 | v. B2	
+probably	A1	3000	adv. A1	
+problem	A1	3000	n. A1	
+product	A1	3000	n. A1	
+program	A1	3000	n. A1 | v. B1	
+project	A1	3000	n. A1 | v. B2	
+purple	A1	3000	adj., n. A1	
+put	A1	3000	v. A1	
+quarter	A1	3000	n. A1	
+question	A1	3000	n. A1 | v. A2	
+quick	A1	3000	adj. A1	
+quickly	A1	3000	adv. A1	
+quiet	A1	3000	adj. A1	
+quite	A1	3000	adv. A1	
+radio	A1	3000	n. A1	
+rain	A1	3000	n., v. A1	
+read	A1	3000	v. A1	
+reader	A1	3000	n. A1	
+reading	A1	3000	n. A1	
+ready	A1	3000	adj. A1	
+real	A1	3000	adj. A1	
+really	A1	3000	adv. A1	
+reason	A1	3000	n. A1	
+red	A1	3000	adj., n. A1	
+relax	A1	3000	v. A1	
+remember	A1	3000	v. A1	
+repeat	A1	3000	v. A1 | n. B1	
+report	A1	3000	n. A1 | v. A2	
+restaurant	A1	3000	n. A1	
+result	A1	3000	n. A1 | v. B1	
+return	A1	3000	v., n. A1	
+rice	A1	3000	n. A1	
+rich	A1	3000	adj. A1	
+ride	A1	3000	v. A1 | n. A2	
+right	A1	3000	adj., adv., n. A1	
+river	A1	3000	n. A1	
+road	A1	3000	n. A1	
+room	A1	3000	n. A1	
+routine	A1	3000	n. A1 | adj. B2	
+rule	A1	3000	n. A1 | v. B1	
+run	A1	3000	v. A1 | n. A2	
+sad	A1	3000	adj. A1	
+salad	A1	3000	n. A1	
+salt	A1	3000	n. A1	
+same	A1	3000	adj., pron., adv. A1	
+sandwich	A1	3000	n. A1	
+Saturday	A1	3000	n. A1	
+say	A1	3000	v. A1 | n. C1	
+school	A1	3000	n. A1	
+science	A1	3000	n. A1	
+scientist	A1	3000	n. A1	
+second	A1	3000	det./number A1 | n. A1 | adv. A2	homograph 1; next after the first | homograph 1; unit of time
+section	A1	3000	n. A1	
+see	A1	3000	v. A1	
+sell	A1	3000	v. A1	
+send	A1	3000	v. A1	
+sentence	A1	3000	n. A1 | v. B2	
+September	A1	3000	n. A1	
+seven	A1	3000	number A1	
+seventeen	A1	3000	number A1	
+seventy	A1	3000	number A1	
+share	A1	3000	v. A1 | n. B1	
+she	A1	3000	pron. A1	
+sheep	A1	3000	n. A1	
+shirt	A1	3000	n. A1	
+shoe	A1	3000	n. A1	
+shop	A1	3000	n., v. A1	
+shopping	A1	3000	n. A1	
+short	A1	3000	adj. A1	
+should	A1	3000	modal v. A1	
+show	A1	3000	v., n. A1	
+shower	A1	3000	n. A1	
+sick	A1	3000	adj. A1	
+similar	A1	3000	adj. A1	
+sing	A1	3000	v. A1	
+singer	A1	3000	n. A1	
+sister	A1	3000	n. A1	
+sit	A1	3000	v. A1	
+situation	A1	3000	n. A1	
+six	A1	3000	number A1	
+sixteen	A1	3000	number A1	
+sixty	A1	3000	number A1	
+skill	A1	3000	n. A1	
+skirt	A1	3000	n. A1	
+sleep	A1	3000	v. A1 | n. A2	
+slow	A1	3000	adj. A1 | v. B1	
+small	A1	3000	adj. A1	
+smart	A1	3000	adj. A1	
+snake	A1	3000	n. A1	
+snow	A1	3000	n., v. A1	
+so	A1	3000	adv., conj. A1	
+some	A1	3000	det., pron. A1	
+somebody	A1	3000	pron. A1	
+someone	A1	3000	pron. A1	
+something	A1	3000	pron. A1	
+sometimes	A1	3000	adv. A1	
+son	A1	3000	n. A1	
+song	A1	3000	n. A1	
+soon	A1	3000	adv. A1	
+sorry	A1	3000	adj., exclam. A1	
+sound	A1	3000	n., v. A1 | adj. C1	
+soup	A1	3000	n. A1	
+south	A1	3000	n., adj., adv. A1	
+space	A1	3000	n. A1	
+speak	A1	3000	v. A1	
+special	A1	3000	adj. A1	
+spell	A1	3000	v. A1 | n. C1	
+spelling	A1	3000	n. A1	
+spend	A1	3000	v. A1	
+sport	A1	3000	n. A1	
+spring	A1	3000	n. A1 | v. B1	
+stand	A1	3000	v. A1 | n. B2	
+star	A1	3000	n. A1 | v. A2	
+start	A1	3000	v. A1 | n. A2	
+statement	A1	3000	n. A1	
+station	A1	3000	n. A1	
+stay	A1	3000	v. A1 | n. A2	
+still	A1	3000	adv. A1 | adj. B1	
+stop	A1	3000	v., n. A1	
+store	A1	3000	n. A1 | v. B1	
+story	A1	3000	n. A1	
+street	A1	3000	n. A1	
+strong	A1	3000	adj. A1	
+student	A1	3000	n. A1	
+study	A1	3000	n., v. A1	
+style	A1	3000	n. A1	
+subject	A1	3000	n. A1 | adj. B2	
+success	A1	3000	n. A1	
+sugar	A1	3000	n. A1	
+summer	A1	3000	n. A1	
+sun	A1	3000	n. A1	
+Sunday	A1	3000	n. A1	
+sunny	A1	3000	adj. A1	
+supermarket	A1	3000	n. A1	
+sure	A1	3000	adj. A1 | adv. A2	
+sweater	A1	3000	n. A1	
+swim	A1	3000	v. A1 | n. B1	
+swimming	A1	3000	n. A1	
+T-shirt	A1	3000	n. A1	
+table	A1	3000	n. A1	
+take	A1	3000	v. A1	
+talk	A1	3000	v. A1 | n. A2	
+tall	A1	3000	adj. A1	
+taxi	A1	3000	n. A1	
+tea	A1	3000	n. A1	
+teach	A1	3000	v. A1	
+teacher	A1	3000	n. A1	
+team	A1	3000	n. A1	
+teenager	A1	3000	n. A1	
+telephone	A1	3000	n., v. A1	
+television	A1	3000	n. A1	
+tell	A1	3000	v. A1	
+ten	A1	3000	number A1	
+tennis	A1	3000	n. A1	
+terrible	A1	3000	adj. A1	
+test	A1	3000	n., v. A1	
+text	A1	3000	n. A1 | v. A2	
+than	A1	3000	conj. A1	
+thank	A1	3000	v. A1	
+thanks	A1	3000	exclam., n. A1	
+that	A1	3000	det., pron., conj. A1 | adv. B1	
+the	A1	3000	definite article A1	
+theater	A1	3000	n. A1	
+their	A1	3000	det. A1	
+them	A1	3000	pron. A1	
+then	A1	3000	adv. A1	
+there	A1	3000	adv. A1	
+they	A1	3000	pron. A1	
+thing	A1	3000	n. A1	
+think	A1	3000	v. A1	
+third	A1	3000	number A1 | n. A2	
+thirsty	A1	3000	adj. A1	
+thirteen	A1	3000	number A1	
+thirty	A1	3000	number A1	
+this	A1	3000	det./pron. A1 | adv. B1	
+thousand	A1	3000	number A1	
+three	A1	3000	number A1	
+through	A1	3000	prep., adv. A1	
+Thursday	A1	3000	n. A1	
+ticket	A1	3000	n. A1	
+time	A1	3000	n. A1 | v. B2	
+tired	A1	3000	adj. A1	
+title	A1	3000	n. A1 | v. B2	
+to	A1	3000	prep., infinitive marker A1	
+today	A1	3000	adv., n. A1	
+together	A1	3000	adv. A1	
+toilet	A1	3000	n. A1	
+tomato	A1	3000	n. A1	
+tomorrow	A1	3000	adv., n. A1	
+tonight	A1	3000	adv., n. A1	
+too	A1	3000	adv. A1	
+tooth	A1	3000	n. A1	
+topic	A1	3000	n. A1	
+tourist	A1	3000	n. A1	
+town	A1	3000	n. A1	
+traffic	A1	3000	n. A1	
+train	A1	3000	n. A1 | v. A2	
+travel	A1	3000	v., n. A1	
+tree	A1	3000	n. A1	
+trip	A1	3000	n. A1 | v. B2	
+truck	A1	3000	n. A1	
+true	A1	3000	adj. A1	
+try	A1	3000	v. A1 | n. B2	
+Tuesday	A1	3000	n. A1	
+turn	A1	3000	v., n. A1	
+TV	A1	3000	n. A1	
+twelve	A1	3000	number A1	
+twenty	A1	3000	number A1	
+twice	A1	3000	adv. A1	
+two	A1	3000	number A1	
+type	A1	3000	n. A1 | v. B1	
+umbrella	A1	3000	n. A1	
+uncle	A1	3000	n. A1	
+under	A1	3000	prep., adv. A1	
+understand	A1	3000	v. A1	
+university	A1	3000	n. A1	
+until	A1	3000	conj./prep. A1	
+up	A1	3000	adv., prep. A1	
+upstairs	A1	3000	adv. A1 | adj. A2	
+us	A1	3000	pron. A1	
+use	A1	3000	v. A1 | n. A2	
+useful	A1	3000	adj. A1	
+usually	A1	3000	adv. A1	
+vacation	A1	3000	n. A1	
+vegetable	A1	3000	n. A1	
+very	A1	3000	adv. A1 | adj. B2	
+video	A1	3000	n. A1	
+visit	A1	3000	v., n. A1	
+visitor	A1	3000	n. A1	
+wait	A1	3000	v. A1 | n. A2	
+waiter	A1	3000	n. A1	
+wake	A1	3000	v. A1	
+walk	A1	3000	v., n. A1	
+wall	A1	3000	n. A1	
+want	A1	3000	v. A1	
+warm	A1	3000	adj. A1 | v. B1	
+wash	A1	3000	v. A1 | n. A2	
+watch	A1	3000	v., n. A1	
+water	A1	3000	n. A1 | v. B1	
+way	A1	3000	n. A1 | adv. B2	
+we	A1	3000	pron. A1	
+wear	A1	3000	v. A1	
+weather	A1	3000	n. A1	
+website	A1	3000	n. A1	
+Wednesday	A1	3000	n. A1	
+week	A1	3000	n. A1	
+weekend	A1	3000	n. A1	
+welcome	A1	3000	exclam., v., adj. A1 | n. A2	
+well	A1	3000	adv., adj., exclam. A1 | n. C1	
+west	A1	3000	n., adj., adv. A1	
+what	A1	3000	pron./det. A1	
+when	A1	3000	adv., pron., conj. A1	
+where	A1	3000	adv., conj. A1	
+which	A1	3000	pron./det. A1	
+white	A1	3000	adj., n. A1	
+who	A1	3000	pron. A1	
+why	A1	3000	adv. A1	
+wife	A1	3000	n. A1	
+will	A1	3000	modal v. A1 | n. B1	
+win	A1	3000	v. A1 | n. B1	
+window	A1	3000	n. A1	
+wine	A1	3000	n. A1	
+winter	A1	3000	n. A1	
+with	A1	3000	prep. A1	
+without	A1	3000	prep. A1	
+woman	A1	3000	n. A1	
+wonderful	A1	3000	adj. A1	
+word	A1	3000	n. A1	
+work	A1	3000	v., n. A1	
+worker	A1	3000	n. A1	
+world	A1	3000	n. A1	
+would	A1	3000	modal v. A1	
+write	A1	3000	v. A1	
+writer	A1	3000	n. A1	
+writing	A1	3000	n. A1	
+wrong	A1	3000	adj. A1 | adv. B1 | n. B2	
+yard	A1	3000	n. A1	
+yeah	A1	3000	exclam. A1	
+year	A1	3000	n. A1	
+yellow	A1	3000	adj., n. A1	
+yes	A1	3000	exclam. A1	
+yesterday	A1	3000	adv., n. A1	
+you	A1	3000	pron. A1	
+young	A1	3000	adj. A1 | n. B1	
+your	A1	3000	det. A1	
+yourself	A1	3000	pron. A1	
+ability	A2	3000	n. A2	
+able	A2	3000	adj. A2	
+accept	A2	3000	v. A2	
+accident	A2	3000	n. A2	
+according to	A2	3000	prep. A2	
+achieve	A2	3000	v. A2	
+act	A2	3000	v. A2 | n. B1	
+active	A2	3000	adj. A2	
+actually	A2	3000	adv. A2	
+advantage	A2	3000	n. A2	
+adventure	A2	3000	n. A2	
+advertise	A2	3000	v. A2	
+advertisement	A2	3000	n. A2	
+advertising	A2	3000	n. A2	
+affect	A2	3000	v. A2	
+against	A2	3000	prep. A2	
+ah	A2	3000	exclam. A2	
+airline	A2	3000	n. A2	
+alive	A2	3000	adj. A2	
+all right	A2	3000	adj./adv. A2	
+allow	A2	3000	v. A2	
+almost	A2	3000	adv. A2	
+alone	A2	3000	adj./adv. A2	
+along	A2	3000	prep., adv. A2	
+already	A2	3000	adv. A2	
+alternative	A2	3000	n. A2 | adj. B1	
+although	A2	3000	conj. A2	
+among	A2	3000	prep. A2	
+amount	A2	3000	n. A2 | v. B2	
+analyze	A2	3000	v. A2	
+ancient	A2	3000	adj. A2	
+ankle	A2	3000	n. A2	
+anybody	A2	3000	pron. A2	
+anymore	A2	3000	adv. A2	
+anyway	A2	3000	adv. A2	
+anywhere	A2	3000	adv., pron. A2	
+app	A2	3000	n. A2	
+appear	A2	3000	v. A2	
+appearance	A2	3000	n. A2	
+apply	A2	3000	v. A2	
+architect	A2	3000	n. A2	
+architecture	A2	3000	n. A2	
+argue	A2	3000	v. A2	
+argument	A2	3000	n. A2	
+army	A2	3000	n. A2	
+arrange	A2	3000	v. A2	
+arrangement	A2	3000	n. A2	
+asleep	A2	3000	adj. A2	
+assistant	A2	3000	n., adj. A2	
+athlete	A2	3000	n. A2	
+attack	A2	3000	n., v. A2	
+attend	A2	3000	v. A2	
+attention	A2	3000	n., exclam. A2	
+attractive	A2	3000	adj. A2	
+audience	A2	3000	n. A2	
+audio	A2	3000	n., adj. A2	
+author	A2	3000	n. A2	
+available	A2	3000	adj. A2	
+average	A2	3000	adj., n. A2 | v. B1	
+avoid	A2	3000	v. A2	
+award	A2	3000	n. A2 | v. B1	
+awful	A2	3000	adj. A2	
+background	A2	3000	n. A2	
+badly	A2	3000	adv. A2	
+based	A2	3000	adj. A2	
+bean	A2	3000	n. A2	
+bear	A2	3000	n. A2 | v. B2	animal | deal with
+beef	A2	3000	n. A2	
+behave	A2	3000	v. A2	
+behavior	A2	3000	n. A2	
+belong	A2	3000	v. A2	
+belt	A2	3000	n. A2	
+benefit	A2	3000	n. A2 | v. B1	
+billion	A2	3000	number A2	
+biology	A2	3000	n. A2	
+birth	A2	3000	n. A2	
+bit	A2	3000	n. A2	
+block	A2	3000	n. A2 | v. B1	
+blood	A2	3000	n. A2	
+blow	A2	3000	v. A2 | n. C1	
+board	A2	3000	n. A2 | v. B1	
+boil	A2	3000	v. A2	
+bone	A2	3000	n. A2	
+borrow	A2	3000	v. A2	
+boss	A2	3000	n. A2	
+bottom	A2	3000	n., adj. A2	
+bowl	A2	3000	n. A2	
+brain	A2	3000	n. A2	
+bridge	A2	3000	n. A2	
+bright	A2	3000	adj. A2	
+brilliant	A2	3000	adj. A2	
+broken	A2	3000	adj. A2	
+brush	A2	3000	v., n. A2	
+burn	A2	3000	v. A2 | n. B2	
+businessman	A2	3000	n. A2	
+button	A2	3000	n. A2	
+camp	A2	3000	n., v. A2	
+camping	A2	3000	n. A2	
+campus	A2	3000	n. A2	
+candy	A2	3000	n. A2	
+care	A2	3000	n., v. A2	
+careful	A2	3000	adj. A2	
+carefully	A2	3000	adv. A2	
+carpet	A2	3000	n. A2	
+cartoon	A2	3000	n. A2	
+case	A2	3000	n. A2	
+cash	A2	3000	n. A2	
+catch	A2	3000	v. A2 | n. B2	
+cause	A2	3000	n., v. A2	
+celebrate	A2	3000	v. A2	
+celebrity	A2	3000	n. A2	
+cell	A2	3000	n. A2	
+century	A2	3000	n. A2	
+certain	A2	3000	adj. A2	
+certainly	A2	3000	adv. A2	
+chance	A2	3000	n. A2	
+character	A2	3000	n. A2	
+charity	A2	3000	n. A2	
+chat	A2	3000	v., n. A2	
+chef	A2	3000	n. A2	
+chemistry	A2	3000	n. A2	
+chip	A2	3000	n. A2	
+choice	A2	3000	n. A2	
+church	A2	3000	n. A2	
+cigarette	A2	3000	n. A2	
+circle	A2	3000	n., v. A2	
+classical	A2	3000	adj. A2	
+clear	A2	3000	adj. A2 | v. B1	
+clearly	A2	3000	adv. A2	
+clerk	A2	3000	n. A2 | n. B2	
+climate	A2	3000	n. A2	
+closed	A2	3000	adj. A2	
+closet	A2	3000	n. A2	
+clothing	A2	3000	n. A2	
+cloud	A2	3000	n. A2	
+coach	A2	3000	n. A2 | v. B1	
+coast	A2	3000	n. A2	
+code	A2	3000	n. A2	
+colleague	A2	3000	n. A2	
+collect	A2	3000	v. A2	
+column	A2	3000	n. A2	
+comedy	A2	3000	n. A2	
+comfortable	A2	3000	adj. A2	
+comment	A2	3000	n. A2 | v. B1	
+communicate	A2	3000	v. A2	
+community	A2	3000	n. A2	
+compete	A2	3000	v. A2	
+competition	A2	3000	n. A2	
+complain	A2	3000	v. A2	
+completely	A2	3000	adv. A2	
+condition	A2	3000	n. A2	
+conference	A2	3000	n. A2	
+connect	A2	3000	v. A2	
+connected	A2	3000	adj. A2	
+consider	A2	3000	v. A2	
+contain	A2	3000	v. A2	
+context	A2	3000	n. A2	
+continent	A2	3000	n. A2	
+continue	A2	3000	v. A2	
+control	A2	3000	n., v. A2	
+cookie	A2	3000	n. A2	
+copy	A2	3000	n., v. A2	
+corner	A2	3000	n. A2	
+correctly	A2	3000	adv. A2	
+count	A2	3000	v. A2 | n. B1	
+couple	A2	3000	n. A2	
+cover	A2	3000	v. A2 | n. B1	
+crazy	A2	3000	adj. A2	
+creative	A2	3000	adj. A2	
+credit	A2	3000	n. A2 | v. B2	
+crime	A2	3000	n. A2	
+criminal	A2	3000	n. A2 | adj. B1	
+cross	A2	3000	v., n. A2	
+crowd	A2	3000	n. A2	
+crowded	A2	3000	adj. A2	
+cry	A2	3000	v. A2 | n. B2	
+curly	A2	3000	adj. A2	
+cycle	A2	3000	n., v. A2	
+daily	A2	3000	adj. A2 | adv. B1	
+danger	A2	3000	n. A2	
+data	A2	3000	n. A2	
+dead	A2	3000	adj. A2	
+deal	A2	3000	v. A2 | n. B1	
+death	A2	3000	n. A2	
+decision	A2	3000	n. A2	
+deep	A2	3000	adj. A2 | adv. B1	
+definitely	A2	3000	adv. A2	
+degree	A2	3000	n. A2	
+dentist	A2	3000	n. A2	
+department	A2	3000	n. A2	
+depend	A2	3000	v. A2	
+desert	A2	3000	n. A2 | v. B2	
+designer	A2	3000	n. A2	
+dessert	A2	3000	n. A2	
+destroy	A2	3000	v. A2	
+detective	A2	3000	n. A2	
+develop	A2	3000	v. A2	
+device	A2	3000	n. A2	
+diary	A2	3000	n. A2	
+differently	A2	3000	adv. A2	
+digital	A2	3000	adj. A2	
+direct	A2	3000	adj. A2 | v., adv. B1	
+direction	A2	3000	n. A2	
+director	A2	3000	n. A2	
+disagree	A2	3000	v. A2	
+disappear	A2	3000	v. A2	
+disaster	A2	3000	n. A2	
+discover	A2	3000	v. A2	
+discovery	A2	3000	n. A2	
+discussion	A2	3000	n. A2	
+disease	A2	3000	n. A2	
+distance	A2	3000	n. A2	
+divorced	A2	3000	adj. A2	
+document	A2	3000	n. A2 | v. B2	
+double	A2	3000	adj., det., pron., v. A2 | adv. B1	
+download	A2	3000	v., n. A2	
+downtown	A2	3000	adv., n., adj. A2 | n., adj., adv. B2	
+drama	A2	3000	n. A2	
+drawing	A2	3000	n. A2	
+dream	A2	3000	n., v. A2	
+driving	A2	3000	n. A2 | adj. C1	
+drop	A2	3000	v. A2 | n. B1	
+drug	A2	3000	n. A2	
+dry	A2	3000	adj., v. A2	
+earn	A2	3000	v. A2	
+earth	A2	3000	n. A2	
+easily	A2	3000	adv. A2	
+education	A2	3000	n. A2	
+effect	A2	3000	n. A2	
+either	A2	3000	det./pron., adv. A2	
+electric	A2	3000	adj. A2	
+electrical	A2	3000	adj. A2	
+electricity	A2	3000	n. A2	
+electronic	A2	3000	adj. A2	
+elevator	A2	3000	n. A2	
+employ	A2	3000	v. A2	
+employee	A2	3000	n. A2	
+employer	A2	3000	n. A2	
+empty	A2	3000	adj. A2 | v. B1	
+ending	A2	3000	n. A2	
+energy	A2	3000	n. A2	
+engine	A2	3000	n. A2	
+engineer	A2	3000	n. A2	
+enormous	A2	3000	adj. A2	
+enter	A2	3000	v. A2	
+environment	A2	3000	n. A2	
+equipment	A2	3000	n. A2	
+error	A2	3000	n. A2	
+especially	A2	3000	adv. A2	
+essay	A2	3000	n. A2	
+everyday	A2	3000	adj. A2	
+everywhere	A2	3000	adv. A2	
+evidence	A2	3000	n. A2	
+exact	A2	3000	adj. A2	
+exactly	A2	3000	adv. A2	
+excellent	A2	3000	adj. A2	
+except	A2	3000	prep. A2 | conj. B1	
+exist	A2	3000	v. A2	
+expect	A2	3000	v. A2	
+experience	A2	3000	n. A2 | v. B1	
+experiment	A2	3000	n. A2 | v. B1	
+expert	A2	3000	n.,adj. A2	
+explanation	A2	3000	n. A2	
+express	A2	3000	v. A2	
+expression	A2	3000	n. A2	
+extreme	A2	3000	adj. A2 | n. B2	
+extremely	A2	3000	adv. A2	
+factor	A2	3000	n. A2	
+factory	A2	3000	n. A2	
+fail	A2	3000	v. A2	
+fair	A2	3000	adj. A2	
+fan	A2	3000	n. A2	
+farming	A2	3000	n. A2	
+fashion	A2	3000	n. A2	
+fear	A2	3000	n. A2 | v. B1	
+feature	A2	3000	n. A2 | v. B1	
+feed	A2	3000	v. A2 | n. B2	
+female	A2	3000	adj., n. A2	
+fever	A2	3000	n. A2 | n. B2	
+fiction	A2	3000	n. A2	
+field	A2	3000	n. A2	
+fight	A2	3000	v., n. A2	
+figure	A2	3000	n. A2 | v. B2	
+film	A2	3000	n., v. A2	
+finally	A2	3000	adv. A2	
+finger	A2	3000	n. A2	
+fishing	A2	3000	n. A2	
+fit	A2	3000	v., adj. A2 | n. C1	
+fix	A2	3000	v. A2 | n. B2	
+flat	A2	3000	adj. A2	
+flu	A2	3000	n. A2	
+flying	A2	3000	n., adj. A2	
+focus	A2	3000	v., n. A2	
+following	A2	3000	adj. A2 | n. B1 | prep. B2	
+foreign	A2	3000	adj. A2	
+forest	A2	3000	n. A2	
+fork	A2	3000	n. A2	
+formal	A2	3000	adj. A2	
+fortunately	A2	3000	adv. A2	
+forward	A2	3000	adv. A2 | adj. B2	
+fresh	A2	3000	adj. A2	
+frog	A2	3000	n. A2	
+furniture	A2	3000	n. A2	
+further	A2	3000	adj. A2 | adv. B1	
+gallery	A2	3000	n. A2	
+gap	A2	3000	n. A2	
+garbage	A2	3000	n. A2	
+gas	A2	3000	n. A2	
+gate	A2	3000	n. A2	
+general	A2	3000	adj. A2	
+gift	A2	3000	n. A2	
+goal	A2	3000	n. A2	
+god	A2	3000	n. A2	
+gold	A2	3000	n., adj. A2	
+golf	A2	3000	n. A2	
+government	A2	3000	n. A2	
+grass	A2	3000	n. A2	
+greet	A2	3000	v. A2	
+grocery	A2	3000	n. A2 | n. B2	
+ground	A2	3000	n. A2	
+guest	A2	3000	n. A2	
+guide	A2	3000	n., v. A2	
+gun	A2	3000	n. A2	
+guy	A2	3000	n. A2	
+habit	A2	3000	n. A2	
+hall	A2	3000	n. A2	
+happily	A2	3000	adv. A2	
+headache	A2	3000	n. A2	
+heart	A2	3000	n. A2	
+heat	A2	3000	n., v. A2	
+heavy	A2	3000	adj. A2	
+height	A2	3000	n. A2	
+helpful	A2	3000	adj. A2	
+hero	A2	3000	n. A2	
+hers	A2	3000	pron. A2	
+herself	A2	3000	pron. A2	
+hide	A2	3000	v. A2	
+hike	A2	3000	n., v. A2	
+hill	A2	3000	n. A2	
+himself	A2	3000	pron. A2	
+hit	A2	3000	v., n. A2	
+hockey	A2	3000	n. A2	
+hold	A2	3000	v. A2 | n. B2	
+hole	A2	3000	n. A2	
+huge	A2	3000	adj. A2	
+human	A2	3000	adj., n. A2	
+hurt	A2	3000	v., adj. A2 | n. B2	
+ideal	A2	3000	adj. A2 | n. B2	
+identify	A2	3000	v. A2	
+ill	A2	3000	adj. A2	
+illness	A2	3000	n. A2	
+image	A2	3000	n. A2	
+immediately	A2	3000	adv. A2	
+impossible	A2	3000	adj. A2	
+included	A2	3000	adj. A2	
+including	A2	3000	prep. A2	
+increase	A2	3000	v., n. A2	
+incredible	A2	3000	adj. A2	
+independent	A2	3000	adj. A2	
+individual	A2	3000	n., adj. A2	
+industry	A2	3000	n. A2	
+informal	A2	3000	adj. A2	
+injury	A2	3000	n. A2	
+insect	A2	3000	n. A2	
+inside	A2	3000	prep., adv., n., adj. A2	
+instead	A2	3000	adv. A2	
+instead of	A2	3000	prep. A2	
+instruction	A2	3000	n. A2	
+instructor	A2	3000	n. A2	
+instrument	A2	3000	n. A2	
+intelligent	A2	3000	adj. A2	
+international	A2	3000	adj. A2	
+introduction	A2	3000	n. A2	
+invent	A2	3000	v. A2	
+invention	A2	3000	n. A2	
+invitation	A2	3000	n. A2	
+invite	A2	3000	v. A2	
+involve	A2	3000	v. A2	
+item	A2	3000	n. A2	
+itself	A2	3000	pron. A2	
+jam	A2	3000	n. A2	
+jazz	A2	3000	n. A2	
+jewelry	A2	3000	n. A2	
+joke	A2	3000	n., v. A2	
+journalist	A2	3000	n. A2	
+jump	A2	3000	v., n. A2	
+kid	A2	3000	n. A2	
+kill	A2	3000	v. A2	
+kilometer	A2	3000	n. A2	
+king	A2	3000	n. A2	
+knee	A2	3000	n. A2	
+knife	A2	3000	n. A2	
+knock	A2	3000	v. A2 | n. B1	
+knowledge	A2	3000	n. A2	
+lab	A2	3000	n. A2	
+lady	A2	3000	n. A2	
+lake	A2	3000	n. A2	
+lamp	A2	3000	n. A2	
+laptop	A2	3000	n. A2	
+laughter	A2	3000	n. A2	
+law	A2	3000	n. A2	
+lawyer	A2	3000	n. A2	
+lazy	A2	3000	adj. A2	
+lead	A2	3000	v. A2 | n. B1	homograph 1
+leader	A2	3000	n. A2	
+learning	A2	3000	n. A2	
+least	A2	3000	det./pron., adv. A2	
+lecture	A2	3000	n., v. A2	
+lemon	A2	3000	n. A2	
+lend	A2	3000	v. A2	
+less	A2	3000	det./pron., adv. A2	
+level	A2	3000	n. A2 | adj. B1 | v. B2	
+lifestyle	A2	3000	n. A2	
+lift	A2	3000	v. A2	
+likely	A2	3000	adj. A2	
+link	A2	3000	n., v. A2	
+listener	A2	3000	n. A2	
+lock	A2	3000	v., n. A2	
+lost	A2	3000	adj. A2	
+loud	A2	3000	adj., adv. A2	
+loudly	A2	3000	adv. A2	
+low	A2	3000	adj., adv. A2 | n. B2	
+luck	A2	3000	n. A2	
+lucky	A2	3000	adj. A2	
+mail	A2	3000	n., v. A2	
+major	A2	3000	adj. A2 | n. B2 | n. C1	
+male	A2	3000	adj., n. A2	
+manage	A2	3000	v. A2	
+manager	A2	3000	n. A2	
+manner	A2	3000	n. A2	
+mark	A2	3000	v., n. A2	
+marry	A2	3000	v. A2	
+material	A2	3000	n. A2 | adj. B2	
+math	A2	3000	n. A2	
+mathematics	A2	3000	n. A2	
+matter	A2	3000	n., v. A2	
+may	A2	3000	modal v. A2	
+mayor	A2	3000	n. A2 | n. B2	
+media	A2	3000	n. A2	
+medical	A2	3000	adj. A2	
+medicine	A2	3000	n. A2	
+memory	A2	3000	n. A2	
+mention	A2	3000	v. A2 | n. B1	
+metal	A2	3000	n. A2	
+method	A2	3000	n. A2	
+middle	A2	3000	n., adj. A2	
+might	A2	3000	modal v. A2	
+mind	A2	3000	n., v. A2	
+mine	A2	3000	pron. A2 | n. B1	belongs to me | hole in the ground
+mirror	A2	3000	n. A2	
+missing	A2	3000	adj. A2	
+mobile	A2	3000	adj., n. A2	
+monkey	A2	3000	n. A2	
+moon	A2	3000	n. A2	
+mostly	A2	3000	adv. A2	
+motorcycle	A2	3000	n. A2	
+movement	A2	3000	n. A2	
+musical	A2	3000	adj. A2 | n. B1	
+musician	A2	3000	n. A2	
+myself	A2	3000	pron. A2	
+narrow	A2	3000	adj. A2 | v. B2	
+national	A2	3000	adj. A2 | n. B2	
+nature	A2	3000	n. A2	
+nearly	A2	3000	adv. A2	
+necessary	A2	3000	adj. A2	
+neck	A2	3000	n. A2	
+neither	A2	3000	det./pron. A2 | adv. B1	
+nervous	A2	3000	adj. A2	
+network	A2	3000	n. A2	
+noise	A2	3000	n. A2	
+noisy	A2	3000	adj. A2	
+none	A2	3000	pron. A2	
+normal	A2	3000	adj. A2 | n. B1	
+normally	A2	3000	adv. A2	
+notice	A2	3000	v., n. A2	
+novel	A2	3000	n. A2 | adj. C1	
+nowhere	A2	3000	adv. A2	
+nut	A2	3000	n. A2	
+offer	A2	3000	v., n. A2	
+officer	A2	3000	n. A2	
+oil	A2	3000	n. A2	
+onto	A2	3000	prep. A2	
+opportunity	A2	3000	n. A2	
+option	A2	3000	n. A2	
+ordinary	A2	3000	adj. A2	
+organization	A2	3000	n. A2	
+organize	A2	3000	v. A2	
+original	A2	3000	adj. A2 | n. B1	
+ourselves	A2	3000	pron. A2	
+oven	A2	3000	n. A2	
+overseas	A2	3000	adv. A2 | adj. B1 | adv., adj. B2	
+owner	A2	3000	n. A2	
+pack	A2	3000	v. A2 | n. B1	
+pain	A2	3000	n. A2	
+painter	A2	3000	n. A2	
+palace	A2	3000	n. A2	
+parking	A2	3000	n. A2	
+particular	A2	3000	adj. A2	
+pass	A2	3000	v. A2 | n. B1	
+passenger	A2	3000	n. A2	
+patient	A2	3000	n. A2 | adj. B2	
+pattern	A2	3000	n. A2	
+peace	A2	3000	n. A2	
+penny	A2	3000	n. A2	
+per	A2	3000	prep. A2	
+percent	A2	3000	n., adj./adv. A2	
+perform	A2	3000	v. A2	
+perhaps	A2	3000	adv. A2	
+permission	A2	3000	n. A2	
+personality	A2	3000	n. A2	
+pet	A2	3000	n. A2	
+physical	A2	3000	adj. A2	
+physics	A2	3000	n. A2	
+pick	A2	3000	v. A2 | n. B2	
+pilot	A2	3000	n. A2	
+planet	A2	3000	n. A2	
+plastic	A2	3000	n., adj. A2	
+plate	A2	3000	n. A2	
+platform	A2	3000	n. A2	
+pleased	A2	3000	adj. A2	
+pocket	A2	3000	n. A2	
+polite	A2	3000	adj. A2	
+pollution	A2	3000	n. A2	
+pop	A2	3000	n., adj. A2 | v. C1	
+population	A2	3000	n. A2	
+position	A2	3000	n. A2 | v. B2	
+possession	A2	3000	n. A2	
+possibility	A2	3000	n. A2	
+poster	A2	3000	n. A2	
+power	A2	3000	n. A2 | v. B2	
+predict	A2	3000	v. A2	
+president	A2	3000	n. A2	
+prevent	A2	3000	v. A2	
+print	A2	3000	v. A2 | n. B2	
+printer	A2	3000	n. A2	
+prison	A2	3000	n. A2	
+prize	A2	3000	n. A2	
+process	A2	3000	n. A2 | v. B2	
+produce	A2	3000	v. A2 | n. B2	
+professional	A2	3000	adj. A2 | n. B2	
+professor	A2	3000	n. A2	
+profile	A2	3000	n. A2	
+progress	A2	3000	n. A2 | v. B2	
+promise	A2	3000	v., n. A2	
+pronounce	A2	3000	v. A2	
+protect	A2	3000	v. A2	
+provide	A2	3000	v. A2	
+public	A2	3000	adj., n. A2	
+publish	A2	3000	v. A2	
+pull	A2	3000	v. A2 | n. B1	
+purpose	A2	3000	n. A2	
+push	A2	3000	v. A2 | n. B1	
+quality	A2	3000	n. A2	
+quantity	A2	3000	n. A2	
+queen	A2	3000	n. A2	
+quietly	A2	3000	adv. A2	
+race	A2	3000	n., v. A2 | n. B1	competition | of people
+railroad	A2	3000	n. A2	
+raise	A2	3000	v. A2 | n. B1	
+rate	A2	3000	n. A2 | v. B2	
+rather	A2	3000	adv. A2	
+reach	A2	3000	v. A2 | n. B2	
+react	A2	3000	v. A2	
+realize	A2	3000	v. A2	
+receive	A2	3000	v. A2	
+recent	A2	3000	adj. A2	
+recently	A2	3000	adv. A2	
+reception	A2	3000	n. A2	
+recipe	A2	3000	n. A2	
+recognize	A2	3000	v. A2	
+recommend	A2	3000	v. A2	
+record	A2	3000	n., v. A2	
+recording	A2	3000	n. A2	
+recycle	A2	3000	v. A2	
+reduce	A2	3000	v. A2	
+refer	A2	3000	v. A2	
+refrigerator	A2	3000	n. A2	
+refuse	A2	3000	v. A2	homograph 1
+region	A2	3000	n. A2	
+regular	A2	3000	adj. A2	
+relationship	A2	3000	n. A2	
+remove	A2	3000	v. A2	
+repair	A2	3000	v. A2 | n. B1	
+replace	A2	3000	v. A2	
+reply	A2	3000	v., n. A2	
+reporter	A2	3000	n. A2	
+request	A2	3000	n. A2 | v. B1	
+research	A2	3000	n., v. A2	
+researcher	A2	3000	n. A2	
+respond	A2	3000	v. A2	
+response	A2	3000	n. A2	
+rest	A2	3000	n. A2 | n., v. A2	remaining part | sleep/relax
+review	A2	3000	n., v. A2	
+ring	A2	3000	n. A2 | v. A2 | n. B1	homograph 1 | homograph 2
+rise	A2	3000	v. A2 | n. B2	
+rock	A2	3000	n. A2 | n. A2 | v. C1	stone | music
+role	A2	3000	n. A2	
+roof	A2	3000	n. A2	
+round	A2	3000	adj., adv., prep. A2 | n. B2	
+route	A2	3000	n. A2	
+rude	A2	3000	adj. A2	
+runner	A2	3000	n. A2	
+running	A2	3000	n. A2	
+sadly	A2	3000	adv. A2	
+safe	A2	3000	adj. A2	
+sail	A2	3000	v. A2 | n. B1	
+sailing	A2	3000	n. A2	
+salary	A2	3000	n. A2	
+sale	A2	3000	n. A2	
+sauce	A2	3000	n. A2	
+save	A2	3000	v. A2	
+scared	A2	3000	adj. A2	
+scary	A2	3000	adj. A2	
+scene	A2	3000	n. A2	
+schedule	A2	3000	n. A2 | v. B2	
+score	A2	3000	v., n. A2	
+screen	A2	3000	n. A2 | v. B2	
+sea	A2	3000	n. A2	
+search	A2	3000	n., v. A2	
+season	A2	3000	n. A2	
+seat	A2	3000	n. A2 | v. B2	
+secret	A2	3000	adj., n. A2	
+secretary	A2	3000	n. A2	
+seem	A2	3000	v. A2	
+sense	A2	3000	n. A2 | v. B2	
+separate	A2	3000	adj. A2 | v. B1	
+series	A2	3000	n. A2	
+serious	A2	3000	adj. A2	
+serve	A2	3000	v. A2	
+service	A2	3000	n. A2	
+several	A2	3000	det./pron. A2	
+shake	A2	3000	v. A2 | n. B1	
+shape	A2	3000	n. A2 | v. B2	
+sheet	A2	3000	n. A2	
+ship	A2	3000	n. A2 | v. B2	
+shoulder	A2	3000	n. A2	
+shout	A2	3000	v., n. A2	
+shut	A2	3000	v., adj. A2	
+side	A2	3000	n. A2	
+sign	A2	3000	n., v. A2	
+silver	A2	3000	n., adj. A2	
+simple	A2	3000	adj. A2	
+since	A2	3000	prep., conj. A2 | adv. B1	
+singing	A2	3000	n. A2	
+single	A2	3000	adj., n. A2	
+sir	A2	3000	n. A2	
+site	A2	3000	n. A2	
+size	A2	3000	n. A2	
+ski	A2	3000	v., adj., n. A2	
+skiing	A2	3000	n. A2	
+skin	A2	3000	n. A2	
+sky	A2	3000	n. A2	
+slowly	A2	3000	adv. A2	
+smartphone	A2	3000	n. A2	
+smell	A2	3000	v., n. A2	
+smile	A2	3000	v., n. A2	
+smoke	A2	3000	n., v. A2	
+smoking	A2	3000	n. A2	
+sneaker	A2	3000	n. A2	
+soap	A2	3000	n. A2	
+soccer	A2	3000	n. A2	
+social	A2	3000	adj. A2	
+society	A2	3000	n. A2	
+sock	A2	3000	n. A2	
+soft	A2	3000	adj. A2	
+soldier	A2	3000	n. A2	
+solution	A2	3000	n. A2	
+solve	A2	3000	v. A2	
+somewhere	A2	3000	adv., pron. A2	
+sort	A2	3000	n. A2 | v. B1	
+source	A2	3000	n. A2	
+speaker	A2	3000	n. A2	
+specific	A2	3000	adj. A2	
+speech	A2	3000	n. A2	
+speed	A2	3000	n. A2 | v. B2	
+spider	A2	3000	n. A2	
+spoon	A2	3000	n. A2	
+square	A2	3000	adj., n. A2	
+stage	A2	3000	n. A2 | v. B2	
+stair	A2	3000	n. A2	
+stamp	A2	3000	n. A2	
+state	A2	3000	n. A2 | adj., v. B1	
+steal	A2	3000	v. A2	
+step	A2	3000	n. A2 | v. B2	
+stomach	A2	3000	n. A2	
+stone	A2	3000	n. A2	
+storm	A2	3000	n., v. A2	
+stove	A2	3000	n. A2	
+straight	A2	3000	adv., adj. A2	
+strange	A2	3000	adj. A2	
+strategy	A2	3000	n. A2	
+stress	A2	3000	n., v. A2	
+structure	A2	3000	n. A2 | v. B2	
+stupid	A2	3000	adj. A2	
+subway	A2	3000	n. A2	
+succeed	A2	3000	v. A2	
+successful	A2	3000	adj. A2	
+such	A2	3000	det./pron. A2	
+suddenly	A2	3000	adv. A2	
+suggest	A2	3000	v. A2	
+suggestion	A2	3000	n. A2	
+suit	A2	3000	n. A2 | v. B1	
+support	A2	3000	v., n. A2	
+suppose	A2	3000	v. A2	
+surprise	A2	3000	n., v. A2	
+surprised	A2	3000	adj. A2	
+surprising	A2	3000	adj. A2	
+survey	A2	3000	n. A2 | v. B2	
+sweet	A2	3000	adj., n. A2	
+symbol	A2	3000	n. A2	
+system	A2	3000	n. A2	
+tablet	A2	3000	n. A2	
+target	A2	3000	n. A2 | v. B2	
+task	A2	3000	n. A2	
+taste	A2	3000	n., v. A2	
+teaching	A2	3000	n. A2	
+technology	A2	3000	n. A2	
+teenage	A2	3000	adj. A2	
+temperature	A2	3000	n. A2	
+term	A2	3000	n. A2 | v. B2	
+themselves	A2	3000	pron. A2	
+thick	A2	3000	adj. A2	
+thief	A2	3000	n. A2	
+thin	A2	3000	adj. A2	
+thinking	A2	3000	n. A2	
+thought	A2	3000	n. A2	
+throw	A2	3000	v. A2	
+tie	A2	3000	v., n. A2	
+tip	A2	3000	n. A2 | v. B1	
+tool	A2	3000	n. A2	
+top	A2	3000	n., adj. A2 | v. C1	
+touch	A2	3000	v. A2 | n. B1	
+tour	A2	3000	n. A2 | v. B1	
+tourism	A2	3000	n. A2	
+toward	A2	3000	prep. A2	
+towel	A2	3000	n. A2	
+tower	A2	3000	n. A2	
+toy	A2	3000	n., adj. A2	
+track	A2	3000	n. A2 | v. B2	
+tradition	A2	3000	n. A2	
+traditional	A2	3000	adj. A2	
+training	A2	3000	n. A2	
+transportation	A2	3000	n. A2 | n. B2	
+trash	A2	3000	n. A2	
+traveler	A2	3000	n. A2	
+trouble	A2	3000	n. A2 | v. B2	
+twin	A2	3000	n., adj. A2	
+typical	A2	3000	adj. A2	
+underground	A2	3000	adj., adv. A2	
+understanding	A2	3000	n. A2	
+unfortunately	A2	3000	adv. A2	
+unhappy	A2	3000	adj. A2	
+uniform	A2	3000	n. A2	
+unit	A2	3000	n. A2	
+united	A2	3000	adj. A2	
+unusual	A2	3000	adj. A2	
+used to	A2	3000	modal v. A2 | adj. B1	
+user	A2	3000	n. A2	
+usual	A2	3000	adj. A2	
+valley	A2	3000	n. A2	
+variety	A2	3000	n. A2	
+vehicle	A2	3000	n. A2	
+view	A2	3000	n. A2 | v. B1	
+village	A2	3000	n. A2	
+virus	A2	3000	n. A2	
+voice	A2	3000	n. A2	
+war	A2	3000	n. A2	
+washing	A2	3000	n. A2	
+wave	A2	3000	n. A2 | v. B1	
+weak	A2	3000	adj. A2	
+web	A2	3000	n. A2	
+wedding	A2	3000	n. A2	
+weight	A2	3000	n. A2	
+wet	A2	3000	adj. A2	
+wheel	A2	3000	n. A2	
+while	A2	3000	conj. A2 | n. B1	
+whole	A2	3000	adj. A2 | n. B1	
+whose	A2	3000	det./pron. A2	
+wide	A2	3000	adj. A2	
+wild	A2	3000	adj. A2	
+wind	A2	3000	n. A2 | v. B2	homograph 1 | homograph 2
+winner	A2	3000	n. A2	
+wish	A2	3000	v., n. A2	
+wood	A2	3000	n. A2	
+wooden	A2	3000	adj. A2	
+working	A2	3000	adj. A2	
+worried	A2	3000	adj. A2	
+worry	A2	3000	v. A2 | n. B1	
+worse	A2	3000	adj. A2 | adv. B1 | n. B2	
+worst	A2	3000	adj. A2 | adv. B1 | n. B2	
+wow	A2	3000	exclam. A2	
+yet	A2	3000	adv. A2 | conj. B2	
+yours	A2	3000	pron. A2	
+zero	A2	3000	number A2	
+absolutely	B1	3000	adv. B1	
+academic	B1	3000	adj. B1	
+access	B1	3000	n., v. B1	
+account	B1	3000	n. B1 | v. B2	
+achievement	B1	3000	n. B1	
+ad	B1	3000	n. B1	
+addition	B1	3000	n. B1	
+administration	B1	3000	n. B1	
+admire	B1	3000	v. B1	
+admit	B1	3000	v. B1	
+advanced	B1	3000	adj. B1	
+advise	B1	3000	v. B1	
+afford	B1	3000	v. B1	
+agent	B1	3000	n. B1	
+agreement	B1	3000	n. B1	
+ahead	B1	3000	adv. B1	
+AI	B1	3000	n. B1	
+aim	B1	3000	v., n. B1	
+alarm	B1	3000	n. B1 | v. B2	
+album	B1	3000	n. B1	
+alcohol	B1	3000	n. B1	
+alcoholic	B1	3000	adj. B1	
+amazed	B1	3000	adj. B1	
+ambition	B1	3000	n. B1	
+analysis	B1	3000	n. B1	
+announce	B1	3000	v. B1	
+announcement	B1	3000	n. B1	
+annoy	B1	3000	v. B1	
+annoyed	B1	3000	adj. B1	
+annoying	B1	3000	adj. B1	
+apart	B1	3000	adv. B1	
+apologize	B1	3000	v. B1	
+application	B1	3000	n. B1	
+appointment	B1	3000	n. B1	
+appreciate	B1	3000	v. B1	
+approximately	B1	3000	adv. B1	
+arrest	B1	3000	v., n. B1	
+arrival	B1	3000	n. B1	
+assignment	B1	3000	n. B1	
+assist	B1	3000	v. B1	
+atmosphere	B1	3000	n. B1	
+attach	B1	3000	v. B1	
+attitude	B1	3000	n. B1	
+attract	B1	3000	v. B1	
+attraction	B1	3000	n. B1	
+authority	B1	3000	n. B1	
+automatic	B1	3000	adj. B1 | adj. B2	
+automatically	B1	3000	adv. B1 | adv. B2	
+aware	B1	3000	adj. B1	
+backward	B1	3000	adv. B1	
+bake	B1	3000	v. B1	
+balance	B1	3000	n., v. B1	
+ban	B1	3000	v., n. B1	
+base	B1	3000	n., v. B1	
+basic	B1	3000	adj. B1	
+basis	B1	3000	n. B1	
+battery	B1	3000	n. B1	
+battle	B1	3000	n. B1 | v. B2	
+beat	B1	3000	v. B1 | n. B2	
+beauty	B1	3000	n. B1	
+bee	B1	3000	n. B1	
+belief	B1	3000	n. B1	
+bell	B1	3000	n. B1	
+bend	B1	3000	v., n. B1	
+bite	B1	3000	v., n. B1	
+bomb	B1	3000	n., v. B1	
+border	B1	3000	n. B1 | v. B2	
+bother	B1	3000	v. B1	
+branch	B1	3000	n. B1	
+brand	B1	3000	n., v. B1	
+brave	B1	3000	adj. B1	
+breathe	B1	3000	v. B1	
+breathing	B1	3000	n. B1	
+bride	B1	3000	n. B1	
+bubble	B1	3000	n. B1	
+bury	B1	3000	v. B1	
+cable	B1	3000	n. B1	
+calm	B1	3000	adj., v., n. B1	
+campaign	B1	3000	n., v. B1	
+candidate	B1	3000	n. B1	
+cap	B1	3000	n. B1	
+captain	B1	3000	n. B1	
+careless	B1	3000	adj. B1	
+category	B1	3000	n. B1	
+ceiling	B1	3000	n. B1	
+celebration	B1	3000	n. B1	
+central	B1	3000	adj. B1	
+ceremony	B1	3000	n. B1	
+chain	B1	3000	n. B1 | v. B2	
+challenge	B1	3000	n. B1 | v. B2	
+champion	B1	3000	n. B1	
+channel	B1	3000	n. B1	
+chapter	B1	3000	n. B1	
+charge	B1	3000	n., v. B1	
+cheat	B1	3000	v., n. B1	
+cheerful	B1	3000	adj. B1	
+chemical	B1	3000	adj., n. B1	
+chest	B1	3000	n. B1	
+childhood	B1	3000	n. B1	
+claim	B1	3000	v., n. B1	
+clause	B1	3000	n. B1	
+clever	B1	3000	adj. B1	
+click	B1	3000	v., n. B1	
+client	B1	3000	n. B1	
+cloth	B1	3000	n. B1	
+clue	B1	3000	n. B1	
+coal	B1	3000	n. B1	
+coin	B1	3000	n. B1	
+collection	B1	3000	n. B1	
+colored	B1	3000	adj. B1	
+combine	B1	3000	v. B1	
+commercial	B1	3000	adj., n. B1	
+commit	B1	3000	v. B1	
+communication	B1	3000	n. B1	
+comparison	B1	3000	n. B1	
+competitive	B1	3000	adj. B1	
+competitor	B1	3000	n. B1	
+complaint	B1	3000	n. B1	
+complex	B1	3000	adj. B1 | n. B2	
+concentrate	B1	3000	v. B1	
+conclude	B1	3000	v. B1	
+conclusion	B1	3000	n. B1	
+confident	B1	3000	adj. B1	
+confirm	B1	3000	v. B1	
+confuse	B1	3000	v. B1	
+confused	B1	3000	adj. B1	
+connection	B1	3000	n. B1	
+consequence	B1	3000	n. B1	
+consist	B1	3000	v. B1	
+consume	B1	3000	v. B1	
+consumer	B1	3000	n. B1	
+contact	B1	3000	n., v. B1	
+container	B1	3000	n. B1	
+content	B1	3000	n. B1 | adj. C1	homograph 1 | homograph 2
+continuous	B1	3000	adj. B1	
+contrast	B1	3000	n., v. B1	
+convenient	B1	3000	adj. B1	
+convince	B1	3000	v. B1	
+corn	B1	3000	n. B1	
+costume	B1	3000	n. B1	
+cotton	B1	3000	n. B1	
+countryside	B1	3000	n. B1	
+court	B1	3000	n. B1	
+covered	B1	3000	adj. B1	
+cruel	B1	3000	adj. B1	
+cultural	B1	3000	adj. B1	
+cupboard	B1	3000	n. B1	
+currency	B1	3000	n. B1	
+current	B1	3000	adj. B1 | n. B2	
+currently	B1	3000	adv. B1	
+curtain	B1	3000	n. B1	
+custom	B1	3000	n. B1	
+damage	B1	3000	n., v. B1	
+decade	B1	3000	n. B1	
+define	B1	3000	v. B1	
+definite	B1	3000	adj. B1	
+definition	B1	3000	n. B1	
+deliver	B1	3000	v. B1	
+departure	B1	3000	n. B1	
+despite	B1	3000	prep. B1	
+destination	B1	3000	n. B1	
+determine	B1	3000	v. B1	
+determined	B1	3000	adj. B1	
+development	B1	3000	n. B1	
+diagram	B1	3000	n. B1	
+diamond	B1	3000	n. B1	
+difficulty	B1	3000	n. B1	
+directly	B1	3000	adv. B1	
+dirt	B1	3000	n. B1	
+disadvantage	B1	3000	n. B1	
+disappointed	B1	3000	adj. B1	
+disappointing	B1	3000	adj. B1	
+discount	B1	3000	n. B1 | v. B2	
+dislike	B1	3000	v., n. B1	
+district	B1	3000	n. B1	
+divide	B1	3000	v. B1 | n. B2	
+documentary	B1	3000	n. B1	
+donate	B1	3000	v. B1	
+doubt	B1	3000	n., v. B1	
+dressed	B1	3000	adj. B1	
+drum	B1	3000	n. B1	
+drunk	B1	3000	adj. B1	
+due	B1	3000	adj. B1	
+dust	B1	3000	n. B1	
+duty	B1	3000	n. B1	
+earthquake	B1	3000	n. B1	
+eastern	B1	3000	adj. B1	
+economic	B1	3000	adj. B1	
+economy	B1	3000	n. B1	
+edge	B1	3000	n. B1	
+editor	B1	3000	n. B1	
+educate	B1	3000	v. B1	
+educated	B1	3000	adj. B1	
+educational	B1	3000	adj. B1	
+effective	B1	3000	adj. B1	
+effectively	B1	3000	adv. B1	
+effort	B1	3000	n. B1	
+election	B1	3000	n. B1	
+element	B1	3000	n. B1	
+embarrassed	B1	3000	adj. B1	
+embarrassing	B1	3000	adj. B1	
+emergency	B1	3000	n. B1	
+emotion	B1	3000	n. B1	
+employment	B1	3000	n. B1	
+encourage	B1	3000	v. B1	
+enemy	B1	3000	n. B1	
+engaged	B1	3000	adj. B1	
+engineering	B1	3000	n. B1	
+entertain	B1	3000	v. B1	
+entertainment	B1	3000	n. B1	
+entrance	B1	3000	n. B1	
+entry	B1	3000	n. B1	
+environmental	B1	3000	adj. B1	
+episode	B1	3000	n. B1	
+equal	B1	3000	adj., v. B1 | n. B2	
+equally	B1	3000	adv. B1	
+escape	B1	3000	v., n. B1	
+essential	B1	3000	adj. B1	
+eventually	B1	3000	adv. B1	
+examine	B1	3000	v. B1	
+exchange	B1	3000	n., v. B1	
+excitement	B1	3000	n. B1	
+exhibition	B1	3000	n. B1	
+exit	B1	3000	n. B1 | v. B2 | n. B2	
+expand	B1	3000	v. B1	
+expected	B1	3000	adj. B1	
+experienced	B1	3000	adj. B1	
+explode	B1	3000	v. B1	
+explore	B1	3000	v. B1	
+explosion	B1	3000	n. B1	
+export	B1	3000	n., v. B1	
+fairly	B1	3000	adv. B1	
+familiar	B1	3000	adj. B1	
+fancy	B1	3000	adj. B1	
+fascinating	B1	3000	adj. B1	
+fashionable	B1	3000	adj. B1	
+fasten	B1	3000	v. B1	
+favor	B1	3000	n. B1 | v. B2	
+federal	B1	3000	adj. B1 | adj. B2	
+fence	B1	3000	n. B1	
+fighting	B1	3000	n. B1	
+file	B1	3000	n. B1 | v. B2	
+financial	B1	3000	adj. B1	
+fitness	B1	3000	n. B1	
+fixed	B1	3000	adj. B1	
+flag	B1	3000	n. B1	
+flood	B1	3000	n., v. B1	
+flour	B1	3000	n. B1	
+flow	B1	3000	v., n. B1	
+fold	B1	3000	v. B1 | n. B2	
+folk	B1	3000	n., adj. B1	
+force	B1	3000	n., v. B1	
+forever	B1	3000	adv. B1	
+frame	B1	3000	n., v. B1	
+freeze	B1	3000	v. B1	
+frequently	B1	3000	adv. B1	
+friendship	B1	3000	n. B1	
+frighten	B1	3000	v. B1	
+frightened	B1	3000	adj. B1	
+frightening	B1	3000	adj. B1	
+frozen	B1	3000	adj. B1	
+fry	B1	3000	v. B1	
+fuel	B1	3000	n. B1 | v. B2	
+function	B1	3000	n. B1 | v. B2	
+fur	B1	3000	n. B1	
+garage	B1	3000	n. B1	
+gather	B1	3000	v. B1	
+generally	B1	3000	adv. B1	
+generation	B1	3000	n. B1	
+generous	B1	3000	adj. B1	
+gentle	B1	3000	adj. B1	
+ghost	B1	3000	n. B1	
+giant	B1	3000	adj., n. B1	
+glad	B1	3000	adj. B1	
+global	B1	3000	adj. B1	
+glove	B1	3000	n. B1	
+grade	B1	3000	n. B1 | v. B2	
+graduate	B1	3000	n., v. B1	
+grain	B1	3000	n. B1	
+grateful	B1	3000	adj. B1	
+growth	B1	3000	n. B1	
+guard	B1	3000	n., v. B1	
+guilty	B1	3000	adj. B1	
+hang	B1	3000	v. B1	
+happiness	B1	3000	n. B1	
+hardly	B1	3000	adv. B1	
+headline	B1	3000	n. B1	
+heating	B1	3000	n. B1	
+heavily	B1	3000	adv. B1	
+helicopter	B1	3000	n. B1	
+highlight	B1	3000	v., n. B1	
+highly	B1	3000	adv. B1	
+highway	B1	3000	n. B1 | n. B2	
+hire	B1	3000	v. B1 | n. B2	
+historic	B1	3000	adj. B1	
+historical	B1	3000	adj. B1	
+honest	B1	3000	adj. B1	
+horrible	B1	3000	adj. B1	
+horror	B1	3000	n. B1	
+host	B1	3000	n. B1 | v. B2	
+hunt	B1	3000	v. B1 | n. B2	
+hurricane	B1	3000	n. B1	
+hurry	B1	3000	n., v. B1	
+identity	B1	3000	n. B1	
+ignore	B1	3000	v. B1	
+illegal	B1	3000	adj. B1	
+imaginary	B1	3000	adj. B1	
+immediate	B1	3000	adj. B1	
+immigrant	B1	3000	n. B1	
+impact	B1	3000	n., v. B1	
+import	B1	3000	n., v. B1	
+importance	B1	3000	n. B1	
+impression	B1	3000	n. B1	
+impressive	B1	3000	adj. B1	
+improvement	B1	3000	n. B1	
+incredibly	B1	3000	adv. B1	
+indeed	B1	3000	adv. B1	
+indicate	B1	3000	v. B1	
+indirect	B1	3000	adj. B1	
+indoor	B1	3000	adj. B1	
+indoors	B1	3000	adv. B1	
+influence	B1	3000	n., v. B1	
+ingredient	B1	3000	n. B1	
+injure	B1	3000	v. B1	
+injured	B1	3000	adj. B1	
+innocent	B1	3000	adj. B1	
+intelligence	B1	3000	n. B1	
+intend	B1	3000	v. B1	
+intention	B1	3000	n. B1	
+invest	B1	3000	v. B1	
+investigate	B1	3000	v. B1	
+involved	B1	3000	adj. B1	
+iron	B1	3000	n., v. B1	
+issue	B1	3000	n. B1 | v. B2	
+IT	B1	3000	n. B1	
+journal	B1	3000	n. B1	
+journey	B1	3000	n. B1	
+judge	B1	3000	n., v. B1	
+keyboard	B1	3000	n. B1	
+kick	B1	3000	v., n. B1	
+killing	B1	3000	n. B1	
+kiss	B1	3000	v., n. B1	
+label	B1	3000	n., v. B1	
+laboratory	B1	3000	n. B1	
+lack	B1	3000	n., v. B1	
+latest	B1	3000	adj. B1 | n. B2	
+lay	B1	3000	v. B1	
+layer	B1	3000	n. B1	
+leading	B1	3000	adj. B1	
+leaf	B1	3000	n. B1	
+leather	B1	3000	n. B1	
+legal	B1	3000	adj. B1	
+leisure	B1	3000	n. B1	
+length	B1	3000	n. B1	
+limit	B1	3000	n., v. B1	
+lip	B1	3000	n. B1	
+liquid	B1	3000	n., adj. B1	
+literature	B1	3000	n. B1	
+living	B1	3000	adj., n. B1	
+locate	B1	3000	v. B1	
+located	B1	3000	adj. B1	
+location	B1	3000	n. B1	
+lonely	B1	3000	adj. B1	
+loss	B1	3000	n. B1	
+luxury	B1	3000	n. B1	
+mad	B1	3000	adj. B1	
+magic	B1	3000	n., adj. B1	
+mainly	B1	3000	adv. B1	
+management	B1	3000	n. B1	
+marketing	B1	3000	n. B1	
+marriage	B1	3000	n. B1	
+meanwhile	B1	3000	adv. B1	
+measure	B1	3000	v., n. B1	
+medium	B1	3000	adj. B1 | n. B2	
+mental	B1	3000	adj. B1	
+mess	B1	3000	n. B1	
+mild	B1	3000	adj. B1	
+mix	B1	3000	v., n. B1	
+mixture	B1	3000	n. B1	
+mood	B1	3000	n. B1	
+mud	B1	3000	n. B1	
+murder	B1	3000	n., v. B1	
+muscle	B1	3000	n. B1	
+mystery	B1	3000	n. B1	
+nail	B1	3000	n. B1	
+narrative	B1	3000	n., adj. B1	
+nation	B1	3000	n. B1	
+native	B1	3000	adj., n. B1	
+naturally	B1	3000	adv. B1	
+neat	B1	3000	adj. B1	
+necessarily	B1	3000	adv. B1	
+needle	B1	3000	n. B1	
+net	B1	3000	n. B1 | adj. C1	
+nor	B1	3000	conj./adv. B1	
+northern	B1	3000	adj. B1	
+nuclear	B1	3000	adj. B1	
+obvious	B1	3000	adj. B1	
+obviously	B1	3000	adv. B1	
+occasion	B1	3000	n. B1	
+occur	B1	3000	v. B1	
+odd	B1	3000	adj. B1	
+official	B1	3000	adj. B1 | n. B2	
+old-fashioned	B1	3000	adj. B1	
+operation	B1	3000	n. B1	
+organized	B1	3000	adj. B1	
+organizer	B1	3000	n. B1	
+originally	B1	3000	adv. B1	
+ought	B1	3000	modal v. B1	
+ours	B1	3000	pron. B1	
+outdoor	B1	3000	adj. B1	
+outdoors	B1	3000	adv. B1	
+package	B1	3000	n. B1 | v. B2	
+painful	B1	3000	adj. B1	
+pale	B1	3000	adj. B1	
+pan	B1	3000	n. B1	
+participate	B1	3000	v. B1	
+particularly	B1	3000	adv. B1	
+passion	B1	3000	n. B1	
+path	B1	3000	n. B1	
+payment	B1	3000	n. B1	
+peaceful	B1	3000	adj. B1	
+percentage	B1	3000	n. B1	
+perfectly	B1	3000	adv. B1	
+performance	B1	3000	n. B1	
+personally	B1	3000	adv. B1	
+persuade	B1	3000	v. B1	
+photographer	B1	3000	n. B1	
+photography	B1	3000	n. B1	
+pin	B1	3000	n., v. B1	
+pipe	B1	3000	n. B1	
+planning	B1	3000	n. B1	
+pleasant	B1	3000	adj. B1	
+pleasure	B1	3000	n. B1	
+plenty	B1	3000	pron. B1	
+plot	B1	3000	n. B1 | v. B2	
+plus	B1	3000	prep. B1 | adj., n., conj. B2	homograph 1
+podcast	B1	3000	n. B1	
+poem	B1	3000	n. B1	
+poet	B1	3000	n. B1	
+poetry	B1	3000	n. B1	
+poison	B1	3000	n., v. B1	
+poisonous	B1	3000	adj. B1	
+policy	B1	3000	n. B1	
+political	B1	3000	adj. B1	
+politician	B1	3000	n. B1	
+politics	B1	3000	n. B1	
+port	B1	3000	n. B1	
+portrait	B1	3000	n. B1	
+possibly	B1	3000	adv. B1	
+pot	B1	3000	n. B1	
+pour	B1	3000	v. B1	
+poverty	B1	3000	n. B1	
+powder	B1	3000	n. B1	
+powerful	B1	3000	adj. B1	
+practical	B1	3000	adj. B1	
+pray	B1	3000	v. B1	
+prayer	B1	3000	n. B1	
+prediction	B1	3000	n. B1	
+prepared	B1	3000	adj. B1	
+presentation	B1	3000	n. B1	
+press	B1	3000	n., v. B1	
+pressure	B1	3000	n. B1	
+pretend	B1	3000	v. B1	
+previous	B1	3000	adj. B1	
+previously	B1	3000	adv. B1	
+priest	B1	3000	n. B1	
+primary	B1	3000	adj. B1	
+prince	B1	3000	n. B1	
+princess	B1	3000	n. B1	
+principal	B1	3000	n. B1 | adj. B2 | adj. B2 | n. C1	
+printing	B1	3000	n. B1	
+prisoner	B1	3000	n. B1	
+private	B1	3000	adj. B1	
+producer	B1	3000	n. B1	
+production	B1	3000	n. B1	
+profession	B1	3000	n. B1	
+profit	B1	3000	n. B1	
+promote	B1	3000	v. B1	
+proper	B1	3000	adj. B1	
+properly	B1	3000	adv. B1	
+property	B1	3000	n. B1	
+protest	B1	3000	n., v. B1	
+proud	B1	3000	adj. B1	
+prove	B1	3000	v. B1	
+punish	B1	3000	v. B1	
+punishment	B1	3000	n. B1	
+qualification	B1	3000	n. B1	
+qualified	B1	3000	adj. B1	
+qualify	B1	3000	v. B1	
+quit	B1	3000	v. B1	
+quotation	B1	3000	n. B1	
+quote	B1	3000	v., n. B1	
+racing	B1	3000	n. B1	
+range	B1	3000	n. B1 | v. B2	
+rare	B1	3000	adj. B1	
+rarely	B1	3000	adv. B1	
+reaction	B1	3000	n. B1	
+reality	B1	3000	n. B1	
+receipt	B1	3000	n. B1	
+recommendation	B1	3000	n. B1	
+reference	B1	3000	n. B1	
+reflect	B1	3000	v. B1	
+regularly	B1	3000	adv. B1	
+reject	B1	3000	v. B1	
+relate	B1	3000	v. B1	
+related	B1	3000	adj. B1	
+relation	B1	3000	n. B1	
+relative	B1	3000	adj., n. B1	
+relaxed	B1	3000	adj. B1	
+relaxing	B1	3000	adj. B1	
+release	B1	3000	v., n. B1	
+reliable	B1	3000	adj. B1	
+religion	B1	3000	n. B1	
+religious	B1	3000	adj. B1	
+remain	B1	3000	v. B1	
+remind	B1	3000	v. B1	
+remote	B1	3000	adj. B1	
+renewable	B1	3000	adj. B1	
+rent	B1	3000	n., v. B1	
+repeated	B1	3000	adj. B1	
+represent	B1	3000	v. B1	
+require	B1	3000	v. B1	
+reservation	B1	3000	n. B1	
+resource	B1	3000	n. B1	
+respect	B1	3000	n., v. B1	
+responsibility	B1	3000	n. B1	
+responsible	B1	3000	adj. B1	
+retire	B1	3000	v. B1	
+retired	B1	3000	adj. B1	
+revise	B1	3000	v. B1	
+risk	B1	3000	n., v. B1	
+robot	B1	3000	n. B1	
+roll	B1	3000	v., n. B1	
+romantic	B1	3000	adj. B1	
+rope	B1	3000	n. B1	
+rough	B1	3000	adj. B1	
+row	B1	3000	n. B1	homograph 1
+royal	B1	3000	adj. B1	
+safety	B1	3000	n. B1	
+sailor	B1	3000	n. B1	
+sample	B1	3000	n. B1 | v. B2	
+sand	B1	3000	n. B1	
+scan	B1	3000	v. B1	
+scientific	B1	3000	adj. B1	
+script	B1	3000	n. B1	
+secondary	B1	3000	adj. B1	
+security	B1	3000	n. B1	
+seed	B1	3000	n. B1	
+sensible	B1	3000	adj. B1	
+seriously	B1	3000	adv. B1	
+servant	B1	3000	n. B1	
+set	B1	3000	v. B1 | n. B1	put | group
+setting	B1	3000	n. B1	
+sex	B1	3000	n. B1	
+sexual	B1	3000	adj. B1	
+sharp	B1	3000	adj. B1	
+shelf	B1	3000	n. B1	
+shell	B1	3000	n. B1	
+shift	B1	3000	n. B1 | v. B2	
+shine	B1	3000	v. B1	
+shiny	B1	3000	adj. B1	
+shoot	B1	3000	v. B1 | n. C1	
+shy	B1	3000	adj. B1	
+sight	B1	3000	n. B1	
+signal	B1	3000	n., v. B1	
+silent	B1	3000	adj. B1	
+silly	B1	3000	adj. B1	
+similarity	B1	3000	n. B1	
+similarly	B1	3000	adv. B1	
+simply	B1	3000	adv. B1	
+sink	B1	3000	v. B1	
+slave	B1	3000	n. B1 | n. B2	
+slice	B1	3000	n., v. B1	
+slightly	B1	3000	adv. B1	
+smooth	B1	3000	adj. B1	
+software	B1	3000	n. B1	
+soil	B1	3000	n. B1	
+solid	B1	3000	adj., n. B1	
+southern	B1	3000	adj. B1	
+specialize	B1	5000	v. B1	
+specifically	B1	3000	adv. B1	
+spending	B1	3000	n. B1	
+spicy	B1	3000	adj. B1	
+spirit	B1	3000	n. B1	
+spoken	B1	3000	adj. B1	
+spot	B1	3000	n. B1 | v. B2	
+spread	B1	3000	v. B1 | n. B2	
+stadium	B1	3000	n. B1	
+staff	B1	3000	n. B1	
+standard	B1	3000	n., adj. B1	
+statistic	B1	3000	n. B1	
+statue	B1	3000	n. B1	
+stick	B1	3000	v. B1 | n. B1	push into/attach | piece of wood
+stranger	B1	3000	n. B1	
+strength	B1	3000	n. B1	
+string	B1	3000	n. B1	
+strongly	B1	3000	adv. B1	
+studio	B1	3000	n. B1	
+stuff	B1	3000	n. B1 | v. B2	
+substance	B1	3000	n. B1	
+successfully	B1	3000	adv. B1	
+sudden	B1	3000	adj. B1	
+suffer	B1	3000	v. B1	
+suitable	B1	3000	adj. B1	
+summarize	B1	3000	v. B1	
+summary	B1	3000	n. B1	
+supply	B1	3000	n., v. B1	
+supporter	B1	3000	n. B1	
+surely	B1	3000	adv. B1	
+surface	B1	3000	n. B1	
+survive	B1	3000	v. B1	
+switch	B1	3000	v. B1 | n. B2	
+symptom	B1	3000	n. B1	
+tail	B1	3000	n. B1	
+talent	B1	3000	n. B1	
+talented	B1	3000	adj. B1	
+tax	B1	3000	n., v. B1	
+technical	B1	3000	adj. B1	
+technique	B1	3000	n. B1	
+tend	B1	3000	v. B1	
+tent	B1	3000	n. B1	
+theirs	B1	3000	pron. B1	
+theme	B1	3000	n. B1	
+theory	B1	3000	n. B1	
+therefore	B1	3000	adv. B1	
+though	B1	3000	conj., adv. B1	
+throat	B1	3000	n. B1	
+throughout	B1	3000	prep./adv. B1	
+tight	B1	3000	adj. B1	
+till	B1	3000	conj./prep. B1	
+tiny	B1	3000	adj. B1	
+tire	B1	3000	n. B1	
+toe	B1	3000	n. B1	
+ton	B1	3000	n. B1 | n. B2	
+tongue	B1	3000	n. B1	
+total	B1	3000	adj., n. B1 | v. C1	
+totally	B1	3000	adv. B1	
+trade	B1	3000	n., v. B1	
+trainer	B1	3000	n. B1	
+translate	B1	3000	v. B1	
+translation	B1	3000	n. B1	
+transport	B1	3000	v. B1	
+treat	B1	3000	v. B1	
+treatment	B1	3000	n. B1	
+trend	B1	3000	n. B1	
+trick	B1	3000	n., v. B1	
+truth	B1	3000	n. B1	
+tube	B1	3000	n. B1	
+typically	B1	3000	adv. B1	
+ugly	B1	3000	adj. B1	
+unable	B1	3000	adj. B1	
+uncomfortable	B1	3000	adj. B1	
+underwear	B1	3000	n. B1	
+unemployed	B1	3000	adj. B1	
+unemployment	B1	3000	n. B1	
+unfair	B1	3000	adj. B1	
+union	B1	3000	n. B1	
+unless	B1	3000	conj. B1	
+unlike	B1	3000	prep. B1	
+unlikely	B1	3000	adj. B1	
+unnecessary	B1	3000	adj. B1	
+unpleasant	B1	3000	adj. B1	
+update	B1	3000	v., n. B1	
+upon	B1	3000	prep. B1	
+upset	B1	3000	adj., v. B1	
+used	B1	3000	adj. B1	
+valuable	B1	3000	adj. B1	
+value	B1	3000	n. B1 | v. B2	
+various	B1	3000	adj. B1	
+version	B1	3000	n. B1	
+victim	B1	3000	n. B1	
+viewer	B1	3000	n. B1	
+violent	B1	3000	adj. B1	
+volunteer	B1	3000	n., v. B1	
+vote	B1	3000	n., v. B1	
+warn	B1	3000	v. B1	
+warning	B1	3000	n. B1	
+waste	B1	3000	n., v., adj. B1	
+weapon	B1	3000	n. B1	
+weigh	B1	3000	v. B1	
+western	B1	3000	adj. B1	
+whatever	B1	3000	det./pron. B1	
+whenever	B1	3000	conj. B1	
+whether	B1	3000	conj. B1	
+Wi-Fi	B1	3000	n. B1	
+wing	B1	3000	n. B1	
+within	B1	3000	prep. B1	
+wonder	B1	3000	v., n. B1	
+wool	B1	3000	n. B1	
+worldwide	B1	3000	adj., adv. B1	
+worth	B1	3000	adj. B1 | n. B2	
+written	B1	3000	adj. B1	
+youth	B1	3000	n. B1	
+abandon	B2	3000	v. B2	
+abroad	B2	3000	adv. B2	
+absolute	B2	3000	adj. B2	
+absorb	B2	5000	v. B2	
+abstract	B2	5000	adj. B2	
+accent	B2	5000	n. B2	
+acceptable	B2	3000	adj. B2	
+accidentally	B2	5000	adv. B2	
+accommodate	B2	5000	v. B2	
+accompany	B2	3000	v. B2	
+accomplish	B2	5000	v. B2	
+accountant	B2	5000	n. B2	
+accuracy	B2	5000	n. B2	
+accurate	B2	3000	adj. B2	
+accurately	B2	5000	adv. B2	
+accuse	B2	3000	v. B2	
+acid	B2	5000	n. B2 | adj. C1	
+acknowledge	B2	3000	v. B2	
+acquire	B2	3000	v. B2	
+activate	B2	5000	v. B2	
+actual	B2	3000	adj. B2	
+adapt	B2	3000	v. B2	
+addiction	B2	5000	n. B2	
+additional	B2	3000	adj. B2	
+additionally	B2	5000	adv. B2	
+adequate	B2	5000	adj. B2	
+adjust	B2	5000	v. B2	
+adopt	B2	3000	v. B2	
+advance	B2	3000	n., v., adj. B2	
+affair	B2	3000	n. B2	
+affordable	B2	5000	adj. B2	
+afterward	B2	3000	adv. B2	
+agency	B2	3000	n. B2	
+agenda	B2	3000	n. B2	
+aggressive	B2	3000	adj. B2	
+agriculture	B2	5000	n. B2	
+aid	B2	3000	n., v. B2	
+aircraft	B2	3000	n. B2	
+alien	B2	5000	n. B2 | adj. C1	
+alter	B2	3000	v. B2	
+altogether	B2	5000	adv. B2	
+ambulance	B2	5000	n. B2	
+amusing	B2	5000	adj. B2	
+analyst	B2	5000	n. B2	
+ancestor	B2	5000	n. B2	
+anger	B2	3000	n. B2	
+angle	B2	3000	n. B2	
+animation	B2	5000	n. B2	
+anniversary	B2	3000	n. B2	
+annual	B2	3000	adj. B2	
+annually	B2	5000	adv. B2	
+anticipate	B2	5000	v. B2	
+anxiety	B2	5000	n. B2	
+anxious	B2	3000	adj. B2	
+apology	B2	5000	n. B2	
+apparent	B2	3000	adj. B2	
+apparently	B2	3000	adv. B2	
+appeal	B2	3000	n., v. B2	
+applicant	B2	5000	n. B2	
+approach	B2	3000	n., v. B2	
+appropriate	B2	3000	adj. B2	
+approval	B2	3000	n. B2	
+approve	B2	3000	v. B2	
+arise	B2	3000	v. B2	
+armed	B2	3000	adj. B2	
+arms	B2	3000	n. B2	
+arrow	B2	5000	n. B2	
+artificial	B2	3000	adj. B2	
+artistic	B2	3000	adj. B2	
+artwork	B2	5000	n. B2	
+ashamed	B2	3000	adj. B2	
+aside	B2	3000	adv. B2 | adv. B2	
+aspect	B2	3000	n. B2	
+assess	B2	3000	v. B2	
+assessment	B2	3000	n. B2	
+asset	B2	5000	n. B2	
+assign	B2	5000	v. B2	
+assistance	B2	5000	n. B2	
+associate	B2	3000	v. B2	
+associated	B2	3000	adj. B2	
+association	B2	3000	n. B2	
+assume	B2	3000	v. B2	
+assumption	B2	5000	n. B2	
+assure	B2	5000	v. B2	
+astonishing	B2	5000	adj. B2	
+attachment	B2	5000	n. B2	
+attempt	B2	3000	n., v. B2	
+attorney	B2	3000	n. B2 | n. C1	
+auction	B2	5000	n. B2	
+awareness	B2	5000	n. B2	
+bacteria	B2	3000	n. B2	
+badge	B2	5000	n. B2	
+balanced	B2	5000	adj. B2	
+ballet	B2	5000	n. B2	
+balloon	B2	5000	n. B2	
+barely	B2	5000	adv. B2	
+bargain	B2	5000	n. B2	
+barrier	B2	3000	n. B2	
+basement	B2	5000	n. B2	
+basically	B2	3000	adv. B2	
+basket	B2	5000	n. B2	
+bat	B2	5000	n. B2 | v. C1	
+bay	B2	5000	n. B2	
+beg	B2	3000	v. B2	
+being	B2	3000	n. B2	
+beneficial	B2	5000	adj. B2	
+bent	B2	3000	adj. B2	
+beside	B2	5000	prep. B2	
+besides	B2	5000	prep., adv. B2	
+bet	B2	3000	v., n. B2	
+beyond	B2	3000	prep., adv. B2	
+bias	B2	5000	n. B2	
+bid	B2	5000	n., v. B2	
+billionaire	B2	5000	n. B2	
+biological	B2	5000	adj. B2	
+bitter	B2	3000	adj. B2	
+blame	B2	3000	v., n. B2	
+blanket	B2	5000	n. B2	
+blind	B2	3000	adj. B2	
+bold	B2	5000	adj. B2	
+bombing	B2	5000	n. B2	
+bond	B2	3000	n. B2	
+booking	B2	5000	n. B2	
+bound	B2	5000	adj. B2	
+brake	B2	5000	n., v. B2	
+breast	B2	3000	n. B2	
+breath	B2	3000	n. B2	
+brick	B2	5000	n. B2	
+brief	B2	3000	adj. B2	
+briefly	B2	5000	adv. B2	
+broad	B2	3000	adj. B2	
+broadcast	B2	3000	v., n. B2	
+broadcaster	B2	5000	n. B2	
+broadly	B2	5000	adv. B2	
+budget	B2	3000	n. B2	
+bug	B2	5000	n. B2	
+bullet	B2	3000	n. B2	
+bunch	B2	3000	n. B2	
+bush	B2	3000	n. B2	
+cabin	B2	5000	n. B2	
+calculate	B2	3000	v. B2	
+canal	B2	5000	n. B2	
+cancel	B2	3000	v. B2	
+cancer	B2	3000	n. B2	
+candle	B2	5000	n. B2	
+capable	B2	3000	adj. B2	
+capacity	B2	3000	n. B2	
+caption	B2	5000	n., v. B2	
+capture	B2	3000	v., n. B2	
+carbon	B2	5000	n. B2	
+cast	B2	3000	n., v. B2	
+casual	B2	5000	adj. B2	
+cave	B2	5000	n. B2	
+certainty	B2	5000	n. B2	
+certificate	B2	5000	n. B2	
+challenging	B2	5000	adj. B2	
+championship	B2	5000	n. B2	
+characteristic	B2	3000	n., adj. B2	
+chase	B2	5000	v., n. B2	
+cheek	B2	5000	n. B2	
+cheer	B2	5000	v., n. B2	
+chief	B2	3000	adj., n. B2	
+choir	B2	5000	n. B2	
+chop	B2	5000	v. B2	
+circuit	B2	5000	n. B2	
+circumstance	B2	3000	n. B2	
+cite	B2	3000	v. B2	
+citizen	B2	3000	n. B2	
+civil	B2	3000	adj. B2	
+civilization	B2	5000	n. B2	
+clarify	B2	5000	v. B2	
+classic	B2	3000	adj., n. B2	
+classify	B2	5000	v. B2	
+cliff	B2	5000	n. B2	
+clinic	B2	5000	n. B2	
+clip	B2	5000	n. B2	
+closely	B2	3000	adv. B2	
+coincidence	B2	5000	n. B2	
+collapse	B2	3000	v., n. B2	
+collector	B2	5000	n. B2	
+colony	B2	5000	n. B2	
+colourful	B2	5000	adj. B2	
+combination	B2	3000	n. B2	
+comedian	B2	5000	n. B2	
+comfort	B2	3000	n., v. B2	
+comic	B2	5000	adj., n. B2	
+command	B2	3000	n., v. B2	
+commander	B2	5000	n. B2	
+commission	B2	3000	n., v. B2	
+commitment	B2	3000	n. B2	
+committee	B2	3000	n. B2	
+commonly	B2	3000	adv. B2	
+comparative	B2	5000	adj. B2	
+completion	B2	5000	n. B2	
+complicated	B2	3000	adj. B2	
+component	B2	3000	n. B2	
+compose	B2	5000	v. B2	
+composer	B2	5000	n. B2	
+compound	B2	5000	n. B2	
+comprehensive	B2	5000	adj. B2	
+comprise	B2	5000	v. B2	
+compulsory	B2	5000	adj. B2	
+concentration	B2	3000	n. B2	
+concept	B2	3000	n. B2	
+concern	B2	3000	n., v. B2	
+concerned	B2	3000	adj. B2	
+concrete	B2	5000	adj., n. B2	
+conduct	B2	3000	v., n. B2	
+confidence	B2	3000	n. B2	
+conflict	B2	3000	n., v. B2	
+confusing	B2	3000	adj. B2	
+confusion	B2	5000	n. B2	
+congress	B2	3000	n. B2	
+conscious	B2	3000	adj. B2	
+consequently	B2	5000	adv. B2	
+conservation	B2	5000	n. B2	
+conservative	B2	3000	adj., n. B2	
+considerable	B2	5000	adj. B2	
+considerably	B2	5000	adv. B2	
+consideration	B2	3000	n. B2	
+consistent	B2	3000	adj. B2	
+consistently	B2	5000	adv. B2	
+console	B2	5000	n. B2	homograph 2
+conspiracy	B2	5000	n. B2	
+constant	B2	3000	adj. B2	
+constantly	B2	3000	adv. B2	
+construct	B2	3000	v. B2	
+construction	B2	3000	n. B2	
+consult	B2	5000	v. B2	
+consultant	B2	5000	n. B2	
+consumption	B2	5000	n. B2	
+contemporary	B2	3000	adj. B2	
+contest	B2	3000	n., v. B2	
+contract	B2	3000	n., v. B2	
+contribute	B2	3000	v. B2	
+contribution	B2	3000	n. B2	
+controversial	B2	5000	adj. B2	
+controversy	B2	5000	n. B2	
+convenience	B2	5000	n. B2	
+convention	B2	5000	n. B2	
+conventional	B2	5000	adj. B2	
+convert	B2	3000	v. B2	
+convey	B2	5000	v. B2	
+convinced	B2	3000	adj. B2	
+convincing	B2	5000	adj. B2	
+cope	B2	5000	v. B2	
+core	B2	3000	n., adj. B2	
+corporate	B2	3000	adj. B2	
+corporation	B2	5000	n. B2	
+corridor	B2	5000	n. B2	
+council	B2	3000	n. B2	
+counter	B2	5000	n. B2 | v. C1	long flat surface | argue against
+county	B2	3000	n. B2	
+courage	B2	3000	n. B2	
+coverage	B2	5000	n. B2	
+crack	B2	5000	v., n. B2	
+craft	B2	5000	n. B2 | v. C1	
+crash	B2	3000	n., v. B2	
+creation	B2	3000	n. B2	
+creativity	B2	5000	n. B2	
+creature	B2	3000	n. B2	
+crew	B2	3000	n. B2	
+crisis	B2	3000	n. B2	
+criterion	B2	3000	n. B2	
+critic	B2	3000	n. B2	
+critical	B2	3000	adj. B2	
+critically	B2	5000	adv. B2	
+criticism	B2	3000	n. B2	
+criticize	B2	3000	v. B2	
+crop	B2	3000	n. B2	
+crucial	B2	3000	adj. B2	
+cruise	B2	5000	n. B2	
+cue	B2	5000	n. B2	
+cure	B2	3000	v., n. B2	
+curious	B2	5000	adj. B2	
+curriculum	B2	5000	n. B2	
+curve	B2	3000	n., v. B2	
+curved	B2	3000	adj. B2	
+cute	B2	5000	adj. B2	
+dairy	B2	5000	n., adj. B2	
+dare	B2	5000	v. B2	
+darkness	B2	5000	n. B2	
+database	B2	5000	n. B2	
+deadline	B2	5000	n. B2	
+deadly	B2	5000	adj. B2	
+dealer	B2	5000	n. B2	
+debate	B2	3000	n., v. B2	
+debt	B2	3000	n. B2	
+decent	B2	3000	adj. B2	
+deck	B2	5000	n. B2	
+declare	B2	3000	v. B2	
+decline	B2	3000	v., n. B2	
+decorate	B2	3000	v. B2	
+decoration	B2	3000	n. B2	
+decrease	B2	3000	v., n. B2	
+deeply	B2	3000	adv. B2	
+defeat	B2	3000	v., n. B2	
+defend	B2	3000	v. B2	
+defender	B2	5000	n. B2	
+defense	B2	3000	n. B2	
+delay	B2	3000	v., n. B2	
+delete	B2	5000	v. B2	
+deliberate	B2	3000	adj. B2	
+deliberately	B2	3000	adv. B2	
+delivery	B2	3000	n. B2	
+demand	B2	3000	n., v. B2	
+democracy	B2	5000	n. B2	
+democratic	B2	5000	adj. B2	
+demonstrate	B2	3000	v. B2	
+demonstration	B2	5000	n. B2	
+deny	B2	3000	v. B2	
+depart	B2	5000	v. B2	
+dependent	B2	5000	adj. B2	
+deposit	B2	5000	n. B2 | v. C1	
+depressed	B2	3000	adj. B2	
+depressing	B2	3000	adj. B2	
+depression	B2	5000	n. B2	
+depth	B2	3000	n. B2	
+derive	B2	5000	v. B2	
+deserve	B2	3000	v. B2	
+desire	B2	3000	n., v. B2	
+desperate	B2	3000	adj. B2	
+desperately	B2	5000	adv. B2	
+destruction	B2	5000	n. B2	
+detailed	B2	3000	adj. B2	
+detect	B2	3000	v. B2	
+determination	B2	5000	n. B2	
+devote	B2	5000	v. B2	
+diabetes	B2	5000	n. B2	
+differ	B2	5000	v. B2	
+dig	B2	3000	v. B2	
+disability	B2	5000	n. B2	
+disabled	B2	5000	adj. B2	
+disagreement	B2	5000	n. B2	
+disappoint	B2	5000	v. B2	
+disappointment	B2	5000	n. B2	
+discipline	B2	3000	n. B2	
+discourage	B2	5000	v. B2	
+dishonest	B2	3000	adj. B2	
+dismiss	B2	3000	v. B2	
+disorder	B2	5000	n. B2	
+display	B2	3000	v., n. B2	
+distant	B2	5000	adj. B2	
+distinct	B2	5000	adj. B2	
+distinguish	B2	5000	v. B2	
+distract	B2	5000	v. B2	
+distribute	B2	3000	v. B2	
+distribution	B2	3000	n. B2	
+disturb	B2	5000	v. B2	
+dive	B2	5000	v., n. B2	
+diverse	B2	5000	adj. B2	
+diversity	B2	5000	n. B2	
+division	B2	3000	n. B2	
+divorce	B2	5000	n., v. B2	
+domestic	B2	3000	adj. B2	
+dominant	B2	5000	adj. B2	
+dominate	B2	3000	v. B2	
+donation	B2	5000	n. B2	
+dot	B2	5000	n. B2	
+downward	B2	3000	adj., adv. B2	
+dozen	B2	3000	n., det. B2	
+draft	B2	3000	n., v. B2	
+drag	B2	3000	v. B2	
+dramatic	B2	3000	adj. B2	
+dramatically	B2	5000	adv. B2	
+drought	B2	5000	n. B2	
+dull	B2	5000	adj. B2	
+dump	B2	5000	v. B2	
+duration	B2	5000	n. B2	
+dynamic	B2	5000	adj. B2 | n. C1	
+economics	B2	5000	n. B2	
+economist	B2	5000	n. B2	
+ecosystem	B2	5000	n. B2	
+edit	B2	3000	v. B2	
+edition	B2	3000	n. B2	
+editorial	B2	5000	adj. B2	
+efficient	B2	3000	adj. B2	
+efficiently	B2	5000	adv. B2	
+elbow	B2	5000	n. B2	
+elderly	B2	3000	adj. B2	
+elect	B2	3000	v. B2	
+electronics	B2	5000	n. B2	
+elegant	B2	5000	adj. B2	
+elementary	B2	5000	adj. B2	
+eliminate	B2	5000	v. B2	
+elsewhere	B2	3000	adv. B2	
+embrace	B2	5000	v. B2	
+emerge	B2	3000	v. B2	
+emission	B2	5000	n. B2	
+emotional	B2	3000	adj. B2	
+emphasis	B2	3000	n. B2	
+emphasize	B2	3000	v. B2	
+empire	B2	5000	n. B2	
+enable	B2	3000	v. B2	
+encounter	B2	3000	v., n. B2	
+engage	B2	3000	v. B2	
+enhance	B2	3000	v. B2	
+enjoyable	B2	5000	adj. B2	
+ensure	B2	3000	v. B2	
+entertaining	B2	5000	adj. B2	
+enthusiasm	B2	3000	n. B2	
+enthusiastic	B2	3000	adj. B2	
+entire	B2	3000	adj. B2	
+entirely	B2	3000	adv. B2	
+entrepreneur	B2	5000	n. B2	
+envelope	B2	5000	n. B2	
+equip	B2	5000	v. B2	
+equivalent	B2	5000	n., adj. B2	
+era	B2	5000	n. B2	
+erupt	B2	5000	v. B2	
+essentially	B2	5000	adv. B2	
+establish	B2	3000	v. B2	
+estate	B2	3000	n. B2	
+estimate	B2	3000	v., n. B2	
+ethic	B2	5000	n. B2	
+ethical	B2	3000	adj. B2	
+ethnic	B2	5000	adj. B2	
+evaluate	B2	3000	v. B2	
+evaluation	B2	5000	n. B2	
+evident	B2	5000	adj. B2	
+evil	B2	3000	adj., n. B2	
+evolution	B2	5000	n. B2	
+evolve	B2	5000	v. B2	
+examination	B2	3000	n. B2	
+exceed	B2	5000	v. B2	
+exception	B2	5000	n. B2	
+excessive	B2	5000	adj. B2	
+exclude	B2	5000	v. B2	
+excuse	B2	3000	n., v. B2	
+executive	B2	3000	n., adj. B2	
+exhibit	B2	3000	v., n. B2 | v., n. B2	
+existence	B2	3000	n. B2	
+exotic	B2	5000	adj. B2	
+expansion	B2	5000	n. B2	
+expectation	B2	3000	n. B2	
+expense	B2	3000	n. B2	
+expertise	B2	5000	n. B2	
+exploit	B2	5000	v. B2	
+exploration	B2	3000	n. B2	
+expose	B2	3000	v. B2	
+exposure	B2	5000	n. B2	
+extend	B2	3000	v. B2	
+extension	B2	5000	n. B2	
+extensive	B2	5000	adj. B2	
+extent	B2	3000	n. B2	
+external	B2	3000	adj. B2	
+extract	B2	5000	n. B2 | v. C1	
+extraordinary	B2	3000	adj. B2	
+fabric	B2	5000	n. B2	
+fabulous	B2	5000	adj. B2	
+facility	B2	3000	n. B2	
+failure	B2	3000	n. B2	
+faith	B2	3000	n. B2	
+fake	B2	5000	adj. B2	
+fame	B2	5000	n. B2	
+fantasy	B2	5000	n. B2	
+fare	B2	5000	n. B2	
+fault	B2	3000	n. B2	
+feather	B2	3000	n. B2	
+fee	B2	3000	n. B2	
+feedback	B2	3000	n. B2	
+fellow	B2	3000	adj. B2	
+finance	B2	3000	n., v. B2	
+finding	B2	3000	n. B2	
+firefighter	B2	5000	n. B2	
+firework	B2	5000	n. B2	
+firm	B2	3000	n. B2 | adj. B2	
+firmly	B2	5000	adv. B2	
+flame	B2	3000	n. B2	
+flash	B2	3000	n., v. B2	
+flavour	B2	5000	n. B2	
+flexible	B2	3000	adj. B2	
+float	B2	3000	v. B2	
+folding	B2	3000	adj. B2	
+follower	B2	5000	n. B2	
+fond	B2	5000	adj. B2	
+fool	B2	5000	n. B2	
+footprint	B2	5000	n. B2	
+forbid	B2	5000	v. B2	
+forecast	B2	5000	n., v. B2	
+forgive	B2	3000	v. B2	
+format	B2	5000	n. B2	
+formation	B2	5000	n. B2	
+former	B2	3000	adj. B2	
+formerly	B2	5000	adv. B2	
+fortunate	B2	5000	adj. B2	
+fortune	B2	3000	n. B2	
+forum	B2	5000	n. B2	
+fossil	B2	5000	n. B2	
+found	B2	3000	v. B2	
+foundation	B2	5000	n. B2	
+founder	B2	5000	n. B2	
+fraction	B2	5000	n. B2	
+fragment	B2	5000	n. B2	
+framework	B2	5000	n. B2	
+fraud	B2	5000	n. B2	
+freedom	B2	3000	n. B2	
+frequency	B2	3000	n. B2	
+frequent	B2	5000	adj. B2	
+fulfil	B2	5000	v. B2	
+full-time	B2	5000	adj./adv. B2	
+fully	B2	3000	adv. B2	
+fund	B2	3000	n., v. B2	
+fundamental	B2	3000	adj. B2	
+funding	B2	3000	n. B2	
+furious	B2	5000	adj. B2	
+furthermore	B2	3000	adv. B2	
+gain	B2	3000	v., n. B2	
+gaming	B2	5000	n. B2	
+gang	B2	3000	n. B2	
+gay	B2	5000	adj. B2	
+gender	B2	3000	n. B2	
+gene	B2	5000	n. B2	
+generate	B2	3000	v. B2	
+genetic	B2	5000	adj. B2	
+genius	B2	5000	n. B2	
+genre	B2	3000	n. B2	
+genuine	B2	5000	adj. B2	
+genuinely	B2	5000	adv. B2	
+gesture	B2	5000	n. B2	
+globalization	B2	5000	n. B2	
+globe	B2	5000	n. B2	
+golden	B2	5000	adj. B2	
+goodness	B2	5000	n. B2	
+goods	B2	3000	n. B2	
+gorgeous	B2	5000	adj. B2	
+govern	B2	3000	v. B2	
+governor	B2	3000	n. B2 | n. B2	
+grab	B2	3000	v. B2	
+gradually	B2	3000	adv. B2	
+grand	B2	3000	adj. B2	
+grant	B2	3000	v., n. B2	
+graphic	B2	5000	adj. B2	
+graphics	B2	5000	n. B2	
+greatly	B2	5000	adv. B2	
+greenhouse	B2	5000	n. B2	
+guarantee	B2	3000	v., n. B2	
+guideline	B2	5000	n. B2	
+habitat	B2	5000	n. B2	
+handle	B2	3000	v., n. B2	
+harbour	B2	5000	n. B2	
+harm	B2	3000	n., v. B2	
+harmful	B2	3000	adj. B2	
+headquarters	B2	5000	n. B2	
+heal	B2	5000	v. B2	
+healthcare	B2	5000	n. B2	
+hearing	B2	3000	n. B2	
+heaven	B2	3000	n. B2	
+heel	B2	3000	n. B2	
+hell	B2	3000	n. B2	
+helmet	B2	5000	n. B2	
+hence	B2	5000	adv. B2	
+herb	B2	5000	n. B2	
+hesitate	B2	3000	v. B2	
+hidden	B2	5000	adj. B2	
+hilarious	B2	5000	adj. B2	
+hip	B2	5000	n. B2	
+historian	B2	5000	n. B2	
+hollow	B2	3000	adj. B2	
+holy	B2	3000	adj. B2	
+homeless	B2	5000	adj. B2	
+honesty	B2	5000	n. B2	
+honor	B2	3000	n., v. B2	
+hook	B2	5000	n., v. B2	
+hopefully	B2	5000	adv. B2	
+household	B2	3000	n. B2	
+housing	B2	3000	n. B2	
+hug	B2	5000	v., n. B2	
+humor	B2	3000	n. B2	
+humorous	B2	3000	adj. B2	
+hunger	B2	5000	n. B2	
+hunting	B2	3000	n. B2	
+hypothesis	B2	5000	n. B2	
+icon	B2	5000	n. B2	
+identical	B2	5000	adj. B2	
+illusion	B2	5000	n. B2	
+illustrate	B2	3000	v. B2	
+illustration	B2	3000	n. B2	
+imagination	B2	3000	n. B2	
+immigration	B2	5000	n. B2	
+immune	B2	5000	adj. B2	
+impatient	B2	3000	adj. B2	
+implement	B2	5000	v. B2	
+implication	B2	5000	n. B2	
+imply	B2	3000	v. B2	
+impose	B2	3000	v. B2	
+impress	B2	3000	v. B2	
+impressed	B2	3000	adj. B2	
+incentive	B2	5000	n. B2	
+inch	B2	3000	n. B2	
+incident	B2	3000	n. B2	
+income	B2	3000	n. B2	
+incorporate	B2	5000	v. B2	
+incorrect	B2	5000	adj. B2	
+increasingly	B2	3000	adv. B2	
+independence	B2	5000	n. B2	
+index	B2	5000	n. B2	
+indication	B2	5000	n. B2	
+industrial	B2	3000	adj. B2	
+inevitable	B2	5000	adj. B2	
+infection	B2	3000	n. B2	
+infer	B2	5000	v. B2	
+inflation	B2	5000	n. B2	
+info	B2	5000	n. B2	
+inform	B2	3000	v. B2	
+infrastructure	B2	5000	n. B2	
+inhabitant	B2	5000	n. B2	
+inherit	B2	5000	v. B2	
+initial	B2	3000	adj. B2	
+initially	B2	3000	adv. B2	
+initiative	B2	3000	n. B2	
+ink	B2	5000	n. B2	
+inner	B2	3000	adj. B2	
+innovation	B2	5000	n. B2	
+innovative	B2	5000	adj. B2	
+input	B2	5000	n. B2	
+inquiry	B2	3000	n. B2	
+insert	B2	5000	v. B2	
+insight	B2	3000	n. B2	
+insist	B2	3000	v. B2	
+inspector	B2	5000	n. B2	
+inspire	B2	3000	v. B2	
+install	B2	3000	v. B2	
+installation	B2	5000	n. B2	
+instance	B2	3000	n. B2	
+instant	B2	5000	adj. B2	
+instantly	B2	5000	adv. B2	
+institute	B2	3000	n. B2	
+institution	B2	3000	n. B2	
+insurance	B2	3000	n. B2	
+integrate	B2	5000	v. B2	
+intellectual	B2	5000	adj. B2 | n. C1	
+intended	B2	3000	adj. B2	
+intense	B2	3000	adj. B2	
+interact	B2	5000	v. B2	
+interaction	B2	5000	n. B2	
+internal	B2	3000	adj. B2	
+interpret	B2	3000	v. B2	
+interpretation	B2	5000	n. B2	
+interrupt	B2	3000	v. B2	
+interval	B2	5000	n. B2	
+invade	B2	5000	v. B2	
+invasion	B2	5000	n. B2	
+investigation	B2	3000	n. B2	
+investment	B2	3000	n. B2	
+investor	B2	5000	n. B2	
+isolate	B2	5000	v. B2	
+isolated	B2	5000	adj. B2	
+jail	B2	5000	n., v. B2	
+jet	B2	5000	n. B2	
+journalism	B2	5000	n. B2	
+joy	B2	3000	n. B2	
+judgment	B2	3000	n. B2	
+junior	B2	3000	adj. B2	
+jury	B2	5000	n. B2	
+justice	B2	3000	n. B2	
+justify	B2	3000	v. B2	
+kit	B2	5000	n. B2	
+labor	B2	3000	n. B2	
+ladder	B2	5000	n. B2	
+landing	B2	5000	n. B2	
+landscape	B2	3000	n. B2	
+lane	B2	5000	n. B2	
+largely	B2	3000	adv. B2	
+lately	B2	5000	adv. B2	
+launch	B2	3000	v., n. B2	
+leadership	B2	3000	n. B2	
+league	B2	3000	n. B2	
+lean	B2	3000	v. B2	
+legend	B2	5000	n. B2	
+lens	B2	5000	n. B2	
+license	B2	3000	n. B2 | v. C1	
+lifetime	B2	5000	n. B2	
+lighting	B2	5000	n. B2	
+likewise	B2	5000	adv. B2	
+limitation	B2	5000	n. B2	
+limited	B2	3000	adj. B2	
+literally	B2	5000	adv. B2	
+literary	B2	5000	adj. B2	
+litre	B2	5000	n. B2	
+litter	B2	5000	n. B2	
+lively	B2	3000	adj. B2	
+load	B2	3000	n., v. B2	
+loan	B2	3000	n. B2	
+logical	B2	3000	adj. B2	
+logo	B2	5000	n. B2	
+long-term	B2	3000	adj., adv. B2	
+loose	B2	3000	adj. B2	
+lord	B2	3000	n. B2	
+lottery	B2	5000	n. B2	
+lower	B2	3000	v. B2	
+loyal	B2	5000	adj. B2	
+lung	B2	3000	n. B2	
+lyric	B2	5000	n. B2	
+magnificent	B2	5000	adj. B2	
+maintain	B2	3000	v. B2	
+majority	B2	3000	n. B2	
+make-up	B2	5000	n. B2	
+making	B2	5000	n. B2	
+manufacture	B2	5000	v. B2	
+manufacturing	B2	5000	n. B2	
+marathon	B2	5000	n. B2	
+margin	B2	5000	n. B2	
+marker	B2	5000	n. B2	
+mass	B2	3000	n., adj. B2	
+massive	B2	3000	adj. B2	
+master	B2	3000	n., v. B2	
+matching	B2	3000	adj. B2	
+mate	B2	5000	n., v. B2	
+maximum	B2	3000	adj., n. B2	
+means	B2	3000	n. B2	
+measurement	B2	3000	n. B2	
+mechanic	B2	5000	n. B2	
+mechanical	B2	5000	adj. B2	
+mechanism	B2	5000	n. B2	
+medal	B2	5000	n. B2	
+medication	B2	5000	n. B2	
+melt	B2	3000	v. B2	
+membership	B2	5000	n. B2	
+memorable	B2	5000	adj. B2	
+metaphor	B2	5000	n. B2	
+military	B2	3000	adj., n. B2	
+miner	B2	5000	n. B2	
+mineral	B2	3000	n. B2	
+minimum	B2	3000	adj., n. B2	
+minister	B2	3000	n. B2	
+minor	B2	3000	adj. B2	
+minority	B2	3000	n. B2	
+miserable	B2	5000	adj. B2	
+mission	B2	3000	n. B2	
+mixed	B2	3000	adj. B2	
+mode	B2	5000	n. B2	
+modest	B2	5000	adj. B2	
+modify	B2	3000	v. B2	
+monitor	B2	3000	n., v. B2	
+monster	B2	5000	n. B2	
+monthly	B2	5000	adj. B2	
+monument	B2	5000	n. B2	
+moral	B2	3000	adj., n. B2	
+moreover	B2	5000	adv. B2	
+mortgage	B2	5000	n. B2	
+mosque	B2	5000	n. B2	
+motion	B2	5000	n. B2	
+motivate	B2	5000	v. B2	
+motivation	B2	5000	n. B2	
+motor	B2	3000	n., adj. B2	
+mount	B2	3000	v. B2	
+moving	B2	5000	adj. B2	
+multiple	B2	3000	adj. B2	
+multiply	B2	3000	v. B2	
+mysterious	B2	3000	adj. B2	
+myth	B2	5000	n. B2	
+naked	B2	5000	adj. B2	
+nasty	B2	5000	adj. B2	
+navigate	B2	5000	v. B2	
+navigation	B2	5000	n. B2	
+nearby	B2	5000	adj., adv. B2	
+necessity	B2	5000	n. B2	
+negotiate	B2	5000	v. B2	
+negotiation	B2	5000	n. B2	
+nerve	B2	3000	n. B2	
+neutral	B2	5000	adj. B2	
+nevertheless	B2	3000	adv. B2	
+newly	B2	5000	adv. B2	
+nightmare	B2	3000	n. B2	
+norm	B2	5000	n. B2	
+notebook	B2	5000	n. B2	
+notion	B2	3000	n. B2	
+novelist	B2	5000	n. B2	
+nowadays	B2	5000	adv. B2	
+numerous	B2	3000	adj. B2	
+nursing	B2	5000	adj. B2	
+nutrition	B2	5000	n. B2	
+obesity	B2	5000	n. B2	
+obey	B2	3000	v. B2	
+objective	B2	3000	n., adj. B2	
+obligation	B2	3000	n. B2	
+observation	B2	3000	n. B2	
+observe	B2	3000	v. B2	
+observer	B2	5000	n. B2	
+obstacle	B2	5000	n. B2	
+obtain	B2	3000	v. B2	
+occasionally	B2	3000	adv. B2	
+occupation	B2	5000	n. B2	
+occupy	B2	5000	v. B2	
+offend	B2	3000	v. B2	
+offender	B2	5000	n. B2	
+offense	B2	3000	n. B2	
+offensive	B2	3000	adj. B2	
+ongoing	B2	5000	adj. B2	
+opening	B2	3000	n. B2	
+openly	B2	5000	adv. B2	
+opera	B2	5000	n. B2	
+operate	B2	3000	v. B2	
+operator	B2	5000	n. B2	
+opponent	B2	3000	n. B2	
+oppose	B2	3000	v. B2	
+opposed	B2	3000	adj. B2	
+opposition	B2	3000	n. B2	
+optimistic	B2	5000	adj. B2	
+orchestra	B2	5000	n. B2	
+organ	B2	3000	n. B2	
+organic	B2	5000	adj. B2	
+origin	B2	3000	n. B2	
+otherwise	B2	3000	adv. B2	
+outcome	B2	3000	n. B2	
+outer	B2	3000	adj. B2	
+outfit	B2	5000	n. B2	
+outline	B2	3000	n., v. B2	
+output	B2	5000	n. B2	
+outstanding	B2	5000	adj. B2	
+overall	B2	3000	adj., adv. B2	
+overcome	B2	5000	v. B2	
+overnight	B2	5000	adv. B2	
+owe	B2	3000	v. B2	
+ownership	B2	5000	n. B2	
+oxygen	B2	5000	n. B2	
+pace	B2	3000	n., v. B2	
+packet	B2	5000	n. B2	
+palm	B2	5000	n. B2	
+pandemic	B2	5000	n., adj. B2	
+panel	B2	3000	n. B2	
+panic	B2	5000	n. B2	
+parade	B2	5000	n. B2	
+parallel	B2	5000	adj., n. B2	
+part-time	B2	5000	adj./adv. B2	
+participant	B2	3000	n. B2	
+participation	B2	5000	n. B2	
+partly	B2	3000	adv. B2	
+partnership	B2	5000	n. B2	
+passage	B2	3000	n. B2	
+passionate	B2	5000	adj. B2	
+password	B2	5000	n. B2	
+patience	B2	5000	n. B2	
+pause	B2	5000	v. B2	
+peer	B2	5000	n. B2	
+penalty	B2	5000	n. B2	
+perceive	B2	5000	v. B2	
+perception	B2	5000	n. B2	
+permanent	B2	3000	adj. B2	
+permanently	B2	5000	adv. B2	
+permit	B2	3000	v., n. B2	
+perspective	B2	3000	n. B2	
+pharmacy	B2	5000	n. B2	
+phase	B2	3000	n. B2	
+phenomenon	B2	3000	n. B2	
+philosophy	B2	3000	n. B2	
+pile	B2	3000	n., v. B2	
+pill	B2	5000	n. B2	
+pitch	B2	3000	n. B2	
+pity	B2	5000	n. B2	
+placement	B2	5000	n. B2	
+plain	B2	3000	adj. B2	
+pointed	B2	3000	adj. B2	
+popularity	B2	3000	n. B2	
+portion	B2	5000	n. B2	
+pose	B2	3000	v. B2	
+possess	B2	3000	v. B2	
+potential	B2	3000	adj., n. B2	
+potentially	B2	5000	adv. B2	
+praise	B2	3000	n., v. B2	
+precede	B2	5000	v. B2	
+precious	B2	5000	adj. B2	
+precise	B2	5000	adj. B2	
+precisely	B2	5000	adv. B2	
+predictable	B2	5000	adj. B2	
+preference	B2	5000	n. B2	
+pregnant	B2	3000	adj. B2	
+preparation	B2	3000	n. B2	
+presence	B2	3000	n. B2	
+preserve	B2	3000	v. B2	
+preview	B2	5000	n., v. B2	
+pride	B2	5000	n. B2	
+primarily	B2	5000	adv. B2	
+prime	B2	3000	adj. B2	
+principle	B2	3000	n. B2	
+prior	B2	5000	adj. B2	
+priority	B2	3000	n. B2	
+privacy	B2	3000	n. B2	
+probability	B2	5000	n. B2	
+probable	B2	5000	adj. B2	
+procedure	B2	3000	n. B2	
+proceed	B2	5000	v. B2	
+programming	B2	5000	n. B2	
+progressive	B2	5000	adj. B2	
+prohibit	B2	5000	v. B2	
+promising	B2	5000	adj. B2	
+promotion	B2	5000	n. B2	
+prompt	B2	5000	v. B2	
+proof	B2	3000	n. B2	
+proportion	B2	5000	n. B2	
+proposal	B2	3000	n. B2	
+propose	B2	3000	v. B2	
+prospect	B2	3000	n. B2	
+protection	B2	3000	n. B2	
+protein	B2	5000	n. B2	
+protester	B2	5000	n. B2	
+psychological	B2	5000	adj. B2	
+psychologist	B2	3000	n. B2	
+psychology	B2	3000	n. B2	
+publication	B2	3000	n. B2	
+publicity	B2	5000	n. B2	
+publishing	B2	5000	n. B2	
+punk	B2	5000	n. B2	
+purchase	B2	3000	n., v. B2	
+pure	B2	3000	adj. B2	
+pursue	B2	3000	v. B2	
+pursuit	B2	5000	n. B2	
+puzzle	B2	5000	n. B2	
+questionnaire	B2	5000	n. B2	
+racial	B2	5000	adj. B2	
+racism	B2	5000	n. B2	
+racist	B2	5000	adj., n. B2	
+radiation	B2	5000	n. B2	
+rail	B2	5000	n. B2	
+random	B2	5000	adj. B2	
+rank	B2	3000	n., v. B2	
+rapid	B2	3000	adj. B2	
+rapidly	B2	3000	adv. B2	
+rat	B2	5000	n. B2	
+rating	B2	5000	n. B2	
+raw	B2	3000	adj. B2	
+realistic	B2	3000	adj. B2	
+reasonable	B2	3000	adj. B2	
+reasonably	B2	5000	adv. B2	
+rebuild	B2	5000	v. B2	
+recall	B2	3000	v. B2	
+receiver	B2	5000	n. B2	
+recession	B2	5000	n. B2	
+reckon	B2	5000	v. B2	
+recognition	B2	5000	n. B2	
+recover	B2	3000	v. B2	
+recovery	B2	5000	n. B2	
+recruit	B2	5000	v. B2	
+recruitment	B2	5000	n. B2	
+reduction	B2	3000	n. B2	
+referee	B2	5000	n. B2	
+refugee	B2	5000	n. B2	
+refund	B2	5000	n., v. B2	
+regard	B2	3000	v., n. B2	
+regional	B2	3000	adj. B2	
+register	B2	3000	v., n. B2	
+registration	B2	5000	n. B2	
+regret	B2	3000	v., n. B2	
+regulate	B2	5000	v. B2	
+regulation	B2	3000	n. B2	
+reinforce	B2	5000	v. B2	
+relatively	B2	3000	adv. B2	
+relevant	B2	3000	adj. B2	
+relief	B2	3000	n. B2	
+relieve	B2	5000	v. B2	
+relieved	B2	5000	adj. B2	
+rely	B2	3000	v. B2	
+remark	B2	3000	n., v. B2	
+remarkable	B2	5000	adj. B2	
+reporting	B2	5000	n. B2	
+representative	B2	3000	n., adj. B2	
+reputation	B2	3000	n. B2	
+requirement	B2	3000	n. B2	
+rescue	B2	3000	v., n. B2	
+reserve	B2	3000	n., v. B2	
+resident	B2	3000	n., adj. B2	
+resign	B2	5000	v. B2	
+resist	B2	3000	v. B2	
+resolution	B2	5000	n. B2	
+resolve	B2	3000	v. B2	
+resort	B2	3000	n. B2	
+restore	B2	5000	v. B2	
+restrict	B2	5000	v. B2	
+restriction	B2	5000	n. B2	
+retail	B2	5000	n. B2	
+retain	B2	3000	v. B2	
+retirement	B2	5000	n. B2	
+reveal	B2	3000	v. B2	
+revenue	B2	5000	n. B2	
+revision	B2	5000	n. B2	
+revolution	B2	3000	n. B2	
+reward	B2	3000	n., v. B2	
+rhythm	B2	3000	n. B2	
+rid	B2	3000	v. B2	
+ridiculous	B2	5000	adj. B2	
+risky	B2	5000	adj. B2	
+rival	B2	5000	n., adj. B2	
+rob	B2	5000	v. B2	
+robbery	B2	5000	n. B2	
+rocket	B2	5000	n. B2	
+romance	B2	5000	n. B2	
+root	B2	3000	n. B2	
+rose	B2	5000	n. B2	
+roughly	B2	5000	adv. B2	
+rub	B2	3000	v. B2	
+rubber	B2	3000	n., adj. B2	
+ruin	B2	5000	v., n. B2	
+rural	B2	3000	adj. B2	
+rush	B2	3000	v., n. B2	
+satellite	B2	3000	n. B2	
+satisfaction	B2	5000	n. B2	
+satisfied	B2	3000	adj. B2	
+satisfy	B2	3000	v. B2	
+saving	B2	3000	n. B2	
+scale	B2	3000	n. B2	
+scandal	B2	5000	n. B2	
+scare	B2	5000	v. B2	
+scenario	B2	5000	n. B2	
+scholar	B2	5000	n. B2	
+scholarship	B2	5000	n. B2	
+scratch	B2	5000	v. B2	
+scream	B2	3000	v., n. B2	
+screening	B2	5000	n. B2	
+sector	B2	3000	n. B2	
+secure	B2	3000	v., adj. B2	
+seek	B2	3000	v. B2	
+seeker	B2	5000	n. B2	
+select	B2	3000	v. B2	
+selection	B2	3000	n. B2	
+self	B2	3000	n. B2	
+seminar	B2	5000	n. B2	
+senate	B2	3000	n. B2	
+senator	B2	3000	n. B2 | n. C1	
+senior	B2	3000	adj. B2	
+sensitive	B2	3000	adj. B2	
+sensor	B2	5000	n. B2	
+sequence	B2	3000	n. B2	
+session	B2	3000	n. B2	
+settle	B2	3000	v. B2	
+settler	B2	5000	n. B2	
+severe	B2	3000	adj. B2	
+severely	B2	5000	adv. B2	
+sexy	B2	5000	adj. B2	
+shade	B2	3000	n. B2	
+shadow	B2	3000	n. B2	
+shall	B2	3000	modal v. B2	
+shallow	B2	3000	adj. B2	
+shame	B2	3000	n. B2	
+shaped	B2	5000	adj. B2	
+shelter	B2	3000	n., v. B2	
+shock	B2	3000	n., v. B2	
+shocked	B2	3000	adj. B2	
+shocking	B2	5000	adj. B2	
+shooting	B2	3000	n. B2	
+shore	B2	5000	n. B2	
+short-term	B2	5000	adj. B2	
+shortage	B2	5000	n. B2	
+shortly	B2	5000	adv. B2	
+shot	B2	3000	n. B2	
+sibling	B2	5000	n. B2	
+signature	B2	5000	n. B2	
+significance	B2	5000	n. B2	
+significant	B2	3000	adj. B2	
+significantly	B2	3000	adv. B2	
+silence	B2	3000	n. B2	
+silk	B2	3000	n. B2	
+sincere	B2	3000	adj. B2	
+skilled	B2	5000	adj. B2	
+skull	B2	5000	n. B2	
+slide	B2	3000	v., n. B2	
+slight	B2	3000	adj. B2	
+slip	B2	3000	v. B2	
+slogan	B2	5000	n. B2	
+slope	B2	3000	n., v. B2	
+so-called	B2	5000	adj. B2	
+solar	B2	3000	adj. B2	
+somehow	B2	5000	adv. B2	
+sometime	B2	5000	adv. B2	
+somewhat	B2	3000	adv. B2	
+sophisticated	B2	5000	adj. B2	
+soul	B2	3000	n. B2	
+spare	B2	5000	adj. B2 | v. C1	
+specialist	B2	3000	n., adj. B2	
+species	B2	3000	n. B2	
+specify	B2	5000	v. B2	
+spectacular	B2	5000	adj. B2	
+spectator	B2	5000	n. B2	
+speculate	B2	5000	v. B2	
+speculation	B2	5000	n. B2	
+spill	B2	5000	v. B2	
+spiritual	B2	3000	adj. B2	
+spite	B2	5000	n. B2	
+split	B2	3000	v., n. B2	
+spoil	B2	5000	v. B2	
+spokesman	B2	5000	n. B2	
+spokesperson	B2	5000	n. B2	
+spokeswoman	B2	5000	n. B2	
+sponsor	B2	3000	v., n. B2	
+sponsorship	B2	5000	n. B2	
+sporting	B2	5000	adj. B2	
+stable	B2	3000	adj. B2	
+stall	B2	5000	n. B2	
+stance	B2	5000	n. B2	
+stare	B2	3000	v. B2	
+status	B2	3000	n. B2	
+steadily	B2	5000	adv. B2	
+steady	B2	3000	adj. B2	
+steam	B2	5000	n. B2	
+steel	B2	3000	n. B2	
+steep	B2	3000	adj. B2	
+sticky	B2	3000	adj. B2	
+stimulate	B2	5000	v. B2	
+stock	B2	3000	n. B2	
+stream	B2	3000	n. B2	
+strengthen	B2	5000	v. B2	
+stretch	B2	3000	v., n. B2	
+strict	B2	3000	adj. B2	
+strictly	B2	5000	adv. B2	
+strike	B2	3000	v., n. B2	
+striking	B2	5000	adj. B2	
+stroke	B2	5000	n. B2	
+struggle	B2	3000	v., n. B2	
+stunning	B2	5000	adj. B2	
+submit	B2	3000	v. B2	
+subsequent	B2	5000	adj. B2	
+subsequently	B2	5000	adv. B2	
+suburb	B2	5000	n. B2	
+suffering	B2	5000	n. B2	
+sufficient	B2	5000	adj. B2	
+sum	B2	3000	n., v. B2	
+super	B2	5000	adj. B2	
+surgeon	B2	5000	n. B2	
+surgery	B2	3000	n. B2	
+surround	B2	3000	v. B2	
+surrounding	B2	3000	adj. B2	
+survival	B2	5000	n. B2	
+survivor	B2	5000	n. B2	
+suspect	B2	3000	v., n. B2	
+suspend	B2	5000	v. B2	
+sustainable	B2	5000	adj. B2	
+swallow	B2	5000	v. B2	
+swear	B2	3000	v. B2	
+sweep	B2	3000	v. B2	
+sympathetic	B2	5000	adj. B2	
+sympathy	B2	3000	n. B2	
+tackle	B2	5000	v., n. B2	
+tag	B2	5000	n. B2	
+tale	B2	3000	n. B2	
+tank	B2	3000	n. B2	
+tap	B2	5000	v., n. B2	
+tattoo	B2	5000	n., v. B2	
+tear	B2	3000	v., n. B2 | n. B2	homograph 1 | homograph 2
+tease	B2	5000	v. B2	
+technological	B2	5000	adj. B2	
+teens	B2	5000	n. B2	
+temple	B2	5000	n. B2	
+temporarily	B2	5000	adv. B2	
+temporary	B2	3000	adj. B2	
+tendency	B2	5000	n. B2	
+tension	B2	5000	n. B2	
+terminal	B2	5000	n. B2 | adj. C1	
+terms	B2	5000	n. B2	
+terribly	B2	5000	adv. B2	
+terrify	B2	5000	v. B2	
+territory	B2	5000	n. B2	
+terror	B2	5000	n. B2	
+terrorism	B2	5000	n. B2	
+terrorist	B2	5000	n. B2	
+testing	B2	5000	n. B2	
+textbook	B2	5000	n. B2	
+theft	B2	5000	n. B2	
+therapist	B2	5000	n. B2	
+therapy	B2	3000	n. B2	
+thesis	B2	5000	n. B2	
+thorough	B2	5000	adj. B2	
+thoroughly	B2	5000	adv. B2	
+threat	B2	3000	n. B2	
+threaten	B2	3000	v. B2	
+thumb	B2	5000	n. B2	
+thus	B2	3000	adv. B2	
+timeline	B2	5000	n. B2	
+timing	B2	5000	n. B2	
+tissue	B2	5000	n. B2	
+tone	B2	3000	n. B2	
+tonne	B2	5000	n. B2	
+tough	B2	3000	adj. B2	
+tournament	B2	5000	n. B2	
+trace	B2	5000	v., n. B2	
+trading	B2	5000	n. B2	
+tragedy	B2	5000	n. B2	
+tragic	B2	5000	adj. B2	
+trait	B2	5000	n. B2	
+transfer	B2	3000	v., n. B2	
+transform	B2	3000	v. B2	
+transition	B2	3000	n. B2	
+transmit	B2	5000	v. B2	
+trap	B2	5000	v., n. B2	
+treasure	B2	5000	n. B2	
+trial	B2	3000	n. B2	
+tribe	B2	5000	n. B2	
+trigger	B2	5000	v. B2 | n. C1	
+trillion	B2	5000	number B2	
+troop	B2	5000	n. B2	
+tropical	B2	3000	adj. B2	
+truly	B2	3000	adv. B2	
+trust	B2	3000	n., v. B2	
+tsunami	B2	5000	n. B2	
+tune	B2	3000	n. B2	
+tunnel	B2	3000	n. B2	
+ultimate	B2	5000	adj. B2	
+ultimately	B2	3000	adv. B2	
+unacceptable	B2	5000	adj. B2	
+uncertainty	B2	5000	n. B2	
+unconscious	B2	3000	adj. B2	
+undergo	B2	5000	v. B2	
+undertake	B2	5000	v. B2	
+unexpected	B2	3000	adj. B2	
+unfold	B2	5000	v. B2	
+unfortunate	B2	5000	adj. B2	
+unique	B2	3000	adj. B2	
+unite	B2	5000	v. B2	
+unity	B2	5000	n. B2	
+universal	B2	5000	adj. B2	
+universe	B2	3000	n. B2	
+unknown	B2	3000	adj. B2	
+upper	B2	3000	adj. B2	
+upward	B2	3000	adv. B2	
+urban	B2	3000	adj. B2	
+urge	B2	3000	v. B2	
+urgent	B2	5000	adj. B2	
+usage	B2	5000	n. B2	
+useless	B2	5000	adj. B2	
+vaccinate	B2	5000	v. B2	
+vaccination	B2	5000	n. B2	
+vaccine	B2	3000	n. B2	
+valid	B2	5000	adj. B2	
+van	B2	3000	n. B2	
+variation	B2	5000	n. B2	
+vary	B2	3000	v. B2	
+vast	B2	3000	adj. B2	
+venue	B2	3000	n. B2	
+vertical	B2	5000	adj. B2	
+via	B2	3000	prep. B2	
+victory	B2	3000	n. B2	
+viewpoint	B2	5000	n. B2	
+villain	B2	5000	n. B2	
+violence	B2	3000	n. B2	
+virtual	B2	3000	adj. B2	
+visa	B2	5000	n. B2	
+visible	B2	5000	adj. B2	
+vision	B2	3000	n. B2	
+visual	B2	3000	adj. B2	
+vital	B2	3000	adj. B2	
+vitamin	B2	3000	n. B2	
+volume	B2	3000	n. B2	
+voluntary	B2	5000	adj. B2	
+voting	B2	5000	n. B2	
+wage	B2	3000	n. B2	
+wander	B2	5000	v. B2	
+warming	B2	5000	n. B2	
+weakness	B2	3000	n. B2	
+wealth	B2	3000	n. B2	
+wealthy	B2	3000	adj. B2	
+weekly	B2	5000	adj. B2	
+weird	B2	5000	adj. B2	
+welfare	B2	5000	n. B2	
+well-being	B2	3000	n. B2	
+wheat	B2	5000	n. B2	
+whereas	B2	3000	conj. B2	
+wherever	B2	3000	conj. B2	
+whilst	B2	5000	conj. B2	
+whisper	B2	5000	v., n. B2	
+whoever	B2	5000	pron. B2	
+whom	B2	3000	pron. B2	
+widely	B2	3000	adv. B2	
+widespread	B2	5000	adj. B2	
+wildlife	B2	3000	n. B2	
+willing	B2	3000	adj. B2	
+wire	B2	3000	n. B2	
+wisdom	B2	5000	n. B2	
+wise	B2	3000	adj. B2	
+withdraw	B2	5000	v. B2	
+witness	B2	3000	n., v. B2	
+workforce	B2	5000	n. B2	
+workplace	B2	5000	n. B2	
+workshop	B2	5000	n. B2	
+worm	B2	5000	n. B2	
+wound	B2	3000	n., v. B2	
+wrap	B2	3000	v. B2	
+wrist	B2	5000	n. B2	
+zone	B2	3000	n. B2	
+	C1	5000	v. C1	
+abolish	C1	5000	v. C1	
+abortion	C1	5000	n. C1	
+absence	C1	5000	n. C1	
+absent	C1	5000	adj. C1	
+absurd	C1	5000	adj. C1	
+abundance	C1	5000	n. C1	
+abuse	C1	5000	n., v. C1	
+academy	C1	5000	n. C1	
+accelerate	C1	5000	v. C1	
+acceptance	C1	5000	n. C1	
+accessible	C1	5000	adj. C1	
+accessory	C1	5000	n. C1	
+accomplishment	C1	5000	n. C1	
+accordance	C1	5000	n. C1	
+accordingly	C1	5000	adv. C1	
+accountability	C1	5000	n. C1	
+accountable	C1	5000	adj. C1	
+accumulate	C1	5000	v. C1	
+accumulation	C1	5000	n. C1	
+accusation	C1	5000	n. C1	
+accused	C1	5000	n. C1	
+acquisition	C1	5000	n. C1	
+acre	C1	5000	n. C1	
+activation	C1	5000	n. C1	
+activist	C1	5000	n. C1	
+acute	C1	5000	adj. C1	
+adaptation	C1	5000	n. C1	
+adhere	C1	5000	v. C1	
+adjacent	C1	5000	adj. C1	
+adjustment	C1	5000	n. C1	
+administer	C1	5000	v. C1	
+administrative	C1	5000	adj. C1	
+administrator	C1	5000	n. C1	
+admission	C1	5000	n. C1	
+adolescent	C1	5000	n. C1	
+adoption	C1	5000	n. C1	
+adverse	C1	5000	adj. C1	
+advocate	C1	5000	n., v. C1	
+aesthetic	C1	5000	adj. C1	
+affection	C1	5000	n. C1	
+aftermath	C1	5000	n. C1	
+aggression	C1	5000	n. C1	
+agricultural	C1	5000	adj. C1	
+aide	C1	5000	n. C1	
+albeit	C1	5000	conj. C1	
+alert	C1	5000	v., n., adj. C1	
+algorithm	C1	5000	n. C1	
+align	C1	5000	v. C1	
+alignment	C1	5000	n. C1	
+alike	C1	5000	adv., adj. C1	
+all-time	C1	5000	adj. C1	
+allegation	C1	5000	n. C1	
+allege	C1	5000	v. C1	
+allegedly	C1	5000	adv. C1	
+alliance	C1	5000	n. C1	
+allocate	C1	5000	v. C1	
+allocation	C1	5000	n. C1	
+allowance	C1	5000	n. C1	
+ally	C1	5000	n. C1	
+alongside	C1	5000	prep. C1	
+aluminium	C1	5000	n. C1	
+amateur	C1	5000	adj., n. C1	
+ambassador	C1	5000	n. C1	
+amend	C1	5000	v. C1	
+amendment	C1	5000	n. C1	
+amid	C1	5000	prep. C1	
+analogy	C1	5000	n. C1	
+analytics	C1	5000	n. C1	
+anchor	C1	5000	n. C1	
+angel	C1	5000	n. C1	
+anonymous	C1	5000	adj. C1	
+appealing	C1	5000	adj. C1	
+appetite	C1	5000	n. C1	
+applaud	C1	5000	v. C1	
+applicable	C1	5000	adj. C1	
+appoint	C1	5000	v. C1	
+appreciation	C1	5000	n. C1	
+architectural	C1	5000	adj. C1	
+archive	C1	5000	n. C1	
+arena	C1	5000	n. C1	
+arguably	C1	5000	adv. C1	
+array	C1	5000	n. C1	
+articulate	C1	5000	v. C1	
+ash	C1	5000	n. C1	
+aspiration	C1	5000	n. C1	
+aspire	C1	5000	v. C1	
+assassination	C1	5000	n. C1	
+assault	C1	5000	n., v. C1	
+assemble	C1	5000	v. C1	
+assembly	C1	5000	n. C1	
+assert	C1	5000	v. C1	
+assertion	C1	5000	n. C1	
+assurance	C1	5000	n. C1	
+asylum	C1	5000	n. C1	
+attain	C1	5000	v. C1	
+attendance	C1	5000	n. C1	
+attribute	C1	5000	v., n. C1	
+audit	C1	5000	n. C1	
+authentic	C1	5000	adj. C1	
+authorize	C1	5000	v. C1	
+auto	C1	5000	n. C1	
+autonomy	C1	5000	n. C1	
+availability	C1	5000	n. C1	
+await	C1	5000	v. C1	
+awkward	C1	5000	adj. C1	
+backdrop	C1	5000	n. C1	
+backing	C1	5000	n. C1	
+backup	C1	5000	n. C1	
+bail	C1	5000	n. C1	
+ballot	C1	5000	n. C1	
+bang	C1	5000	v., n. C1	
+banner	C1	5000	n. C1	
+bare	C1	5000	adj. C1	
+barrel	C1	5000	n. C1	
+bass	C1	5000	n. C1	homograph 1
+battlefield	C1	5000	n. C1	
+beam	C1	5000	n. C1	
+beast	C1	5000	n. C1	
+behalf	C1	5000	n. C1	
+beloved	C1	5000	adj. C1	
+bench	C1	5000	n. C1	
+benchmark	C1	5000	n. C1	
+beneath	C1	5000	prep. C1	
+beneficiary	C1	5000	n. C1	
+betray	C1	5000	v. C1	
+bind	C1	5000	v. C1	
+biography	C1	5000	n. C1	
+bishop	C1	5000	n. C1	
+bizarre	C1	5000	adj. C1	
+blade	C1	5000	n. C1	
+blast	C1	5000	n., v. C1	
+blaze	C1	5000	n., v. C1	
+bleed	C1	5000	v. C1	
+blend	C1	5000	v. C1	
+bless	C1	5000	v. C1	
+blessing	C1	5000	n. C1	
+boast	C1	5000	v. C1	
+bolster	C1	5000	v. C1	
+bonus	C1	5000	n. C1	
+boom	C1	5000	n. C1	
+boost	C1	5000	v., n. C1	
+bounce	C1	5000	v. C1	
+boundary	C1	5000	n. C1	
+bout	C1	5000	n. C1	
+bow	C1	5000	v., n. C1	homograph 1
+breach	C1	5000	n., v. C1	
+breakdown	C1	5000	n. C1	
+breakthrough	C1	5000	n. C1	
+breed	C1	5000	v., n. C1	
+broadband	C1	5000	n. C1	
+browser	C1	5000	n. C1	
+brutal	C1	5000	adj. C1	
+buck	C1	5000	n. C1	
+buddy	C1	5000	n. C1	
+buffer	C1	5000	n. C1	
+bulk	C1	5000	n. C1	
+burden	C1	5000	n. C1	
+burial	C1	5000	n. C1	
+burst	C1	5000	v. C1	
+buzz	C1	5000	v., n. C1	
+cabinet	C1	5000	n. C1	
+calculation	C1	5000	n. C1	
+cancellation	C1	5000	n. C1	
+canvas	C1	5000	n. C1	
+capability	C1	5000	n. C1	
+capitalism	C1	5000	n. C1	
+capitalist	C1	5000	adj. C1	
+cargo	C1	5000	n. C1	
+carriage	C1	5000	n. C1	
+carve	C1	5000	v. C1	
+casino	C1	5000	n. C1	
+casualty	C1	5000	n. C1	
+catalogue	C1	5000	n. C1	
+cater	C1	5000	v. C1	
+cattle	C1	5000	n. C1	
+caution	C1	5000	n. C1	
+cautious	C1	5000	adj. C1	
+cease	C1	5000	v. C1	
+cemetery	C1	5000	n. C1	
+chamber	C1	5000	n. C1	
+chaos	C1	5000	n. C1	
+characterize	C1	5000	v. C1	
+charm	C1	5000	n. C1	
+charming	C1	5000	adj. C1	
+charter	C1	5000	n. C1	
+chill	C1	5000	n., v. C1	
+chronic	C1	5000	adj. C1	
+chunk	C1	5000	n. C1	
+circulate	C1	5000	v. C1	
+circulation	C1	5000	n. C1	
+citizenship	C1	5000	n. C1	
+civic	C1	5000	adj. C1	
+civilian	C1	5000	n., adj. C1	
+clarity	C1	5000	n. C1	
+clash	C1	5000	n. C1	
+classification	C1	5000	n. C1	
+cling	C1	5000	v. C1	
+clinical	C1	5000	adj. C1	
+closure	C1	5000	n. C1	
+cluster	C1	5000	n. C1	
+coalition	C1	5000	n. C1	
+coastal	C1	5000	adj. C1	
+cocktail	C1	5000	n. C1	
+cognitive	C1	5000	adj. C1	
+coincide	C1	5000	v. C1	
+collaborate	C1	5000	v. C1	
+collaboration	C1	5000	n. C1	
+collective	C1	5000	adj. C1	
+collision	C1	5000	n. C1	
+columnist	C1	5000	n. C1	
+combat	C1	5000	n., v. C1	
+comeback	C1	5000	n. C1	
+commence	C1	5000	v. C1	
+commentary	C1	5000	n. C1	
+commentator	C1	5000	n. C1	
+commerce	C1	5000	n. C1	
+commissioner	C1	5000	n. C1	
+commodity	C1	5000	n. C1	
+communist	C1	5000	adj. C1	
+companion	C1	5000	n. C1	
+comparable	C1	5000	adj. C1	
+compassion	C1	5000	n. C1	
+compel	C1	5000	v. C1	
+compelling	C1	5000	adj. C1	
+compensate	C1	5000	v. C1	
+compensation	C1	5000	n. C1	
+competence	C1	5000	n. C1	
+competent	C1	5000	adj. C1	
+compile	C1	5000	v. C1	
+complement	C1	5000	v. C1	
+complexity	C1	5000	n. C1	
+compliance	C1	5000	n. C1	
+complication	C1	5000	n. C1	
+comply	C1	5000	v. C1	
+composition	C1	5000	n. C1	
+compromise	C1	5000	n., v. C1	
+conceal	C1	5000	v. C1	
+concede	C1	5000	v. C1	
+conceive	C1	5000	v. C1	
+concession	C1	5000	n. C1	
+condemn	C1	5000	v. C1	
+confess	C1	5000	v. C1	
+confession	C1	5000	n. C1	
+configuration	C1	5000	n. C1	
+confine	C1	5000	v. C1	
+confirmation	C1	5000	n. C1	
+confront	C1	5000	v. C1	
+confrontation	C1	5000	n. C1	
+congratulate	C1	5000	v. C1	
+congregation	C1	5000	n. C1	
+congressional	C1	5000	adj. C1	
+connectivity	C1	5000	n. C1	
+conquer	C1	5000	v. C1	
+conscience	C1	5000	n. C1	
+consciousness	C1	5000	n. C1	
+consecutive	C1	5000	adj. C1	
+consensus	C1	5000	n. C1	
+consent	C1	5000	n., v. C1	
+conserve	C1	5000	v. C1	
+consistency	C1	5000	n. C1	
+consolidate	C1	5000	v. C1	
+constituency	C1	5000	n. C1	
+constitute	C1	5000	v. C1	
+constitution	C1	5000	n. C1	
+constitutional	C1	5000	adj. C1	
+constraint	C1	5000	n. C1	
+consultation	C1	5000	n. C1	
+contemplate	C1	5000	v. C1	
+contempt	C1	5000	n. C1	
+contend	C1	5000	v. C1	
+contender	C1	5000	n. C1	
+contention	C1	5000	n. C1	
+continually	C1	5000	adv. C1	
+contractor	C1	5000	n. C1	
+contrary	C1	5000	adj., n. C1	
+contributor	C1	5000	n. C1	
+conversion	C1	5000	n. C1	
+convict	C1	5000	v. C1	
+conviction	C1	5000	n. C1	
+cooperate	C1	5000	v. C1	
+cooperation	C1	5000	n. C1	
+cooperative	C1	5000	adj. C1	
+coordinate	C1	5000	v. C1	
+coordination	C1	5000	n. C1	
+coordinator	C1	5000	n. C1	
+cop	C1	5000	n. C1	
+copper	C1	5000	n. C1	
+copyright	C1	5000	n. C1	
+correction	C1	5000	n. C1	
+correlate	C1	5000	v. C1	
+correlation	C1	5000	n. C1	
+correspond	C1	5000	v. C1	
+correspondent	C1	5000	n. C1	
+corresponding	C1	5000	adj. C1	
+corrupt	C1	5000	adj. C1	
+corruption	C1	5000	n. C1	
+costly	C1	5000	adj. C1	
+councillor	C1	5000	n. C1	
+counselling	C1	5000	n. C1	
+counsellor	C1	5000	n. C1	
+counterpart	C1	5000	n. C1	
+countless	C1	5000	adj. C1	
+coup	C1	5000	n. C1	
+courtesy	C1	5000	n. C1	
+crawl	C1	5000	v. C1	
+creator	C1	5000	n. C1	
+credibility	C1	5000	n. C1	
+credible	C1	5000	adj. C1	
+creep	C1	5000	v. C1	
+critique	C1	5000	n. C1	
+crown	C1	5000	n. C1	
+crude	C1	5000	adj. C1	
+crush	C1	5000	v. C1	
+cryptocurrency	C1	5000	n. C1	
+crystal	C1	5000	n. C1	
+cult	C1	5000	n., adj. C1	
+cultivate	C1	5000	v. C1	
+curiosity	C1	5000	n. C1	
+custody	C1	5000	n. C1	
+dam	C1	5000	n. C1	
+damaging	C1	5000	adj. C1	
+dawn	C1	5000	n. C1	
+debris	C1	5000	n. C1	
+debut	C1	5000	n. C1	
+decision-making	C1	5000	n. C1	
+decisive	C1	5000	adj. C1	
+declaration	C1	5000	n. C1	
+dedicated	C1	5000	adj. C1	
+dedication	C1	5000	n. C1	
+deed	C1	5000	n. C1	
+deem	C1	5000	v. C1	
+default	C1	5000	n. C1	
+defect	C1	5000	n. C1	
+defensive	C1	5000	adj. C1	
+deficiency	C1	5000	n. C1	
+deficit	C1	5000	n. C1	
+defy	C1	5000	v. C1	
+delegate	C1	5000	n. C1	
+delegation	C1	5000	n. C1	
+delicate	C1	5000	adj. C1	
+demon	C1	5000	n. C1	
+denial	C1	5000	n. C1	
+denounce	C1	5000	v. C1	
+dense	C1	5000	adj. C1	
+density	C1	5000	n. C1	
+dependence	C1	5000	n. C1	
+depict	C1	5000	v. C1	
+deploy	C1	5000	v. C1	
+deployment	C1	5000	n. C1	
+deprive	C1	5000	v. C1	
+deputy	C1	5000	n. C1	
+descend	C1	5000	v. C1	
+descent	C1	5000	n. C1	
+designate	C1	5000	v. C1	
+desirable	C1	5000	adj. C1	
+desktop	C1	5000	n. C1	
+destructive	C1	5000	adj. C1	
+detain	C1	5000	v. C1	
+detection	C1	5000	n. C1	
+detention	C1	5000	n. C1	
+deteriorate	C1	5000	v. C1	
+devastate	C1	5000	v. C1	
+devastating	C1	5000	adj. C1	
+devil	C1	5000	n. C1	
+devise	C1	5000	v. C1	
+diagnose	C1	5000	v. C1	
+diagnosis	C1	5000	n. C1	
+dictate	C1	5000	v. C1	
+differentiate	C1	5000	v. C1	
+dignity	C1	5000	n. C1	
+dilemma	C1	5000	n. C1	
+dimension	C1	5000	n. C1	
+diminish	C1	5000	v. C1	
+dip	C1	5000	v. C1	
+diplomat	C1	5000	n. C1	
+diplomatic	C1	5000	n. C1	
+disastrous	C1	5000	adj. C1	
+discard	C1	5000	v. C1	
+discharge	C1	5000	v. C1	
+disclose	C1	5000	v. C1	
+disclosure	C1	5000	n. C1	
+discourse	C1	5000	n. C1	
+discretion	C1	5000	n. C1	
+discrimination	C1	5000	n. C1	
+dismissal	C1	5000	n. C1	
+displace	C1	5000	v. C1	
+disposal	C1	5000	n. C1	
+dispose	C1	5000	v. C1	
+dispute	C1	5000	n., v. C1	
+disrupt	C1	5000	v. C1	
+disruption	C1	5000	n. C1	
+dissolve	C1	5000	v. C1	
+distinction	C1	5000	n. C1	
+distinctive	C1	5000	adj. C1	
+distress	C1	5000	n. C1	
+disturbing	C1	5000	adj. C1	
+divert	C1	5000	v. C1	
+dividend	C1	5000	n. C1	
+doctrine	C1	5000	n. C1	
+documentation	C1	5000	n. C1	
+domain	C1	5000	n. C1	
+dominance	C1	5000	n. C1	
+donor	C1	5000	n. C1	
+dose	C1	5000	n. C1	
+drain	C1	5000	v. C1	
+drift	C1	5000	v. C1	
+drone	C1	5000	n. C1	
+drown	C1	5000	v. C1	
+dual	C1	5000	adj. C1	
+dub	C1	5000	v. C1	
+duo	C1	5000	n. C1	
+e-commerce	C1	5000	n. C1	
+eager	C1	5000	adj. C1	
+earnings	C1	5000	n. C1	
+ease	C1	5000	n., v. C1	
+echo	C1	5000	v. C1	
+ecological	C1	5000	adj. C1	
+educator	C1	5000	n. C1	
+effectiveness	C1	5000	n. C1	
+efficiency	C1	5000	n. C1	
+ego	C1	5000	n. C1	
+elaborate	C1	5000	adj. C1	
+electoral	C1	5000	adj. C1	
+elevate	C1	5000	v. C1	
+eligible	C1	5000	adj. C1	
+elite	C1	5000	n. C1	
+embark	C1	5000	v. C1	
+embarrassment	C1	5000	n. C1	
+embassy	C1	5000	n. C1	
+embed	C1	5000	v. C1	
+embody	C1	5000	v. C1	
+emergence	C1	5000	n. C1	
+empower	C1	5000	v. C1	
+enact	C1	5000	v. C1	
+encompass	C1	5000	v. C1	
+encouragement	C1	5000	n. C1	
+encouraging	C1	5000	adj. C1	
+endeavour	C1	5000	n. C1	
+endless	C1	5000	adj. C1	
+endorse	C1	5000	v. C1	
+endorsement	C1	5000	n. C1	
+endure	C1	5000	v. C1	
+enforce	C1	5000	v. C1	
+enforcement	C1	5000	n. C1	
+engagement	C1	5000	n. C1	
+engaging	C1	5000	adj. C1	
+enquire	C1	5000	v. C1	
+enrich	C1	5000	v. C1	
+enrol	C1	5000	v. C1	
+ensue	C1	5000	v. C1	
+enterprise	C1	5000	n. C1	
+enthusiast	C1	5000	n. C1	
+entitle	C1	5000	v. C1	
+entity	C1	5000	n. C1	
+epidemic	C1	5000	n. C1	
+equality	C1	5000	n. C1	
+equation	C1	5000	n. C1	
+equity	C1	5000	n. C1	
+erect	C1	5000	v. C1	
+escalate	C1	5000	v. C1	
+essence	C1	5000	n. C1	
+establishment	C1	5000	n. C1	
+evacuate	C1	5000	v. C1	
+evoke	C1	5000	v. C1	
+evolutionary	C1	5000	adj. C1	
+exaggerate	C1	5000	v. C1	
+excellence	C1	5000	n. C1	
+exceptional	C1	5000	adj. C1	
+excess	C1	5000	n., adj. C1	
+exclusion	C1	5000	n. C1	
+exclusive	C1	5000	adj. C1	
+exclusively	C1	5000	adv. C1	
+execute	C1	5000	v. C1	
+execution	C1	5000	n. C1	
+exile	C1	5000	n. C1	
+expenditure	C1	5000	n. C1	
+experimental	C1	5000	adj. C1	
+expire	C1	5000	v. C1	
+explicit	C1	5000	adj. C1	
+exploitation	C1	5000	n. C1	
+explosive	C1	5000	adj., n. C1	
+extremist	C1	5000	n. C1	
+facilitate	C1	5000	v. C1	
+faction	C1	5000	n. C1	
+faculty	C1	5000	n. C1	
+fade	C1	5000	v. C1	
+fairness	C1	5000	n. C1	
+fatal	C1	5000	adj. C1	
+fate	C1	5000	n. C1	
+favourable	C1	5000	adj. C1	
+feminist	C1	5000	adj. C1	
+festive	C1	5000	adj. C1	
+fibre	C1	5000	n. C1	
+fierce	C1	5000	adj. C1	
+film-maker	C1	5000	n. C1	
+filter	C1	5000	n., v. C1	
+firearm	C1	5000	n. C1	
+fixture	C1	5000	n. C1	
+flaw	C1	5000	n. C1	
+flawed	C1	5000	adj. C1	
+flee	C1	5000	v. C1	
+fleet	C1	5000	n. C1	
+flesh	C1	5000	n. C1	
+flexibility	C1	5000	n. C1	
+flourish	C1	5000	v. C1	
+fluid	C1	5000	n. C1	
+follow-up	C1	5000	adj., n. C1	
+footage	C1	5000	n. C1	
+forge	C1	5000	v. C1	
+formula	C1	5000	n. C1	
+formulate	C1	5000	v. C1	
+forth	C1	5000	adv. C1	
+forthcoming	C1	5000	adj. C1	
+foster	C1	5000	v. C1	
+fragile	C1	5000	adj. C1	
+franchise	C1	5000	n. C1	
+frankly	C1	5000	adv. C1	
+freely	C1	5000	adv. C1	
+frustrated	C1	5000	adj. C1	
+frustrating	C1	5000	adj. C1	
+frustration	C1	5000	n. C1	
+functional	C1	5000	adj. C1	
+fundraising	C1	5000	n. C1	
+funeral	C1	5000	n. C1	
+gallon	C1	5000	n. C1	
+gambling	C1	5000	n. C1	
+gathering	C1	5000	n. C1	
+gaze	C1	5000	n., v. C1	
+gear	C1	5000	n. C1	
+generic	C1	5000	adj. C1	
+genocide	C1	5000	n. C1	
+gig	C1	5000	n. C1	
+glance	C1	5000	v., n. C1	
+glimpse	C1	5000	n. C1	
+glorious	C1	5000	adj. C1	
+glory	C1	5000	n. C1	
+governance	C1	5000	n. C1	
+grace	C1	5000	n. C1	
+grasp	C1	5000	v. C1	
+grave	C1	5000	n. C1 | adj. C1	for dead person | serious
+gravity	C1	5000	n. C1	
+grid	C1	5000	n. C1	
+grief	C1	5000	n. C1	
+grind	C1	5000	v. C1	
+grip	C1	5000	n., v. C1	
+guidance	C1	5000	n. C1	
+guilt	C1	5000	n. C1	
+gut	C1	5000	n. C1	
+hack	C1	5000	v., n. C1	
+hail	C1	5000	v. C1	
+halfway	C1	5000	adv. C1	
+halt	C1	5000	v. C1	
+hammer	C1	5000	n., v. C1	
+handful	C1	5000	n. C1	
+handling	C1	5000	n. C1	
+handy	C1	5000	adj. C1	
+harassment	C1	5000	n. C1	
+hardware	C1	5000	n. C1	
+harmony	C1	5000	n. C1	
+harsh	C1	5000	adj. C1	
+harvest	C1	5000	n., v. C1	
+hatred	C1	5000	n. C1	
+haunt	C1	5000	v. C1	
+hazard	C1	5000	n. C1	
+heighten	C1	5000	v. C1	
+heritage	C1	5000	n. C1	
+hierarchy	C1	5000	n. C1	
+high-profile	C1	5000	adj. C1	
+hint	C1	5000	n., v. C1	
+homeland	C1	5000	n. C1	
+hopeful	C1	5000	adj. C1	
+horizon	C1	5000	n. C1	
+horn	C1	5000	n. C1	
+hospitality	C1	5000	n. C1	
+hostage	C1	5000	n. C1	
+hostile	C1	5000	adj. C1	
+hub	C1	5000	n. C1	
+humanitarian	C1	5000	adj. C1	
+humanity	C1	5000	n. C1	
+humble	C1	5000	adj. C1	
+hybrid	C1	5000	adj., n. C1	
+hydrogen	C1	5000	n. C1	
+identification	C1	5000	n. C1	
+ideology	C1	5000	n. C1	
+ignorance	C1	5000	n. C1	
+imagery	C1	5000	n. C1	
+immense	C1	5000	adj. C1	
+imminent	C1	5000	adj. C1	
+immunity	C1	5000	n. C1	
+implementation	C1	5000	n. C1	
+imprisonment	C1	5000	n. C1	
+inability	C1	5000	n. C1	
+inadequate	C1	5000	adj. C1	
+inappropriate	C1	5000	adj. C1	
+incidence	C1	5000	n. C1	
+inclined	C1	5000	adj. C1	
+inclusion	C1	5000	n. C1	
+inclusive	C1	5000	adj. C1	
+incur	C1	5000	v. C1	
+indicator	C1	5000	n. C1	
+indictment	C1	5000	n. C1	
+indigenous	C1	5000	adj. C1	
+induce	C1	5000	v. C1	
+indulge	C1	5000	v. C1	
+inequality	C1	5000	n. C1	
+infamous	C1	5000	adj. C1	
+infant	C1	5000	n. C1	
+infect	C1	5000	v. C1	
+infectious	C1	5000	adj. C1	
+inflict	C1	5000	v. C1	
+influential	C1	5000	adj. C1	
+inherent	C1	5000	adj. C1	
+inhibit	C1	5000	v. C1	
+initiate	C1	5000	v. C1	
+inject	C1	5000	v. C1	
+injection	C1	5000	n. C1	
+injustice	C1	5000	n. C1	
+inmate	C1	5000	n. C1	
+insider	C1	5000	n. C1	
+inspect	C1	5000	v. C1	
+inspection	C1	5000	n. C1	
+inspiration	C1	5000	n. C1	
+instinct	C1	5000	n. C1	
+institutional	C1	5000	adj. C1	
+instruct	C1	5000	v. C1	
+instrumental	C1	5000	adj. C1	
+insufficient	C1	5000	adj. C1	
+insult	C1	5000	n. C1	
+intact	C1	5000	adj. C1	
+intake	C1	5000	n. C1	
+integral	C1	5000	adj. C1	
+integrated	C1	5000	adj. C1	
+integration	C1	5000	n. C1	
+integrity	C1	5000	n. C1	
+intensify	C1	5000	v. C1	
+intensity	C1	5000	n. C1	
+intensive	C1	5000	adj. C1	
+intent	C1	5000	n. C1	
+interactive	C1	5000	adj. C1	
+interface	C1	5000	n. C1	
+interfere	C1	5000	v. C1	
+interference	C1	5000	n. C1	
+interim	C1	5000	adj. C1	
+interior	C1	5000	n., adj. C1	
+intervene	C1	5000	v. C1	
+intervention	C1	5000	n. C1	
+intimate	C1	5000	adj. C1	
+intriguing	C1	5000	adj. C1	
+investigator	C1	5000	n. C1	
+invisible	C1	5000	adj. C1	
+invoke	C1	5000	v. C1	
+involvement	C1	5000	n. C1	
+ironically	C1	5000	adv. C1	
+irony	C1	5000	n. C1	
+irrelevant	C1	5000	adj. C1	
+isolation	C1	5000	n. C1	
+joint	C1	5000	adj., n. C1	
+judicial	C1	5000	adj. C1	
+junction	C1	5000	n. C1	
+jurisdiction	C1	5000	n. C1	
+justification	C1	5000	n. C1	
+kidnap	C1	5000	v. C1	
+kidney	C1	5000	n. C1	
+kingdom	C1	5000	n. C1	
+lad	C1	5000	n. C1	
+landlord	C1	5000	n. C1	
+landmark	C1	5000	n. C1	
+lap	C1	5000	n. C1	
+large-scale	C1	5000	adj. C1	
+laser	C1	5000	n. C1	
+latter	C1	5000	adj., n. C1	
+lawn	C1	5000	n. C1	
+lawsuit	C1	5000	n. C1	
+layout	C1	5000	n. C1	
+leak	C1	5000	v., n. C1	
+leap	C1	5000	v., n. C1	
+legacy	C1	5000	n. C1	
+legendary	C1	5000	adj. C1	
+legislation	C1	5000	n. C1	
+legislative	C1	5000	adj. C1	
+legislature	C1	5000	n. C1	
+legitimate	C1	5000	adj. C1	
+lengthy	C1	5000	adj. C1	
+lesbian	C1	5000	adj. C1	
+lesser	C1	5000	adj. C1	
+lethal	C1	5000	adj. C1	
+levy	C1	5000	n., v. C1	
+liable	C1	5000	adj. C1	
+liberal	C1	5000	adj., n. C1	
+liberty	C1	5000	n. C1	
+lifelong	C1	5000	adj. C1	
+likelihood	C1	5000	n. C1	
+limb	C1	5000	n. C1	
+line-up	C1	5000	n. C1	
+linear	C1	5000	adj. C1	
+linger	C1	5000	v. C1	
+listing	C1	5000	n. C1	
+literacy	C1	5000	n. C1	
+liver	C1	5000	n. C1	
+lobby	C1	5000	n., v. C1	
+logic	C1	5000	n. C1	
+long-standing	C1	5000	adj. C1	
+long-time	C1	5000	adj. C1	
+loom	C1	5000	v. C1	
+loop	C1	5000	n. C1	
+loyalty	C1	5000	n. C1	
+machinery	C1	5000	n. C1	
+magical	C1	5000	adj. C1	
+magistrate	C1	5000	n. C1	
+magnetic	C1	5000	adj. C1	
+magnitude	C1	5000	n. C1	
+mainland	C1	5000	n. C1	
+mainstream	C1	5000	n., adj. C1	
+maintenance	C1	5000	n. C1	
+mandate	C1	5000	n. C1	
+mandatory	C1	5000	adj. C1	
+manifest	C1	5000	v. C1	
+manipulate	C1	5000	v. C1	
+manipulation	C1	5000	n. C1	
+march	C1	5000	n., v. C1	
+marginal	C1	5000	adj. C1	
+marine	C1	5000	adj. C1	
+marketplace	C1	5000	n. C1	
+mask	C1	5000	n. C1	
+massacre	C1	5000	n. C1	
+mathematical	C1	5000	adj. C1	
+mature	C1	5000	adj. C1	
+maximize	C1	5000	v. C1	
+meaningful	C1	5000	adj. C1	
+meantime	C1	5000	n. C1	
+medieval	C1	5000	adj. C1	
+meditation	C1	5000	n. C1	
+melody	C1	5000	n. C1	
+memo	C1	5000	n. C1	
+memoir	C1	5000	n. C1	
+memorial	C1	5000	n. C1	
+mentor	C1	5000	n. C1	
+merchant	C1	5000	n. C1	
+mercy	C1	5000	n. C1	
+mere	C1	5000	adj. C1	
+merely	C1	5000	adv. C1	
+merge	C1	5000	v. C1	
+merger	C1	5000	n. C1	
+merit	C1	5000	n. C1	
+methodology	C1	5000	n. C1	
+midst	C1	5000	n. C1	
+migrant	C1	5000	n., adj. C1	
+migration	C1	5000	n. C1	
+milestone	C1	5000	n. C1	
+militant	C1	5000	n., adj. C1	
+militia	C1	5000	n. C1	
+mill	C1	5000	n. C1	
+mindset	C1	5000	n. C1	
+minimal	C1	5000	adj. C1	
+minimize	C1	5000	v. C1	
+mining	C1	5000	n. C1	
+ministry	C1	5000	n. C1	
+miracle	C1	5000	n. C1	
+misery	C1	5000	n. C1	
+misleading	C1	5000	adj. C1	
+missile	C1	5000	n. C1	
+mitigate	C1	5000	v. C1	
+mob	C1	5000	n. C1	
+mobility	C1	5000	n. C1	
+mobilize	C1	5000	v. C1	
+moderate	C1	5000	adj. C1	
+modification	C1	5000	n. C1	
+momentum	C1	5000	n. C1	
+monopoly	C1	5000	n. C1	
+motive	C1	5000	n. C1	
+motorist	C1	5000	n. C1	
+municipal	C1	5000	adj. C1	
+mutual	C1	5000	adj. C1	
+namely	C1	5000	adv. C1	
+nationwide	C1	5000	adj. C1	
+neglect	C1	5000	v. C1	
+neighbouring	C1	5000	adj. C1	
+nest	C1	5000	n. C1	
+newsletter	C1	5000	n. C1	
+niche	C1	5000	n. C1	
+nod	C1	5000	v. C1	
+nominate	C1	5000	v. C1	
+nomination	C1	5000	n. C1	
+nominee	C1	5000	n. C1	
+non-profit	C1	5000	adj. C1	
+nonetheless	C1	5000	adv. C1	
+nonsense	C1	5000	n. C1	
+noon	C1	5000	n. C1	
+notable	C1	5000	adj. C1	
+notably	C1	5000	adv. C1	
+notification	C1	5000	n. C1	
+notify	C1	5000	v. C1	
+notorious	C1	5000	adj. C1	
+nursery	C1	5000	n. C1	
+objection	C1	5000	n. C1	
+oblige	C1	5000	v. C1	
+obsess	C1	5000	v. C1	
+obsession	C1	5000	n. C1	
+occasional	C1	5000	adj. C1	
+occurrence	C1	5000	n. C1	
+odds	C1	5000	n. C1	
+offering	C1	5000	n. C1	
+offset	C1	5000	v. C1	
+offshore	C1	5000	adj. C1	
+operational	C1	5000	adj. C1	
+opt	C1	5000	v. C1	
+optical	C1	5000	adj. C1	
+optimism	C1	5000	n. C1	
+oral	C1	5000	adj. C1	
+organizational	C1	5000	adj. C1	
+orientation	C1	5000	n. C1	
+originate	C1	5000	v. C1	
+outbreak	C1	5000	n. C1	
+outing	C1	5000	n. C1	
+outlet	C1	5000	n. C1	
+outlook	C1	5000	n. C1	
+outrage	C1	5000	n. C1	
+outsider	C1	5000	n. C1	
+overlook	C1	5000	v. C1	
+overly	C1	5000	adv. C1	
+oversee	C1	5000	v. C1	
+overturn	C1	5000	v. C1	
+overwhelm	C1	5000	v. C1	
+overwhelming	C1	5000	adj. C1	
+pad	C1	5000	n. C1	
+parameter	C1	5000	n. C1	
+parental	C1	5000	adj. C1	
+parish	C1	5000	n. C1	
+parliamentary	C1	5000	adj. C1	
+partial	C1	5000	adj. C1	
+partially	C1	5000	adv. C1	
+passing	C1	5000	n. C1	
+passive	C1	5000	adj. C1	
+pastor	C1	5000	n. C1	
+patch	C1	5000	n. C1	
+patent	C1	5000	n. C1	
+pathway	C1	5000	n. C1	
+patrol	C1	5000	n. C1	
+patron	C1	5000	n. C1	
+peak	C1	5000	n. C1	
+persist	C1	5000	v. C1	
+persistent	C1	5000	adj. C1	
+personnel	C1	5000	n. C1	
+petition	C1	5000	n. C1	
+pharmaceutical	C1	5000	adj., n. C1	
+philosopher	C1	5000	n. C1	
+physician	C1	5000	n. C1	
+pioneer	C1	5000	n., v. C1	
+pipeline	C1	5000	n. C1	
+pirate	C1	5000	n. C1	
+pit	C1	5000	n. C1	
+plea	C1	5000	n. C1	
+plead	C1	5000	v. C1	
+pledge	C1	5000	v., n. C1	
+plug	C1	5000	v., n. C1	
+plunge	C1	5000	v. C1	
+pole	C1	5000	n. C1	
+poll	C1	5000	n. C1	
+pond	C1	5000	n. C1	
+portfolio	C1	5000	n. C1	
+portray	C1	5000	v. C1	
+postpone	C1	5000	v. C1	
+practitioner	C1	5000	n. C1	
+precedent	C1	5000	n. C1	
+precision	C1	5000	n. C1	
+predator	C1	5000	n. C1	
+predecessor	C1	5000	n. C1	
+predominantly	C1	5000	adv. C1	
+pregnancy	C1	5000	n. C1	
+prejudice	C1	5000	n. C1	
+preliminary	C1	5000	adj. C1	
+premise	C1	5000	n. C1	
+premium	C1	5000	n. C1	
+prescribe	C1	5000	v. C1	
+prescription	C1	5000	n. C1	
+presently	C1	5000	adv. C1	
+preservation	C1	5000	n. C1	
+preside	C1	5000	v. C1	
+presidency	C1	5000	n. C1	
+presidential	C1	5000	adj. C1	
+prestigious	C1	5000	adj. C1	
+presumably	C1	5000	adv. C1	
+presume	C1	5000	v. C1	
+prevail	C1	5000	v. C1	
+prevalence	C1	5000	n. C1	
+prevention	C1	5000	n. C1	
+prey	C1	5000	n. C1	
+prioritize	C1	5000	v. C1	
+privilege	C1	5000	n. C1	
+probe	C1	5000	n. C1	
+problematic	C1	5000	adj. C1	
+proceedings	C1	5000	n. C1	
+proceeds	C1	5000	n. C1	
+processing	C1	5000	n. C1	
+processor	C1	5000	n. C1	
+proclaim	C1	5000	v. C1	
+productive	C1	5000	adj. C1	
+productivity	C1	5000	n. C1	
+profitable	C1	5000	adj. C1	
+profound	C1	5000	adj. C1	
+projection	C1	5000	n. C1	
+prominent	C1	5000	adj. C1	
+pronounced	C1	5000	adj. C1	
+propaganda	C1	5000	n. C1	
+proposition	C1	5000	n. C1	
+prosecute	C1	5000	v. C1	
+prosecution	C1	5000	n. C1	
+prosecutor	C1	5000	n. C1	
+prospective	C1	5000	adj. C1	
+prosperity	C1	5000	n. C1	
+protective	C1	5000	adj. C1	
+protocol	C1	5000	n. C1	
+province	C1	5000	n. C1	
+provincial	C1	5000	adj. C1	
+provision	C1	5000	n. C1	
+provoke	C1	5000	v. C1	
+pulse	C1	5000	n. C1	
+pump	C1	5000	v., n. C1	
+punch	C1	5000	v., n. C1	
+purely	C1	5000	adv. C1	
+query	C1	5000	n. C1	
+quest	C1	5000	n. C1	
+quota	C1	5000	n. C1	
+radar	C1	5000	n. C1	
+radical	C1	5000	adj. C1	
+rage	C1	5000	n. C1	
+raid	C1	5000	n. C1	
+rally	C1	5000	n., v. C1	
+ranking	C1	5000	n. C1	
+rape	C1	5000	n., v. C1	
+ratio	C1	5000	n. C1	
+rational	C1	5000	adj. C1	
+ray	C1	5000	n. C1	
+readily	C1	5000	adv. C1	
+realization	C1	5000	n. C1	
+realm	C1	5000	n. C1	
+rear	C1	5000	adj. C1	
+reasoning	C1	5000	n. C1	
+reassure	C1	5000	v. C1	
+rebel	C1	5000	n. C1	
+rebellion	C1	5000	n. C1	
+recipient	C1	5000	n. C1	
+reconstruction	C1	5000	n. C1	
+recount	C1	5000	v. C1	homograph 1
+referendum	C1	5000	n. C1	
+reflection	C1	5000	n. C1	
+reform	C1	5000	n., v. C1	
+refuge	C1	5000	n. C1	
+refusal	C1	5000	n. C1	
+regain	C1	5000	v. C1	
+regardless	C1	5000	adv. C1	
+regime	C1	5000	n. C1	
+regulator	C1	5000	n. C1	
+regulatory	C1	5000	adj. C1	
+rehabilitation	C1	5000	n. C1	
+reign	C1	5000	n. C1	
+rejection	C1	5000	n. C1	
+relevance	C1	5000	n. C1	
+reliability	C1	5000	n. C1	
+reluctant	C1	5000	adj. C1	
+remainder	C1	5000	n. C1	
+remains	C1	5000	n. C1	
+remedy	C1	5000	n. C1	
+reminder	C1	5000	n. C1	
+removal	C1	5000	n. C1	
+render	C1	5000	v. C1	
+renew	C1	5000	v. C1	
+renowned	C1	5000	adj. C1	
+rental	C1	5000	n. C1	
+replacement	C1	5000	n. C1	
+reportedly	C1	5000	adv. C1	
+representation	C1	5000	n. C1	
+reproduce	C1	5000	v. C1	
+republic	C1	5000	n. C1	
+resemble	C1	5000	v. C1	
+reside	C1	5000	v. C1	
+residence	C1	5000	n. C1	
+residential	C1	5000	adj. C1	
+resignation	C1	5000	n. C1	
+resilience	C1	5000	n. C1	
+resistance	C1	5000	n. C1	
+respective	C1	5000	adj. C1	
+respectively	C1	5000	adv. C1	
+restoration	C1	5000	n. C1	
+restraint	C1	5000	n. C1	
+resume	C1	5000	v. C1	
+retreat	C1	5000	n., v. C1	
+retrieve	C1	5000	v. C1	
+revelation	C1	5000	n. C1	
+revenge	C1	5000	n. C1	
+reverse	C1	5000	v. C1	
+revival	C1	5000	n. C1	
+revive	C1	5000	v. C1	
+revolutionary	C1	5000	adj. C1	
+rhetoric	C1	5000	n. C1	
+rifle	C1	5000	n. C1	
+riot	C1	5000	n. C1	
+rip	C1	5000	v. C1	
+ritual	C1	5000	n. C1	
+robust	C1	5000	adj. C1	
+rotate	C1	5000	v. C1	
+rotation	C1	5000	n. C1	
+ruling	C1	5000	n. C1	
+rumour	C1	5000	n. C1	
+sack	C1	5000	v. C1	
+sacred	C1	5000	adj. C1	
+sacrifice	C1	5000	n., v. C1	
+safeguard	C1	5000	v., n. C1	
+sake	C1	5000	n. C1	
+sanction	C1	5000	n. C1	
+scam	C1	5000	n., v. C1	
+scattered	C1	5000	adj. C1	
+sceptical	C1	5000	adj. C1	
+scope	C1	5000	n. C1	
+scrap	C1	5000	v., n. C1	
+screw	C1	5000	v. C1	
+scrutiny	C1	5000	n. C1	
+seal	C1	5000	v., n. C1	
+seasonal	C1	5000	adj. C1	
+secular	C1	5000	adj. C1	
+seemingly	C1	5000	adv. C1	
+segment	C1	5000	n. C1	
+seize	C1	5000	v. C1	
+selective	C1	5000	adj. C1	
+sensation	C1	5000	n. C1	
+sensitivity	C1	5000	n. C1	
+sentiment	C1	5000	n. C1	
+separation	C1	5000	n. C1	
+sequel	C1	5000	n. C1	
+serial	C1	5000	adj. C1	
+set-up	C1	5000	n. C1	
+settlement	C1	5000	n. C1	
+sexuality	C1	5000	n. C1	
+shareholder	C1	5000	n. C1	
+shatter	C1	5000	v. C1	
+shed	C1	5000	v. C1	
+sheer	C1	5000	adj. C1	
+shipping	C1	5000	n. C1	
+shrink	C1	5000	v. C1	
+sigh	C1	5000	v., n. C1	
+simulation	C1	5000	n. C1	
+simultaneously	C1	5000	adv. C1	
+sin	C1	5000	n. C1	
+situated	C1	5000	adj. C1	
+sketch	C1	5000	n. C1	
+skip	C1	5000	v. C1	
+slam	C1	5000	v. C1	
+slap	C1	5000	v. C1	
+slash	C1	5000	v. C1	
+slavery	C1	5000	n. C1	
+slot	C1	5000	n. C1	
+smash	C1	5000	v. C1	
+snap	C1	5000	v. C1	
+soak	C1	5000	v. C1	
+soar	C1	5000	v. C1	
+socialist	C1	5000	adj. C1	
+sole	C1	5000	adj. C1	
+solely	C1	5000	adv. C1	
+solicitor	C1	5000	n. C1	
+solidarity	C1	5000	n. C1	
+solo	C1	5000	adj., n. C1	
+sovereignty	C1	5000	n. C1	
+span	C1	5000	v., n. C1	
+spark	C1	5000	v. C1	
+specialized	C1	5000	adj. C1	
+specification	C1	5000	n. C1	
+specimen	C1	5000	n. C1	
+spectacle	C1	5000	n. C1	
+spectrum	C1	5000	n. C1	
+sphere	C1	5000	n. C1	
+spin	C1	5000	v., n. C1	
+spine	C1	5000	n. C1	
+spotlight	C1	5000	n. C1	
+spouse	C1	5000	n. C1	
+spray	C1	5000	n., v. C1	
+spy	C1	5000	n. C1	
+squad	C1	5000	n. C1	
+squeeze	C1	5000	v. C1	
+stab	C1	5000	v. C1	
+stability	C1	5000	n. C1	
+stabilize	C1	5000	v. C1	
+stake	C1	5000	n. C1	
+stark	C1	5000	adj. C1	
+start-up	C1	5000	n., adj. C1	
+statistical	C1	5000	adj. C1	
+steer	C1	5000	v. C1	
+stem	C1	5000	n., v. C1	
+stereotype	C1	5000	n. C1	
+stimulus	C1	5000	n. C1	
+stir	C1	5000	v. C1	
+storage	C1	5000	n. C1	
+straightforward	C1	5000	adj. C1	
+strain	C1	5000	n. C1	
+strategic	C1	5000	adj. C1	
+streaming	C1	5000	n. C1	
+strip	C1	5000	n. C1 | v. C1	long narrow piece | remove clothes/a layer
+strive	C1	5000	v. C1	
+structural	C1	5000	adj. C1	
+stumble	C1	5000	v. C1	
+stun	C1	5000	v. C1	
+submission	C1	5000	n. C1	
+subscribe	C1	5000	v. C1	
+subscriber	C1	5000	n. C1	
+subscription	C1	5000	n. C1	
+subsidy	C1	5000	n. C1	
+substantial	C1	5000	adj. C1	
+substantially	C1	5000	adv. C1	
+substitute	C1	5000	n., v. C1	
+substitution	C1	5000	n. C1	
+subtle	C1	5000	adj. C1	
+suburban	C1	5000	adj. C1	
+succession	C1	5000	n. C1	
+successive	C1	5000	adj. C1	
+successor	C1	5000	n. C1	
+suck	C1	5000	v. C1	
+sue	C1	5000	v. C1	
+suicide	C1	5000	n. C1	
+suite	C1	5000	n. C1	
+summit	C1	5000	n. C1	
+superb	C1	5000	adj. C1	
+superior	C1	5000	adj. C1	
+supervise	C1	5000	v. C1	
+supervision	C1	5000	n. C1	
+supervisor	C1	5000	n. C1	
+supplement	C1	5000	n., v. C1	
+supportive	C1	5000	adj. C1	
+supposedly	C1	5000	adv. C1	
+suppress	C1	5000	v. C1	
+surge	C1	5000	n. C1	
+surgical	C1	5000	adj. C1	
+surpass	C1	5000	v. C1	
+surplus	C1	5000	n. C1	
+surrender	C1	5000	v. C1	
+surveillance	C1	5000	n. C1	
+suspension	C1	5000	n. C1	
+suspicion	C1	5000	n. C1	
+suspicious	C1	5000	adj. C1	
+sustain	C1	5000	v. C1	
+sustainability	C1	5000	n. C1	
+swing	C1	5000	v., n. C1	
+sword	C1	5000	n. C1	
+symbolic	C1	5000	adj. C1	
+syndrome	C1	5000	n. C1	
+systematic	C1	5000	adj. C1	
+tactic	C1	5000	n. C1	
+tactical	C1	5000	adj. C1	
+taxpayer	C1	5000	n. C1	
+tempt	C1	5000	v. C1	
+tenant	C1	5000	n. C1	
+tenure	C1	5000	n. C1	
+terminate	C1	5000	v. C1	
+terrain	C1	5000	n. C1	
+terrific	C1	5000	adj. C1	
+testify	C1	5000	v. C1	
+testimony	C1	5000	n. C1	
+texture	C1	5000	n. C1	
+thankfully	C1	5000	adv. C1	
+theoretical	C1	5000	adj. C1	
+thereafter	C1	5000	adv. C1	
+thereby	C1	5000	adv. C1	
+thoughtful	C1	5000	adj. C1	
+thread	C1	5000	n. C1	
+threshold	C1	5000	n. C1	
+thrilled	C1	5000	adj. C1	
+thrive	C1	5000	v. C1	
+tide	C1	5000	n. C1	
+tighten	C1	5000	v. C1	
+timber	C1	5000	n. C1	
+timely	C1	5000	adj. C1	
+tobacco	C1	5000	n. C1	
+tolerance	C1	5000	n. C1	
+tolerate	C1	5000	v. C1	
+toll	C1	5000	n. C1	
+torture	C1	5000	n., v. C1	
+toss	C1	5000	v. C1	
+toxic	C1	5000	adj. C1	
+trademark	C1	5000	n. C1	
+trafficking	C1	5000	n. C1	
+trail	C1	5000	n., v. C1	
+trailer	C1	5000	n. C1	
+trans	C1	5000	adj. C1	
+transaction	C1	5000	n. C1	
+transcript	C1	5000	n. C1	
+transformation	C1	5000	n. C1	
+transit	C1	5000	n. C1	
+transmission	C1	5000	n. C1	
+transparency	C1	5000	n. C1	
+transparent	C1	5000	adj. C1	
+trauma	C1	5000	n. C1	
+treaty	C1	5000	n. C1	
+tremendous	C1	5000	adj. C1	
+tribal	C1	5000	adj. C1	
+tribunal	C1	5000	n. C1	
+tribute	C1	5000	n. C1	
+trio	C1	5000	n. C1	
+triumph	C1	5000	n. C1	
+trophy	C1	5000	n. C1	
+troubled	C1	5000	adj. C1	
+trustee	C1	5000	n. C1	
+tuition	C1	5000	n. C1	
+turnout	C1	5000	n. C1	
+turnover	C1	5000	n. C1	
+twist	C1	5000	v., n. C1	
+underlying	C1	5000	adj. C1	
+undermine	C1	5000	v. C1	
+undoubtedly	C1	5000	adv. C1	
+unify	C1	5000	v. C1	
+unprecedented	C1	5000	adj. C1	
+unveil	C1	5000	v. C1	
+upcoming	C1	5000	adj. C1	
+upgrade	C1	5000	v., n. C1	
+uphold	C1	5000	v. C1	
+utility	C1	5000	n. C1	
+utilize	C1	5000	v. C1	
+utterly	C1	5000	adv. C1	
+vacuum	C1	5000	n. C1	
+vague	C1	5000	adj. C1	
+vanish	C1	5000	v. C1	
+variable	C1	5000	n., adj. C1	
+varied	C1	5000	adj. C1	
+vegan	C1	5000	n., adj. C1	
+vein	C1	5000	n. C1	
+vendor	C1	5000	n. C1	
+venture	C1	5000	n., v. C1	
+verbal	C1	5000	adj. C1	
+verdict	C1	5000	n. C1	
+verify	C1	5000	v. C1	
+verse	C1	5000	n. C1	
+versus	C1	5000	conj. C1	
+vessel	C1	5000	n. C1	
+veteran	C1	5000	n. C1	
+viable	C1	5000	adj. C1	
+vibrant	C1	5000	adj. C1	
+vice	C1	5000	n. C1	
+vicious	C1	5000	adj. C1	
+villager	C1	5000	n. C1	
+violate	C1	5000	v. C1	
+violation	C1	5000	n. C1	
+viral	C1	5000	adj. C1	
+virtue	C1	5000	n. C1	
+vocal	C1	5000	adj. C1	
+vow	C1	5000	v. C1	
+vulnerability	C1	5000	n. C1	
+vulnerable	C1	5000	adj. C1	
+ward	C1	5000	n. C1	
+warehouse	C1	5000	n. C1	
+warfare	C1	5000	n. C1	
+warrant	C1	5000	n., v. C1	
+warrior	C1	5000	n. C1	
+weaken	C1	5000	v. C1	
+weave	C1	5000	v. C1	
+weed	C1	5000	n. C1	
+whatsoever	C1	5000	adv. C1	
+whip	C1	5000	v. C1	
+wholly	C1	5000	adv. C1	
+widen	C1	5000	v. C1	
+widow	C1	5000	n. C1	
+width	C1	5000	n. C1	
+wildfire	C1	5000	n. C1	
+willingness	C1	5000	n. C1	
+wipe	C1	5000	v. C1	
+wit	C1	5000	n. C1	
+withdrawal	C1	5000	n. C1	
+workout	C1	5000	n. C1	
+worsen	C1	5000	v. C1	
+worship	C1	5000	n., v. C1	
+worthwhile	C1	5000	adj. C1	
+worthy	C1	5000	adj. C1	
+yell	C1	5000	v. C1	
+yield	C1	5000	n., v. C1	
+youngster	C1	5000	n. C1	

@@ -3,7 +3,8 @@ ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL A2 — ELEMENTARY  /  Elementar səviyyə
 ====================================================================================================
 File: A2_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
-Lessons in this file: 40   |   Expressions: 320   |   Example sentences: 160
+Lessons in this file: 40 (40 main-word lessons + 0 fixed-phrase lessons)
+Expressions: 320   |   Fixed phrases: 0   |   Example sentences: 160
 New vocabulary items introduced at level A2: 359   |   Language of usage notes: Azerbaijani
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
@@ -14,6 +15,8 @@ HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   E. USAGE EXPLANATION .... İşlənmə izahı: oxşar ifadələrin fərqi, qrammatik qəliblər, üslub
   DATABASE UPDATE ......... Bu dərsdə bazaya əlavə olunan yeni sözlər və təkrar yoxlamasının nəticəsi
 
+  FIXED-PHRASE LESSON ..... Sabit ifadələr dərsi: əvvəl öyrədilmiş sözlərdən qurulan 4–8 hazır ifadə (get up, at least)
+
   sb = somebody (kimsə)      sth = something (nəsə)      one's = my / your / his / her ... (öz)
   An expression marked [related] belongs to the same topic but does not contain the main word itself.
   [related] işarəli ifadə eyni mövzuya aiddir, lakin əsas sözün özünü ehtiva etmir.
@@ -22,8 +25,12 @@ THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
   Every English word is taught exactly ONCE in the whole A1–C2 system: as a main word, as a word-family
   form, or as the new word inside one expression. Only grammar words (a, the, of, to, be, have, do ...)
   listed in A1 "Section 0" may recur inside expressions. Example sentences may recycle known words.
+  A fixed phrase (get up, at least, in fact) is an item of its own: it is built from words that were taught
+  earlier and it is taught once, as a phrase, in a fixed-phrase lesson.
   Hər bir ingilis sözü bütün sistemdə (A1–C2) yalnız BİR dəfə öyrədilir. Yalnız A1 faylının
   "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
+  Sabit ifadə (get up, at least, in fact) ayrıca vahiddir: əvvəl öyrədilmiş sözlərdən qurulur və
+  sabit ifadələr dərsində bir dəfə — ifadə kimi — öyrədilir.
 
 CONTENTS OF THIS FILE
    UNIT 1 — Travel and transport  /  Səyahət və nəqliyyat
@@ -107,7 +114,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): TRAVEL [main], traveller [family], abroad, plane,
       world, light, agent, Europe, business, guide
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (416 → 426 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (587 → 597 items).
 
 ====================================================================================================
 LESSON A2-002   |   UNIT 1: Travel and transport
@@ -167,7 +174,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): STAY [main], awake, calm, overnight, touch, week,
       indoors, relative, short
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (426 → 435 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (597 → 606 items).
 
 ====================================================================================================
 LESSON A2-003   |   UNIT 1: Travel and transport
@@ -228,7 +235,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): LEAVE [main], tip, airport, peace, hurry, luggage,
       comment, table
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (435 → 443 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (606 → 614 items).
 
 ====================================================================================================
 LESSON A2-004   |   UNIT 1: Travel and transport
@@ -289,7 +296,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ARRIVE [main], arrival [family], Paris, midnight,
       soon, hospital, coach, departure, minute, hall
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (443 → 453 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (614 → 624 items).
 
 ====================================================================================================
 LESSON A2-005   |   UNIT 1: Travel and transport
@@ -349,7 +356,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): CATCH [main], ball, thief, fire, flight, flu, mouse
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (453 → 460 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (624 → 631 items).
 
 ====================================================================================================
 LESSON A2-006   |   UNIT 1: Travel and transport
@@ -410,13 +417,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): MISS [main], missing [family], chance, class,
       deadline, appointment, target, beginning, person, ferry
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (460 → 470 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (631 → 641 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 1 (Travel and transport)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: TRAVEL, STAY, LEAVE, ARRIVE, CATCH, MISS
-   New items registered in this unit: 54   |   Database total after this unit: 470
+   New items registered in this unit: 54   |   Database total after this unit: 641
    abroad, agent, airport, appointment, arrival, ARRIVE, awake, ball, beginning, business, calm,
    CATCH, chance, class, coach, comment, deadline, departure, Europe, ferry, fire, flight, flu,
    guide, hall, hospital, hurry, indoors, LEAVE, light, luggage, midnight, minute, MISS, missing,
@@ -489,7 +496,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): BRING [main], gift, snack, passport, towel, camera,
       laptop
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (470 → 477 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (641 → 648 items).
 
 ====================================================================================================
 LESSON A2-008   |   UNIT 2: Giving, showing and telling
@@ -548,7 +555,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): SEND [main], sender [family], parcel, link, file,
       post, reply, document, package, reminder
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (477 → 487 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (648 → 658 items).
 
 ====================================================================================================
 LESSON A2-009   |   UNIT 2: Giving, showing and telling
@@ -608,7 +615,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (5): SHOW [main], talent, fashion, quiz, respect
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (487 → 492 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (658 → 663 items).
 
 ====================================================================================================
 LESSON A2-010   |   UNIT 2: Giving, showing and telling
@@ -669,7 +676,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): TELL [main], truth, lie, joke, secret, reason,
       police, detail
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (492 → 500 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (663 → 671 items).
 
 ====================================================================================================
 LESSON A2-011   |   UNIT 2: Giving, showing and telling
@@ -730,13 +737,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): TRY [main], recipe, local, food, remember, relax,
       understand
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (500 → 507 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (671 → 678 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 2 (Giving, showing and telling)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: BRING, SEND, SHOW, TELL, TRY
-   New items registered in this unit: 37   |   Database total after this unit: 507
+   New items registered in this unit: 37   |   Database total after this unit: 678
    BRING, camera, detail, document, fashion, file, food, gift, joke, laptop, lie, link, local,
    package, parcel, passport, police, post, quiz, reason, recipe, relax, remember, reminder, reply,
    respect, secret, SEND, sender, SHOW, snack, talent, TELL, towel, truth, TRY, understand
@@ -806,7 +813,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): CHANGE [main], subject, place, channel, password,
       date, completely, tyre
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (507 → 515 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (678 → 686 items).
 
 ====================================================================================================
 LESSON A2-013   |   UNIT 3: Change and movement
@@ -867,7 +874,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): MOVE [main], movement [family], moving [family],
       furniture, chair, countryside
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (515 → 521 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (686 → 692 items).
 
 ====================================================================================================
 LESSON A2-014   |   UNIT 3: Change and movement
@@ -928,7 +935,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): TURN [main], turning [family], left, right, page,
       corner, volume
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (521 → 528 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (692 → 699 items).
 
 ====================================================================================================
 LESSON A2-015   |   UNIT 3: Change and movement
@@ -989,7 +996,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): KEEP [main], keeper [family], promise, fit, diary,
       tidy, pet, grass, fresh
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (528 → 537 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (699 → 708 items).
 
 ====================================================================================================
 LESSON A2-016   |   UNIT 3: Change and movement
@@ -1048,7 +1055,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (12): LOSE [main], loss [family], loser [family], lost
       [family], weight, wallet, control, memory, voice, property, balance, heavy
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (537 → 549 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (708 → 720 items).
 
 ====================================================================================================
 LESSON A2-017   |   UNIT 3: Change and movement
@@ -1109,7 +1116,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FIND [main], finding [family], difficult, funny,
       boring, partner, exit, entrance, accommodation
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (549 → 558 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (720 → 729 items).
 
 ====================================================================================================
 LESSON A2-018   |   UNIT 3: Change and movement
@@ -1168,7 +1175,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): FALL [main], asleep, love, bike, ill, ground,
       temperature
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (558 → 565 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (729 → 736 items).
 
 ====================================================================================================
 LESSON A2-019   |   UNIT 3: Change and movement
@@ -1207,8 +1214,8 @@ C. RELATED EXPRESSIONS
       Usage: Burada "break" isimdir
    7. Break a bone — Sümüyünü sındırmaq
       Usage: bone = sümük
-   8. Break the ice — İlk addımı atıb soyuqluğu aradan qaldırmaq
-      Usage: İdiom; hərfi mənası: buzu sındırmaq
+   8. Break a plate — Boşqabı sındırmaq
+      Usage: plate = boşqab
 
 D. NATURAL EXAMPLE SENTENCES
    1. Who broke the window?
@@ -1217,8 +1224,8 @@ D. NATURAL EXAMPLE SENTENCES
       → Maşınımız Gəncə yolunda xarab oldu.
    3. Let's have a break for ten minutes.
       → Gəlin, on dəqiqə fasilə edək.
-   4. He told a joke to break the ice.
-      → O, soyuqluğu aradan qaldırmaq üçün lətifə danışdı.
+   4. He broke a plate in the kitchen.
+      → O, mətbəxdə boşqab sındırdı.
 
 E. USAGE EXPLANATION
    BREAK düzgün olmayan feldir: break – broke – broken. Fiziki mənada sındırmaq (break a window),
@@ -1228,8 +1235,8 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): BREAK [main], broken [family], law, rule, record,
-      bone, ice
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (565 → 572 items).
+      bone, plate
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (736 → 743 items).
 
 ====================================================================================================
 LESSON A2-020   |   UNIT 3: Change and movement
@@ -1290,19 +1297,20 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): GROW [main], growth [family], grown-up [family],
       plant, tall, fast, beard, tomato, potato, size
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (572 → 582 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (743 → 753 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 3 (Change and movement)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: CHANGE, MOVE, TURN, KEEP, LOSE, FIND, FALL, BREAK, GROW
-   New items registered in this unit: 75   |   Database total after this unit: 582
+   New items registered in this unit: 75   |   Database total after this unit: 753
    accommodation, asleep, balance, beard, bike, bone, boring, BREAK, broken, chair, CHANGE, channel,
    completely, control, corner, countryside, date, diary, difficult, entrance, exit, FALL, fast,
-   FIND, finding, fit, fresh, funny, furniture, grass, ground, GROW, grown-up, growth, heavy, ice,
-   ill, KEEP, keeper, law, left, LOSE, loser, loss, lost, love, memory, MOVE, movement, moving,
-   page, partner, password, pet, place, plant, potato, promise, property, record, right, rule, size,
-   subject, tall, temperature, tidy, tomato, TURN, turning, tyre, voice, volume, wallet, weight
+   FIND, finding, fit, fresh, funny, furniture, grass, ground, GROW, grown-up, growth, heavy, ill,
+   KEEP, keeper, law, left, LOSE, loser, loss, lost, love, memory, MOVE, movement, moving, page,
+   partner, password, pet, place, plant, plate, potato, promise, property, record, right, rule,
+   size, subject, tall, temperature, tidy, tomato, TURN, turning, tyre, voice, volume, wallet,
+   weight
 
 
 ####################################################################################################
@@ -1370,7 +1378,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PLAN [main], planning [family], planner [family],
       trip, wedding, journey, future, event, picnic, study
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (582 → 592 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (753 → 763 items).
 
 ====================================================================================================
 LESSON A2-022   |   UNIT 4: Plans, choices and money
@@ -1431,7 +1439,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): CHOOSE [main], choice [family], career, university,
       course, topic, option, design
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (592 → 600 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (763 → 771 items).
 
 ====================================================================================================
 LESSON A2-023   |   UNIT 4: Plans, choices and money
@@ -1492,7 +1500,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PAY [main], payment [family], paid [family], cash,
       attention, advance, tax, fine, fee, extra
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (600 → 610 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (771 → 781 items).
 
 ====================================================================================================
 LESSON A2-024   |   UNIT 4: Plans, choices and money
@@ -1553,7 +1561,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (13): USE [main], user [family], useful [family],
       useless [family], internet, dictionary, tool, public, transport, knife, brain, social, media
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (610 → 623 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (781 → 794 items).
 
 ====================================================================================================
 LESSON A2-025   |   UNIT 4: Plans, choices and money
@@ -1613,7 +1621,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (4): PUT [main], kettle, fridge, shelf
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (623 → 627 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (794 → 798 items).
 
 ====================================================================================================
 LESSON A2-026   |   UNIT 4: Plans, choices and money
@@ -1672,9 +1680,9 @@ E. USAGE EXPLANATION
    kimi STOP dayanacaqdır: a bus stop.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (10): STOP [main], non-stop [family], talking, smoking,
-      crying, laughing, rest, petrol, full, shouting
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (627 → 637 items).
+   New vocabulary registered in this lesson (10): STOP [main], non-stop [family], talk, smoking,
+      crying, laugh, rest, petrol, full, shouting
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (798 → 808 items).
 
 ====================================================================================================
 LESSON A2-027   |   UNIT 4: Plans, choices and money
@@ -1735,19 +1743,19 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): WIN [main], winner [family], prize, race, medal,
       lottery, award, championship, final, contest
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (637 → 647 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (808 → 818 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 4 (Plans, choices and money)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: PLAN, CHOOSE, PAY, USE, PUT, STOP, WIN
-   New items registered in this unit: 65   |   Database total after this unit: 647
+   New items registered in this unit: 65   |   Database total after this unit: 818
    advance, attention, award, brain, career, cash, championship, choice, CHOOSE, contest, course,
    crying, design, dictionary, event, extra, fee, final, fine, fridge, full, future, internet,
-   journey, kettle, knife, laughing, lottery, medal, media, non-stop, option, paid, PAY, payment,
+   journey, kettle, knife, laugh, lottery, medal, media, non-stop, option, paid, PAY, payment,
    petrol, picnic, PLAN, planner, planning, prize, public, PUT, race, rest, shelf, shouting,
-   smoking, social, STOP, study, talking, tax, tool, topic, transport, trip, university, USE,
-   useful, useless, user, wedding, WIN, winner
+   smoking, social, STOP, study, talk, tax, tool, topic, transport, trip, university, USE, useful,
+   useless, user, wedding, WIN, winner
 
 
 ####################################################################################################
@@ -1814,7 +1822,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FEEL [main], feeling [family], sick, hungry,
       thirsty, sorry, lonely, nervous, comfortable
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (647 → 656 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (818 → 827 items).
 
 ====================================================================================================
 LESSON A2-029   |   UNIT 5: Feelings and thoughts
@@ -1875,7 +1883,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): THINK [main], thought [family], thinker [family],
       thoughtful [family], twice, positive, deeply
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (656 → 663 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (827 → 834 items).
 
 ====================================================================================================
 LESSON A2-030   |   UNIT 5: Feelings and thoughts
@@ -1936,7 +1944,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ENJOY [main], enjoyment [family], enjoyable
       [family], view, sunshine, concert, dancing, nature, really, singing
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (663 → 673 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (834 → 844 items).
 
 ====================================================================================================
 LESSON A2-031   |   UNIT 5: Feelings and thoughts
@@ -1997,7 +2005,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): HOPE [main], hopeful [family], hopeless [family],
       hopefully [family], hear, dream, only, false, still
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (673 → 682 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (844 → 853 items).
 
 ====================================================================================================
 LESSON A2-032   |   UNIT 5: Feelings and thoughts
@@ -2058,13 +2066,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): WORRY [main], worried [family], worrying [family],
       main, slightly, terribly, kid
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (682 → 689 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (853 → 860 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 5 (Feelings and thoughts)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: FEEL, THINK, ENJOY, HOPE, WORRY
-   New items registered in this unit: 42   |   Database total after this unit: 689
+   New items registered in this unit: 42   |   Database total after this unit: 860
    comfortable, concert, dancing, deeply, dream, ENJOY, enjoyable, enjoyment, false, FEEL, feeling,
    hear, HOPE, hopeful, hopefully, hopeless, hungry, kid, lonely, main, nature, nervous, only,
    positive, really, sick, singing, slightly, sorry, still, sunshine, terribly, THINK, thinker,
@@ -2134,7 +2142,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): HEALTH [main], healthy [family], unhealthy
       [family], damage, mental, diet, lifestyle, service, insurance, physical, check
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (689 → 700 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (860 → 871 items).
 
 ====================================================================================================
 LESSON A2-034   |   UNIT 6: Health and sport
@@ -2194,13 +2202,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): SPORT [main], sporty [family], team, winter, club,
       equipment, extreme, fan, stadium
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (700 → 709 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (871 → 880 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 6 (Health and sport)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: HEALTH, SPORT
-   New items registered in this unit: 20   |   Database total after this unit: 709
+   New items registered in this unit: 20   |   Database total after this unit: 880
    check, club, damage, diet, equipment, extreme, fan, HEALTH, healthy, insurance, lifestyle,
    mental, physical, service, SPORT, sporty, stadium, team, unhealthy, winter
 
@@ -2269,7 +2277,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): EASY [main], ease [family], easily [family], task,
       fairly, pretty, reach, exercise, follow, far, test
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (709 → 720 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (880 → 891 items).
 
 ====================================================================================================
 LESSON A2-036   |   UNIT 7: Describing and comparing
@@ -2329,7 +2337,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): DIFFERENT [main], difference [family], differ
       [family], differently [family], kind, culture, type, totally, shape, level, meaning
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (720 → 731 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (891 → 902 items).
 
 ====================================================================================================
 LESSON A2-037   |   UNIT 7: Describing and comparing
@@ -2391,7 +2399,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): IMPORTANT [main], importance [family], unimportant
       [family], importantly [family], role, point, thing, step, especially, discovery, guest,
       equally
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (731 → 743 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (902 → 914 items).
 
 ====================================================================================================
 LESSON A2-038   |   UNIT 7: Describing and comparing
@@ -2451,7 +2459,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): SAFE [main], safety [family], unsafe [family],
       safely [family], sound, harm, distance, perfectly, area, helmet, instruction
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (743 → 754 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (914 → 925 items).
 
 ====================================================================================================
 LESSON A2-039   |   UNIT 7: Describing and comparing
@@ -2512,7 +2520,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): STRONG [main], strength [family], strengthen
       [family], strongly [family], smell, taste, muscle, accent, character, leader, weakness
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (754 → 765 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (925 → 936 items).
 
 ====================================================================================================
 LESSON A2-040   |   UNIT 7: Describing and comparing
@@ -2570,13 +2578,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): INTEREST [main], interesting [family], interested
       [family], special, fact, common, know, article, hobby, share
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (765 → 775 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (936 → 946 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 7 (Describing and comparing)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: EASY, DIFFERENT, IMPORTANT, SAFE, STRONG, INTEREST
-   New items registered in this unit: 66   |   Database total after this unit: 775
+   New items registered in this unit: 66   |   Database total after this unit: 946
    accent, area, article, character, common, culture, differ, difference, DIFFERENT, differently,
    discovery, distance, ease, easily, EASY, equally, especially, exercise, fact, fairly, far,
    follow, guest, harm, helmet, hobby, importance, IMPORTANT, importantly, instruction, INTEREST,
@@ -2615,37 +2623,37 @@ UPDATED VOCABULARY INDEX — END OF LEVEL A2
       005, follow 035, food 011, fresh 015, fridge 025, full 026, funny 017, furniture 013, future
       021, gift 007, grass 015, ground 018, GROW 020, grown-up 020, growth 020, guest 037, guide
       001, hall 004, harm 038, HEALTH 033, healthy 033, hear 031, heavy 016, helmet 038, hobby 040,
-      HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004, hungry 028, hurry 003, ice
-      019, ill 018, importance 037, IMPORTANT 037, importantly 037, indoors 002, instruction 038,
-      insurance 033, INTEREST 040, interested 040, interesting 040, internet 024, joke 010, journey
-      021, KEEP 015, keeper 015, kettle 025, kid 032, kind 036, knife 024, know 040, laptop 007,
-      laughing 026, law 019, leader 039, LEAVE 003, left 014, level 036, lie 010, lifestyle 033,
-      light 001, link 008, local 011, lonely 028, LOSE 016, loser 016, loss 016, lost 016, lottery
-      027, love 018, luggage 003, main 032, meaning 036, medal 027, media 024, memory 016, mental
-      033, midnight 004, minute 004, MISS 006, missing 006, mouse 005, MOVE 013, movement 013,
-      moving 013, muscle 039, nature 030, nervous 028, non-stop 026, only 031, option 022, overnight
-      002, package 008, page 014, paid 023, parcel 008, Paris 004, partner 017, passport 007,
-      password 012, PAY 023, payment 023, peace 003, perfectly 038, person 006, pet 015, petrol 026,
-      physical 033, picnic 021, place 012, PLAN 021, plane 001, planner 021, planning 021, plant
-      020, point 037, police 010, positive 029, post 008, potato 020, pretty 035, prize 027, promise
-      015, property 016, public 024, PUT 025, quiz 009, race 027, reach 035, really 030, reason 010,
+      HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004, hungry 028, hurry 003, ill
+      018, importance 037, IMPORTANT 037, importantly 037, indoors 002, instruction 038, insurance
+      033, INTEREST 040, interested 040, interesting 040, internet 024, joke 010, journey 021, KEEP
+      015, keeper 015, kettle 025, kid 032, kind 036, knife 024, know 040, laptop 007, laugh 026,
+      law 019, leader 039, LEAVE 003, left 014, level 036, lie 010, lifestyle 033, light 001, link
+      008, local 011, lonely 028, LOSE 016, loser 016, loss 016, lost 016, lottery 027, love 018,
+      luggage 003, main 032, meaning 036, medal 027, media 024, memory 016, mental 033, midnight
+      004, minute 004, MISS 006, missing 006, mouse 005, MOVE 013, movement 013, moving 013, muscle
+      039, nature 030, nervous 028, non-stop 026, only 031, option 022, overnight 002, package 008,
+      page 014, paid 023, parcel 008, Paris 004, partner 017, passport 007, password 012, PAY 023,
+      payment 023, peace 003, perfectly 038, person 006, pet 015, petrol 026, physical 033, picnic
+      021, place 012, PLAN 021, plane 001, planner 021, planning 021, plant 020, plate 019, point
+      037, police 010, positive 029, post 008, potato 020, pretty 035, prize 027, promise 015,
+      property 016, public 024, PUT 025, quiz 009, race 027, reach 035, really 030, reason 010,
       recipe 011, record 019, relative 002, relax 011, remember 011, reminder 008, reply 008,
       respect 009, rest 026, right 014, role 037, rule 019, SAFE 038, safely 038, safety 038, secret
       010, SEND 008, sender 008, service 033, shape 036, share 040, shelf 025, short 002, shouting
       026, SHOW 009, sick 028, singing 030, size 020, slightly 032, smell 039, smoking 026, snack
       007, social 024, soon 004, sorry 028, sound 038, special 040, SPORT 034, sporty 034, stadium
       034, STAY 002, step 037, still 031, STOP 026, strength 039, strengthen 039, STRONG 039,
-      strongly 039, study 021, subject 012, sunshine 030, table 003, talent 009, talking 026, tall
-      020, target 006, task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly
-      032, test 035, thief 005, thing 037, THINK 029, thinker 029, thirsty 028, thought 029,
-      thoughtful 029, tidy 015, tip 003, tomato 020, tool 024, topic 022, totally 036, touch 002,
-      towel 007, transport 024, TRAVEL 001, traveller 001, trip 021, truth 010, TRY 011, TURN 014,
-      turning 014, twice 029, type 036, tyre 012, understand 011, unhealthy 033, unimportant 037,
-      university 022, unsafe 038, USE 024, useful 024, useless 024, user 024, view 030, voice 016,
-      volume 014, wallet 016, weakness 039, wedding 021, week 002, weight 016, WIN 027, winner 027,
-      winter 034, world 001, worried 032, WORRY 032, worrying 032
+      strongly 039, study 021, subject 012, sunshine 030, table 003, talent 009, talk 026, tall 020,
+      target 006, task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly 032,
+      test 035, thief 005, thing 037, THINK 029, thinker 029, thirsty 028, thought 029, thoughtful
+      029, tidy 015, tip 003, tomato 020, tool 024, topic 022, totally 036, touch 002, towel 007,
+      transport 024, TRAVEL 001, traveller 001, trip 021, truth 010, TRY 011, TURN 014, turning 014,
+      twice 029, type 036, tyre 012, understand 011, unhealthy 033, unimportant 037, university 022,
+      unsafe 038, USE 024, useful 024, useless 024, user 024, view 030, voice 016, volume 014,
+      wallet 016, weakness 039, wedding 021, week 002, weight 016, WIN 027, winner 027, winter 034,
+      world 001, worried 032, WORRY 032, worrying 032
 
-   Cumulative database size after A2: 775 individual vocabulary items (+ 245 structural words).
+   Cumulative database size after A2: 946 individual vocabulary items (+ 274 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL A2

@@ -128,11 +128,11 @@ adj: broken = sınıq, xarab
 - break up = ayrılmaq (münasibəti bitirmək) :: Frazeoloji fel: break up with sb
 - have a break = fasilə etmək :: Burada "break" isimdir
 - break a bone = sümüyünü sındırmaq :: bone = sümük
-- break the ice = ilk addımı atıb soyuqluğu aradan qaldırmaq :: İdiom; hərfi mənası: buzu sındırmaq
+- break a plate = boşqabı sındırmaq :: plate = boşqab
 > Who broke the window? = Pəncərəni kim sındırdı?
 > Our car broke down on the way to Ganja. = Maşınımız Gəncə yolunda xarab oldu.
 > Let's have a break for ten minutes. = Gəlin, on dəqiqə fasilə edək.
-> He told a joke to break the ice. = O, soyuqluğu aradan qaldırmaq üçün lətifə danışdı.
+> He broke a plate in the kitchen. = O, mətbəxdə boşqab sındırdı.
 ! BREAK düzgün olmayan feldir: break – broke – broken. Fiziki mənada sındırmaq (break a window), məcazi mənada isə pozmaq deməkdir (break the law, break a rule, break a promise). "Break down" maşın və cihazlar haqqında, "break up" isə münasibətlər haqqında işlənir. BROKEN sifətdir: a broken window. İsim kimi BREAK qısa fasilədir: a lunch break.
 
 @ GROW | verb | ɡrəʊ | böyümək, bitmək; becərmək, yetişdirmək; artmaq

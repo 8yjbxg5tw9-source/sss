@@ -7,3 +7,18 @@ train | training  # "training" = təlim, peşə hazırlığı; "train" in A1 is 
 right | rights  # "rights" = hüquqlar (plural noun); "right" in A2 is the direction / "correct"
 good | goods  # "goods" = mallar, a plural-only noun; not a form of the adjective "good"
 wind | wound  # "wound" = yara (noun); not "wound", the past form of the verb "wind", nor the noun "wind" (külək)
+// ---- pairs that the Oxford 3000 / 5000 list itself prints as two separate headwords
+build | building  # list: build v. (tikmək) and building n. (bina) are separate headwords
+begin | beginning  # list: begin v. (başlamaq) and beginning n. (başlanğıc) are separate headwords
+dance | dancing  # list: dance n., v. (rəqs; rəqs etmək) and dancing n. (rəqs etmə) are separate headwords
+sing | singing  # list: sing v. (oxumaq) and singing n. (mahnı oxuma) are separate headwords
+end | ending  # list: end n., v. (son; bitmək) and ending n. (sonluq) are separate headwords
+mean | meaning  # list: mean v. (demək istəmək) and meaning n. (məna) are separate headwords
+meet | meeting  # list: meet v. (görüşmək) and meeting n. (iclas, görüş) are separate headwords
+shop | shopping  # list: shop n., v. (mağaza) and shopping n. (alış-veriş) are separate headwords
+swim | swimming  # list: swim v. (üzmək) and swimming n. (üzgüçülük) are separate headwords
+thank | thanks  # list: thank v. (təşəkkür etmək) and thanks exclam., n. (sağ ol) are separate headwords
+dress | dressed  # list: dress n., v. (don; geyinmək) and dressed adj. (geyinmiş) are separate headwords
+born | bear  # list: born v. (be born – doğulmaq) is a headword of its own; "bear" in C1 = dözmək, daşımaq
+bored | boring  # list: bored adj. (darıxmış) and boring adj. (darıxdırıcı) are separate headwords
+excited | exciting  # list: excited adj. (həyəcanlı) and exciting adj. (həyəcanlandıran) are separate headwords
