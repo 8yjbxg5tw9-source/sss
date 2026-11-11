@@ -181,7 +181,9 @@ git clone --depth 1 --filter=blob:none --sparse https://github.com/open-dict-dat
 (cd ipa-dict && git sparse-checkout set --no-cone data/en_UK.txt)
 ```
 
-Without it the build still works; it reuses the levels cached in `source/reference_levels.tsv`.
+Without it the build still works and the lesson files come out identical, because the levels are
+cached in `source/reference_levels.tsv`. Only the comparison itself is skipped: the cross-check
+summary disappears from `MASTER_INDEX.txt` and `database/qa_report.txt` is not refreshed.
 
 ## Credits for reference data
 
