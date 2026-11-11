@@ -1004,6 +1004,15 @@ def render_lesson(db, L, rel):
                                                            if '(' in x else '/%s/' % x.strip()
                                                            for x in re.split(r'[,;]', L.ipa)).replace('/ (', '/ ('))
     o.append('   CEFR level ............. %s (%s)' % (L.level, LEVEL_NAME[L.level]))
+    ref = getattr(db, 'ref_levels', {}).get(L.head.lower())
+    if ref in LEVELS and ref != L.level:
+        if LEVELS.index(ref) < LEVELS.index(L.level):
+            note = ('The headword on its own is listed at %s in the open reference wordlist; this lesson is %s '
+                    'because the expressions built on it are %s material.' % (ref, L.level, L.level))
+        else:
+            note = ('The open reference wordlist places this headword at %s; it is taught here at %s because '
+                    'the expressions chosen for it are %s material (wordlists differ).' % (ref, L.level, L.level))
+        o.append(wrap('Level note ............. ' + note, '   ', ' ' * 27))
     o.append('')
     o.append('B. WORD FAMILY')
     posmap = {'n': 'noun', 'v': 'verb', 'adj': 'adjective', 'adv': 'adverb'}
@@ -1289,9 +1298,11 @@ def render_master(db, rel, files, qa):
     # Record 5
     o.append('9. RECORD 5 — CEFR CLASSIFICATION')
     o.append(THIN)
-    o.append(wrap('Every item carries the level of the lesson in which it is first taught. Main words are placed '
-                  'at the level at which learners are normally expected to use them actively; the new words inside '
-                  'their expressions are chosen at, or close to, the same level.', '   '))
+    o.append(wrap('Every item carries the level of the lesson in which it is first taught. A lesson is placed at '
+                  'the level of the expression network it teaches, so a very common headword (for example TRAVEL '
+                  'or KEEP) can sit one level above its own wordlist level; whenever the open reference wordlist '
+                  'gives the headword a different level, the lesson says so in a "Level note" line. The new words '
+                  'inside the expressions are chosen at, or close to, the level of the lesson.', '   '))
     for lvl, r in rows:
         o.append('   %s %-20s %4d main words, %5d items' % (lvl, LEVEL_NAME[lvl], r[0], r[3]))
     if qa:
@@ -1451,6 +1462,29 @@ def report(db, limit=60):
         print('warn   ' + w)
 
 
+def sync_ref_levels(db, refs):
+    """Reference-list level of every main word.  Cached in source/reference_levels.tsv so that the
+    generated files stay identical when the external reference data is not available."""
+    path = os.path.join(SRC, 'reference_levels.tsv')
+    cache = OrderedDict()
+    if os.path.exists(path):
+        for raw in open(path, encoding='utf-8'):
+            if raw.startswith('#') or not raw.strip():
+                continue
+            w, _, lv = raw.rstrip('\n').partition('\t')
+            cache[w] = lv
+    if refs.get('cefr'):
+        for L in db.lessons:
+            lv = refs['cefr'].get(L.head.lower())
+            cache[L.head.lower()] = LEVELS[lv] if lv is not None else '-'
+        with open(path, 'w', encoding='utf-8') as f:
+            f.write('# main word <TAB> level in the open reference lists (CEFR-J Wordlist 1.5 for A1-B2, '
+                    'Octanove C1/C2 1.0); "-" = not listed.  Written by tools/vocab.py build.\n')
+            for w in sorted(cache):
+                f.write('%s\t%s\n' % (w, cache[w]))
+    return cache
+
+
 def cmd_build(args):
     db = build_db()
     report(db)
@@ -1463,6 +1497,7 @@ def cmd_build(args):
         return 1
     rel = cross_refs(db)
     refs = load_refs()
+    db.ref_levels = sync_ref_levels(db, refs)
     qa = qa_report(db, refs) if (refs['cefr'] or refs['ipa']) else []
     os.makedirs(OUT, exist_ok=True)
     os.makedirs(DBD, exist_ok=True)

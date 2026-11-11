@@ -1,5 +1,40 @@
 == MAIN WORD LEVEL vs open reference lists (CEFR-J A1-B2, Octanove C1-C2) ==
-  summary: same=40, one level apart=0, two or more apart=0, not in reference=0
+  near  A2-001 TRAVEL         here A2, reference A1
+  near  A2-002 STAY           here A2, reference A1
+  near  A2-003 LEAVE          here A2, reference A1
+  near  A2-004 ARRIVE         here A2, reference A1
+  near  A2-005 CATCH          here A2, reference A1
+  near  A2-006 MISS           here A2, reference A1
+  near  A2-007 BRING          here A2, reference A1
+  near  A2-009 SHOW           here A2, reference A1
+  near  A2-010 TELL           here A2, reference A1
+  near  A2-011 TRY            here A2, reference A1
+  near  A2-012 CHANGE         here A2, reference A1
+  near  A2-013 MOVE           here A2, reference A1
+  near  A2-014 TURN           here A2, reference A1
+  near  A2-015 KEEP           here A2, reference A1
+  near  A2-017 FIND           here A2, reference A1
+  near  A2-019 BREAK          here A2, reference A1
+  near  A2-020 GROW           here A2, reference A1
+  near  A2-021 PLAN           here A2, reference A1
+  near  A2-022 CHOOSE         here A2, reference A1
+  near  A2-023 PAY            here A2, reference A1
+  near  A2-024 USE            here A2, reference A1
+  near  A2-025 PUT            here A2, reference A1
+  near  A2-026 STOP           here A2, reference A1
+  near  A2-027 WIN            here A2, reference A1
+  near  A2-028 FEEL           here A2, reference A1
+  near  A2-029 THINK          here A2, reference A1
+  near  A2-030 ENJOY          here A2, reference A1
+  near  A2-031 HOPE           here A2, reference A1
+  near  A2-032 WORRY          here A2, reference A1
+  near  A2-033 HEALTH         here A2, reference A1
+  near  A2-034 SPORT          here A2, reference A1
+  near  A2-035 EASY           here A2, reference A1
+  near  A2-036 DIFFERENT      here A2, reference A1
+  near  A2-037 IMPORTANT      here A2, reference A1
+  near  A2-039 STRONG         here A2, reference A1
+  summary: same=45, one level apart=35, two or more apart=0, not in reference=0
 
 == COLLOCATES two or more levels ABOVE their lesson level ==
   A1-013 HOUSE        housework        ref B1  "do the housework"
@@ -9,15 +44,21 @@
   A1-025 WATCH        series           ref B1  "watch a series"
   A1-028 OPEN         curtain          ref B1  "open the curtains"
   A1-032 WEATHER      forecast         ref B1  "the weather forecast"
-  count=7
+  A2-007 BRING        laptop           ref B2  "bring your laptop"
+  A2-008 SEND         reminder         ref B2  "send a reminder"
+  A2-011 TRY          recipe           ref B2  "try a recipe"
+  A2-017 FIND         accommodation    ref B2  "find accommodation"
+  A2-024 USE          media            ref B2  "use social media"
+  count=12
 
 == COVERAGE of the reference lists by this database ==
-  A1: 495 of 1058 reference headwords (47%)
-  A2: 122 of 1221 reference headwords (10%)
-  B1: 43 of 2099 reference headwords (2%)
-  B2: 18 of 2428 reference headwords (1%)
-  C1: 1 of 921 reference headwords (0%)
+  A1: 651 of 1058 reference headwords (62%)
+  A2: 230 of 1221 reference headwords (19%)
+  B1: 125 of 2099 reference headwords (6%)
+  B2: 43 of 2428 reference headwords (2%)
+  C1: 5 of 921 reference headwords (1%)
   C2: 1 of 882 reference headwords (0%)
 
 == IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
-  summary: agree=40, differ=0, not in reference=0
+  A2-040 INTEREST       here /ˈɪntrəst/   reference: ˈɪntəɹɪst | ˈɪntɹɪst
+  summary: agree=79, differ=1, not in reference=0

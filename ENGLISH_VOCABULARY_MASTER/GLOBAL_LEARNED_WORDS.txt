@@ -47,41 +47,62 @@ PART B — REFERENCE SETS (19 words; taught once in A1 Section 0)
       June (iyun), July (iyul), August (avqust), September (sentyabr), October (oktyabr), November
       (noyabr), December (dekabr)
 
-PART C — ALL VOCABULARY ITEMS A–Z (397)
+PART C — ALL VOCABULARY ITEMS A–Z (756)
 ----------------------------------------------------------------------------------------------------
    word | role | level | lesson (main word) | where and how it was taught
    Roles: MAIN = main word of a lesson, FAMILY = word-family form, NEW = new word inside an expression
 
 
 — A —
+   abroad | NEW | A2 | A2-001 (TRAVEL) | "travel abroad" — xaricə səyahət etmək
+   accent | NEW | A2 | A2-039 (STRONG) | "a strong accent" — güclü (aydın sezilən) aksent, ləhcə
+   accommodation | NEW | A2 | A2-017 (FIND) | "find accommodation" — qalmağa yer (mənzil) tapmaq
    address | NEW | A1 | A1-019 (WRITE) | "write an address" — ünvan yazmaq
+   advance | NEW | A2 | A2-023 (PAY) | "pay in advance" — əvvəlcədən ödəmək
    afternoon | NEW | A1 | A1-034 (GOOD) | "good afternoon" — günortanız xeyir
    again | NEW | A1 | A1-021 (ASK) | "ask again" — yenidən soruşmaq
    age | NEW | A1 | A1-037 (OLD) | "old age" — qocalıq, ahıl yaş
+   agent | NEW | A2 | A2-001 (TRAVEL) | "a travel agent" — səyahət agenti (turizm şirkətinin
+        əməkdaşı)
+   airport | NEW | A2 | A2-003 (LEAVE) | "leave for the airport" — hava limanına yola düşmək
    alive | FAMILY | A1 | A1-012 (LIVE) | word family (adj) — sağ, diri
    alone | NEW | A1 | A1-012 (LIVE) | "live alone" — tək yaşamaq
    angry | NEW | A1 | A1-003 (GET) | "get angry" — hirslənmək, əsəbiləşmək
    animal | NEW | A1 | A1-035 (BIG) | "the biggest animal" — ən böyük heyvan
    answer | NEW | A1 | A1-006 (GIVE) | "give an answer" — cavab vermək
    apple | NEW | A1 | A1-007 (EAT) | "eat an apple" — alma yemək
+   appointment | NEW | A2 | A2-006 (MISS) | "miss an appointment" — görüşə (qəbula) gəlməmək
+   area | NEW | A2 | A2-038 (SAFE) | "a safe area" — təhlükəsiz ərazi (zona)
    arm | NEW | A1 | A1-016 (BODY) | "arms and legs" — qollar və ayaqlar (qıçlar)
+   arrival | FAMILY | A2 | A2-004 (ARRIVE) | word family (n) — gəliş, çatma
+   ARRIVE | MAIN | A2 | A2-004 (ARRIVE) | main word — gəlib çatmaq
+   article | NEW | A2 | A2-040 (INTEREST) | "an interesting article" — maraqlı məqalə
    ASK | MAIN | A1 | A1-021 (ASK) | main word — soruşmaq; xahiş etmək
+   asleep | NEW | A2 | A2-018 (FALL) | "fall asleep" — yuxuya getmək
+   attention | NEW | A2 | A2-023 (PAY) | "pay attention" — diqqət yetirmək, fikir vermək
    aunt | NEW | A1 | A1-014 (FAMILY) | "aunt and uncle" — xala (bibi) və dayı (əmi)
+   awake | NEW | A2 | A2-002 (STAY) | "stay awake" — oyaq qalmaq
+   award | NEW | A2 | A2-027 (WIN) | "win an award" — mükafata layiq görülmək
    Azerbaijani | NEW | A1 | A1-020 (SPEAK) | "speak Azerbaijani" — Azərbaycan dilində danışmaq
 
 — B —
    baby | NEW | A1 | A1-027 (LOOK) | "look after a baby" — körpəyə baxmaq, körpənin qayğısına qalmaq
    bad | NEW | A1 | A1-032 (WEATHER) | "bad weather" — pis hava
    bag | NEW | A1 | A1-026 (HELP) | "help sb carry a bag" — kiməsə çanta daşımaqda kömək etmək
+   balance | NEW | A2 | A2-016 (LOSE) | "lose your balance" — müvazinətini itirmək
    balcony | NEW | A1 | A1-013 (HOUSE) | "a house with a balcony" — balkonlu ev, eyvanlı ev
+   ball | NEW | A2 | A2-005 (CATCH) | "catch a ball" — topu tutmaq
    bath | NEW | A1 | A1-039 (HOT) | "a hot bath" — isti vanna
    bathroom | NEW | A1 | A1-013 (HOUSE) | "bedroom and bathroom" — yataq otağı və hamam otağı
+   beard | NEW | A2 | A2-020 (GROW) | "grow a beard" — saqqal saxlamaq
    beautiful | NEW | A1 | A1-027 (LOOK) | "look beautiful" — gözəl görünmək
    bed | NEW | A1 | A1-001 (GO) | "go to bed" — yatmağa getmək
    bedroom | NEW | A1 | A1-013 (HOUSE) | "bedroom and bathroom" — yataq otağı və hamam otağı
+   beginning | NEW | A2 | A2-006 (MISS) | "miss the beginning" — əvvəlini (başlanğıcını) qaçırmaq
    best | NEW | A1 | A1-015 (FRIEND) | "best friend" — ən yaxın dost
    better | FAMILY | A1 | A1-034 (GOOD) | word family (adj) — daha yaxşı (müqayisə dərəcəsi)
    BIG | MAIN | A1 | A1-035 (BIG) | main word — böyük, iri
+   bike | NEW | A2 | A2-018 (FALL) | "fall off a bike" — velosipeddən yıxılmaq
    bill | NEW | A1 | A1-021 (ASK) | "ask for the bill" — hesabı istəmək
    bird | NEW | A1 | A1-022 (LISTEN) | "listen to the birds" — quşlara (quşların səsinə) qulaq asmaq
    birthday | NEW | A1 | A1-038 (HAPPY) | "happy birthday" — ad günün mübarək
@@ -89,79 +110,142 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    blue | NEW | A1 | A1-040 (COLOUR) | "red and blue" — qırmızı və mavi (göy)
    board | NEW | A1 | A1-019 (WRITE) | "write on the board" — lövhədə yazmaq
    BODY | MAIN | A1 | A1-016 (BODY) | main word — bədən
+   bone | NEW | A2 | A2-019 (BREAK) | "break a bone" — sümüyünü sındırmaq
    book | NEW | A1 | A1-018 (READ) | "read a book" — kitab oxumaq
+   boring | NEW | A2 | A2-017 (FIND) | "find sth boring" — nəyisə darıxdırıcı hesab etmək
    borrow | NEW | A1 | A1-011 (MONEY) | "borrow money" — borc pul almaq
    bottle | NEW | A1 | A1-008 (DRINK) | "drink from a bottle" — butulkadan içmək
    box | NEW | A1 | A1-028 (OPEN) | "open a box" — qutunu açmaq
+   brain | NEW | A2 | A2-024 (USE) | "use your brain" — başını işlətmək, ağlını işə salmaq
    brand | NEW | A1 | A1-036 (NEW) | "brand new" — təptəzə, tamamilə yeni
    bread | NEW | A1 | A1-010 (BUY) | "buy bread" — çörək almaq
+   BREAK | MAIN | A2 | A2-019 (BREAK) | main word — sındırmaq, sınmaq; pozmaq; fasilə
    breakfast | NEW | A1 | A1-007 (EAT) | "eat breakfast" — səhər yeməyi yemək
    bridge | NEW | A1 | A1-037 (OLD) | "an old bridge" — köhnə körpü
    bright | NEW | A1 | A1-040 (COLOUR) | "a bright colour" — parlaq rəng
+   BRING | MAIN | A2 | A2-007 (BRING) | main word — gətirmək
+   broken | FAMILY | A2 | A2-019 (BREAK) | word family (adj) — sınıq, xarab
    brother | NEW | A1 | A1-014 (FAMILY) | "brother and sister" — qardaş və bacı
    brown | NEW | A1 | A1-040 (COLOUR) | "brown and grey" — qəhvəyi və boz
    brush | NEW | A1 | A1-016 (BODY) | "brush your teeth" — dişlərini fırçalamaq
    building | NEW | A1 | A1-037 (OLD) | "an old building" — köhnə bina
    bus | NEW | A1 | A1-001 (GO) | "go by bus" — avtobusla getmək   [see also: busy A1-031]
-   busy | NEW | A1 | A1-031 (DAY) | "a busy day" — gərgin, işli gün   [see also: bus A1-001]
+   business | NEW | A2 | A2-001 (TRAVEL) | "travel on business" — işgüzar səfərə getmək   [see also:
+        busy A1-031]
+   busy | NEW | A1 | A1-031 (DAY) | "a busy day" — gərgin, işli gün   [see also: bus A1-001,
+        business A2-001]
    BUY | MAIN | A1 | A1-010 (BUY) | main word — almaq, satın almaq
    buyer | FAMILY | A1 | A1-010 (BUY) | word family (n) — alıcı
 
 — C —
    cake | NEW | A1 | A1-005 (MAKE) | "make a cake" — tort bişirmək, tort hazırlamaq
    call | NEW | A1 | A1-005 (MAKE) | "make a phone call" — telefon zəngi etmək, zəng vurmaq
+   calm | NEW | A2 | A2-002 (STAY) | "stay calm" — sakit qalmaq, təmkinini qorumaq
+   camera | NEW | A2 | A2-007 (BRING) | "bring a camera" — fotoaparat gətirmək
    capital | NEW | A1 | A1-033 (CITY) | "capital city" — paytaxt şəhəri
    car | NEW | A1 | A1-036 (NEW) | "a new car" — yeni maşın, təzə maşın   [see also: carry A1-026]
    card | NEW | A1 | A1-024 (PLAY) | "play cards" — kart oynamaq
    care | NEW | A1 | A1-004 (TAKE) | "take care" — özündən muğayat ol; qayğısına qalmaq   [see also:
-        carefully A1-022]
+        career A2-022, carefully A1-022]
+   career | NEW | A2 | A2-022 (CHOOSE) | "choose a career" — peşə (karyera) seçmək   [see also: care
+        A1-004]
    carefully | NEW | A1 | A1-022 (LISTEN) | "listen carefully" — diqqətlə qulaq asmaq   [see also:
         care A1-004]
    carry | NEW | A1 | A1-026 (HELP) | "help sb carry a bag" — kiməsə çanta daşımaqda kömək etmək
         [see also: car A1-036]
    cartoon | NEW | A1 | A1-025 (WATCH) | "watch cartoons" — cizgi filmlərinə baxmaq
+   cash | NEW | A2 | A2-023 (PAY) | "pay cash" — nağd ödəmək
+   CATCH | MAIN | A2 | A2-005 (CATCH) | main word — tutmaq; yaxalamaq; (nəqliyyata) çatmaq;
+        (xəstəliyə) yoluxmaq
    centre | NEW | A1 | A1-033 (CITY) | "city centre" — şəhərin mərkəzi
+   chair | NEW | A2 | A2-013 (MOVE) | "move your chair" — stulunu çəkmək, yerini dəyişmək
+   championship | NEW | A2 | A2-027 (WIN) | "win the championship" — çempionatın qalibi olmaq
+   chance | NEW | A2 | A2-006 (MISS) | "miss a chance" — fürsəti əldən vermək, şansı qaçırmaq
+   CHANGE | MAIN | A2 | A2-012 (CHANGE) | main word — dəyişmək, dəyişdirmək; dəyişiklik; xırda pul,
+        pulun qalığı
+   channel | NEW | A2 | A2-012 (CHANGE) | "change the channel" — (televizorda) kanalı dəyişmək
+   character | NEW | A2 | A2-039 (STRONG) | "a strong character" — möhkəm xarakter, güclü şəxsiyyət
    chat | NEW | A1 | A1-015 (FRIEND) | "chat with friends" — dostlarla söhbət etmək
    cheap | NEW | A1 | A1-011 (MONEY) | "cheap or expensive" — ucuz, yoxsa baha
+   check | NEW | A2 | A2-033 (HEALTH) | "a health check" — tibbi müayinə, sağlamlıq yoxlanışı
    cheese | NEW | A1 | A1-010 (BUY) | "buy cheese" — pendir almaq
    chess | NEW | A1 | A1-024 (PLAY) | "play chess" — şahmat oynamaq
    chicken | NEW | A1 | A1-009 (COOK) | "cook chicken" — toyuq bişirmək
    child | NEW | A1 | A1-038 (HAPPY) | "a happy child" — xoşbəxt uşaq
    chocolate | NEW | A1 | A1-039 (HOT) | "hot chocolate" — isti şokolad (içki)
+   choice | FAMILY | A2 | A2-022 (CHOOSE) | word family (n) — seçim
+   CHOOSE | MAIN | A2 | A2-022 (CHOOSE) | main word — seçmək
    CITY | MAIN | A1 | A1-033 (CITY) | main word — şəhər (böyük şəhər)
+   class | NEW | A2 | A2-006 (MISS) | "miss a class" — dərsi buraxmaq, dərsə gəlməmək
    clean | NEW | A1 | A1-013 (HOUSE) | "clean the house" — evi təmizləmək
    clearly | NEW | A1 | A1-020 (SPEAK) | "speak clearly" — aydın danışmaq
    close | NEW | A1 | A1-015 (FRIEND) | "close friend" — yaxın dost
    clothes | NEW | A1 | A1-010 (BUY) | "buy clothes" — paltar almaq
    cloud | NEW | A1 | A1-032 (WEATHER) | "wind and clouds" — külək və buludlar
+   club | NEW | A2 | A2-034 (SPORT) | "a sports club" — idman klubu
+   coach | NEW | A2 | A2-004 (ARRIVE) | "arrive by coach" — şəhərlərarası avtobusla gəlmək
    coat | NEW | A1 | A1-029 (WEAR) | "wear a coat" — palto geyinmək
    coffee | NEW | A1 | A1-008 (DRINK) | "drink coffee" — qəhvə içmək
    cold | NEW | A1 | A1-008 (DRINK) | "a cold drink" — soyuq içki
    COLOUR | MAIN | A1 | A1-040 (COLOUR) | main word — rəng
    colourful | FAMILY | A1 | A1-040 (COLOUR) | word family (adj) — rəngarəng, əlvan
-   COME | MAIN | A1 | A1-002 (COME) | main word — gəlmək
+   COME | MAIN | A1 | A1-002 (COME) | main word — gəlmək   [see also: comment A2-003]
+   comfortable | NEW | A2 | A2-028 (FEEL) | "feel comfortable" — özünü rahat hiss etmək
+   comment | NEW | A2 | A2-003 (LEAVE) | "leave a comment" — şərh yazmaq, rəy bildirmək   [see also:
+        COME A1-002]
+   common | NEW | A2 | A2-040 (INTEREST) | "common interests" — ümumi maraqlar
    company | NEW | A1 | A1-023 (WORK) | "work for a company" — şirkətdə (şirkət üçün) işləmək
+   completely | NEW | A2 | A2-012 (CHANGE) | "change completely" — tamamilə dəyişmək
    computer | NEW | A1 | A1-024 (PLAY) | "play computer games" — kompüter oyunları oynamaq
+   concert | NEW | A2 | A2-030 (ENJOY) | "enjoy a concert" — konsertdən zövq almaq
+   contest | NEW | A2 | A2-027 (WIN) | "win a contest" — müsabiqədə qalib gəlmək
+   control | NEW | A2 | A2-016 (LOSE) | "lose control" — nəzarəti itirmək
    conversation | NEW | A1 | A1-022 (LISTEN) | "listen to a conversation" — söhbətə qulaq asmaq
    COOK | MAIN | A1 | A1-009 (COOK) | main word — bişirmək; aşpaz
    cooker | FAMILY | A1 | A1-009 (COOK) | word family (n) — mətbəx plitəsi
    cooking | FAMILY | A1 | A1-009 (COOK) | word family (n) — yemək bişirmə, aşpazlıq
+   corner | NEW | A2 | A2-014 (TURN) | "turn a corner" — tini dönmək
    cost | NEW | A1 | A1-011 (MONEY) | "cost a lot of money" — çox pula başa gəlmək, baha olmaq
    country | NEW | A1 | A1-035 (BIG) | "a big country" — böyük ölkə
+   countryside | NEW | A2 | A2-013 (MOVE) | "move to the countryside" — kəndə (şəhərdən kənara)
+        köçmək
    couple | NEW | A1 | A1-038 (HAPPY) | "a happy couple" — xoşbəxt cütlük
+   course | NEW | A2 | A2-022 (CHOOSE) | "choose a course" — kurs seçmək
    cross | NEW | A1 | A1-026 (HELP) | "help sb cross the road" — kiməsə yolu keçməyə kömək etmək
+   crying | NEW | A2 | A2-026 (STOP) | "stop crying" — ağlamağı kəsmək
+   culture | NEW | A2 | A2-036 (DIFFERENT) | "different cultures" — müxtəlif mədəniyyətlər
    cup | NEW | A1 | A1-005 (MAKE) | "make a cup of tea" — bir fincan çay dəmləmək
    curtain | NEW | A1 | A1-028 (OPEN) | "open the curtains" — pərdələri açmaq
 
 — D —
    daily | FAMILY | A1 | A1-031 (DAY) | word family (adj) — gündəlik, hər günkü
+   damage | NEW | A2 | A2-033 (HEALTH) | "damage your health" — sağlamlığına ziyan vurmaq
+   dancing | NEW | A2 | A2-030 (ENJOY) | "enjoy dancing" — rəqs etməyi sevmək
    dark | NEW | A1 | A1-040 (COLOUR) | "a dark colour" — tünd rəng
+   date | NEW | A2 | A2-012 (CHANGE) | "change the date" — tarixi dəyişmək
    daughter | NEW | A1 | A1-014 (FAMILY) | "son and daughter" — oğul və qız (övlad)
    DAY | MAIN | A1 | A1-031 (DAY) | main word — gün
+   deadline | NEW | A2 | A2-006 (MISS) | "miss a deadline" — son müddəti ötürmək, işi vaxtında
+        təhvil verməmək
+   deeply | NEW | A2 | A2-029 (THINK) | "think deeply" — dərindən düşünmək
+   departure | NEW | A2 | A2-004 (ARRIVE) | "arrivals and departures" — gələn və yola düşən reyslər
+   design | NEW | A2 | A2-022 (CHOOSE) | "choose a design" — dizayn seçmək
+   detail | NEW | A2 | A2-010 (TELL) | "tell sb the details" — kiməsə təfərrüatları danışmaq
+   diary | NEW | A2 | A2-015 (KEEP) | "keep a diary" — gündəlik yazmaq
+   dictionary | NEW | A2 | A2-024 (USE) | "use a dictionary" — lüğətdən istifadə etmək
+   diet | NEW | A2 | A2-033 (HEALTH) | "a healthy diet" — sağlam qidalanma (rasion)
+   differ | FAMILY | A2 | A2-036 (DIFFERENT) | word family (v) — fərqlənmək
+   difference | FAMILY | A2 | A2-036 (DIFFERENT) | word family (n) — fərq
+   DIFFERENT | MAIN | A2 | A2-036 (DIFFERENT) | main word — fərqli, başqa, müxtəlif
+   differently | FAMILY | A2 | A2-036 (DIFFERENT) | word family (adv) — fərqli şəkildə, başqa cür
+   difficult | NEW | A2 | A2-017 (FIND) | "find sth difficult" — nəyisə çətin hesab etmək
    dinner | NEW | A1 | A1-005 (MAKE) | "make dinner" — şam yeməyi hazırlamaq
    direction | NEW | A1 | A1-006 (GIVE) | "give directions" — yolu izah etmək, istiqamət göstərmək
+   discovery | NEW | A2 | A2-037 (IMPORTANT) | "an important discovery" — mühüm kəşf
    dish | NEW | A1 | A1-039 (HOT) | "a hot dish" — isti yemək, isti xörək
+   distance | NEW | A2 | A2-038 (SAFE) | "a safe distance" — təhlükəsiz məsafə
    doctor | NEW | A1 | A1-023 (WORK) | "work as a doctor" — həkim işləmək
+   document | NEW | A2 | A2-008 (SEND) | "send a document" — sənəd göndərmək
    dog | NEW | A1 | A1-035 (BIG) | "a big dog" — böyük it, iri it
    door | NEW | A1 | A1-028 (OPEN) | "open the door" — qapını açmaq
    downstairs | NEW | A1 | A1-013 (HOUSE) | "upstairs and downstairs" — yuxarı mərtəbədə və aşağı
@@ -176,42 +260,89 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    early | NEW | A1 | A1-002 (COME) | "come early" — tez gəlmək, erkən gəlmək   [see also: ear
         A1-016]
    earn | NEW | A1 | A1-011 (MONEY) | "earn money" — pul qazanmaq
+   ease | FAMILY | A2 | A2-035 (EASY) | word family (n) — asanlıq, rahatlıq
+   easily | FAMILY | A2 | A2-035 (EASY) | word family (adv) — asanlıqla
+   EASY | MAIN | A2 | A2-035 (EASY) | main word — asan, rahat
    EAT | MAIN | A1 | A1-007 (EAT) | main word — yemək
    egg | NEW | A1 | A1-009 (COOK) | "cook eggs" — yumurta bişirmək
    email | NEW | A1 | A1-018 (READ) | "read an email" — elektron məktub oxumaq
    English | NEW | A1 | A1-017 (LEARN) | "learn English" — ingilis dilini öyrənmək
+   ENJOY | MAIN | A2 | A2-030 (ENJOY) | main word — zövq almaq, həzz almaq, xoşlanmaq
+   enjoyable | FAMILY | A2 | A2-030 (ENJOY) | word family (adj) — xoş, zövq verən
+   enjoyment | FAMILY | A2 | A2-030 (ENJOY) | word family (n) — zövq, həzz
+   entrance | NEW | A2 | A2-017 (FIND) | "find the entrance" — girişi tapmaq
+   equally | NEW | A2 | A2-037 (IMPORTANT) | "equally important" — eyni dərəcədə vacib
+   equipment | NEW | A2 | A2-034 (SPORT) | "sports equipment" — idman avadanlığı (ləvazimatı)
+   especially | NEW | A2 | A2-037 (IMPORTANT) | "especially important" — xüsusilə vacib
+   Europe | NEW | A2 | A2-001 (TRAVEL) | "travel across Europe" — Avropanı başdan-başa gəzmək
    evening | NEW | A1 | A1-034 (GOOD) | "good evening" — axşamınız xeyir
+   event | NEW | A2 | A2-021 (PLAN) | "plan an event" — tədbir planlaşdırmaq
    exam | NEW | A1 | A1-004 (TAKE) | "take an exam" — imtahan vermək
    example | NEW | A1 | A1-006 (GIVE) | "give an example" — nümunə göstərmək, misal çəkmək
+   exercise | NEW | A2 | A2-035 (EASY) | "an easy exercise" — asan çalışma (məşq)
+   exit | NEW | A2 | A2-017 (FIND) | "find the exit" — çıxışı tapmaq
    expensive | NEW | A1 | A1-011 (MONEY) | "cheap or expensive" — ucuz, yoxsa baha
+   extra | NEW | A2 | A2-023 (PAY) | "pay extra" — əlavə pul ödəmək
+   extreme | NEW | A2 | A2-034 (SPORT) | "extreme sports" — ekstremal idman növləri
    eye | NEW | A1 | A1-028 (OPEN) | "open your eyes" — gözlərini açmaq
 
 — F —
    face | NEW | A1 | A1-038 (HAPPY) | "a happy face" — şən üz, gülər üz
+   fact | NEW | A2 | A2-040 (INTEREST) | "interesting facts" — maraqlı faktlar
+   fairly | NEW | A2 | A2-035 (EASY) | "fairly easy" — kifayət qədər asan
+   FALL | MAIN | A2 | A2-018 (FALL) | main word — yıxılmaq, düşmək; enmə, azalma
+   false | NEW | A2 | A2-031 (HOPE) | "false hope" — əsassız ümid, boş ümid
    FAMILY | MAIN | A1 | A1-014 (FAMILY) | main word — ailə
+   fan | NEW | A2 | A2-034 (SPORT) | "a sports fan" — idman azarkeşi
+   far | NEW | A2 | A2-035 (EASY) | "far from easy" — heç də asan deyil
+   fashion | NEW | A2 | A2-009 (SHOW) | "a fashion show" — moda nümayişi
+   fast | NEW | A2 | A2-020 (GROW) | "grow fast" — sürətlə böyümək, sürətlə artmaq
    father | NEW | A1 | A1-014 (FAMILY) | "mother and father" — ana və ata
    favourite | NEW | A1 | A1-040 (COLOUR) | "favourite colour" — sevimli rəng
+   fee | NEW | A2 | A2-023 (PAY) | "pay a fee" — haqq (rüsum) ödəmək
+   FEEL | MAIN | A2 | A2-028 (FEEL) | main word — hiss etmək, duymaq; özünü ... hiss etmək
+   feeling | FAMILY | A2 | A2-028 (FEEL) | word family (n) — hiss, duyğu
+   ferry | NEW | A2 | A2-006 (MISS) | "miss the ferry" — bərəyə gecikmək
+   file | NEW | A2 | A2-008 (SEND) | "send a file" — fayl göndərmək
    film | NEW | A1 | A1-025 (WATCH) | "watch a film" — filmə baxmaq
+   final | NEW | A2 | A2-027 (WIN) | "win the final" — finalda qalib gəlmək   [see also: fine
+        A2-023]
+   FIND | MAIN | A2 | A2-017 (FIND) | main word — tapmaq; hesab etmək, saymaq
+   finding | FAMILY | A2 | A2-017 (FIND) | word family (n) — (tədqiqatın) nəticəsi, tapıntı
+   fine | NEW | A2 | A2-023 (PAY) | "pay a fine" — cərimə ödəmək   [see also: final A2-027]
    finger | NEW | A1 | A1-016 (BODY) | "fingers and toes" — əl barmaqları və ayaq barmaqları
    finish | NEW | A1 | A1-023 (WORK) | "finish work" — işi bitirmək, işdən çıxmaq
+   fire | NEW | A2 | A2-005 (CATCH) | "catch fire" — alışmaq, od tutmaq
    fish | NEW | A1 | A1-009 (COOK) | "cook fish" — balıq bişirmək
+   fit | NEW | A2 | A2-015 (KEEP) | "keep fit" — formada qalmaq
    flat | NEW | A1 | A1-012 (LIVE) | "live in a flat" — mənzildə yaşamaq
+   flight | NEW | A2 | A2-005 (CATCH) | "catch a flight" — təyyarəyə (reysə) çatmaq
    floor | NEW | A1 | A1-012 (LIVE) | "live on the top floor" — ən üst mərtəbədə yaşamaq
    flower | NEW | A1 | A1-006 (GIVE) | "give flowers" — gül bağışlamaq, gül vermək
+   flu | NEW | A2 | A2-005 (CATCH) | "catch the flu" — qripə yoluxmaq
+   follow | NEW | A2 | A2-035 (EASY) | "easy to follow" — başa düşmək (izləmək) asan olan
+   food | NEW | A2 | A2-011 (TRY) | "try the local food" — yerli yeməklərin dadına baxmaq
    football | NEW | A1 | A1-024 (PLAY) | "play football" — futbol oynamaq
    forecast | NEW | A1 | A1-032 (WEATHER) | "the weather forecast" — hava proqnozu
    free | NEW | A1 | A1-030 (TIME) | "free time" — asudə vaxt, boş vaxt
+   fresh | NEW | A2 | A2-015 (KEEP) | "keep sth fresh" — nəyisə təzə saxlamaq
+   fridge | NEW | A2 | A2-025 (PUT) | "put sth in the fridge" — nəyisə soyuducuya qoymaq
    FRIEND | MAIN | A1 | A1-015 (FRIEND) | main word — dost
    friendly | FAMILY | A1 | A1-015 (FRIEND) | word family (adj) — mehriban, dostyana
    friendship | FAMILY | A1 | A1-015 (FRIEND) | word family (n) — dostluq
    fruit | NEW | A1 | A1-007 (EAT) | "eat fruit" — meyvə yemək
+   full | NEW | A2 | A2-026 (STOP) | "a full stop" — nöqtə (durğu işarəsi)
+   funny | NEW | A2 | A2-017 (FIND) | "find sth funny" — nəyisə gülməli hesab etmək
+   furniture | NEW | A2 | A2-013 (MOVE) | "move furniture" — mebelin yerini dəyişmək, mebel daşımaq
+   future | NEW | A2 | A2-021 (PLAN) | "plan your future" — gələcəyini planlaşdırmaq
 
 — G —
    game | NEW | A1 | A1-024 (PLAY) | "play computer games" — kompüter oyunları oynamaq
    garden | NEW | A1 | A1-026 (HELP) | "help in the garden" — bağda kömək etmək
    gate | NEW | A1 | A1-028 (OPEN) | "open the gate" — darvazanı açmaq
    GET | MAIN | A1 | A1-003 (GET) | main word — almaq, əldə etmək; (bir vəziyyətə) düşmək; çatmaq
-   GIVE | MAIN | A1 | A1-006 (GIVE) | main word — vermək
+   gift | NEW | A2 | A2-007 (BRING) | "bring a gift" — hədiyyə gətirmək   [see also: GIVE A1-006]
+   GIVE | MAIN | A1 | A1-006 (GIVE) | main word — vermək   [see also: gift A2-007]
    glass | NEW | A1 | A1-008 (DRINK) | "drink a glass of milk" — bir stəkan süd içmək   [see also:
         glasses A1-029]
    glasses | NEW | A1 | A1-029 (WEAR) | "wear glasses" — eynək taxmaq   [see also: glass A1-008]
@@ -219,33 +350,55 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    GOOD | MAIN | A1 | A1-034 (GOOD) | main word — yaxşı
    grandfather | NEW | A1 | A1-014 (FAMILY) | "grandmother and grandfather" — nənə və baba
    grandmother | NEW | A1 | A1-014 (FAMILY) | "grandmother and grandfather" — nənə və baba
+   grass | NEW | A2 | A2-015 (KEEP) | "keep off the grass" — otun üstünə çıxmayın, çəmənliyi
+        tapdalamayın
    great | NEW | A1 | A1-009 (COOK) | "a great cook" — əla aşpaz
    green | NEW | A1 | A1-040 (COLOUR) | "green and yellow" — yaşıl və sarı
    grey | NEW | A1 | A1-040 (COLOUR) | "brown and grey" — qəhvəyi və boz
+   ground | NEW | A2 | A2-018 (FALL) | "fall to the ground" — yerə düşmək
+   GROW | MAIN | A2 | A2-020 (GROW) | main word — böyümək, bitmək; becərmək, yetişdirmək; artmaq
+   grown-up | FAMILY | A2 | A2-020 (GROW) | word family (n) — böyük (yetkin adam)
+   growth | FAMILY | A2 | A2-020 (GROW) | word family (n) — artım, böyümə
+   guest | NEW | A2 | A2-037 (IMPORTANT) | "an important guest" — hörmətli (vacib) qonaq
+   guide | NEW | A2 | A2-001 (TRAVEL) | "a travel guide" — səyahət bələdçisi (kitab və ya şəxs)
    guitar | NEW | A1 | A1-024 (PLAY) | "play the guitar" — gitara çalmaq
 
 — H —
    hair | NEW | A1 | A1-016 (BODY) | "wash your hair" — saçını yumaq
+   hall | NEW | A2 | A2-004 (ARRIVE) | "the arrivals hall" — gələn sərnişinlər zalı
    hand | NEW | A1 | A1-006 (GIVE) | "give sb a hand" — kiməsə kömək etmək
    happily | FAMILY | A1 | A1-038 (HAPPY) | word family (adv) — xoşbəxtliklə, sevinclə
    happiness | FAMILY | A1 | A1-038 (HAPPY) | word family (n) — xoşbəxtlik
    HAPPY | MAIN | A1 | A1-038 (HAPPY) | main word — xoşbəxt, şad, sevincli
    hard | NEW | A1 | A1-023 (WORK) | "work hard" — çox işləmək, səylə çalışmaq
    hard-working | FAMILY | A1 | A1-023 (WORK) | word family (adj) — zəhmətkeş, çalışqan
+   harm | NEW | A2 | A2-038 (SAFE) | "safe from harm" — ziyandan (təhlükədən) qorunmuş
    hat | NEW | A1 | A1-029 (WEAR) | "wear a hat" — papaq qoymaq, şlyapa geyinmək
    head | NEW | A1 | A1-016 (BODY) | "head and shoulders" — baş və çiyinlər
+   HEALTH | MAIN | A2 | A2-033 (HEALTH) | main word — sağlamlıq, səhhət
+   healthy | FAMILY | A2 | A2-033 (HEALTH) | word family (adj) — sağlam, sağlamlığa faydalı
+   hear | NEW | A2 | A2-031 (HOPE) | "hope to hear from you" — sizdən xəbər gözləyirəm
    heart | NEW | A1 | A1-017 (LEARN) | "learn by heart" — əzbərləmək, əzbər öyrənmək
    heat | FAMILY | A1 | A1-039 (HOT) | word family (n) — istilik, hərarət
    heater | FAMILY | A1 | A1-039 (HOT) | word family (n) — qızdırıcı (cihaz)
    heating | FAMILY | A1 | A1-039 (HOT) | word family (n) — isitmə sistemi
+   heavy | NEW | A2 | A2-016 (LOSE) | "a heavy loss" — ağır itki
+   helmet | NEW | A2 | A2-038 (SAFE) | "a safety helmet" — qoruyucu dəbilqə
    HELP | MAIN | A1 | A1-026 (HELP) | main word — kömək etmək; kömək
    helper | FAMILY | A1 | A1-026 (HELP) | word family (n) — köməkçi
    helpful | FAMILY | A1 | A1-026 (HELP) | word family (adj) — faydalı, kömək etməyə hazır
    helpless | FAMILY | A1 | A1-026 (HELP) | word family (adj) — köməksiz, aciz
+   high | NEW | A2 | A2-031 (HOPE) | "high hopes" — böyük ümidlər
    history | NEW | A1 | A1-017 (LEARN) | "learn about history" — tarix haqqında öyrənmək
+   hobby | NEW | A2 | A2-040 (INTEREST) | "hobbies and interests" — hobbi və maraqlar
    holiday | NEW | A1 | A1-001 (GO) | "go on holiday" — tətilə getmək, istirahətə getmək
    home | NEW | A1 | A1-001 (GO) | "go home" — evə getmək
    homework | NEW | A1 | A1-026 (HELP) | "help with homework" — ev tapşırığında kömək etmək
+   HOPE | MAIN | A2 | A2-031 (HOPE) | main word — ümid etmək; ümid
+   hopeful | FAMILY | A2 | A2-031 (HOPE) | word family (adj) — ümidli
+   hopefully | FAMILY | A2 | A2-031 (HOPE) | word family (adv) — ümid edirəm ki, inşallah
+   hopeless | FAMILY | A2 | A2-031 (HOPE) | word family (adj) — ümidsiz, çarəsiz
+   hospital | NEW | A2 | A2-004 (ARRIVE) | "arrive at the hospital" — xəstəxanaya çatmaq
    HOT | MAIN | A1 | A1-039 (HOT) | main word — isti, qaynar; acı (ədviyyatlı)
    hotel | NEW | A1 | A1-033 (CITY) | "hotels and restaurants" — mehmanxanalar və restoranlar
    hour | NEW | A1 | A1-028 (OPEN) | "opening hours" — iş saatları
@@ -253,34 +406,68 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    housework | NEW | A1 | A1-013 (HOUSE) | "do the housework" — ev işlərini görmək
    hug | NEW | A1 | A1-006 (GIVE) | "give sb a hug" — kimisə qucaqlamaq
    human | NEW | A1 | A1-016 (BODY) | "the human body" — insan bədəni
+   hungry | NEW | A2 | A2-028 (FEEL) | "feel hungry" — aclıq hiss etmək, acmaq
+   hurry | NEW | A2 | A2-003 (LEAVE) | "leave in a hurry" — tələsik çıxıb getmək
    husband | NEW | A1 | A1-014 (FAMILY) | "husband and wife" — ər və arvad
 
 — I —
+   ice | NEW | A2 | A2-019 (BREAK) | "break the ice" — ilk addımı atıb soyuqluğu aradan qaldırmaq
    idea | NEW | A1 | A1-034 (GOOD) | "a good idea" — yaxşı fikir
+   ill | NEW | A2 | A2-018 (FALL) | "fall ill" — xəstələnmək
+   importance | FAMILY | A2 | A2-037 (IMPORTANT) | word family (n) — əhəmiyyət, vaciblik
+   IMPORTANT | MAIN | A2 | A2-037 (IMPORTANT) | main word — vacib, mühüm, əhəmiyyətli
+   importantly | FAMILY | A2 | A2-037 (IMPORTANT) | word family (adv) — ən əsası, mühüm olanı
+   indoors | NEW | A2 | A2-002 (STAY) | "stay indoors" — bayıra çıxmamaq, içəridə qalmaq
    information | NEW | A1 | A1-021 (ASK) | "ask for information" — məlumat istəmək
+   instruction | NEW | A2 | A2-038 (SAFE) | "safety instructions" — təhlükəsizlik təlimatı
+   insurance | NEW | A2 | A2-033 (HEALTH) | "health insurance" — tibbi sığorta
+   INTEREST | MAIN | A2 | A2-040 (INTEREST) | main word — maraq; maraqlandırmaq; (bank) faiz
+   interested | FAMILY | A2 | A2-040 (INTEREST) | word family (adj) — maraqlanan
+   interesting | FAMILY | A2 | A2-040 (INTEREST) | word family (adj) — maraqlı
+   internet | NEW | A2 | A2-024 (USE) | "use the internet" — internetdən istifadə etmək
    invite | NEW | A1 | A1-015 (FRIEND) | "invite a friend" — dostu dəvət etmək
 
 — J —
    jacket | NEW | A1 | A1-029 (WEAR) | "wear a jacket" — pencək və ya gödəkcə geyinmək
    jeans | NEW | A1 | A1-029 (WEAR) | "wear jeans" — cins şalvar geyinmək
    job | NEW | A1 | A1-036 (NEW) | "a new job" — yeni iş
+   joke | NEW | A2 | A2-010 (TELL) | "tell a joke" — lətifə danışmaq
+   journey | NEW | A2 | A2-021 (PLAN) | "plan a journey" — səyahəti (yolu) planlaşdırmaq
    juice | NEW | A1 | A1-008 (DRINK) | "drink orange juice" — portağal şirəsi içmək
 
 — K —
+   KEEP | MAIN | A2 | A2-015 (KEEP) | main word — saxlamaq; (bir vəziyyətdə) qalmaq; davam etmək
+   keeper | FAMILY | A2 | A2-015 (KEEP) | word family (n) — gözətçi, mühafizəçi
+   kettle | NEW | A2 | A2-025 (PUT) | "put the kettle on" — çaydanı qoymaq (su qaynatmaq)
    key | NEW | A1 | A1-027 (LOOK) | "look for the keys" — açarları axtarmaq
+   kid | NEW | A2 | A2-032 (WORRY) | "worry about the kids" — uşaqlara görə narahat olmaq
+   kind | NEW | A2 | A2-036 (DIFFERENT) | "a different kind" — başqa növ, fərqli cür
    kitchen | NEW | A1 | A1-009 (COOK) | "cook in the kitchen" — mətbəxdə yemək bişirmək
+   knife | NEW | A2 | A2-024 (USE) | "use a knife" — bıçaq işlətmək
+   know | NEW | A2 | A2-040 (INTEREST) | "interested to know" — bilmək istəyən, öyrənməyə maraqlı
 
 — L —
    language | NEW | A1 | A1-017 (LEARN) | "learn a language" — dil öyrənmək
+   laptop | NEW | A2 | A2-007 (BRING) | "bring your laptop" — noutbukunu gətirmək
    last | NEW | A1 | A1-030 (TIME) | "last time" — keçən dəfə; sonuncu dəfə
    late | NEW | A1 | A1-002 (COME) | "come late" — gec gəlmək
+   laughing | NEW | A2 | A2-026 (STOP) | "stop laughing" — gülməyi kəsmək
+   law | NEW | A2 | A2-019 (BREAK) | "break the law" — qanunu pozmaq
+   leader | NEW | A2 | A2-039 (STRONG) | "a strong leader" — güclü lider, qətiyyətli rəhbər
    LEARN | MAIN | A1 | A1-017 (LEARN) | main word — öyrənmək
    learner | FAMILY | A1 | A1-017 (LEARN) | word family (n) — öyrənən (şəxs)
    learning | FAMILY | A1 | A1-017 (LEARN) | word family (n) — öyrənmə, təlim
+   LEAVE | MAIN | A2 | A2-003 (LEAVE) | main word — getmək, tərk etmək; qoyub getmək, saxlamaq
+   left | NEW | A2 | A2-014 (TURN) | "turn left" — sola dönmək
    leg | NEW | A1 | A1-016 (BODY) | "arms and legs" — qollar və ayaqlar (qıçlar)
    lesson | NEW | A1 | A1-036 (NEW) | "a new lesson" — yeni dərs
    letter | NEW | A1 | A1-018 (READ) | "read a letter" — məktub oxumaq
+   level | NEW | A2 | A2-036 (DIFFERENT) | "different levels" — müxtəlif səviyyələr
+   lie | NEW | A2 | A2-010 (TELL) | "tell a lie" — yalan danışmaq
    life | FAMILY | A1 | A1-012 (LIVE) | word family (n) — həyat (cəmi: lives)
+   lifestyle | NEW | A2 | A2-033 (HEALTH) | "a healthy lifestyle" — sağlam həyat tərzi
+   light | NEW | A2 | A2-001 (TRAVEL) | "travel light" — az yüklə səyahət etmək
+   link | NEW | A2 | A2-008 (SEND) | "send a link" — keçid (link) göndərmək
    list | NEW | A1 | A1-005 (MAKE) | "make a list" — siyahı tutmaq, siyahı hazırlamaq   [see also:
         LISTEN A1-022]
    LISTEN | MAIN | A1 | A1-022 (LISTEN) | main word — qulaq asmaq, dinləmək   [see also: list
@@ -289,33 +476,58 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    listening | FAMILY | A1 | A1-022 (LISTEN) | word family (n) — dinləmə (dil bacarığı)
    LIVE | MAIN | A1 | A1-012 (LIVE) | main word — yaşamaq
    living | FAMILY | A1 | A1-012 (LIVE) | word family (adj) — canlı, yaşayan
+   local | NEW | A2 | A2-011 (TRY) | "try the local food" — yerli yeməklərin dadına baxmaq
+   lonely | NEW | A2 | A2-028 (FEEL) | "feel lonely" — özünü tənha hiss etmək
    LOOK | MAIN | A1 | A1-027 (LOOK) | main word — baxmaq; görünmək; baxış
+   LOSE | MAIN | A2 | A2-016 (LOSE) | main word — itirmək; uduzmaq
+   loser | FAMILY | A2 | A2-016 (LOSE) | word family (n) — uduzan (şəxs)
+   loss | FAMILY | A2 | A2-016 (LOSE) | word family (n) — itki
+   lost | FAMILY | A2 | A2-016 (LOSE) | word family (adj) — itmiş, azmış
+   lottery | NEW | A2 | A2-027 (WIN) | "win the lottery" — lotereya udmaq
    loudly | NEW | A1 | A1-020 (SPEAK) | "speak loudly" — uca səslə danışmaq
+   love | NEW | A2 | A2-018 (FALL) | "fall in love" — aşiq olmaq, vurulmaq
    luck | NEW | A1 | A1-034 (GOOD) | "good luck" — uğurlar, bəxtin gətirsin
+   luggage | NEW | A2 | A2-003 (LEAVE) | "leave your luggage" — baqajını qoyub getmək, saxlamağa
+        vermək
    lunch | NEW | A1 | A1-007 (EAT) | "eat lunch" — nahar etmək, günorta yeməyi yemək
 
 — M —
    magazine | NEW | A1 | A1-018 (READ) | "read a magazine" — jurnal oxumaq
+   main | NEW | A2 | A2-032 (WORRY) | "the main worry" — əsas narahatlıq, başlıca qayğı
    MAKE | MAIN | A1 | A1-005 (MAKE) | main word — düzəltmək, hazırlamaq, etmək
    man | NEW | A1 | A1-037 (OLD) | "an old man" — qoca kişi, yaşlı kişi
    map | NEW | A1 | A1-018 (READ) | "read a map" — xəritəni oxumaq
    married | NEW | A1 | A1-003 (GET) | "get married" — evlənmək, ailə qurmaq
    match | NEW | A1 | A1-025 (WATCH) | "watch a match" — oyuna (matça) baxmaq
    meal | NEW | A1 | A1-009 (COOK) | "cook a meal" — yemək bişirmək
+   meaning | NEW | A2 | A2-036 (DIFFERENT) | "different meanings" — müxtəlif mənalar
    meat | NEW | A1 | A1-007 (EAT) | "eat meat" — ət yemək
+   medal | NEW | A2 | A2-027 (WIN) | "win a medal" — medal qazanmaq
+   media | NEW | A2 | A2-024 (USE) | "use social media" — sosial mediadan istifadə etmək
    medicine | NEW | A1 | A1-004 (TAKE) | "take medicine" — dərman qəbul etmək, dərman içmək
    meet | NEW | A1 | A1-015 (FRIEND) | "meet a friend" — dostla görüşmək
    member | NEW | A1 | A1-014 (FAMILY) | "family member" — ailə üzvü
+   memory | NEW | A2 | A2-016 (LOSE) | "lose your memory" — yaddaşını itirmək
+   mental | NEW | A2 | A2-033 (HEALTH) | "mental health" — psixi sağlamlıq, ruhi sağlamlıq
    menu | NEW | A1 | A1-021 (ASK) | "ask for the menu" — menyunu istəmək
    message | NEW | A1 | A1-018 (READ) | "read a text message" — mətn mesajı (SMS) oxumaq
+   midnight | NEW | A2 | A2-004 (ARRIVE) | "arrive at midnight" — gecə yarısı çatmaq
    milk | NEW | A1 | A1-008 (DRINK) | "drink a glass of milk" — bir stəkan süd içmək
+   minute | NEW | A2 | A2-004 (ARRIVE) | "arrive within minutes" — bir neçə dəqiqə ərzində çatmaq
+   MISS | MAIN | A2 | A2-006 (MISS) | main word — qaçırmaq, (nəqliyyata) gecikmək; darıxmaq
+   missing | FAMILY | A2 | A2-006 (MISS) | word family (adj) — itkin, çatışmayan
    mistake | NEW | A1 | A1-005 (MAKE) | "make a mistake" — səhv etmək   [see also: TAKE A1-004]
    mobile | NEW | A1 | A1-036 (NEW) | "a new mobile" — yeni mobil telefon
    modern | NEW | A1 | A1-033 (CITY) | "a modern city" — müasir şəhər
    MONEY | MAIN | A1 | A1-011 (MONEY) | main word — pul
    morning | NEW | A1 | A1-034 (GOOD) | "good morning" — sabahınız xeyir
    mother | NEW | A1 | A1-014 (FAMILY) | "mother and father" — ana və ata
+   mouse | NEW | A2 | A2-005 (CATCH) | "catch a mouse" — siçan tutmaq
    mouth | NEW | A1 | A1-028 (OPEN) | "open your mouth" — ağzını açmaq
+   MOVE | MAIN | A2 | A2-013 (MOVE) | main word — hərəkət etmək, tərpənmək; yerini dəyişmək; köçmək
+   movement | FAMILY | A2 | A2-013 (MOVE) | word family (n) — hərəkət, həmçinin (ictimai) hərəkat
+   moving | FAMILY | A2 | A2-013 (MOVE) | word family (adj) — təsirli, kövrəldən
+   muscle | NEW | A2 | A2-039 (STRONG) | "strong muscles" — güclü əzələlər
    museum | NEW | A1 | A1-033 (CITY) | "museums and theatres" — muzeylər və teatrlar
    music | NEW | A1 | A1-022 (LISTEN) | "listen to music" — musiqiyə qulaq asmaq
 
@@ -323,8 +535,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    name | NEW | A1 | A1-019 (WRITE) | "write your name" — adını yazmaq
    native | NEW | A1 | A1-020 (SPEAK) | "a native speaker" — dil daşıyıcısı (həmin dil ana dili olan
         şəxs)
+   nature | NEW | A2 | A2-030 (ENJOY) | "enjoy nature" — təbiətdən zövq almaq
    need | NEW | A1 | A1-026 (HELP) | "need help" — köməyə ehtiyacı olmaq
    neighbour | NEW | A1 | A1-026 (HELP) | "a helpful neighbour" — köməksevər qonşu
+   nervous | NEW | A2 | A2-028 (FEEL) | "feel nervous" — həyəcanlanmaq, narahat olmaq
    NEW | MAIN | A1 | A1-036 (NEW) | main word — yeni, təzə
    newly | FAMILY | A1 | A1-036 (NEW) | word family (adv) — yenicə, təzəcə
    news | NEW | A1 | A1-018 (READ) | "read the news" — xəbərləri oxumaq
@@ -333,6 +547,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    nice | NEW | A1 | A1-031 (DAY) | "have a nice day" — gününüz xoş keçsin
    night | NEW | A1 | A1-034 (GOOD) | "good night" — gecəniz xeyrə qalsın
    noise | NEW | A1 | A1-005 (MAKE) | "make a noise" — səs-küy salmaq
+   non-stop | FAMILY | A2 | A2-026 (STOP) | word family (adj) — fasiləsiz, dayanmadan
    nose | NEW | A1 | A1-016 (BODY) | "nose and ears" — burun və qulaqlar
    note | NEW | A1 | A1-019 (WRITE) | "write a note" — qeyd yazmaq; qısa məktub yazmaq
    number | NEW | A1 | A1-013 (HOUSE) | "my house number" — evimin nömrəsi
@@ -341,168 +556,336 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
    office | NEW | A1 | A1-023 (WORK) | "work in an office" — ofisdə işləmək
    OLD | MAIN | A1 | A1-037 (OLD) | main word — qoca, yaşlı; köhnə
    online | NEW | A1 | A1-010 (BUY) | "buy online" — internetdən almaq, onlayn almaq
+   only | NEW | A2 | A2-031 (HOPE) | "my only hope" — yeganə ümidim
    OPEN | MAIN | A1 | A1-028 (OPEN) | main word — açmaq; açıq
    opening | FAMILY | A1 | A1-028 (OPEN) | word family (n) — açılış, həmçinin boşluq
    openly | FAMILY | A1 | A1-028 (OPEN) | word family (adv) — açıq şəkildə, gizlətmədən
+   option | NEW | A2 | A2-022 (CHOOSE) | "choose an option" — variant seçmək
    orange | NEW | A1 | A1-008 (DRINK) | "drink orange juice" — portağal şirəsi içmək
    oven | NEW | A1 | A1-039 (HOT) | "a hot oven" — qızmış soba
+   overnight | NEW | A2 | A2-002 (STAY) | "stay overnight" — gecələmək, gecəni qalmaq
 
 — P —
-   pair | NEW | A1 | A1-010 (BUY) | "buy a pair of shoes" — bir cüt ayaqqabı almaq
+   package | NEW | A2 | A2-008 (SEND) | "send a package" — paket, bağlama göndərmək
+   page | NEW | A2 | A2-014 (TURN) | "turn the page" — səhifəni çevirmək
+   paid | FAMILY | A2 | A2-023 (PAY) | word family (adj) — ödənişli, haqqı ödənilən
+   pair | NEW | A1 | A1-010 (BUY) | "buy a pair of shoes" — bir cüt ayaqqabı almaq   [see also: PAY
+        A2-023]
+   parcel | NEW | A2 | A2-008 (SEND) | "send a parcel" — bağlama göndərmək
    parent | NEW | A1 | A1-012 (LIVE) | "live with your parents" — valideynlərinlə yaşamaq
+   Paris | NEW | A2 | A2-004 (ARRIVE) | "arrive in Paris" — Parisə çatmaq
    park | NEW | A1 | A1-033 (CITY) | "parks and squares" — parklar və meydanlar
    part | NEW | A1 | A1-016 (BODY) | "parts of the body" — bədən üzvləri, bədənin hissələri   [see
         also: party A1-002]
+   partner | NEW | A2 | A2-017 (FIND) | "find a partner" — tərəfdaş tapmaq, cütünü tapmaq
    party | NEW | A1 | A1-002 (COME) | "come to a party" — qonaqlığa gəlmək, şənliyə gəlmək   [see
         also: part A1-016]
+   passport | NEW | A2 | A2-007 (BRING) | "bring your passport" — pasportunu gətirmək
+   password | NEW | A2 | A2-012 (CHANGE) | "change your password" — parolunu dəyişmək
    pasta | NEW | A1 | A1-009 (COOK) | "cook pasta" — makaron bişirmək
+   PAY | MAIN | A2 | A2-023 (PAY) | main word — ödəmək, pul vermək; maaş   [see also: pair A1-010]
+   payment | FAMILY | A2 | A2-023 (PAY) | word family (n) — ödəniş
+   peace | NEW | A2 | A2-003 (LEAVE) | "leave sb in peace" — kimisə rahat buraxmaq
    pen | NEW | A1 | A1-019 (WRITE) | "write with a pen" — qələmlə yazmaq
    people | NEW | A1 | A1-037 (OLD) | "old people" — yaşlı insanlar, qocalar
+   perfectly | NEW | A2 | A2-038 (SAFE) | "perfectly safe" — tamamilə təhlükəsiz
+   person | NEW | A2 | A2-006 (MISS) | "a missing person" — itkin düşmüş şəxs
+   pet | NEW | A2 | A2-015 (KEEP) | "keep pets" — ev heyvanı saxlamaq
+   petrol | NEW | A2 | A2-026 (STOP) | "stop for petrol" — benzin doldurmaq üçün dayanmaq
    phone | NEW | A1 | A1-005 (MAKE) | "make a phone call" — telefon zəngi etmək, zəng vurmaq
    photo | NEW | A1 | A1-004 (TAKE) | "take a photo" — şəkil çəkmək
+   physical | NEW | A2 | A2-033 (HEALTH) | "physical health" — fiziki sağlamlıq
    piano | NEW | A1 | A1-024 (PLAY) | "play the piano" — piano çalmaq
+   picnic | NEW | A2 | A2-021 (PLAN) | "plan a picnic" — piknik planlaşdırmaq
    picture | NEW | A1 | A1-027 (LOOK) | "look at a picture" — şəklə baxmaq
    pink | NEW | A1 | A1-040 (COLOUR) | "pink and purple" — çəhrayı və bənövşəyi
+   place | NEW | A2 | A2-012 (CHANGE) | "change places" — yerləri dəyişmək
+   PLAN | MAIN | A2 | A2-021 (PLAN) | main word — plan; planlaşdırmaq
+   plane | NEW | A2 | A2-001 (TRAVEL) | "travel by plane" — təyyarə ilə səyahət etmək
+   planner | FAMILY | A2 | A2-021 (PLAN) | word family (n) — planlaşdırıcı, plan dəftəri
+   planning | FAMILY | A2 | A2-021 (PLAN) | word family (n) — planlaşdırma
+   plant | NEW | A2 | A2-020 (GROW) | "grow plants" — bitki yetişdirmək
    PLAY | MAIN | A1 | A1-024 (PLAY) | main word — oynamaq; (musiqi alətində) çalmaq
    player | FAMILY | A1 | A1-024 (PLAY) | word family (n) — oyunçu
    pocket | NEW | A1 | A1-011 (MONEY) | "pocket money" — cib xərcliyi
    podcast | NEW | A1 | A1-022 (LISTEN) | "listen to a podcast" — podkasta qulaq asmaq
+   point | NEW | A2 | A2-037 (IMPORTANT) | "an important point" — vacib məqam, mühüm fikir
+   police | NEW | A2 | A2-010 (TELL) | "tell the police" — polisə xəbər vermək
    politely | NEW | A1 | A1-020 (SPEAK) | "speak politely" — nəzakətlə danışmaq
    poor | NEW | A1 | A1-011 (MONEY) | "rich and poor" — varlı və kasıb
+   positive | NEW | A2 | A2-029 (THINK) | "think positive" — müsbət düşünmək
+   post | NEW | A2 | A2-008 (SEND) | "send by post" — poçtla göndərmək
    postcard | NEW | A1 | A1-019 (WRITE) | "write a postcard" — açıqca yazmaq
+   potato | NEW | A2 | A2-020 (GROW) | "grow potatoes" — kartof becərmək
    present | NEW | A1 | A1-006 (GIVE) | "give a present" — hədiyyə vermək
+   pretty | NEW | A2 | A2-035 (EASY) | "pretty easy" — olduqca asan
    price | NEW | A1 | A1-021 (ASK) | "ask about the price" — qiyməti soruşmaq
+   prize | NEW | A2 | A2-027 (WIN) | "win a prize" — mükafat (priz) qazanmaq
    problem | NEW | A1 | A1-035 (BIG) | "a big problem" — böyük problem
    programme | NEW | A1 | A1-025 (WATCH) | "watch a programme" — verilişə baxmaq
+   promise | NEW | A2 | A2-015 (KEEP) | "keep a promise" — sözünə əməl etmək, vədini yerinə yetirmək
+   property | NEW | A2 | A2-016 (LOSE) | "lost property" — itirilmiş əşyalar (bürosu)
+   public | NEW | A2 | A2-024 (USE) | "use public transport" — ictimai nəqliyyatdan istifadə etmək
    purple | NEW | A1 | A1-040 (COLOUR) | "pink and purple" — çəhrayı və bənövşəyi
+   PUT | MAIN | A2 | A2-025 (PUT) | main word — qoymaq
 
 — Q —
    question | NEW | A1 | A1-021 (ASK) | "ask a question" — sual vermək
    quickly | NEW | A1 | A1-017 (LEARN) | "learn quickly" — tez öyrənmək
    quiet | NEW | A1 | A1-012 (LIVE) | "a quiet life" — sakit həyat
+   quiz | NEW | A2 | A2-009 (SHOW) | "a quiz show" — viktorina, bilik yarışması verilişi
 
 — R —
+   race | NEW | A2 | A2-027 (WIN) | "win a race" — yarışda (qaçışda) qalib gəlmək
    radio | NEW | A1 | A1-022 (LISTEN) | "listen to the radio" — radioya qulaq asmaq
    rain | NEW | A1 | A1-032 (WEATHER) | "rain and snow" — yağış və qar
+   reach | NEW | A2 | A2-035 (EASY) | "easy to reach" — çatmaq asan olan
    READ | MAIN | A1 | A1-018 (READ) | main word — oxumaq (mətni)   [see also: ready A1-003]
    reader | FAMILY | A1 | A1-018 (READ) | word family (n) — oxucu   [see also: ready A1-003]
    reading | FAMILY | A1 | A1-018 (READ) | word family (n) — oxu, mütaliə   [see also: ready A1-003]
    ready | NEW | A1 | A1-003 (GET) | "get ready" — hazırlaşmaq   [see also: READ A1-018, reader
         A1-018, reading A1-018]
+   really | NEW | A2 | A2-030 (ENJOY) | "really enjoy" — çox bəyənmək, əsl zövq almaq
+   reason | NEW | A2 | A2-010 (TELL) | "tell sb the reason" — kiməsə səbəbi demək
+   recipe | NEW | A2 | A2-011 (TRY) | "try a recipe" — resepti sınamaq (yeni yemək bişirmək)
+   record | NEW | A2 | A2-019 (BREAK) | "break a record" — rekord qırmaq
    red | NEW | A1 | A1-040 (COLOUR) | "red and blue" — qırmızı və mavi (göy)
+   relative | NEW | A2 | A2-002 (STAY) | "stay with relatives" — qohumlarının yanında qalmaq
+   relax | NEW | A2 | A2-011 (TRY) | "try to relax" — dincəlməyə, rahatlanmağa çalışmaq
+   remember | NEW | A2 | A2-011 (TRY) | "try to remember" — xatırlamağa çalışmaq
+   reminder | NEW | A2 | A2-008 (SEND) | "send a reminder" — xatırlatma göndərmək
    rent | NEW | A1 | A1-013 (HOUSE) | "rent a house" — ev kirayələmək
    repeat | NEW | A1 | A1-022 (LISTEN) | "listen and repeat" — qulaq as və təkrar et
+   reply | NEW | A2 | A2-008 (SEND) | "send a reply" — cavab göndərmək
+   respect | NEW | A2 | A2-009 (SHOW) | "show respect" — hörmət göstərmək
+   rest | NEW | A2 | A2-026 (STOP) | "stop for a rest" — dincəlmək üçün dayanmaq
    restaurant | NEW | A1 | A1-033 (CITY) | "hotels and restaurants" — mehmanxanalar və restoranlar
    rice | NEW | A1 | A1-009 (COOK) | "cook rice" — düyü bişirmək
    rich | NEW | A1 | A1-011 (MONEY) | "rich and poor" — varlı və kasıb
+   right | NEW | A2 | A2-014 (TURN) | "turn right" — sağa dönmək
    road | NEW | A1 | A1-026 (HELP) | "help sb cross the road" — kiməsə yolu keçməyə kömək etmək
+   role | NEW | A2 | A2-037 (IMPORTANT) | "an important role" — mühüm rol
    room | NEW | A1 | A1-012 (LIVE) | "living room" — qonaq otağı
+   rule | NEW | A2 | A2-019 (BREAK) | "break a rule" — qaydanı pozmaq
 
 — S —
    sad | NEW | A1 | A1-038 (HAPPY) | "happy or sad" — şad, yoxsa kədərli
+   SAFE | MAIN | A2 | A2-038 (SAFE) | main word — təhlükəsiz, salamat; etibarlı   [see also: save
+        A1-011]
+   safely | FAMILY | A2 | A2-038 (SAFE) | word family (adv) — sağ-salamat, təhlükəsiz şəkildə
+   safety | FAMILY | A2 | A2-038 (SAFE) | word family (n) — təhlükəsizlik   [see also: save A1-011]
    same | NEW | A1 | A1-030 (TIME) | "at the same time" — eyni vaxtda
    sandwich | NEW | A1 | A1-005 (MAKE) | "make a sandwich" — sendviç hazırlamaq
-   save | NEW | A1 | A1-011 (MONEY) | "save money" — pul yığmaq; pula qənaət etmək
+   save | NEW | A1 | A1-011 (MONEY) | "save money" — pul yığmaq; pula qənaət etmək   [see also: SAFE
+        A2-038, safety A2-038]
    school | NEW | A1 | A1-001 (GO) | "go to school" — məktəbə getmək
    sea | NEW | A1 | A1-012 (LIVE) | "live near the sea" — dənizin yaxınlığında yaşamaq
    seat | NEW | A1 | A1-004 (TAKE) | "take a seat" — əyləşmək, oturmaq
+   secret | NEW | A2 | A2-010 (TELL) | "tell sb a secret" — kiməsə sirr açmaq
    see | NEW | A1 | A1-038 (HAPPY) | "happy to see you" — səni gördüyümə şadam
    sell | NEW | A1 | A1-010 (BUY) | "buy and sell" — alıb-satmaq, alqı-satqı etmək
+   SEND | MAIN | A2 | A2-008 (SEND) | main word — göndərmək
+   sender | FAMILY | A2 | A2-008 (SEND) | word family (n) — göndərən (şəxs)
    sentence | NEW | A1 | A1-019 (WRITE) | "write a sentence" — cümlə yazmaq
    series | NEW | A1 | A1-025 (WATCH) | "watch a series" — seriala baxmaq
+   service | NEW | A2 | A2-033 (HEALTH) | "health service" — səhiyyə xidməti
+   shape | NEW | A2 | A2-036 (DIFFERENT) | "different shapes" — müxtəlif formalar
+   share | NEW | A2 | A2-040 (INTEREST) | "share an interest" — eyni marağı bölüşmək
+   shelf | NEW | A2 | A2-025 (PUT) | "put sth on the shelf" — nəyisə rəfə qoymaq
    shirt | NEW | A1 | A1-029 (WEAR) | "wear a shirt" — köynək geyinmək
    shoe | NEW | A1 | A1-010 (BUY) | "buy a pair of shoes" — bir cüt ayaqqabı almaq
    shopping | NEW | A1 | A1-001 (GO) | "go shopping" — alış-verişə getmək
+   short | NEW | A2 | A2-002 (STAY) | "a short stay" — qısamüddətli qalma, qısa səfər
    shoulder | NEW | A1 | A1-016 (BODY) | "head and shoulders" — baş və çiyinlər
-   shower | NEW | A1 | A1-004 (TAKE) | "take a shower" — duş qəbul etmək
+   shouting | NEW | A2 | A2-026 (STOP) | "stop shouting" — qışqırmağı dayandırmaq
+   SHOW | MAIN | A2 | A2-009 (SHOW) | main word — göstərmək; şou, tamaşa, veriliş   [see also:
+        shower A1-004]
+   shower | NEW | A1 | A1-004 (TAKE) | "take a shower" — duş qəbul etmək   [see also: SHOW A2-009]
+   sick | NEW | A2 | A2-028 (FEEL) | "feel sick" — ürəyi bulanmaq; özünü xəstə hiss etmək
+   singing | NEW | A2 | A2-030 (ENJOY) | "enjoy singing" — mahnı oxumağı sevmək
    sister | NEW | A1 | A1-014 (FAMILY) | "brother and sister" — qardaş və bacı
+   size | NEW | A2 | A2-020 (GROW) | "grow in size" — ölçücə böyümək
    skirt | NEW | A1 | A1-029 (WEAR) | "wear a skirt" — yubka (ətək) geyinmək
+   slightly | NEW | A2 | A2-032 (WORRY) | "slightly worried" — bir qədər narahat
    slowly | NEW | A1 | A1-020 (SPEAK) | "speak slowly" — yavaş danışmaq
    small | NEW | A1 | A1-013 (HOUSE) | "a small house" — kiçik ev
+   smell | NEW | A2 | A2-039 (STRONG) | "a strong smell" — kəskin iy, güclü qoxu
    smile | NEW | A1 | A1-015 (FRIEND) | "a friendly smile" — mehriban təbəssüm
+   smoking | NEW | A2 | A2-026 (STOP) | "stop smoking" — siqareti tərgitmək
+   snack | NEW | A2 | A2-007 (BRING) | "bring some snacks" — bir az qəlyanaltı gətirmək
    snow | NEW | A1 | A1-032 (WEATHER) | "rain and snow" — yağış və qar
+   social | NEW | A2 | A2-024 (USE) | "use social media" — sosial mediadan istifadə etmək
    soft | NEW | A1 | A1-008 (DRINK) | "a soft drink" — spirtsiz sərinləşdirici içki
    son | NEW | A1 | A1-014 (FAMILY) | "son and daughter" — oğul və qız (övlad)
    song | NEW | A1 | A1-022 (LISTEN) | "listen to a song" — mahnıya qulaq asmaq
+   soon | NEW | A2 | A2-004 (ARRIVE) | "arrive soon" — tezliklə çatmaq
+   sorry | NEW | A2 | A2-028 (FEEL) | "feel sorry" — təəssüflənmək, heyfsilənmək
+   sound | NEW | A2 | A2-038 (SAFE) | "safe and sound" — sağ-salamat
    soup | NEW | A1 | A1-039 (HOT) | "hot soup" — isti şorba
    SPEAK | MAIN | A1 | A1-020 (SPEAK) | main word — danışmaq
    speaker | FAMILY | A1 | A1-020 (SPEAK) | word family (n) — danışan (şəxs), natiq, həmçinin
         səsucaldan
+   special | NEW | A2 | A2-040 (INTEREST) | "a special interest" — xüsusi maraq
    speech | FAMILY | A1 | A1-020 (SPEAK) | word family (n) — nitq, çıxış
    spend | NEW | A1 | A1-011 (MONEY) | "spend money" — pul xərcləmək
    spoken | FAMILY | A1 | A1-020 (SPEAK) | word family (adj) — şifahi, danışıq
+   SPORT | MAIN | A2 | A2-034 (SPORT) | main word — idman; idman növü
+   sporty | FAMILY | A2 | A2-034 (SPORT) | word family (adj) — idmansevər, idmançı görkəmli
    square | NEW | A1 | A1-033 (CITY) | "parks and squares" — parklar və meydanlar
+   stadium | NEW | A2 | A2-034 (SPORT) | "a sports stadium" — idman stadionu
    start | NEW | A1 | A1-023 (WORK) | "start work" — işə başlamaq
    station | NEW | A1 | A1-033 (CITY) | "the train station" — dəmiryol vağzalı, qatar stansiyası
+        [see also: STAY A2-002]
+   STAY | MAIN | A2 | A2-002 (STAY) | main word — qalmaq; qalma (müddəti)   [see also: station
+        A1-033]
+   step | NEW | A2 | A2-037 (IMPORTANT) | "an important step" — mühüm addım
+   still | NEW | A2 | A2-031 (HOPE) | "there is still hope" — hələ ümid var
+   STOP | MAIN | A2 | A2-026 (STOP) | main word — dayanmaq, dayandırmaq; dayanacaq
    story | NEW | A1 | A1-018 (READ) | "read a story" — hekayə oxumaq
    street | NEW | A1 | A1-033 (CITY) | "city streets" — şəhər küçələri
-   student | NEW | A1 | A1-036 (NEW) | "a new student" — yeni tələbə, yeni şagird
+   strength | FAMILY | A2 | A2-039 (STRONG) | word family (n) — güc, qüvvə
+   strengthen | FAMILY | A2 | A2-039 (STRONG) | word family (v) — gücləndirmək, möhkəmləndirmək
+   STRONG | MAIN | A2 | A2-039 (STRONG) | main word — güclü, qüvvətli; möhkəm; tünd (çay, qəhvə)
+   strongly | FAMILY | A2 | A2-039 (STRONG) | word family (adv) — qətiyyətlə, güclü şəkildə
+   student | NEW | A1 | A1-036 (NEW) | "a new student" — yeni tələbə, yeni şagird   [see also: study
+        A2-021]
+   study | NEW | A2 | A2-021 (PLAN) | "a study plan" — dərs (hazırlıq) planı   [see also: student
+        A1-036]
+   subject | NEW | A2 | A2-012 (CHANGE) | "change the subject" — mövzunu dəyişmək
    summer | NEW | A1 | A1-039 (HOT) | "a hot summer" — isti yay
    sunny | NEW | A1 | A1-032 (WEATHER) | "sunny weather" — günəşli hava
+   sunshine | NEW | A2 | A2-030 (ENJOY) | "enjoy the sunshine" — günəşli havadan həzz almaq
    supermarket | NEW | A1 | A1-010 (BUY) | "buy at the supermarket" — supermarketdən almaq
    surprise | NEW | A1 | A1-035 (BIG) | "a big surprise" — böyük sürpriz
    swim | NEW | A1 | A1-017 (LEARN) | "learn to swim" — üzməyi öyrənmək
 
 — T —
+   table | NEW | A2 | A2-003 (LEAVE) | "leave the table" — süfrədən durmaq
    TAKE | MAIN | A1 | A1-004 (TAKE) | main word — götürmək, aparmaq   [see also: mistake A1-005]
+   talent | NEW | A2 | A2-009 (SHOW) | "a talent show" — istedad müsabiqəsi (şousu)
+   talking | NEW | A2 | A2-026 (STOP) | "stop talking" — danışmağı dayandırmaq, susmaq
+   tall | NEW | A2 | A2-020 (GROW) | "grow tall" — boyu uzanmaq, hündür olmaq
+   target | NEW | A2 | A2-006 (MISS) | "miss the target" — hədəfə dəyməmək, hədəfdən yayınmaq
+   task | NEW | A2 | A2-035 (EASY) | "an easy task" — asan tapşırıq, asan iş
+   taste | NEW | A2 | A2-039 (STRONG) | "a strong taste" — kəskin dad
+   tax | NEW | A2 | A2-023 (PAY) | "pay tax" — vergi ödəmək
    taxi | NEW | A1 | A1-003 (GET) | "get a taxi" — taksi tutmaq, taksiyə minmək
    tea | NEW | A1 | A1-005 (MAKE) | "make a cup of tea" — bir fincan çay dəmləmək
+   team | NEW | A2 | A2-034 (SPORT) | "a team sport" — komanda idman növü
+   TELL | MAIN | A2 | A2-010 (TELL) | main word — demək, söyləmək, danışmaq (kiməsə)
+   temperature | NEW | A2 | A2-018 (FALL) | "a fall in temperature" — temperaturun enməsi
    tennis | NEW | A1 | A1-024 (PLAY) | "play tennis" — tennis oynamaq
+   terribly | NEW | A2 | A2-032 (WORRY) | "terribly worried" — olduqca narahat, çox nigaran
+   test | NEW | A2 | A2-035 (EASY) | "an easy test" — asan test, asan yoxlama
    text | NEW | A1 | A1-018 (READ) | "read a text message" — mətn mesajı (SMS) oxumaq
    thanks | NEW | A1 | A1-026 (HELP) | "thanks for your help" — köməyinə görə sağ ol
    theatre | NEW | A1 | A1-033 (CITY) | "museums and theatres" — muzeylər və teatrlar
+   thief | NEW | A2 | A2-005 (CATCH) | "catch a thief" — oğrunu tutmaq
+   thing | NEW | A2 | A2-037 (IMPORTANT) | "the most important thing" — ən vacib şey, ən başlıcası
+   THINK | MAIN | A2 | A2-029 (THINK) | main word — düşünmək, fikirləşmək; zənn etmək
+   thinker | FAMILY | A2 | A2-029 (THINK) | word family (n) — mütəfəkkir
+   thirsty | NEW | A2 | A2-028 (FEEL) | "feel thirsty" — susamaq
+   thought | FAMILY | A2 | A2-029 (THINK) | word family (n) — fikir, düşüncə
+   thoughtful | FAMILY | A2 | A2-029 (THINK) | word family (adj) — diqqətcil, qayğıkeş, həmçinin
+        fikirli
    ticket | NEW | A1 | A1-003 (GET) | "get a ticket" — bilet almaq
+   tidy | NEW | A2 | A2-015 (KEEP) | "keep sth tidy" — nəyisə səliqəli saxlamaq
    TIME | MAIN | A1 | A1-030 (TIME) | main word — vaxt, zaman; dəfə
+   tip | NEW | A2 | A2-003 (LEAVE) | "leave a tip" — çaypulu qoymaq
    tired | NEW | A1 | A1-003 (GET) | "get tired" — yorulmaq
    toe | NEW | A1 | A1-016 (BODY) | "fingers and toes" — əl barmaqları və ayaq barmaqları
+   tomato | NEW | A2 | A2-020 (GROW) | "grow tomatoes" — pomidor becərmək
    tomorrow | NEW | A1 | A1-031 (DAY) | "the day after tomorrow" — birisi gün
+   tool | NEW | A2 | A2-024 (USE) | "use a tool" — alətdən istifadə etmək
    tooth | NEW | A1 | A1-016 (BODY) | "brush your teeth" — dişlərini fırçalamaq
-   top | NEW | A1 | A1-012 (LIVE) | "live on the top floor" — ən üst mərtəbədə yaşamaq
+   top | NEW | A1 | A1-012 (LIVE) | "live on the top floor" — ən üst mərtəbədə yaşamaq   [see also:
+        topic A2-022]
+   topic | NEW | A2 | A2-022 (CHOOSE) | "choose a topic" — mövzu seçmək   [see also: top A1-012]
+   totally | NEW | A2 | A2-036 (DIFFERENT) | "totally different" — tamamilə fərqli
+   touch | NEW | A2 | A2-002 (STAY) | "stay in touch" — əlaqə saxlamaq
+   towel | NEW | A2 | A2-007 (BRING) | "bring a towel" — dəsmal gətirmək
    town | NEW | A1 | A1-036 (NEW) | "new in town" — şəhərdə təzə, yeni gəlmiş
    toy | NEW | A1 | A1-024 (PLAY) | "play with toys" — oyuncaqlarla oynamaq
    train | NEW | A1 | A1-033 (CITY) | "the train station" — dəmiryol vağzalı, qatar stansiyası
+   transport | NEW | A2 | A2-024 (USE) | "use public transport" — ictimai nəqliyyatdan istifadə
+        etmək
+   TRAVEL | MAIN | A2 | A2-001 (TRAVEL) | main word — səyahət etmək; səyahət
+   traveller | FAMILY | A2 | A2-001 (TRAVEL) | word family (n) — səyyah, səyahətçi
    tree | NEW | A1 | A1-035 (BIG) | "a big tree" — böyük ağac
+   trip | NEW | A2 | A2-021 (PLAN) | "plan a trip" — səfər planlaşdırmaq
    trousers | NEW | A1 | A1-029 (WEAR) | "wear trousers" — şalvar geyinmək
+   truth | NEW | A2 | A2-010 (TELL) | "tell the truth" — həqiqəti demək, düzünü söyləmək
+   TRY | MAIN | A2 | A2-011 (TRY) | main word — cəhd etmək, çalışmaq; sınamaq, dadına baxmaq
+   TURN | MAIN | A2 | A2-014 (TURN) | main word — dönmək, döndərmək, çevirmək; növbə
+   turning | FAMILY | A2 | A2-014 (TURN) | word family (n) — döngə (yolun ayrıldığı yer)
    TV | NEW | A1 | A1-025 (WATCH) | "watch TV" — televizora baxmaq
+   twice | NEW | A2 | A2-029 (THINK) | "think twice" — yaxşı-yaxşı düşünmək, ölçüb-biçmək
+   type | NEW | A2 | A2-036 (DIFFERENT) | "different types" — müxtəlif növlər, tiplər
+   tyre | NEW | A2 | A2-012 (CHANGE) | "change a tyre" — təkəri dəyişmək
 
 — U —
    umbrella | NEW | A1 | A1-004 (TAKE) | "take an umbrella" — çətir götürmək
    uncle | NEW | A1 | A1-014 (FAMILY) | "aunt and uncle" — xala (bibi) və dayı (əmi)
+   understand | NEW | A2 | A2-011 (TRY) | "try to understand" — başa düşməyə çalışmaq
    unfriendly | FAMILY | A1 | A1-015 (FRIEND) | word family (adj) — qeyri-mehriban, soyuq
         münasibətli
    unhappy | FAMILY | A1 | A1-038 (HAPPY) | word family (adj) — bədbəxt, narazı
+   unhealthy | FAMILY | A2 | A2-033 (HEALTH) | word family (adj) — qeyri-sağlam, zərərli
+   unimportant | FAMILY | A2 | A2-037 (IMPORTANT) | word family (adj) — əhəmiyyətsiz
+   university | NEW | A2 | A2-022 (CHOOSE) | "choose a university" — universitet seçmək
+   unsafe | FAMILY | A2 | A2-038 (SAFE) | word family (adj) — təhlükəli, etibarsız
    upstairs | NEW | A1 | A1-013 (HOUSE) | "upstairs and downstairs" — yuxarı mərtəbədə və aşağı
         mərtəbədə
+   USE | MAIN | A2 | A2-024 (USE) | main word — istifadə etmək, işlətmək; istifadə
+   useful | FAMILY | A2 | A2-024 (USE) | word family (adj) — faydalı
+   useless | FAMILY | A2 | A2-024 (USE) | word family (adj) — faydasız, yararsız
+   user | FAMILY | A2 | A2-024 (USE) | word family (n) — istifadəçi
 
 — V —
    vegetable | NEW | A1 | A1-007 (EAT) | "eat vegetables" — tərəvəz yemək
    video | NEW | A1 | A1-025 (WATCH) | "watch a video" — videoya baxmaq
+   view | NEW | A2 | A2-030 (ENJOY) | "enjoy the view" — mənzərədən zövq almaq
    village | NEW | A1 | A1-012 (LIVE) | "live in a village" — kənddə yaşamaq
    visit | NEW | A1 | A1-015 (FRIEND) | "visit a friend" — dosta baş çəkmək, dostun yanına getmək
+   voice | NEW | A2 | A2-016 (LOSE) | "lose your voice" — səsi batmaq, səsini itirmək
+   volume | NEW | A2 | A2-014 (TURN) | "turn up the volume" — səsi artırmaq
 
 — W —
    wait | NEW | A1 | A1-021 (ASK) | "ask sb to wait" — kimdənsə gözləməyi xahiş etmək
    walk | NEW | A1 | A1-001 (GO) | "go for a walk" — gəzməyə çıxmaq
+   wallet | NEW | A2 | A2-016 (LOSE) | "lose your wallet" — pul kisəsini itirmək
    warm | NEW | A1 | A1-032 (WEATHER) | "warm weather" — isti (mülayim) hava
    wash | NEW | A1 | A1-016 (BODY) | "wash your hair" — saçını yumaq
    WATCH | MAIN | A1 | A1-025 (WATCH) | main word — baxmaq, izləmək; qol saatı
    water | NEW | A1 | A1-008 (DRINK) | "drink water" — su içmək
    way | NEW | A1 | A1-021 (ASK) | "ask the way" — yolu soruşmaq
+   weakness | NEW | A2 | A2-039 (STRONG) | "strengths and weaknesses" — güclü və zəif cəhətlər
    WEAR | MAIN | A1 | A1-029 (WEAR) | main word — geyinmək, (əynində) gəzdirmək
    WEATHER | MAIN | A1 | A1-032 (WEATHER) | main word — hava (hava şəraiti)
+   wedding | NEW | A2 | A2-021 (PLAN) | "plan a wedding" — toy planlaşdırmaq
+   week | NEW | A2 | A2-002 (STAY) | "stay for a week" — bir həftə qalmaq
    weekend | NEW | A1 | A1-023 (WORK) | "work at the weekend" — həftə sonu işləmək
+   weight | NEW | A2 | A2-016 (LOSE) | "lose weight" — arıqlamaq, çəki atmaq
    well | FAMILY | A1 | A1-034 (GOOD) | word family (adv) — yaxşı (zərf)
    wet | NEW | A1 | A1-032 (WEATHER) | "wet weather" — yağışlı, rütubətli hava
    white | NEW | A1 | A1-040 (COLOUR) | "black and white" — qara və ağ; ağ-qara
    whole | NEW | A1 | A1-014 (FAMILY) | "the whole family" — bütün ailə
    wide | NEW | A1 | A1-028 (OPEN) | "wide open" — taybatay açıq, geniş açılmış
    wife | NEW | A1 | A1-014 (FAMILY) | "husband and wife" — ər və arvad
+   WIN | MAIN | A2 | A2-027 (WIN) | main word — qalib gəlmək, udmaq, qazanmaq; qələbə
    wind | NEW | A1 | A1-032 (WEATHER) | "wind and clouds" — külək və buludlar
    window | NEW | A1 | A1-027 (LOOK) | "look out of the window" — pəncərədən bayıra baxmaq
+   winner | FAMILY | A2 | A2-027 (WIN) | word family (n) — qalib
+   winter | NEW | A2 | A2-034 (SPORT) | "winter sports" — qış idman növləri
    woman | NEW | A1 | A1-037 (OLD) | "an old woman" — qoca qadın, yaşlı qadın
    word | NEW | A1 | A1-017 (LEARN) | "learn words" — sözləri öyrənmək
    WORK | MAIN | A1 | A1-023 (WORK) | main word — işləmək; iş
    worker | FAMILY | A1 | A1-023 (WORK) | word family (n) — işçi, fəhlə
+   world | NEW | A2 | A2-001 (TRAVEL) | "travel around the world" — dünyanı gəzmək, dünya səyahətinə
+        çıxmaq
+   worried | FAMILY | A2 | A2-032 (WORRY) | word family (adj) — narahat, nigaran
+   WORRY | MAIN | A2 | A2-032 (WORRY) | main word — narahat olmaq, nigaran qalmaq; narahatlıq, qayğı
+   worrying | FAMILY | A2 | A2-032 (WORRY) | word family (adj) — narahatedici
    WRITE | MAIN | A1 | A1-019 (WRITE) | main word — yazmaq
    writer | FAMILY | A1 | A1-019 (WRITE) | word family (n) — yazıçı
    writing | FAMILY | A1 | A1-019 (WRITE) | word family (n) — yazı, yazı bacarığı
@@ -515,6 +898,6 @@ PART C — ALL VOCABULARY ITEMS A–Z (397)
 
 PART D — CHECK
 ----------------------------------------------------------------------------------------------------
-   Total individual vocabulary items: 416   |   Repeated items: 0   |   Duplicate check: PASSED
+   Total individual vocabulary items: 775   |   Repeated items: 0   |   Duplicate check: PASSED
 
 END OF GLOBAL LEARNED WORDS

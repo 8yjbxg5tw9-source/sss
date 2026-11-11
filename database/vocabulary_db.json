@@ -4812,6 +4812,3955 @@
    "expr": "pink and purple",
    "expr_az": "çəhrayı və bənövşəyi",
    "seq": 415
+  },
+  {
+   "lemma": "TRAVEL",
+   "token": "TRAVEL",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "cat": "verb, noun",
+   "az": "səyahət etmək; səyahət",
+   "seq": 416
+  },
+  {
+   "lemma": "traveller",
+   "token": "traveller",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "cat": "n",
+   "az": "səyyah, səyahətçi",
+   "seq": 417
+  },
+  {
+   "lemma": "abroad",
+   "token": "abroad",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "travel abroad",
+   "expr_az": "xaricə səyahət etmək",
+   "seq": 418
+  },
+  {
+   "lemma": "plane",
+   "token": "plane",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "travel by plane",
+   "expr_az": "təyyarə ilə səyahət etmək",
+   "seq": 419
+  },
+  {
+   "lemma": "world",
+   "token": "world",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "travel around the world",
+   "expr_az": "dünyanı gəzmək, dünya səyahətinə çıxmaq",
+   "seq": 420
+  },
+  {
+   "lemma": "light",
+   "token": "light",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "travel light",
+   "expr_az": "az yüklə səyahət etmək",
+   "seq": 421
+  },
+  {
+   "lemma": "agent",
+   "token": "agent",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "a travel agent",
+   "expr_az": "səyahət agenti (turizm şirkətinin əməkdaşı)",
+   "seq": 422
+  },
+  {
+   "lemma": "Europe",
+   "token": "Europe",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "travel across Europe",
+   "expr_az": "Avropanı başdan-başa gəzmək",
+   "seq": 423
+  },
+  {
+   "lemma": "business",
+   "token": "business",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "travel on business",
+   "expr_az": "işgüzar səfərə getmək",
+   "seq": 424
+  },
+  {
+   "lemma": "guide",
+   "token": "guide",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-001",
+   "head": "TRAVEL",
+   "expr": "a travel guide",
+   "expr_az": "səyahət bələdçisi (kitab və ya şəxs)",
+   "seq": 425
+  },
+  {
+   "lemma": "STAY",
+   "token": "STAY",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "cat": "verb, noun",
+   "az": "qalmaq; qalma (müddəti)",
+   "seq": 426
+  },
+  {
+   "lemma": "awake",
+   "token": "awake",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "stay awake",
+   "expr_az": "oyaq qalmaq",
+   "seq": 427
+  },
+  {
+   "lemma": "calm",
+   "token": "calm",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "stay calm",
+   "expr_az": "sakit qalmaq, təmkinini qorumaq",
+   "seq": 428
+  },
+  {
+   "lemma": "overnight",
+   "token": "overnight",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "stay overnight",
+   "expr_az": "gecələmək, gecəni qalmaq",
+   "seq": 429
+  },
+  {
+   "lemma": "touch",
+   "token": "touch",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "stay in touch",
+   "expr_az": "əlaqə saxlamaq",
+   "seq": 430
+  },
+  {
+   "lemma": "week",
+   "token": "week",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "stay for a week",
+   "expr_az": "bir həftə qalmaq",
+   "seq": 431
+  },
+  {
+   "lemma": "indoors",
+   "token": "indoors",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "stay indoors",
+   "expr_az": "bayıra çıxmamaq, içəridə qalmaq",
+   "seq": 432
+  },
+  {
+   "lemma": "relative",
+   "token": "relatives",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "stay with relatives",
+   "expr_az": "qohumlarının yanında qalmaq",
+   "seq": 433
+  },
+  {
+   "lemma": "short",
+   "token": "short",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-002",
+   "head": "STAY",
+   "expr": "a short stay",
+   "expr_az": "qısamüddətli qalma, qısa səfər",
+   "seq": 434
+  },
+  {
+   "lemma": "LEAVE",
+   "token": "LEAVE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "cat": "verb",
+   "az": "getmək, tərk etmək; qoyub getmək, saxlamaq",
+   "seq": 435
+  },
+  {
+   "lemma": "tip",
+   "token": "tip",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "expr": "leave a tip",
+   "expr_az": "çaypulu qoymaq",
+   "seq": 436
+  },
+  {
+   "lemma": "airport",
+   "token": "airport",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "expr": "leave for the airport",
+   "expr_az": "hava limanına yola düşmək",
+   "seq": 437
+  },
+  {
+   "lemma": "peace",
+   "token": "peace",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "expr": "leave sb in peace",
+   "expr_az": "kimisə rahat buraxmaq",
+   "seq": 438
+  },
+  {
+   "lemma": "hurry",
+   "token": "hurry",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "expr": "leave in a hurry",
+   "expr_az": "tələsik çıxıb getmək",
+   "seq": 439
+  },
+  {
+   "lemma": "luggage",
+   "token": "luggage",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "expr": "leave your luggage",
+   "expr_az": "baqajını qoyub getmək, saxlamağa vermək",
+   "seq": 440
+  },
+  {
+   "lemma": "comment",
+   "token": "comment",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "expr": "leave a comment",
+   "expr_az": "şərh yazmaq, rəy bildirmək",
+   "seq": 441
+  },
+  {
+   "lemma": "table",
+   "token": "table",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-003",
+   "head": "LEAVE",
+   "expr": "leave the table",
+   "expr_az": "süfrədən durmaq",
+   "seq": 442
+  },
+  {
+   "lemma": "ARRIVE",
+   "token": "ARRIVE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "cat": "verb",
+   "az": "gəlib çatmaq",
+   "seq": 443
+  },
+  {
+   "lemma": "arrival",
+   "token": "arrival",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "cat": "n",
+   "az": "gəliş, çatma",
+   "seq": 444
+  },
+  {
+   "lemma": "Paris",
+   "token": "Paris",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "arrive in Paris",
+   "expr_az": "Parisə çatmaq",
+   "seq": 445
+  },
+  {
+   "lemma": "midnight",
+   "token": "midnight",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "arrive at midnight",
+   "expr_az": "gecə yarısı çatmaq",
+   "seq": 446
+  },
+  {
+   "lemma": "soon",
+   "token": "soon",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "arrive soon",
+   "expr_az": "tezliklə çatmaq",
+   "seq": 447
+  },
+  {
+   "lemma": "hospital",
+   "token": "hospital",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "arrive at the hospital",
+   "expr_az": "xəstəxanaya çatmaq",
+   "seq": 448
+  },
+  {
+   "lemma": "coach",
+   "token": "coach",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "arrive by coach",
+   "expr_az": "şəhərlərarası avtobusla gəlmək",
+   "seq": 449
+  },
+  {
+   "lemma": "departure",
+   "token": "departures",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "arrivals and departures",
+   "expr_az": "gələn və yola düşən reyslər",
+   "seq": 450
+  },
+  {
+   "lemma": "minute",
+   "token": "minutes",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "arrive within minutes",
+   "expr_az": "bir neçə dəqiqə ərzində çatmaq",
+   "seq": 451
+  },
+  {
+   "lemma": "hall",
+   "token": "hall",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-004",
+   "head": "ARRIVE",
+   "expr": "the arrivals hall",
+   "expr_az": "gələn sərnişinlər zalı",
+   "seq": 452
+  },
+  {
+   "lemma": "CATCH",
+   "token": "CATCH",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-005",
+   "head": "CATCH",
+   "cat": "verb",
+   "az": "tutmaq; yaxalamaq; (nəqliyyata) çatmaq; (xəstəliyə) yoluxmaq",
+   "seq": 453
+  },
+  {
+   "lemma": "ball",
+   "token": "ball",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-005",
+   "head": "CATCH",
+   "expr": "catch a ball",
+   "expr_az": "topu tutmaq",
+   "seq": 454
+  },
+  {
+   "lemma": "thief",
+   "token": "thief",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-005",
+   "head": "CATCH",
+   "expr": "catch a thief",
+   "expr_az": "oğrunu tutmaq",
+   "seq": 455
+  },
+  {
+   "lemma": "fire",
+   "token": "fire",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-005",
+   "head": "CATCH",
+   "expr": "catch fire",
+   "expr_az": "alışmaq, od tutmaq",
+   "seq": 456
+  },
+  {
+   "lemma": "flight",
+   "token": "flight",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-005",
+   "head": "CATCH",
+   "expr": "catch a flight",
+   "expr_az": "təyyarəyə (reysə) çatmaq",
+   "seq": 457
+  },
+  {
+   "lemma": "flu",
+   "token": "flu",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-005",
+   "head": "CATCH",
+   "expr": "catch the flu",
+   "expr_az": "qripə yoluxmaq",
+   "seq": 458
+  },
+  {
+   "lemma": "mouse",
+   "token": "mouse",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-005",
+   "head": "CATCH",
+   "expr": "catch a mouse",
+   "expr_az": "siçan tutmaq",
+   "seq": 459
+  },
+  {
+   "lemma": "MISS",
+   "token": "MISS",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "cat": "verb",
+   "az": "qaçırmaq, (nəqliyyata) gecikmək; darıxmaq",
+   "seq": 460
+  },
+  {
+   "lemma": "missing",
+   "token": "missing",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "cat": "adj",
+   "az": "itkin, çatışmayan",
+   "seq": 461
+  },
+  {
+   "lemma": "chance",
+   "token": "chance",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "miss a chance",
+   "expr_az": "fürsəti əldən vermək, şansı qaçırmaq",
+   "seq": 462
+  },
+  {
+   "lemma": "class",
+   "token": "class",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "miss a class",
+   "expr_az": "dərsi buraxmaq, dərsə gəlməmək",
+   "seq": 463
+  },
+  {
+   "lemma": "deadline",
+   "token": "deadline",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "miss a deadline",
+   "expr_az": "son müddəti ötürmək, işi vaxtında təhvil verməmək",
+   "seq": 464
+  },
+  {
+   "lemma": "appointment",
+   "token": "appointment",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "miss an appointment",
+   "expr_az": "görüşə (qəbula) gəlməmək",
+   "seq": 465
+  },
+  {
+   "lemma": "target",
+   "token": "target",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "miss the target",
+   "expr_az": "hədəfə dəyməmək, hədəfdən yayınmaq",
+   "seq": 466
+  },
+  {
+   "lemma": "beginning",
+   "token": "beginning",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "miss the beginning",
+   "expr_az": "əvvəlini (başlanğıcını) qaçırmaq",
+   "seq": 467
+  },
+  {
+   "lemma": "person",
+   "token": "person",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "a missing person",
+   "expr_az": "itkin düşmüş şəxs",
+   "seq": 468
+  },
+  {
+   "lemma": "ferry",
+   "token": "ferry",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-006",
+   "head": "MISS",
+   "expr": "miss the ferry",
+   "expr_az": "bərəyə gecikmək",
+   "seq": 469
+  },
+  {
+   "lemma": "BRING",
+   "token": "BRING",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-007",
+   "head": "BRING",
+   "cat": "verb",
+   "az": "gətirmək",
+   "seq": 470
+  },
+  {
+   "lemma": "gift",
+   "token": "gift",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-007",
+   "head": "BRING",
+   "expr": "bring a gift",
+   "expr_az": "hədiyyə gətirmək",
+   "seq": 471
+  },
+  {
+   "lemma": "snack",
+   "token": "snacks",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-007",
+   "head": "BRING",
+   "expr": "bring some snacks",
+   "expr_az": "bir az qəlyanaltı gətirmək",
+   "seq": 472
+  },
+  {
+   "lemma": "passport",
+   "token": "passport",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-007",
+   "head": "BRING",
+   "expr": "bring your passport",
+   "expr_az": "pasportunu gətirmək",
+   "seq": 473
+  },
+  {
+   "lemma": "towel",
+   "token": "towel",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-007",
+   "head": "BRING",
+   "expr": "bring a towel",
+   "expr_az": "dəsmal gətirmək",
+   "seq": 474
+  },
+  {
+   "lemma": "camera",
+   "token": "camera",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-007",
+   "head": "BRING",
+   "expr": "bring a camera",
+   "expr_az": "fotoaparat gətirmək",
+   "seq": 475
+  },
+  {
+   "lemma": "laptop",
+   "token": "laptop",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-007",
+   "head": "BRING",
+   "expr": "bring your laptop",
+   "expr_az": "noutbukunu gətirmək",
+   "seq": 476
+  },
+  {
+   "lemma": "SEND",
+   "token": "SEND",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "cat": "verb",
+   "az": "göndərmək",
+   "seq": 477
+  },
+  {
+   "lemma": "sender",
+   "token": "sender",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "cat": "n",
+   "az": "göndərən (şəxs)",
+   "seq": 478
+  },
+  {
+   "lemma": "parcel",
+   "token": "parcel",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send a parcel",
+   "expr_az": "bağlama göndərmək",
+   "seq": 479
+  },
+  {
+   "lemma": "link",
+   "token": "link",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send a link",
+   "expr_az": "keçid (link) göndərmək",
+   "seq": 480
+  },
+  {
+   "lemma": "file",
+   "token": "file",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send a file",
+   "expr_az": "fayl göndərmək",
+   "seq": 481
+  },
+  {
+   "lemma": "post",
+   "token": "post",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send by post",
+   "expr_az": "poçtla göndərmək",
+   "seq": 482
+  },
+  {
+   "lemma": "reply",
+   "token": "reply",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send a reply",
+   "expr_az": "cavab göndərmək",
+   "seq": 483
+  },
+  {
+   "lemma": "document",
+   "token": "document",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send a document",
+   "expr_az": "sənəd göndərmək",
+   "seq": 484
+  },
+  {
+   "lemma": "package",
+   "token": "package",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send a package",
+   "expr_az": "paket, bağlama göndərmək",
+   "seq": 485
+  },
+  {
+   "lemma": "reminder",
+   "token": "reminder",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-008",
+   "head": "SEND",
+   "expr": "send a reminder",
+   "expr_az": "xatırlatma göndərmək",
+   "seq": 486
+  },
+  {
+   "lemma": "SHOW",
+   "token": "SHOW",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-009",
+   "head": "SHOW",
+   "cat": "verb, noun",
+   "az": "göstərmək; şou, tamaşa, veriliş",
+   "seq": 487
+  },
+  {
+   "lemma": "talent",
+   "token": "talent",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-009",
+   "head": "SHOW",
+   "expr": "a talent show",
+   "expr_az": "istedad müsabiqəsi (şousu)",
+   "seq": 488
+  },
+  {
+   "lemma": "fashion",
+   "token": "fashion",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-009",
+   "head": "SHOW",
+   "expr": "a fashion show",
+   "expr_az": "moda nümayişi",
+   "seq": 489
+  },
+  {
+   "lemma": "quiz",
+   "token": "quiz",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-009",
+   "head": "SHOW",
+   "expr": "a quiz show",
+   "expr_az": "viktorina, bilik yarışması verilişi",
+   "seq": 490
+  },
+  {
+   "lemma": "respect",
+   "token": "respect",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-009",
+   "head": "SHOW",
+   "expr": "show respect",
+   "expr_az": "hörmət göstərmək",
+   "seq": 491
+  },
+  {
+   "lemma": "TELL",
+   "token": "TELL",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "cat": "verb",
+   "az": "demək, söyləmək, danışmaq (kiməsə)",
+   "seq": 492
+  },
+  {
+   "lemma": "truth",
+   "token": "truth",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "expr": "tell the truth",
+   "expr_az": "həqiqəti demək, düzünü söyləmək",
+   "seq": 493
+  },
+  {
+   "lemma": "lie",
+   "token": "lie",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "expr": "tell a lie",
+   "expr_az": "yalan danışmaq",
+   "seq": 494
+  },
+  {
+   "lemma": "joke",
+   "token": "joke",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "expr": "tell a joke",
+   "expr_az": "lətifə danışmaq",
+   "seq": 495
+  },
+  {
+   "lemma": "secret",
+   "token": "secret",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "expr": "tell sb a secret",
+   "expr_az": "kiməsə sirr açmaq",
+   "seq": 496
+  },
+  {
+   "lemma": "reason",
+   "token": "reason",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "expr": "tell sb the reason",
+   "expr_az": "kiməsə səbəbi demək",
+   "seq": 497
+  },
+  {
+   "lemma": "police",
+   "token": "police",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "expr": "tell the police",
+   "expr_az": "polisə xəbər vermək",
+   "seq": 498
+  },
+  {
+   "lemma": "detail",
+   "token": "details",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-010",
+   "head": "TELL",
+   "expr": "tell sb the details",
+   "expr_az": "kiməsə təfərrüatları danışmaq",
+   "seq": 499
+  },
+  {
+   "lemma": "TRY",
+   "token": "TRY",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-011",
+   "head": "TRY",
+   "cat": "verb, noun",
+   "az": "cəhd etmək, çalışmaq; sınamaq, dadına baxmaq",
+   "seq": 500
+  },
+  {
+   "lemma": "recipe",
+   "token": "recipe",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-011",
+   "head": "TRY",
+   "expr": "try a recipe",
+   "expr_az": "resepti sınamaq (yeni yemək bişirmək)",
+   "seq": 501
+  },
+  {
+   "lemma": "local",
+   "token": "local",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-011",
+   "head": "TRY",
+   "expr": "try the local food",
+   "expr_az": "yerli yeməklərin dadına baxmaq",
+   "seq": 502
+  },
+  {
+   "lemma": "food",
+   "token": "food",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-011",
+   "head": "TRY",
+   "expr": "try the local food",
+   "expr_az": "yerli yeməklərin dadına baxmaq",
+   "seq": 503
+  },
+  {
+   "lemma": "remember",
+   "token": "remember",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-011",
+   "head": "TRY",
+   "expr": "try to remember",
+   "expr_az": "xatırlamağa çalışmaq",
+   "seq": 504
+  },
+  {
+   "lemma": "relax",
+   "token": "relax",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-011",
+   "head": "TRY",
+   "expr": "try to relax",
+   "expr_az": "dincəlməyə, rahatlanmağa çalışmaq",
+   "seq": 505
+  },
+  {
+   "lemma": "understand",
+   "token": "understand",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-011",
+   "head": "TRY",
+   "expr": "try to understand",
+   "expr_az": "başa düşməyə çalışmaq",
+   "seq": 506
+  },
+  {
+   "lemma": "CHANGE",
+   "token": "CHANGE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "cat": "verb, noun",
+   "az": "dəyişmək, dəyişdirmək; dəyişiklik; xırda pul, pulun qalığı",
+   "seq": 507
+  },
+  {
+   "lemma": "subject",
+   "token": "subject",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "expr": "change the subject",
+   "expr_az": "mövzunu dəyişmək",
+   "seq": 508
+  },
+  {
+   "lemma": "place",
+   "token": "places",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "expr": "change places",
+   "expr_az": "yerləri dəyişmək",
+   "seq": 509
+  },
+  {
+   "lemma": "channel",
+   "token": "channel",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "expr": "change the channel",
+   "expr_az": "(televizorda) kanalı dəyişmək",
+   "seq": 510
+  },
+  {
+   "lemma": "password",
+   "token": "password",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "expr": "change your password",
+   "expr_az": "parolunu dəyişmək",
+   "seq": 511
+  },
+  {
+   "lemma": "date",
+   "token": "date",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "expr": "change the date",
+   "expr_az": "tarixi dəyişmək",
+   "seq": 512
+  },
+  {
+   "lemma": "completely",
+   "token": "completely",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "expr": "change completely",
+   "expr_az": "tamamilə dəyişmək",
+   "seq": 513
+  },
+  {
+   "lemma": "tyre",
+   "token": "tyre",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-012",
+   "head": "CHANGE",
+   "expr": "change a tyre",
+   "expr_az": "təkəri dəyişmək",
+   "seq": 514
+  },
+  {
+   "lemma": "MOVE",
+   "token": "MOVE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-013",
+   "head": "MOVE",
+   "cat": "verb, noun",
+   "az": "hərəkət etmək, tərpənmək; yerini dəyişmək; köçmək",
+   "seq": 515
+  },
+  {
+   "lemma": "movement",
+   "token": "movement",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-013",
+   "head": "MOVE",
+   "cat": "n",
+   "az": "hərəkət, həmçinin (ictimai) hərəkat",
+   "seq": 516
+  },
+  {
+   "lemma": "moving",
+   "token": "moving",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-013",
+   "head": "MOVE",
+   "cat": "adj",
+   "az": "təsirli, kövrəldən",
+   "seq": 517
+  },
+  {
+   "lemma": "furniture",
+   "token": "furniture",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-013",
+   "head": "MOVE",
+   "expr": "move furniture",
+   "expr_az": "mebelin yerini dəyişmək, mebel daşımaq",
+   "seq": 518
+  },
+  {
+   "lemma": "chair",
+   "token": "chair",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-013",
+   "head": "MOVE",
+   "expr": "move your chair",
+   "expr_az": "stulunu çəkmək, yerini dəyişmək",
+   "seq": 519
+  },
+  {
+   "lemma": "countryside",
+   "token": "countryside",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-013",
+   "head": "MOVE",
+   "expr": "move to the countryside",
+   "expr_az": "kəndə (şəhərdən kənara) köçmək",
+   "seq": 520
+  },
+  {
+   "lemma": "TURN",
+   "token": "TURN",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-014",
+   "head": "TURN",
+   "cat": "verb, noun",
+   "az": "dönmək, döndərmək, çevirmək; növbə",
+   "seq": 521
+  },
+  {
+   "lemma": "turning",
+   "token": "turning",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-014",
+   "head": "TURN",
+   "cat": "n",
+   "az": "döngə (yolun ayrıldığı yer)",
+   "seq": 522
+  },
+  {
+   "lemma": "left",
+   "token": "left",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-014",
+   "head": "TURN",
+   "expr": "turn left",
+   "expr_az": "sola dönmək",
+   "seq": 523
+  },
+  {
+   "lemma": "right",
+   "token": "right",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-014",
+   "head": "TURN",
+   "expr": "turn right",
+   "expr_az": "sağa dönmək",
+   "seq": 524
+  },
+  {
+   "lemma": "page",
+   "token": "page",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-014",
+   "head": "TURN",
+   "expr": "turn the page",
+   "expr_az": "səhifəni çevirmək",
+   "seq": 525
+  },
+  {
+   "lemma": "corner",
+   "token": "corner",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-014",
+   "head": "TURN",
+   "expr": "turn a corner",
+   "expr_az": "tini dönmək",
+   "seq": 526
+  },
+  {
+   "lemma": "volume",
+   "token": "volume",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-014",
+   "head": "TURN",
+   "expr": "turn up the volume",
+   "expr_az": "səsi artırmaq",
+   "seq": 527
+  },
+  {
+   "lemma": "KEEP",
+   "token": "KEEP",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "cat": "verb",
+   "az": "saxlamaq; (bir vəziyyətdə) qalmaq; davam etmək",
+   "seq": 528
+  },
+  {
+   "lemma": "keeper",
+   "token": "keeper",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "cat": "n",
+   "az": "gözətçi, mühafizəçi",
+   "seq": 529
+  },
+  {
+   "lemma": "promise",
+   "token": "promise",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "expr": "keep a promise",
+   "expr_az": "sözünə əməl etmək, vədini yerinə yetirmək",
+   "seq": 530
+  },
+  {
+   "lemma": "fit",
+   "token": "fit",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "expr": "keep fit",
+   "expr_az": "formada qalmaq",
+   "seq": 531
+  },
+  {
+   "lemma": "diary",
+   "token": "diary",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "expr": "keep a diary",
+   "expr_az": "gündəlik yazmaq",
+   "seq": 532
+  },
+  {
+   "lemma": "tidy",
+   "token": "tidy",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "expr": "keep sth tidy",
+   "expr_az": "nəyisə səliqəli saxlamaq",
+   "seq": 533
+  },
+  {
+   "lemma": "pet",
+   "token": "pets",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "expr": "keep pets",
+   "expr_az": "ev heyvanı saxlamaq",
+   "seq": 534
+  },
+  {
+   "lemma": "grass",
+   "token": "grass",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "expr": "keep off the grass",
+   "expr_az": "otun üstünə çıxmayın, çəmənliyi tapdalamayın",
+   "seq": 535
+  },
+  {
+   "lemma": "fresh",
+   "token": "fresh",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-015",
+   "head": "KEEP",
+   "expr": "keep sth fresh",
+   "expr_az": "nəyisə təzə saxlamaq",
+   "seq": 536
+  },
+  {
+   "lemma": "LOSE",
+   "token": "LOSE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "cat": "verb",
+   "az": "itirmək; uduzmaq",
+   "seq": 537
+  },
+  {
+   "lemma": "loss",
+   "token": "loss",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "cat": "n",
+   "az": "itki",
+   "seq": 538
+  },
+  {
+   "lemma": "loser",
+   "token": "loser",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "cat": "n",
+   "az": "uduzan (şəxs)",
+   "seq": 539
+  },
+  {
+   "lemma": "lost",
+   "token": "lost",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "cat": "adj",
+   "az": "itmiş, azmış",
+   "seq": 540
+  },
+  {
+   "lemma": "weight",
+   "token": "weight",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "lose weight",
+   "expr_az": "arıqlamaq, çəki atmaq",
+   "seq": 541
+  },
+  {
+   "lemma": "wallet",
+   "token": "wallet",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "lose your wallet",
+   "expr_az": "pul kisəsini itirmək",
+   "seq": 542
+  },
+  {
+   "lemma": "control",
+   "token": "control",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "lose control",
+   "expr_az": "nəzarəti itirmək",
+   "seq": 543
+  },
+  {
+   "lemma": "memory",
+   "token": "memory",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "lose your memory",
+   "expr_az": "yaddaşını itirmək",
+   "seq": 544
+  },
+  {
+   "lemma": "voice",
+   "token": "voice",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "lose your voice",
+   "expr_az": "səsi batmaq, səsini itirmək",
+   "seq": 545
+  },
+  {
+   "lemma": "property",
+   "token": "property",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "lost property",
+   "expr_az": "itirilmiş əşyalar (bürosu)",
+   "seq": 546
+  },
+  {
+   "lemma": "balance",
+   "token": "balance",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "lose your balance",
+   "expr_az": "müvazinətini itirmək",
+   "seq": 547
+  },
+  {
+   "lemma": "heavy",
+   "token": "heavy",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-016",
+   "head": "LOSE",
+   "expr": "a heavy loss",
+   "expr_az": "ağır itki",
+   "seq": 548
+  },
+  {
+   "lemma": "FIND",
+   "token": "FIND",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "cat": "verb",
+   "az": "tapmaq; hesab etmək, saymaq",
+   "seq": 549
+  },
+  {
+   "lemma": "finding",
+   "token": "finding",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "cat": "n",
+   "az": "(tədqiqatın) nəticəsi, tapıntı",
+   "seq": 550
+  },
+  {
+   "lemma": "difficult",
+   "token": "difficult",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "expr": "find sth difficult",
+   "expr_az": "nəyisə çətin hesab etmək",
+   "seq": 551
+  },
+  {
+   "lemma": "funny",
+   "token": "funny",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "expr": "find sth funny",
+   "expr_az": "nəyisə gülməli hesab etmək",
+   "seq": 552
+  },
+  {
+   "lemma": "boring",
+   "token": "boring",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "expr": "find sth boring",
+   "expr_az": "nəyisə darıxdırıcı hesab etmək",
+   "seq": 553
+  },
+  {
+   "lemma": "partner",
+   "token": "partner",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "expr": "find a partner",
+   "expr_az": "tərəfdaş tapmaq, cütünü tapmaq",
+   "seq": 554
+  },
+  {
+   "lemma": "exit",
+   "token": "exit",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "expr": "find the exit",
+   "expr_az": "çıxışı tapmaq",
+   "seq": 555
+  },
+  {
+   "lemma": "entrance",
+   "token": "entrance",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "expr": "find the entrance",
+   "expr_az": "girişi tapmaq",
+   "seq": 556
+  },
+  {
+   "lemma": "accommodation",
+   "token": "accommodation",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-017",
+   "head": "FIND",
+   "expr": "find accommodation",
+   "expr_az": "qalmağa yer (mənzil) tapmaq",
+   "seq": 557
+  },
+  {
+   "lemma": "FALL",
+   "token": "FALL",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-018",
+   "head": "FALL",
+   "cat": "verb, noun",
+   "az": "yıxılmaq, düşmək; enmə, azalma",
+   "seq": 558
+  },
+  {
+   "lemma": "asleep",
+   "token": "asleep",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-018",
+   "head": "FALL",
+   "expr": "fall asleep",
+   "expr_az": "yuxuya getmək",
+   "seq": 559
+  },
+  {
+   "lemma": "love",
+   "token": "love",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-018",
+   "head": "FALL",
+   "expr": "fall in love",
+   "expr_az": "aşiq olmaq, vurulmaq",
+   "seq": 560
+  },
+  {
+   "lemma": "bike",
+   "token": "bike",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-018",
+   "head": "FALL",
+   "expr": "fall off a bike",
+   "expr_az": "velosipeddən yıxılmaq",
+   "seq": 561
+  },
+  {
+   "lemma": "ill",
+   "token": "ill",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-018",
+   "head": "FALL",
+   "expr": "fall ill",
+   "expr_az": "xəstələnmək",
+   "seq": 562
+  },
+  {
+   "lemma": "ground",
+   "token": "ground",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-018",
+   "head": "FALL",
+   "expr": "fall to the ground",
+   "expr_az": "yerə düşmək",
+   "seq": 563
+  },
+  {
+   "lemma": "temperature",
+   "token": "temperature",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-018",
+   "head": "FALL",
+   "expr": "a fall in temperature",
+   "expr_az": "temperaturun enməsi",
+   "seq": 564
+  },
+  {
+   "lemma": "BREAK",
+   "token": "BREAK",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-019",
+   "head": "BREAK",
+   "cat": "verb, noun",
+   "az": "sındırmaq, sınmaq; pozmaq; fasilə",
+   "seq": 565
+  },
+  {
+   "lemma": "broken",
+   "token": "broken",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-019",
+   "head": "BREAK",
+   "cat": "adj",
+   "az": "sınıq, xarab",
+   "seq": 566
+  },
+  {
+   "lemma": "law",
+   "token": "law",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-019",
+   "head": "BREAK",
+   "expr": "break the law",
+   "expr_az": "qanunu pozmaq",
+   "seq": 567
+  },
+  {
+   "lemma": "rule",
+   "token": "rule",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-019",
+   "head": "BREAK",
+   "expr": "break a rule",
+   "expr_az": "qaydanı pozmaq",
+   "seq": 568
+  },
+  {
+   "lemma": "record",
+   "token": "record",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-019",
+   "head": "BREAK",
+   "expr": "break a record",
+   "expr_az": "rekord qırmaq",
+   "seq": 569
+  },
+  {
+   "lemma": "bone",
+   "token": "bone",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-019",
+   "head": "BREAK",
+   "expr": "break a bone",
+   "expr_az": "sümüyünü sındırmaq",
+   "seq": 570
+  },
+  {
+   "lemma": "ice",
+   "token": "ice",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-019",
+   "head": "BREAK",
+   "expr": "break the ice",
+   "expr_az": "ilk addımı atıb soyuqluğu aradan qaldırmaq",
+   "seq": 571
+  },
+  {
+   "lemma": "GROW",
+   "token": "GROW",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "cat": "verb",
+   "az": "böyümək, bitmək; becərmək, yetişdirmək; artmaq",
+   "seq": 572
+  },
+  {
+   "lemma": "growth",
+   "token": "growth",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "cat": "n",
+   "az": "artım, böyümə",
+   "seq": 573
+  },
+  {
+   "lemma": "grown-up",
+   "token": "grown-up",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "cat": "n",
+   "az": "böyük (yetkin adam)",
+   "seq": 574
+  },
+  {
+   "lemma": "plant",
+   "token": "plants",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "expr": "grow plants",
+   "expr_az": "bitki yetişdirmək",
+   "seq": 575
+  },
+  {
+   "lemma": "tall",
+   "token": "tall",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "expr": "grow tall",
+   "expr_az": "boyu uzanmaq, hündür olmaq",
+   "seq": 576
+  },
+  {
+   "lemma": "fast",
+   "token": "fast",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "expr": "grow fast",
+   "expr_az": "sürətlə böyümək, sürətlə artmaq",
+   "seq": 577
+  },
+  {
+   "lemma": "beard",
+   "token": "beard",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "expr": "grow a beard",
+   "expr_az": "saqqal saxlamaq",
+   "seq": 578
+  },
+  {
+   "lemma": "tomato",
+   "token": "tomatoes",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "expr": "grow tomatoes",
+   "expr_az": "pomidor becərmək",
+   "seq": 579
+  },
+  {
+   "lemma": "potato",
+   "token": "potatoes",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "expr": "grow potatoes",
+   "expr_az": "kartof becərmək",
+   "seq": 580
+  },
+  {
+   "lemma": "size",
+   "token": "size",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-020",
+   "head": "GROW",
+   "expr": "grow in size",
+   "expr_az": "ölçücə böyümək",
+   "seq": 581
+  },
+  {
+   "lemma": "PLAN",
+   "token": "PLAN",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "cat": "noun, verb",
+   "az": "plan; planlaşdırmaq",
+   "seq": 582
+  },
+  {
+   "lemma": "planning",
+   "token": "planning",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "cat": "n",
+   "az": "planlaşdırma",
+   "seq": 583
+  },
+  {
+   "lemma": "planner",
+   "token": "planner",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "cat": "n",
+   "az": "planlaşdırıcı, plan dəftəri",
+   "seq": 584
+  },
+  {
+   "lemma": "trip",
+   "token": "trip",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "expr": "plan a trip",
+   "expr_az": "səfər planlaşdırmaq",
+   "seq": 585
+  },
+  {
+   "lemma": "wedding",
+   "token": "wedding",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "expr": "plan a wedding",
+   "expr_az": "toy planlaşdırmaq",
+   "seq": 586
+  },
+  {
+   "lemma": "journey",
+   "token": "journey",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "expr": "plan a journey",
+   "expr_az": "səyahəti (yolu) planlaşdırmaq",
+   "seq": 587
+  },
+  {
+   "lemma": "future",
+   "token": "future",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "expr": "plan your future",
+   "expr_az": "gələcəyini planlaşdırmaq",
+   "seq": 588
+  },
+  {
+   "lemma": "event",
+   "token": "event",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "expr": "plan an event",
+   "expr_az": "tədbir planlaşdırmaq",
+   "seq": 589
+  },
+  {
+   "lemma": "picnic",
+   "token": "picnic",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "expr": "plan a picnic",
+   "expr_az": "piknik planlaşdırmaq",
+   "seq": 590
+  },
+  {
+   "lemma": "study",
+   "token": "study",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-021",
+   "head": "PLAN",
+   "expr": "a study plan",
+   "expr_az": "dərs (hazırlıq) planı",
+   "seq": 591
+  },
+  {
+   "lemma": "CHOOSE",
+   "token": "CHOOSE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "cat": "verb",
+   "az": "seçmək",
+   "seq": 592
+  },
+  {
+   "lemma": "choice",
+   "token": "choice",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "cat": "n",
+   "az": "seçim",
+   "seq": 593
+  },
+  {
+   "lemma": "career",
+   "token": "career",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "expr": "choose a career",
+   "expr_az": "peşə (karyera) seçmək",
+   "seq": 594
+  },
+  {
+   "lemma": "university",
+   "token": "university",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "expr": "choose a university",
+   "expr_az": "universitet seçmək",
+   "seq": 595
+  },
+  {
+   "lemma": "course",
+   "token": "course",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "expr": "choose a course",
+   "expr_az": "kurs seçmək",
+   "seq": 596
+  },
+  {
+   "lemma": "topic",
+   "token": "topic",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "expr": "choose a topic",
+   "expr_az": "mövzu seçmək",
+   "seq": 597
+  },
+  {
+   "lemma": "option",
+   "token": "option",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "expr": "choose an option",
+   "expr_az": "variant seçmək",
+   "seq": 598
+  },
+  {
+   "lemma": "design",
+   "token": "design",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-022",
+   "head": "CHOOSE",
+   "expr": "choose a design",
+   "expr_az": "dizayn seçmək",
+   "seq": 599
+  },
+  {
+   "lemma": "PAY",
+   "token": "PAY",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "cat": "verb, noun",
+   "az": "ödəmək, pul vermək; maaş",
+   "seq": 600
+  },
+  {
+   "lemma": "payment",
+   "token": "payment",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "cat": "n",
+   "az": "ödəniş",
+   "seq": 601
+  },
+  {
+   "lemma": "paid",
+   "token": "paid",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "cat": "adj",
+   "az": "ödənişli, haqqı ödənilən",
+   "seq": 602
+  },
+  {
+   "lemma": "cash",
+   "token": "cash",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "expr": "pay cash",
+   "expr_az": "nağd ödəmək",
+   "seq": 603
+  },
+  {
+   "lemma": "attention",
+   "token": "attention",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "expr": "pay attention",
+   "expr_az": "diqqət yetirmək, fikir vermək",
+   "seq": 604
+  },
+  {
+   "lemma": "advance",
+   "token": "advance",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "expr": "pay in advance",
+   "expr_az": "əvvəlcədən ödəmək",
+   "seq": 605
+  },
+  {
+   "lemma": "tax",
+   "token": "tax",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "expr": "pay tax",
+   "expr_az": "vergi ödəmək",
+   "seq": 606
+  },
+  {
+   "lemma": "fine",
+   "token": "fine",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "expr": "pay a fine",
+   "expr_az": "cərimə ödəmək",
+   "seq": 607
+  },
+  {
+   "lemma": "fee",
+   "token": "fee",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "expr": "pay a fee",
+   "expr_az": "haqq (rüsum) ödəmək",
+   "seq": 608
+  },
+  {
+   "lemma": "extra",
+   "token": "extra",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-023",
+   "head": "PAY",
+   "expr": "pay extra",
+   "expr_az": "əlavə pul ödəmək",
+   "seq": 609
+  },
+  {
+   "lemma": "USE",
+   "token": "USE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "cat": "verb, noun",
+   "az": "istifadə etmək, işlətmək; istifadə",
+   "seq": 610
+  },
+  {
+   "lemma": "user",
+   "token": "user",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "cat": "n",
+   "az": "istifadəçi",
+   "seq": 611
+  },
+  {
+   "lemma": "useful",
+   "token": "useful",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "cat": "adj",
+   "az": "faydalı",
+   "seq": 612
+  },
+  {
+   "lemma": "useless",
+   "token": "useless",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "cat": "adj",
+   "az": "faydasız, yararsız",
+   "seq": 613
+  },
+  {
+   "lemma": "internet",
+   "token": "internet",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use the internet",
+   "expr_az": "internetdən istifadə etmək",
+   "seq": 614
+  },
+  {
+   "lemma": "dictionary",
+   "token": "dictionary",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use a dictionary",
+   "expr_az": "lüğətdən istifadə etmək",
+   "seq": 615
+  },
+  {
+   "lemma": "tool",
+   "token": "tool",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use a tool",
+   "expr_az": "alətdən istifadə etmək",
+   "seq": 616
+  },
+  {
+   "lemma": "public",
+   "token": "public",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use public transport",
+   "expr_az": "ictimai nəqliyyatdan istifadə etmək",
+   "seq": 617
+  },
+  {
+   "lemma": "transport",
+   "token": "transport",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use public transport",
+   "expr_az": "ictimai nəqliyyatdan istifadə etmək",
+   "seq": 618
+  },
+  {
+   "lemma": "knife",
+   "token": "knife",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use a knife",
+   "expr_az": "bıçaq işlətmək",
+   "seq": 619
+  },
+  {
+   "lemma": "brain",
+   "token": "brain",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use your brain",
+   "expr_az": "başını işlətmək, ağlını işə salmaq",
+   "seq": 620
+  },
+  {
+   "lemma": "social",
+   "token": "social",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use social media",
+   "expr_az": "sosial mediadan istifadə etmək",
+   "seq": 621
+  },
+  {
+   "lemma": "media",
+   "token": "media",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-024",
+   "head": "USE",
+   "expr": "use social media",
+   "expr_az": "sosial mediadan istifadə etmək",
+   "seq": 622
+  },
+  {
+   "lemma": "PUT",
+   "token": "PUT",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-025",
+   "head": "PUT",
+   "cat": "verb",
+   "az": "qoymaq",
+   "seq": 623
+  },
+  {
+   "lemma": "kettle",
+   "token": "kettle",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-025",
+   "head": "PUT",
+   "expr": "put the kettle on",
+   "expr_az": "çaydanı qoymaq (su qaynatmaq)",
+   "seq": 624
+  },
+  {
+   "lemma": "fridge",
+   "token": "fridge",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-025",
+   "head": "PUT",
+   "expr": "put sth in the fridge",
+   "expr_az": "nəyisə soyuducuya qoymaq",
+   "seq": 625
+  },
+  {
+   "lemma": "shelf",
+   "token": "shelf",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-025",
+   "head": "PUT",
+   "expr": "put sth on the shelf",
+   "expr_az": "nəyisə rəfə qoymaq",
+   "seq": 626
+  },
+  {
+   "lemma": "STOP",
+   "token": "STOP",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "cat": "verb, noun",
+   "az": "dayanmaq, dayandırmaq; dayanacaq",
+   "seq": 627
+  },
+  {
+   "lemma": "non-stop",
+   "token": "non-stop",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "cat": "adj",
+   "az": "fasiləsiz, dayanmadan",
+   "seq": 628
+  },
+  {
+   "lemma": "talking",
+   "token": "talking",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "stop talking",
+   "expr_az": "danışmağı dayandırmaq, susmaq",
+   "seq": 629
+  },
+  {
+   "lemma": "smoking",
+   "token": "smoking",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "stop smoking",
+   "expr_az": "siqareti tərgitmək",
+   "seq": 630
+  },
+  {
+   "lemma": "crying",
+   "token": "crying",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "stop crying",
+   "expr_az": "ağlamağı kəsmək",
+   "seq": 631
+  },
+  {
+   "lemma": "laughing",
+   "token": "laughing",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "stop laughing",
+   "expr_az": "gülməyi kəsmək",
+   "seq": 632
+  },
+  {
+   "lemma": "rest",
+   "token": "rest",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "stop for a rest",
+   "expr_az": "dincəlmək üçün dayanmaq",
+   "seq": 633
+  },
+  {
+   "lemma": "petrol",
+   "token": "petrol",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "stop for petrol",
+   "expr_az": "benzin doldurmaq üçün dayanmaq",
+   "seq": 634
+  },
+  {
+   "lemma": "full",
+   "token": "full",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "a full stop",
+   "expr_az": "nöqtə (durğu işarəsi)",
+   "seq": 635
+  },
+  {
+   "lemma": "shouting",
+   "token": "shouting",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-026",
+   "head": "STOP",
+   "expr": "stop shouting",
+   "expr_az": "qışqırmağı dayandırmaq",
+   "seq": 636
+  },
+  {
+   "lemma": "WIN",
+   "token": "WIN",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "cat": "verb, noun",
+   "az": "qalib gəlmək, udmaq, qazanmaq; qələbə",
+   "seq": 637
+  },
+  {
+   "lemma": "winner",
+   "token": "winner",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "cat": "n",
+   "az": "qalib",
+   "seq": 638
+  },
+  {
+   "lemma": "prize",
+   "token": "prize",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win a prize",
+   "expr_az": "mükafat (priz) qazanmaq",
+   "seq": 639
+  },
+  {
+   "lemma": "race",
+   "token": "race",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win a race",
+   "expr_az": "yarışda (qaçışda) qalib gəlmək",
+   "seq": 640
+  },
+  {
+   "lemma": "medal",
+   "token": "medal",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win a medal",
+   "expr_az": "medal qazanmaq",
+   "seq": 641
+  },
+  {
+   "lemma": "lottery",
+   "token": "lottery",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win the lottery",
+   "expr_az": "lotereya udmaq",
+   "seq": 642
+  },
+  {
+   "lemma": "award",
+   "token": "award",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win an award",
+   "expr_az": "mükafata layiq görülmək",
+   "seq": 643
+  },
+  {
+   "lemma": "championship",
+   "token": "championship",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win the championship",
+   "expr_az": "çempionatın qalibi olmaq",
+   "seq": 644
+  },
+  {
+   "lemma": "final",
+   "token": "final",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win the final",
+   "expr_az": "finalda qalib gəlmək",
+   "seq": 645
+  },
+  {
+   "lemma": "contest",
+   "token": "contest",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-027",
+   "head": "WIN",
+   "expr": "win a contest",
+   "expr_az": "müsabiqədə qalib gəlmək",
+   "seq": 646
+  },
+  {
+   "lemma": "FEEL",
+   "token": "FEEL",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "cat": "verb",
+   "az": "hiss etmək, duymaq; özünü ... hiss etmək",
+   "seq": 647
+  },
+  {
+   "lemma": "feeling",
+   "token": "feeling",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "cat": "n",
+   "az": "hiss, duyğu",
+   "seq": 648
+  },
+  {
+   "lemma": "sick",
+   "token": "sick",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "expr": "feel sick",
+   "expr_az": "ürəyi bulanmaq; özünü xəstə hiss etmək",
+   "seq": 649
+  },
+  {
+   "lemma": "hungry",
+   "token": "hungry",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "expr": "feel hungry",
+   "expr_az": "aclıq hiss etmək, acmaq",
+   "seq": 650
+  },
+  {
+   "lemma": "thirsty",
+   "token": "thirsty",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "expr": "feel thirsty",
+   "expr_az": "susamaq",
+   "seq": 651
+  },
+  {
+   "lemma": "sorry",
+   "token": "sorry",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "expr": "feel sorry",
+   "expr_az": "təəssüflənmək, heyfsilənmək",
+   "seq": 652
+  },
+  {
+   "lemma": "lonely",
+   "token": "lonely",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "expr": "feel lonely",
+   "expr_az": "özünü tənha hiss etmək",
+   "seq": 653
+  },
+  {
+   "lemma": "nervous",
+   "token": "nervous",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "expr": "feel nervous",
+   "expr_az": "həyəcanlanmaq, narahat olmaq",
+   "seq": 654
+  },
+  {
+   "lemma": "comfortable",
+   "token": "comfortable",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-028",
+   "head": "FEEL",
+   "expr": "feel comfortable",
+   "expr_az": "özünü rahat hiss etmək",
+   "seq": 655
+  },
+  {
+   "lemma": "THINK",
+   "token": "THINK",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-029",
+   "head": "THINK",
+   "cat": "verb",
+   "az": "düşünmək, fikirləşmək; zənn etmək",
+   "seq": 656
+  },
+  {
+   "lemma": "thought",
+   "token": "thought",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-029",
+   "head": "THINK",
+   "cat": "n",
+   "az": "fikir, düşüncə",
+   "seq": 657
+  },
+  {
+   "lemma": "thinker",
+   "token": "thinker",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-029",
+   "head": "THINK",
+   "cat": "n",
+   "az": "mütəfəkkir",
+   "seq": 658
+  },
+  {
+   "lemma": "thoughtful",
+   "token": "thoughtful",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-029",
+   "head": "THINK",
+   "cat": "adj",
+   "az": "diqqətcil, qayğıkeş, həmçinin fikirli",
+   "seq": 659
+  },
+  {
+   "lemma": "twice",
+   "token": "twice",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-029",
+   "head": "THINK",
+   "expr": "think twice",
+   "expr_az": "yaxşı-yaxşı düşünmək, ölçüb-biçmək",
+   "seq": 660
+  },
+  {
+   "lemma": "positive",
+   "token": "positive",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-029",
+   "head": "THINK",
+   "expr": "think positive",
+   "expr_az": "müsbət düşünmək",
+   "seq": 661
+  },
+  {
+   "lemma": "deeply",
+   "token": "deeply",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-029",
+   "head": "THINK",
+   "expr": "think deeply",
+   "expr_az": "dərindən düşünmək",
+   "seq": 662
+  },
+  {
+   "lemma": "ENJOY",
+   "token": "ENJOY",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "cat": "verb",
+   "az": "zövq almaq, həzz almaq, xoşlanmaq",
+   "seq": 663
+  },
+  {
+   "lemma": "enjoyment",
+   "token": "enjoyment",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "cat": "n",
+   "az": "zövq, həzz",
+   "seq": 664
+  },
+  {
+   "lemma": "enjoyable",
+   "token": "enjoyable",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "cat": "adj",
+   "az": "xoş, zövq verən",
+   "seq": 665
+  },
+  {
+   "lemma": "view",
+   "token": "view",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "expr": "enjoy the view",
+   "expr_az": "mənzərədən zövq almaq",
+   "seq": 666
+  },
+  {
+   "lemma": "sunshine",
+   "token": "sunshine",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "expr": "enjoy the sunshine",
+   "expr_az": "günəşli havadan həzz almaq",
+   "seq": 667
+  },
+  {
+   "lemma": "concert",
+   "token": "concert",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "expr": "enjoy a concert",
+   "expr_az": "konsertdən zövq almaq",
+   "seq": 668
+  },
+  {
+   "lemma": "dancing",
+   "token": "dancing",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "expr": "enjoy dancing",
+   "expr_az": "rəqs etməyi sevmək",
+   "seq": 669
+  },
+  {
+   "lemma": "nature",
+   "token": "nature",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "expr": "enjoy nature",
+   "expr_az": "təbiətdən zövq almaq",
+   "seq": 670
+  },
+  {
+   "lemma": "really",
+   "token": "really",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "expr": "really enjoy",
+   "expr_az": "çox bəyənmək, əsl zövq almaq",
+   "seq": 671
+  },
+  {
+   "lemma": "singing",
+   "token": "singing",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-030",
+   "head": "ENJOY",
+   "expr": "enjoy singing",
+   "expr_az": "mahnı oxumağı sevmək",
+   "seq": 672
+  },
+  {
+   "lemma": "HOPE",
+   "token": "HOPE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "cat": "verb, noun",
+   "az": "ümid etmək; ümid",
+   "seq": 673
+  },
+  {
+   "lemma": "hopeful",
+   "token": "hopeful",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "cat": "adj",
+   "az": "ümidli",
+   "seq": 674
+  },
+  {
+   "lemma": "hopeless",
+   "token": "hopeless",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "cat": "adj",
+   "az": "ümidsiz, çarəsiz",
+   "seq": 675
+  },
+  {
+   "lemma": "hopefully",
+   "token": "hopefully",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "cat": "adv",
+   "az": "ümid edirəm ki, inşallah",
+   "seq": 676
+  },
+  {
+   "lemma": "hear",
+   "token": "hear",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "expr": "hope to hear from you",
+   "expr_az": "sizdən xəbər gözləyirəm",
+   "seq": 677
+  },
+  {
+   "lemma": "high",
+   "token": "high",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "expr": "high hopes",
+   "expr_az": "böyük ümidlər",
+   "seq": 678
+  },
+  {
+   "lemma": "only",
+   "token": "only",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "expr": "my only hope",
+   "expr_az": "yeganə ümidim",
+   "seq": 679
+  },
+  {
+   "lemma": "false",
+   "token": "false",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "expr": "false hope",
+   "expr_az": "əsassız ümid, boş ümid",
+   "seq": 680
+  },
+  {
+   "lemma": "still",
+   "token": "still",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-031",
+   "head": "HOPE",
+   "expr": "there is still hope",
+   "expr_az": "hələ ümid var",
+   "seq": 681
+  },
+  {
+   "lemma": "WORRY",
+   "token": "WORRY",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-032",
+   "head": "WORRY",
+   "cat": "verb, noun",
+   "az": "narahat olmaq, nigaran qalmaq; narahatlıq, qayğı",
+   "seq": 682
+  },
+  {
+   "lemma": "worried",
+   "token": "worried",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-032",
+   "head": "WORRY",
+   "cat": "adj",
+   "az": "narahat, nigaran",
+   "seq": 683
+  },
+  {
+   "lemma": "worrying",
+   "token": "worrying",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-032",
+   "head": "WORRY",
+   "cat": "adj",
+   "az": "narahatedici",
+   "seq": 684
+  },
+  {
+   "lemma": "main",
+   "token": "main",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-032",
+   "head": "WORRY",
+   "expr": "the main worry",
+   "expr_az": "əsas narahatlıq, başlıca qayğı",
+   "seq": 685
+  },
+  {
+   "lemma": "slightly",
+   "token": "slightly",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-032",
+   "head": "WORRY",
+   "expr": "slightly worried",
+   "expr_az": "bir qədər narahat",
+   "seq": 686
+  },
+  {
+   "lemma": "terribly",
+   "token": "terribly",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-032",
+   "head": "WORRY",
+   "expr": "terribly worried",
+   "expr_az": "olduqca narahat, çox nigaran",
+   "seq": 687
+  },
+  {
+   "lemma": "kid",
+   "token": "kids",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-032",
+   "head": "WORRY",
+   "expr": "worry about the kids",
+   "expr_az": "uşaqlara görə narahat olmaq",
+   "seq": 688
+  },
+  {
+   "lemma": "HEALTH",
+   "token": "HEALTH",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "cat": "noun",
+   "az": "sağlamlıq, səhhət",
+   "seq": 689
+  },
+  {
+   "lemma": "healthy",
+   "token": "healthy",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "cat": "adj",
+   "az": "sağlam, sağlamlığa faydalı",
+   "seq": 690
+  },
+  {
+   "lemma": "unhealthy",
+   "token": "unhealthy",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "cat": "adj",
+   "az": "qeyri-sağlam, zərərli",
+   "seq": 691
+  },
+  {
+   "lemma": "damage",
+   "token": "damage",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "damage your health",
+   "expr_az": "sağlamlığına ziyan vurmaq",
+   "seq": 692
+  },
+  {
+   "lemma": "mental",
+   "token": "mental",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "mental health",
+   "expr_az": "psixi sağlamlıq, ruhi sağlamlıq",
+   "seq": 693
+  },
+  {
+   "lemma": "diet",
+   "token": "diet",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "a healthy diet",
+   "expr_az": "sağlam qidalanma (rasion)",
+   "seq": 694
+  },
+  {
+   "lemma": "lifestyle",
+   "token": "lifestyle",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "a healthy lifestyle",
+   "expr_az": "sağlam həyat tərzi",
+   "seq": 695
+  },
+  {
+   "lemma": "service",
+   "token": "service",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "health service",
+   "expr_az": "səhiyyə xidməti",
+   "seq": 696
+  },
+  {
+   "lemma": "insurance",
+   "token": "insurance",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "health insurance",
+   "expr_az": "tibbi sığorta",
+   "seq": 697
+  },
+  {
+   "lemma": "physical",
+   "token": "physical",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "physical health",
+   "expr_az": "fiziki sağlamlıq",
+   "seq": 698
+  },
+  {
+   "lemma": "check",
+   "token": "check",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-033",
+   "head": "HEALTH",
+   "expr": "a health check",
+   "expr_az": "tibbi müayinə, sağlamlıq yoxlanışı",
+   "seq": 699
+  },
+  {
+   "lemma": "SPORT",
+   "token": "SPORT",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "cat": "noun",
+   "az": "idman; idman növü",
+   "seq": 700
+  },
+  {
+   "lemma": "sporty",
+   "token": "sporty",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "cat": "adj",
+   "az": "idmansevər, idmançı görkəmli",
+   "seq": 701
+  },
+  {
+   "lemma": "team",
+   "token": "team",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "expr": "a team sport",
+   "expr_az": "komanda idman növü",
+   "seq": 702
+  },
+  {
+   "lemma": "winter",
+   "token": "winter",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "expr": "winter sports",
+   "expr_az": "qış idman növləri",
+   "seq": 703
+  },
+  {
+   "lemma": "club",
+   "token": "club",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "expr": "a sports club",
+   "expr_az": "idman klubu",
+   "seq": 704
+  },
+  {
+   "lemma": "equipment",
+   "token": "equipment",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "expr": "sports equipment",
+   "expr_az": "idman avadanlığı (ləvazimatı)",
+   "seq": 705
+  },
+  {
+   "lemma": "extreme",
+   "token": "extreme",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "expr": "extreme sports",
+   "expr_az": "ekstremal idman növləri",
+   "seq": 706
+  },
+  {
+   "lemma": "fan",
+   "token": "fan",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "expr": "a sports fan",
+   "expr_az": "idman azarkeşi",
+   "seq": 707
+  },
+  {
+   "lemma": "stadium",
+   "token": "stadium",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-034",
+   "head": "SPORT",
+   "expr": "a sports stadium",
+   "expr_az": "idman stadionu",
+   "seq": 708
+  },
+  {
+   "lemma": "EASY",
+   "token": "EASY",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "cat": "adjective",
+   "az": "asan, rahat",
+   "seq": 709
+  },
+  {
+   "lemma": "ease",
+   "token": "ease",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "cat": "n",
+   "az": "asanlıq, rahatlıq",
+   "seq": 710
+  },
+  {
+   "lemma": "easily",
+   "token": "easily",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "cat": "adv",
+   "az": "asanlıqla",
+   "seq": 711
+  },
+  {
+   "lemma": "task",
+   "token": "task",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "an easy task",
+   "expr_az": "asan tapşırıq, asan iş",
+   "seq": 712
+  },
+  {
+   "lemma": "fairly",
+   "token": "fairly",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "fairly easy",
+   "expr_az": "kifayət qədər asan",
+   "seq": 713
+  },
+  {
+   "lemma": "pretty",
+   "token": "pretty",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "pretty easy",
+   "expr_az": "olduqca asan",
+   "seq": 714
+  },
+  {
+   "lemma": "reach",
+   "token": "reach",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "easy to reach",
+   "expr_az": "çatmaq asan olan",
+   "seq": 715
+  },
+  {
+   "lemma": "exercise",
+   "token": "exercise",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "an easy exercise",
+   "expr_az": "asan çalışma (məşq)",
+   "seq": 716
+  },
+  {
+   "lemma": "follow",
+   "token": "follow",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "easy to follow",
+   "expr_az": "başa düşmək (izləmək) asan olan",
+   "seq": 717
+  },
+  {
+   "lemma": "far",
+   "token": "far",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "far from easy",
+   "expr_az": "heç də asan deyil",
+   "seq": 718
+  },
+  {
+   "lemma": "test",
+   "token": "test",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-035",
+   "head": "EASY",
+   "expr": "an easy test",
+   "expr_az": "asan test, asan yoxlama",
+   "seq": 719
+  },
+  {
+   "lemma": "DIFFERENT",
+   "token": "DIFFERENT",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "cat": "adjective",
+   "az": "fərqli, başqa, müxtəlif",
+   "seq": 720
+  },
+  {
+   "lemma": "difference",
+   "token": "difference",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "cat": "n",
+   "az": "fərq",
+   "seq": 721
+  },
+  {
+   "lemma": "differ",
+   "token": "differ",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "cat": "v",
+   "az": "fərqlənmək",
+   "seq": 722
+  },
+  {
+   "lemma": "differently",
+   "token": "differently",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "cat": "adv",
+   "az": "fərqli şəkildə, başqa cür",
+   "seq": 723
+  },
+  {
+   "lemma": "kind",
+   "token": "kind",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "expr": "a different kind",
+   "expr_az": "başqa növ, fərqli cür",
+   "seq": 724
+  },
+  {
+   "lemma": "culture",
+   "token": "cultures",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "expr": "different cultures",
+   "expr_az": "müxtəlif mədəniyyətlər",
+   "seq": 725
+  },
+  {
+   "lemma": "type",
+   "token": "types",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "expr": "different types",
+   "expr_az": "müxtəlif növlər, tiplər",
+   "seq": 726
+  },
+  {
+   "lemma": "totally",
+   "token": "totally",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "expr": "totally different",
+   "expr_az": "tamamilə fərqli",
+   "seq": 727
+  },
+  {
+   "lemma": "shape",
+   "token": "shapes",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "expr": "different shapes",
+   "expr_az": "müxtəlif formalar",
+   "seq": 728
+  },
+  {
+   "lemma": "level",
+   "token": "levels",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "expr": "different levels",
+   "expr_az": "müxtəlif səviyyələr",
+   "seq": 729
+  },
+  {
+   "lemma": "meaning",
+   "token": "meanings",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-036",
+   "head": "DIFFERENT",
+   "expr": "different meanings",
+   "expr_az": "müxtəlif mənalar",
+   "seq": 730
+  },
+  {
+   "lemma": "IMPORTANT",
+   "token": "IMPORTANT",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "cat": "adjective",
+   "az": "vacib, mühüm, əhəmiyyətli",
+   "seq": 731
+  },
+  {
+   "lemma": "importance",
+   "token": "importance",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "cat": "n",
+   "az": "əhəmiyyət, vaciblik",
+   "seq": 732
+  },
+  {
+   "lemma": "unimportant",
+   "token": "unimportant",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "cat": "adj",
+   "az": "əhəmiyyətsiz",
+   "seq": 733
+  },
+  {
+   "lemma": "importantly",
+   "token": "importantly",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "cat": "adv",
+   "az": "ən əsası, mühüm olanı",
+   "seq": 734
+  },
+  {
+   "lemma": "role",
+   "token": "role",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "an important role",
+   "expr_az": "mühüm rol",
+   "seq": 735
+  },
+  {
+   "lemma": "point",
+   "token": "point",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "an important point",
+   "expr_az": "vacib məqam, mühüm fikir",
+   "seq": 736
+  },
+  {
+   "lemma": "thing",
+   "token": "thing",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "the most important thing",
+   "expr_az": "ən vacib şey, ən başlıcası",
+   "seq": 737
+  },
+  {
+   "lemma": "step",
+   "token": "step",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "an important step",
+   "expr_az": "mühüm addım",
+   "seq": 738
+  },
+  {
+   "lemma": "especially",
+   "token": "especially",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "especially important",
+   "expr_az": "xüsusilə vacib",
+   "seq": 739
+  },
+  {
+   "lemma": "discovery",
+   "token": "discovery",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "an important discovery",
+   "expr_az": "mühüm kəşf",
+   "seq": 740
+  },
+  {
+   "lemma": "guest",
+   "token": "guest",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "an important guest",
+   "expr_az": "hörmətli (vacib) qonaq",
+   "seq": 741
+  },
+  {
+   "lemma": "equally",
+   "token": "equally",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-037",
+   "head": "IMPORTANT",
+   "expr": "equally important",
+   "expr_az": "eyni dərəcədə vacib",
+   "seq": 742
+  },
+  {
+   "lemma": "SAFE",
+   "token": "SAFE",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "cat": "adjective",
+   "az": "təhlükəsiz, salamat; etibarlı",
+   "seq": 743
+  },
+  {
+   "lemma": "safety",
+   "token": "safety",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "cat": "n",
+   "az": "təhlükəsizlik",
+   "seq": 744
+  },
+  {
+   "lemma": "unsafe",
+   "token": "unsafe",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "cat": "adj",
+   "az": "təhlükəli, etibarsız",
+   "seq": 745
+  },
+  {
+   "lemma": "safely",
+   "token": "safely",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "cat": "adv",
+   "az": "sağ-salamat, təhlükəsiz şəkildə",
+   "seq": 746
+  },
+  {
+   "lemma": "sound",
+   "token": "sound",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "expr": "safe and sound",
+   "expr_az": "sağ-salamat",
+   "seq": 747
+  },
+  {
+   "lemma": "harm",
+   "token": "harm",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "expr": "safe from harm",
+   "expr_az": "ziyandan (təhlükədən) qorunmuş",
+   "seq": 748
+  },
+  {
+   "lemma": "distance",
+   "token": "distance",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "expr": "a safe distance",
+   "expr_az": "təhlükəsiz məsafə",
+   "seq": 749
+  },
+  {
+   "lemma": "perfectly",
+   "token": "perfectly",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "expr": "perfectly safe",
+   "expr_az": "tamamilə təhlükəsiz",
+   "seq": 750
+  },
+  {
+   "lemma": "area",
+   "token": "area",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "expr": "a safe area",
+   "expr_az": "təhlükəsiz ərazi (zona)",
+   "seq": 751
+  },
+  {
+   "lemma": "helmet",
+   "token": "helmet",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "expr": "a safety helmet",
+   "expr_az": "qoruyucu dəbilqə",
+   "seq": 752
+  },
+  {
+   "lemma": "instruction",
+   "token": "instructions",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-038",
+   "head": "SAFE",
+   "expr": "safety instructions",
+   "expr_az": "təhlükəsizlik təlimatı",
+   "seq": 753
+  },
+  {
+   "lemma": "STRONG",
+   "token": "STRONG",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "cat": "adjective",
+   "az": "güclü, qüvvətli; möhkəm; tünd (çay, qəhvə)",
+   "seq": 754
+  },
+  {
+   "lemma": "strength",
+   "token": "strength",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "cat": "n",
+   "az": "güc, qüvvə",
+   "seq": 755
+  },
+  {
+   "lemma": "strengthen",
+   "token": "strengthen",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "cat": "v",
+   "az": "gücləndirmək, möhkəmləndirmək",
+   "seq": 756
+  },
+  {
+   "lemma": "strongly",
+   "token": "strongly",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "cat": "adv",
+   "az": "qətiyyətlə, güclü şəkildə",
+   "seq": 757
+  },
+  {
+   "lemma": "smell",
+   "token": "smell",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "expr": "a strong smell",
+   "expr_az": "kəskin iy, güclü qoxu",
+   "seq": 758
+  },
+  {
+   "lemma": "taste",
+   "token": "taste",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "expr": "a strong taste",
+   "expr_az": "kəskin dad",
+   "seq": 759
+  },
+  {
+   "lemma": "muscle",
+   "token": "muscles",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "expr": "strong muscles",
+   "expr_az": "güclü əzələlər",
+   "seq": 760
+  },
+  {
+   "lemma": "accent",
+   "token": "accent",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "expr": "a strong accent",
+   "expr_az": "güclü (aydın sezilən) aksent, ləhcə",
+   "seq": 761
+  },
+  {
+   "lemma": "character",
+   "token": "character",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "expr": "a strong character",
+   "expr_az": "möhkəm xarakter, güclü şəxsiyyət",
+   "seq": 762
+  },
+  {
+   "lemma": "leader",
+   "token": "leader",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "expr": "a strong leader",
+   "expr_az": "güclü lider, qətiyyətli rəhbər",
+   "seq": 763
+  },
+  {
+   "lemma": "weakness",
+   "token": "weaknesses",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-039",
+   "head": "STRONG",
+   "expr": "strengths and weaknesses",
+   "expr_az": "güclü və zəif cəhətlər",
+   "seq": 764
+  },
+  {
+   "lemma": "INTEREST",
+   "token": "INTEREST",
+   "role": "MAIN",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "cat": "noun, verb",
+   "az": "maraq; maraqlandırmaq; (bank) faiz",
+   "seq": 765
+  },
+  {
+   "lemma": "interesting",
+   "token": "interesting",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "cat": "adj",
+   "az": "maraqlı",
+   "seq": 766
+  },
+  {
+   "lemma": "interested",
+   "token": "interested",
+   "role": "FAMILY",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "cat": "adj",
+   "az": "maraqlanan",
+   "seq": 767
+  },
+  {
+   "lemma": "special",
+   "token": "special",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "expr": "a special interest",
+   "expr_az": "xüsusi maraq",
+   "seq": 768
+  },
+  {
+   "lemma": "fact",
+   "token": "facts",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "expr": "interesting facts",
+   "expr_az": "maraqlı faktlar",
+   "seq": 769
+  },
+  {
+   "lemma": "common",
+   "token": "common",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "expr": "common interests",
+   "expr_az": "ümumi maraqlar",
+   "seq": 770
+  },
+  {
+   "lemma": "know",
+   "token": "know",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "expr": "interested to know",
+   "expr_az": "bilmək istəyən, öyrənməyə maraqlı",
+   "seq": 771
+  },
+  {
+   "lemma": "article",
+   "token": "article",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "expr": "an interesting article",
+   "expr_az": "maraqlı məqalə",
+   "seq": 772
+  },
+  {
+   "lemma": "hobby",
+   "token": "hobbies",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "expr": "hobbies and interests",
+   "expr_az": "hobbi və maraqlar",
+   "seq": 773
+  },
+  {
+   "lemma": "share",
+   "token": "share",
+   "role": "COLLOCATE",
+   "level": "A2",
+   "lesson": "A2-040",
+   "head": "INTEREST",
+   "expr": "share an interest",
+   "expr_az": "eyni marağı bölüşmək",
+   "seq": 774
   }
  ],
  "lessons": [
@@ -8960,52 +12909,4196 @@
     "pink",
     "purple"
    ]
+  },
+  {
+   "id": "A2-001",
+   "level": "A2",
+   "unit": "Travel and transport",
+   "main_word": "TRAVEL",
+   "pos": "verb, noun",
+   "ipa_british": "ˈtrævəl",
+   "azerbaijani": "səyahət etmək; səyahət",
+   "key_forms": "travel – travels – travelled – travelled – travelling",
+   "word_family": {
+    "n": [
+     {
+      "form": "traveller",
+      "az": "səyyah, səyahətçi"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "travel abroad",
+     "az": "xaricə səyahət etmək",
+     "usage": "\"abroad\" zərfdir: \"to\" işlənmir",
+     "related_only": false
+    },
+    {
+     "en": "travel by plane",
+     "az": "təyyarə ilə səyahət etmək",
+     "usage": "by + nəqliyyat növü",
+     "related_only": false
+    },
+    {
+     "en": "travel around the world",
+     "az": "dünyanı gəzmək, dünya səyahətinə çıxmaq",
+     "usage": "world = dünya",
+     "related_only": false
+    },
+    {
+     "en": "travel light",
+     "az": "az yüklə səyahət etmək",
+     "usage": "Burada \"light\" = yüngül",
+     "related_only": false
+    },
+    {
+     "en": "a travel agent",
+     "az": "səyahət agenti (turizm şirkətinin əməkdaşı)",
+     "usage": "travel agency = səyahət agentliyi",
+     "related_only": false
+    },
+    {
+     "en": "travel across Europe",
+     "az": "Avropanı başdan-başa gəzmək",
+     "usage": "across = bir başından o biri başına",
+     "related_only": false
+    },
+    {
+     "en": "travel on business",
+     "az": "işgüzar səfərə getmək",
+     "usage": "on business = iş üçün",
+     "related_only": false
+    },
+    {
+     "en": "a travel guide",
+     "az": "səyahət bələdçisi (kitab və ya şəxs)",
+     "usage": "guide = bələdçi",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We travel abroad every summer.",
+     "az": "Biz hər yay xaricə səyahət edirik."
+    },
+    {
+     "en": "I prefer to travel by plane because it is fast.",
+     "az": "Mən təyyarə ilə səyahət etməyə üstünlük verirəm, çünki bu, sürətlidir."
+    },
+    {
+     "en": "She always travels light.",
+     "az": "O, həmişə az yüklə səyahət edir."
+    },
+    {
+     "en": "My father often travels on business.",
+     "az": "Atam tez-tez işgüzar səfərlərə gedir."
+    }
+   ],
+   "usage": [
+    "TRAVEL fel kimi ümumiyyətlə səyahət etmək deməkdir. İsim kimi sayılmayandır və ümumi anlayışı bildirir (air travel); konkret bir səfər üçün \"trip\" və ya \"journey\" işlənir – \"a travel\" deyilmir. Britaniya yazılışında \"l\" qoşalaşır: travelled, travelling, traveller. ABROAD zərfdir, ona görə \"travel to abroad\" səhvdir."
+   ],
+   "new_items": [
+    "TRAVEL",
+    "traveller",
+    "abroad",
+    "plane",
+    "world",
+    "light",
+    "agent",
+    "Europe",
+    "business",
+    "guide"
+   ]
+  },
+  {
+   "id": "A2-002",
+   "level": "A2",
+   "unit": "Travel and transport",
+   "main_word": "STAY",
+   "pos": "verb, noun",
+   "ipa_british": "steɪ",
+   "azerbaijani": "qalmaq; qalma (müddəti)",
+   "key_forms": "stay – stays – stayed – stayed – staying",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "stay awake",
+     "az": "oyaq qalmaq",
+     "usage": "stay + sifət = həmin vəziyyətdə qalmaq",
+     "related_only": false
+    },
+    {
+     "en": "stay calm",
+     "az": "sakit qalmaq, təmkinini qorumaq",
+     "usage": "Təhlükəli və gərgin vəziyyətdə",
+     "related_only": false
+    },
+    {
+     "en": "stay overnight",
+     "az": "gecələmək, gecəni qalmaq",
+     "usage": "overnight = gecə ərzində",
+     "related_only": false
+    },
+    {
+     "en": "stay in touch",
+     "az": "əlaqə saxlamaq",
+     "usage": "Ayrılarkən: Let's stay in touch!",
+     "related_only": false
+    },
+    {
+     "en": "stay for a week",
+     "az": "bir həftə qalmaq",
+     "usage": "for + müddət",
+     "related_only": false
+    },
+    {
+     "en": "stay indoors",
+     "az": "bayıra çıxmamaq, içəridə qalmaq",
+     "usage": "indoors = bina daxilində",
+     "related_only": false
+    },
+    {
+     "en": "stay with relatives",
+     "az": "qohumlarının yanında qalmaq",
+     "usage": "stay with + şəxs",
+     "related_only": false
+    },
+    {
+     "en": "a short stay",
+     "az": "qısamüddətli qalma, qısa səfər",
+     "usage": "Burada \"stay\" isimdir",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I couldn't stay awake during the film.",
+     "az": "Film vaxtı oyaq qala bilmədim."
+    },
+    {
+     "en": "Stay calm and call the police.",
+     "az": "Sakit olun və polisə zəng edin."
+    },
+    {
+     "en": "We stayed with relatives in Ganja for a week.",
+     "az": "Biz Gəncədə bir həftə qohumlarımızın yanında qaldıq."
+    },
+    {
+     "en": "Let's stay in touch.",
+     "az": "Gəl, əlaqə saxlayaq."
+    }
+   ],
+   "usage": [
+    "STAY bir yerdə və ya bir vəziyyətdə qalmaq deməkdir. Müvəqqəti qalmaq üçün STAY, daimi yaşamaq üçün LIVE işlənir: \"I'm staying at a hotel\" (müvəqqəti), \"I live in Baku\" (daimi). Qəliblər: stay AT a hotel, stay WITH friends, stay FOR a week, stay + sifət (stay calm)."
+   ],
+   "new_items": [
+    "STAY",
+    "awake",
+    "calm",
+    "overnight",
+    "touch",
+    "week",
+    "indoors",
+    "relative",
+    "short"
+   ]
+  },
+  {
+   "id": "A2-003",
+   "level": "A2",
+   "unit": "Travel and transport",
+   "main_word": "LEAVE",
+   "pos": "verb",
+   "ipa_british": "liːv",
+   "azerbaijani": "getmək, tərk etmək; qoyub getmək, saxlamaq",
+   "key_forms": "leave – leaves – left – left – leaving",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "leave a tip",
+     "az": "çaypulu qoymaq",
+     "usage": "Restoranda xidmətə görə verilən pul",
+     "related_only": false
+    },
+    {
+     "en": "leave for the airport",
+     "az": "hava limanına yola düşmək",
+     "usage": "leave for + gedilən yer",
+     "related_only": false
+    },
+    {
+     "en": "leave sth behind",
+     "az": "nəyisə unudub qoymaq; geridə qoymaq",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "leave sb in peace",
+     "az": "kimisə rahat buraxmaq",
+     "usage": "peace = sülh, dinclik",
+     "related_only": false
+    },
+    {
+     "en": "leave in a hurry",
+     "az": "tələsik çıxıb getmək",
+     "usage": "in a hurry = tələsik",
+     "related_only": false
+    },
+    {
+     "en": "leave your luggage",
+     "az": "baqajını qoyub getmək, saxlamağa vermək",
+     "usage": "\"luggage\" sayılmayan isimdir",
+     "related_only": false
+    },
+    {
+     "en": "leave a comment",
+     "az": "şərh yazmaq, rəy bildirmək",
+     "usage": "İnternetdə, sosial şəbəkədə",
+     "related_only": false
+    },
+    {
+     "en": "leave the table",
+     "az": "süfrədən durmaq",
+     "usage": "Yemək bitəndən sonra",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We left for the airport at five o'clock.",
+     "az": "Biz saat beşdə hava limanına yola düşdük."
+    },
+    {
+     "en": "I left my umbrella behind on the bus.",
+     "az": "Mən çətirimi avtobusda unutdum."
+    },
+    {
+     "en": "You can leave your luggage at the hotel.",
+     "az": "Baqajınızı mehmanxanada saxlaya bilərsiniz."
+    },
+    {
+     "en": "He left in a hurry and forgot his keys.",
+     "az": "O, tələsik çıxdı və açarlarını unutdu."
+    }
+   ],
+   "usage": [
+    "LEAVE düzgün olmayan feldir: leave – left – left. İki əsas mənası var: 1) bir yerdən getmək – leave + yer (sözönüsüz: leave the house), leave FOR + gedilən yer; 2) bir şeyi bir yerdə qoymaq və ya unutmaq. Yer göstəriləndə \"forget\" yox, \"leave\" işlənir: I left my book at home. \"Left\" həm də \"sol\" deməkdir – bu, tamam ayrı sözdür."
+   ],
+   "new_items": [
+    "LEAVE",
+    "tip",
+    "airport",
+    "peace",
+    "hurry",
+    "luggage",
+    "comment",
+    "table"
+   ]
+  },
+  {
+   "id": "A2-004",
+   "level": "A2",
+   "unit": "Travel and transport",
+   "main_word": "ARRIVE",
+   "pos": "verb",
+   "ipa_british": "əˈraɪv",
+   "azerbaijani": "gəlib çatmaq",
+   "key_forms": "arrive – arrives – arrived – arrived – arriving",
+   "word_family": {
+    "n": [
+     {
+      "form": "arrival",
+      "az": "gəliş, çatma"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "arrive in Paris",
+     "az": "Parisə çatmaq",
+     "usage": "Şəhər və ölkə ilə \"in\"",
+     "related_only": false
+    },
+    {
+     "en": "arrive at midnight",
+     "az": "gecə yarısı çatmaq",
+     "usage": "at midnight = gecə saat 12-də",
+     "related_only": false
+    },
+    {
+     "en": "arrive soon",
+     "az": "tezliklə çatmaq",
+     "usage": "soon = tezliklə",
+     "related_only": false
+    },
+    {
+     "en": "arrive at the hospital",
+     "az": "xəstəxanaya çatmaq",
+     "usage": "Bina və kiçik məkanla \"at\"",
+     "related_only": false
+    },
+    {
+     "en": "arrive by coach",
+     "az": "şəhərlərarası avtobusla gəlmək",
+     "usage": "coach = uzaq məsafəli avtobus (Britaniya)",
+     "related_only": false
+    },
+    {
+     "en": "arrivals and departures",
+     "az": "gələn və yola düşən reyslər",
+     "usage": "Hava limanı tablosunda",
+     "related_only": false
+    },
+    {
+     "en": "arrive within minutes",
+     "az": "bir neçə dəqiqə ərzində çatmaq",
+     "usage": "minute = dəqiqə",
+     "related_only": false
+    },
+    {
+     "en": "the arrivals hall",
+     "az": "gələn sərnişinlər zalı",
+     "usage": "Hava limanında",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We arrived in Paris late at night.",
+     "az": "Biz Parisə gecə gec çatdıq."
+    },
+    {
+     "en": "The ambulance arrived within minutes.",
+     "az": "Təcili yardım bir neçə dəqiqə ərzində çatdı."
+    },
+    {
+     "en": "What time does the train arrive?",
+     "az": "Qatar saat neçədə çatır?"
+    },
+    {
+     "en": "I will wait for you in the arrivals hall.",
+     "az": "Səni gələn sərnişinlər zalında gözləyəcəyəm."
+    }
+   ],
+   "usage": [
+    "ARRIVE-dan sonra heç vaxt \"to\" işlənmir: \"arrive to London\" səhvdir. Şəhər və ölkə ilə IN (arrive in Paris), bina, stansiya və hava limanı ilə AT (arrive at the hospital) işlənir. \"Home\", \"here\", \"there\" sözləri ilə sözönü olmur: arrive home. GET TO eyni mənanın danışıq variantıdır. ARRIVAL isimdir: on arrival – çatan kimi."
+   ],
+   "new_items": [
+    "ARRIVE",
+    "arrival",
+    "Paris",
+    "midnight",
+    "soon",
+    "hospital",
+    "coach",
+    "departure",
+    "minute",
+    "hall"
+   ]
+  },
+  {
+   "id": "A2-005",
+   "level": "A2",
+   "unit": "Travel and transport",
+   "main_word": "CATCH",
+   "pos": "verb",
+   "ipa_british": "kætʃ",
+   "azerbaijani": "tutmaq; yaxalamaq; (nəqliyyata) çatmaq; (xəstəliyə) yoluxmaq",
+   "key_forms": "catch – catches – caught – caught – catching",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "catch a ball",
+     "az": "topu tutmaq",
+     "usage": "Havada olan əşyanı tutmaq",
+     "related_only": false
+    },
+    {
+     "en": "catch a thief",
+     "az": "oğrunu tutmaq",
+     "usage": "thief = oğru (cəmi: thieves)",
+     "related_only": false
+    },
+    {
+     "en": "catch fire",
+     "az": "alışmaq, od tutmaq",
+     "usage": "Artiklsiz işlənir",
+     "related_only": false
+    },
+    {
+     "en": "catch a flight",
+     "az": "təyyarəyə (reysə) çatmaq",
+     "usage": "Vaxtında çatıb minmək",
+     "related_only": false
+    },
+    {
+     "en": "catch up with sb",
+     "az": "kiməsə çatmaq, yetişmək",
+     "usage": "Frazeoloji fel; həm yolda, həm dərsdə",
+     "related_only": false
+    },
+    {
+     "en": "catch the flu",
+     "az": "qripə yoluxmaq",
+     "usage": "flu = qrip; \"the\" ilə işlənir",
+     "related_only": false
+    },
+    {
+     "en": "catch a mouse",
+     "az": "siçan tutmaq",
+     "usage": "Cəmi: mice",
+     "related_only": false
+    },
+    {
+     "en": "catch sb doing sth",
+     "az": "kimisə nəsə edərkən yaxalamaq",
+     "usage": "catch + şəxs + fel + -ing",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The police caught the thief yesterday.",
+     "az": "Polis dünən oğrunu tutdu."
+    },
+    {
+     "en": "We have to hurry to catch our flight.",
+     "az": "Reysimizə çatmaq üçün tələsməliyik."
+    },
+    {
+     "en": "You go ahead. I'll catch up with you.",
+     "az": "Sən get. Mən sənə çataram."
+    },
+    {
+     "en": "The teacher caught him cheating in the exam.",
+     "az": "Müəllim onu imtahanda köçürərkən yaxaladı."
+    }
+   ],
+   "usage": [
+    "CATCH düzgün olmayan feldir: catch – caught – caught (/kɔːt/). Əsas mənaları: 1) hərəkət edən şeyi tutmaq (catch a ball); 2) qaçan şəxsi və ya heyvanı yaxalamaq (catch a thief); 3) nəqliyyata vaxtında çatmaq (catch a flight) – əksi: miss; 4) xəstəliyə yoluxmaq (catch the flu). Əldə saxlamaq mənasında isə \"hold\" işlənir."
+   ],
+   "new_items": [
+    "CATCH",
+    "ball",
+    "thief",
+    "fire",
+    "flight",
+    "flu",
+    "mouse"
+   ]
+  },
+  {
+   "id": "A2-006",
+   "level": "A2",
+   "unit": "Travel and transport",
+   "main_word": "MISS",
+   "pos": "verb",
+   "ipa_british": "mɪs",
+   "azerbaijani": "qaçırmaq, (nəqliyyata) gecikmək; darıxmaq",
+   "key_forms": "miss – misses – missed – missed – missing",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "missing",
+      "az": "itkin, çatışmayan"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "miss a chance",
+     "az": "fürsəti əldən vermək, şansı qaçırmaq",
+     "usage": "chance = şans, imkan",
+     "related_only": false
+    },
+    {
+     "en": "miss a class",
+     "az": "dərsi buraxmaq, dərsə gəlməmək",
+     "usage": "class = dərs; sinif",
+     "related_only": false
+    },
+    {
+     "en": "miss a deadline",
+     "az": "son müddəti ötürmək, işi vaxtında təhvil verməmək",
+     "usage": "deadline = son tarix",
+     "related_only": false
+    },
+    {
+     "en": "miss an appointment",
+     "az": "görüşə (qəbula) gəlməmək",
+     "usage": "appointment = əvvəlcədən təyin olunmuş vaxt",
+     "related_only": false
+    },
+    {
+     "en": "miss the target",
+     "az": "hədəfə dəyməmək, hədəfdən yayınmaq",
+     "usage": "target = hədəf",
+     "related_only": false
+    },
+    {
+     "en": "miss the beginning",
+     "az": "əvvəlini (başlanğıcını) qaçırmaq",
+     "usage": "Film, dərs və ya tamaşa haqqında",
+     "related_only": false
+    },
+    {
+     "en": "a missing person",
+     "az": "itkin düşmüş şəxs",
+     "usage": "person = şəxs; cəmi adətən \"people\"",
+     "related_only": false
+    },
+    {
+     "en": "miss the ferry",
+     "az": "bərəyə gecikmək",
+     "usage": "ferry = bərə",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Don't miss this chance.",
+     "az": "Bu fürsəti əldən vermə."
+    },
+    {
+     "en": "He was ill and missed two classes.",
+     "az": "O xəstə idi və iki dərsi buraxdı."
+    },
+    {
+     "en": "We arrived late and missed the beginning of the film.",
+     "az": "Biz gec gəldik və filmin əvvəlini qaçırdıq."
+    },
+    {
+     "en": "I miss my family very much.",
+     "az": "Mən ailəm üçün çox darıxıram."
+    }
+   ],
+   "usage": [
+    "MISS-in üç əsas mənası var: 1) nəqliyyata gecikmək, çata bilməmək (miss the ferry) – əksi: catch; 2) bir şeyi buraxmaq, iştirak etməmək və ya fürsəti əldən vermək (miss a class, miss a chance); 3) kimsə üçün darıxmaq (I miss you). Darıxmaq mənasında sözönü işlənmir: \"I miss you\" (\"I miss for you\" səhvdir). MISSING sifətdir: itkin, yerində olmayan."
+   ],
+   "new_items": [
+    "MISS",
+    "missing",
+    "chance",
+    "class",
+    "deadline",
+    "appointment",
+    "target",
+    "beginning",
+    "person",
+    "ferry"
+   ]
+  },
+  {
+   "id": "A2-007",
+   "level": "A2",
+   "unit": "Giving, showing and telling",
+   "main_word": "BRING",
+   "pos": "verb",
+   "ipa_british": "brɪŋ",
+   "azerbaijani": "gətirmək",
+   "key_forms": "bring – brings – brought – brought – bringing",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "bring a gift",
+     "az": "hədiyyə gətirmək",
+     "usage": "\"gift\" bir qədər rəsmidir; danışıqda: present",
+     "related_only": false
+    },
+    {
+     "en": "bring some snacks",
+     "az": "bir az qəlyanaltı gətirmək",
+     "usage": "snack = yüngül yemək",
+     "related_only": false
+    },
+    {
+     "en": "bring your passport",
+     "az": "pasportunu gətirmək",
+     "usage": "Sənəd tələb olunanda",
+     "related_only": false
+    },
+    {
+     "en": "bring a towel",
+     "az": "dəsmal gətirmək",
+     "usage": "towel = hamam və ya çimərlik dəsmalı",
+     "related_only": false
+    },
+    {
+     "en": "bring a camera",
+     "az": "fotoaparat gətirmək",
+     "usage": "camera = fotoaparat, kamera",
+     "related_only": false
+    },
+    {
+     "en": "bring your laptop",
+     "az": "noutbukunu gətirmək",
+     "usage": "laptop = portativ kompüter",
+     "related_only": false
+    },
+    {
+     "en": "bring up",
+     "az": "(uşağı) böyütmək, tərbiyə etmək; (mövzunu) ortaya atmaq",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "bring sth along",
+     "az": "nəyisə özü ilə gətirmək",
+     "usage": "Frazeoloji fel; danışıq dili",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Could you bring me a glass of water, please?",
+     "az": "Zəhmət olmasa, mənə bir stəkan su gətirə bilərsiniz?"
+    },
+    {
+     "en": "Don't forget to bring your passport.",
+     "az": "Pasportunu gətirməyi unutma."
+    },
+    {
+     "en": "Everyone should bring some snacks to the party.",
+     "az": "Hər kəs qonaqlığa bir az qəlyanaltı gətirməlidir."
+    },
+    {
+     "en": "She was brought up by her grandmother.",
+     "az": "Onu nənəsi böyüdüb."
+    }
+   ],
+   "usage": [
+    "BRING danışanın və ya dinləyənin olduğu yerə gətirmək deməkdir; TAKE isə buradan başqa yerə aparmaqdır: \"Bring it here\" – bura gətir; \"Take it there\" – ora apar. Düzgün olmayan feldir: bring – brought – brought (/brɔːt/). Qəliblər: bring + şəxs + əşya (bring me a towel) və ya bring + əşya + to + şəxs. \"Bring up\" uşaq böyütmək mənasında çox vaxt məchul növdə işlənir: I was brought up in Baku."
+   ],
+   "new_items": [
+    "BRING",
+    "gift",
+    "snack",
+    "passport",
+    "towel",
+    "camera",
+    "laptop"
+   ]
+  },
+  {
+   "id": "A2-008",
+   "level": "A2",
+   "unit": "Giving, showing and telling",
+   "main_word": "SEND",
+   "pos": "verb",
+   "ipa_british": "send",
+   "azerbaijani": "göndərmək",
+   "key_forms": "send – sends – sent – sent – sending",
+   "word_family": {
+    "n": [
+     {
+      "form": "sender",
+      "az": "göndərən (şəxs)"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "send a parcel",
+     "az": "bağlama göndərmək",
+     "usage": "Poçtla göndərilən bağlı qutu (Britaniya)",
+     "related_only": false
+    },
+    {
+     "en": "send a link",
+     "az": "keçid (link) göndərmək",
+     "usage": "İnternet ünvanı",
+     "related_only": false
+    },
+    {
+     "en": "send a file",
+     "az": "fayl göndərmək",
+     "usage": "Kompüter faylı; həmçinin: qovluq",
+     "related_only": false
+    },
+    {
+     "en": "send by post",
+     "az": "poçtla göndərmək",
+     "usage": "Britaniyada \"post\", Amerikada \"mail\"",
+     "related_only": false
+    },
+    {
+     "en": "send a reply",
+     "az": "cavab göndərmək",
+     "usage": "reply = yazılı və ya rəsmi cavab",
+     "related_only": false
+    },
+    {
+     "en": "send a document",
+     "az": "sənəd göndərmək",
+     "usage": "Rəsmi və işgüzar kontekstdə",
+     "related_only": false
+    },
+    {
+     "en": "send a package",
+     "az": "paket, bağlama göndərmək",
+     "usage": "\"parcel\" sözünün daha ümumi sinonimi",
+     "related_only": false
+    },
+    {
+     "en": "send a reminder",
+     "az": "xatırlatma göndərmək",
+     "usage": "Görüş və ya ödəniş barədə",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I sent a parcel to my sister in Germany.",
+     "az": "Mən Almaniyadakı bacıma bağlama göndərdim."
+    },
+    {
+     "en": "Can you send me the link, please?",
+     "az": "Zəhmət olmasa, mənə keçidi göndərə bilərsən?"
+    },
+    {
+     "en": "We will send the documents by post.",
+     "az": "Biz sənədləri poçtla göndərəcəyik."
+    },
+    {
+     "en": "She hasn't sent a reply yet.",
+     "az": "O, hələ cavab göndərməyib."
+    }
+   ],
+   "usage": [
+    "SEND düzgün olmayan feldir: send – sent – sent. İki qəlibi var: send + şəxs + əşya (send me the file) və send + əşya + to + şəxs (send the file to me). PARCEL və PACKAGE yaxın mənalıdır: Britaniyada poçt bağlaması üçün daha çox \"parcel\", Amerikada \"package\" deyilir. REPLY \"answer\" sözündən bir qədər rəsmidir və əsasən yazılı cavab üçün işlənir."
+   ],
+   "new_items": [
+    "SEND",
+    "sender",
+    "parcel",
+    "link",
+    "file",
+    "post",
+    "reply",
+    "document",
+    "package",
+    "reminder"
+   ]
+  },
+  {
+   "id": "A2-009",
+   "level": "A2",
+   "unit": "Giving, showing and telling",
+   "main_word": "SHOW",
+   "pos": "verb, noun",
+   "ipa_british": "ʃəʊ",
+   "azerbaijani": "göstərmək; şou, tamaşa, veriliş",
+   "key_forms": "show – shows – showed – shown – showing",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "show sb around",
+     "az": "kiməsə ətrafı (şəhəri, binanı) gəzdirib göstərmək",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "show off",
+     "az": "özünü göstərmək, lovğalanmaq",
+     "usage": "Frazeoloji fel; adətən mənfi çalarlı",
+     "related_only": false
+    },
+    {
+     "en": "show up",
+     "az": "gəlib çıxmaq, peyda olmaq",
+     "usage": "Frazeoloji fel; qeyri-rəsmi",
+     "related_only": false
+    },
+    {
+     "en": "show sb how",
+     "az": "kiməsə necə etməyi göstərmək",
+     "usage": "show sb how to + fel",
+     "related_only": false
+    },
+    {
+     "en": "a talent show",
+     "az": "istedad müsabiqəsi (şousu)",
+     "usage": "talent = istedad",
+     "related_only": false
+    },
+    {
+     "en": "a fashion show",
+     "az": "moda nümayişi",
+     "usage": "fashion = moda",
+     "related_only": false
+    },
+    {
+     "en": "a quiz show",
+     "az": "viktorina, bilik yarışması verilişi",
+     "usage": "quiz = qısa sual-cavab yarışı",
+     "related_only": false
+    },
+    {
+     "en": "show respect",
+     "az": "hörmət göstərmək",
+     "usage": "show respect for / to + kim",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Let me show you around the city.",
+     "az": "Gəl, sənə şəhəri gəzdirim."
+    },
+    {
+     "en": "Can you show me how to use this machine?",
+     "az": "Bu aparatdan necə istifadə etməyi mənə göstərə bilərsən?"
+    },
+    {
+     "en": "He didn't show up for the meeting.",
+     "az": "O, görüşə gəlib çıxmadı."
+    },
+    {
+     "en": "Children should show respect for old people.",
+     "az": "Uşaqlar yaşlılara hörmət göstərməlidirlər."
+    }
+   ],
+   "usage": [
+    "SHOW fel kimi \"göstərmək\" deməkdir: show + şəxs + əşya (show me your ticket) və ya show + əşya + to + şəxs. Keçmiş zaman feli sifəti adətən \"shown\"dur. İsim kimi SHOW televiziya verilişi, tamaşa və ya nümayişdir. \"Show off\" başqalarının diqqətini cəlb etmək üçün özünü öymək, \"show up\" isə gözlənilən yerə gəlib çıxmaq deməkdir."
+   ],
+   "new_items": [
+    "SHOW",
+    "talent",
+    "fashion",
+    "quiz",
+    "respect"
+   ]
+  },
+  {
+   "id": "A2-010",
+   "level": "A2",
+   "unit": "Giving, showing and telling",
+   "main_word": "TELL",
+   "pos": "verb",
+   "ipa_british": "tel",
+   "azerbaijani": "demək, söyləmək, danışmaq (kiməsə)",
+   "key_forms": "tell – tells – told – told – telling",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "tell the truth",
+     "az": "həqiqəti demək, düzünü söyləmək",
+     "usage": "Həmişə \"the\" ilə",
+     "related_only": false
+    },
+    {
+     "en": "tell a lie",
+     "az": "yalan danışmaq",
+     "usage": "\"say a lie\" deyilmir",
+     "related_only": false
+    },
+    {
+     "en": "tell a joke",
+     "az": "lətifə danışmaq",
+     "usage": "joke = lətifə, zarafat",
+     "related_only": false
+    },
+    {
+     "en": "tell sb a secret",
+     "az": "kiməsə sirr açmaq",
+     "usage": "secret = sirr",
+     "related_only": false
+    },
+    {
+     "en": "tell sb off",
+     "az": "kimisə danlamaq",
+     "usage": "Frazeoloji fel; Britaniya danışıq dili",
+     "related_only": false
+    },
+    {
+     "en": "tell sb the reason",
+     "az": "kiməsə səbəbi demək",
+     "usage": "the reason for + nə",
+     "related_only": false
+    },
+    {
+     "en": "tell the police",
+     "az": "polisə xəbər vermək",
+     "usage": "\"police\" cəm kimi işlənir: The police are ...",
+     "related_only": false
+    },
+    {
+     "en": "tell sb the details",
+     "az": "kiməsə təfərrüatları danışmaq",
+     "usage": "detail = təfərrüat, incəlik",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Please tell me the truth.",
+     "az": "Xahiş edirəm, mənə həqiqəti de."
+    },
+    {
+     "en": "He is always telling jokes.",
+     "az": "O, həmişə lətifə danışır."
+    },
+    {
+     "en": "The teacher told us off for being late.",
+     "az": "Müəllim gecikdiyimizə görə bizi danladı."
+    },
+    {
+     "en": "Can you tell me the reason?",
+     "az": "Səbəbini mənə deyə bilərsən?"
+    }
+   ],
+   "usage": [
+    "TELL-dən sonra adətən şəxs gəlir: tell ME, tell HIM (\"tell to me\" səhvdir). SAY isə şəxssiz işlənir və ya \"to\" tələb edir: \"He said (to me) that ...\". Sabit birləşmələrdə şəxs olmaya bilər: tell the truth, tell a lie, tell a joke. Düzgün olmayan feldir: tell – told – told. Göstəriş vermək üçün: tell + şəxs + to + fel (He told me to wait)."
+   ],
+   "new_items": [
+    "TELL",
+    "truth",
+    "lie",
+    "joke",
+    "secret",
+    "reason",
+    "police",
+    "detail"
+   ]
+  },
+  {
+   "id": "A2-011",
+   "level": "A2",
+   "unit": "Giving, showing and telling",
+   "main_word": "TRY",
+   "pos": "verb, noun",
+   "ipa_british": "traɪ",
+   "azerbaijani": "cəhd etmək, çalışmaq; sınamaq, dadına baxmaq",
+   "key_forms": "try – tries – tried – tried – trying",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "try on",
+     "az": "(paltarı) əyninə geyinib yoxlamaq",
+     "usage": "Frazeoloji fel; mağazada: Can I try it on?",
+     "related_only": false
+    },
+    {
+     "en": "try sth out",
+     "az": "nəyisə sınaqdan keçirmək, yoxlamaq",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "have a try",
+     "az": "bir cəhd etmək, sınamaq",
+     "usage": "Burada \"try\" isimdir; danışıq dili",
+     "related_only": false
+    },
+    {
+     "en": "try a recipe",
+     "az": "resepti sınamaq (yeni yemək bişirmək)",
+     "usage": "recipe /ˈresəpi/ = yemək resepti",
+     "related_only": false
+    },
+    {
+     "en": "try the local food",
+     "az": "yerli yeməklərin dadına baxmaq",
+     "usage": "local = yerli; food = yemək, qida",
+     "related_only": false
+    },
+    {
+     "en": "try to remember",
+     "az": "xatırlamağa çalışmaq",
+     "usage": "try + to + fel = səy göstərmək",
+     "related_only": false
+    },
+    {
+     "en": "try to relax",
+     "az": "dincəlməyə, rahatlanmağa çalışmaq",
+     "usage": "relax = dincəlmək, gərginliyi atmaq",
+     "related_only": false
+    },
+    {
+     "en": "try to understand",
+     "az": "başa düşməyə çalışmaq",
+     "usage": "understand – understood – understood",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Can I try on this jacket?",
+     "az": "Bu pencəyi əynimə geyinib yoxlaya bilərəm?"
+    },
+    {
+     "en": "You must try the local food in Sheki.",
+     "az": "Şəkidə mütləq yerli yeməklərin dadına baxmalısan."
+    },
+    {
+     "en": "I'm trying to remember her name.",
+     "az": "Mən onun adını xatırlamağa çalışıram."
+    },
+    {
+     "en": "Try to relax before the exam.",
+     "az": "İmtahandan əvvəl rahatlanmağa çalış."
+    }
+   ],
+   "usage": [
+    "TRY iki qəlibdə işlənir və məna dəyişir: try + TO + fel = çətin bir işi görməyə səy göstərmək (I tried to open the door – açmağa çalışdım); try + fel + -ING = nəticəsini görmək üçün bir şeyi sınamaq (Try opening the window – pəncərəni açıb gör). Yemək və içki ilə \"dadına baxmaq\" mənasındadır. \"Try on\" yalnız paltar və ayaqqabı üçün işlənir."
+   ],
+   "new_items": [
+    "TRY",
+    "recipe",
+    "local",
+    "food",
+    "remember",
+    "relax",
+    "understand"
+   ]
+  },
+  {
+   "id": "A2-012",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "CHANGE",
+   "pos": "verb, noun",
+   "ipa_british": "tʃeɪndʒ",
+   "azerbaijani": "dəyişmək, dəyişdirmək; dəyişiklik; xırda pul, pulun qalığı",
+   "key_forms": "change – changes – changed – changed – changing",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "change the subject",
+     "az": "mövzunu dəyişmək",
+     "usage": "Söhbət zamanı; subject = mövzu; fənn",
+     "related_only": false
+    },
+    {
+     "en": "change places",
+     "az": "yerləri dəyişmək",
+     "usage": "change places with sb; cəmdə işlənir",
+     "related_only": false
+    },
+    {
+     "en": "for a change",
+     "az": "dəyişiklik olsun deyə",
+     "usage": "Burada \"change\" isimdir",
+     "related_only": false
+    },
+    {
+     "en": "change the channel",
+     "az": "(televizorda) kanalı dəyişmək",
+     "usage": "channel = kanal",
+     "related_only": false
+    },
+    {
+     "en": "change your password",
+     "az": "parolunu dəyişmək",
+     "usage": "password = parol, şifrə",
+     "related_only": false
+    },
+    {
+     "en": "change the date",
+     "az": "tarixi dəyişmək",
+     "usage": "date = tarix; həmçinin: görüş",
+     "related_only": false
+    },
+    {
+     "en": "change completely",
+     "az": "tamamilə dəyişmək",
+     "usage": "complete (tam) + -ly",
+     "related_only": false
+    },
+    {
+     "en": "change a tyre",
+     "az": "təkəri dəyişmək",
+     "usage": "Britaniya yazılışı: tyre",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Let's change the subject.",
+     "az": "Gəl, mövzunu dəyişək."
+    },
+    {
+     "en": "Can we change the date of the meeting?",
+     "az": "Görüşün tarixini dəyişə bilərikmi?"
+    },
+    {
+     "en": "Let's eat out tonight for a change.",
+     "az": "Gəl, dəyişiklik olsun deyə bu axşam restoranda yeyək."
+    },
+    {
+     "en": "The town has changed completely.",
+     "az": "Şəhər tamamilə dəyişib."
+    }
+   ],
+   "usage": [
+    "CHANGE həm təsirli (change the date – tarixi dəyişmək), həm də təsirsiz feldir (The weather changed – hava dəyişdi). İsim kimi iki mənası var: 1) dəyişiklik – sayılan (a big change); 2) xırda pul və ya pulun qalığı – sayılmayan (Here is your change). Nəqliyyatda \"change\" bir vasitədən digərinə keçmək deməkdir və isim cəmdə olur: change trains."
+   ],
+   "new_items": [
+    "CHANGE",
+    "subject",
+    "place",
+    "channel",
+    "password",
+    "date",
+    "completely",
+    "tyre"
+   ]
+  },
+  {
+   "id": "A2-013",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "MOVE",
+   "pos": "verb, noun",
+   "ipa_british": "muːv",
+   "azerbaijani": "hərəkət etmək, tərpənmək; yerini dəyişmək; köçmək",
+   "key_forms": "move – moves – moved – moved – moving",
+   "word_family": {
+    "n": [
+     {
+      "form": "movement",
+      "az": "hərəkət, həmçinin (ictimai) hərəkat"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "moving",
+      "az": "təsirli, kövrəldən"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "move in",
+     "az": "(yeni evə) köçüb gəlmək",
+     "usage": "Frazeoloji fel; move in with sb = kiminləsə yaşamağa başlamaq",
+     "related_only": false
+    },
+    {
+     "en": "move out",
+     "az": "(evdən) köçüb getmək",
+     "usage": "Frazeoloji fel; əksi: move in",
+     "related_only": false
+    },
+    {
+     "en": "move on",
+     "az": "davam etmək, növbəti mərhələyə keçmək",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "move furniture",
+     "az": "mebelin yerini dəyişmək, mebel daşımaq",
+     "usage": "\"furniture\" sayılmayan isimdir",
+     "related_only": false
+    },
+    {
+     "en": "move your chair",
+     "az": "stulunu çəkmək, yerini dəyişmək",
+     "usage": "chair = stul",
+     "related_only": false
+    },
+    {
+     "en": "move to the countryside",
+     "az": "kəndə (şəhərdən kənara) köçmək",
+     "usage": "countryside = kənd yeri, təbiət qoynu",
+     "related_only": false
+    },
+    {
+     "en": "move forward",
+     "az": "irəli getmək, irəliləmək",
+     "usage": "Həm hərfi, həm məcazi mənada",
+     "related_only": false
+    },
+    {
+     "en": "move away",
+     "az": "uzaqlaşmaq; başqa yerə köçüb getmək",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We are moving in next week.",
+     "az": "Biz gələn həftə köçürük."
+    },
+    {
+     "en": "Can you help me move the furniture?",
+     "az": "Mebelin yerini dəyişməkdə mənə kömək edə bilərsən?"
+    },
+    {
+     "en": "They moved to the countryside last year.",
+     "az": "Onlar keçən il kəndə köçdülər."
+    },
+    {
+     "en": "Let's move on to the next question.",
+     "az": "Gəlin, növbəti suala keçək."
+    }
+   ],
+   "usage": [
+    "MOVE-un əsas mənaları: 1) hərəkət etmək və ya bir şeyin yerini dəyişmək (Don't move! – Tərpənmə!); 2) yaşayış yerini dəyişmək, köçmək (move to London). Britaniyada \"move house\" başqa evə köçmək deməkdir. MOVING sifət kimi \"təsirli, kövrəldən\" mənasındadır: a moving film. MOVEMENT həm fiziki hərəkəti, həm də ictimai hərəkatı bildirir."
+   ],
+   "new_items": [
+    "MOVE",
+    "movement",
+    "moving",
+    "furniture",
+    "chair",
+    "countryside"
+   ]
+  },
+  {
+   "id": "A2-014",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "TURN",
+   "pos": "verb, noun",
+   "ipa_british": "tɜːn",
+   "azerbaijani": "dönmək, döndərmək, çevirmək; növbə",
+   "key_forms": "turn – turns – turned – turned – turning",
+   "word_family": {
+    "n": [
+     {
+      "form": "turning",
+      "az": "döngə (yolun ayrıldığı yer)"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "turn left",
+     "az": "sola dönmək",
+     "usage": "Yol göstərərkən; sözönüsüz",
+     "related_only": false
+    },
+    {
+     "en": "turn right",
+     "az": "sağa dönmək",
+     "usage": "\"right\" həm də \"düzgün\" deməkdir",
+     "related_only": false
+    },
+    {
+     "en": "turn on",
+     "az": "(işığı, cihazı) yandırmaq, işə salmaq",
+     "usage": "Frazeoloji fel; \"open the light\" səhvdir",
+     "related_only": false
+    },
+    {
+     "en": "turn off",
+     "az": "(işığı, cihazı) söndürmək",
+     "usage": "Frazeoloji fel; əksi: turn on",
+     "related_only": false
+    },
+    {
+     "en": "turn the page",
+     "az": "səhifəni çevirmək",
+     "usage": "page = səhifə",
+     "related_only": false
+    },
+    {
+     "en": "turn a corner",
+     "az": "tini dönmək",
+     "usage": "corner = tin, künc",
+     "related_only": false
+    },
+    {
+     "en": "turn up the volume",
+     "az": "səsi artırmaq",
+     "usage": "volume = səsin gurluğu; əksi: turn down",
+     "related_only": false
+    },
+    {
+     "en": "turn into",
+     "az": "nəyəsə çevrilmək",
+     "usage": "Frazeoloji fel: Water turns into ice",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Turn left at the bank and then go straight on.",
+     "az": "Bankın yanında sola dönün, sonra düz gedin."
+    },
+    {
+     "en": "Could you turn on the light, please?",
+     "az": "Zəhmət olmasa, işığı yandıra bilərsiniz?"
+    },
+    {
+     "en": "Don't forget to turn off your phone.",
+     "az": "Telefonunu söndürməyi unutma."
+    },
+    {
+     "en": "In winter the rain often turns into snow.",
+     "az": "Qışda yağış tez-tez qara çevrilir."
+    }
+   ],
+   "usage": [
+    "TURN əsasən istiqaməti və ya vəziyyəti dəyişmək deməkdir. Elektrik cihazları ilə Azərbaycan dilində \"açmaq / bağlamaq\" deyilsə də, ingilis dilində \"open / close\" yox, TURN ON / TURN OFF işlənir. \"Turn up / turn down\" səsi və ya istiliyi artırmaq / azaltmaqdır. İsim kimi \"turn\" növbə deməkdir: It's your turn – Sənin növbəndir. TURNING yolun döngəsidir."
+   ],
+   "new_items": [
+    "TURN",
+    "turning",
+    "left",
+    "right",
+    "page",
+    "corner",
+    "volume"
+   ]
+  },
+  {
+   "id": "A2-015",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "KEEP",
+   "pos": "verb",
+   "ipa_british": "kiːp",
+   "azerbaijani": "saxlamaq; (bir vəziyyətdə) qalmaq; davam etmək",
+   "key_forms": "keep – keeps – kept – kept – keeping",
+   "word_family": {
+    "n": [
+     {
+      "form": "keeper",
+      "az": "gözətçi, mühafizəçi"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "keep a promise",
+     "az": "sözünə əməl etmək, vədini yerinə yetirmək",
+     "usage": "Əksi: break a promise",
+     "related_only": false
+    },
+    {
+     "en": "keep fit",
+     "az": "formada qalmaq",
+     "usage": "fit = sağlam, idmanlı",
+     "related_only": false
+    },
+    {
+     "en": "keep a diary",
+     "az": "gündəlik yazmaq",
+     "usage": "diary = gündəlik",
+     "related_only": false
+    },
+    {
+     "en": "keep sth tidy",
+     "az": "nəyisə səliqəli saxlamaq",
+     "usage": "keep + isim + sifət",
+     "related_only": false
+    },
+    {
+     "en": "keep pets",
+     "az": "ev heyvanı saxlamaq",
+     "usage": "pet = ev heyvanı",
+     "related_only": false
+    },
+    {
+     "en": "keep off the grass",
+     "az": "otun üstünə çıxmayın, çəmənliyi tapdalamayın",
+     "usage": "Parklardakı xəbərdarlıq lövhəsi",
+     "related_only": false
+    },
+    {
+     "en": "keep up with",
+     "az": "ayaqlaşmaq, geri qalmamaq",
+     "usage": "Frazeoloji fel: keep up with the class",
+     "related_only": false
+    },
+    {
+     "en": "keep sth fresh",
+     "az": "nəyisə təzə saxlamaq",
+     "usage": "fresh = təzə (yemək, hava)",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "He always keeps his promises.",
+     "az": "O, həmişə sözünə əməl edir."
+    },
+    {
+     "en": "I go swimming to keep fit.",
+     "az": "Mən formada qalmaq üçün üzməyə gedirəm."
+    },
+    {
+     "en": "Please keep your room tidy.",
+     "az": "Zəhmət olmasa, otağını səliqəli saxla."
+    },
+    {
+     "en": "He walks so fast that I can't keep up with him.",
+     "az": "O elə sürətlə yeriyir ki, mən ona çata bilmirəm."
+    }
+   ],
+   "usage": [
+    "KEEP düzgün olmayan feldir: keep – kept – kept. Əsas qəliblər: 1) keep + isim = saxlamaq (keep the ticket); 2) keep + isim + sifət = bir şeyi müəyyən vəziyyətdə saxlamaq (keep the room tidy); 3) keep + sifət = həmin vəziyyətdə qalmaq (keep fit); 4) keep + fel + -ing = davam etmək, dayanmadan etmək (keep talking). \"Keep off\" və \"keep out\" xəbərdarlıq lövhələrində çox işlənir."
+   ],
+   "new_items": [
+    "KEEP",
+    "keeper",
+    "promise",
+    "fit",
+    "diary",
+    "tidy",
+    "pet",
+    "grass",
+    "fresh"
+   ]
+  },
+  {
+   "id": "A2-016",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "LOSE",
+   "pos": "verb",
+   "ipa_british": "luːz",
+   "azerbaijani": "itirmək; uduzmaq",
+   "key_forms": "lose – loses – lost – lost – losing",
+   "word_family": {
+    "n": [
+     {
+      "form": "loss",
+      "az": "itki"
+     },
+     {
+      "form": "loser",
+      "az": "uduzan (şəxs)"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "lost",
+      "az": "itmiş, azmış"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "lose weight",
+     "az": "arıqlamaq, çəki atmaq",
+     "usage": "Əksi: put on weight",
+     "related_only": false
+    },
+    {
+     "en": "lose your wallet",
+     "az": "pul kisəsini itirmək",
+     "usage": "wallet = (kişi) pul kisəsi",
+     "related_only": false
+    },
+    {
+     "en": "lose control",
+     "az": "nəzarəti itirmək",
+     "usage": "lose control of + nə",
+     "related_only": false
+    },
+    {
+     "en": "lose your memory",
+     "az": "yaddaşını itirmək",
+     "usage": "memory = yaddaş; xatirə",
+     "related_only": false
+    },
+    {
+     "en": "lose your voice",
+     "az": "səsi batmaq, səsini itirmək",
+     "usage": "Soyuqdəymə və ya çox danışmaqdan",
+     "related_only": false
+    },
+    {
+     "en": "lost property",
+     "az": "itirilmiş əşyalar (bürosu)",
+     "usage": "Britaniyada: the lost property office",
+     "related_only": false
+    },
+    {
+     "en": "lose your balance",
+     "az": "müvazinətini itirmək",
+     "usage": "balance = tarazlıq",
+     "related_only": false
+    },
+    {
+     "en": "a heavy loss",
+     "az": "ağır itki",
+     "usage": "heavy = ağır",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I want to lose some weight before summer.",
+     "az": "Mən yaya qədər bir az arıqlamaq istəyirəm."
+    },
+    {
+     "en": "She lost her wallet on the bus.",
+     "az": "O, avtobusda pul kisəsini itirdi."
+    },
+    {
+     "en": "The driver lost control of the car.",
+     "az": "Sürücü maşına nəzarəti itirdi."
+    },
+    {
+     "en": "Our team lost the match 2–1.",
+     "az": "Komandamız oyunu 2–1 hesabı ilə uduzdu."
+    }
+   ],
+   "usage": [
+    "LOSE (/luːz/) feldir – \"itirmək, uduzmaq\"; LOOSE (/luːs/) isə sifətdir – \"boş, gen\". Yazılışı və tələffüzü qarışdırmayın. Düzgün olmayan feldir: lose – lost – lost. LOST sifət kimi \"itmiş, azmış\" deməkdir: get lost – azmaq. Əks mənalar: lose – find (itirmək – tapmaq), lose – win (uduzmaq – udmaq). LOSS isimdir: weight loss – çəki itkisi."
+   ],
+   "new_items": [
+    "LOSE",
+    "loss",
+    "loser",
+    "lost",
+    "weight",
+    "wallet",
+    "control",
+    "memory",
+    "voice",
+    "property",
+    "balance",
+    "heavy"
+   ]
+  },
+  {
+   "id": "A2-017",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "FIND",
+   "pos": "verb",
+   "ipa_british": "faɪnd",
+   "azerbaijani": "tapmaq; hesab etmək, saymaq",
+   "key_forms": "find – finds – found – found – finding",
+   "word_family": {
+    "n": [
+     {
+      "form": "finding",
+      "az": "(tədqiqatın) nəticəsi, tapıntı"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "find out",
+     "az": "öyrənmək, aşkar etmək, xəbər tutmaq",
+     "usage": "Frazeoloji fel; məlumat haqqında",
+     "related_only": false
+    },
+    {
+     "en": "find sth difficult",
+     "az": "nəyisə çətin hesab etmək",
+     "usage": "find + isim + sifət = ... saymaq",
+     "related_only": false
+    },
+    {
+     "en": "find sth funny",
+     "az": "nəyisə gülməli hesab etmək",
+     "usage": "funny = gülməli; həmçinin: qəribə",
+     "related_only": false
+    },
+    {
+     "en": "find sth boring",
+     "az": "nəyisə darıxdırıcı hesab etmək",
+     "usage": "boring = darıxdırıcı",
+     "related_only": false
+    },
+    {
+     "en": "find a partner",
+     "az": "tərəfdaş tapmaq, cütünü tapmaq",
+     "usage": "Dərsdə, işdə, şəxsi həyatda",
+     "related_only": false
+    },
+    {
+     "en": "find the exit",
+     "az": "çıxışı tapmaq",
+     "usage": "exit = çıxış",
+     "related_only": false
+    },
+    {
+     "en": "find the entrance",
+     "az": "girişi tapmaq",
+     "usage": "entrance = giriş",
+     "related_only": false
+    },
+    {
+     "en": "find accommodation",
+     "az": "qalmağa yer (mənzil) tapmaq",
+     "usage": "Sayılmayan isim; rəsmi üslub",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I can't find my keys anywhere.",
+     "az": "Açarlarımı heç yerdə tapa bilmirəm."
+    },
+    {
+     "en": "How did you find out about the party?",
+     "az": "Qonaqlıq haqqında haradan xəbər tutdun?"
+    },
+    {
+     "en": "I find grammar difficult.",
+     "az": "Mən qrammatikanı çətin hesab edirəm."
+    },
+    {
+     "en": "It is hard to find cheap accommodation in London.",
+     "az": "Londonda ucuz mənzil tapmaq çətindir."
+    }
+   ],
+   "usage": [
+    "FIND düzgün olmayan feldir: find – found – found. FIND itmiş və ya axtarılan şeyi tapmaqdır; FIND OUT isə məlumat əldə etmək, bir faktı öyrənməkdir: \"I found my keys\" – \"I found out the truth\". \"Find + isim + sifət\" qəlibi fikir bildirir: I find this book boring = məncə, bu kitab darıxdırıcıdır. FINDINGS (adətən cəmdə) tədqiqatın nəticələridir – akademik yazıda çox işlənir."
+   ],
+   "new_items": [
+    "FIND",
+    "finding",
+    "difficult",
+    "funny",
+    "boring",
+    "partner",
+    "exit",
+    "entrance",
+    "accommodation"
+   ]
+  },
+  {
+   "id": "A2-018",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "FALL",
+   "pos": "verb, noun",
+   "ipa_british": "fɔːl",
+   "azerbaijani": "yıxılmaq, düşmək; enmə, azalma",
+   "key_forms": "fall – falls – fell – fallen – falling",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "fall asleep",
+     "az": "yuxuya getmək",
+     "usage": "asleep = yatmış; isimdən əvvəl işlənmir",
+     "related_only": false
+    },
+    {
+     "en": "fall in love",
+     "az": "aşiq olmaq, vurulmaq",
+     "usage": "fall in love with + kim",
+     "related_only": false
+    },
+    {
+     "en": "fall over",
+     "az": "yıxılmaq (ayaq üstə ikən)",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "fall off a bike",
+     "az": "velosipeddən yıxılmaq",
+     "usage": "fall off = üstündən düşmək; bike = velosiped",
+     "related_only": false
+    },
+    {
+     "en": "fall ill",
+     "az": "xəstələnmək",
+     "usage": "ill = xəstə; bir qədər rəsmi",
+     "related_only": false
+    },
+    {
+     "en": "fall behind",
+     "az": "geri qalmaq",
+     "usage": "Frazeoloji fel; dərsdə, işdə",
+     "related_only": false
+    },
+    {
+     "en": "fall to the ground",
+     "az": "yerə düşmək",
+     "usage": "ground = yer, torpaq səthi",
+     "related_only": false
+    },
+    {
+     "en": "a fall in temperature",
+     "az": "temperaturun enməsi",
+     "usage": "Burada \"fall\" isimdir; a fall in + nə",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I fell asleep in front of the TV.",
+     "az": "Mən televizorun qabağında yuxuya getdim."
+    },
+    {
+     "en": "They fell in love at university.",
+     "az": "Onlar universitetdə bir-birinə aşiq oldular."
+    },
+    {
+     "en": "He fell off his bike and broke his arm.",
+     "az": "O, velosipeddən yıxıldı və qolunu sındırdı."
+    },
+    {
+     "en": "If you miss lessons, you will fall behind.",
+     "az": "Dərsləri buraxsan, geri qalacaqsan."
+    }
+   ],
+   "usage": [
+    "FALL düzgün olmayan feldir: fall – fell – fallen. FELL (yıxıldı) ilə FELT (hiss etdi – \"feel\" felinin keçmiş zamanı) sözlərini qarışdırmayın. \"Fall over\" ayaq üstə olan adamın yıxılması, \"fall off\" bir şeyin üstündən düşmək deməkdir. İsim kimi FALL azalma bildirir (a fall in prices); Amerika ingiliscəsində \"fall\" həm də payızdır (Britaniyada: autumn)."
+   ],
+   "new_items": [
+    "FALL",
+    "asleep",
+    "love",
+    "bike",
+    "ill",
+    "ground",
+    "temperature"
+   ]
+  },
+  {
+   "id": "A2-019",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "BREAK",
+   "pos": "verb, noun",
+   "ipa_british": "breɪk",
+   "azerbaijani": "sındırmaq, sınmaq; pozmaq; fasilə",
+   "key_forms": "break – breaks – broke – broken – breaking",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "broken",
+      "az": "sınıq, xarab"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "break the law",
+     "az": "qanunu pozmaq",
+     "usage": "law = qanun",
+     "related_only": false
+    },
+    {
+     "en": "break a rule",
+     "az": "qaydanı pozmaq",
+     "usage": "rule = qayda",
+     "related_only": false
+    },
+    {
+     "en": "break a record",
+     "az": "rekord qırmaq",
+     "usage": "record = rekord; həmçinin: qeyd",
+     "related_only": false
+    },
+    {
+     "en": "break down",
+     "az": "xarab olmaq, sıradan çıxmaq (maşın, cihaz)",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "break up",
+     "az": "ayrılmaq (münasibəti bitirmək)",
+     "usage": "Frazeoloji fel: break up with sb",
+     "related_only": false
+    },
+    {
+     "en": "have a break",
+     "az": "fasilə etmək",
+     "usage": "Burada \"break\" isimdir",
+     "related_only": false
+    },
+    {
+     "en": "break a bone",
+     "az": "sümüyünü sındırmaq",
+     "usage": "bone = sümük",
+     "related_only": false
+    },
+    {
+     "en": "break the ice",
+     "az": "ilk addımı atıb soyuqluğu aradan qaldırmaq",
+     "usage": "İdiom; hərfi mənası: buzu sındırmaq",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Who broke the window?",
+     "az": "Pəncərəni kim sındırdı?"
+    },
+    {
+     "en": "Our car broke down on the way to Ganja.",
+     "az": "Maşınımız Gəncə yolunda xarab oldu."
+    },
+    {
+     "en": "Let's have a break for ten minutes.",
+     "az": "Gəlin, on dəqiqə fasilə edək."
+    },
+    {
+     "en": "He told a joke to break the ice.",
+     "az": "O, soyuqluğu aradan qaldırmaq üçün lətifə danışdı."
+    }
+   ],
+   "usage": [
+    "BREAK düzgün olmayan feldir: break – broke – broken. Fiziki mənada sındırmaq (break a window), məcazi mənada isə pozmaq deməkdir (break the law, break a rule, break a promise). \"Break down\" maşın və cihazlar haqqında, \"break up\" isə münasibətlər haqqında işlənir. BROKEN sifətdir: a broken window. İsim kimi BREAK qısa fasilədir: a lunch break."
+   ],
+   "new_items": [
+    "BREAK",
+    "broken",
+    "law",
+    "rule",
+    "record",
+    "bone",
+    "ice"
+   ]
+  },
+  {
+   "id": "A2-020",
+   "level": "A2",
+   "unit": "Change and movement",
+   "main_word": "GROW",
+   "pos": "verb",
+   "ipa_british": "ɡrəʊ",
+   "azerbaijani": "böyümək, bitmək; becərmək, yetişdirmək; artmaq",
+   "key_forms": "grow – grows – grew – grown – growing",
+   "word_family": {
+    "n": [
+     {
+      "form": "growth",
+      "az": "artım, böyümə"
+     },
+     {
+      "form": "grown-up",
+      "az": "böyük (yetkin adam)"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "grow up",
+     "az": "böyümək, boya-başa çatmaq",
+     "usage": "Frazeoloji fel; yalnız insanlar haqqında",
+     "related_only": false
+    },
+    {
+     "en": "grow plants",
+     "az": "bitki yetişdirmək",
+     "usage": "plant = bitki",
+     "related_only": false
+    },
+    {
+     "en": "grow tall",
+     "az": "boyu uzanmaq, hündür olmaq",
+     "usage": "tall = hündür (insan, ağac, bina)",
+     "related_only": false
+    },
+    {
+     "en": "grow fast",
+     "az": "sürətlə böyümək, sürətlə artmaq",
+     "usage": "\"fast\" həm sifət, həm zərfdir",
+     "related_only": false
+    },
+    {
+     "en": "grow a beard",
+     "az": "saqqal saxlamaq",
+     "usage": "beard /bɪəd/ = saqqal",
+     "related_only": false
+    },
+    {
+     "en": "grow tomatoes",
+     "az": "pomidor becərmək",
+     "usage": "Cəmi: tomatoes",
+     "related_only": false
+    },
+    {
+     "en": "grow potatoes",
+     "az": "kartof becərmək",
+     "usage": "Cəmi: potatoes",
+     "related_only": false
+    },
+    {
+     "en": "grow in size",
+     "az": "ölçücə böyümək",
+     "usage": "size = ölçü",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I grew up in a small village.",
+     "az": "Mən kiçik bir kənddə böyümüşəm."
+    },
+    {
+     "en": "My grandfather grows tomatoes and potatoes in his garden.",
+     "az": "Babam bağında pomidor və kartof becərir."
+    },
+    {
+     "en": "Children grow so fast.",
+     "az": "Uşaqlar çox sürətlə böyüyürlər."
+    },
+    {
+     "en": "The city is growing in size every year.",
+     "az": "Şəhər hər il daha da böyüyür."
+    }
+   ],
+   "usage": [
+    "GROW düzgün olmayan feldir: grow – grew – grown. Təsirsiz fel kimi \"böyümək, artmaq\" (Children grow), təsirli fel kimi \"becərmək, yetişdirmək\" deməkdir (grow tomatoes). GROW UP yalnız insanların yetkinləşməsi haqqında işlənir: I grew up in Baku. Uşaq böyütmək isə \"bring up\"dır. GROWTH isimdir və iqtisadi mətnlərdə çox rast gəlinir."
+   ],
+   "new_items": [
+    "GROW",
+    "growth",
+    "grown-up",
+    "plant",
+    "tall",
+    "fast",
+    "beard",
+    "tomato",
+    "potato",
+    "size"
+   ]
+  },
+  {
+   "id": "A2-021",
+   "level": "A2",
+   "unit": "Plans, choices and money",
+   "main_word": "PLAN",
+   "pos": "noun, verb",
+   "ipa_british": "plæn",
+   "azerbaijani": "plan; planlaşdırmaq",
+   "key_forms": "plan – plans – planned – planned – planning",
+   "word_family": {
+    "n": [
+     {
+      "form": "planning",
+      "az": "planlaşdırma"
+     },
+     {
+      "form": "planner",
+      "az": "planlaşdırıcı, plan dəftəri"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "plan a trip",
+     "az": "səfər planlaşdırmaq",
+     "usage": "trip = qısa səfər, gəzinti",
+     "related_only": false
+    },
+    {
+     "en": "plan ahead",
+     "az": "əvvəlcədən planlaşdırmaq",
+     "usage": "ahead = qabaqcadan",
+     "related_only": false
+    },
+    {
+     "en": "plan a wedding",
+     "az": "toy planlaşdırmaq",
+     "usage": "wedding = toy mərasimi",
+     "related_only": false
+    },
+    {
+     "en": "plan a journey",
+     "az": "səyahəti (yolu) planlaşdırmaq",
+     "usage": "journey = bir yerdən digərinə uzun yol",
+     "related_only": false
+    },
+    {
+     "en": "plan your future",
+     "az": "gələcəyini planlaşdırmaq",
+     "usage": "future = gələcək",
+     "related_only": false
+    },
+    {
+     "en": "plan an event",
+     "az": "tədbir planlaşdırmaq",
+     "usage": "event = tədbir; hadisə",
+     "related_only": false
+    },
+    {
+     "en": "plan a picnic",
+     "az": "piknik planlaşdırmaq",
+     "usage": "picnic = təbiət qoynunda yemək",
+     "related_only": false
+    },
+    {
+     "en": "a study plan",
+     "az": "dərs (hazırlıq) planı",
+     "usage": "study = oxumaq, öyrənmək; təhsil",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "We are planning a trip to Georgia.",
+     "az": "Biz Gürcüstana səfər planlaşdırırıq."
+    },
+    {
+     "en": "It is important to plan ahead.",
+     "az": "Əvvəlcədən planlaşdırmaq vacibdir."
+    },
+    {
+     "en": "I made a study plan for the exam.",
+     "az": "Mən imtahan üçün dərs planı hazırladım."
+    },
+    {
+     "en": "What are your plans for the weekend?",
+     "az": "Həftə sonu üçün planların nədir?"
+    }
+   ],
+   "usage": [
+    "PLAN həm isim, həm də feldir. Fel kimi son samit qoşalaşır: planned, planning. Qəliblər: plan + isim (plan a trip), plan + to + fel (I plan to study abroad), plan for + isim. TRIP qısa səfərdir, JOURNEY isə bir yerdən digərinə gedilən yoldur. Gələcək niyyət üçün həm \"I plan to ...\", həm də \"I'm planning to ...\" işlənir."
+   ],
+   "new_items": [
+    "PLAN",
+    "planning",
+    "planner",
+    "trip",
+    "wedding",
+    "journey",
+    "future",
+    "event",
+    "picnic",
+    "study"
+   ]
+  },
+  {
+   "id": "A2-022",
+   "level": "A2",
+   "unit": "Plans, choices and money",
+   "main_word": "CHOOSE",
+   "pos": "verb",
+   "ipa_british": "tʃuːz",
+   "azerbaijani": "seçmək",
+   "key_forms": "choose – chooses – chose – chosen – choosing",
+   "word_family": {
+    "n": [
+     {
+      "form": "choice",
+      "az": "seçim"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "choose a career",
+     "az": "peşə (karyera) seçmək",
+     "usage": "career = peşə yolu, karyera",
+     "related_only": false
+    },
+    {
+     "en": "choose between",
+     "az": "arasında seçim etmək",
+     "usage": "choose between A and B",
+     "related_only": false
+    },
+    {
+     "en": "choose a university",
+     "az": "universitet seçmək",
+     "usage": "\"a university\": söz /j/ səsi ilə başlayır",
+     "related_only": false
+    },
+    {
+     "en": "choose a course",
+     "az": "kurs seçmək",
+     "usage": "course = kurs; həmçinin: yemək növbəsi",
+     "related_only": false
+    },
+    {
+     "en": "choose a topic",
+     "az": "mövzu seçmək",
+     "usage": "topic = inşa və ya təqdimat mövzusu",
+     "related_only": false
+    },
+    {
+     "en": "choose an option",
+     "az": "variant seçmək",
+     "usage": "option = seçim variantı",
+     "related_only": false
+    },
+    {
+     "en": "have no choice",
+     "az": "başqa seçimi (çarəsi) olmamaq",
+     "usage": "\"choice\" isimdir",
+     "related_only": false
+    },
+    {
+     "en": "choose a design",
+     "az": "dizayn seçmək",
+     "usage": "design = dizayn, layihə",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "It is not easy to choose a career.",
+     "az": "Peşə seçmək asan deyil."
+    },
+    {
+     "en": "I had to choose between the two jobs.",
+     "az": "Mən iki iş arasında seçim etməli oldum."
+    },
+    {
+     "en": "Choose a topic and write a short essay.",
+     "az": "Bir mövzu seçin və qısa inşa yazın."
+    },
+    {
+     "en": "We had no choice. We had to wait.",
+     "az": "Bizim başqa çarəmiz yox idi. Gözləməli idik."
+    }
+   ],
+   "usage": [
+    "CHOOSE düzgün olmayan feldir: choose /tʃuːz/ – chose /tʃəʊz/ – chosen. Yazılışa diqqət edin: indiki zamanda iki \"o\", keçmiş zamanda bir \"o\". CHOICE isimdir: make a choice – seçim etmək. Qəliblər: choose + isim, choose + to + fel (She chose to stay), choose between A and B, choose from + bir neçə variant."
+   ],
+   "new_items": [
+    "CHOOSE",
+    "choice",
+    "career",
+    "university",
+    "course",
+    "topic",
+    "option",
+    "design"
+   ]
+  },
+  {
+   "id": "A2-023",
+   "level": "A2",
+   "unit": "Plans, choices and money",
+   "main_word": "PAY",
+   "pos": "verb, noun",
+   "ipa_british": "peɪ",
+   "azerbaijani": "ödəmək, pul vermək; maaş",
+   "key_forms": "pay – pays – paid – paid – paying",
+   "word_family": {
+    "n": [
+     {
+      "form": "payment",
+      "az": "ödəniş"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "paid",
+      "az": "ödənişli, haqqı ödənilən"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "pay cash",
+     "az": "nağd ödəmək",
+     "usage": "\"pay in cash\" də deyilir",
+     "related_only": false
+    },
+    {
+     "en": "pay attention",
+     "az": "diqqət yetirmək, fikir vermək",
+     "usage": "pay attention to + nə / kim",
+     "related_only": false
+    },
+    {
+     "en": "pay in advance",
+     "az": "əvvəlcədən ödəmək",
+     "usage": "in advance = qabaqcadan",
+     "related_only": false
+    },
+    {
+     "en": "pay tax",
+     "az": "vergi ödəmək",
+     "usage": "tax = vergi",
+     "related_only": false
+    },
+    {
+     "en": "pay a fine",
+     "az": "cərimə ödəmək",
+     "usage": "Burada \"fine\" isimdir: cərimə",
+     "related_only": false
+    },
+    {
+     "en": "pay back",
+     "az": "(borcu) qaytarmaq",
+     "usage": "Frazeoloji fel: pay the money back",
+     "related_only": false
+    },
+    {
+     "en": "pay a fee",
+     "az": "haqq (rüsum) ödəmək",
+     "usage": "fee = xidmət və ya təhsil haqqı",
+     "related_only": false
+    },
+    {
+     "en": "pay extra",
+     "az": "əlavə pul ödəmək",
+     "usage": "extra = əlavə",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Can I pay cash?",
+     "az": "Nağd ödəyə bilərəm?"
+    },
+    {
+     "en": "Please pay attention to the teacher.",
+     "az": "Zəhmət olmasa, müəllimə diqqət yetirin."
+    },
+    {
+     "en": "You have to pay in advance.",
+     "az": "Əvvəlcədən ödəməlisiniz."
+    },
+    {
+     "en": "I'll pay you back tomorrow.",
+     "az": "Sabah pulunu qaytaracağam."
+    }
+   ],
+   "usage": [
+    "PAY düzgün olmayan feldir: pay – paid – paid (yazılışa diqqət: \"payed\" deyil). Qəliblər: pay + məbləğ və ya hesab (pay the bill); pay FOR + alınan şey (pay for the tickets); pay + şəxs (pay the driver). \"Pay attention\" sabit birləşmədir və pulla əlaqəsi yoxdur. İsim kimi PAY maaş deməkdir və sayılmayandır. FEE xidmət haqqı, FINE cərimə, TAX isə vergidir."
+   ],
+   "new_items": [
+    "PAY",
+    "payment",
+    "paid",
+    "cash",
+    "attention",
+    "advance",
+    "tax",
+    "fine",
+    "fee",
+    "extra"
+   ]
+  },
+  {
+   "id": "A2-024",
+   "level": "A2",
+   "unit": "Plans, choices and money",
+   "main_word": "USE",
+   "pos": "verb, noun",
+   "ipa_british": "juːz (verb), juːs (noun)",
+   "azerbaijani": "istifadə etmək, işlətmək; istifadə",
+   "key_forms": "use – uses – used – used – using",
+   "word_family": {
+    "n": [
+     {
+      "form": "user",
+      "az": "istifadəçi"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "useful",
+      "az": "faydalı"
+     },
+     {
+      "form": "useless",
+      "az": "faydasız, yararsız"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "use the internet",
+     "az": "internetdən istifadə etmək",
+     "usage": "Adətən \"the\" ilə",
+     "related_only": false
+    },
+    {
+     "en": "use a dictionary",
+     "az": "lüğətdən istifadə etmək",
+     "usage": "dictionary = lüğət",
+     "related_only": false
+    },
+    {
+     "en": "use a tool",
+     "az": "alətdən istifadə etmək",
+     "usage": "tool = alət",
+     "related_only": false
+    },
+    {
+     "en": "use public transport",
+     "az": "ictimai nəqliyyatdan istifadə etmək",
+     "usage": "Sayılmayan isim: artiklsiz",
+     "related_only": false
+    },
+    {
+     "en": "use a knife",
+     "az": "bıçaq işlətmək",
+     "usage": "knife /naɪf/ – \"k\" oxunmur; cəmi: knives",
+     "related_only": false
+    },
+    {
+     "en": "use your brain",
+     "az": "başını işlətmək, ağlını işə salmaq",
+     "usage": "brain = beyin; danışıq dili",
+     "related_only": false
+    },
+    {
+     "en": "use social media",
+     "az": "sosial mediadan istifadə etmək",
+     "usage": "social = ictimai, sosial",
+     "related_only": false
+    },
+    {
+     "en": "use up",
+     "az": "işlədib qurtarmaq, tükətmək",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Do you use the internet every day?",
+     "az": "Sən hər gün internetdən istifadə edirsən?"
+    },
+    {
+     "en": "You can use a dictionary in the exam.",
+     "az": "İmtahanda lüğətdən istifadə edə bilərsiniz."
+    },
+    {
+     "en": "I use public transport to get to work.",
+     "az": "Mən işə getmək üçün ictimai nəqliyyatdan istifadə edirəm."
+    },
+    {
+     "en": "We have used up all the milk.",
+     "az": "Biz bütün südü işlədib qurtarmışıq."
+    }
+   ],
+   "usage": [
+    "USE fel kimi /juːz/, isim kimi /juːs/ tələffüz olunur. Azərbaycan dilində \"-dan istifadə etmək\" deyilir, ingilis dilində isə sözönü lazım deyil: use a dictionary (\"use from a dictionary\" səhvdir). USEFUL – faydalı, USELESS – faydasız deməkdir. \"Used to + fel\" qəlibi ayrıdır və keçmişdəki vərdişi bildirir: I used to live in Ganja – Əvvəllər Gəncədə yaşayırdım."
+   ],
+   "new_items": [
+    "USE",
+    "user",
+    "useful",
+    "useless",
+    "internet",
+    "dictionary",
+    "tool",
+    "public",
+    "transport",
+    "knife",
+    "brain",
+    "social",
+    "media"
+   ]
+  },
+  {
+   "id": "A2-025",
+   "level": "A2",
+   "unit": "Plans, choices and money",
+   "main_word": "PUT",
+   "pos": "verb",
+   "ipa_british": "pʊt",
+   "azerbaijani": "qoymaq",
+   "key_forms": "put – puts – put – put – putting",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "put on",
+     "az": "geyinmək, əyninə taxmaq",
+     "usage": "Frazeoloji fel; əksi: take off",
+     "related_only": false
+    },
+    {
+     "en": "put off",
+     "az": "təxirə salmaq",
+     "usage": "Frazeoloji fel: put off the meeting",
+     "related_only": false
+    },
+    {
+     "en": "put away",
+     "az": "yerinə yığmaq, yığışdırmaq",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "put out",
+     "az": "(yanğını, siqareti) söndürmək",
+     "usage": "Frazeoloji fel",
+     "related_only": false
+    },
+    {
+     "en": "put up with",
+     "az": "dözmək, tab gətirmək",
+     "usage": "Üçsözlü frazeoloji fel; danışıq dili",
+     "related_only": false
+    },
+    {
+     "en": "put the kettle on",
+     "az": "çaydanı qoymaq (su qaynatmaq)",
+     "usage": "Britaniya məişət ifadəsi",
+     "related_only": false
+    },
+    {
+     "en": "put sth in the fridge",
+     "az": "nəyisə soyuducuya qoymaq",
+     "usage": "fridge = soyuducu (danışıq forması)",
+     "related_only": false
+    },
+    {
+     "en": "put sth on the shelf",
+     "az": "nəyisə rəfə qoymaq",
+     "usage": "shelf = rəf; cəmi: shelves",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Put on your coat. It's cold outside.",
+     "az": "Paltonu geyin. Bayırda soyuqdur."
+    },
+    {
+     "en": "Don't put off your homework until tomorrow.",
+     "az": "Ev tapşırığını sabaha saxlama."
+    },
+    {
+     "en": "Please put your toys away.",
+     "az": "Zəhmət olmasa, oyuncaqlarını yığışdır."
+    },
+    {
+     "en": "I can't put up with this noise.",
+     "az": "Mən bu səs-küyə dözə bilmirəm."
+    }
+   ],
+   "usage": [
+    "PUT düzgün olmayan feldir və üç forması eynidir: put – put – put. PUT-dan sonra yer bildirilməlidir: put it ON the table, put it IN the fridge. Frazeoloji fellərdə məna tamamilə dəyişir: put on – geyinmək, put off – təxirə salmaq, put out – söndürmək, put up with – dözmək. \"Put on\" geyinmə hərəkətini, \"wear\" isə paltarın əynində olmasını bildirir."
+   ],
+   "new_items": [
+    "PUT",
+    "kettle",
+    "fridge",
+    "shelf"
+   ]
+  },
+  {
+   "id": "A2-026",
+   "level": "A2",
+   "unit": "Plans, choices and money",
+   "main_word": "STOP",
+   "pos": "verb, noun",
+   "ipa_british": "stɒp",
+   "azerbaijani": "dayanmaq, dayandırmaq; dayanacaq",
+   "key_forms": "stop – stops – stopped – stopped – stopping",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "non-stop",
+      "az": "fasiləsiz, dayanmadan"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "stop talking",
+     "az": "danışmağı dayandırmaq, susmaq",
+     "usage": "stop + fel + -ing; talk = söhbət etmək",
+     "related_only": false
+    },
+    {
+     "en": "stop smoking",
+     "az": "siqareti tərgitmək",
+     "usage": "smoke = siqaret çəkmək; tüstü",
+     "related_only": false
+    },
+    {
+     "en": "stop crying",
+     "az": "ağlamağı kəsmək",
+     "usage": "cry = ağlamaq",
+     "related_only": false
+    },
+    {
+     "en": "stop laughing",
+     "az": "gülməyi kəsmək",
+     "usage": "laugh /lɑːf/ = gülmək",
+     "related_only": false
+    },
+    {
+     "en": "stop for a rest",
+     "az": "dincəlmək üçün dayanmaq",
+     "usage": "rest = istirahət, dincəlmə",
+     "related_only": false
+    },
+    {
+     "en": "stop for petrol",
+     "az": "benzin doldurmaq üçün dayanmaq",
+     "usage": "Britaniyada \"petrol\", Amerikada \"gas\"",
+     "related_only": false
+    },
+    {
+     "en": "a full stop",
+     "az": "nöqtə (durğu işarəsi)",
+     "usage": "Britaniya termini; full = dolu, tam",
+     "related_only": false
+    },
+    {
+     "en": "stop shouting",
+     "az": "qışqırmağı dayandırmaq",
+     "usage": "shout = qışqırmaq",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Please stop talking and listen to me.",
+     "az": "Zəhmət olmasa, danışmağı dayandırın və mənə qulaq asın."
+    },
+    {
+     "en": "My father stopped smoking last year.",
+     "az": "Atam keçən il siqareti tərgitdi."
+    },
+    {
+     "en": "We stopped for a rest after two hours.",
+     "az": "İki saatdan sonra dincəlmək üçün dayandıq."
+    },
+    {
+     "en": "A sentence ends with a full stop.",
+     "az": "Cümlə nöqtə ilə bitir."
+    }
+   ],
+   "usage": [
+    "STOP-dan sonra gələn forma mənanı dəyişir: stop + fel + -ING = həmin işi görməyi dayandırmaq (He stopped smoking – siqareti tərgitdi); stop + TO + fel = başqa bir iş görmək üçün dayanmaq (He stopped to smoke – siqaret çəkmək üçün dayandı). Son samit qoşalaşır: stopped, stopping. İsim kimi STOP dayanacaqdır: a bus stop."
+   ],
+   "new_items": [
+    "STOP",
+    "non-stop",
+    "talking",
+    "smoking",
+    "crying",
+    "laughing",
+    "rest",
+    "petrol",
+    "full",
+    "shouting"
+   ]
+  },
+  {
+   "id": "A2-027",
+   "level": "A2",
+   "unit": "Plans, choices and money",
+   "main_word": "WIN",
+   "pos": "verb, noun",
+   "ipa_british": "wɪn",
+   "azerbaijani": "qalib gəlmək, udmaq, qazanmaq; qələbə",
+   "key_forms": "win – wins – won – won – winning",
+   "word_family": {
+    "n": [
+     {
+      "form": "winner",
+      "az": "qalib"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "win a prize",
+     "az": "mükafat (priz) qazanmaq",
+     "usage": "prize = müsabiqədə verilən mükafat",
+     "related_only": false
+    },
+    {
+     "en": "win a race",
+     "az": "yarışda (qaçışda) qalib gəlmək",
+     "usage": "race = sürət yarışı",
+     "related_only": false
+    },
+    {
+     "en": "win a medal",
+     "az": "medal qazanmaq",
+     "usage": "a gold / silver / bronze medal",
+     "related_only": false
+    },
+    {
+     "en": "win the lottery",
+     "az": "lotereya udmaq",
+     "usage": "Həmişə \"the\" ilə",
+     "related_only": false
+    },
+    {
+     "en": "win an award",
+     "az": "mükafata layiq görülmək",
+     "usage": "award = rəsmi mükafat (film, kitab üçün)",
+     "related_only": false
+    },
+    {
+     "en": "win the championship",
+     "az": "çempionatın qalibi olmaq",
+     "usage": "championship = çempionat",
+     "related_only": false
+    },
+    {
+     "en": "win the final",
+     "az": "finalda qalib gəlmək",
+     "usage": "final = final oyunu",
+     "related_only": false
+    },
+    {
+     "en": "win a contest",
+     "az": "müsabiqədə qalib gəlmək",
+     "usage": "contest = müsabiqə, yarışma",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "She won first prize in the contest.",
+     "az": "O, müsabiqədə birinci mükafatı qazandı."
+    },
+    {
+     "en": "Who won the race?",
+     "az": "Yarışda kim qalib gəldi?"
+    },
+    {
+     "en": "Our team won the final 3–0.",
+     "az": "Komandamız finalda 3–0 hesabı ilə qalib gəldi."
+    },
+    {
+     "en": "What would you do if you won the lottery?",
+     "az": "Lotereya udsaydın, nə edərdin?"
+    }
+   ],
+   "usage": [
+    "WIN düzgün olmayan feldir: win – won – won (/wʌn/ – \"one\" sözü kimi tələffüz olunur). WIN oyun, yarış və ya mükafat ilə işlənir: win a match, win a prize. Rəqib haqqında isə BEAT işlənir: \"We beat them\" (\"We won them\" səhvdir). PRIZE yarışda qazanılan mükafat, AWARD isə nailiyyətə görə rəsmi verilən mükafatdır. Əksi: lose."
+   ],
+   "new_items": [
+    "WIN",
+    "winner",
+    "prize",
+    "race",
+    "medal",
+    "lottery",
+    "award",
+    "championship",
+    "final",
+    "contest"
+   ]
+  },
+  {
+   "id": "A2-028",
+   "level": "A2",
+   "unit": "Feelings and thoughts",
+   "main_word": "FEEL",
+   "pos": "verb",
+   "ipa_british": "fiːl",
+   "azerbaijani": "hiss etmək, duymaq; özünü ... hiss etmək",
+   "key_forms": "feel – feels – felt – felt – feeling",
+   "word_family": {
+    "n": [
+     {
+      "form": "feeling",
+      "az": "hiss, duyğu"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "feel sick",
+     "az": "ürəyi bulanmaq; özünü xəstə hiss etmək",
+     "usage": "Britaniyada əsasən: ürəkbulanma",
+     "related_only": false
+    },
+    {
+     "en": "feel hungry",
+     "az": "aclıq hiss etmək, acmaq",
+     "usage": "hungry = ac",
+     "related_only": false
+    },
+    {
+     "en": "feel thirsty",
+     "az": "susamaq",
+     "usage": "thirsty = susuz",
+     "related_only": false
+    },
+    {
+     "en": "feel sorry",
+     "az": "təəssüflənmək, heyfsilənmək",
+     "usage": "feel sorry for + kim = kiməsə yazığı gəlmək",
+     "related_only": false
+    },
+    {
+     "en": "feel lonely",
+     "az": "özünü tənha hiss etmək",
+     "usage": "lonely = tənha, kimsəsiz",
+     "related_only": false
+    },
+    {
+     "en": "feel nervous",
+     "az": "həyəcanlanmaq, narahat olmaq",
+     "usage": "nervous = həyəcanlı (\"əsəbi\" deyil!)",
+     "related_only": false
+    },
+    {
+     "en": "feel comfortable",
+     "az": "özünü rahat hiss etmək",
+     "usage": "comfortable = rahat",
+     "related_only": false
+    },
+    {
+     "en": "feel like",
+     "az": "istəmək, könlü çəkmək",
+     "usage": "feel like + isim / fel + -ing",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I feel sick. I need some fresh air.",
+     "az": "Ürəyim bulanır. Mənə təmiz hava lazımdır."
+    },
+    {
+     "en": "I always feel nervous before exams.",
+     "az": "Mən imtahanlardan əvvəl həmişə həyəcanlanıram."
+    },
+    {
+     "en": "She felt lonely in the new city.",
+     "az": "O, yeni şəhərdə özünü tənha hiss edirdi."
+    },
+    {
+     "en": "I feel like going for a walk.",
+     "az": "Gəzməyə getmək istəyirəm."
+    }
+   ],
+   "usage": [
+    "FEEL düzgün olmayan feldir: feel – felt – felt. FEEL-dən sonra zərf yox, sifət gəlir: I feel good / tired / nervous. Azərbaycan dilindən fərqli olaraq, qayıdış əvəzliyi lazım deyil: \"I feel well\" (\"I feel myself well\" səhvdir). NERVOUS \"həyəcanlı, narahat\" deməkdir; \"əsəbi, hirsli\" üçün \"angry\" işlənir. \"Feel like + -ing\" danışıqda istək bildirir."
+   ],
+   "new_items": [
+    "FEEL",
+    "feeling",
+    "sick",
+    "hungry",
+    "thirsty",
+    "sorry",
+    "lonely",
+    "nervous",
+    "comfortable"
+   ]
+  },
+  {
+   "id": "A2-029",
+   "level": "A2",
+   "unit": "Feelings and thoughts",
+   "main_word": "THINK",
+   "pos": "verb",
+   "ipa_british": "θɪŋk",
+   "azerbaijani": "düşünmək, fikirləşmək; zənn etmək",
+   "key_forms": "think – thinks – thought – thought – thinking",
+   "word_family": {
+    "n": [
+     {
+      "form": "thought",
+      "az": "fikir, düşüncə"
+     },
+     {
+      "form": "thinker",
+      "az": "mütəfəkkir"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "thoughtful",
+      "az": "diqqətcil, qayğıkeş, həmçinin fikirli"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "think about",
+     "az": "barəsində düşünmək, götür-qoy etmək",
+     "usage": "think about + isim / fel + -ing",
+     "related_only": false
+    },
+    {
+     "en": "think of",
+     "az": "ağlına gətirmək; haqqında fikirdə olmaq",
+     "usage": "What do you think of ...? = ... haqqında nə düşünürsən?",
+     "related_only": false
+    },
+    {
+     "en": "think twice",
+     "az": "yaxşı-yaxşı düşünmək, ölçüb-biçmək",
+     "usage": "twice = iki dəfə",
+     "related_only": false
+    },
+    {
+     "en": "think positive",
+     "az": "müsbət düşünmək",
+     "usage": "positive = müsbət; danışıq ifadəsi",
+     "related_only": false
+    },
+    {
+     "en": "think it over",
+     "az": "götür-qoy etmək, ətraflı düşünmək",
+     "usage": "Frazeoloji fel; qərardan əvvəl",
+     "related_only": false
+    },
+    {
+     "en": "I think so",
+     "az": "məncə, elədir; deyəsən, hə",
+     "usage": "İnkarı: I don't think so",
+     "related_only": false
+    },
+    {
+     "en": "think deeply",
+     "az": "dərindən düşünmək",
+     "usage": "deep (dərin) + -ly",
+     "related_only": false
+    },
+    {
+     "en": "on second thoughts",
+     "az": "bir də fikirləşəndə (fikrimi dəyişdim)",
+     "usage": "Britaniya idiomu",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "What are you thinking about?",
+     "az": "Nə barədə düşünürsən?"
+    },
+    {
+     "en": "What do you think of my new haircut?",
+     "az": "Yeni saç düzümüm haqqında nə düşünürsən?"
+    },
+    {
+     "en": "Think twice before you answer.",
+     "az": "Cavab verməzdən əvvəl yaxşı-yaxşı düşün."
+    },
+    {
+     "en": "Is it going to rain? – I think so.",
+     "az": "Yağış yağacaq? – Deyəsən, hə."
+    }
+   ],
+   "usage": [
+    "THINK düzgün olmayan feldir: think – thought – thought (/θɔːt/). Fikir bildirmək mənasında davamedici zamanda işlənmir: \"I think you are right\" (\"I am thinking you are right\" səhvdir). Düşünmə prosesi üçün isə davamedici zaman mümkündür: I'm thinking about the problem. İnkar əsas feldə olur: I don't think he is at home. /θ/ səsi dilin ucu dişlərin arasında tələffüz olunur."
+   ],
+   "new_items": [
+    "THINK",
+    "thought",
+    "thinker",
+    "thoughtful",
+    "twice",
+    "positive",
+    "deeply"
+   ]
+  },
+  {
+   "id": "A2-030",
+   "level": "A2",
+   "unit": "Feelings and thoughts",
+   "main_word": "ENJOY",
+   "pos": "verb",
+   "ipa_british": "ɪnˈdʒɔɪ",
+   "azerbaijani": "zövq almaq, həzz almaq, xoşlanmaq",
+   "key_forms": "enjoy – enjoys – enjoyed – enjoyed – enjoying",
+   "word_family": {
+    "n": [
+     {
+      "form": "enjoyment",
+      "az": "zövq, həzz"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "enjoyable",
+      "az": "xoş, zövq verən"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "enjoy yourself",
+     "az": "əylənmək, vaxtını xoş keçirmək",
+     "usage": "Qayıdış əvəzliyi ilə",
+     "related_only": false
+    },
+    {
+     "en": "enjoy the view",
+     "az": "mənzərədən zövq almaq",
+     "usage": "view = mənzərə; həmçinin: baxış, fikir",
+     "related_only": false
+    },
+    {
+     "en": "enjoy the sunshine",
+     "az": "günəşli havadan həzz almaq",
+     "usage": "sunshine = günəş işığı",
+     "related_only": false
+    },
+    {
+     "en": "enjoy a concert",
+     "az": "konsertdən zövq almaq",
+     "usage": "concert = konsert",
+     "related_only": false
+    },
+    {
+     "en": "enjoy dancing",
+     "az": "rəqs etməyi sevmək",
+     "usage": "enjoy + fel + -ing; dance = rəqs etmək",
+     "related_only": false
+    },
+    {
+     "en": "enjoy nature",
+     "az": "təbiətdən zövq almaq",
+     "usage": "Artiklsiz: \"the nature\" deyilmir",
+     "related_only": false
+    },
+    {
+     "en": "really enjoy",
+     "az": "çox bəyənmək, əsl zövq almaq",
+     "usage": "really = həqiqətən, çox",
+     "related_only": false
+    },
+    {
+     "en": "enjoy singing",
+     "az": "mahnı oxumağı sevmək",
+     "usage": "sing – sang – sung",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Did you enjoy yourself at the party?",
+     "az": "Qonaqlıqda yaxşı əyləndin?"
+    },
+    {
+     "en": "We sat on the balcony and enjoyed the view.",
+     "az": "Biz eyvanda oturub mənzərədən zövq aldıq."
+    },
+    {
+     "en": "I really enjoyed the film.",
+     "az": "Film çox xoşuma gəldi."
+    },
+    {
+     "en": "She enjoys dancing and singing.",
+     "az": "O, rəqs etməyi və mahnı oxumağı sevir."
+    }
+   ],
+   "usage": [
+    "ENJOY-dan sonra həmişə obyekt gəlməlidir: isim (enjoy the film), fel + -ING (enjoy dancing) və ya qayıdış əvəzliyi (enjoy yourself). \"Enjoy to dance\" səhvdir. Obyektsiz \"I enjoyed\" deyilmir – \"I enjoyed it\" və ya \"I enjoyed myself\" deyilir. Yemək verilərkən \"Enjoy your meal!\" deyilir. ENJOYABLE sifətdir: an enjoyable evening."
+   ],
+   "new_items": [
+    "ENJOY",
+    "enjoyment",
+    "enjoyable",
+    "view",
+    "sunshine",
+    "concert",
+    "dancing",
+    "nature",
+    "really",
+    "singing"
+   ]
+  },
+  {
+   "id": "A2-031",
+   "level": "A2",
+   "unit": "Feelings and thoughts",
+   "main_word": "HOPE",
+   "pos": "verb, noun",
+   "ipa_british": "həʊp",
+   "azerbaijani": "ümid etmək; ümid",
+   "key_forms": "hope – hopes – hoped – hoped – hoping",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "hopeful",
+      "az": "ümidli"
+     },
+     {
+      "form": "hopeless",
+      "az": "ümidsiz, çarəsiz"
+     }
+    ],
+    "adv": [
+     {
+      "form": "hopefully",
+      "az": "ümid edirəm ki, inşallah"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "I hope so",
+     "az": "ümid edirəm ki, elədir",
+     "usage": "Müsbət qısa cavab",
+     "related_only": false
+    },
+    {
+     "en": "I hope not",
+     "az": "ümid edirəm ki, yox",
+     "usage": "\"I don't hope so\" deyilmir",
+     "related_only": false
+    },
+    {
+     "en": "hope to hear from you",
+     "az": "sizdən xəbər gözləyirəm",
+     "usage": "Məktubun sonunda; hear = eşitmək",
+     "related_only": false
+    },
+    {
+     "en": "high hopes",
+     "az": "böyük ümidlər",
+     "usage": "have high hopes for + kim / nə",
+     "related_only": false
+    },
+    {
+     "en": "in the hope of",
+     "az": "nəyinsə ümidi ilə",
+     "usage": "in the hope of + fel + -ing",
+     "related_only": false
+    },
+    {
+     "en": "my only hope",
+     "az": "yeganə ümidim",
+     "usage": "only = yeganə; yalnız",
+     "related_only": false
+    },
+    {
+     "en": "false hope",
+     "az": "əsassız ümid, boş ümid",
+     "usage": "false = yalan, saxta",
+     "related_only": false
+    },
+    {
+     "en": "there is still hope",
+     "az": "hələ ümid var",
+     "usage": "still = hələ, hələ də",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Will she come? – I hope so.",
+     "az": "O gələcək? – Ümid edirəm ki, hə."
+    },
+    {
+     "en": "I hope to hear from you soon.",
+     "az": "Tezliklə sizdən xəbər gözləyirəm."
+    },
+    {
+     "en": "You are my only hope.",
+     "az": "Sən mənim yeganə ümidimsən."
+    },
+    {
+     "en": "Don't give up. There is still hope.",
+     "az": "Təslim olma. Hələ ümid var."
+    }
+   ],
+   "usage": [
+    "HOPE gələcəkdə mümkün olan bir şeyi arzulamaqdır. Qəliblər: hope + (that) + cümlə (I hope you are well), hope + to + fel (I hope to see you), hope for + isim. Gələcək məna üçün çox vaxt indiki zaman işlənir: I hope it doesn't rain tomorrow. HOPE real imkanı, WISH isə qeyri-real və ya çətin arzunu bildirir. Qısa cavablar: \"I hope so\" və \"I hope not\"."
+   ],
+   "new_items": [
+    "HOPE",
+    "hopeful",
+    "hopeless",
+    "hopefully",
+    "hear",
+    "high",
+    "only",
+    "false",
+    "still"
+   ]
+  },
+  {
+   "id": "A2-032",
+   "level": "A2",
+   "unit": "Feelings and thoughts",
+   "main_word": "WORRY",
+   "pos": "verb, noun",
+   "ipa_british": "ˈwʌri",
+   "azerbaijani": "narahat olmaq, nigaran qalmaq; narahatlıq, qayğı",
+   "key_forms": "worry – worries – worried – worried – worrying",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "worried",
+      "az": "narahat, nigaran"
+     },
+     {
+      "form": "worrying",
+      "az": "narahatedici"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "don't worry",
+     "az": "narahat olma",
+     "usage": "Ən çox işlənən təsəlli ifadəsi",
+     "related_only": false
+    },
+    {
+     "en": "worry about",
+     "az": "barəsində narahat olmaq",
+     "usage": "worry about + isim / fel + -ing",
+     "related_only": false
+    },
+    {
+     "en": "nothing to worry about",
+     "az": "narahat olmağa dəyməz",
+     "usage": "Təsəlli verərkən",
+     "related_only": false
+    },
+    {
+     "en": "worry too much",
+     "az": "həddindən artıq narahat olmaq",
+     "usage": "too much = lazım olandan çox",
+     "related_only": false
+    },
+    {
+     "en": "the main worry",
+     "az": "əsas narahatlıq, başlıca qayğı",
+     "usage": "main = əsas; burada \"worry\" isimdir",
+     "related_only": false
+    },
+    {
+     "en": "slightly worried",
+     "az": "bir qədər narahat",
+     "usage": "slightly = azca, bir qədər",
+     "related_only": false
+    },
+    {
+     "en": "terribly worried",
+     "az": "olduqca narahat, çox nigaran",
+     "usage": "terribly = dəhşətli dərəcədə (gücləndirici)",
+     "related_only": false
+    },
+    {
+     "en": "worry about the kids",
+     "az": "uşaqlara görə narahat olmaq",
+     "usage": "kid = uşaq (danışıq dili)",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Don't worry. Everything will be fine.",
+     "az": "Narahat olma. Hər şey yaxşı olacaq."
+    },
+    {
+     "en": "My mother worries about me all the time.",
+     "az": "Anam həmişə mənə görə narahat olur."
+    },
+    {
+     "en": "It's nothing to worry about.",
+     "az": "Narahat olmağa dəyməz."
+    },
+    {
+     "en": "I'm slightly worried about the exam.",
+     "az": "Mən imtahana görə bir qədər narahatam."
+    }
+   ],
+   "usage": [
+    "WORRY fel kimi \"narahat olmaq\" deməkdir və ABOUT sözönüsü ilə işlənir: worry about money. WORRIED sifətdir və insanın halını bildirir (I am worried); WORRYING isə narahatlıq doğuran şey haqqında deyilir (worrying news). İsim kimi həm sayılan (my main worry), həm də sayılmayan ola bilər. Tələffüzə diqqət: /ˈwʌri/ – birinci sait \"cup\" sözündəki kimidir."
+   ],
+   "new_items": [
+    "WORRY",
+    "worried",
+    "worrying",
+    "main",
+    "slightly",
+    "terribly",
+    "kid"
+   ]
+  },
+  {
+   "id": "A2-033",
+   "level": "A2",
+   "unit": "Health and sport",
+   "main_word": "HEALTH",
+   "pos": "noun",
+   "ipa_british": "helθ",
+   "azerbaijani": "sağlamlıq, səhhət",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "healthy",
+      "az": "sağlam, sağlamlığa faydalı"
+     },
+     {
+      "form": "unhealthy",
+      "az": "qeyri-sağlam, zərərli"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "damage your health",
+     "az": "sağlamlığına ziyan vurmaq",
+     "usage": "damage = ziyan vurmaq; zərər",
+     "related_only": false
+    },
+    {
+     "en": "mental health",
+     "az": "psixi sağlamlıq, ruhi sağlamlıq",
+     "usage": "mental = əqli, psixi",
+     "related_only": false
+    },
+    {
+     "en": "a healthy diet",
+     "az": "sağlam qidalanma (rasion)",
+     "usage": "diet = qida rasionu; pəhriz",
+     "related_only": false
+    },
+    {
+     "en": "a healthy lifestyle",
+     "az": "sağlam həyat tərzi",
+     "usage": "lifestyle = həyat tərzi",
+     "related_only": false
+    },
+    {
+     "en": "health service",
+     "az": "səhiyyə xidməti",
+     "usage": "Britaniyada: the National Health Service (NHS)",
+     "related_only": false
+    },
+    {
+     "en": "health insurance",
+     "az": "tibbi sığorta",
+     "usage": "insurance = sığorta",
+     "related_only": false
+    },
+    {
+     "en": "physical health",
+     "az": "fiziki sağlamlıq",
+     "usage": "physical = fiziki, bədənlə bağlı",
+     "related_only": false
+    },
+    {
+     "en": "a health check",
+     "az": "tibbi müayinə, sağlamlıq yoxlanışı",
+     "usage": "check = yoxlama",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Smoking can damage your health.",
+     "az": "Siqaret çəkmək sağlamlığınıza ziyan vura bilər."
+    },
+    {
+     "en": "Sport is good for your physical and mental health.",
+     "az": "İdman fiziki və psixi sağlamlığınız üçün faydalıdır."
+    },
+    {
+     "en": "A healthy diet includes a lot of fruit and vegetables.",
+     "az": "Sağlam qidalanmaya çoxlu meyvə və tərəvəz daxildir."
+    },
+    {
+     "en": "Do you have health insurance?",
+     "az": "Sizin tibbi sığortanız var?"
+    }
+   ],
+   "usage": [
+    "HEALTH sayılmayan isimdir: \"a health\" deyilmir. HEALTHY sifətdir: a healthy child, healthy food. \"In good health\" – səhhəti yaxşı, \"in poor health\" – səhhəti pis deməkdir. DIET həm gündəlik qida rasionu, həm də pəhriz mənasındadır: be on a diet – pəhriz saxlamaq. Asqıran adama ingiliscə \"Bless you!\" deyilir."
+   ],
+   "new_items": [
+    "HEALTH",
+    "healthy",
+    "unhealthy",
+    "damage",
+    "mental",
+    "diet",
+    "lifestyle",
+    "service",
+    "insurance",
+    "physical",
+    "check"
+   ]
+  },
+  {
+   "id": "A2-034",
+   "level": "A2",
+   "unit": "Health and sport",
+   "main_word": "SPORT",
+   "pos": "noun",
+   "ipa_british": "spɔːt",
+   "azerbaijani": "idman; idman növü",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "sporty",
+      "az": "idmansevər, idmançı görkəmli"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "do sport",
+     "az": "idmanla məşğul olmaq",
+     "usage": "Britaniyada \"do sport\", Amerikada \"play sports\"",
+     "related_only": false
+    },
+    {
+     "en": "a team sport",
+     "az": "komanda idman növü",
+     "usage": "team = komanda",
+     "related_only": false
+    },
+    {
+     "en": "winter sports",
+     "az": "qış idman növləri",
+     "usage": "winter = qış",
+     "related_only": false
+    },
+    {
+     "en": "a sports club",
+     "az": "idman klubu",
+     "usage": "Təyinedici kimi cəmdə: sports",
+     "related_only": false
+    },
+    {
+     "en": "sports equipment",
+     "az": "idman avadanlığı (ləvazimatı)",
+     "usage": "\"equipment\" sayılmayan isimdir",
+     "related_only": false
+    },
+    {
+     "en": "extreme sports",
+     "az": "ekstremal idman növləri",
+     "usage": "extreme = ifrat, son dərəcə",
+     "related_only": false
+    },
+    {
+     "en": "a sports fan",
+     "az": "idman azarkeşi",
+     "usage": "fan = azarkeş, pərəstişkar",
+     "related_only": false
+    },
+    {
+     "en": "a sports stadium",
+     "az": "idman stadionu",
+     "usage": "stadium = stadion",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Do you do any sport?",
+     "az": "Hər hansı idmanla məşğul olursan?"
+    },
+    {
+     "en": "Football is a team sport.",
+     "az": "Futbol komanda idman növüdür."
+    },
+    {
+     "en": "I joined a sports club last month.",
+     "az": "Mən keçən ay idman klubuna yazıldım."
+    },
+    {
+     "en": "My brother is a big sports fan.",
+     "az": "Qardaşım böyük idman azarkeşidir."
+    }
+   ],
+   "usage": [
+    "SPORT Britaniya ingiliscəsində ümumi mənada sayılmayan isimdir (I like sport), konkret idman növü kimi isə sayılandır (Tennis is a popular sport). Başqa isimdən əvvəl cəm forması işlənir: a sports club, sports equipment. Fellərə diqqət: PLAY – toplu oyunlar (play football), GO – \"-ing\" ilə bitən növlər (go swimming), DO – digərləri (do karate, do gymnastics)."
+   ],
+   "new_items": [
+    "SPORT",
+    "sporty",
+    "team",
+    "winter",
+    "club",
+    "equipment",
+    "extreme",
+    "fan",
+    "stadium"
+   ]
+  },
+  {
+   "id": "A2-035",
+   "level": "A2",
+   "unit": "Describing and comparing",
+   "main_word": "EASY",
+   "pos": "adjective",
+   "ipa_british": "ˈiːzi",
+   "azerbaijani": "asan, rahat",
+   "key_forms": "easy – easier – the easiest",
+   "word_family": {
+    "n": [
+     {
+      "form": "ease",
+      "az": "asanlıq, rahatlıq"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "easily",
+      "az": "asanlıqla"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "an easy task",
+     "az": "asan tapşırıq, asan iş",
+     "usage": "task = tapşırıq, görüləcək iş",
+     "related_only": false
+    },
+    {
+     "en": "fairly easy",
+     "az": "kifayət qədər asan",
+     "usage": "fairly = xeyli, kifayət qədər (orta dərəcə)",
+     "related_only": false
+    },
+    {
+     "en": "pretty easy",
+     "az": "olduqca asan",
+     "usage": "Burada \"pretty\" zərfdir; qeyri-rəsmi",
+     "related_only": false
+    },
+    {
+     "en": "easy to reach",
+     "az": "çatmaq asan olan",
+     "usage": "reach = çatmaq",
+     "related_only": false
+    },
+    {
+     "en": "an easy exercise",
+     "az": "asan çalışma (məşq)",
+     "usage": "exercise = çalışma; fiziki məşq",
+     "related_only": false
+    },
+    {
+     "en": "easy to follow",
+     "az": "başa düşmək (izləmək) asan olan",
+     "usage": "follow = izləmək, ardınca getmək",
+     "related_only": false
+    },
+    {
+     "en": "far from easy",
+     "az": "heç də asan deyil",
+     "usage": "far from + sifət = heç də ... deyil",
+     "related_only": false
+    },
+    {
+     "en": "an easy test",
+     "az": "asan test, asan yoxlama",
+     "usage": "test = yoxlama, sınaq",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The first exercise was very easy.",
+     "az": "Birinci çalışma çox asan idi."
+    },
+    {
+     "en": "The instructions are clear and easy to follow.",
+     "az": "Təlimat aydındır və başa düşmək asandır."
+    },
+    {
+     "en": "The hotel is easy to reach by bus.",
+     "az": "Mehmanxanaya avtobusla çatmaq asandır."
+    },
+    {
+     "en": "Learning a language is far from easy.",
+     "az": "Dil öyrənmək heç də asan deyil."
+    }
+   ],
+   "usage": [
+    "EASY sifətdir, EASILY isə zərfdir: \"an easy question\" – \"She answered easily\". Müqayisə dərəcələri: easy – easier – the easiest. Qəlib: easy + to + fel (easy to use, easy to follow). FAIRLY və PRETTY sifətin dərəcəsini bildirir: \"fairly easy\" – kifayət qədər asan, \"pretty easy\" – olduqca asan (danışıq dili). Əksi: difficult və ya hard."
+   ],
+   "new_items": [
+    "EASY",
+    "ease",
+    "easily",
+    "task",
+    "fairly",
+    "pretty",
+    "reach",
+    "exercise",
+    "follow",
+    "far",
+    "test"
+   ]
+  },
+  {
+   "id": "A2-036",
+   "level": "A2",
+   "unit": "Describing and comparing",
+   "main_word": "DIFFERENT",
+   "pos": "adjective",
+   "ipa_british": "ˈdɪfərənt, ˈdɪfrənt",
+   "azerbaijani": "fərqli, başqa, müxtəlif",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "difference",
+      "az": "fərq"
+     }
+    ],
+    "v": [
+     {
+      "form": "differ",
+      "az": "fərqlənmək"
+     }
+    ],
+    "adj": [],
+    "adv": [
+     {
+      "form": "differently",
+      "az": "fərqli şəkildə, başqa cür"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "different from",
+     "az": "nədənsə fərqli",
+     "usage": "Britaniyada \"different to\" da deyilir",
+     "related_only": false
+    },
+    {
+     "en": "a different kind",
+     "az": "başqa növ, fərqli cür",
+     "usage": "kind = növ, cür; a kind of + isim",
+     "related_only": false
+    },
+    {
+     "en": "different cultures",
+     "az": "müxtəlif mədəniyyətlər",
+     "usage": "culture = mədəniyyət",
+     "related_only": false
+    },
+    {
+     "en": "different types",
+     "az": "müxtəlif növlər, tiplər",
+     "usage": "type = tip, növ",
+     "related_only": false
+    },
+    {
+     "en": "totally different",
+     "az": "tamamilə fərqli",
+     "usage": "totally = tamamilə (danışıqda çox işlənir)",
+     "related_only": false
+    },
+    {
+     "en": "different shapes",
+     "az": "müxtəlif formalar",
+     "usage": "shape = forma, biçim",
+     "related_only": false
+    },
+    {
+     "en": "different levels",
+     "az": "müxtəlif səviyyələr",
+     "usage": "level = səviyyə",
+     "related_only": false
+    },
+    {
+     "en": "different meanings",
+     "az": "müxtəlif mənalar",
+     "usage": "meaning = məna",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "My sister is very different from me.",
+     "az": "Bacım məndən çox fərqlidir."
+    },
+    {
+     "en": "People from different cultures live in this city.",
+     "az": "Bu şəhərdə müxtəlif mədəniyyətlərdən olan insanlar yaşayır."
+    },
+    {
+     "en": "This word has two different meanings.",
+     "az": "Bu sözün iki fərqli mənası var."
+    },
+    {
+     "en": "Life in a village is totally different.",
+     "az": "Kənddə həyat tamamilə fərqlidir."
+    }
+   ],
+   "usage": [
+    "DIFFERENT iki mənada işlənir: 1) \"fərqli, oxşamayan\" – different FROM (My car is different from yours); 2) \"müxtəlif, ayrı-ayrı\" – cəm isimlə (different countries). \"Different than\" Amerika variantıdır. DIFFERENCE isimdir: the difference between A and B – A ilə B arasındakı fərq. DIFFER feldir və rəsmi üsluba aiddir: Opinions differ."
+   ],
+   "new_items": [
+    "DIFFERENT",
+    "difference",
+    "differ",
+    "differently",
+    "kind",
+    "culture",
+    "type",
+    "totally",
+    "shape",
+    "level",
+    "meaning"
+   ]
+  },
+  {
+   "id": "A2-037",
+   "level": "A2",
+   "unit": "Describing and comparing",
+   "main_word": "IMPORTANT",
+   "pos": "adjective",
+   "ipa_british": "ɪmˈpɔːtənt",
+   "azerbaijani": "vacib, mühüm, əhəmiyyətli",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "importance",
+      "az": "əhəmiyyət, vaciblik"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "unimportant",
+      "az": "əhəmiyyətsiz"
+     }
+    ],
+    "adv": [
+     {
+      "form": "importantly",
+      "az": "ən əsası, mühüm olanı"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "an important role",
+     "az": "mühüm rol",
+     "usage": "play an important role in + nə",
+     "related_only": false
+    },
+    {
+     "en": "an important point",
+     "az": "vacib məqam, mühüm fikir",
+     "usage": "point = məqam; nöqtə; xal",
+     "related_only": false
+    },
+    {
+     "en": "the most important thing",
+     "az": "ən vacib şey, ən başlıcası",
+     "usage": "thing = şey",
+     "related_only": false
+    },
+    {
+     "en": "an important step",
+     "az": "mühüm addım",
+     "usage": "step = addım; pillə",
+     "related_only": false
+    },
+    {
+     "en": "especially important",
+     "az": "xüsusilə vacib",
+     "usage": "especially = xüsusilə",
+     "related_only": false
+    },
+    {
+     "en": "an important discovery",
+     "az": "mühüm kəşf",
+     "usage": "discovery = kəşf",
+     "related_only": false
+    },
+    {
+     "en": "an important guest",
+     "az": "hörmətli (vacib) qonaq",
+     "usage": "guest = qonaq",
+     "related_only": false
+    },
+    {
+     "en": "equally important",
+     "az": "eyni dərəcədə vacib",
+     "usage": "equally = bərabər şəkildə",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "It is important to drink enough water.",
+     "az": "Kifayət qədər su içmək vacibdir."
+    },
+    {
+     "en": "Parents play an important role in a child's life.",
+     "az": "Valideynlər uşağın həyatında mühüm rol oynayırlar."
+    },
+    {
+     "en": "The most important thing is your health.",
+     "az": "Ən vacib şey sənin sağlamlığındır."
+    },
+    {
+     "en": "Sleep is especially important for children.",
+     "az": "Yuxu uşaqlar üçün xüsusilə vacibdir."
+    }
+   ],
+   "usage": [
+    "IMPORTANT çoxhecalı sifətdir, ona görə müqayisə dərəcələri \"more\" və \"most\" ilə düzəlir: more important, the most important. Qəliblər: It is important TO + fel (It is important to listen); important FOR + şəxs; important TO + şəxs (şəxsi dəyər: My family is important to me). IMPORTANCE isimdir: the importance of education. \"Most importantly, ...\" fikri vurğulamaq üçün cümlənin əvvəlində işlənir."
+   ],
+   "new_items": [
+    "IMPORTANT",
+    "importance",
+    "unimportant",
+    "importantly",
+    "role",
+    "point",
+    "thing",
+    "step",
+    "especially",
+    "discovery",
+    "guest",
+    "equally"
+   ]
+  },
+  {
+   "id": "A2-038",
+   "level": "A2",
+   "unit": "Describing and comparing",
+   "main_word": "SAFE",
+   "pos": "adjective",
+   "ipa_british": "seɪf",
+   "azerbaijani": "təhlükəsiz, salamat; etibarlı",
+   "key_forms": "safe – safer – the safest",
+   "word_family": {
+    "n": [
+     {
+      "form": "safety",
+      "az": "təhlükəsizlik"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "unsafe",
+      "az": "təhlükəli, etibarsız"
+     }
+    ],
+    "adv": [
+     {
+      "form": "safely",
+      "az": "sağ-salamat, təhlükəsiz şəkildə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "safe and sound",
+     "az": "sağ-salamat",
+     "usage": "İdiom; sözlərin sırası dəyişmir",
+     "related_only": false
+    },
+    {
+     "en": "safe from harm",
+     "az": "ziyandan (təhlükədən) qorunmuş",
+     "usage": "harm = zərər, ziyan",
+     "related_only": false
+    },
+    {
+     "en": "a safe distance",
+     "az": "təhlükəsiz məsafə",
+     "usage": "distance = məsafə",
+     "related_only": false
+    },
+    {
+     "en": "perfectly safe",
+     "az": "tamamilə təhlükəsiz",
+     "usage": "perfectly = tamamilə, mükəmməl şəkildə",
+     "related_only": false
+    },
+    {
+     "en": "a safe area",
+     "az": "təhlükəsiz ərazi (zona)",
+     "usage": "area = ərazi, sahə",
+     "related_only": false
+    },
+    {
+     "en": "a safety helmet",
+     "az": "qoruyucu dəbilqə",
+     "usage": "helmet = dəbilqə",
+     "related_only": false
+    },
+    {
+     "en": "safety first",
+     "az": "əvvəlcə təhlükəsizlik",
+     "usage": "Şüar; iş yerlərində",
+     "related_only": false
+    },
+    {
+     "en": "safety instructions",
+     "az": "təhlükəsizlik təlimatı",
+     "usage": "instructions = təlimat (cəmdə)",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "They arrived home safe and sound.",
+     "az": "Onlar evə sağ-salamat çatdılar."
+    },
+    {
+     "en": "Is it safe to swim here?",
+     "az": "Burada üzmək təhlükəsizdir?"
+    },
+    {
+     "en": "Keep a safe distance from the car in front.",
+     "az": "Qabaqdakı maşından təhlükəsiz məsafə saxlayın."
+    },
+    {
+     "en": "Please read the safety instructions carefully.",
+     "az": "Zəhmət olmasa, təhlükəsizlik təlimatını diqqətlə oxuyun."
+    }
+   ],
+   "usage": [
+    "SAFE iki mənada işlənir: 1) təhlükə yaratmayan (a safe place, safe to drink); 2) təhlükədən qorunmuş, salamat (The children are safe). Qəliblər: safe TO + fel (safe to swim), safe FROM + təhlükə, safe FOR + kim. SAFETY isimdir və çox vaxt başqa isimdən əvvəl gəlir: safety helmet, safety rules. SAFE isim kimi \"seyf\" deməkdir. Əksi: dangerous və ya unsafe."
+   ],
+   "new_items": [
+    "SAFE",
+    "safety",
+    "unsafe",
+    "safely",
+    "sound",
+    "harm",
+    "distance",
+    "perfectly",
+    "area",
+    "helmet",
+    "instruction"
+   ]
+  },
+  {
+   "id": "A2-039",
+   "level": "A2",
+   "unit": "Describing and comparing",
+   "main_word": "STRONG",
+   "pos": "adjective",
+   "ipa_british": "strɒŋ",
+   "azerbaijani": "güclü, qüvvətli; möhkəm; tünd (çay, qəhvə)",
+   "key_forms": "strong – stronger – the strongest",
+   "word_family": {
+    "n": [
+     {
+      "form": "strength",
+      "az": "güc, qüvvə"
+     }
+    ],
+    "v": [
+     {
+      "form": "strengthen",
+      "az": "gücləndirmək, möhkəmləndirmək"
+     }
+    ],
+    "adj": [],
+    "adv": [
+     {
+      "form": "strongly",
+      "az": "qətiyyətlə, güclü şəkildə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "a strong smell",
+     "az": "kəskin iy, güclü qoxu",
+     "usage": "smell = iy, qoxu; iyləmək",
+     "related_only": false
+    },
+    {
+     "en": "a strong taste",
+     "az": "kəskin dad",
+     "usage": "taste = dad; dadmaq",
+     "related_only": false
+    },
+    {
+     "en": "strong muscles",
+     "az": "güclü əzələlər",
+     "usage": "muscle /ˈmʌsəl/ – \"c\" oxunmur",
+     "related_only": false
+    },
+    {
+     "en": "a strong accent",
+     "az": "güclü (aydın sezilən) aksent, ləhcə",
+     "usage": "accent = tələffüz xüsusiyyəti",
+     "related_only": false
+    },
+    {
+     "en": "a strong character",
+     "az": "möhkəm xarakter, güclü şəxsiyyət",
+     "usage": "character = xarakter; personaj",
+     "related_only": false
+    },
+    {
+     "en": "strong enough",
+     "az": "kifayət qədər güclü",
+     "usage": "\"enough\" sifətdən sonra gəlir",
+     "related_only": false
+    },
+    {
+     "en": "a strong leader",
+     "az": "güclü lider, qətiyyətli rəhbər",
+     "usage": "leader = rəhbər, lider",
+     "related_only": false
+    },
+    {
+     "en": "strengths and weaknesses",
+     "az": "güclü və zəif cəhətlər",
+     "usage": "Müsahibədə və təhlildə",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "There is a strong smell of gas in the kitchen.",
+     "az": "Mətbəxdə kəskin qaz iyi var."
+    },
+    {
+     "en": "He speaks English with a strong accent.",
+     "az": "O, ingiliscə güclü aksentlə danışır."
+    },
+    {
+     "en": "I am not strong enough to carry this box.",
+     "az": "Bu qutunu daşımaq üçün kifayət qədər güclü deyiləm."
+    },
+    {
+     "en": "What are your strengths and weaknesses?",
+     "az": "Sizin güclü və zəif cəhətləriniz hansılardır?"
+    }
+   ],
+   "usage": [
+    "STRONG fiziki gücü (a strong man), möhkəmliyi (a strong rope), təsirin gücünü (a strong smell) və içkinin tündlüyünü (strong coffee) bildirir. Tünd çay və qəhvə üçün \"dark\" yox, STRONG deyilir; əksi \"weak\"dir. STRENGTH isimdir (/streŋθ/), STRENGTHEN feldir. STRONGLY zərfi fikir bildirən fellərlə çox işlənir: I strongly believe – qəti əminəm."
+   ],
+   "new_items": [
+    "STRONG",
+    "strength",
+    "strengthen",
+    "strongly",
+    "smell",
+    "taste",
+    "muscle",
+    "accent",
+    "character",
+    "leader",
+    "weakness"
+   ]
+  },
+  {
+   "id": "A2-040",
+   "level": "A2",
+   "unit": "Describing and comparing",
+   "main_word": "INTEREST",
+   "pos": "noun, verb",
+   "ipa_british": "ˈɪntrəst",
+   "azerbaijani": "maraq; maraqlandırmaq; (bank) faiz",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "interesting",
+      "az": "maraqlı"
+     },
+     {
+      "form": "interested",
+      "az": "maraqlanan"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "interested in",
+     "az": "nə iləsə maraqlanan",
+     "usage": "interested in + isim / fel + -ing",
+     "related_only": false
+    },
+    {
+     "en": "a special interest",
+     "az": "xüsusi maraq",
+     "usage": "special = xüsusi",
+     "related_only": false
+    },
+    {
+     "en": "interesting facts",
+     "az": "maraqlı faktlar",
+     "usage": "fact = fakt",
+     "related_only": false
+    },
+    {
+     "en": "common interests",
+     "az": "ümumi maraqlar",
+     "usage": "common = ümumi, ortaq; həmçinin: geniş yayılmış",
+     "related_only": false
+    },
+    {
+     "en": "interested to know",
+     "az": "bilmək istəyən, öyrənməyə maraqlı",
+     "usage": "know = bilmək; interested + to + fel",
+     "related_only": false
+    },
+    {
+     "en": "an interesting article",
+     "az": "maraqlı məqalə",
+     "usage": "article = məqalə; həmçinin: artikl",
+     "related_only": false
+    },
+    {
+     "en": "hobbies and interests",
+     "az": "hobbi və maraqlar",
+     "usage": "CV və anketlərdə rubrika",
+     "related_only": false
+    },
+    {
+     "en": "share an interest",
+     "az": "eyni marağı bölüşmək",
+     "usage": "share = bölüşmək, paylaşmaq",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I am interested in history.",
+     "az": "Mən tarixlə maraqlanıram."
+    },
+    {
+     "en": "We have a lot of common interests.",
+     "az": "Bizim çoxlu ümumi marağımız var."
+    },
+    {
+     "en": "I read an interesting article about space.",
+     "az": "Mən kosmos haqqında maraqlı bir məqalə oxudum."
+    },
+    {
+     "en": "Tell me about your hobbies and interests.",
+     "az": "Mənə hobbi və maraqlarınız haqqında danışın."
+    }
+   ],
+   "usage": [
+    "INTERESTED insanın hissini bildirir (I am interested in music – mən musiqi ilə maraqlanıram), INTERESTING isə maraq doğuran şeyi təsvir edir (The book is interesting – kitab maraqlıdır). \"I am interesting\" – \"mən maraqlı adamam\" deməkdir, ona görə diqqətli olun. Sözönü həmişə IN-dir: interested IN (\"interested about\" səhvdir). INTEREST isim kimi həm də bank faizi deməkdir."
+   ],
+   "new_items": [
+    "INTEREST",
+    "interesting",
+    "interested",
+    "special",
+    "fact",
+    "common",
+    "know",
+    "article",
+    "hobby",
+    "share"
+   ]
   }
  ],
  "reserved_main_words": {
   "A1": [],
-  "A2": [
-   "TRAVEL",
-   "STAY",
-   "LEAVE",
-   "ARRIVE",
-   "CATCH",
-   "MISS",
-   "BRING",
-   "SEND",
-   "SHOW",
-   "TELL",
-   "TRY",
-   "CHANGE",
-   "MOVE",
-   "TURN",
-   "KEEP",
-   "LOSE",
-   "FIND",
-   "FALL",
-   "BREAK",
-   "GROW",
-   "PLAN",
-   "CHOOSE",
-   "PAY",
-   "USE",
-   "FEEL",
-   "THINK",
-   "PUT",
-   "STOP",
-   "WIN",
-   "HEALTH",
-   "SPORT",
-   "ENJOY",
-   "HOPE",
-   "WORRY",
-   "EASY",
-   "DIFFERENT",
-   "IMPORTANT",
-   "SAFE",
-   "STRONG",
-   "INTEREST"
-  ],
+  "A2": [],
   "B1": [
    "ACHIEVE",
    "IMPROVE",
