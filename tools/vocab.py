@@ -865,6 +865,18 @@ def _ipa_norm(s):
     return s
 
 
+def _ipa_broad(s):
+    """Broad form used to recognise transcriptions that differ ONLY in weak-vowel notation, where
+    dictionaries legitimately disagree (happy-vowel i/ɪ, u/ʊ, unstressed ɪ/ə, tj/tʃ, dj/dʒ)."""
+    s = _ipa_norm(s).replace('ˈ', '').replace('ˌ', '')
+    s = re.sub('i(?!ː)', 'ɪ', s)
+    s = re.sub('u(?!ː)', 'ʊ', s)
+    s = s.replace('dj', 'dʒ').replace('tj', 'tʃ')
+    for k, d in enumerate(('ɪə', 'eə', 'ʊə', 'əʊ', 'aɪ', 'eɪ', 'ɔɪ', 'aʊ')):
+        s = s.replace(d, str(k))
+    return s.replace('ə', 'ɪ')
+
+
 def _stress_pos(s):
     s = _ipa_norm(s)
     n, prev = 0, False
@@ -930,7 +942,7 @@ def qa_report(db, refs):
         out.append('')
     if refs['ipa']:
         out.append('== IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==')
-        ok = bad = miss = 0
+        ok = var = bad = miss = 0
         for L in db.lessons:
             w = L.head.lower()
             if ' ' in w:
@@ -945,11 +957,18 @@ def qa_report(db, refs):
             st_ok = any(_stress_pos(a) == _stress_pos(b) for a in mine for b in theirs)
             if mn & tn and st_ok:
                 ok += 1
+            elif st_ok and ({_ipa_broad(x) for x in mine} & {_ipa_broad(x) for x in theirs}):
+                var += 1
+                out.append('  variant %s %-14s here /%s/   reference: %s' % (L.uid, L.head, L.ipa,
+                                                                            ' | '.join(sorted(theirs))))
             else:
                 bad += 1
-                out.append('  %s %-14s here /%s/   reference: %s%s' % (L.uid, L.head, L.ipa, ' | '.join(sorted(theirs)),
-                                                                      '' if st_ok else '   [STRESS]'))
-        out.append('  summary: agree=%d, differ=%d, not in reference=%d' % (ok, bad, miss))
+                out.append('  DIFFER  %s %-14s here /%s/   reference: %s%s' % (L.uid, L.head, L.ipa,
+                                                                              ' | '.join(sorted(theirs)),
+                                                                              '' if st_ok else '   [STRESS]'))
+        out.append('  ("variant" = same sounds and stress, different notation of a weak vowel: i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ)')
+        out.append('  summary: IPA agree=%d, weak-vowel notation variants=%d, differ=%d, not in reference=%d'
+                   % (ok, var, bad, miss))
     return out
 
 

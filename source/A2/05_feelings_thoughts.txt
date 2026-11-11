@@ -59,7 +59,7 @@ adv: hopefully = ümid edirəm ki, inşallah
 - I hope so = ümid edirəm ki, elədir :: Müsbət qısa cavab
 - I hope not = ümid edirəm ki, yox :: "I don't hope so" deyilmir
 - hope to hear from you = sizdən xəbər gözləyirəm :: Məktubun sonunda; hear = eşitmək
-- high hopes = böyük ümidlər :: have high hopes for + kim / nə
+- hopes and dreams = ümidlər və arzular :: dream = arzu; həmçinin: yuxu
 - in the hope of = nəyinsə ümidi ilə :: in the hope of + fel + -ing
 - my only hope = yeganə ümidim :: only = yeganə; yalnız
 - false hope = əsassız ümid, boş ümid :: false = yalan, saxta

@@ -34,7 +34,44 @@
   near  A2-036 DIFFERENT      here A2, reference A1
   near  A2-037 IMPORTANT      here A2, reference A1
   near  A2-039 STRONG         here A2, reference A1
-  summary: same=45, one level apart=35, two or more apart=0, not in reference=0
+  near  B1-001 ACHIEVE        here B1, reference A2
+  near  B1-002 SUCCEED        here B1, reference A2
+  near  B1-003 IMPROVE        here B1, reference A2
+  near  B1-004 DEVELOP        here B1, reference A2
+  near  B1-005 EXPERIENCE     here B1, reference A2
+  REVIEW B1-006 SKILL          here B1, reference A1
+  near  B1-007 MANAGE         here B1, reference A2
+  near  B1-008 PREPARE        here B1, reference A2
+  near  B1-009 EMPLOY         here B1, reference B2
+  near  B1-010 APPLY          here B1, reference A2
+  near  B1-011 EDUCATION      here B1, reference A2
+  near  B1-012 EXPLAIN        here B1, reference A2
+  near  B1-013 SUGGEST        here B1, reference A2
+  near  B1-014 ARGUE          here B1, reference A2
+  near  B1-015 COMPLAIN       here B1, reference A2
+  REVIEW B1-016 DISCUSS        here B1, reference A1
+  near  B1-017 OPINION        here B1, reference A2
+  near  B1-018 ADVICE         here B1, reference A2
+  REVIEW B1-019 AGREE          here B1, reference A1
+  near  B1-020 DECIDE         here B1, reference A2
+  near  B1-021 ENVIRONMENT    here B1, reference B2
+  near  B1-023 INCREASE       here B1, reference A2
+  near  B1-025 PROVIDE        here B1, reference A2
+  near  B1-026 SUPPORT        here B1, reference A2
+  REVIEW B1-027 SOLVE          here B1, reference A1
+  near  B1-028 AVOID          here B1, reference A2
+  near  B1-029 CAUSE          here B1, reference A2
+  near  B1-030 EFFORT         here B1, reference A2
+  REVIEW B1-031 HABIT          here B1, reference A1
+  near  B1-032 OPPORTUNITY    here B1, reference A2
+  near  B1-033 CHALLENGE      here B1, reference A2
+  near  B1-034 PRESSURE       here B1, reference A2
+  near  B1-036 CONFIDENT      here B1, reference A2
+  REVIEW B1-038 SET            here B1, reference A1
+  REVIEW B1-039 RUN            here B1, reference A1
+  REVIEW B1-040 MIND           here B1, reference A1
+  near  B1-041 DEAL           here B1, reference A2
+  summary: same=49, one level apart=64, two or more apart=8, not in reference=0
 
 == COLLOCATES two or more levels ABOVE their lesson level ==
   A1-013 HOUSE        housework        ref B1  "do the housework"
@@ -52,13 +89,19 @@
   count=12
 
 == COVERAGE of the reference lists by this database ==
-  A1: 651 of 1058 reference headwords (62%)
-  A2: 230 of 1221 reference headwords (19%)
-  B1: 125 of 2099 reference headwords (6%)
-  B2: 43 of 2428 reference headwords (2%)
-  C1: 5 of 921 reference headwords (1%)
+  A1: 700 of 1058 reference headwords (66%)
+  A2: 373 of 1221 reference headwords (31%)
+  B1: 257 of 2099 reference headwords (12%)
+  B2: 90 of 2428 reference headwords (4%)
+  C1: 7 of 921 reference headwords (1%)
   C2: 1 of 882 reference headwords (0%)
 
 == IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
-  A2-040 INTEREST       here /ˈɪntrəst/   reference: ˈɪntəɹɪst | ˈɪntɹɪst
-  summary: agree=79, differ=1, not in reference=0
+  variant A2-040 INTEREST       here /ˈɪntrəst/   reference: ˈɪntəɹɪst | ˈɪntɹɪst
+  variant B1-005 EXPERIENCE     here /ɪkˈspɪəriəns/   reference: ɪkspˈɪəɹɪəns
+  variant B1-011 EDUCATION      here /ˌedʒuˈkeɪʃən/   reference: ˌɛdjʊkˈeɪʃən
+  variant B1-032 OPPORTUNITY    here /ˌɒpəˈtjuːnəti/   reference: ˌɒpətjˈuːnɪti
+  variant B1-035 RESPONSIBLE    here /rɪˈspɒnsəbəl/   reference: ɹɪspˈɒnsɪbəl
+  variant B1-037 SERIOUS        here /ˈsɪəriəs/   reference: sˈɪəɹɪəs
+  ("variant" = same sounds and stress, different notation of a weak vowel: i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ)
+  summary: IPA agree=115, weak-vowel notation variants=6, differ=0, not in reference=0

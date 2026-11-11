@@ -1,0 +1,67 @@
+## High-frequency words in idiomatic use | Çox işlənən sözlər idiomatik ifadələrdə
+@ SET | verb, noun | set | qoymaq, təyin etmək, qurmaq; dəst, komplekt
+forms: set – sets – set – set – setting
+n: setting = mühit, məkan, həmçinin (cihazda) rejim
+- set an alarm = zəngli saatı qurmaq :: alarm = a clock or signal that wakes or warns you
+- set off = yola düşmək :: Phrasal verb = begin a journey
+- set up = qurmaq, təsis etmək, yaratmaq :: Phrasal verb: set up a company / a meeting
+- set out = yola çıxmaq; (məqsədi, fikri) şərh etmək :: Phrasal verb; set out to do = start with a clear aim
+- set a limit = hədd (limit) qoymaq :: limit = the greatest amount allowed
+- set a standard = standart (meyar) müəyyən etmək :: standard = a level of quality
+- set aside = bir kənara qoymaq, ayırmaq (pul, vaxt) :: Phrasal verb: set aside time for study
+- set the scene = səhnəni hazırlamaq; ümumi vəziyyəti təsvir etmək :: scene = the place where something happens
+> I set my alarm for six o'clock. = Zəngli saatı altıya qurdum.
+> We set off early to avoid the traffic. = Tıxacdan yayınmaq üçün tez yola düşdük.
+> She set up her own company at the age of twenty-five. = O, iyirmi beş yaşında öz şirkətini qurdu.
+> Try to set aside some time for reading every day. = Hər gün mütaliə üçün bir az vaxt ayırmağa çalış.
+! SET is irregular and never changes: set – set – set. Its core idea is "put something in a fixed position or state": set a date, set a limit, set a record, set an example. With particles it forms very common phrasal verbs: set off (leave), set up (establish), set out (begin with a purpose), set aside (save). As a noun, a SET is a group of things that belong together: a set of keys, a chess set.
+
+@ RUN | verb, noun | rʌn | qaçmaq; idarə etmək; işləmək (maşın, proqram)
+forms: run – runs – ran – run – running
+n: runner = qaçışçı; running = qaçış
+- run a marathon = marafon qaçmaq :: marathon = a race of about 42 kilometres
+- run away = qaçıb getmək, qaçıb gizlənmək :: Phrasal verb: run away from home
+- run out of = qurtarmaq, tükənmək (ehtiyat) :: Phrasal verb: We have run out of milk
+- run into = təsadüfən rastlaşmaq; (çətinliklə) üzləşmək; toqquşmaq :: Phrasal verb
+- run smoothly = rəvan getmək, problemsiz işləmək :: smoothly = without problems
+- in the long run = uzun müddətdə, gələcəkdə :: Idiom; long = lasting a great amount of time
+- run errands = xırda tapşırıqları yerinə yetirmək :: errand = a short trip to buy or deliver something
+- run for president = prezidentliyə namizəd olmaq :: run FOR + position = try to be elected
+> She runs her own business. = O, öz biznesini idarə edir.
+> We have run out of petrol. = Benzinimiz qurtarıb.
+> I ran into an old friend at the airport. = Hava limanında köhnə bir dostuma rast gəldim.
+> It will save you money in the long run. = Bu, uzun müddətdə sənə pul qənaət etdirəcək.
+! RUN is irregular: run – ran – run. Beyond the physical meaning, three uses are essential: 1) manage or organise – run a business, run a course; 2) operate – "The engine is running", "run a program"; 3) of transport – "The buses run every ten minutes". Phrasal verbs: run out of (have none left), run into (meet by chance), run away (escape). "In the long run" contrasts with "in the short run".
+
+@ MIND | noun, verb | maɪnd | ağıl, zehin, fikir; etiraz etmək; fikir vermək
+adj: open-minded = açıqfikirli, geniş dünyagörüşlü; mindful = diqqətli, nəzərə alan
+- have sth in mind = ağlında bir şey olmaq, nəyisə nəzərdə tutmaq :: Do you have anything in mind?
+- never mind = eybi yoxdur, fikir vermə :: never = not at any time; fixed spoken phrase
+- do you mind = etiraz etmirsiniz ki :: Do you mind if I ...? / Do you mind + -ing?
+- I don't mind = mənə fərqi yoxdur, etiraz etmirəm :: Polite neutral answer
+- state of mind = əhval-ruhiyyə, ruhi vəziyyət :: state = the condition somebody is in
+- in two minds = tərəddüd içində, iki fikir arasında :: British idiom: be in two minds about something
+- on your mind = fikrində, ürəyində (səni narahat edən) :: What's on your mind?
+- slip your mind = yaddan çıxmaq :: slip = slide; "It slipped my mind" = I forgot
+> Do you mind if I open the window? = Pəncərəni açsam, etiraz etməzsiniz?
+> I'm sorry I'm late. – Never mind. = Bağışlayın, gecikdim. – Eybi yoxdur.
+> Tea or coffee? – I don't mind. = Çay, yoxsa qəhvə? – Mənə fərqi yoxdur.
+> I'm in two minds about accepting the job. = İşi qəbul edib-etməmək barədə tərəddüd edirəm.
+! As a noun, MIND is the part of you that thinks and remembers; it is close to "ağıl" and "fikir", not to BRAIN (the physical organ). Key idioms: change your mind (fikrini dəyişmək), make up your mind (qərara gəlmək), keep / bear in mind (yadda saxlamaq). As a verb it means to object: "Do you mind + -ing?" is a polite request, and the polite positive answer is "No, not at all". "Mind the gap!" is a warning.
+
+@ DEAL | verb, noun | diːl | məşğul olmaq, həll etmək; sövdələşmə, razılaşma
+forms: deal – deals – dealt /delt/ – dealt – dealing
+n: dealer = alverçi, diler
+- deal with = bir işlə məşğul olmaq, həll etmək, öhdəsindən gəlmək :: The key phrasal verb: deal with a problem / a customer
+- it's a deal = razılaşdıq, oldu :: Spoken; said when you accept an offer
+- do a deal = sövdələşmək, razılığa gəlmək :: British English; also "make a deal"
+- a fair deal = ədalətli sövdələşmə; ədalətli rəftar :: fair = treating everyone equally
+- strike a deal = razılıq əldə etmək, sövdələşmə bağlamaq :: strike = here: reach (journalistic)
+- a done deal = həll olunmuş məsələ, bağlanmış sövdələşmə :: Informal; something already decided
+- an art dealer = incəsənət əsərləri alverçisi :: art = paintings, drawings and sculpture
+- deal with an emergency = fövqəladə vəziyyətin öhdəsindən gəlmək :: emergency = a sudden dangerous situation
+> How do you deal with difficult customers? = Çətin müştərilərlə necə davranırsan?
+> The two companies have struck a deal. = İki şirkət razılıq əldə edib.
+> I'll cook if you wash the dishes. – It's a deal! = Sən qabları yusan, mən yemək bişirərəm. – Razılaşdıq!
+> The staff are trained to deal with emergencies. = Heyət fövqəladə vəziyyətlərin öhdəsindən gəlmək üçün təlim keçib.
+! DEAL is irregular: deal – dealt – dealt, pronounced /delt/. DEAL WITH has three meanings: take action to solve (deal with a problem), do business with (deal with a supplier) and be about (The book deals with war). The noun DEAL is a business agreement; "a great deal of" means "a lot of" and is used with uncountable nouns in formal English: a great deal of money. "It's no big deal" means it is not important.

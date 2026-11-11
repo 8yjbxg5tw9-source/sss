@@ -1970,8 +1970,8 @@ C. RELATED EXPRESSIONS
       Usage: "I don't hope so" deyilmir
    3. Hope to hear from you — Sizdən xəbər gözləyirəm
       Usage: Məktubun sonunda; hear = eşitmək
-   4. High hopes — Böyük ümidlər
-      Usage: have high hopes for + kim / nə
+   4. Hopes and dreams — Ümidlər və arzular
+      Usage: dream = arzu; həmçinin: yuxu
    5. In the hope of — Nəyinsə ümidi ilə
       Usage: in the hope of + fel + -ing
    6. My only hope — Yeganə ümidim
@@ -1999,7 +1999,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): HOPE [main], hopeful [family], hopeless [family],
-      hopefully [family], hear, high, only, false, still
+      hopefully [family], hear, dream, only, false, still
    Duplicate check: PASSED — none of these items appears anywhere else in the system (673 → 682 items).
 
 ====================================================================================================
@@ -2068,8 +2068,8 @@ UPDATED VOCABULARY INDEX — after UNIT 5 (Feelings and thoughts)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: FEEL, THINK, ENJOY, HOPE, WORRY
    New items registered in this unit: 42   |   Database total after this unit: 689
-   comfortable, concert, dancing, deeply, ENJOY, enjoyable, enjoyment, false, FEEL, feeling, hear,
-   high, HOPE, hopeful, hopefully, hopeless, hungry, kid, lonely, main, nature, nervous, only,
+   comfortable, concert, dancing, deeply, dream, ENJOY, enjoyable, enjoyment, false, FEEL, feeling,
+   hear, HOPE, hopeful, hopefully, hopeless, hungry, kid, lonely, main, nature, nervous, only,
    positive, really, sick, singing, slightly, sorry, still, sunshine, terribly, THINK, thinker,
    thirsty, thought, thoughtful, twice, view, worried, WORRY, worrying
 
@@ -2234,6 +2234,7 @@ B. WORD FAMILY
    Verb forms ........ —
    Adjective forms ... easy (main word)
    Adverb forms ...... easily — asanlıqla
+   Related words taught in other lessons (not repeated here): disease (B1-029, CAUSE)
 
 C. RELATED EXPRESSIONS
    1. An easy task — Asan tapşırıq, asan iş
@@ -2610,43 +2611,43 @@ UPDATED VOCABULARY INDEX — END OF LEVEL A2
       014, countryside 013, course 022, crying 026, culture 036, damage 033, dancing 030, date 012,
       deadline 006, deeply 029, departure 004, design 022, detail 010, diary 015, dictionary 024,
       diet 033, differ 036, difference 036, DIFFERENT 036, differently 036, difficult 017, discovery
-      037, distance 038, document 008, ease 035, easily 035, EASY 035, ENJOY 030, enjoyable 030,
-      enjoyment 030, entrance 017, equally 037, equipment 034, especially 037, Europe 001, event
-      021, exercise 035, exit 017, extra 023, extreme 034, fact 040, fairly 035, FALL 018, false
-      031, fan 034, far 035, fashion 009, fast 020, fee 023, FEEL 028, feeling 028, ferry 006, file
-      008, final 027, FIND 017, finding 017, fine 023, fire 005, fit 015, flight 005, flu 005,
-      follow 035, food 011, fresh 015, fridge 025, full 026, funny 017, furniture 013, future 021,
-      gift 007, grass 015, ground 018, GROW 020, grown-up 020, growth 020, guest 037, guide 001,
-      hall 004, harm 038, HEALTH 033, healthy 033, hear 031, heavy 016, helmet 038, high 031, hobby
-      040, HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004, hungry 028, hurry 003,
-      ice 019, ill 018, importance 037, IMPORTANT 037, importantly 037, indoors 002, instruction
-      038, insurance 033, INTEREST 040, interested 040, interesting 040, internet 024, joke 010,
-      journey 021, KEEP 015, keeper 015, kettle 025, kid 032, kind 036, knife 024, know 040, laptop
-      007, laughing 026, law 019, leader 039, LEAVE 003, left 014, level 036, lie 010, lifestyle
-      033, light 001, link 008, local 011, lonely 028, LOSE 016, loser 016, loss 016, lost 016,
-      lottery 027, love 018, luggage 003, main 032, meaning 036, medal 027, media 024, memory 016,
-      mental 033, midnight 004, minute 004, MISS 006, missing 006, mouse 005, MOVE 013, movement
-      013, moving 013, muscle 039, nature 030, nervous 028, non-stop 026, only 031, option 022,
-      overnight 002, package 008, page 014, paid 023, parcel 008, Paris 004, partner 017, passport
-      007, password 012, PAY 023, payment 023, peace 003, perfectly 038, person 006, pet 015, petrol
-      026, physical 033, picnic 021, place 012, PLAN 021, plane 001, planner 021, planning 021,
-      plant 020, point 037, police 010, positive 029, post 008, potato 020, pretty 035, prize 027,
-      promise 015, property 016, public 024, PUT 025, quiz 009, race 027, reach 035, really 030,
-      reason 010, recipe 011, record 019, relative 002, relax 011, remember 011, reminder 008, reply
-      008, respect 009, rest 026, right 014, role 037, rule 019, SAFE 038, safely 038, safety 038,
-      secret 010, SEND 008, sender 008, service 033, shape 036, share 040, shelf 025, short 002,
-      shouting 026, SHOW 009, sick 028, singing 030, size 020, slightly 032, smell 039, smoking 026,
-      snack 007, social 024, soon 004, sorry 028, sound 038, special 040, SPORT 034, sporty 034,
-      stadium 034, STAY 002, step 037, still 031, STOP 026, strength 039, strengthen 039, STRONG
-      039, strongly 039, study 021, subject 012, sunshine 030, table 003, talent 009, talking 026,
-      tall 020, target 006, task 035, taste 039, tax 023, team 034, TELL 010, temperature 018,
-      terribly 032, test 035, thief 005, thing 037, THINK 029, thinker 029, thirsty 028, thought
-      029, thoughtful 029, tidy 015, tip 003, tomato 020, tool 024, topic 022, totally 036, touch
-      002, towel 007, transport 024, TRAVEL 001, traveller 001, trip 021, truth 010, TRY 011, TURN
-      014, turning 014, twice 029, type 036, tyre 012, understand 011, unhealthy 033, unimportant
-      037, university 022, unsafe 038, USE 024, useful 024, useless 024, user 024, view 030, voice
-      016, volume 014, wallet 016, weakness 039, wedding 021, week 002, weight 016, WIN 027, winner
-      027, winter 034, world 001, worried 032, WORRY 032, worrying 032
+      037, distance 038, document 008, dream 031, ease 035, easily 035, EASY 035, ENJOY 030,
+      enjoyable 030, enjoyment 030, entrance 017, equally 037, equipment 034, especially 037, Europe
+      001, event 021, exercise 035, exit 017, extra 023, extreme 034, fact 040, fairly 035, FALL
+      018, false 031, fan 034, far 035, fashion 009, fast 020, fee 023, FEEL 028, feeling 028, ferry
+      006, file 008, final 027, FIND 017, finding 017, fine 023, fire 005, fit 015, flight 005, flu
+      005, follow 035, food 011, fresh 015, fridge 025, full 026, funny 017, furniture 013, future
+      021, gift 007, grass 015, ground 018, GROW 020, grown-up 020, growth 020, guest 037, guide
+      001, hall 004, harm 038, HEALTH 033, healthy 033, hear 031, heavy 016, helmet 038, hobby 040,
+      HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004, hungry 028, hurry 003, ice
+      019, ill 018, importance 037, IMPORTANT 037, importantly 037, indoors 002, instruction 038,
+      insurance 033, INTEREST 040, interested 040, interesting 040, internet 024, joke 010, journey
+      021, KEEP 015, keeper 015, kettle 025, kid 032, kind 036, knife 024, know 040, laptop 007,
+      laughing 026, law 019, leader 039, LEAVE 003, left 014, level 036, lie 010, lifestyle 033,
+      light 001, link 008, local 011, lonely 028, LOSE 016, loser 016, loss 016, lost 016, lottery
+      027, love 018, luggage 003, main 032, meaning 036, medal 027, media 024, memory 016, mental
+      033, midnight 004, minute 004, MISS 006, missing 006, mouse 005, MOVE 013, movement 013,
+      moving 013, muscle 039, nature 030, nervous 028, non-stop 026, only 031, option 022, overnight
+      002, package 008, page 014, paid 023, parcel 008, Paris 004, partner 017, passport 007,
+      password 012, PAY 023, payment 023, peace 003, perfectly 038, person 006, pet 015, petrol 026,
+      physical 033, picnic 021, place 012, PLAN 021, plane 001, planner 021, planning 021, plant
+      020, point 037, police 010, positive 029, post 008, potato 020, pretty 035, prize 027, promise
+      015, property 016, public 024, PUT 025, quiz 009, race 027, reach 035, really 030, reason 010,
+      recipe 011, record 019, relative 002, relax 011, remember 011, reminder 008, reply 008,
+      respect 009, rest 026, right 014, role 037, rule 019, SAFE 038, safely 038, safety 038, secret
+      010, SEND 008, sender 008, service 033, shape 036, share 040, shelf 025, short 002, shouting
+      026, SHOW 009, sick 028, singing 030, size 020, slightly 032, smell 039, smoking 026, snack
+      007, social 024, soon 004, sorry 028, sound 038, special 040, SPORT 034, sporty 034, stadium
+      034, STAY 002, step 037, still 031, STOP 026, strength 039, strengthen 039, STRONG 039,
+      strongly 039, study 021, subject 012, sunshine 030, table 003, talent 009, talking 026, tall
+      020, target 006, task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly
+      032, test 035, thief 005, thing 037, THINK 029, thinker 029, thirsty 028, thought 029,
+      thoughtful 029, tidy 015, tip 003, tomato 020, tool 024, topic 022, totally 036, touch 002,
+      towel 007, transport 024, TRAVEL 001, traveller 001, trip 021, truth 010, TRY 011, TURN 014,
+      turning 014, twice 029, type 036, tyre 012, understand 011, unhealthy 033, unimportant 037,
+      university 022, unsafe 038, USE 024, useful 024, useless 024, user 024, view 030, voice 016,
+      volume 014, wallet 016, weakness 039, wedding 021, week 002, weight 016, WIN 027, winner 027,
+      winter 034, world 001, worried 032, WORRY 032, worrying 032
 
    Cumulative database size after A2: 775 individual vocabulary items (+ 245 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).

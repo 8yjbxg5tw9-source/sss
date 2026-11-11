@@ -34,16 +34,16 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
    Level   Units  Main words  Family forms  New collocate words  Items total  Expressions  Sentences
    A1          7          40            40                  317          397          320        160
    A2          7          40            55                  264          359          320        160
-   B1          0           0             0                    0            0            0          0
+   B1          5          41            79                  264          384          328        164
    B2          0           0             0                    0            0            0          0
    C1          0           0             0                    0            0            0          0
    C2          0           0             0                    0            0            0          0
-   TOTAL      14          80            95                  581          756          640        320
+   TOTAL      19         121           174                  845         1140          968        484
 
-   Individual vocabulary items in the database: 775
-      = 80 main words + 95 word-family forms + 581 new words taught inside expressions + 19 reference-set words
+   Individual vocabulary items in the database: 1,159
+      = 121 main words + 174 word-family forms + 845 new words taught inside expressions + 19 reference-set words
    Structural (grammar) words taught once in A1 Section 0 and reusable as glue: 245
-   Expressions and collocations: 640   |   Example sentences with translation: 320
+   Expressions and collocations: 968   |   Example sentences with translation: 484
 
 4. THE GLOBAL NO-REPETITION SYSTEM (exactly as enforced by the checker)
 ----------------------------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
    R9. Words from the same family that are taught in different lessons (each form still only once)
        are cross-referenced, so the network stays connected without repetition (Record 6b).
 
-5. RECORD 1 — MAIN WORDS COVERED (80)
+5. RECORD 1 — MAIN WORDS COVERED (121)
 ----------------------------------------------------------------------------------------------------
    A1  UNIT 1 — Everyday actions
       A1-001  GO               verb               /ɡəʊ/  —  getmək
@@ -179,264 +179,468 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
               qəhvə)
       A2-040  INTEREST         noun, verb         /ˈɪntrəst/  —  maraq; maraqlandırmaq; (bank) faiz
 
+   B1  UNIT 1 — Achievement, skills and work
+      B1-001  ACHIEVE          verb               /əˈtʃiːv/  —  nail olmaq, əldə etmək, (məqsədə)
+              çatmaq
+      B1-002  SUCCEED          verb               /səkˈsiːd/  —  uğur qazanmaq, müvəffəq olmaq,
+              bacarmaq
+      B1-003  IMPROVE          verb               /ɪmˈpruːv/  —  yaxşılaşdırmaq, təkmilləşdirmək;
+              yaxşılaşmaq
+      B1-004  DEVELOP          verb               /dɪˈveləp/  —  inkişaf etdirmək, işləyib
+              hazırlamaq; inkişaf etmək
+      B1-005  EXPERIENCE       noun, verb         /ɪkˈspɪəriəns/  —  təcrübə; başa gələn hadisə,
+              təəssürat; yaşamaq, üzləşmək
+      B1-006  SKILL            noun               /skɪl/  —  bacarıq, vərdiş, məharət
+      B1-007  MANAGE           verb               /ˈmænɪdʒ/  —  idarə etmək, rəhbərlik etmək;
+              bacarmaq, öhdəsindən gəlmək
+      B1-008  PREPARE          verb               /prɪˈpeə/  —  hazırlamaq; hazırlaşmaq
+      B1-009  EMPLOY           verb               /ɪmˈplɔɪ/  —  işə götürmək, işlə təmin etmək;
+              (üsul) tətbiq etmək
+      B1-010  APPLY            verb               /əˈplaɪ/  —  müraciət etmək, ərizə vermək; tətbiq
+              etmək; aid olmaq
+   B1  UNIT 2 — Education, opinions and discussion
+      B1-011  EDUCATION        noun               /ˌedʒuˈkeɪʃən/  —  təhsil, maarif
+      B1-012  EXPLAIN          verb               /ɪkˈspleɪn/  —  izah etmək, başa salmaq
+      B1-013  SUGGEST          verb               /səˈdʒest/  —  təklif etmək, fikir irəli sürmək;
+              nəyəsə işarə etmək
+      B1-014  ARGUE            verb               /ˈɑːɡjuː/  —  mübahisə etmək, höcətləşmək; iddia
+              etmək, əsaslandırmaq
+      B1-015  COMPLAIN         verb               /kəmˈpleɪn/  —  şikayət etmək, gileylənmək
+      B1-016  DISCUSS          verb               /dɪˈskʌs/  —  müzakirə etmək
+      B1-017  OPINION          noun               /əˈpɪnjən/  —  fikir, rəy
+      B1-018  ADVICE           noun               /ədˈvaɪs/  —  məsləhət
+      B1-019  AGREE            verb               /əˈɡriː/  —  razılaşmaq, razı olmaq
+      B1-020  DECIDE           verb               /dɪˈsaɪd/  —  qərar vermək, qərara gəlmək
+   B1  UNIT 3 — Environment, problems and solutions
+      B1-021  ENVIRONMENT      noun               /ɪnˈvaɪrənmənt/  —  ətraf mühit; mühit, şərait
+      B1-022  PROTECT          verb               /prəˈtekt/  —  qorumaq, mühafizə etmək, müdafiə
+              etmək
+      B1-023  INCREASE         verb, noun         /ɪnˈkriːs (verb)/  —  artmaq, artırmaq; artım
+      B1-024  REDUCE           verb               /rɪˈdjuːs/  —  azaltmaq, endirmək
+      B1-025  PROVIDE          verb               /prəˈvaɪd/  —  təmin etmək, vermək, təqdim etmək
+      B1-026  SUPPORT          verb, noun         /səˈpɔːt/  —  dəstəkləmək, kömək etmək; dəstək;
+              (ailəni) dolandırmaq
+      B1-027  SOLVE            verb               /sɒlv/  —  həll etmək, (sirri) açmaq
+      B1-028  AVOID            verb               /əˈvɔɪd/  —  çəkinmək, uzaq durmaq, yayınmaq; yol
+              verməmək
+      B1-029  CAUSE            noun, verb         /kɔːz/  —  səbəb; səbəb olmaq, törətmək
+   B1  UNIT 4 — Personal qualities and challenges
+      B1-030  EFFORT           noun               /ˈefət/  —  səy, cəhd, zəhmət
+      B1-031  HABIT            noun               /ˈhæbɪt/  —  vərdiş, adət
+      B1-032  OPPORTUNITY      noun               /ˌɒpəˈtjuːnəti/  —  imkan, fürsət
+      B1-033  CHALLENGE        noun, verb         /ˈtʃælɪndʒ/  —  çətin sınaq, çağırış; meydan
+              oxumaq, şübhə altına almaq
+      B1-034  PRESSURE         noun               /ˈpreʃə/  —  təzyiq; gərginlik
+      B1-035  RESPONSIBLE      adjective          /rɪˈspɒnsəbəl/  —  məsuliyyətli; cavabdeh, məsul
+      B1-036  CONFIDENT        adjective          /ˈkɒnfɪdənt/  —  özünə inamlı; əmin
+      B1-037  SERIOUS          adjective          /ˈsɪəriəs/  —  ciddi; ağır, təhlükəli
+   B1  UNIT 5 — High-frequency words in idiomatic use
+      B1-038  SET              verb, noun         /set/  —  qoymaq, təyin etmək, qurmaq; dəst,
+              komplekt
+      B1-039  RUN              verb, noun         /rʌn/  —  qaçmaq; idarə etmək; işləmək (maşın,
+              proqram)
+      B1-040  MIND             noun, verb         /maɪnd/  —  ağıl, zehin, fikir; etiraz etmək;
+              fikir vermək
+      B1-041  DEAL             verb, noun         /diːl/  —  məşğul olmaq, həll etmək; sövdələşmə,
+              razılaşma
 
 
 
 
-6. RECORD 2 — ALL INDIVIDUAL VOCABULARY ITEMS COVERED (775)
+6. RECORD 2 — ALL INDIVIDUAL VOCABULARY ITEMS COVERED (1,159)
 ----------------------------------------------------------------------------------------------------
    Format: word (lesson). M = main word, F = family form; no letter = taught inside an expression.
    Full details for each word are in GLOBAL_LEARNED_WORDS.txt.
-   A  abroad (A2-001), accent (A2-039), accommodation (A2-017), address (A1-019), advance (A2-023),
-      afternoon (A1-034), again (A1-021), age (A1-037), agent (A2-001), airport (A2-003), alive
-      (A1-012 F), alone (A1-012), angry (A1-003), animal (A1-035), answer (A1-006), apple (A1-007),
-      appointment (A2-006), April (A1-000 ref), area (A2-038), arm (A1-016), arrival (A2-004 F),
-      ARRIVE (A2-004 M), article (A2-040), ASK (A1-021 M), asleep (A2-018), attention (A2-023),
-      August (A1-000 ref), aunt (A1-014), awake (A2-002), award (A2-027), Azerbaijani (A1-020)
+   A  abroad (A2-001), absolutely (B1-019), academic (B1-002), accent (A2-039), accept (B1-013),
+      access (B1-011), accident (B1-028), accommodation (A2-017), achievable (B1-001 F), ACHIEVE
+      (B1-001 M), achievement (B1-001 F), achiever (B1-001 F), act (B1-035), activity (B1-013),
+      address (A1-019), adult (B1-011), advance (A2-023), advantage (B1-016), ADVICE (B1-018 M),
+      advisable (B1-018 F), advise (B1-018 F), adviser (B1-018 F), afternoon (A1-034), again
+      (A1-021), age (A1-037), agency (B1-009), agent (A2-001), AGREE (B1-019 M), agreement (B1-019
+      F), aim (B1-001), air (B1-034), airport (A2-003), alarm (B1-038), alcohol (B1-028), alive
+      (A1-012 F), alone (A1-012), alternative (B1-013), amazing (B1-005), ambition (B1-001), amount
+      (B1-023), angry (A1-003), animal (A1-035), annoying (B1-031), answer (A1-006), apple (A1-007),
+      applicant (B1-010 F), application (B1-010 F), APPLY (B1-010 M), appointment (A2-006), April
+      (A1-000 ref), area (A2-038), ARGUE (B1-014 M), argument (B1-014 F), arm (A1-016), arrival
+      (A2-004 F), ARRIVE (A2-004 M), art (B1-041), article (A2-040), ASK (A1-021 M), asleep
+      (A2-018), assistance (B1-025), attempt (B1-037), attention (A2-023), August (A1-000 ref), aunt
+      (A1-014), AVOID (B1-028 M), avoidable (B1-028 F), awake (A2-002), award (A2-027), awareness
+      (B1-021), Azerbaijani (A1-020)
    B  baby (A1-027), bad (A1-032), bag (A1-026), balance (A2-016), balcony (A1-013), ball (A2-005),
-      bath (A1-039), bathroom (A1-013), beard (A2-020), beautiful (A1-027), bed (A1-001), bedroom
-      (A1-013), beginning (A2-006), best (A1-015), better (A1-034 F), BIG (A1-035 M), bike (A2-018),
-      bill (A1-021), bird (A1-022), birthday (A1-038), black (A1-040), blue (A1-040), board
-      (A1-019), BODY (A1-016 M), bone (A2-019), book (A1-018), boring (A2-017), borrow (A1-011),
-      bottle (A1-008), box (A1-028), brain (A2-024), brand (A1-036), bread (A1-010), BREAK (A2-019
-      M), breakfast (A1-007), bridge (A1-037), bright (A1-040), BRING (A2-007 M), broken (A2-019 F),
-      brother (A1-014), brown (A1-040), brush (A1-016), building (A1-037), bus (A1-001), business
-      (A2-001), busy (A1-031), BUY (A1-010 M), buyer (A1-010 F)
+      basic (B1-006), bath (A1-039), bathroom (A1-013), beard (A2-020), beautiful (A1-027), bed
+      (A1-001), bedroom (A1-013), beginning (A2-006), behaviour (B1-035), belief (B1-033), best
+      (A1-015), better (A1-034 F), BIG (A1-035 M), bike (A2-018), bill (A1-021), bird (A1-022),
+      birthday (A1-038), black (A1-040), blood (B1-034), blue (A1-040), board (A1-019), BODY (A1-016
+      M), bone (A2-019), book (A1-018), boost (B1-036), boring (A2-017), borrow (A1-011), bottle
+      (A1-008), box (A1-028), brain (A2-024), brand (A1-036), bread (A1-010), BREAK (A2-019 M),
+      breakfast (A1-007), bridge (A1-037), briefly (B1-012), bright (A1-040), BRING (A2-007 M),
+      broken (A2-019 F), brother (A1-014), brown (A1-040), brush (A1-016), budget (B1-007), building
+      (A1-037), bus (A1-001), business (A2-001), busy (A1-031), BUY (A1-010 M), buyer (A1-010 F)
    C  cake (A1-005), call (A1-005), calm (A2-002), camera (A2-007), capital (A1-033), car (A1-036),
       card (A1-024), care (A1-004), career (A2-022), carefully (A1-022), carry (A1-026), cartoon
-      (A1-025), cash (A2-023), CATCH (A2-005 M), centre (A1-033), chair (A2-013), championship
-      (A2-027), chance (A2-006), CHANGE (A2-012 M), channel (A2-012), character (A2-039), chat
-      (A1-015), cheap (A1-011), check (A2-033), cheese (A1-010), chess (A1-024), chicken (A1-009),
-      child (A1-038), chocolate (A1-039), choice (A2-022 F), CHOOSE (A2-022 M), CITY (A1-033 M),
-      class (A2-006), clean (A1-013), clearly (A1-020), close (A1-015), clothes (A1-010), cloud
-      (A1-032), club (A2-034), coach (A2-004), coat (A1-029), coffee (A1-008), cold (A1-008), COLOUR
-      (A1-040 M), colourful (A1-040 F), COME (A1-002 M), comfortable (A2-028), comment (A2-003),
-      common (A2-040), company (A1-023), completely (A2-012), computer (A1-024), concert (A2-030),
-      contest (A2-027), control (A2-016), conversation (A1-022), COOK (A1-009 M), cooker (A1-009 F),
-      cooking (A1-009 F), corner (A2-014), cost (A1-011), country (A1-035), countryside (A2-013),
-      couple (A1-038), course (A2-022), cross (A1-026), crying (A2-026), culture (A2-036), cup
-      (A1-005), curtain (A1-028)
-   D  daily (A1-031 F), damage (A2-033), dancing (A2-030), dark (A1-040), date (A2-012), daughter
-      (A1-014), DAY (A1-031 M), deadline (A2-006), December (A1-000 ref), deeply (A2-029), departure
-      (A2-004), design (A2-022), detail (A2-010), diary (A2-015), dictionary (A2-024), diet
-      (A2-033), differ (A2-036 F), difference (A2-036 F), DIFFERENT (A2-036 M), differently (A2-036
-      F), difficult (A2-017), dinner (A1-005), direction (A1-006), discovery (A2-037), dish
-      (A1-039), distance (A2-038), doctor (A1-023), document (A2-008), dog (A1-035), door (A1-028),
-      downstairs (A1-013), dressed (A1-003), DRINK (A1-008 M), drive (A1-017), dry (A1-039)
+      (A1-025), cash (A2-023), CATCH (A2-005 M), CAUSE (B1-029 M), celebrate (B1-002), cent
+      (B1-023), centre (A1-033), chair (A2-013), CHALLENGE (B1-033 M), challenging (B1-033 F),
+      championship (A2-027), chance (A2-006), CHANGE (A2-012 M), channel (A2-012), chaos (B1-029),
+      character (A2-039), charity (B1-026), chat (A1-015), cheap (A1-011), check (A2-033), cheese
+      (A1-010), chess (A1-024), chicken (A1-009), child (A1-038), chocolate (A1-039), choice (A2-022
+      F), CHOOSE (A2-022 M), CITY (A1-033 M), claim (B1-026), class (A2-006), clean (A1-013),
+      clearly (A1-020), close (A1-015), clothes (A1-010), cloud (A1-032), club (A2-034), coach
+      (A2-004), coat (A1-029), coffee (A1-008), cold (A1-008), colleague (B1-016), COLOUR (A1-040
+      M), colourful (A1-040 F), COME (A1-002 M), comfortable (A2-028), comment (A2-003), commercial
+      (B1-002), common (A2-040), communication (B1-006), company (A1-023), COMPLAIN (B1-015 M),
+      complaint (B1-015 F), completely (A2-012), computer (A1-024), concern (B1-029), concert
+      (A2-030), condition (B1-003), confidence (B1-036 F), CONFIDENT (B1-036 M), confidently (B1-036
+      F), conflict (B1-027), confusion (B1-028), consider (B1-013), contact (B1-028), contest
+      (A2-027), control (A2-016), conversation (A1-022), convincing (B1-014), COOK (A1-009 M),
+      cooker (A1-009 F), cooking (A1-009 F), cope (B1-034), corner (A2-014), cost (A1-011), country
+      (A1-035), countryside (A2-013), couple (A1-038), course (A2-022), create (B1-032), creature
+      (B1-031), crime (B1-024), crisis (B1-027), cross (A1-026), crowd (B1-028), crying (A2-026),
+      culture (A2-036), cup (A1-005), curtain (A1-028), customer (B1-015)
+   D  daily (A1-031 F), damage (A2-033), dancing (A2-030), danger (B1-028), dark (A1-040), data
+      (B1-022), date (A2-012), daughter (A1-014), DAY (A1-031 M), deadline (A2-006), deadly
+      (B1-037), DEAL (B1-041 M), dealer (B1-041 F), death (B1-029), debt (B1-024), December (A1-000
+      ref), DECIDE (B1-020 M), decision (B1-020 F), decisive (B1-020 F), deeply (A2-029), delay
+      (B1-015), deny (B1-035), department (B1-007), departure (A2-004), design (A2-022), desperate
+      (B1-030), destroy (B1-021), detail (A2-010), determined (B1-030), DEVELOP (B1-004 M),
+      developed (B1-004 F), developer (B1-004 F), developing (B1-004 F), development (B1-004 F),
+      diary (A2-015), dictionary (A2-024), diet (A2-033), differ (A2-036 F), difference (A2-036 F),
+      DIFFERENT (A2-036 M), differently (A2-036 F), difficult (A2-017), dinner (A1-005), direction
+      (A1-006), disagree (B1-019 F), disagreement (B1-019 F), disaster (B1-021), discovery (A2-037),
+      DISCUSS (B1-016 M), discussion (B1-016 F), disease (B1-029), dish (A1-039), distance (A2-038),
+      doctor (A1-023), document (A2-008), dog (A1-035), door (A1-028), doubt (B1-037), downstairs
+      (A1-013), dream (A2-031), dressed (A1-003), DRINK (A1-008 M), drive (A1-017), dry (A1-039)
    E  ear (A1-016), early (A1-002), earn (A1-011), ease (A2-035 F), easily (A2-035 F), EASY (A2-035
-      M), EAT (A1-007 M), egg (A1-009), email (A1-018), English (A1-017), ENJOY (A2-030 M),
-      enjoyable (A2-030 F), enjoyment (A2-030 F), entrance (A2-017), equally (A2-037), equipment
-      (A2-034), especially (A2-037), Europe (A2-001), evening (A1-034), event (A2-021), exam
-      (A1-004), example (A1-006), exercise (A2-035), exit (A2-017), expensive (A1-011), extra
-      (A2-023), extreme (A2-034), eye (A1-028)
-   F  face (A1-038), fact (A2-040), fairly (A2-035), FALL (A2-018 M), false (A2-031), FAMILY (A1-014
-      M), fan (A2-034), far (A2-035), fashion (A2-009), fast (A2-020), father (A1-014), favourite
-      (A1-040), February (A1-000 ref), fee (A2-023), FEEL (A2-028 M), feeling (A2-028 F), ferry
-      (A2-006), file (A2-008), film (A1-025), final (A2-027), FIND (A2-017 M), finding (A2-017 F),
-      fine (A2-023), finger (A1-016), finish (A1-023), fire (A2-005), fish (A1-009), fit (A2-015),
-      flat (A1-012), flight (A2-005), floor (A1-012), flower (A1-006), flu (A2-005), follow
-      (A2-035), food (A2-011), football (A1-024), forecast (A1-032), free (A1-030), fresh (A2-015),
-      Friday (A1-000 ref), fridge (A2-025), FRIEND (A1-015 M), friendly (A1-015 F), friendship
-      (A1-015 F), fruit (A1-007), full (A2-026), funny (A2-017), furniture (A2-013), future (A2-021)
-   G  game (A1-024), garden (A1-026), gate (A1-028), GET (A1-003 M), gift (A2-007), GIVE (A1-006 M),
-      glass (A1-008), glasses (A1-029), GO (A1-001 M), GOOD (A1-034 M), grandfather (A1-014),
-      grandmother (A1-014), grass (A2-015), great (A1-009), green (A1-040), grey (A1-040), ground
-      (A2-018), GROW (A2-020 M), grown-up (A2-020 F), growth (A2-020 F), guest (A2-037), guide
-      (A2-001), guitar (A1-024)
-   H  hair (A1-016), hall (A2-004), hand (A1-006), happily (A1-038 F), happiness (A1-038 F), HAPPY
-      (A1-038 M), hard (A1-023), hard-working (A1-023 F), harm (A2-038), hat (A1-029), head
-      (A1-016), HEALTH (A2-033 M), healthy (A2-033 F), hear (A2-031), heart (A1-017), heat (A1-039
+      M), EAT (A1-007 M), educate (B1-011 F), educated (B1-011 F), EDUCATION (B1-011 M), educational
+      (B1-011 F), effect (B1-029), effective (B1-027), EFFORT (B1-030 M), effortless (B1-030 F),
+      effortlessly (B1-030 F), egg (A1-009), email (A1-018), emergency (B1-041), emission (B1-024),
+      emotional (B1-026), EMPLOY (B1-009 M), employee (B1-009 F), employer (B1-009 F), employment
+      (B1-009 F), English (A1-017), ENJOY (A2-030 M), enjoyable (A2-030 F), enjoyment (A2-030 F),
+      entrance (A2-017), ENVIRONMENT (B1-021 M), environmental (B1-021 F), environmentalist (B1-021
+      F), environmentally (B1-021 F), equally (A2-037), equipment (A2-034), errand (B1-039),
+      especially (A2-037), essay (B1-008), essential (B1-006), Europe (A2-001), evening (A1-034),
+      event (A2-021), exactly (B1-012), exam (A1-004), example (A1-006), excellent (B1-001),
+      exciting (B1-033), exercise (A2-035), exit (A2-017), expensive (A1-011), EXPERIENCE (B1-005
+      M), experienced (B1-005 F), expert (B1-017), EXPLAIN (B1-012 M), explanation (B1-012 F),
+      express (B1-017), extra (A2-023), extreme (A2-034), eye (A1-028)
+   F  face (A1-038), facility (B1-025), fact (A2-040), fair (B1-041), fairly (A2-035), FALL (A2-018
+      M), false (A2-031), fame (B1-001), FAMILY (A1-014 M), fan (A2-034), far (A2-035), fashion
+      (A2-009), fast (A2-020), father (A1-014), favourite (A1-040), February (A1-000 ref), fee
+      (A2-023), feedback (B1-025), FEEL (A2-028 M), feeling (A2-028 F), ferry (A2-006), file
+      (A2-008), film (A1-025), final (A2-027), financial (B1-026), FIND (A2-017 M), finding (A2-017
+      F), fine (A2-023), finger (A1-016), finish (A1-023), fire (A2-005), fish (A1-009), fit
+      (A2-015), flat (A1-012), flight (A2-005), floor (A1-012), flower (A1-006), flu (A2-005),
+      follow (A2-035), food (A2-011), football (A1-024), forecast (A1-032), forest (B1-022), form
+      (B1-010), formal (B1-015), free (A1-030), fresh (A2-015), Friday (A1-000 ref), fridge
+      (A2-025), FRIEND (A1-015 M), friendly (A1-015 F), friendship (A1-015 F), fruit (A1-007), full
+      (A2-026), full-time (B1-009), funny (A2-017), furniture (A2-013), future (A2-021)
+   G  gain (B1-005), game (A1-024), garden (A1-026), gate (A1-028), GET (A1-003 M), gift (A2-007),
+      GIVE (A1-006 M), glass (A1-008), glasses (A1-029), global (B1-021), glove (B1-022), GO (A1-001
+      M), goal (B1-001), golden (B1-032), GOOD (A1-034 M), government (B1-026), grade (B1-001),
+      gradually (B1-003), grammar (B1-003), grandfather (A1-014), grandmother (A1-014), grass
+      (A2-015), great (A1-009), green (A1-040), grey (A1-040), ground (A2-018), group (B1-016), GROW
+      (A2-020 M), grown-up (A2-020 F), growth (A2-020 F), guest (A2-037), guide (A2-001), guitar
+      (A1-024)
+   H  HABIT (B1-031 M), habitual (B1-031 F), hair (A1-016), half (B1-024), hall (A2-004), hand
+      (A1-006), handle (B1-015), happily (A1-038 F), happiness (A1-038 F), HAPPY (A1-038 M), hard
+      (A1-023), hard-working (A1-023 F), harm (A2-038), hat (A1-029), head (A1-016), headache
+      (B1-015), HEALTH (A2-033 M), healthy (A2-033 F), hear (A2-031), heart (A1-017), heat (A1-039
       F), heater (A1-039 F), heating (A1-039 F), heavy (A2-016), helmet (A2-038), HELP (A1-026 M),
-      helper (A1-026 F), helpful (A1-026 F), helpless (A1-026 F), high (A2-031), history (A1-017),
-      hobby (A2-040), holiday (A1-001), home (A1-001), homework (A1-026), HOPE (A2-031 M), hopeful
-      (A2-031 F), hopefully (A2-031 F), hopeless (A2-031 F), hospital (A2-004), HOT (A1-039 M),
-      hotel (A1-033), hour (A1-028), HOUSE (A1-013 M), housework (A1-013), hug (A1-006), human
-      (A1-016), hungry (A2-028), hurry (A2-003), husband (A1-014)
-   I  ice (A2-019), idea (A1-034), ill (A2-018), importance (A2-037 F), IMPORTANT (A2-037 M),
-      importantly (A2-037 F), indoors (A2-002), information (A1-021), instruction (A2-038),
-      insurance (A2-033), INTEREST (A2-040 M), interested (A2-040 F), interesting (A2-040 F),
-      internet (A2-024), invite (A1-015)
-   J  jacket (A1-029), January (A1-000 ref), jeans (A1-029), job (A1-036), joke (A2-010), journey
-      (A2-021), juice (A1-008), July (A1-000 ref), June (A1-000 ref)
-   K  KEEP (A2-015 M), keeper (A2-015 F), kettle (A2-025), key (A1-027), kid (A2-032), kind
-      (A2-036), kitchen (A1-009), knife (A2-024), know (A2-040)
-   L  language (A1-017), laptop (A2-007), last (A1-030), late (A1-002), laughing (A2-026), law
-      (A2-019), leader (A2-039), LEARN (A1-017 M), learner (A1-017 F), learning (A1-017 F), LEAVE
-      (A2-003 M), left (A2-014), leg (A1-016), lesson (A1-036), letter (A1-018), level (A2-036), lie
-      (A2-010), life (A1-012 F), lifestyle (A2-033), light (A2-001), link (A2-008), list (A1-005),
-      LISTEN (A1-022 M), listener (A1-022 F), listening (A1-022 F), LIVE (A1-012 M), living (A1-012
-      F), local (A2-011), lonely (A2-028), LOOK (A1-027 M), LOSE (A2-016 M), loser (A2-016 F), loss
-      (A2-016 F), lost (A2-016 F), lottery (A2-027), loudly (A1-020), love (A2-018), luck (A1-034),
-      luggage (A2-003), lunch (A1-007)
-   M  magazine (A1-018), main (A2-032), MAKE (A1-005 M), man (A1-037), map (A1-018), March (A1-000
-      ref), married (A1-003), match (A1-025), May (A1-000 ref), meal (A1-009), meaning (A2-036),
-      meat (A1-007), medal (A2-027), media (A2-024), medicine (A1-004), meet (A1-015), member
-      (A1-014), memory (A2-016), mental (A2-033), menu (A1-021), message (A1-018), midnight
-      (A2-004), milk (A1-008), minute (A2-004), MISS (A2-006 M), missing (A2-006 F), mistake
-      (A1-005), mobile (A1-036), modern (A1-033), Monday (A1-000 ref), MONEY (A1-011 M), morning
-      (A1-034), mother (A1-014), mouse (A2-005), mouth (A1-028), MOVE (A2-013 M), movement (A2-013
-      F), moving (A2-013 F), muscle (A2-039), museum (A1-033), music (A1-022)
-   N  name (A1-019), native (A1-020), nature (A2-030), need (A1-026), neighbour (A1-026), nervous
-      (A2-028), NEW (A1-036 M), newly (A1-036 F), news (A1-018), newspaper (A1-010), next (A1-030),
-      nice (A1-031), night (A1-034), noise (A1-005), non-stop (A2-026 F), nose (A1-016), note
-      (A1-019), November (A1-000 ref), number (A1-013)
-   O  October (A1-000 ref), office (A1-023), OLD (A1-037 M), online (A1-010), only (A2-031), OPEN
-      (A1-028 M), opening (A1-028 F), openly (A1-028 F), option (A2-022), orange (A1-008), oven
-      (A1-039), overnight (A2-002)
-   P  package (A2-008), page (A2-014), paid (A2-023 F), pair (A1-010), parcel (A2-008), parent
-      (A1-012), Paris (A2-004), park (A1-033), part (A1-016), partner (A2-017), party (A1-002),
-      passport (A2-007), password (A2-012), pasta (A1-009), PAY (A2-023 M), payment (A2-023 F),
-      peace (A2-003), pen (A1-019), people (A1-037), perfectly (A2-038), person (A2-006), pet
-      (A2-015), petrol (A2-026), phone (A1-005), photo (A1-004), physical (A2-033), piano (A1-024),
-      picnic (A2-021), picture (A1-027), pink (A1-040), place (A2-012), PLAN (A2-021 M), plane
-      (A2-001), planner (A2-021 F), planning (A2-021 F), plant (A2-020), PLAY (A1-024 M), player
-      (A1-024 F), pocket (A1-011), podcast (A1-022), point (A2-037), police (A2-010), politely
-      (A1-020), poor (A1-011), positive (A2-029), post (A2-008), postcard (A1-019), potato (A2-020),
-      present (A1-006), pretty (A2-035), price (A1-021), prize (A2-027), problem (A1-035), programme
-      (A1-025), promise (A2-015), property (A2-016), public (A2-024), purple (A1-040), PUT (A2-025
-      M)
-   Q  question (A1-021), quickly (A1-017), quiet (A1-012), quiz (A2-009)
-   R  race (A2-027), radio (A1-022), rain (A1-032), reach (A2-035), READ (A1-018 M), reader (A1-018
-      F), reading (A1-018 F), ready (A1-003), really (A2-030), reason (A2-010), recipe (A2-011),
-      record (A2-019), red (A1-040), relative (A2-002), relax (A2-011), remember (A2-011), reminder
-      (A2-008), rent (A1-013), repeat (A1-022), reply (A2-008), respect (A2-009), rest (A2-026),
-      restaurant (A1-033), rice (A1-009), rich (A1-011), right (A2-014), road (A1-026), role
-      (A2-037), room (A1-012), rule (A2-019)
-   S  sad (A1-038), SAFE (A2-038 M), safely (A2-038 F), safety (A2-038 F), same (A1-030), sandwich
-      (A1-005), Saturday (A1-000 ref), save (A1-011), school (A1-001), sea (A1-012), seat (A1-004),
-      secret (A2-010), see (A1-038), sell (A1-010), SEND (A2-008 M), sender (A2-008 F), sentence
-      (A1-019), September (A1-000 ref), series (A1-025), service (A2-033), shape (A2-036), share
-      (A2-040), shelf (A2-025), shirt (A1-029), shoe (A1-010), shopping (A1-001), short (A2-002),
-      shoulder (A1-016), shouting (A2-026), SHOW (A2-009 M), shower (A1-004), sick (A2-028), singing
-      (A2-030), sister (A1-014), size (A2-020), skirt (A1-029), slightly (A2-032), slowly (A1-020),
-      small (A1-013), smell (A2-039), smile (A1-015), smoking (A2-026), snack (A2-007), snow
-      (A1-032), social (A2-024), soft (A1-008), son (A1-014), song (A1-022), soon (A2-004), sorry
-      (A2-028), sound (A2-038), soup (A1-039), SPEAK (A1-020 M), speaker (A1-020 F), special
-      (A2-040), speech (A1-020 F), spend (A1-011), spoken (A1-020 F), SPORT (A2-034 M), sporty
-      (A2-034 F), square (A1-033), stadium (A2-034), start (A1-023), station (A1-033), STAY (A2-002
-      M), step (A2-037), still (A2-031), STOP (A2-026 M), story (A1-018), street (A1-033), strength
-      (A2-039 F), strengthen (A2-039 F), STRONG (A2-039 M), strongly (A2-039 F), student (A1-036),
-      study (A2-021), subject (A2-012), summer (A1-039), Sunday (A1-000 ref), sunny (A1-032),
-      sunshine (A2-030), supermarket (A1-010), surprise (A1-035), swim (A1-017)
+      helper (A1-026 F), helpful (A1-026 F), helpless (A1-026 F), higher (B1-011), highly (B1-002),
+      history (A1-017), hobby (A2-040), hold (B1-035), holiday (A1-001), home (A1-001), homework
+      (A1-026), honest (B1-017), HOPE (A2-031 M), hopeful (A2-031 F), hopefully (A2-031 F), hopeless
+      (A2-031 F), hospital (A2-004), HOT (A1-039 M), hotel (A1-033), hour (A1-028), HOUSE (A1-013
+      M), housework (A1-013), hug (A1-006), huge (B1-030), human (A1-016), hungry (A2-028), hurry
+      (A2-003), husband (A1-014)
+   I  ice (A2-019), idea (A1-034), ideal (B1-027), ignore (B1-018), ill (A2-018), illness (B1-037),
+      importance (A2-037 F), IMPORTANT (A2-037 M), importantly (A2-037 F), IMPROVE (B1-003 M),
+      improvement (B1-003 F), income (B1-023), INCREASE (B1-023 M), increasingly (B1-023 F),
+      indecisive (B1-020 F), independence (B1-001), indoors (A2-002), inexperienced (B1-005 F),
+      information (A1-021), injury (B1-029), instruction (A2-038), insurance (A2-033), intense
+      (B1-034), INTEREST (A2-040 M), interested (A2-040 F), interesting (A2-040 F), internet
+      (A2-024), interview (B1-008), invite (A1-015), irresponsible (B1-035 F)
+   J  jacket (A1-029), January (A1-000 ref), jeans (A1-029), job (A1-036), join (B1-016), joint
+      (B1-030), joke (A2-010), journey (A2-021), juice (A1-008), July (A1-000 ref), June (A1-000
+      ref)
+   K  KEEP (A2-015 M), keeper (A2-015 F), kettle (A2-025), key (A1-027), kick (B1-031), kid
+      (A2-032), kind (A2-036), kitchen (A1-009), knife (A2-024), know (A2-040), knowledge (B1-010)
+   L  lack (B1-005), language (A1-017), laptop (A2-007), large (B1-009), largely (B1-035), last
+      (A1-030), late (A1-002), laughing (A2-026), law (A2-019), leader (A2-039), LEARN (A1-017 M),
+      learner (A1-017 F), learning (A1-017 F), LEAVE (A2-003 M), left (A2-014), leg (A1-016), legal
+      (B1-018), lesson (A1-036), letter (A1-018), level (A2-036), licence (B1-010), lie (A2-010),
+      life (A1-012 F), lifestyle (A2-033), light (A2-001), limit (B1-038), link (A2-008), list
+      (A1-005), LISTEN (A1-022 M), listener (A1-022 F), listening (A1-022 F), LIVE (A1-012 M),
+      lively (B1-016), living (A1-012 F), loan (B1-010), local (A2-011), logical (B1-012), lonely
+      (A2-028), long (B1-039), LOOK (A1-027 M), LOSE (A2-016 M), loser (A2-016 F), loss (A2-016 F),
+      lost (A2-016 F), lottery (A2-027), loudly (A1-020), love (A2-018), loyal (B1-026), luck
+      (A1-034), luggage (A2-003), lunch (A1-007)
+   M  magazine (A1-018), main (A2-032), major (B1-033), MAKE (A1-005 M), man (A1-037), MANAGE
+      (B1-007 M), manageable (B1-007 F), management (B1-007 F), manager (B1-007 F), map (A1-018),
+      marathon (B1-039), March (A1-000 ref), married (A1-003), master (B1-006), match (A1-025),
+      matter (B1-016), May (A1-000 ref), meal (A1-009), meaning (A2-036), meat (A1-007), medal
+      (A2-027), media (A2-024), medical (B1-018), medicine (A1-004), meet (A1-015), member (A1-014),
+      memory (A2-016), mental (A2-033), menu (A1-021), message (A1-018), method (B1-004), midnight
+      (A2-004), milk (A1-008), MIND (B1-040 M), mindful (B1-040 F), minute (A2-004), MISS (A2-006
+      M), missing (A2-006 F), mistake (A1-005), mobile (A1-036), modern (A1-033), moment (B1-020),
+      Monday (A1-000 ref), MONEY (A1-011 M), moral (B1-026), morning (A1-034), mother (A1-014),
+      mouse (A2-005), mouth (A1-028), MOVE (A2-013 M), movement (A2-013 F), moving (A2-013 F),
+      muscle (A2-039), museum (A1-033), music (A1-022), mystery (B1-027)
+   N  name (A1-019), nasty (B1-031), native (A1-020), nature (A2-030), need (A1-026), neighbour
+      (A1-026), nervous (A2-028), never (B1-040), NEW (A1-036 M), newly (A1-036 F), news (A1-018),
+      newspaper (A1-010), next (A1-030), nice (A1-031), night (A1-034), noise (A1-005), non-stop
+      (A2-026 F), nose (A1-016), note (A1-019), November (A1-000 ref), number (A1-013)
+   O  obvious (B1-027), October (A1-000 ref), offence (B1-037), offer (B1-018), office (A1-023), OLD
+      (A1-037 M), online (A1-010), only (A2-031), OPEN (A1-028 M), open-minded (B1-040 F), opening
+      (A1-028 F), openly (A1-028 F), OPINION (B1-017 M), OPPORTUNITY (B1-032 M), option (A2-022),
+      orange (A1-008), outcome (B1-002), oven (A1-039), overcome (B1-033), overnight (A2-002), own
+      (B1-007)
+   P  package (A2-008), page (A2-014), paid (A2-023 F), pain (B1-029), pair (A1-010), parcel
+      (A2-008), parent (A1-012), Paris (A2-004), park (A1-033), part (A1-016), part-time (B1-009),
+      partner (A2-017), party (A1-002), passport (A2-007), password (A2-012), pasta (A1-009), PAY
+      (A2-023 M), payment (A2-023 F), peace (A2-003), peaceful (B1-027), peer (B1-034), pen
+      (A1-019), people (A1-037), perfectly (A2-038), performance (B1-003), permanent (B1-009),
+      permission (B1-010), person (A2-006), personal (B1-004), pet (A2-015), petrol (A2-026), phone
+      (A1-005), photo (A1-004), physical (A2-033), piano (A1-024), picnic (A2-021), picture
+      (A1-027), piece (B1-018), pink (A1-040), place (A2-012), PLAN (A2-021 M), plane (A2-001),
+      planet (B1-022), planner (A2-021 F), planning (A2-021 F), plant (A2-020), PLAY (A1-024 M),
+      player (A1-024 F), pocket (A1-011), podcast (A1-022), point (A2-037), police (A2-010),
+      politely (A1-020), politics (B1-016), poll (B1-017), pollution (B1-021), poor (A1-011),
+      popular (B1-017), pose (B1-033), position (B1-010), positive (A2-029), possible (B1-012), post
+      (A2-008), postcard (A1-019), potato (A2-020), poverty (B1-024), powerful (B1-014), practical
+      (B1-005), practise (B1-006), preparation (B1-008 F), PREPARE (B1-008 M), prepared (B1-008 F),
+      present (A1-006), presentation (B1-006), preserve (B1-021), president (B1-039), PRESSURE
+      (B1-034 M), pretty (A2-035), previous (B1-005), price (A1-021), primary (B1-011), principle
+      (B1-019), private (B1-011), prize (A2-027), problem (A1-035), process (B1-012), product
+      (B1-004), production (B1-023), professional (B1-018), programme (A1-025), project (B1-007),
+      promise (A2-015), pronunciation (B1-003), proof (B1-025), property (A2-016), PROTECT (B1-022
+      M), protection (B1-022 F), protective (B1-022 F), PROVIDE (B1-025 M), provider (B1-025 F),
+      provision (B1-025 F), public (A2-024), purple (A1-040), purpose (B1-012), PUT (A2-025 M),
+      puzzle (B1-027)
+   Q  quality (B1-003), question (A1-021), quickly (A1-017), quiet (A1-012), quiz (A2-009)
+   R  race (A2-027), radio (A1-022), rain (A1-032), rare (B1-032), rate (B1-009), reach (A2-035),
+      READ (A1-018 M), reader (A1-018 F), reading (A1-018 F), ready (A1-003), real (B1-033), really
+      (A2-030), reason (A2-010), reasonably (B1-036), receive (B1-011), recipe (A2-011), record
+      (A2-019), red (A1-040), REDUCE (B1-024 M), reduction (B1-024 F), regret (B1-020), regular
+      (B1-031), relationship (B1-004), relative (A2-002), relax (A2-011), relieve (B1-034), remember
+      (A2-011), reminder (A2-008), rent (A1-013), repeat (A1-022), reply (A2-008), report (B1-008),
+      require (B1-006), rescue (B1-030), resist (B1-034), respect (A2-009), responsibility (B1-035
+      F), RESPONSIBLE (B1-035 M), responsibly (B1-035 F), rest (A2-026), restaurant (A1-033),
+      restore (B1-036), result (B1-001), rice (A1-009), rich (A1-011), right (A2-014), rights
+      (B1-022), rise (B1-033), risk (B1-023), road (A1-026), role (A2-037), room (A1-012), root
+      (B1-029), rule (A2-019), RUN (B1-039 M), runner (B1-039 F), running (B1-039 F)
+   S  sad (A1-038), SAFE (A2-038 M), safely (A2-038 F), safety (A2-038 F), salad (B1-008), sale
+      (B1-023), same (A1-030), sandwich (A1-005), Saturday (A1-000 ref), save (A1-011), scene
+      (B1-038), scholarship (B1-010), school (A1-001), sea (A1-012), seat (A1-004), secondary
+      (B1-011), secret (A2-010), security (B1-025), see (A1-038), seek (B1-018), seize (B1-032),
+      self-confidence (B1-036 F), self-employed (B1-009 F), sell (A1-010), SEND (A2-008 M), sender
+      (A2-008 F), senior (B1-007), sense (B1-035), sensible (B1-013), sentence (A1-019), September
+      (A1-000 ref), series (A1-025), SERIOUS (B1-037 M), seriously (B1-037 F), seriousness (B1-037
+      F), service (A2-033), SET (B1-038 M), setting (B1-038 F), settle (B1-014), shape (A2-036),
+      share (A2-040), sharp (B1-023), shelf (A2-025), shelter (B1-025), shirt (A1-029), shoe
+      (A1-010), shopping (A1-001), short (A2-002), shoulder (A1-016), shouting (A2-026), SHOW
+      (A2-009 M), shower (A1-004), sick (A2-028), sign (B1-019), silly (B1-014), simple (B1-012),
+      singing (A2-030), sister (A1-014), situation (B1-003), size (A2-020), skilful (B1-006 F),
+      SKILL (B1-006 M), skilled (B1-006 F), skin (B1-022), skirt (A1-029), sleeping (B1-031),
+      slightly (A2-032), slip (B1-040), slowly (A1-020), small (A1-013), smell (A2-039), smile
+      (A1-015), smoking (A2-026), smoothly (B1-039), snack (A2-007), snow (A1-032), social (A2-024),
+      soft (A1-008), software (B1-004), solution (B1-027 F), SOLVE (B1-027 M), son (A1-014), song
+      (A1-022), soon (A2-004), sorry (A2-028), sound (A2-038), soup (A1-039), SPEAK (A1-020 M),
+      speaker (A1-020 F), special (A2-040), speech (A1-020 F), speed (B1-024), spend (A1-011),
+      spoken (A1-020 F), SPORT (A2-034 M), sporty (A2-034 F), square (A1-033), stable (B1-021),
+      stadium (A2-034), staff (B1-007), standard (B1-038), start (A1-023), state (B1-040), station
+      (A1-033), STAY (A2-002 M), steady (B1-023), step (A2-037), still (A2-031), STOP (A2-026 M),
+      story (A1-018), street (A1-033), strength (A2-039 F), strengthen (A2-039 F), stress (B1-007),
+      strike (B1-041), STRONG (A2-039 M), strongly (A2-039 F), student (A1-036), study (A2-021),
+      subject (A2-012), SUCCEED (B1-002 M), success (B1-002 F), successful (B1-002 F), successfully
+      (B1-002 F), SUGGEST (B1-013 M), suggestion (B1-013 F), summary (B1-008), summer (A1-039),
+      Sunday (A1-000 ref), sunny (A1-032), sunshine (A2-030), supermarket (A1-010), SUPPORT (B1-026
+      M), supporter (B1-026 F), supportive (B1-026 F), surprise (A1-035), swim (A1-017), system
+      (B1-004)
    T  table (A2-003), TAKE (A1-004 M), talent (A2-009), talking (A2-026), tall (A2-020), target
       (A2-006), task (A2-035), taste (A2-039), tax (A2-023), taxi (A1-003), tea (A1-005), team
-      (A2-034), TELL (A2-010 M), temperature (A2-018), tennis (A1-024), terribly (A2-032), test
-      (A2-035), text (A1-018), thanks (A1-026), theatre (A1-033), thief (A2-005), thing (A2-037),
+      (A2-034), technical (B1-006), technology (B1-004), TELL (A2-010 M), temperature (A2-018),
+      temporary (B1-009), tend (B1-019), tennis (A1-024), terribly (A2-032), test (A2-035), text
+      (A1-018), thanks (A1-026), theatre (A1-033), theory (B1-004), thief (A2-005), thing (A2-037),
       THINK (A2-029 M), thinker (A2-029 F), thirsty (A2-028), thought (A2-029 F), thoughtful (A2-029
-      F), Thursday (A1-000 ref), ticket (A1-003), tidy (A2-015), TIME (A1-030 M), tip (A2-003),
-      tired (A1-003), toe (A1-016), tomato (A2-020), tomorrow (A1-031), tool (A2-024), tooth
-      (A1-016), top (A1-012), topic (A2-022), totally (A2-036), touch (A2-002), towel (A2-007), town
-      (A1-036), toy (A1-024), train (A1-033), transport (A2-024), TRAVEL (A2-001 M), traveller
-      (A2-001 F), tree (A1-035), trip (A2-021), trousers (A1-029), truth (A2-010), TRY (A2-011 M),
+      F), threat (B1-037), Thursday (A1-000 ref), ticket (A1-003), tidy (A2-015), TIME (A1-030 M),
+      tip (A2-003), tired (A1-003), toe (A1-016), tomato (A2-020), tomorrow (A1-031), tool (A2-024),
+      tooth (A1-016), top (A1-012), topic (A2-022), totally (A2-036), touch (A2-002), tough
+      (B1-020), towel (A2-007), town (A1-036), toy (A1-024), trade (B1-019), traffic (B1-024), train
+      (A1-033), training (B1-011), transport (A2-024), TRAVEL (A2-001 M), traveller (A2-001 F), tree
+      (A1-035), trip (A2-021), trouble (B1-028), trousers (A1-029), truth (A2-010), TRY (A2-011 M),
       Tuesday (A1-000 ref), TURN (A2-014 M), turning (A2-014 F), TV (A1-025), twice (A2-029), type
       (A2-036), tyre (A2-012)
-   U  umbrella (A1-004), uncle (A1-014), understand (A2-011), unfriendly (A1-015 F), unhappy (A1-038
-      F), unhealthy (A2-033 F), unimportant (A2-037 F), university (A2-022), unsafe (A2-038 F),
-      upstairs (A1-013), USE (A2-024 M), useful (A2-024 F), useless (A2-024 F), user (A2-024 F)
-   V  vegetable (A1-007), video (A1-025), view (A2-030), village (A1-012), visit (A1-015), voice
-      (A2-016), volume (A2-014)
-   W  wait (A1-021), walk (A1-001), wallet (A2-016), warm (A1-032), wash (A1-016), WATCH (A1-025 M),
-      water (A1-008), way (A1-021), weakness (A2-039), WEAR (A1-029 M), WEATHER (A1-032 M), wedding
-      (A2-021), Wednesday (A1-000 ref), week (A2-002), weekend (A1-023), weight (A2-016), well
-      (A1-034 F), wet (A1-032), white (A1-040), whole (A1-014), wide (A1-028), wife (A1-014), WIN
-      (A2-027 M), wind (A1-032), window (A1-027), winner (A2-027 F), winter (A2-034), woman
-      (A1-037), word (A1-017), WORK (A1-023 M), worker (A1-023 F), world (A2-001), worried (A2-032
-      F), WORRY (A2-032 M), worrying (A2-032 F), WRITE (A1-019 M), writer (A1-019 F), writing
-      (A1-019 F), written (A1-019 F)
-   Y  year (A1-037), yellow (A1-040), yesterday (A1-031)
+   U  umbrella (A1-004), unavoidable (B1-028 F), uncle (A1-014), understand (A2-011), unemployed
+      (B1-009 F), unemployment (B1-009 F), unforgettable (B1-005), unfriendly (A1-015 F), unhappy
+      (A1-038 F), unhealthy (A2-033 F), unimportant (A2-037 F), unique (B1-032), university
+      (A2-022), unsafe (A2-038 F), unskilled (B1-006 F), unsuccessful (B1-002 F), upstairs (A1-013),
+      urban (B1-021), USE (A2-024 M), useful (A2-024 F), useless (A2-024 F), user (A2-024 F)
+   V  valuable (B1-005), vegetable (A1-007), victory (B1-001), video (A1-025), view (A2-030),
+      village (A1-012), visa (B1-010), visit (A1-015), vocabulary (B1-003), voice (A2-016), volume
+      (A2-014)
+   W  wait (A1-021), walk (A1-001), wallet (A2-016), warm (A1-032), wash (A1-016), waste (B1-024),
+      WATCH (A1-025 M), water (A1-008), way (A1-021), weakness (A2-039), WEAR (A1-029 M), WEATHER
+      (A1-032 M), wedding (A2-021), Wednesday (A1-000 ref), week (A2-002), weekend (A1-023), weight
+      (A2-016), welcome (B1-013), well (A1-034 F), wet (A1-032), white (A1-040), whole (A1-014),
+      wide (A1-028), wife (A1-014), wildlife (B1-022), WIN (A2-027 M), wind (A1-032), window
+      (A1-027), winner (A2-027 F), winter (A2-034), wise (B1-020), wish (B1-002), woman (A1-037),
+      wonderful (B1-032), word (A1-017), WORK (A1-023 M), worker (A1-023 F), world (A2-001), worried
+      (A2-032 F), WORRY (A2-032 M), worrying (A2-032 F), worst (B1-008), worth (B1-030), WRITE
+      (A1-019 M), writer (A1-019 F), writing (A1-019 F), written (A1-019 F), wrong (B1-020)
+   Y  year (A1-037), yellow (A1-040), yesterday (A1-031), youth (B1-009)
 
-7. RECORD 3 — ALL EXPRESSIONS AND COLLOCATIONS COVERED (640)
+7. RECORD 3 — ALL EXPRESSIONS AND COLLOCATIONS COVERED (968)
 ----------------------------------------------------------------------------------------------------
    a big country [A1-035]; a big dog [A1-035]; a big problem [A1-035]; a big surprise [A1-035]; a
-   big tree [A1-035]; a bright colour [A1-040]; a busy day [A1-031]; a cold drink [A1-008]; a dark
-   colour [A1-040]; a day off [A1-031]; a different kind [A2-036]; a fall in temperature [A2-018]; a
-   fashion show [A2-009]; a friend of mine [A1-015]; a friendly smile [A1-015]; a full stop
-   [A2-026]; a good idea [A1-034]; a great cook [A1-009]; a happy child [A1-038]; a happy couple
-   [A1-038]; a happy face [A1-038]; a health check [A2-033]; a healthy diet [A2-033]; a healthy
-   lifestyle [A2-033]; a heavy loss [A2-016]; a helpful neighbour [A1-026]; a hot bath [A1-039]; a
-   hot dish [A1-039]; a hot oven [A1-039]; a hot summer [A1-039]; a house with a balcony [A1-013]; a
-   missing person [A2-006]; a modern city [A1-033]; a native speaker [A1-020]; a new car [A1-036]; a
-   new job [A1-036]; a new lesson [A1-036]; a new mobile [A1-036]; a new student [A1-036]; a quiet
-   life [A1-012]; a quiz show [A2-009]; a safe area [A2-038]; a safe distance [A2-038]; a safety
-   helmet [A2-038]; a short stay [A2-002]; a small house [A1-013]; a soft drink [A1-008]; a special
-   interest [A2-040]; a sports club [A2-034]; a sports fan [A2-034]; a sports stadium [A2-034]; a
-   strong accent [A2-039]; a strong character [A2-039]; a strong leader [A2-039]; a strong smell
-   [A2-039]; a strong taste [A2-039]; a study plan [A2-021]; a talent show [A2-009]; a team sport
-   [A2-034]; a travel agent [A2-001]; a travel guide [A2-001]; all day [A1-031]; all the time
-   [A1-030]; an easy exercise [A2-035]; an easy task [A2-035]; an easy test [A2-035]; an important
-   discovery [A2-037]; an important guest [A2-037]; an important point [A2-037]; an important role
-   [A2-037]; an important step [A2-037]; an interesting article [A2-040]; an old bridge [A1-037]; an
-   old building [A1-037]; an old man [A1-037]; an old woman [A1-037]; arms and legs [A1-016];
-   arrivals and departures [A2-004]; arrive at midnight [A2-004]; arrive at the hospital [A2-004];
-   arrive by coach [A2-004]; arrive in Paris [A2-004]; arrive soon [A2-004]; arrive within minutes
-   [A2-004]; ask a question [A1-021]; ask about the price [A1-021]; ask again [A1-021]; ask for
-   information [A1-021]; ask for the bill [A1-021]; ask for the menu [A1-021]; ask sb to wait
-   [A1-021]; ask the way [A1-021]; at the same time [A1-030]; at work [A1-023]; aunt and uncle
-   [A1-014]; bad weather [A1-032]; bedroom and bathroom [A1-013]; best friend [A1-015]; big enough
-   [A1-035]; black and white [A1-040]; borrow money [A1-011]; brand new [A1-036]; break a bone
-   [A2-019]; break a record [A2-019]; break a rule [A2-019]; break down [A2-019]; break the ice
-   [A2-019]; break the law [A2-019]; break up [A2-019]; bring a camera [A2-007]; bring a gift
-   [A2-007]; bring a towel [A2-007]; bring some snacks [A2-007]; bring sth along [A2-007]; bring up
-   [A2-007]; bring your laptop [A2-007]; bring your passport [A2-007]; brother and sister [A1-014];
-   brown and grey [A1-040]; brush your teeth [A1-016]; buy a newspaper [A1-010]; buy a pair of shoes
-   [A1-010]; buy and sell [A1-010]; buy at the supermarket [A1-010]; buy bread [A1-010]; buy cheese
-   [A1-010]; buy clothes [A1-010]; buy online [A1-010]; capital city [A1-033]; catch a ball
-   [A2-005]; catch a flight [A2-005]; catch a mouse [A2-005]; catch a thief [A2-005]; catch fire
-   [A2-005]; catch sb doing sth [A2-005]; catch the flu [A2-005]; catch up with sb [A2-005]; change
-   a tyre [A2-012]; change completely [A2-012]; change places [A2-012]; change the channel [A2-012];
-   change the date [A2-012]; change the subject [A2-012]; change your password [A2-012]; chat with
-   friends [A1-015]; cheap or expensive [A1-011]; choose a career [A2-022]; choose a course
-   [A2-022]; choose a design [A2-022]; choose a topic [A2-022]; choose a university [A2-022]; choose
-   an option [A2-022]; choose between [A2-022]; city centre [A1-033]; city streets [A1-033]; clean
-   the house [A1-013]; close friend [A1-015]; come back [A1-002]; come early [A1-002]; come from
-   [A1-002]; come here [A1-002]; come in [A1-002]; come late [A1-002]; come on [A1-002]; come to a
-   party [A1-002]; common interests [A2-040]; cook a meal [A1-009]; cook chicken [A1-009]; cook eggs
-   [A1-009]; cook fish [A1-009]; cook in the kitchen [A1-009]; cook pasta [A1-009]; cook rice
-   [A1-009]; cost a lot of money [A1-011]; damage your health [A2-033]; different cultures [A2-036];
-   different from [A2-036]; different levels [A2-036]; different meanings [A2-036]; different shapes
-   [A2-036]; different types [A2-036]; do sport [A2-034]; do the housework [A1-013]; don't worry
+   big tree [A1-035]; a bright colour [A1-040]; a busy day [A1-031]; a cold drink [A1-008]; a
+   commercial success [B1-002]; a convincing argument [B1-014]; a creature of habit [B1-031]; a
+   customer complaint [B1-015]; a dark colour [A1-040]; a day off [A1-031]; a decisive moment
+   [B1-020]; a desperate effort [B1-030]; a determined effort [B1-030]; a different kind [A2-036]; a
+   done deal [B1-041]; a fair deal [B1-041]; a fall in temperature [A2-018]; a fashion show
+   [A2-009]; a formal complaint [B1-015]; a friend of mine [A1-015]; a friendly smile [A1-015]; a
+   full stop [A2-026]; a golden opportunity [B1-032]; a good idea [A1-034]; a great cook [A1-009]; a
+   group discussion [B1-016]; a happy child [A1-038]; a happy couple [A1-038]; a happy face
+   [A1-038]; a health check [A2-033]; a healthy diet [A2-033]; a healthy lifestyle [A2-033]; a heavy
+   loss [A2-016]; a helpful neighbour [A1-026]; a hot bath [A1-039]; a hot dish [A1-039]; a hot oven
+   [A1-039]; a hot summer [A1-039]; a house with a balcony [A1-013]; a huge effort [B1-030]; a joint
+   effort [B1-030]; a large employer [B1-009]; a lively discussion [B1-016]; a logical explanation
+   [B1-012]; a loyal supporter [B1-026]; a major challenge [B1-033]; a missing person [A2-006]; a
+   modern city [A1-033]; a nasty habit [B1-031]; a native speaker [A1-020]; a new car [A1-036]; a
+   new job [A1-036]; a new lesson [A1-036]; a new mobile [A1-036]; a new student [A1-036]; a
+   part-time employee [B1-009]; a peaceful solution [B1-027]; a permanent employee [B1-009]; a piece
+   of advice [B1-018]; a possible explanation [B1-012]; a powerful argument [B1-014]; a quiet life
+   [A1-012]; a quiz show [A2-009]; a rare opportunity [B1-032]; a real challenge [B1-033]; a regular
+   habit [B1-031]; a safe area [A2-038]; a safe distance [A2-038]; a safety helmet [A2-038]; a
+   second opinion [B1-017]; a sense of responsibility [B1-035]; a sensible suggestion [B1-013]; a
+   serious attempt [B1-037]; a serious illness [B1-037]; a serious offence [B1-037]; a serious
+   threat [B1-037]; a sharp increase [B1-023]; a short stay [A2-002]; a silly argument [B1-014]; a
+   simple explanation [B1-012]; a small house [A1-013]; a soft drink [A1-008]; a special interest
+   [A2-040]; a sports club [A2-034]; a sports fan [A2-034]; a sports stadium [A2-034]; a stable
+   environment [B1-021]; a steady increase [B1-023]; a strong accent [A2-039]; a strong character
+   [A2-039]; a strong leader [A2-039]; a strong smell [A2-039]; a strong taste [A2-039]; a study
+   plan [A2-021]; a successful outcome [B1-002]; a talent show [A2-009]; a team sport [A2-034]; a
+   tough decision [B1-020]; a trade agreement [B1-019]; a travel agent [A2-001]; a travel guide
+   [A2-001]; a unique opportunity [B1-032]; a valuable experience [B1-005]; a wise decision
+   [B1-020]; a wonderful opportunity [B1-032]; absolutely agree [B1-019]; academic success [B1-002];
+   accept a suggestion [B1-013]; access to education [B1-011]; achieve a goal [B1-001]; achieve a
+   victory [B1-001]; achieve an aim [B1-001]; achieve excellent grades [B1-001]; achieve fame
+   [B1-001]; achieve independence [B1-001]; achieve results [B1-001]; achieve your ambition
+   [B1-001]; act responsibly [B1-035]; adult education [B1-011]; advise sb to do sth [B1-018]; agree
+   in principle [B1-019]; agree to do sth [B1-019]; agree with sb [B1-019]; air pressure [B1-034];
+   all day [A1-031]; all the time [A1-030]; an amazing experience [B1-005]; an annoying habit
+   [B1-031]; an application form [B1-010]; an art dealer [B1-041]; an easy exercise [A2-035]; an
+   easy task [A2-035]; an easy test [A2-035]; an effective solution [B1-027]; an employment agency
+   [B1-009]; an environmental disaster [B1-021]; an exciting challenge [B1-033]; an expert opinion
+   [B1-017]; an honest opinion [B1-017]; an ideal solution [B1-027]; an important discovery
+   [A2-037]; an important guest [A2-037]; an important point [A2-037]; an important role [A2-037];
+   an important step [A2-037]; an interesting article [A2-040]; an obvious solution [B1-027]; an old
+   bridge [A1-037]; an old building [A1-037]; an old man [A1-037]; an old woman [A1-037]; an opinion
+   poll [B1-017]; an opportunity to do sth [B1-032]; an unforgettable experience [B1-005]; apply for
+   a licence [B1-010]; apply for a loan [B1-010]; apply for a position [B1-010]; apply for a
+   scholarship [B1-010]; apply for a visa [B1-010]; apply for permission [B1-010]; apply knowledge
+   [B1-010]; argue against [B1-014]; argue that [B1-014]; argue with sb [B1-014]; arms and legs
+   [A1-016]; arrivals and departures [A2-004]; arrive at midnight [A2-004]; arrive at the hospital
+   [A2-004]; arrive by coach [A2-004]; arrive in Paris [A2-004]; arrive soon [A2-004]; arrive within
+   minutes [A2-004]; ask a question [A1-021]; ask about the price [A1-021]; ask again [A1-021]; ask
+   for information [A1-021]; ask for the bill [A1-021]; ask for the menu [A1-021]; ask sb to wait
+   [A1-021]; ask the way [A1-021]; at sb's suggestion [B1-013]; at the first opportunity [B1-032];
+   at the same time [A1-030]; at work [A1-023]; aunt and uncle [A1-014]; avoid alcohol [B1-028];
+   avoid an accident [B1-028]; avoid confusion [B1-028]; avoid contact [B1-028]; avoid danger
+   [B1-028]; avoid doing sth [B1-028]; avoid the crowds [B1-028]; avoid trouble [B1-028]; bad
+   weather [A1-032]; basic skills [B1-006]; be in the habit of [B1-031]; be of the opinion that
+   [B1-017]; be prepared to [B1-008]; be serious about [B1-037]; bedroom and bathroom [A1-013]; best
+   friend [A1-015]; big enough [A1-035]; black and white [A1-040]; blood pressure [B1-034]; boost
+   your confidence [B1-036]; borrow money [A1-011]; brand new [A1-036]; break a bone [A2-019]; break
+   a record [A2-019]; break a rule [A2-019]; break down [A2-019]; break the ice [A2-019]; break the
+   law [A2-019]; break up [A2-019]; bring a camera [A2-007]; bring a gift [A2-007]; bring a towel
+   [A2-007]; bring some snacks [A2-007]; bring sth along [A2-007]; bring up [A2-007]; bring your
+   laptop [A2-007]; bring your passport [A2-007]; brother and sister [A1-014]; brown and grey
+   [A1-040]; brush your teeth [A1-016]; buy a newspaper [A1-010]; buy a pair of shoes [A1-010]; buy
+   and sell [A1-010]; buy at the supermarket [A1-010]; buy bread [A1-010]; buy cheese [A1-010]; buy
+   clothes [A1-010]; buy online [A1-010]; can't complain [B1-015]; capital city [A1-033]; catch a
+   ball [A2-005]; catch a flight [A2-005]; catch a mouse [A2-005]; catch a thief [A2-005]; catch
+   fire [A2-005]; catch sb doing sth [A2-005]; catch the flu [A2-005]; catch up with sb [A2-005];
+   cause a disease [B1-029]; cause an injury [B1-029]; cause and effect [B1-029]; cause chaos
+   [B1-029]; cause concern [B1-029]; cause of death [B1-029]; cause pain [B1-029]; celebrate success
+   [B1-002]; challenge a belief [B1-033]; change a tyre [A2-012]; change completely [A2-012]; change
+   places [A2-012]; change the channel [A2-012]; change the date [A2-012]; change the subject
+   [A2-012]; change your password [A2-012]; chat with friends [A1-015]; cheap or expensive [A1-011];
+   choose a career [A2-022]; choose a course [A2-022]; choose a design [A2-022]; choose a topic
+   [A2-022]; choose a university [A2-022]; choose an option [A2-022]; choose between [A2-022]; city
+   centre [A1-033]; city streets [A1-033]; clean the house [A1-013]; close friend [A1-015]; come
+   back [A1-002]; come early [A1-002]; come from [A1-002]; come here [A1-002]; come in [A1-002];
+   come late [A1-002]; come on [A1-002]; come to a party [A1-002]; common interests [A2-040];
+   communication skills [B1-006]; complain about the delay [B1-015]; complain of a headache
+   [B1-015]; confident about [B1-036]; confident enough [B1-036]; consider a suggestion [B1-013];
+   cook a meal [A1-009]; cook chicken [A1-009]; cook eggs [A1-009]; cook fish [A1-009]; cook in the
+   kitchen [A1-009]; cook pasta [A1-009]; cook rice [A1-009]; cope with pressure [B1-034]; cost a
+   lot of money [A1-011]; couldn't agree more [B1-019]; create an opportunity [B1-032]; damage your
+   health [A2-033]; data protection [B1-022]; deadly serious [B1-037]; deal with [B1-041]; deal with
+   an emergency [B1-041]; decide on [B1-020]; decide to do sth [B1-020]; decide whether [B1-020];
+   deny responsibility [B1-035]; destroy the environment [B1-021]; develop a method [B1-004];
+   develop a product [B1-004]; develop a relationship [B1-004]; develop a system [B1-004]; develop a
+   theory [B1-004]; develop software [B1-004]; develop technology [B1-004]; different cultures
+   [A2-036]; different from [A2-036]; different levels [A2-036]; different meanings [A2-036];
+   different shapes [A2-036]; different types [A2-036]; discuss politics [B1-016]; discuss the
+   advantages [B1-016]; discuss the matter [B1-016]; discuss with colleagues [B1-016]; do a deal
+   [B1-041]; do sport [A2-034]; do the housework [A1-013]; do you mind [B1-040]; don't worry
    [A2-032]; drink a glass of milk [A1-008]; drink coffee [A1-008]; drink from a bottle [A1-008];
    drink orange juice [A1-008]; drink water [A1-008]; earn money [A1-011]; easy to follow [A2-035];
    easy to reach [A2-035]; eat an apple [A1-007]; eat breakfast [A1-007]; eat fruit [A1-007]; eat
    lunch [A1-007]; eat meat [A1-007]; eat out [A1-007]; eat too much [A1-007]; eat vegetables
-   [A1-007]; enjoy a concert [A2-030]; enjoy dancing [A2-030]; enjoy nature [A2-030]; enjoy singing
-   [A2-030]; enjoy the sunshine [A2-030]; enjoy the view [A2-030]; enjoy yourself [A2-030]; equally
-   important [A2-037]; especially important [A2-037]; every day [A1-031]; extreme sports [A2-034];
-   fairly easy [A2-035]; fall asleep [A2-018]; fall behind [A2-018]; fall ill [A2-018]; fall in love
-   [A2-018]; fall off a bike [A2-018]; fall over [A2-018]; fall to the ground [A2-018]; false hope
-   [A2-031]; family member [A1-014]; far from easy [A2-035]; favourite colour [A1-040]; feel
-   comfortable [A2-028]; feel hungry [A2-028]; feel like [A2-028]; feel lonely [A2-028]; feel
-   nervous [A2-028]; feel sick [A2-028]; feel sorry [A2-028]; feel thirsty [A2-028]; find a partner
-   [A2-017]; find accommodation [A2-017]; find out [A2-017]; find sth boring [A2-017]; find sth
-   difficult [A2-017]; find sth funny [A2-017]; find the entrance [A2-017]; find the exit [A2-017];
-   fingers and toes [A1-016]; finish work [A1-023]; for a change [A2-012]; free time [A1-030]; get a
-   taxi [A1-003]; get a ticket [A1-003]; get angry [A1-003]; get dressed [A1-003]; get married
-   [A1-003]; get ready [A1-003]; get tired [A1-003]; get up [A1-003]; give a present [A1-006]; give
-   an answer [A1-006]; give an example [A1-006]; give back [A1-006]; give directions [A1-006]; give
-   flowers [A1-006]; give sb a hand [A1-006]; give sb a hug [A1-006]; go by bus [A1-001]; go for a
-   walk [A1-001]; go home [A1-001]; go on holiday [A1-001]; go out [A1-001]; go shopping [A1-001];
-   go to bed [A1-001]; go to school [A1-001]; good afternoon [A1-034]; good at sth [A1-034]; good
-   evening [A1-034]; good for you [A1-034]; good luck [A1-034]; good morning [A1-034]; good night
-   [A1-034]; grandmother and grandfather [A1-014]; green and yellow [A1-040]; grow a beard [A2-020];
-   grow fast [A2-020]; grow in size [A2-020]; grow plants [A2-020]; grow potatoes [A2-020]; grow
-   tall [A2-020]; grow tomatoes [A2-020]; grow up [A2-020]; happy birthday [A1-038]; happy or sad
-   [A1-038]; happy to see you [A1-038]; happy together [A1-038]; happy with sth [A1-038]; have a
-   break [A2-019]; have a drink [A1-008]; have a look [A1-027]; have a nice day [A1-031]; have a try
-   [A2-011]; have no choice [A2-022]; have time for [A1-030]; head and shoulders [A1-016]; health
-   insurance [A2-033]; health service [A2-033]; help in the garden [A1-026]; help sb carry a bag
-   [A1-026]; help sb cross the road [A1-026]; help with homework [A1-026]; help yourself [A1-026];
-   high hopes [A2-031]; hobbies and interests [A2-040]; hope to hear from you [A2-031]; hot and dry
-   [A1-039]; hot chocolate [A1-039]; hot soup [A1-039]; hotels and restaurants [A1-033]; how old
-   [A1-037]; husband and wife [A1-014]; I hope not [A2-031]; I hope so [A2-031]; I think so
-   [A2-029]; in the hope of [A2-031]; interested in [A2-040]; interested to know [A2-040];
-   interesting facts [A2-040]; invite a friend [A1-015]; keep a diary [A2-015]; keep a promise
+   [A1-007]; education and training [B1-011]; emotional support [B1-026]; enjoy a concert [A2-030];
+   enjoy dancing [A2-030]; enjoy nature [A2-030]; enjoy singing [A2-030]; enjoy the sunshine
+   [A2-030]; enjoy the view [A2-030]; enjoy yourself [A2-030]; environmental awareness [B1-021];
+   environmental pollution [B1-021]; equally important [A2-037]; especially important [A2-037];
+   essential skills [B1-006]; every day [A1-031]; explain briefly [B1-012]; explain exactly
+   [B1-012]; explain the process [B1-012]; explain the purpose [B1-012]; explain why [B1-012];
+   express an opinion [B1-017]; extreme sports [A2-034]; fairly easy [A2-035]; fall asleep [A2-018];
+   fall behind [A2-018]; fall ill [A2-018]; fall in love [A2-018]; fall off a bike [A2-018]; fall
+   over [A2-018]; fall to the ground [A2-018]; false hope [A2-031]; family member [A1-014]; far from
+   easy [A2-035]; favourite colour [A1-040]; feel comfortable [A2-028]; feel hungry [A2-028]; feel
+   like [A2-028]; feel lonely [A2-028]; feel nervous [A2-028]; feel sick [A2-028]; feel sorry
+   [A2-028]; feel thirsty [A2-028]; financial support [B1-026]; find a partner [A2-017]; find
+   accommodation [A2-017]; find out [A2-017]; find sth boring [A2-017]; find sth difficult [A2-017];
+   find sth funny [A2-017]; find the entrance [A2-017]; find the exit [A2-017]; fingers and toes
+   [A1-016]; finish work [A1-023]; for a change [A2-012]; free time [A1-030]; full-time employment
+   [B1-009]; gain experience [B1-005]; get a taxi [A1-003]; get a ticket [A1-003]; get angry
+   [A1-003]; get dressed [A1-003]; get married [A1-003]; get ready [A1-003]; get tired [A1-003]; get
+   up [A1-003]; give a present [A1-006]; give an answer [A1-006]; give an example [A1-006]; give
+   back [A1-006]; give directions [A1-006]; give flowers [A1-006]; give sb a hand [A1-006]; give sb
+   a hug [A1-006]; go by bus [A1-001]; go for a walk [A1-001]; go home [A1-001]; go on holiday
+   [A1-001]; go out [A1-001]; go shopping [A1-001]; go to bed [A1-001]; go to school [A1-001]; good
+   afternoon [A1-034]; good at sth [A1-034]; good evening [A1-034]; good for you [A1-034]; good luck
+   [A1-034]; good morning [A1-034]; good night [A1-034]; grandmother and grandfather [A1-014]; green
+   and yellow [A1-040]; grow a beard [A2-020]; grow fast [A2-020]; grow in size [A2-020]; grow
+   plants [A2-020]; grow potatoes [A2-020]; grow tall [A2-020]; grow tomatoes [A2-020]; grow up
+   [A2-020]; handle a complaint [B1-015]; happy birthday [A1-038]; happy or sad [A1-038]; happy to
+   see you [A1-038]; happy together [A1-038]; happy with sth [A1-038]; have a break [A2-019]; have a
+   drink [A1-008]; have a look [A1-027]; have a nice day [A1-031]; have a responsibility to
+   [B1-035]; have a try [A2-011]; have an argument [B1-014]; have confidence in [B1-036]; have no
+   choice [A2-022]; have no complaints [B1-015]; have sth in mind [B1-040]; have time for [A1-030];
+   head and shoulders [A1-016]; health insurance [A2-033]; health service [A2-033]; help in the
+   garden [A1-026]; help sb carry a bag [A1-026]; help sb cross the road [A1-026]; help with
+   homework [A1-026]; help yourself [A1-026]; higher education [B1-011]; highly successful [B1-002];
+   hobbies and interests [A2-040]; hold sb responsible [B1-035]; hope to hear from you [A2-031];
+   hopes and dreams [A2-031]; hot and dry [A1-039]; hot chocolate [A1-039]; hot soup [A1-039];
+   hotels and restaurants [A1-033]; how old [A1-037]; husband and wife [A1-014]; I don't mind
+   [B1-040]; I hope not [A2-031]; I hope so [A2-031]; I think so [A2-029]; ignore advice [B1-018];
+   improve conditions [B1-003]; improve gradually [B1-003]; improve the quality [B1-003]; improve
+   the situation [B1-003]; improve your grammar [B1-003]; improve your performance [B1-003]; improve
+   your pronunciation [B1-003]; improve your vocabulary [B1-003]; in an effort to [B1-030]; in
+   confidence [B1-036]; in my experience [B1-005]; in my opinion [B1-017]; in support of [B1-026];
+   in the hope of [A2-031]; in the long run [B1-039]; in two minds [B1-040]; increase by ten per
+   cent [B1-023]; increase production [B1-023]; increase sales [B1-023]; increase the amount
+   [B1-023]; increase the risk [B1-023]; increase your income [B1-023]; intense pressure [B1-034];
+   interested in [A2-040]; interested to know [A2-040]; interesting facts [A2-040]; invite a friend
+   [A1-015]; it's a deal [B1-041]; join a discussion [B1-016]; keep a diary [A2-015]; keep a promise
    [A2-015]; keep fit [A2-015]; keep off the grass [A2-015]; keep pets [A2-015]; keep sth fresh
-   [A2-015]; keep sth tidy [A2-015]; keep up with [A2-015]; last time [A1-030]; learn a language
-   [A1-017]; learn about history [A1-017]; learn by heart [A1-017]; learn English [A1-017]; learn
-   quickly [A1-017]; learn to drive [A1-017]; learn to swim [A1-017]; learn words [A1-017]; leave a
-   comment [A2-003]; leave a tip [A2-003]; leave for the airport [A2-003]; leave in a hurry
-   [A2-003]; leave sb in peace [A2-003]; leave sth behind [A2-003]; leave the table [A2-003]; leave
-   your luggage [A2-003]; listen and repeat [A1-022]; listen carefully [A1-022]; listen to a
+   [A2-015]; keep sth tidy [A2-015]; keep up with [A2-015]; kick the habit [B1-031]; lack experience
+   [B1-005]; largely responsible [B1-035]; last time [A1-030]; learn a language [A1-017]; learn
+   about history [A1-017]; learn by heart [A1-017]; learn English [A1-017]; learn quickly [A1-017];
+   learn to drive [A1-017]; learn to swim [A1-017]; learn words [A1-017]; leave a comment [A2-003];
+   leave a tip [A2-003]; leave for the airport [A2-003]; leave in a hurry [A2-003]; leave sb in
+   peace [A2-003]; leave sth behind [A2-003]; leave the table [A2-003]; leave your luggage [A2-003];
+   legal advice [B1-018]; listen and repeat [A1-022]; listen carefully [A1-022]; listen to a
    conversation [A1-022]; listen to a podcast [A1-022]; listen to a song [A1-022]; listen to music
    [A1-022]; listen to the birds [A1-022]; listen to the radio [A1-022]; live alone [A1-012]; live
    in a flat [A1-012]; live in a village [A1-012]; live near the sea [A1-012]; live on the top floor
@@ -446,75 +650,110 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
    lose your balance [A2-016]; lose your memory [A2-016]; lose your voice [A2-016]; lose your wallet
    [A2-016]; lost property [A2-016]; make a cake [A1-005]; make a cup of tea [A1-005]; make a list
    [A1-005]; make a mistake [A1-005]; make a noise [A1-005]; make a phone call [A1-005]; make a
-   sandwich [A1-005]; make dinner [A1-005]; meet a friend [A1-015]; mental health [A2-033]; miss a
-   chance [A2-006]; miss a class [A2-006]; miss a deadline [A2-006]; miss an appointment [A2-006];
-   miss the beginning [A2-006]; miss the ferry [A2-006]; miss the target [A2-006]; mother and father
-   [A1-014]; move away [A2-013]; move forward [A2-013]; move furniture [A2-013]; move in [A2-013];
-   move on [A2-013]; move out [A2-013]; move to the countryside [A2-013]; move your chair [A2-013];
-   museums and theatres [A1-033]; my house number [A1-013]; my only hope [A2-031]; need help
-   [A1-026]; new in town [A1-036]; next time [A1-030]; nose and ears [A1-016]; nothing to worry
-   about [A2-032]; old age [A1-037]; old people [A1-037]; on second thoughts [A2-029]; on time
-   [A1-030]; one day [A1-031]; open a box [A1-028]; open the curtains [A1-028]; open the door
+   sandwich [A1-005]; make dinner [A1-005]; manage a budget [B1-007]; manage a department [B1-007];
+   manage a project [B1-007]; manage on your own [B1-007]; manage staff [B1-007]; manage stress
+   [B1-007]; manage to do sth [B1-007]; master a skill [B1-006]; medical advice [B1-018]; meet a
+   friend [A1-015]; mental health [A2-033]; miss a chance [A2-006]; miss a class [A2-006]; miss a
+   deadline [A2-006]; miss an appointment [A2-006]; miss the beginning [A2-006]; miss the ferry
+   [A2-006]; miss the target [A2-006]; moral support [B1-026]; mother and father [A1-014]; move away
+   [A2-013]; move forward [A2-013]; move furniture [A2-013]; move in [A2-013]; move on [A2-013];
+   move out [A2-013]; move to the countryside [A2-013]; move your chair [A2-013]; museums and
+   theatres [A1-033]; my house number [A1-013]; my only hope [A2-031]; need help [A1-026]; never
+   mind [B1-040]; new in town [A1-036]; next time [A1-030]; nose and ears [A1-016]; nothing to
+   complain about [B1-015]; nothing to worry about [A2-032]; offer advice [B1-018]; old age
+   [A1-037]; old people [A1-037]; on second thoughts [A2-029]; on time [A1-030]; on your mind
+   [B1-040]; one day [A1-031]; open a box [A1-028]; open the curtains [A1-028]; open the door
    [A1-028]; open the gate [A1-028]; open your eyes [A1-028]; open your mouth [A1-028]; opening
-   hours [A1-028]; parks and squares [A1-033]; parts of the body [A1-016]; pay a fee [A2-023]; pay a
-   fine [A2-023]; pay attention [A2-023]; pay back [A2-023]; pay cash [A2-023]; pay extra [A2-023];
-   pay in advance [A2-023]; pay tax [A2-023]; perfectly safe [A2-038]; physical health [A2-033];
-   pink and purple [A1-040]; plan a journey [A2-021]; plan a picnic [A2-021]; plan a trip [A2-021];
-   plan a wedding [A2-021]; plan ahead [A2-021]; plan an event [A2-021]; plan your future [A2-021];
-   play cards [A1-024]; play chess [A1-024]; play computer games [A1-024]; play football [A1-024];
-   play tennis [A1-024]; play the guitar [A1-024]; play the piano [A1-024]; play with toys [A1-024];
-   pocket money [A1-011]; pretty easy [A2-035]; put away [A2-025]; put off [A2-025]; put on
-   [A2-025]; put out [A2-025]; put sth in the fridge [A2-025]; put sth on the shelf [A2-025]; put
-   the kettle on [A2-025]; put up with [A2-025]; rain and snow [A1-032]; read a book [A1-018]; read
-   a letter [A1-018]; read a magazine [A1-018]; read a map [A1-018]; read a story [A1-018]; read a
-   text message [A1-018]; read an email [A1-018]; read the news [A1-018]; really enjoy [A2-030]; red
-   and blue [A1-040]; rent a house [A1-013]; rich and poor [A1-011]; safe and sound [A2-038]; safe
-   from harm [A2-038]; safety first [A2-038]; safety instructions [A2-038]; save money [A1-011];
-   send a document [A2-008]; send a file [A2-008]; send a link [A2-008]; send a package [A2-008];
-   send a parcel [A2-008]; send a reminder [A2-008]; send a reply [A2-008]; send by post [A2-008];
-   share an interest [A2-040]; show off [A2-009]; show respect [A2-009]; show sb around [A2-009];
-   show sb how [A2-009]; show up [A2-009]; slightly worried [A2-032]; son and daughter [A1-014];
-   speak Azerbaijani [A1-020]; speak clearly [A1-020]; speak loudly [A1-020]; speak politely
-   [A1-020]; speak slowly [A1-020]; speak to sb [A1-020]; speak up [A1-020]; spend money [A1-011];
-   sports equipment [A2-034]; start work [A1-023]; stay awake [A2-002]; stay calm [A2-002]; stay for
-   a week [A2-002]; stay in touch [A2-002]; stay indoors [A2-002]; stay overnight [A2-002]; stay
-   with relatives [A2-002]; stop crying [A2-026]; stop for a rest [A2-026]; stop for petrol
-   [A2-026]; stop laughing [A2-026]; stop shouting [A2-026]; stop smoking [A2-026]; stop talking
-   [A2-026]; strengths and weaknesses [A2-039]; strong enough [A2-039]; strong muscles [A2-039];
-   sunny weather [A1-032]; take a photo [A1-004]; take a seat [A1-004]; take a shower [A1-004]; take
-   an exam [A1-004]; take an umbrella [A1-004]; take care [A1-004]; take medicine [A1-004]; take off
-   [A1-004]; tell a joke [A2-010]; tell a lie [A2-010]; tell sb a secret [A2-010]; tell sb off
-   [A2-010]; tell sb the details [A2-010]; tell sb the reason [A2-010]; tell the police [A2-010];
-   tell the truth [A2-010]; ten years old [A1-037]; terribly worried [A2-032]; thanks for your help
-   [A1-026]; the arrivals hall [A2-004]; the biggest animal [A1-035]; the day after tomorrow
-   [A1-031]; the day before yesterday [A1-031]; the human body [A1-016]; the main worry [A2-032];
-   the most important thing [A2-037]; the train station [A1-033]; the weather forecast [A1-032]; the
-   whole family [A1-014]; there is still hope [A2-031]; think about [A2-029]; think deeply [A2-029];
-   think it over [A2-029]; think of [A2-029]; think positive [A2-029]; think twice [A2-029]; too big
-   [A1-035]; too hot [A1-039]; totally different [A2-036]; travel abroad [A2-001]; travel across
-   Europe [A2-001]; travel around the world [A2-001]; travel by plane [A2-001]; travel light
-   [A2-001]; travel on business [A2-001]; try a recipe [A2-011]; try on [A2-011]; try sth out
-   [A2-011]; try the local food [A2-011]; try to relax [A2-011]; try to remember [A2-011]; try to
-   understand [A2-011]; turn a corner [A2-014]; turn into [A2-014]; turn left [A2-014]; turn off
-   [A2-014]; turn on [A2-014]; turn right [A2-014]; turn the page [A2-014]; turn up the volume
-   [A2-014]; upstairs and downstairs [A1-013]; use a dictionary [A2-024]; use a knife [A2-024]; use
+   hours [A1-028]; out of habit [B1-031]; overcome a challenge [B1-033]; parks and squares [A1-033];
+   parts of the body [A1-016]; pay a fee [A2-023]; pay a fine [A2-023]; pay attention [A2-023]; pay
+   back [A2-023]; pay cash [A2-023]; pay extra [A2-023]; pay in advance [A2-023]; pay tax [A2-023];
+   peer pressure [B1-034]; perfectly safe [A2-038]; personal development [B1-004]; physical health
+   [A2-033]; pink and purple [A1-040]; plan a journey [A2-021]; plan a picnic [A2-021]; plan a trip
+   [A2-021]; plan a wedding [A2-021]; plan ahead [A2-021]; plan an event [A2-021]; plan your future
+   [A2-021]; play cards [A1-024]; play chess [A1-024]; play computer games [A1-024]; play football
+   [A1-024]; play tennis [A1-024]; play the guitar [A1-024]; play the piano [A1-024]; play with toys
+   [A1-024]; pocket money [A1-011]; popular opinion [B1-017]; pose a challenge [B1-033]; practical
+   experience [B1-005]; practise a skill [B1-006]; prepare a report [B1-008]; prepare a salad
+   [B1-008]; prepare a summary [B1-008]; prepare an essay [B1-008]; prepare for an interview
+   [B1-008]; prepare for the worst [B1-008]; prepare yourself [B1-008]; presentation skills
+   [B1-006]; preserve the environment [B1-021]; pretty easy [A2-035]; previous experience [B1-005];
+   primary education [B1-011]; private education [B1-011]; professional advice [B1-018]; protect
+   against [B1-022]; protect forests [B1-022]; protect the planet [B1-022]; protect wildlife
+   [B1-022]; protect your rights [B1-022]; protect your skin [B1-022]; protective gloves [B1-022];
+   provide assistance [B1-025]; provide facilities [B1-025]; provide feedback [B1-025]; provide for
+   [B1-025]; provide proof [B1-025]; provide security [B1-025]; provide shelter [B1-025]; provided
+   that [B1-025]; put away [A2-025]; put off [A2-025]; put on [A2-025]; put out [A2-025]; put sth in
+   the fridge [A2-025]; put sth on the shelf [A2-025]; put the kettle on [A2-025]; put up with
+   [A2-025]; rain and snow [A1-032]; read a book [A1-018]; read a letter [A1-018]; read a magazine
+   [A1-018]; read a map [A1-018]; read a story [A1-018]; read a text message [A1-018]; read an email
+   [A1-018]; read the news [A1-018]; really enjoy [A2-030]; reasonably confident [B1-036]; receive
+   an education [B1-011]; red and blue [A1-040]; reduce by half [B1-024]; reduce crime [B1-024];
+   reduce debt [B1-024]; reduce emissions [B1-024]; reduce poverty [B1-024]; reduce speed [B1-024];
+   reduce traffic [B1-024]; reduce waste [B1-024]; regret a decision [B1-020]; relieve the pressure
+   [B1-034]; rent a house [A1-013]; require skill [B1-006]; rescue efforts [B1-030]; resist pressure
+   [B1-034]; responsible behaviour [B1-035]; responsible for [B1-035]; restore confidence [B1-036];
+   rich and poor [A1-011]; rise to the challenge [B1-033]; run a marathon [B1-039]; run away
+   [B1-039]; run errands [B1-039]; run for president [B1-039]; run into [B1-039]; run out of
+   [B1-039]; run smoothly [B1-039]; safe and sound [A2-038]; safe from harm [A2-038]; safety first
+   [A2-038]; safety instructions [A2-038]; save money [A1-011]; secondary education [B1-011]; seek
+   advice [B1-018]; seize an opportunity [B1-032]; send a document [A2-008]; send a file [A2-008];
+   send a link [A2-008]; send a package [A2-008]; send a parcel [A2-008]; send a reminder [A2-008];
+   send a reply [A2-008]; send by post [A2-008]; senior management [B1-007]; serious doubts
+   [B1-037]; set a limit [B1-038]; set a standard [B1-038]; set an alarm [B1-038]; set aside
+   [B1-038]; set off [B1-038]; set out [B1-038]; set the scene [B1-038]; set up [B1-038]; settle an
+   argument [B1-014]; share an interest [A2-040]; show off [A2-009]; show respect [A2-009]; show sb
+   around [A2-009]; show sb how [A2-009]; show up [A2-009]; sign an agreement [B1-019]; sleeping
+   habits [B1-031]; slightly worried [A2-032]; slip your mind [B1-040]; solve a conflict [B1-027];
+   solve a crisis [B1-027]; solve a mystery [B1-027]; solve a puzzle [B1-027]; son and daughter
+   [A1-014]; speak Azerbaijani [A1-020]; speak clearly [A1-020]; speak loudly [A1-020]; speak
+   politely [A1-020]; speak slowly [A1-020]; speak to sb [A1-020]; speak up [A1-020]; spend money
+   [A1-011]; sports equipment [A2-034]; start work [A1-023]; state of mind [B1-040]; stay awake
+   [A2-002]; stay calm [A2-002]; stay for a week [A2-002]; stay in touch [A2-002]; stay indoors
+   [A2-002]; stay overnight [A2-002]; stay with relatives [A2-002]; stop crying [A2-026]; stop for a
+   rest [A2-026]; stop for petrol [A2-026]; stop laughing [A2-026]; stop shouting [A2-026]; stop
+   smoking [A2-026]; stop talking [A2-026]; strengths and weaknesses [A2-039]; strike a deal
+   [B1-041]; strong enough [A2-039]; strong muscles [A2-039]; succeed in doing sth [B1-002]; suggest
+   an activity [B1-013]; suggest an alternative [B1-013]; suggest that [B1-013]; sunny weather
+   [A1-032]; support a charity [B1-026]; support a claim [B1-026]; support the government [B1-026];
+   take a photo [A1-004]; take a seat [A1-004]; take a shower [A1-004]; take an exam [A1-004]; take
+   an umbrella [A1-004]; take care [A1-004]; take medicine [A1-004]; take off [A1-004]; technical
+   skills [B1-006]; tell a joke [A2-010]; tell a lie [A2-010]; tell sb a secret [A2-010]; tell sb
+   off [A2-010]; tell sb the details [A2-010]; tell sb the reason [A2-010]; tell the police
+   [A2-010]; tell the truth [A2-010]; temporary employment [B1-009]; ten years old [A1-037]; tend to
+   agree [B1-019]; terribly worried [A2-032]; thanks for your help [A1-026]; the arrivals hall
+   [A2-004]; the biggest animal [A1-035]; the challenges ahead [B1-033]; the day after tomorrow
+   [A1-031]; the day before yesterday [A1-031]; the global environment [B1-021]; the human body
+   [A1-016]; the main worry [A2-032]; the most important thing [A2-037]; the root cause [B1-029];
+   the train station [A1-033]; the unemployment rate [B1-009]; the urban environment [B1-021]; the
+   weather forecast [A1-032]; the whole family [A1-014]; the wrong decision [B1-020]; there is still
+   hope [A2-031]; think about [A2-029]; think deeply [A2-029]; think it over [A2-029]; think of
+   [A2-029]; think positive [A2-029]; think twice [A2-029]; too big [A1-035]; too hot [A1-039];
+   totally different [A2-036]; travel abroad [A2-001]; travel across Europe [A2-001]; travel around
+   the world [A2-001]; travel by plane [A2-001]; travel light [A2-001]; travel on business [A2-001];
+   try a recipe [A2-011]; try on [A2-011]; try sth out [A2-011]; try the local food [A2-011]; try to
+   relax [A2-011]; try to remember [A2-011]; try to understand [A2-011]; turn a corner [A2-014];
+   turn into [A2-014]; turn left [A2-014]; turn off [A2-014]; turn on [A2-014]; turn right [A2-014];
+   turn the page [A2-014]; turn up the volume [A2-014]; under discussion [B1-016]; under pressure
+   [B1-034]; upstairs and downstairs [A1-013]; use a dictionary [A2-024]; use a knife [A2-024]; use
    a tool [A2-024]; use public transport [A2-024]; use social media [A2-024]; use the internet
    [A2-024]; use up [A2-024]; use your brain [A2-024]; visit a friend [A1-015]; warm weather
    [A1-032]; wash your hair [A1-016]; watch a film [A1-025]; watch a match [A1-025]; watch a
    programme [A1-025]; watch a series [A1-025]; watch a video [A1-025]; watch cartoons [A1-025];
    watch out [A1-025]; watch TV [A1-025]; wear a coat [A1-029]; wear a hat [A1-029]; wear a jacket
    [A1-029]; wear a shirt [A1-029]; wear a skirt [A1-029]; wear glasses [A1-029]; wear jeans
-   [A1-029]; wear trousers [A1-029]; wet weather [A1-032]; what time [A1-030]; what's new [A1-036];
-   what's the weather like [A1-032]; wide open [A1-028]; win a contest [A2-027]; win a medal
-   [A2-027]; win a prize [A2-027]; win a race [A2-027]; win an award [A2-027]; win the championship
-   [A2-027]; win the final [A2-027]; win the lottery [A2-027]; wind and clouds [A1-032]; winter
-   sports [A2-034]; work as a doctor [A1-023]; work at the weekend [A1-023]; work for a company
-   [A1-023]; work hard [A1-023]; work in an office [A1-023]; worry about [A2-032]; worry about the
-   kids [A2-032]; worry too much [A2-032]; write a note [A1-019]; write a postcard [A1-019]; write a
-   sentence [A1-019]; write an address [A1-019]; write down [A1-019]; write on the board [A1-019];
-   write with a pen [A1-019]; write your name [A1-019]
+   [A1-029]; wear trousers [A1-029]; welcome suggestions [B1-013]; wet weather [A1-032]; what time
+   [A1-030]; what's new [A1-036]; what's the weather like [A1-032]; wide open [A1-028]; win a
+   contest [A2-027]; win a medal [A2-027]; win a prize [A2-027]; win a race [A2-027]; win an award
+   [A2-027]; win the championship [A2-027]; win the final [A2-027]; win the lottery [A2-027]; wind
+   and clouds [A1-032]; winter sports [A2-034]; wish sb success [B1-002]; with confidence [B1-036];
+   with little effort [B1-030]; without success [B1-002]; work as a doctor [A1-023]; work at the
+   weekend [A1-023]; work for a company [A1-023]; work hard [A1-023]; work in an office [A1-023];
+   worry about [A2-032]; worry about the kids [A2-032]; worry too much [A2-032]; worth the effort
+   [B1-030]; write a note [A1-019]; write a postcard [A1-019]; write a sentence [A1-019]; write an
+   address [A1-019]; write down [A1-019]; write on the board [A1-019]; write with a pen [A1-019];
+   write your name [A1-019]; you can't be serious [B1-037]; youth unemployment [B1-009]
 
-8. RECORD 4 — WORD-FAMILY FORMS COVERED (95)
+8. RECORD 4 — WORD-FAMILY FORMS COVERED (174)
 ----------------------------------------------------------------------------------------------------
    A1-009 COOK: cooker (n), cooking (n)
    A1-010 BUY: buyer (n)
@@ -565,6 +804,44 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
    A2-038 SAFE: safety (n), unsafe (adj), safely (adv)
    A2-039 STRONG: strength (n), strengthen (v), strongly (adv)
    A2-040 INTEREST: interesting (adj), interested (adj)
+   B1-001 ACHIEVE: achievement (n), achiever (n), achievable (adj)
+   B1-002 SUCCEED: success (n), successful (adj), unsuccessful (adj), successfully (adv)
+   B1-003 IMPROVE: improvement (n)
+   B1-004 DEVELOP: development (n), developer (n), developing (adj), developed (adj)
+   B1-005 EXPERIENCE: experienced (adj), inexperienced (adj)
+   B1-006 SKILL: skilled (adj), skilful (adj), unskilled (adj)
+   B1-007 MANAGE: management (n), manager (n), manageable (adj)
+   B1-008 PREPARE: preparation (n), prepared (adj)
+   B1-009 EMPLOY: employee (n), employer (n), employment (n), unemployment (n), unemployed (adj),
+          self-employed (adj)
+   B1-010 APPLY: application (n), applicant (n)
+   B1-011 EDUCATION: educate (v), educational (adj), educated (adj)
+   B1-012 EXPLAIN: explanation (n)
+   B1-013 SUGGEST: suggestion (n)
+   B1-014 ARGUE: argument (n)
+   B1-015 COMPLAIN: complaint (n)
+   B1-016 DISCUSS: discussion (n)
+   B1-018 ADVICE: adviser (n), advise (v), advisable (adj)
+   B1-019 AGREE: agreement (n), disagreement (n), disagree (v)
+   B1-020 DECIDE: decision (n), decisive (adj), indecisive (adj)
+   B1-021 ENVIRONMENT: environmentalist (n), environmental (adj), environmentally (adv)
+   B1-022 PROTECT: protection (n), protective (adj)
+   B1-023 INCREASE: increasingly (adv)
+   B1-024 REDUCE: reduction (n)
+   B1-025 PROVIDE: provider (n), provision (n)
+   B1-026 SUPPORT: supporter (n), supportive (adj)
+   B1-027 SOLVE: solution (n)
+   B1-028 AVOID: avoidable (adj), unavoidable (adj)
+   B1-030 EFFORT: effortless (adj), effortlessly (adv)
+   B1-031 HABIT: habitual (adj)
+   B1-033 CHALLENGE: challenging (adj)
+   B1-035 RESPONSIBLE: responsibility (n), irresponsible (adj), responsibly (adv)
+   B1-036 CONFIDENT: confidence (n), self-confidence (n), confidently (adv)
+   B1-037 SERIOUS: seriousness (n), seriously (adv)
+   B1-038 SET: setting (n)
+   B1-039 RUN: runner (n), running (n)
+   B1-040 MIND: open-minded (adj), mindful (adj)
+   B1-041 DEAL: dealer (n)
 
 9. RECORD 5 — CEFR CLASSIFICATION
 ----------------------------------------------------------------------------------------------------
@@ -575,50 +852,61 @@ Generated: 2026-11-11   |   Pronunciation: British English (IPA)   |   Spelling:
    the expressions are chosen at, or close to, the level of the lesson.
    A1 Beginner               40 main words,   397 items
    A2 Elementary             40 main words,   359 items
-   B1 Intermediate            0 main words,     0 items
+   B1 Intermediate           41 main words,   384 items
    B2 Upper Intermediate      0 main words,     0 items
    C1 Advanced                0 main words,     0 items
    C2 Proficiency             0 main words,     0 items
 
    Automatic cross-check against open reference lists (CEFR-J Wordlist 1.5, Octanove C1/C2 1.0):
-   summary: same=45, one level apart=35, two or more apart=0, not in reference=0
-   A1: 651 of 1058 reference headwords (62%)
-   A2: 230 of 1221 reference headwords (19%)
-   B1: 125 of 2099 reference headwords (6%)
-   B2: 43 of 2428 reference headwords (2%)
-   C1: 5 of 921 reference headwords (1%)
+   summary: same=49, one level apart=64, two or more apart=8, not in reference=0
+   A1: 700 of 1058 reference headwords (66%)
+   A2: 373 of 1221 reference headwords (31%)
+   B1: 257 of 2099 reference headwords (12%)
+   B2: 90 of 2428 reference headwords (4%)
+   C1: 7 of 921 reference headwords (1%)
    C2: 1 of 882 reference headwords (0%)
-   summary: agree=79, differ=1, not in reference=0
+   summary: IPA agree=115, weak-vowel notation variants=6, differ=0, not in reference=0
 
 10. RECORD 6 — DUPLICATE DETECTION STATUS
 ----------------------------------------------------------------------------------------------------
    Result of the last build: PASSED
-   Items checked: 775   |   Expressions checked: 640   |   Repeated items: 0   |   Repeated expressions: 0
+   Items checked: 1,159   |   Expressions checked: 968   |   Repeated items: 0   |   Repeated expressions: 0
 
-   6a. Look-alike pairs declared to be DIFFERENT words (3):
+   6a. Look-alike pairs declared to be DIFFERENT words (5):
        glass / glasses — "glasses" = eyewear (eynək), a plural-only noun; "glass" = drinking glass
           (stəkan)
        leave / left — "left" = sol tərəf (direction); a different word from "left", the past form of
           LEAVE
        new / news — "news" (xəbərlər) is an independent uncountable noun, not a form of "new"
+       right / rights — "rights" = hüquqlar (plural noun); "right" in A2 is the direction /
+          "correct"
+       train / training — "training" = təlim, peşə hazırlığı; "train" in A1 is the vehicle (qatar)
 
-   6b. Members of one word family taught in different lessons, each exactly once (23 links):
-       bus [A1-001] ~ busy [A1-031]; busy [A1-031] ~ business [A2-001]; care [A1-004] ~ career
-       [A2-022]; care [A1-004] ~ carefully [A1-022]; carry [A1-026] ~ car [A1-036]; COME [A1-002] ~
-       comment [A2-003]; early [A1-002] ~ ear [A1-016]; fine [A2-023] ~ final [A2-027]; GIVE
-       [A1-006] ~ gift [A2-007]; glass [A1-008] ~ glasses [A1-029]; list [A1-005] ~ LISTEN [A1-022];
-       pair [A1-010] ~ PAY [A2-023]; party [A1-002] ~ part [A1-016]; ready [A1-003] ~ reading
-       [A1-018]; ready [A1-003] ~ reader [A1-018]; ready [A1-003] ~ READ [A1-018]; save [A1-011] ~
-       safety [A2-038]; save [A1-011] ~ SAFE [A2-038]; shower [A1-004] ~ SHOW [A2-009]; station
-       [A1-033] ~ STAY [A2-002]; student [A1-036] ~ study [A2-021]; TAKE [A1-004] ~ mistake
-       [A1-005]; top [A1-012] ~ topic [A2-022]
+   6b. Members of one word family taught in different lessons, each exactly once (56 links):
+       activity [B1-013] ~ act [B1-035]; apple [A1-007] ~ APPLY [B1-010]; bus [A1-001] ~ busy
+       [A1-031]; busy [A1-031] ~ business [A2-001]; care [A1-004] ~ career [A2-022]; care [A1-004] ~
+       carefully [A1-022]; carry [A1-026] ~ car [A1-036]; COME [A1-002] ~ income [B1-023]; COME
+       [A1-002] ~ comment [A2-003]; creature [B1-031] ~ create [B1-032]; death [B1-029] ~ deadly
+       [B1-037]; early [A1-002] ~ ear [A1-016]; ease [A2-035] ~ disease [B1-029]; effective [B1-027]
+       ~ effect [B1-029]; fairly [A2-035] ~ fair [B1-041]; FAMILY [A1-014] ~ fame [B1-001]; fine
+       [A2-023] ~ final [A2-027]; form [B1-010] ~ formal [B1-015]; GIVE [A1-006] ~ gift [A2-007];
+       glass [A1-008] ~ glasses [A1-029]; ill [A2-018] ~ illness [B1-037]; know [A2-040] ~ knowledge
+       [B1-010]; large [B1-009] ~ largely [B1-035]; law [A2-019] ~ legal [B1-018]; leg [A1-016] ~
+       legal [B1-018]; list [A1-005] ~ LISTEN [A1-022]; LIVE [A1-012] ~ lively [B1-016]; living
+       [A1-012] ~ lively [B1-016]; man [A1-037] ~ MANAGE [B1-007]; pair [A1-010] ~ PAY [A2-023];
+       party [A1-002] ~ part [A1-016]; peace [A2-003] ~ peaceful [B1-027]; person [A2-006] ~
+       personal [B1-004]; politely [A1-020] ~ politics [B1-016]; poor [A1-011] ~ poverty [B1-024];
+       position [B1-010] ~ pose [B1-033]; positive [A2-029] ~ position [B1-010]; present [A1-006] ~
+       presentation [B1-006]; product [B1-004] ~ production [B1-023]; ready [A1-003] ~ reading
+       [A1-018]; ready [A1-003] ~ reader [A1-018]; ready [A1-003] ~ READ [A1-018]; really [A2-030] ~
+       real [B1-033]; reason [A2-010] ~ reasonably [B1-036]; right [A2-014] ~ rights [B1-022]; save
+       [A1-011] ~ safety [A2-038]; save [A1-011] ~ SAFE [A2-038]; sell [A1-010] ~ sale [B1-023];
+       sensible [B1-013] ~ sense [B1-035]; shower [A1-004] ~ SHOW [A2-009]; station [A1-033] ~ state
+       [B1-040]; station [A1-033] ~ STAY [A2-002]; student [A1-036] ~ study [A2-021]; TAKE [A1-004]
+       ~ mistake [A1-005]; top [A1-012] ~ topic [A2-022]; train [A1-033] ~ training [B1-011]
 
 11. ROADMAP — MAIN WORDS RESERVED FOR THE NEXT PARTS
 ----------------------------------------------------------------------------------------------------
-   B1 (40): ACHIEVE, IMPROVE, DEVELOP, EXPERIENCE, SKILL, MANAGE, PREPARE, EMPLOY, APPLY, EDUCATION,
-        EXPLAIN, SUGGEST, ARGUE, COMPLAIN, DISCUSS, OPINION, ADVICE, AGREE, DECIDE, ENVIRONMENT,
-        PROTECT, INCREASE, REDUCE, PROVIDE, SUPPORT, SOLVE, AVOID, CAUSE, EFFORT, HABIT,
-        OPPORTUNITY, CHALLENGE, PRESSURE, RESPONSIBLE, CONFIDENT, SERIOUS, SET, RUN, MIND, DEAL
    B2 (40): ANALYSE, ASSESS, ASSUME, EVIDENCE, CONSEQUENCE, IMPACT, ISSUE, TREND, APPROACH,
         RESEARCH, SIGNIFICANT, CRUCIAL, INVEST, COMPETE, CONSUME, DEMAND, PROFIT, ECONOMY, RESOURCE,
         POLICY, CONTROVERSIAL, CAMPAIGN, SUSTAIN, INNOVATE, CLIMATE, MOTIVATE, ATTITUDE, ESTABLISH,

@@ -3,8 +3,8 @@ ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL B1 — INTERMEDIATE  /  Orta səviyyə
 ====================================================================================================
 File: B1_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
-Lessons in this file: 0   |   Expressions: 0   |   Example sentences: 0
-New vocabulary items introduced at level B1: 0   |   Language of usage notes: English
+Lessons in this file: 41   |   Expressions: 328   |   Example sentences: 164
+New vocabulary items introduced at level B1: 384   |   Language of usage notes: English
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -26,17 +26,2705 @@ THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
   "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
 
 CONTENTS OF THIS FILE
+   UNIT 1 — Achievement, skills and work  /  Nailiyyət, bacarıq və iş
+      B1-001 ACHIEVE, B1-002 SUCCEED, B1-003 IMPROVE, B1-004 DEVELOP, B1-005 EXPERIENCE, B1-006
+      SKILL, B1-007 MANAGE, B1-008 PREPARE, B1-009 EMPLOY, B1-010 APPLY
+   UNIT 2 — Education, opinions and discussion  /  Təhsil, fikirlər və müzakirə
+      B1-011 EDUCATION, B1-012 EXPLAIN, B1-013 SUGGEST, B1-014 ARGUE, B1-015 COMPLAIN, B1-016
+      DISCUSS, B1-017 OPINION, B1-018 ADVICE, B1-019 AGREE, B1-020 DECIDE
+   UNIT 3 — Environment, problems and solutions  /  Ətraf mühit, problemlər və həll yolları
+      B1-021 ENVIRONMENT, B1-022 PROTECT, B1-023 INCREASE, B1-024 REDUCE, B1-025 PROVIDE, B1-026
+      SUPPORT, B1-027 SOLVE, B1-028 AVOID, B1-029 CAUSE
+   UNIT 4 — Personal qualities and challenges  /  Şəxsi keyfiyyətlər və sınaqlar
+      B1-030 EFFORT, B1-031 HABIT, B1-032 OPPORTUNITY, B1-033 CHALLENGE, B1-034 PRESSURE, B1-035
+      RESPONSIBLE, B1-036 CONFIDENT, B1-037 SERIOUS
+   UNIT 5 — High-frequency words in idiomatic use  /  Çox işlənən sözlər idiomatik ifadələrdə
+      B1-038 SET, B1-039 RUN, B1-040 MIND, B1-041 DEAL
+
+
+####################################################################################################
+#  UNIT 1 — ACHIEVEMENT, SKILLS AND WORK
+#  Nailiyyət, bacarıq və iş
+####################################################################################################
+
+====================================================================================================
+LESSON B1-001   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: ACHIEVE
+Azerbaijani: Nail olmaq, əldə etmək, (məqsədə) çatmaq
+
+A. MAIN WORD
+   English spelling ....... achieve
+   Azerbaijani meaning .... nail olmaq, əldə etmək, (məqsədə) çatmaq
+   Part of speech ......... verb
+   Key forms .............. achieve – achieves – achieved – achieved – achieving
+   British English IPA .... /əˈtʃiːv/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ achievement — nailiyyət; achiever — nailiyyət qazanan şəxs
+   Verb forms ........ achieve (main word)
+   Adjective forms ... achievable — əldə edilə bilən, real
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Achieve a goal — Məqsədə çatmaq
+      Usage: The most common collocation; goal = something you plan and work for
+   2. Achieve results — Nəticə əldə etmək
+      Usage: Often with an adjective: achieve good / impressive results
+   3. Achieve an aim — Məqsədə nail olmaq
+      Usage: aim = purpose; slightly more formal than "goal"
+   4. Achieve your ambition — Arzusuna (iddiasına) çatmaq
+      Usage: ambition = a strong wish to succeed
+   5. Achieve independence — Müstəqillik əldə etmək
+      Usage: Used of countries and of young people
+   6. Achieve a victory — Qələbə qazanmaq
+      Usage: Formal; in sport, war and politics
+   7. Achieve excellent grades — Əla qiymətlər almaq
+      Usage: grade = a mark for school or university work
+   8. Achieve fame — Şöhrət qazanmaq
+      Usage: fame = the state of being known by many people
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She worked hard and achieved her goal.
+      → O, səylə çalışdı və məqsədinə çatdı.
+   2. Azerbaijan achieved independence in 1991.
+      → Azərbaycan 1991-ci ildə müstəqillik əldə etdi.
+   3. You will never achieve good results without practice.
+      → Məşq etmədən heç vaxt yaxşı nəticə əldə edə bilməzsən.
+   4. He achieved fame as a writer at the age of thirty.
+      → O, otuz yaşında yazıçı kimi şöhrət qazandı.
+
+E. USAGE EXPLANATION
+   ACHIEVE means to succeed in doing something after effort, so it combines with nouns for things
+   you aim at: a goal, an aim, results, an ambition. It is not used for receiving things by chance.
+   Compare REACH (reach a decision, reach a level) and GAIN (gain experience, gain confidence).
+   ACHIEVE is neutral to formal and is very common in essays, CVs and reports. The noun is
+   ACHIEVEMENT: "a great achievement".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (13): ACHIEVE [main], achievement [family], achiever
+      [family], achievable [family], goal, result, aim, ambition, independence, victory, excellent,
+      grade, fame
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (775 → 788 items).
+
+====================================================================================================
+LESSON B1-002   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: SUCCEED
+Azerbaijani: Uğur qazanmaq, müvəffəq olmaq, bacarmaq
+
+A. MAIN WORD
+   English spelling ....... succeed
+   Azerbaijani meaning .... uğur qazanmaq, müvəffəq olmaq, bacarmaq
+   Part of speech ......... verb
+   Key forms .............. succeed – succeeds – succeeded – succeeded – succeeding
+   British English IPA .... /səkˈsiːd/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ success — uğur, müvəffəqiyyət
+   Verb forms ........ succeed (main word)
+   Adjective forms ... successful — uğurlu; unsuccessful — uğursuz
+   Adverb forms ...... successfully — uğurla
+
+C. RELATED EXPRESSIONS
+   1. Succeed in doing sth — Nəyisə bacarmaq, bir işdə uğur qazanmaq
+      Usage: Pattern: succeed IN + -ing (never "succeed to do")
+   2. Without success — Uğursuz, nəticəsiz
+      Usage: Adverbial phrase: I tried, but without success
+   3. Highly successful — Çox uğurlu, olduqca uğurlu
+      Usage: "highly" is the usual intensifier here
+   4. A commercial success — Kommersiya uğuru
+      Usage: Of films, books and products that make money
+   5. Wish sb success — Kiməsə uğur arzulamaq
+      Usage: Formal good wishes: I wish you every success
+   6. A successful outcome — Uğurlu nəticə
+      Usage: outcome = the final result of a process
+   7. Academic success — Təhsildə uğur, akademik uğur
+      Usage: academic = connected with study
+   8. Celebrate success — Uğuru qeyd etmək
+      Usage: celebrate = mark a happy event
+
+D. NATURAL EXAMPLE SENTENCES
+   1. He succeeded in passing his driving test.
+      → O, sürücülük imtahanından keçə bildi.
+   2. I tried to call her several times, but without success.
+      → Ona bir neçə dəfə zəng etməyə çalışdım, amma alınmadı.
+   3. The film was a huge commercial success.
+      → Film böyük kommersiya uğuru qazandı.
+   4. We wish you every success in your new job.
+      → Yeni işinizdə sizə uğurlar arzulayırıq.
+
+E. USAGE EXPLANATION
+   SUCCEED is followed by IN + -ing, not by an infinitive: "She succeeded in finding a job." The
+   word family is frequent and easy to confuse: SUCCESS is the noun (/səkˈses/), SUCCESSFUL the
+   adjective, SUCCESSFULLY the adverb. A person, a plan or a product can be "a success". The
+   opposite verb is FAIL and the opposite noun is FAILURE.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): SUCCEED [main], success [family], successful
+      [family], unsuccessful [family], successfully [family], highly, commercial, wish, outcome,
+      academic, celebrate
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (788 → 799 items).
+
+====================================================================================================
+LESSON B1-003   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: IMPROVE
+Azerbaijani: Yaxşılaşdırmaq, təkmilləşdirmək; yaxşılaşmaq
+
+A. MAIN WORD
+   English spelling ....... improve
+   Azerbaijani meaning .... yaxşılaşdırmaq, təkmilləşdirmək; yaxşılaşmaq
+   Part of speech ......... verb
+   Key forms .............. improve – improves – improved – improved – improving
+   British English IPA .... /ɪmˈpruːv/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ improvement — yaxşılaşma, irəliləyiş
+   Verb forms ........ improve (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Improve the quality — Keyfiyyəti yaxşılaşdırmaq
+      Usage: improve the quality OF + noun
+   2. Improve your performance — Göstəricilərini (nəticələrini) yaxşılaşdırmaq
+      Usage: performance = how well you do something
+   3. Improve the situation — Vəziyyəti yaxşılaşdırmaq
+      Usage: situation = the conditions at a particular time
+   4. Improve your pronunciation — Tələffüzünü yaxşılaşdırmaq
+      Usage: Spelling: pronUNciation (not "pronounciation")
+   5. Improve conditions — Şəraiti yaxşılaşdırmaq
+      Usage: Plural: living conditions, working conditions
+   6. Improve your vocabulary — Söz ehtiyatını artırmaq
+      Usage: vocabulary = all the words you know
+   7. Improve gradually — Tədricən yaxşılaşmaq
+      Usage: Intransitive use; gradually = slowly, step by step
+   8. Improve your grammar — Qrammatikanı yaxşılaşdırmaq
+      Usage: grammar is uncountable
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Reading every day will improve your vocabulary.
+      → Hər gün mütaliə etmək söz ehtiyatınızı artıracaq.
+   2. The company wants to improve the quality of its service.
+      → Şirkət xidmətinin keyfiyyətini yaxşılaşdırmaq istəyir.
+   3. Her health is improving gradually.
+      → Onun səhhəti tədricən yaxşılaşır.
+   4. I need to improve my pronunciation.
+      → Mən tələffüzümü yaxşılaşdırmalıyam.
+
+E. USAGE EXPLANATION
+   IMPROVE is both transitive ("improve your English") and intransitive ("Your English has
+   improved"). In Azerbaijani these are two different verbs: yaxşılaşdırmaq and yaxşılaşmaq. The
+   noun IMPROVEMENT takes IN or ON: "an improvement in sales", "an improvement on last year".
+   Typical adverbs: improve greatly, slightly, gradually. "Make better" is possible, but IMPROVE is
+   the normal word in writing.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): IMPROVE [main], improvement [family], quality,
+      performance, situation, pronunciation, condition, vocabulary, gradually, grammar
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (799 → 809 items).
+
+====================================================================================================
+LESSON B1-004   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: DEVELOP
+Azerbaijani: İnkişaf etdirmək, işləyib hazırlamaq; inkişaf etmək
+
+A. MAIN WORD
+   English spelling ....... develop
+   Azerbaijani meaning .... inkişaf etdirmək, işləyib hazırlamaq; inkişaf etmək
+   Part of speech ......... verb
+   Key forms .............. develop – develops – developed – developed – developing
+   British English IPA .... /dɪˈveləp/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ development — inkişaf; developer — hazırlayan şəxs və ya şirkət, proqramçı
+   Verb forms ........ develop (main word)
+   Adjective forms ... developing — inkişaf etməkdə olan; developed — inkişaf etmiş
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Develop a product — Məhsul hazırlamaq (yaratmaq)
+      Usage: Business: design and create something for sale
+   2. Develop a relationship — Münasibət qurmaq
+      Usage: relationship = the way people are connected
+   3. Develop software — Proqram təminatı hazırlamaq
+      Usage: software is uncountable: "a software" is wrong
+   4. Develop a theory — Nəzəriyyə işləyib hazırlamaq
+      Usage: Academic; theory = a set of ideas that explains something
+   5. Develop a system — Sistem yaratmaq
+      Usage: system = an organised way of doing something
+   6. Develop technology — Texnologiya inkişaf etdirmək
+      Usage: technology = scientific knowledge used in practice
+   7. Develop a method — Üsul işləyib hazırlamaq
+      Usage: method = a planned way of doing something
+   8. Personal development — Şəxsi inkişaf
+      Usage: personal = of one particular person
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The company is developing a new product.
+      → Şirkət yeni məhsul hazırlayır.
+   2. Scientists have developed a new method of treating the disease.
+      → Alimlər xəstəliyin müalicəsi üçün yeni üsul işləyib hazırlayıblar.
+   3. The child is developing normally.
+      → Uşaq normal inkişaf edir.
+   4. Travelling is good for your personal development.
+      → Səyahət etmək şəxsi inkişafınız üçün faydalıdır.
+
+E. USAGE EXPLANATION
+   DEVELOP has no final "e": develop, developed, developing, development. Like IMPROVE it is both
+   transitive (develop a product) and intransitive (The town developed quickly). "A developing
+   country" is still building its economy; "a developed country" already has a strong one. With
+   illnesses it means "begin to have": develop a cough.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (13): DEVELOP [main], development [family], developer
+      [family], developing [family], developed [family], product, relationship, software, theory,
+      system, technology, method, personal
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (809 → 822 items).
+
+====================================================================================================
+LESSON B1-005   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: EXPERIENCE
+Azerbaijani: Təcrübə; başa gələn hadisə, təəssürat; yaşamaq, üzləşmək
+
+A. MAIN WORD
+   English spelling ....... experience
+   Azerbaijani meaning .... təcrübə; başa gələn hadisə, təəssürat; yaşamaq, üzləşmək
+   Part of speech ......... noun, verb
+   British English IPA .... /ɪkˈspɪəriəns/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ experience (main word)
+   Verb forms ........ experience (main word)
+   Adjective forms ... experienced — təcrübəli; inexperienced — təcrübəsiz
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Gain experience — Təcrübə qazanmaq
+      Usage: gain = get something useful gradually
+   2. Previous experience — Əvvəlki (iş) təcrübəsi
+      Usage: Job adverts: "no previous experience necessary"
+   3. An unforgettable experience — Unudulmaz təəssürat
+      Usage: Countable: one particular event
+   4. Practical experience — Praktiki təcrübə
+      Usage: practical = connected with real situations, not theory
+   5. Lack experience — Təcrübəsi çatışmamaq
+      Usage: lack (verb) = not have enough of
+   6. A valuable experience — Dəyərli təcrübə
+      Usage: valuable = very useful or worth a lot
+   7. In my experience — Mənim təcrübəmə görə
+      Usage: Introduces an opinion based on what you have seen
+   8. An amazing experience — Heyrətamiz təəssürat
+      Usage: amazing = very surprising and impressive
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She gained a lot of experience working abroad.
+      → O, xaricdə işləyərkən çoxlu təcrübə qazandı.
+   2. Do you have any previous experience of this type of work?
+      → Bu növ iş üzrə əvvəlki təcrübəniz varmı?
+   3. Visiting Shusha was an unforgettable experience.
+      → Şuşaya səfər unudulmaz təəssürat idi.
+   4. In my experience, children learn faster than adults.
+      → Mənim təcrübəmə görə, uşaqlar böyüklərdən daha tez öyrənirlər.
+
+E. USAGE EXPLANATION
+   EXPERIENCE is uncountable when it means knowledge or skill from doing something ("He has a lot of
+   experience" – no plural), and countable when it means an event that affected you ("an
+   unforgettable experience"). Azerbaijani "təcrübə" also means a scientific test, but that is
+   EXPERIMENT in English. As a verb it is rather formal: "experience difficulties".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): EXPERIENCE [main], experienced [family],
+      inexperienced [family], gain, previous, unforgettable, practical, lack, valuable, amazing
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (822 → 832 items).
+
+====================================================================================================
+LESSON B1-006   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: SKILL
+Azerbaijani: Bacarıq, vərdiş, məharət
+
+A. MAIN WORD
+   English spelling ....... skill
+   Azerbaijani meaning .... bacarıq, vərdiş, məharət
+   Part of speech ......... noun
+   British English IPA .... /skɪl/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ skill (main word)
+   Verb forms ........ —
+   Adjective forms ... skilled — ixtisaslı, bacarıqlı; skilful — məharətli, usta; unskilled —
+                       ixtisassız
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Communication skills — Ünsiyyət bacarıqları
+      Usage: Standard CV phrase; always plural
+   2. Basic skills — Əsas (ilkin) bacarıqlar
+      Usage: basic = simple and most necessary
+   3. Require skill — Məharət tələb etmək
+      Usage: require = need (formal)
+   4. Technical skills — Texniki bacarıqlar
+      Usage: technical = connected with the practical use of machines or methods
+   5. Essential skills — Zəruri bacarıqlar
+      Usage: essential = completely necessary
+   6. Master a skill — Bir bacarığa mükəmməl yiyələnmək
+      Usage: master (verb) = learn something completely
+   7. Presentation skills — Təqdimat bacarıqları
+      Usage: presentation = a talk that gives information
+   8. Practise a skill — Bacarığı məşq etdirmək
+      Usage: British spelling: practise (verb), practice (noun)
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Good communication skills are essential for this job.
+      → Bu iş üçün yaxşı ünsiyyət bacarıqları zəruridir.
+   2. This work requires a lot of skill.
+      → Bu iş böyük məharət tələb edir.
+   3. It takes years to master a skill.
+      → Bir bacarığa mükəmməl yiyələnmək illər çəkir.
+   4. The course will help you improve your presentation skills.
+      → Kurs təqdimat bacarıqlarınızı yaxşılaşdırmağa kömək edəcək.
+
+E. USAGE EXPLANATION
+   SKILL is countable for particular abilities ("computer skills", "a useful skill") and uncountable
+   for ability in general ("a task that requires skill"). SKILLED describes trained workers or work
+   (skilled workers); SKILFUL describes how well someone does something (a skilful player). American
+   spelling: skillful. Use AT or IN: "skilled at negotiating", "skill in dealing with people".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (12): SKILL [main], skilled [family], skilful [family],
+      unskilled [family], communication, basic, require, technical, essential, master, presentation,
+      practise
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (832 → 844 items).
+
+====================================================================================================
+LESSON B1-007   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: MANAGE
+Azerbaijani: İdarə etmək, rəhbərlik etmək; bacarmaq, öhdəsindən gəlmək
+
+A. MAIN WORD
+   English spelling ....... manage
+   Azerbaijani meaning .... idarə etmək, rəhbərlik etmək; bacarmaq, öhdəsindən gəlmək
+   Part of speech ......... verb
+   Key forms .............. manage – manages – managed – managed – managing
+   British English IPA .... /ˈmænɪdʒ/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ management — idarəetmə, rəhbərlik; manager — menecer, müdir
+   Verb forms ........ manage (main word)
+   Adjective forms ... manageable — idarə oluna bilən, öhdəsindən gəlmək mümkün olan
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): man (A1-037, OLD)
+
+C. RELATED EXPRESSIONS
+   1. Manage to do sth — Nəyisə bacarmaq, bir işin öhdəsindən gəlmək
+      Usage: Success in something difficult; always with "to"
+   2. Manage a project — Layihəni idarə etmək
+      Usage: project = a planned piece of work
+   3. Manage stress — Stressin öhdəsindən gəlmək
+      Usage: stress = mental pressure and worry
+   4. Manage a budget — Büdcəni idarə etmək
+      Usage: budget = a plan for spending money
+   5. Manage staff — Heyətə (işçilərə) rəhbərlik etmək
+      Usage: staff = all the workers of an organisation
+   6. Manage a department — Şöbəyə rəhbərlik etmək
+      Usage: department = a section of a company or university
+   7. Manage on your own — Təkbaşına bacarmaq, tək dolanmaq
+      Usage: on your own = alone, without help
+   8. Senior management — Yuxarı rəhbərlik
+      Usage: senior = high in rank
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I managed to finish the report on time.
+      → Hesabatı vaxtında bitirə bildim.
+   2. She manages a team of twenty people.
+      → O, iyirmi nəfərlik komandaya rəhbərlik edir.
+   3. Can you manage on your own?
+      → Təkbaşına bacararsan?
+   4. Exercise helps me manage stress.
+      → İdman mənə stressin öhdəsindən gəlməyə kömək edir.
+
+E. USAGE EXPLANATION
+   MANAGE has two main meanings. 1) To control or be in charge of a business, people or resources:
+   manage a department. 2) To succeed in doing something difficult: MANAGE TO + infinitive. For one
+   successful action in the past, use "managed to", not "could": "I managed to open the door". "Can
+   you manage?" is a polite offer of help.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): MANAGE [main], management [family], manager
+      [family], manageable [family], project, stress, budget, staff, department, own, senior
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (844 → 855 items).
+
+====================================================================================================
+LESSON B1-008   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: PREPARE
+Azerbaijani: Hazırlamaq; hazırlaşmaq
+
+A. MAIN WORD
+   English spelling ....... prepare
+   Azerbaijani meaning .... hazırlamaq; hazırlaşmaq
+   Part of speech ......... verb
+   Key forms .............. prepare – prepares – prepared – prepared – preparing
+   British English IPA .... /prɪˈpeə/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ preparation — hazırlıq
+   Verb forms ........ prepare (main word)
+   Adjective forms ... prepared — hazır, hazırlıqlı
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Prepare a report — Hesabat hazırlamaq
+      Usage: report = a written or spoken description of a situation
+   2. Prepare for an interview — Müsahibəyə hazırlaşmaq
+      Usage: Intransitive + FOR; interview = a formal meeting with questions
+   3. Prepare yourself — Özünü hazırlamaq, hazırlaşmaq
+      Usage: Often for bad news: Prepare yourself for a shock
+   4. Prepare for the worst — Ən pisinə hazır olmaq
+      Usage: worst = superlative of "bad"
+   5. Be prepared to — Nəyəsə hazır olmaq, razı olmaq
+      Usage: be prepared to + infinitive = be willing to
+   6. Prepare a salad — Salat hazırlamaq
+      Usage: With food, "prepare" is more formal than "make"
+   7. Prepare a summary — Xülasə hazırlamaq
+      Usage: summary = a short statement of the main points
+   8. Prepare an essay — Esse (inşa) hazırlamaq
+      Usage: essay = a short piece of writing on one subject
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I have to prepare a report for tomorrow's meeting.
+      → Sabahkı iclas üçün hesabat hazırlamalıyam.
+   2. How did you prepare for the interview?
+      → Müsahibəyə necə hazırlaşdın?
+   3. Hope for the best, but prepare for the worst.
+      → Ən yaxşısına ümid et, amma ən pisinə hazır ol.
+   4. I am not prepared to wait any longer.
+      → Mən daha gözləməyə hazır deyiləm.
+
+E. USAGE EXPLANATION
+   PREPARE + object means to make something ready (prepare a report); PREPARE FOR + noun means to
+   get yourself ready (prepare for an exam). "Be prepared to do something" usually means to be
+   willing, not just ready: "Are you prepared to work at weekends?" The noun PREPARATION is
+   uncountable in general (exam preparation) and plural for practical arrangements (wedding
+   preparations).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): PREPARE [main], preparation [family], prepared
+      [family], report, interview, worst, salad, summary, essay
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (855 → 864 items).
+
+====================================================================================================
+LESSON B1-009   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: EMPLOY
+Azerbaijani: İşə götürmək, işlə təmin etmək; (üsul) tətbiq etmək
+
+A. MAIN WORD
+   English spelling ....... employ
+   Azerbaijani meaning .... işə götürmək, işlə təmin etmək; (üsul) tətbiq etmək
+   Part of speech ......... verb
+   Key forms .............. employ – employs – employed – employed – employing
+   British English IPA .... /ɪmˈplɔɪ/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The open reference wordlist places this headword at B2; it is taught
+                           here at B1 because the expressions chosen for it are B1 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ employee — işçi, əməkdaş; employer — işəgötürən; employment — məşğulluq, iş;
+                       unemployment — işsizlik
+   Verb forms ........ employ (main word)
+   Adjective forms ... unemployed — işsiz; self-employed — özü üçün işləyən, fərdi sahibkar
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Full-time employment — Tam ştatlı iş
+      Usage: full-time = for all the normal working hours
+   2. A part-time employee — Yarımştat işçi
+      Usage: part-time = for only part of the working week
+   3. An employment agency — Məşğulluq agentliyi
+      Usage: agency = a business that provides a service
+   4. A large employer — İri işəgötürən
+      Usage: large = big (more formal)
+   5. Youth unemployment — Gənclər arasında işsizlik
+      Usage: youth = young people as a group
+   6. The unemployment rate — İşsizlik səviyyəsi
+      Usage: rate = a measurement of how often something happens
+   7. Temporary employment — Müvəqqəti iş
+      Usage: temporary = lasting for a limited time
+   8. A permanent employee — Daimi işçi
+      Usage: permanent = lasting for a long time or for ever
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The factory employs over five hundred people.
+      → Zavodda beş yüzdən çox adam çalışır.
+   2. He is looking for full-time employment.
+      → O, tam ştatlı iş axtarır.
+   3. Youth unemployment is a serious problem in many countries.
+      → Gənclər arasında işsizlik bir çox ölkədə ciddi problemdir.
+   4. The unemployment rate fell to five per cent.
+      → İşsizlik səviyyəsi beş faizə düşdü.
+
+E. USAGE EXPLANATION
+   EMPLOY is more formal than "give a job to" or "take on". Note the pair EMPLOYER (the company or
+   person who pays) and EMPLOYEE (the person who works). EMPLOYMENT and UNEMPLOYMENT are
+   uncountable. "Unemployed" describes people; "the unemployed" means unemployed people as a group.
+   In formal writing EMPLOY also means "use": employ a method.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (15): EMPLOY [main], employee [family], employer
+      [family], employment [family], unemployment [family], unemployed [family], self-employed
+      [family], full-time, part-time, agency, large, youth, rate, temporary, permanent
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (864 → 879 items).
+
+====================================================================================================
+LESSON B1-010   |   UNIT 1: Achievement, skills and work
+====================================================================================================
+MAIN WORD: APPLY
+Azerbaijani: Müraciət etmək, ərizə vermək; tətbiq etmək; aid olmaq
+
+A. MAIN WORD
+   English spelling ....... apply
+   Azerbaijani meaning .... müraciət etmək, ərizə vermək; tətbiq etmək; aid olmaq
+   Part of speech ......... verb
+   Key forms .............. apply – applies – applied – applied – applying
+   British English IPA .... /əˈplaɪ/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ application — ərizə, müraciət, həmçinin tətbiq və proqram (app); applicant —
+                       ərizəçi, namizəd
+   Verb forms ........ apply (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): apple (A1-007, EAT)
+
+C. RELATED EXPRESSIONS
+   1. Apply for a visa — Viza üçün müraciət etmək
+      Usage: apply FOR + the thing you want
+   2. Apply for a loan — Kredit üçün müraciət etmək
+      Usage: loan = money that you borrow from a bank
+   3. Apply for a scholarship — Təqaüd üçün müraciət etmək
+      Usage: scholarship = money given to a student to pay for study
+   4. An application form — Ərizə forması, müraciət blankı
+      Usage: form = an official document with spaces to fill in
+   5. Apply for a position — Vəzifəyə müraciət etmək
+      Usage: position = a job (formal)
+   6. Apply for a licence — Lisenziya (icazə sənədi) üçün müraciət etmək
+      Usage: British spelling of the noun: licence
+   7. Apply for permission — İcazə üçün müraciət etmək
+      Usage: permission is uncountable
+   8. Apply knowledge — Biliyi tətbiq etmək
+      Usage: apply knowledge TO + a situation
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I have applied for a visa to study in the UK.
+      → Mən Böyük Britaniyada təhsil almaq üçün vizaya müraciət etmişəm.
+   2. Please fill in the application form.
+      → Zəhmət olmasa, ərizə formasını doldurun.
+   3. She applied for a scholarship and got it.
+      → O, təqaüd üçün müraciət etdi və onu qazandı.
+   4. Students should apply their knowledge to real problems.
+      → Tələbələr biliklərini real problemlərə tətbiq etməlidirlər.
+
+E. USAGE EXPLANATION
+   APPLY has three patterns. 1) apply FOR something you want (a job, a visa) and apply TO an
+   organisation (apply to a university). 2) apply something TO something = use it in practice (apply
+   a rule, apply knowledge). 3) apply TO somebody = be relevant ("This rule applies to everyone").
+   APPLICATION means both the request and the computer program; APPLICANT is the person who applies.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): APPLY [main], application [family], applicant
+      [family], visa, loan, scholarship, form, position, licence, permission, knowledge
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (879 → 890 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 1 (Achievement, skills and work)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: ACHIEVE, SUCCEED, IMPROVE, DEVELOP, EXPERIENCE, SKILL, MANAGE, PREPARE, EMPLOY, APPLY
+   New items registered in this unit: 115   |   Database total after this unit: 890
+   academic, achievable, ACHIEVE, achievement, achiever, agency, aim, amazing, ambition, applicant,
+   application, APPLY, basic, budget, celebrate, commercial, communication, condition, department,
+   DEVELOP, developed, developer, developing, development, EMPLOY, employee, employer, employment,
+   essay, essential, excellent, EXPERIENCE, experienced, fame, form, full-time, gain, goal, grade,
+   gradually, grammar, highly, IMPROVE, improvement, independence, inexperienced, interview,
+   knowledge, lack, large, licence, loan, MANAGE, manageable, management, manager, master, method,
+   outcome, own, part-time, performance, permanent, permission, personal, position, practical,
+   practise, preparation, PREPARE, prepared, presentation, previous, product, project,
+   pronunciation, quality, rate, relationship, report, require, result, salad, scholarship,
+   self-employed, senior, situation, skilful, SKILL, skilled, software, staff, stress, SUCCEED,
+   success, successful, successfully, summary, system, technical, technology, temporary, theory,
+   unemployed, unemployment, unforgettable, unskilled, unsuccessful, valuable, victory, visa,
+   vocabulary, wish, worst, youth
+
+
+####################################################################################################
+#  UNIT 2 — EDUCATION, OPINIONS AND DISCUSSION
+#  Təhsil, fikirlər və müzakirə
+####################################################################################################
+
+====================================================================================================
+LESSON B1-011   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: EDUCATION
+Azerbaijani: Təhsil, maarif
+
+A. MAIN WORD
+   English spelling ....... education
+   Azerbaijani meaning .... təhsil, maarif
+   Part of speech ......... noun
+   British English IPA .... /ˌedʒuˈkeɪʃən/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ education (main word)
+   Verb forms ........ educate — təhsil vermək, maarifləndirmək
+   Adjective forms ... educational — təhsillə bağlı, maarifləndirici; educated — təhsilli, savadlı
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Higher education — Ali təhsil
+      Usage: University level; no article
+   2. Primary education — İbtidai təhsil
+      Usage: primary = first; for children of about 5 to 11
+   3. Secondary education — Orta təhsil
+      Usage: secondary = for pupils of about 11 to 18
+   4. Adult education — Böyüklərin təhsili
+      Usage: adult = a fully grown person
+   5. Receive an education — Təhsil almaq
+      Usage: receive = get (formal)
+   6. Private education — Özəl təhsil
+      Usage: private = paid for by parents, not by the state
+   7. Education and training — Təhsil və peşə hazırlığı
+      Usage: training = learning the skills for a job
+   8. Access to education — Təhsil almaq imkanı, təhsilə çıxış
+      Usage: access TO = the right or chance to use something
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Higher education is free in some countries.
+      → Bəzi ölkələrdə ali təhsil pulsuzdur.
+   2. Every child has the right to receive an education.
+      → Hər bir uşağın təhsil almaq hüququ var.
+   3. Many girls in the world still have no access to education.
+      → Dünyada bir çox qızın hələ də təhsil almaq imkanı yoxdur.
+   4. The government spends a lot of money on education and training.
+      → Hökumət təhsilə və peşə hazırlığına çoxlu pul xərcləyir.
+
+E. USAGE EXPLANATION
+   EDUCATION is usually uncountable (the education system), but it takes "an" when you describe one
+   person's schooling: "a good education", "receive an education". EDUCATIONAL describes things that
+   teach (an educational programme); EDUCATED describes people (a well-educated woman). Do not
+   confuse it with UPBRINGING (tərbiyə), which is the way parents bring up a child.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (12): EDUCATION [main], educate [family], educational
+      [family], educated [family], higher, primary, secondary, adult, receive, private, training,
+      access
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (890 → 902 items).
+
+====================================================================================================
+LESSON B1-012   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: EXPLAIN
+Azerbaijani: İzah etmək, başa salmaq
+
+A. MAIN WORD
+   English spelling ....... explain
+   Azerbaijani meaning .... izah etmək, başa salmaq
+   Part of speech ......... verb
+   Key forms .............. explain – explains – explained – explained – explaining
+   British English IPA .... /ɪkˈspleɪn/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ explanation — izah, izahat
+   Verb forms ........ explain (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Explain why — Səbəbini izah etmək
+      Usage: explain + wh-clause: explain why / how / what
+   2. Explain briefly — Qısaca izah etmək
+      Usage: briefly = in a few words
+   3. A simple explanation — Sadə izah
+      Usage: simple = easy to understand
+   4. A possible explanation — Mümkün izah
+      Usage: possible = that may be true
+   5. Explain the process — Prosesi izah etmək
+      Usage: process = a series of actions
+   6. Explain the purpose — Məqsədi izah etmək
+      Usage: purpose = the reason for doing something
+   7. Explain exactly — Dəqiq izah etmək
+      Usage: exactly = in every detail
+   8. A logical explanation — Məntiqi izah
+      Usage: logical = based on good reasoning
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Can you explain why you were late?
+      → Niyə gecikdiyini izah edə bilərsən?
+   2. The teacher explained the rule to us.
+      → Müəllim qaydanı bizə izah etdi.
+   3. There must be a logical explanation for this.
+      → Bunun məntiqi bir izahı olmalıdır.
+   4. Let me briefly explain the purpose of this meeting.
+      → İcazə verin, bu iclasın məqsədini qısaca izah edim.
+
+E. USAGE EXPLANATION
+   The person comes after TO: "explain something TO somebody". "Explain me the rule" is a very
+   common mistake; say "Explain the rule to me". EXPLAIN is often followed by a clause: explain that
+   / why / how. The noun EXPLANATION drops the "i" of the verb (explain – explanation) and takes FOR
+   or OF: "an explanation for the delay".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): EXPLAIN [main], explanation [family], briefly,
+      simple, possible, process, purpose, exactly, logical
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (902 → 911 items).
+
+====================================================================================================
+LESSON B1-013   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: SUGGEST
+Azerbaijani: Təklif etmək, fikir irəli sürmək; nəyəsə işarə etmək
+
+A. MAIN WORD
+   English spelling ....... suggest
+   Azerbaijani meaning .... təklif etmək, fikir irəli sürmək; nəyəsə işarə etmək
+   Part of speech ......... verb
+   Key forms .............. suggest – suggests – suggested – suggested – suggesting
+   British English IPA .... /səˈdʒest/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ suggestion — təklif
+   Verb forms ........ suggest (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Suggest that — Nəyisə təklif etmək; nəyisə göstərmək
+      Usage: suggest (that) + clause: I suggest (that) we wait
+   2. Suggest an alternative — Alternativ (başqa variant) təklif etmək
+      Usage: alternative = another possibility
+   3. At sb's suggestion — Kiminsə təklifi ilə
+      Usage: Fixed phrase: at my / her suggestion
+   4. A sensible suggestion — Ağlabatan təklif
+      Usage: sensible = showing good judgement (not "sensitive")
+   5. Suggest an activity — Məşğuliyyət (fəaliyyət) təklif etmək
+      Usage: activity = something you do for interest or pleasure
+   6. Accept a suggestion — Təklifi qəbul etmək
+      Usage: accept = say yes to
+   7. Welcome suggestions — Təklifləri məmnuniyyətlə qarşılamaq
+      Usage: welcome (verb) = be glad to receive
+   8. Consider a suggestion — Təklifi nəzərdən keçirmək
+      Usage: consider = think about carefully
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I suggest that we take a short break.
+      → Təklif edirəm ki, qısa fasilə edək.
+   2. He suggested going by train.
+      → O, qatarla getməyi təklif etdi.
+   3. Can anyone suggest an alternative?
+      → Kimsə başqa variant təklif edə bilərmi?
+   4. We welcome suggestions from our customers.
+      → Biz müştərilərimizin təkliflərini məmnuniyyətlə qarşılayırıq.
+
+E. USAGE EXPLANATION
+   SUGGEST is never followed by "to + infinitive" or by a person as direct object. Correct patterns:
+   suggest + -ing (He suggested going), suggest + that-clause (He suggested that we go), suggest +
+   noun (suggest a plan), suggest something TO somebody. Wrong: "He suggested me to go". In academic
+   writing SUGGEST also means "indicate": "The results suggest that ...". OFFER is used when you are
+   willing to give or do something yourself.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): SUGGEST [main], suggestion [family], alternative,
+      sensible, activity, accept, welcome, consider
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (911 → 919 items).
+
+====================================================================================================
+LESSON B1-014   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: ARGUE
+Azerbaijani: Mübahisə etmək, höcətləşmək; iddia etmək, əsaslandırmaq
+
+A. MAIN WORD
+   English spelling ....... argue
+   Azerbaijani meaning .... mübahisə etmək, höcətləşmək; iddia etmək, əsaslandırmaq
+   Part of speech ......... verb
+   Key forms .............. argue – argues – argued – argued – arguing
+   British English IPA .... /ˈɑːɡjuː/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ argument — mübahisə, həmçinin dəlil (arqument)
+   Verb forms ........ argue (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Argue with sb — Kiminləsə mübahisə etmək
+      Usage: argue WITH a person ABOUT / OVER a subject
+   2. Argue that — Nəyinsə belə olduğunu iddia etmək, əsaslandırmaq
+      Usage: Academic use: give reasons for an opinion
+   3. Argue against — Əleyhinə çıxış etmək, qarşı dəlil gətirmək
+      Usage: Opposite: argue for / in favour of
+   4. Have an argument — Mübahisə etmək, sözləşmək
+      Usage: Here "argument" = an angry disagreement
+   5. A convincing argument — İnandırıcı dəlil
+      Usage: convincing = making you believe that something is true
+   6. A powerful argument — Tutarlı (güclü) dəlil
+      Usage: powerful = having a strong effect
+   7. Settle an argument — Mübahisəyə son qoymaq
+      Usage: settle = end a disagreement
+   8. A silly argument — Mənasız mübahisə
+      Usage: silly = not sensible or serious
+
+D. NATURAL EXAMPLE SENTENCES
+   1. My brothers are always arguing with each other.
+      → Qardaşlarım həmişə bir-biri ilə mübahisə edirlər.
+   2. Some experts argue that the law should be changed.
+      → Bəzi mütəxəssislər qanunun dəyişdirilməli olduğunu iddia edirlər.
+   3. We had an argument about money.
+      → Biz pul üstündə mübahisə etdik.
+   4. That is not a very convincing argument.
+      → Bu, o qədər də inandırıcı dəlil deyil.
+
+E. USAGE EXPLANATION
+   ARGUE has two quite different uses. In everyday speech it means to disagree angrily: argue WITH
+   somebody ABOUT something. In essays and academic texts it means to give reasons for an opinion:
+   "The author argues that ...". The noun ARGUMENT has both meanings too: a quarrel, or a reason
+   supporting an idea. Spelling: the "e" is dropped in ARGUMENT.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): ARGUE [main], argument [family], convincing,
+      powerful, settle, silly
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (919 → 925 items).
+
+====================================================================================================
+LESSON B1-015   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: COMPLAIN
+Azerbaijani: Şikayət etmək, gileylənmək
+
+A. MAIN WORD
+   English spelling ....... complain
+   Azerbaijani meaning .... şikayət etmək, gileylənmək
+   Part of speech ......... verb
+   Key forms .............. complain – complains – complained – complained – complaining
+   British English IPA .... /kəmˈpleɪn/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ complaint — şikayət
+   Verb forms ........ complain (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Complain about the delay — Gecikmədən şikayət etmək
+      Usage: complain ABOUT + the problem; delay = a period of waiting
+   2. A formal complaint — Rəsmi şikayət
+      Usage: formal = official
+   3. Complain of a headache — Baş ağrısından şikayət etmək
+      Usage: complain OF + a pain or illness
+   4. A customer complaint — Müştəri şikayəti
+      Usage: customer = a person who buys goods or services
+   5. Have no complaints — Şikayəti olmamaq
+      Usage: A polite way to say you are satisfied
+   6. Handle a complaint — Şikayətə baxmaq, şikayəti araşdırıb cavablandırmaq
+      Usage: handle = deal with
+   7. Nothing to complain about — Şikayət etməyə əsas yoxdur
+      Usage: Spoken English
+   8. Can't complain — Pis deyil, şikayətim yoxdur
+      Usage: Informal answer to "How are you?"
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Several passengers complained about the delay.
+      → Bir neçə sərnişin gecikmədən şikayət etdi.
+   2. She went to the doctor complaining of a headache.
+      → O, baş ağrısından şikayət edərək həkimə getdi.
+   3. I would like to make a formal complaint.
+      → Mən rəsmi şikayət etmək istəyirəm.
+   4. How's work? – Can't complain.
+      → İş necədir? – Pis deyil.
+
+E. USAGE EXPLANATION
+   COMPLAIN is the verb and COMPLAINT (with a final "t") the noun. Patterns: complain TO a person
+   ABOUT a problem; complain OF a pain or symptom; complain THAT + clause. You "make" a complaint
+   (not "do"). In British service situations people often begin politely: "I'm afraid I have a
+   complaint about ...".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): COMPLAIN [main], complaint [family], delay, formal,
+      headache, customer, handle
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (925 → 932 items).
+
+====================================================================================================
+LESSON B1-016   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: DISCUSS
+Azerbaijani: Müzakirə etmək
+
+A. MAIN WORD
+   English spelling ....... discuss
+   Azerbaijani meaning .... müzakirə etmək
+   Part of speech ......... verb
+   Key forms .............. discuss – discusses – discussed – discussed – discussing
+   British English IPA .... /dɪˈskʌs/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ discussion — müzakirə
+   Verb forms ........ discuss (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Discuss the matter — Məsələni müzakirə etmək
+      Usage: matter = a subject or situation that must be dealt with
+   2. A group discussion — Qrup müzakirəsi
+      Usage: group = a number of people together
+   3. Under discussion — Müzakirə olunmaqda
+      Usage: Fixed phrase: the plan under discussion
+   4. A lively discussion — Canlı (qızğın) müzakirə
+      Usage: lively = full of energy and interest
+   5. Discuss politics — Siyasətdən danışmaq, siyasəti müzakirə etmək
+      Usage: politics = the ideas and activities of government
+   6. Discuss with colleagues — Həmkarlarla müzakirə etmək
+      Usage: colleague = a person you work with
+   7. Discuss the advantages — Üstünlükləri müzakirə etmək
+      Usage: advantage = something that helps; opposite: disadvantage
+   8. Join a discussion — Müzakirəyə qoşulmaq
+      Usage: join = become part of
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We need to discuss the matter with the manager.
+      → Bu məsələni müdirlə müzakirə etməliyik.
+   2. I never discuss politics at work.
+      → Mən işdə heç vaxt siyasətdən danışmıram.
+   3. There was a lively discussion after the lecture.
+      → Mühazirədən sonra canlı müzakirə oldu.
+   4. The essay should discuss the advantages and disadvantages of online learning.
+      → Essedə onlayn təhsilin üstünlükləri və mənfi cəhətləri müzakirə olunmalıdır.
+
+E. USAGE EXPLANATION
+   DISCUSS takes a direct object with no preposition: "discuss a problem", never "discuss about a
+   problem". (The noun does take one: "a discussion about / of the problem".) You discuss something
+   WITH somebody. In exam essay questions, "Discuss" means: write about the different sides of the
+   subject and give your opinion.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): DISCUSS [main], discussion [family], matter, group,
+      lively, politics, colleague, advantage, join
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (932 → 941 items).
+
+====================================================================================================
+LESSON B1-017   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: OPINION
+Azerbaijani: Fikir, rəy
+
+A. MAIN WORD
+   English spelling ....... opinion
+   Azerbaijani meaning .... fikir, rəy
+   Part of speech ......... noun
+   British English IPA .... /əˈpɪnjən/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ opinion (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. In my opinion — Mənim fikrimcə, məncə
+      Usage: The standard way to give your view; not "according to me"
+   2. Express an opinion — Fikir bildirmək
+      Usage: express = show in words (formal)
+   3. A second opinion — İkinci rəy (başqa mütəxəssisin rəyi)
+      Usage: Especially from another doctor
+   4. An opinion poll — Rəy sorğusu
+      Usage: poll = asking many people the same question
+   5. An honest opinion — Səmimi fikir
+      Usage: honest = saying what is true; the "h" is silent
+   6. An expert opinion — Ekspert rəyi
+      Usage: expert = a person with special knowledge
+   7. Popular opinion — Geniş yayılmış rəy, ictimai fikir
+      Usage: popular = of ordinary people; liked by many
+   8. Be of the opinion that — Nəyinsə belə olduğu fikrində olmaq
+      Usage: Formal written English
+
+D. NATURAL EXAMPLE SENTENCES
+   1. In my opinion, this is the best solution.
+      → Mənim fikrimcə, bu, ən yaxşı həll yoludur.
+   2. Everyone has the right to express an opinion.
+      → Hər kəsin fikir bildirmək hüququ var.
+   3. I'd like your honest opinion about my essay.
+      → Essem haqqında səmimi fikrini bilmək istərdim.
+   4. If you are not sure, ask for a second opinion.
+      → Əmin deyilsənsə, ikinci rəy al.
+
+E. USAGE EXPLANATION
+   To give your view, say "In my opinion, ..." or "I think ...", not "According to me" and not "In
+   my opinion, I think" (this repeats the idea). The prepositions are OF, ABOUT and ON: "What is
+   your opinion of the film?", "opinions on education". Useful verbs: have / hold / express / give
+   an opinion. In IELTS essays, vary it with "in my view" and "from my point of view".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): OPINION [main], express, poll, honest, expert,
+      popular
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (941 → 947 items).
+
+====================================================================================================
+LESSON B1-018   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: ADVICE
+Azerbaijani: Məsləhət
+
+A. MAIN WORD
+   English spelling ....... advice
+   Azerbaijani meaning .... məsləhət
+   Part of speech ......... noun
+   British English IPA .... /ədˈvaɪs/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ advice (main word); adviser — məsləhətçi
+   Verb forms ........ advise — məsləhət vermək
+   Adjective forms ... advisable — məqsədəuyğun, məsləhət görülən
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. A piece of advice — Bir məsləhət
+      Usage: The way to count it: one piece of advice, two pieces of advice
+   2. Professional advice — Peşəkar məsləhət
+      Usage: professional = from a trained person
+   3. Medical advice — Həkim məsləhəti
+      Usage: medical = connected with medicine
+   4. Legal advice — Hüquqi məsləhət
+      Usage: legal = connected with the law
+   5. Seek advice — Məsləhət üçün müraciət etmək
+      Usage: seek = look for, ask for (formal)
+   6. Advise sb to do sth — Kiməsə nəyisə etməyi məsləhət görmək
+      Usage: Verb pattern: advise + object + to-infinitive
+   7. Ignore advice — Məsləhətə məhəl qoymamaq
+      Usage: ignore = pay no attention to
+   8. Offer advice — Məsləhət vermək, məsləhət təklif etmək
+      Usage: offer = say that you are willing to give
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Let me give you a piece of advice.
+      → İcazə ver, sənə bir məsləhət verim.
+   2. You should seek medical advice if the pain continues.
+      → Ağrı davam edərsə, həkimə müraciət etməlisiniz.
+   3. The doctor advised me to rest for a few days.
+      → Həkim mənə bir neçə gün dincəlməyi məsləhət gördü.
+   4. He ignored my advice and lost all his money.
+      → O, məsləhətimə məhəl qoymadı və bütün pulunu itirdi.
+
+E. USAGE EXPLANATION
+   ADVICE (/ədˈvaɪs/, noun, with "c") is uncountable: no "an advice", no "advices". Say "some
+   advice" or "a piece of advice". ADVISE (/ədˈvaɪz/, verb, with "s") follows the pattern advise +
+   person + to-infinitive, or advise + -ing: "I advise waiting". The same c/s difference appears in
+   practice / practise. Verbs used with the noun: give, offer, ask for, seek, take, follow, ignore.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): ADVICE [main], adviser [family], advise [family],
+      advisable [family], piece, professional, medical, legal, seek, ignore, offer
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (947 → 958 items).
+
+====================================================================================================
+LESSON B1-019   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: AGREE
+Azerbaijani: Razılaşmaq, razı olmaq
+
+A. MAIN WORD
+   English spelling ....... agree
+   Azerbaijani meaning .... razılaşmaq, razı olmaq
+   Part of speech ......... verb
+   Key forms .............. agree – agrees – agreed – agreed – agreeing
+   British English IPA .... /əˈɡriː/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ agreement — razılıq, saziş; disagreement — fikir ayrılığı
+   Verb forms ........ agree (main word); disagree — razılaşmamaq
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Agree with sb — Kiminləsə razılaşmaq
+      Usage: agree WITH a person or an opinion
+   2. Agree to do sth — Nəyisə etməyə razılıq vermək
+      Usage: agree TO + infinitive = say yes to a request
+   3. Absolutely agree — Tamamilə razı olmaq
+      Usage: absolutely = completely; strong spoken agreement
+   4. Sign an agreement — Saziş imzalamaq
+      Usage: sign = write your name on a document
+   5. A trade agreement — Ticarət sazişi
+      Usage: trade = buying and selling between countries
+   6. Couldn't agree more — Tamamilə razıyam
+      Usage: Idiomatic: "I couldn't agree more" = I agree completely
+   7. Agree in principle — Prinsipcə razılaşmaq
+      Usage: Agree with the general idea, not yet with the details
+   8. Tend to agree — Razılaşmağa meyilli olmaq
+      Usage: tend to = usually do; it softens the statement
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I agree with you.
+      → Mən səninlə razıyam.
+   2. She agreed to help us.
+      → O bizə kömək etməyə razılıq verdi.
+   3. The two countries signed a trade agreement.
+      → İki ölkə ticarət sazişi imzaladı.
+   4. I couldn't agree more.
+      → Tamamilə razıyam.
+
+E. USAGE EXPLANATION
+   AGREE is a verb, so say "I agree", never "I am agree". Prepositions change the meaning: agree
+   WITH a person or opinion; agree TO a proposal or to do something; agree ON / ABOUT a subject you
+   decide together ("We agreed on a price"). It is not normally used in continuous tenses. To
+   disagree politely: "I'm afraid I don't agree" or "I see your point, but ...".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): AGREE [main], agreement [family], disagreement
+      [family], disagree [family], absolutely, sign, trade, principle, tend
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (958 → 967 items).
+
+====================================================================================================
+LESSON B1-020   |   UNIT 2: Education, opinions and discussion
+====================================================================================================
+MAIN WORD: DECIDE
+Azerbaijani: Qərar vermək, qərara gəlmək
+
+A. MAIN WORD
+   English spelling ....... decide
+   Azerbaijani meaning .... qərar vermək, qərara gəlmək
+   Part of speech ......... verb
+   Key forms .............. decide – decides – decided – decided – deciding
+   British English IPA .... /dɪˈsaɪd/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ decision — qərar
+   Verb forms ........ decide (main word)
+   Adjective forms ... decisive — qətiyyətli, həlledici; indecisive — qətiyyətsiz, tərəddüd edən
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Decide to do sth — Nəyisə etməyi qərara almaq
+      Usage: decide + to-infinitive
+   2. Decide on — Birinin üzərində dayanmaq, seçmək
+      Usage: decide ON + noun = choose after thinking
+   3. Decide whether — Nəyinsə olub-olmayacağına qərar vermək
+      Usage: decide whether / what / where + clause or to-infinitive
+   4. A tough decision — Çətin (ağır) qərar
+      Usage: tough = difficult; informal
+   5. A wise decision — Müdrik qərar
+      Usage: wise = sensible, based on experience
+   6. The wrong decision — Səhv qərar
+      Usage: wrong = not correct; opposite: right
+   7. Regret a decision — Qərara görə peşman olmaq
+      Usage: regret = feel sorry about something you did
+   8. A decisive moment — Həlledici an
+      Usage: moment = a very short period of time
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We decided to stay at home.
+      → Biz evdə qalmağı qərara aldıq.
+   2. Have you decided on a name for the baby?
+      → Körpə üçün ad seçmisiniz?
+   3. I can't decide whether to accept the job.
+      → İşi qəbul edib-etməməyə qərar verə bilmirəm.
+   4. It was a tough decision, but I don't regret it.
+      → Bu, çətin qərar idi, amma peşman deyiləm.
+
+E. USAGE EXPLANATION
+   DECIDE + to-infinitive is the basic pattern: "I decided to leave" (not "decided leaving"). DECIDE
+   ON + noun means to choose one thing: "decide on a date". The noun DECISION collocates with MAKE
+   in general English ("make a decision"); British English also uses "take a decision", especially
+   for official ones. A DECISIVE person decides quickly; a decisive moment or victory settles the
+   result.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): DECIDE [main], decision [family], decisive
+      [family], indecisive [family], tough, wise, wrong, regret, moment
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (967 → 976 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 2 (Education, opinions and discussion)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: EDUCATION, EXPLAIN, SUGGEST, ARGUE, COMPLAIN, DISCUSS, OPINION, ADVICE, AGREE, DECIDE
+   New items registered in this unit: 86   |   Database total after this unit: 976
+   absolutely, accept, access, activity, adult, advantage, ADVICE, advisable, advise, adviser,
+   AGREE, agreement, alternative, ARGUE, argument, briefly, colleague, COMPLAIN, complaint,
+   consider, convincing, customer, DECIDE, decision, decisive, delay, disagree, disagreement,
+   DISCUSS, discussion, educate, educated, EDUCATION, educational, exactly, expert, EXPLAIN,
+   explanation, express, formal, group, handle, headache, higher, honest, ignore, indecisive, join,
+   legal, lively, logical, matter, medical, moment, offer, OPINION, piece, politics, poll, popular,
+   possible, powerful, primary, principle, private, process, professional, purpose, receive, regret,
+   secondary, seek, sensible, settle, sign, silly, simple, SUGGEST, suggestion, tend, tough, trade,
+   training, welcome, wise, wrong
+
+
+####################################################################################################
+#  UNIT 3 — ENVIRONMENT, PROBLEMS AND SOLUTIONS
+#  Ətraf mühit, problemlər və həll yolları
+####################################################################################################
+
+====================================================================================================
+LESSON B1-021   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: ENVIRONMENT
+Azerbaijani: Ətraf mühit; mühit, şərait
+
+A. MAIN WORD
+   English spelling ....... environment
+   Azerbaijani meaning .... ətraf mühit; mühit, şərait
+   Part of speech ......... noun
+   British English IPA .... /ɪnˈvaɪrənmənt/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The open reference wordlist places this headword at B2; it is taught
+                           here at B1 because the expressions chosen for it are B1 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ environment (main word); environmentalist — ekoloq, ətraf mühit müdafiəçisi
+   Verb forms ........ —
+   Adjective forms ... environmental — ətraf mühitlə bağlı, ekoloji
+   Adverb forms ...... environmentally — ekoloji baxımdan
+
+C. RELATED EXPRESSIONS
+   1. Environmental pollution — Ətraf mühitin çirklənməsi
+      Usage: pollution = damage to air, water or land by harmful substances
+   2. The urban environment — Şəhər mühiti
+      Usage: urban = of towns and cities
+   3. Environmental awareness — Ekoloji şüur, ətraf mühit haqqında maariflilik
+      Usage: awareness = knowing that something exists and is important
+   4. Preserve the environment — Ətraf mühiti qoruyub saxlamaq
+      Usage: preserve = keep in its original state
+   5. A stable environment — Sabit mühit
+      Usage: stable = not likely to change; here "environment" = conditions
+   6. An environmental disaster — Ekoloji fəlakət
+      Usage: disaster = an event causing great damage
+   7. The global environment — Qlobal ətraf mühit
+      Usage: global = of the whole world
+   8. Destroy the environment — Ətraf mühiti məhv etmək
+      Usage: destroy = damage so badly that it no longer exists
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We must do more to preserve the environment.
+      → Ətraf mühiti qoruyub saxlamaq üçün daha çox iş görməliyik.
+   2. Environmental pollution is a danger to our health.
+      → Ətraf mühitin çirklənməsi sağlamlığımız üçün təhlükədir.
+   3. The oil spill was an environmental disaster.
+      → Neft dağılması ekoloji fəlakət idi.
+   4. Children need a stable environment at home.
+      → Uşaqların evdə sabit mühitə ehtiyacı var.
+
+E. USAGE EXPLANATION
+   With "the", THE ENVIRONMENT means the natural world: air, water, land, plants and animals. With
+   "a/an" and an adjective it means the conditions around a person: a working environment, a
+   learning environment. Watch the spelling: enviroNment. "Environmentally friendly" describes
+   products that do not harm nature. This word family is essential for IELTS Writing Task 2.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (12): ENVIRONMENT [main], environmentalist [family],
+      environmental [family], environmentally [family], pollution, urban, awareness, preserve,
+      stable, disaster, global, destroy
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (976 → 988 items).
+
+====================================================================================================
+LESSON B1-022   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: PROTECT
+Azerbaijani: Qorumaq, mühafizə etmək, müdafiə etmək
+
+A. MAIN WORD
+   English spelling ....... protect
+   Azerbaijani meaning .... qorumaq, mühafizə etmək, müdafiə etmək
+   Part of speech ......... verb
+   Key forms .............. protect – protects – protected – protected – protecting
+   British English IPA .... /prəˈtekt/
+   CEFR level ............. B1 (Intermediate)
+
+B. WORD FAMILY
+   Noun forms ........ protection — qoruma, müdafiə, mühafizə
+   Verb forms ........ protect (main word)
+   Adjective forms ... protective — qoruyucu, himayə edən
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Protect wildlife — Vəhşi təbiəti qorumaq
+      Usage: wildlife = animals and plants living in natural conditions
+   2. Protect your skin — Dərini qorumaq
+      Usage: skin = the outer covering of the body
+   3. Protect against — Nədənsə qorumaq
+      Usage: protect (sb/sth) AGAINST / FROM + danger
+   4. Protect the planet — Planeti qorumaq
+      Usage: planet = here: the Earth
+   5. Protect forests — Meşələri qorumaq
+      Usage: forest = a large area of trees
+   6. Protect your rights — Hüquqlarını qorumaq
+      Usage: rights = things the law allows you to have or do
+   7. Data protection — Məlumatların qorunması
+      Usage: data = information, especially stored on computers
+   8. Protective gloves — Qoruyucu əlcəklər
+      Usage: glove = a covering for the hand
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Sun cream protects your skin against the sun.
+      → Günəş kremi dərinizi günəşdən qoruyur.
+   2. New laws are needed to protect wildlife.
+      → Vəhşi təbiəti qorumaq üçün yeni qanunlar lazımdır.
+   3. Workers must wear protective gloves.
+      → İşçilər qoruyucu əlcək geyinməlidirlər.
+   4. What can each of us do to protect the planet?
+      → Planeti qorumaq üçün hər birimiz nə edə bilərik?
+
+E. USAGE EXPLANATION
+   PROTECT is used with FROM or AGAINST: "protect children from harm", "protect the skin against the
+   sun". PROTECT means to keep safe from possible harm; DEFEND means to act against an attack that
+   is happening; GUARD means to watch a place or person; PRESERVE means to keep something as it is.
+   The adjective PROTECTIVE describes both equipment (protective clothing) and caring behaviour
+   (protective parents).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): PROTECT [main], protection [family], protective
+      [family], wildlife, skin, planet, forest, rights, data, glove
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (988 → 998 items).
+
+====================================================================================================
+LESSON B1-023   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: INCREASE
+Azerbaijani: Artmaq, artırmaq; artım
+
+A. MAIN WORD
+   English spelling ....... increase
+   Azerbaijani meaning .... artmaq, artırmaq; artım
+   Part of speech ......... verb, noun
+   Key forms .............. increase – increases – increased – increased – increasing
+   British English IPA .... /ɪnˈkriːs/ (verb)/, /ˈɪnkriːs/ (noun)/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ increase (main word)
+   Verb forms ........ increase (main word)
+   Adjective forms ... —
+   Adverb forms ...... increasingly — getdikcə daha çox
+
+C. RELATED EXPRESSIONS
+   1. A sharp increase — Kəskin artım
+      Usage: sharp = sudden and large
+   2. Increase sales — Satışları artırmaq
+      Usage: sales = the number of items sold
+   3. Increase the risk — Riski artırmaq
+      Usage: risk = the possibility of something bad happening
+   4. A steady increase — Sabit (davamlı) artım
+      Usage: steady = continuing gradually without sudden changes
+   5. Increase the amount — Miqdarı artırmaq
+      Usage: amount = a quantity (with uncountable nouns)
+   6. Increase by ten per cent — On faiz artmaq
+      Usage: increase BY + the size of the change; per cent = %
+   7. Increase production — İstehsalı artırmaq
+      Usage: production = the process of making goods
+   8. Increase your income — Gəlirini artırmaq
+      Usage: income = money that you earn or receive
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Prices have increased by ten per cent this year.
+      → Bu il qiymətlər on faiz artıb.
+   2. Smoking increases the risk of heart disease.
+      → Siqaret çəkmək ürək xəstəliyi riskini artırır.
+   3. There has been a sharp increase in the number of tourists.
+      → Turistlərin sayında kəskin artım olub.
+   4. The company plans to increase production next year.
+      → Şirkət gələn il istehsalı artırmağı planlaşdırır.
+
+E. USAGE EXPLANATION
+   The stress moves: the verb is inCREASE, the noun is INcrease. The verb is both transitive
+   (increase prices) and intransitive (Prices increased). Prepositions: an increase IN something
+   (not "of"), increase BY 10 per cent (the difference), increase TO 50 (the final figure). This is
+   core language for IELTS Writing Task 1; the opposite is DECREASE. INCREASINGLY means "more and
+   more": increasingly popular.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): INCREASE [main], increasingly [family], sharp,
+      sale, risk, steady, amount, cent, production, income
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (998 → 1,008 items).
+
+====================================================================================================
+LESSON B1-024   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: REDUCE
+Azerbaijani: Azaltmaq, endirmək
+
+A. MAIN WORD
+   English spelling ....... reduce
+   Azerbaijani meaning .... azaltmaq, endirmək
+   Part of speech ......... verb
+   Key forms .............. reduce – reduces – reduced – reduced – reducing
+   British English IPA .... /rɪˈdjuːs/
+   CEFR level ............. B1 (Intermediate)
+
+B. WORD FAMILY
+   Noun forms ........ reduction — azalma, azaldılma, endirim
+   Verb forms ........ reduce (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Reduce waste — Tullantıları azaltmaq; israfı azaltmaq
+      Usage: waste = unwanted material; using more than is needed
+   2. Reduce speed — Sürəti azaltmaq
+      Usage: speed = how fast something moves
+   3. Reduce emissions — (Zərərli qaz) tullantılarını azaltmaq
+      Usage: emissions = gases sent into the air
+   4. Reduce poverty — Yoxsulluğu azaltmaq
+      Usage: poverty = the state of being poor
+   5. Reduce crime — Cinayətkarlığı azaltmaq
+      Usage: crime = illegal activities in general
+   6. Reduce by half — Yarıbayarı azaltmaq
+      Usage: reduce BY + amount; half = 50 per cent
+   7. Reduce traffic — Nəqliyyat sıxlığını azaltmaq
+      Usage: traffic = the vehicles on the roads
+   8. Reduce debt — Borcu azaltmaq
+      Usage: debt /det/ – the "b" is silent
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We need to reduce the amount of plastic waste.
+      → Plastik tullantıların miqdarını azaltmalıyıq.
+   2. Please reduce your speed near the school.
+      → Zəhmət olmasa, məktəbin yaxınlığında sürəti azaldın.
+   3. The new road will reduce traffic in the city centre.
+      → Yeni yol şəhərin mərkəzində nəqliyyat sıxlığını azaldacaq.
+   4. The government promised to reduce poverty.
+      → Hökumət yoxsulluğu azaltmağa söz verdi.
+
+E. USAGE EXPLANATION
+   REDUCE is normally transitive: somebody reduces something. When nothing causes the change, use an
+   intransitive verb such as FALL, DROP or DECREASE: "Prices fell" (not "Prices reduced"). Patterns:
+   reduce something BY 20 per cent; reduce something FROM 100 TO 80. The noun REDUCTION takes IN: "a
+   reduction in crime". In shops, "reduced" means cheaper than before.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): REDUCE [main], reduction [family], waste, speed,
+      emission, poverty, crime, half, traffic, debt
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,008 → 1,018 items).
+
+====================================================================================================
+LESSON B1-025   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: PROVIDE
+Azerbaijani: Təmin etmək, vermək, təqdim etmək
+
+A. MAIN WORD
+   English spelling ....... provide
+   Azerbaijani meaning .... təmin etmək, vermək, təqdim etmək
+   Part of speech ......... verb
+   Key forms .............. provide – provides – provided – provided – providing
+   British English IPA .... /prəˈvaɪd/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ provider — təminatçı, xidmət göstərən; provision — təminat, təchizat
+   Verb forms ........ provide (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Provide shelter — Sığınacaq vermək
+      Usage: shelter = a place giving protection from weather or danger
+   2. Provide for — (Ailəni) dolandırmaq, ehtiyaclarını təmin etmək
+      Usage: provide FOR a family = give them what they need to live
+   3. Provide assistance — Yardım göstərmək
+      Usage: assistance = help (formal)
+   4. Provided that — Bir şərtlə ki
+      Usage: Conjunction = only if; also "providing (that)"
+   5. Provide feedback — Rəy bildirmək, əks-əlaqə vermək
+      Usage: feedback = comments on how good something is; uncountable
+   6. Provide facilities — Şərait (imkanlar, obyektlər) yaratmaq
+      Usage: facilities = buildings, services or equipment for a purpose
+   7. Provide security — Təhlükəsizliyi təmin etmək
+      Usage: security = protection against danger or crime
+   8. Provide proof — Sübut təqdim etmək
+      Usage: proof = facts showing that something is true
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The organisation provides shelter for homeless people.
+      → Təşkilat evsiz insanlara sığınacaq verir.
+   2. He works hard to provide for his family.
+      → O, ailəsini dolandırmaq üçün çox işləyir.
+   3. You can borrow the car, provided that you bring it back today.
+      → Maşını götürə bilərsən, bir şərtlə ki, bu gün qaytarasan.
+   4. Teachers should provide feedback on students' work.
+      → Müəllimlər tələbələrin işləri haqqında rəy bildirməlidirlər.
+
+E. USAGE EXPLANATION
+   Two patterns with the same meaning: provide somebody WITH something ("The school provides
+   students with books") and provide something FOR somebody ("The school provides books for
+   students"). Not: "provide students books". PROVIDE is more formal than GIVE and is typical of
+   reports and essays. PROVIDED THAT introduces a condition and is slightly more formal than "if".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): PROVIDE [main], provider [family], provision
+      [family], shelter, assistance, feedback, facility, security, proof
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,018 → 1,027 items).
+
+====================================================================================================
+LESSON B1-026   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: SUPPORT
+Azerbaijani: Dəstəkləmək, kömək etmək; dəstək; (ailəni) dolandırmaq
+
+A. MAIN WORD
+   English spelling ....... support
+   Azerbaijani meaning .... dəstəkləmək, kömək etmək; dəstək; (ailəni) dolandırmaq
+   Part of speech ......... verb, noun
+   Key forms .............. support – supports – supported – supported – supporting
+   British English IPA .... /səˈpɔːt/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ support (main word); supporter — tərəfdar, azarkeş
+   Verb forms ........ support (main word)
+   Adjective forms ... supportive — dəstək olan, arxa duran
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Financial support — Maliyyə dəstəyi
+      Usage: financial = connected with money
+   2. Emotional support — Mənəvi-psixoloji dəstək
+      Usage: emotional = connected with feelings
+   3. Support a claim — İddianı əsaslandırmaq (təsdiqləmək)
+      Usage: claim = a statement that something is true
+   4. Moral support — Mənəvi dəstək
+      Usage: moral = giving encouragement rather than practical help
+   5. Support a charity — Xeyriyyə təşkilatına dəstək olmaq
+      Usage: charity = an organisation that helps people in need
+   6. In support of — Nəyinsə lehinə, dəstək olaraq
+      Usage: Fixed phrase: speak in support of a plan
+   7. Support the government — Hökuməti dəstəkləmək
+      Usage: government = the group of people who rule a country
+   8. A loyal supporter — Sadiq tərəfdar
+      Usage: loyal = always supporting somebody
+
+D. NATURAL EXAMPLE SENTENCES
+   1. My parents gave me a lot of emotional support.
+      → Valideynlərim mənə böyük mənəvi dəstək oldular.
+   2. Many students need financial support.
+      → Bir çox tələbənin maliyyə dəstəyinə ehtiyacı var.
+   3. There is no evidence to support this claim.
+      → Bu iddianı təsdiqləyən heç bir sübut yoxdur.
+   4. Which team do you support?
+      → Sən hansı komandanın azarkeşisən?
+
+E. USAGE EXPLANATION
+   SUPPORT covers several Azerbaijani verbs: dəstəkləmək (support a plan), azarkeşlik etmək (support
+   a team, British English), dolandırmaq (support a family) and əsaslandırmaq (support an argument
+   with facts). The noun is uncountable: "a lot of support", not "a support". In essays, "support
+   your opinion with examples" is a key instruction. SUPPORTIVE describes people who give help and
+   encouragement.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): SUPPORT [main], supporter [family], supportive
+      [family], financial, emotional, claim, moral, charity, government, loyal
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,027 → 1,037 items).
+
+====================================================================================================
+LESSON B1-027   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: SOLVE
+Azerbaijani: Həll etmək, (sirri) açmaq
+
+A. MAIN WORD
+   English spelling ....... solve
+   Azerbaijani meaning .... həll etmək, (sirri) açmaq
+   Part of speech ......... verb
+   Key forms .............. solve – solves – solved – solved – solving
+   British English IPA .... /sɒlv/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ solution — həll, həll yolu, həmçinin məhlul
+   Verb forms ........ solve (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Solve a puzzle — Tapmacanı (başsındıranı) həll etmək
+      Usage: puzzle = a game or problem that tests your thinking
+   2. Solve a mystery — Sirri açmaq, müəmmanı çözmək
+      Usage: mystery = something that is difficult to explain
+   3. Solve a crisis — Böhranı həll etmək
+      Usage: crisis = a time of great difficulty; plural: crises
+   4. An effective solution — Səmərəli həll yolu
+      Usage: effective = producing the result that is wanted
+   5. A peaceful solution — Sülh yolu ilə həll
+      Usage: peaceful = without violence
+   6. Solve a conflict — Münaqişəni həll etmək
+      Usage: conflict = a serious disagreement or fight
+   7. An ideal solution — İdeal həll yolu
+      Usage: ideal = the best possible
+   8. An obvious solution — Göz qabağında olan həll yolu
+      Usage: obvious = easy to see or understand
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Nobody has been able to solve the mystery.
+      → Heç kim bu sirri aça bilməyib.
+   2. We need to find an effective solution to this problem.
+      → Bu problemin səmərəli həll yolunu tapmalıyıq.
+   3. Both sides want a peaceful solution to the conflict.
+      → Hər iki tərəf münaqişənin sülh yolu ilə həllini istəyir.
+   4. There is no obvious solution.
+      → Göz qabağında olan bir həll yolu yoxdur.
+
+E. USAGE EXPLANATION
+   You SOLVE a problem, a puzzle, a mystery or a crime, but you ANSWER a question and you RESOLVE a
+   dispute (resolve is more formal). The noun SOLUTION takes TO: "a solution TO the problem" (not
+   "of"). Common verbs with solution: find, offer, propose, come up with. In chemistry, a SOLUTION
+   is a liquid in which something is dissolved.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): SOLVE [main], solution [family], puzzle, mystery,
+      crisis, effective, peaceful, conflict, ideal, obvious
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,037 → 1,047 items).
+
+====================================================================================================
+LESSON B1-028   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: AVOID
+Azerbaijani: Çəkinmək, uzaq durmaq, yayınmaq; yol verməmək
+
+A. MAIN WORD
+   English spelling ....... avoid
+   Azerbaijani meaning .... çəkinmək, uzaq durmaq, yayınmaq; yol verməmək
+   Part of speech ......... verb
+   Key forms .............. avoid – avoids – avoided – avoided – avoiding
+   British English IPA .... /əˈvɔɪd/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ avoid (main word)
+   Adjective forms ... avoidable — qarşısı alına bilən; unavoidable — qaçılmaz
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Avoid doing sth — Nəyisə etməkdən çəkinmək
+      Usage: avoid + -ing (never "avoid to do")
+   2. Avoid an accident — Qəzadan yayınmaq
+      Usage: accident = a sudden event causing damage or injury
+   3. Avoid danger — Təhlükədən uzaq durmaq
+      Usage: danger = the possibility of harm
+   4. Avoid contact — Təmasdan qaçmaq
+      Usage: avoid contact WITH + person / thing
+   5. Avoid confusion — Dolaşıqlığa (anlaşılmazlığa) yol verməmək
+      Usage: confusion = not being clear
+   6. Avoid the crowds — İzdihamdan uzaq durmaq
+      Usage: crowd = a large number of people together
+   7. Avoid trouble — Bəladan (problemdən) uzaq durmaq
+      Usage: trouble is uncountable here
+   8. Avoid alcohol — Spirtli içkilərdən çəkinmək
+      Usage: alcohol = drinks such as beer and wine
+
+D. NATURAL EXAMPLE SENTENCES
+   1. You should avoid eating late at night.
+      → Gecə gec yemək yeməkdən çəkinməlisən.
+   2. The driver braked to avoid an accident.
+      → Sürücü qəzadan yayınmaq üçün əyləci basdı.
+   3. We left early to avoid the crowds.
+      → İzdihamdan uzaq olmaq üçün tez çıxdıq.
+   4. To avoid confusion, please write clearly.
+      → Anlaşılmazlıq olmasın deyə, zəhmət olmasa, aydın yazın.
+
+E. USAGE EXPLANATION
+   AVOID is followed by a noun or by the -ing form: "avoid sugar", "avoid making mistakes". The
+   infinitive is wrong: not "avoid to make". AVOID means to keep away from something; PREVENT means
+   to stop something from happening at all (prevent an accident, prevent somebody from doing
+   something). UNAVOIDABLE describes things that cannot be prevented: an unavoidable delay.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): AVOID [main], avoidable [family], unavoidable
+      [family], accident, danger, contact, confusion, crowd, trouble, alcohol
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,047 → 1,057 items).
+
+====================================================================================================
+LESSON B1-029   |   UNIT 3: Environment, problems and solutions
+====================================================================================================
+MAIN WORD: CAUSE
+Azerbaijani: Səbəb; səbəb olmaq, törətmək
+
+A. MAIN WORD
+   English spelling ....... cause
+   Azerbaijani meaning .... səbəb; səbəb olmaq, törətmək
+   Part of speech ......... noun, verb
+   Key forms .............. cause – causes – caused – caused – causing
+   British English IPA .... /kɔːz/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ cause (main word)
+   Verb forms ........ cause (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Cause pain — Ağrı vermək, əzab vermək
+      Usage: pain = the feeling when part of your body hurts
+   2. Cause concern — Narahatlıq doğurmaq
+      Usage: concern = worry (more formal)
+   3. Cause of death — Ölüm səbəbi
+      Usage: death = the end of life
+   4. Cause and effect — Səbəb və nəticə
+      Usage: effect = a change produced by a cause
+   5. The root cause — Əsas (kök) səbəb
+      Usage: root = the origin of a problem
+   6. Cause a disease — Xəstəlik törətmək
+      Usage: disease = an illness with a specific name
+   7. Cause an injury — Xəsarət yetirmək
+      Usage: injury = physical harm to the body
+   8. Cause chaos — Xaos yaratmaq, hərc-mərcliyə səbəb olmaq
+      Usage: chaos /ˈkeɪɒs/ = complete disorder
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The heavy snow caused chaos on the roads.
+      → Güclü qar yollarda xaos yaratdı.
+   2. The news caused great concern among parents.
+      → Bu xəbər valideynlər arasında böyük narahatlıq doğurdu.
+   3. Police are still trying to find the cause of the fire.
+      → Polis hələ də yanğının səbəbini araşdırır.
+   4. Poverty is the root cause of many social problems.
+      → Yoxsulluq bir çox sosial problemin kök səbəbidir.
+
+E. USAGE EXPLANATION
+   As a verb, CAUSE usually has a negative object: cause damage, problems, pain, an accident. For
+   good results, use "bring about", "lead to" or "result in". Patterns: cause something; cause
+   somebody something ("cause him pain"); cause somebody TO do something. As a noun, note the
+   prepositions: the cause OF a problem, but a reason FOR something. CAUSE is what makes something
+   happen; REASON is the explanation given.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): CAUSE [main], pain, concern, death, effect, root,
+      disease, injury, chaos
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,057 → 1,066 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 3 (Environment, problems and solutions)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: ENVIRONMENT, PROTECT, INCREASE, REDUCE, PROVIDE, SUPPORT, SOLVE, AVOID, CAUSE
+   New items registered in this unit: 90   |   Database total after this unit: 1,066
+   accident, alcohol, amount, assistance, AVOID, avoidable, awareness, CAUSE, cent, chaos, charity,
+   claim, concern, conflict, confusion, contact, crime, crisis, crowd, danger, data, death, debt,
+   destroy, disaster, disease, effect, effective, emission, emotional, ENVIRONMENT, environmental,
+   environmentalist, environmentally, facility, feedback, financial, forest, global, glove,
+   government, half, ideal, income, INCREASE, increasingly, injury, loyal, moral, mystery, obvious,
+   pain, peaceful, planet, pollution, poverty, preserve, production, proof, PROTECT, protection,
+   protective, PROVIDE, provider, provision, puzzle, REDUCE, reduction, rights, risk, root, sale,
+   security, sharp, shelter, skin, solution, SOLVE, speed, stable, steady, SUPPORT, supporter,
+   supportive, traffic, trouble, unavoidable, urban, waste, wildlife
+
+
+####################################################################################################
+#  UNIT 4 — PERSONAL QUALITIES AND CHALLENGES
+#  Şəxsi keyfiyyətlər və sınaqlar
+####################################################################################################
+
+====================================================================================================
+LESSON B1-030   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: EFFORT
+Azerbaijani: Səy, cəhd, zəhmət
+
+A. MAIN WORD
+   English spelling ....... effort
+   Azerbaijani meaning .... səy, cəhd, zəhmət
+   Part of speech ......... noun
+   British English IPA .... /ˈefət/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ effort (main word)
+   Verb forms ........ —
+   Adjective forms ... effortless — asan, zəhmətsiz
+   Adverb forms ...... effortlessly — asanlıqla, zəhmətsiz
+
+C. RELATED EXPRESSIONS
+   1. Worth the effort — Zəhmətinə dəyər
+      Usage: worth = having value; be worth + noun / -ing
+   2. A joint effort — Birgə səy
+      Usage: joint = done by two or more people together
+   3. A determined effort — Qətiyyətli səy (cəhd)
+      Usage: determined = having decided firmly to succeed
+   4. A huge effort — Böyük səy, nəhəng zəhmət
+      Usage: huge = extremely large
+   5. With little effort — Az zəhmətlə, çətinlik çəkmədən
+      Usage: Adverbial phrase
+   6. In an effort to — Bir məqsədlə, nəyəsə nail olmağa çalışaraq
+      Usage: Formal linker: in an effort to + infinitive
+   7. A desperate effort — Son ümidlə göstərilən cəhd
+      Usage: desperate = ready to do anything because the situation is so bad
+   8. Rescue efforts — Xilasetmə işləri
+      Usage: rescue = saving people from danger; plural "efforts" = organised activity
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Learning a language takes time and effort.
+      → Dil öyrənmək vaxt və zəhmət tələb edir.
+   2. It was hard work, but it was worth the effort.
+      → Çətin iş idi, amma zəhmətinə dəyərdi.
+   3. The project was a joint effort between two universities.
+      → Layihə iki universitetin birgə səyi idi.
+   4. The company cut prices in an effort to increase sales.
+      → Şirkət satışları artırmaq məqsədi ilə qiymətləri endirdi.
+
+E. USAGE EXPLANATION
+   The basic collocation is MAKE an effort (not "do"): "make an effort to arrive on time". EFFORT is
+   uncountable when it means energy in general (It takes effort) and countable for a particular
+   attempt (a determined effort). The plural EFFORTS often means organised work: rescue efforts,
+   peace efforts. "In an effort to" is a useful formal alternative to "in order to try to".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): EFFORT [main], effortless [family], effortlessly
+      [family], worth, joint, determined, huge, desperate, rescue
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,066 → 1,075 items).
+
+====================================================================================================
+LESSON B1-031   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: HABIT
+Azerbaijani: Vərdiş, adət
+
+A. MAIN WORD
+   English spelling ....... habit
+   Azerbaijani meaning .... vərdiş, adət
+   Part of speech ......... noun
+   British English IPA .... /ˈhæbɪt/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ habit (main word)
+   Verb forms ........ —
+   Adjective forms ... habitual — adət halını almış, həmişəki
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Out of habit — Vərdiş üzrə
+      Usage: Without thinking, because you always do it
+   2. Be in the habit of — Bir şeyi etməyə vərdiş etmək, adətkar olmaq
+      Usage: be in the habit of + -ing
+   3. Kick the habit — Zərərli vərdişi tərgitmək
+      Usage: Informal; especially of smoking
+   4. An annoying habit — Əsəbiləşdirən vərdiş
+      Usage: annoying = making you slightly angry
+   5. A nasty habit — Pis (xoşagəlməz) vərdiş
+      Usage: nasty = unpleasant
+   6. Sleeping habits — Yuxu vərdişləri, yuxu rejimi
+      Usage: sleep = rest with your eyes closed, as at night
+   7. A regular habit — Daimi vərdiş
+      Usage: regular = happening often or at the same time each day
+   8. A creature of habit — Vərdişlərindən əl çəkməyən adam
+      Usage: Idiom; creature = a living being
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I only smoke out of habit.
+      → Mən yalnız vərdiş üzrə siqaret çəkirəm.
+   2. He has an annoying habit of interrupting people.
+      → Onun insanların sözünü kəsmək kimi əsəbiləşdirən vərdişi var.
+   3. She is in the habit of getting up early.
+      → O, tez durmağa vərdiş edib.
+   4. My grandfather is a creature of habit: he has lunch at one o'clock every day.
+      → Babam vərdişlərindən əl çəkməyən adamdır: hər gün saat birdə nahar edir.
+
+E. USAGE EXPLANATION
+   A HABIT is something one person does regularly, often without thinking (a bad habit, eating
+   habits). A CUSTOM is a traditional practice of a society (a local custom). Both can be "adət" in
+   Azerbaijani, so choose carefully. Verbs: have a habit, get into / develop a habit, break / kick a
+   habit. The pattern is "a habit OF doing something", not "a habit to do".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): HABIT [main], habitual [family], kick, annoying,
+      nasty, sleeping, regular, creature
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,075 → 1,083 items).
+
+====================================================================================================
+LESSON B1-032   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: OPPORTUNITY
+Azerbaijani: İmkan, fürsət
+
+A. MAIN WORD
+   English spelling ....... opportunity
+   Azerbaijani meaning .... imkan, fürsət
+   Part of speech ......... noun
+   Key forms .............. opportunity – opportunities
+   British English IPA .... /ˌɒpəˈtjuːnəti/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ opportunity (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. An opportunity to do sth — Nəyisə etmək imkanı
+      Usage: opportunity + to-infinitive (or: opportunity for + noun)
+   2. A golden opportunity — Qızıl fürsət, əvəzsiz imkan
+      Usage: golden = here: excellent and rare
+   3. A unique opportunity — Bənzərsiz imkan
+      Usage: unique = being the only one of its kind
+   4. A wonderful opportunity — Gözəl imkan
+      Usage: wonderful = extremely good
+   5. A rare opportunity — Nadir imkan
+      Usage: rare = not happening often
+   6. Seize an opportunity — Fürsətdən istifadə etmək, fürsəti əldən verməmək
+      Usage: seize /siːz/ = take quickly and eagerly
+   7. Create an opportunity — İmkan yaratmaq
+      Usage: create = make something new exist
+   8. At the first opportunity — İlk fürsətdə
+      Usage: Fixed phrase = as soon as possible
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The course gives students an opportunity to practise their English.
+      → Kurs tələbələrə ingilis dilini məşq etmək imkanı verir.
+   2. Don't miss this golden opportunity.
+      → Bu qızıl fürsəti əldən vermə.
+   3. She seized the opportunity to study abroad.
+      → O, xaricdə təhsil almaq fürsətindən istifadə etdi.
+   4. I will call you at the first opportunity.
+      → İlk fürsətdə sənə zəng edəcəyəm.
+
+E. USAGE EXPLANATION
+   OPPORTUNITY and CHANCE are close, but OPPORTUNITY is more formal and always positive: a situation
+   in which it is possible to do something you want. CHANCE also means possibility or luck ("There
+   is a chance of rain", "by chance"); OPPORTUNITY cannot be used that way. Do not say "a
+   possibility to do": say "an opportunity to do" or "a chance to do". Verbs: have, get, take,
+   seize, miss, give, offer.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): OPPORTUNITY [main], golden, unique, wonderful,
+      rare, seize, create
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,083 → 1,090 items).
+
+====================================================================================================
+LESSON B1-033   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: CHALLENGE
+Azerbaijani: Çətin sınaq, çağırış; meydan oxumaq, şübhə altına almaq
+
+A. MAIN WORD
+   English spelling ....... challenge
+   Azerbaijani meaning .... çətin sınaq, çağırış; meydan oxumaq, şübhə altına almaq
+   Part of speech ......... noun, verb
+   Key forms .............. challenge – challenges – challenged – challenged – challenging
+   British English IPA .... /ˈtʃælɪndʒ/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ challenge (main word)
+   Verb forms ........ challenge (main word)
+   Adjective forms ... challenging — çətin, lakin maraqlı (insanı sınağa çəkən)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. A real challenge — Əsl sınaq
+      Usage: real = here: very great
+   2. A major challenge — Böyük (ciddi) çağırış
+      Usage: major = very large or important
+   3. Rise to the challenge — Sınaqdan üzüağ çıxmaq, çətinliyin öhdəsindən gəlmək
+      Usage: Idiomatic; rise = go up
+   4. Pose a challenge — Çətinlik yaratmaq, sınaq təşkil etmək
+      Usage: pose = create (a problem that must be dealt with); formal
+   5. Overcome a challenge — Çətinliyə qalib gəlmək
+      Usage: overcome = succeed in dealing with
+   6. The challenges ahead — Qarşıda duran çətinliklər
+      Usage: ahead = in the future
+   7. An exciting challenge — Həyəcanverici sınaq
+      Usage: exciting = causing great interest and enthusiasm
+   8. Challenge a belief — İnamı (qənaəti) şübhə altına almaq
+      Usage: belief = something you think is true
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Finding a job was a real challenge.
+      → İş tapmaq əsl sınaq idi.
+   2. Climate change poses a major challenge to all countries.
+      → İqlim dəyişikliyi bütün ölkələr üçün ciddi çağırışdır.
+   3. I am sure she will rise to the challenge.
+      → Əminəm ki, o, bu sınaqdan üzüağ çıxacaq.
+   4. The new job is difficult, but I find it challenging.
+      → Yeni iş çətindir, amma mənə maraqlıdır.
+
+E. USAGE EXPLANATION
+   A CHALLENGE is something difficult that tests your ability, and the word is positive compared
+   with PROBLEM or DIFFICULTY: people "enjoy a challenge". The usual verb is FACE a challenge; also
+   meet, accept, rise to, overcome. As a verb, CHALLENGE means to question whether something is
+   right (challenge a decision) or to invite somebody to compete (challenge him to a game).
+   CHALLENGING is a polite, positive way to say "difficult".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): CHALLENGE [main], challenging [family], real,
+      major, rise, pose, overcome, exciting, belief
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,090 → 1,099 items).
+
+====================================================================================================
+LESSON B1-034   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: PRESSURE
+Azerbaijani: Təzyiq; gərginlik
+
+A. MAIN WORD
+   English spelling ....... pressure
+   Azerbaijani meaning .... təzyiq; gərginlik
+   Part of speech ......... noun
+   British English IPA .... /ˈpreʃə/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ pressure (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Under pressure — Təzyiq altında, gərgin şəraitdə
+      Usage: work under pressure; be under pressure TO do something
+   2. Peer pressure — Yaşıdların təzyiqi (təsiri)
+      Usage: peer = a person of the same age or status
+   3. Blood pressure — Qan təzyiqi
+      Usage: blood = the red liquid in your body
+   4. Intense pressure — Güclü təzyiq
+      Usage: intense = very great, extreme
+   5. Cope with pressure — Təzyiqin (gərginliyin) öhdəsindən gəlmək
+      Usage: cope with = deal successfully with
+   6. Air pressure — Hava təzyiqi
+      Usage: air = the mixture of gases around the Earth
+   7. Relieve the pressure — Təzyiqi (gərginliyi) azaltmaq
+      Usage: relieve = make less severe
+   8. Resist pressure — Təzyiqə müqavimət göstərmək
+      Usage: resist = refuse to accept or be changed by
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I work well under pressure.
+      → Mən gərgin şəraitdə yaxşı işləyirəm.
+   2. Teenagers often start smoking because of peer pressure.
+      → Yeniyetmələr çox vaxt yaşıdlarının təsiri ilə siqaret çəkməyə başlayırlar.
+   3. He has high blood pressure.
+      → Onun qan təzyiqi yüksəkdir.
+   4. How do you cope with the pressure of exams?
+      → İmtahan gərginliyinin öhdəsindən necə gəlirsən?
+
+E. USAGE EXPLANATION
+   PRESSURE is uncountable in most uses ("a lot of pressure"), though the plural appears in "the
+   pressures of modern life". Key verbs: PUT pressure ON somebody (to do something), be / come UNDER
+   pressure, cope with / handle pressure, relieve / take the pressure off. PRESSURE comes from
+   outside (a boss, exams, deadlines); STRESS is the feeling inside you that results from it.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): PRESSURE [main], peer, blood, intense, cope, air,
+      relieve, resist
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,099 → 1,107 items).
+
+====================================================================================================
+LESSON B1-035   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: RESPONSIBLE
+Azerbaijani: Məsuliyyətli; cavabdeh, məsul
+
+A. MAIN WORD
+   English spelling ....... responsible
+   Azerbaijani meaning .... məsuliyyətli; cavabdeh, məsul
+   Part of speech ......... adjective
+   British English IPA .... /rɪˈspɒnsəbəl/
+   CEFR level ............. B1 (Intermediate)
+
+B. WORD FAMILY
+   Noun forms ........ responsibility — məsuliyyət, öhdəlik
+   Verb forms ........ —
+   Adjective forms ... responsible (main word); irresponsible — məsuliyyətsiz
+   Adverb forms ...... responsibly — məsuliyyətlə
+
+C. RELATED EXPRESSIONS
+   1. Responsible for — Nəyəsə cavabdeh, məsul
+      Usage: responsible FOR + noun / -ing
+   2. Hold sb responsible — Kimisə məsul saymaq, cavabdeh tutmaq
+      Usage: hold = here: consider
+   3. A sense of responsibility — Məsuliyyət hissi
+      Usage: sense = a feeling or understanding
+   4. Responsible behaviour — Məsuliyyətli davranış
+      Usage: behaviour = the way a person acts
+   5. Have a responsibility to — Kiminsə qarşısında borclu (məsul) olmaq
+      Usage: + person, or + infinitive
+   6. Act responsibly — Məsuliyyətlə hərəkət etmək
+      Usage: act = do something, behave
+   7. Largely responsible — Əsasən cavabdeh (günahkar)
+      Usage: largely = mostly
+   8. Deny responsibility — Məsuliyyəti boynuna almamaq
+      Usage: deny = say that something is not true
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Who is responsible for this department?
+      → Bu şöbəyə kim cavabdehdir?
+   2. Parents are responsible for their children's safety.
+      → Valideynlər övladlarının təhlükəsizliyinə cavabdehdirlər.
+   3. The company denied responsibility for the accident.
+      → Şirkət qəzaya görə məsuliyyəti boynuna almadı.
+   4. She has a strong sense of responsibility.
+      → Onda güclü məsuliyyət hissi var.
+
+E. USAGE EXPLANATION
+   RESPONSIBLE has two uses. Before a noun it means sensible and reliable: "a responsible person".
+   After a verb with FOR it means in charge of, or to blame for: "responsible for sales",
+   "responsible for the damage". The spelling ends in -IBLE, not -able. Noun patterns: TAKE
+   responsibility FOR something; have a responsibility TO somebody. Azerbaijani "cavabdeh" and
+   "məsuliyyətli" are both RESPONSIBLE.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): RESPONSIBLE [main], responsibility [family],
+      irresponsible [family], responsibly [family], hold, sense, behaviour, act, largely, deny
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,107 → 1,117 items).
+
+====================================================================================================
+LESSON B1-036   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: CONFIDENT
+Azerbaijani: Özünə inamlı; əmin
+
+A. MAIN WORD
+   English spelling ....... confident
+   Azerbaijani meaning .... özünə inamlı; əmin
+   Part of speech ......... adjective
+   British English IPA .... /ˈkɒnfɪdənt/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ confidence — inam, etimad; self-confidence — özünəinam
+   Verb forms ........ —
+   Adjective forms ... confident (main word)
+   Adverb forms ...... confidently — inamla
+
+C. RELATED EXPRESSIONS
+   1. Confident about — Nəyəsə əmin, bir şey barədə inamlı
+      Usage: confident ABOUT the future / the exam
+   2. Have confidence in — Kiməsə və ya nəyəsə inanmaq, etibar etmək
+      Usage: have confidence IN + person / ability
+   3. Reasonably confident — Kifayət qədər əmin
+      Usage: reasonably = to a fairly high degree
+   4. Boost your confidence — Özünəinamı artırmaq
+      Usage: boost = increase, make stronger
+   5. Confident enough — Kifayət qədər inamlı
+      Usage: confident enough + to-infinitive
+   6. In confidence — Sirr olaraq, məxfi şəkildə
+      Usage: tell somebody something in confidence = as a secret
+   7. With confidence — İnamla
+      Usage: speak / answer with confidence
+   8. Restore confidence — Etimadı bərpa etmək
+      Usage: restore = bring back
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I feel confident about the exam.
+      → Mən imtahana görə özümə əminəm.
+   2. Passing the test really boosted my confidence.
+      → Testdən keçmək özünəinamımı həqiqətən artırdı.
+   3. She is not confident enough to speak in public.
+      → O, camaat qarşısında danışacaq qədər özünə inamlı deyil.
+   4. I am telling you this in confidence.
+      → Bunu sənə sirr olaraq deyirəm.
+
+E. USAGE EXPLANATION
+   CONFIDENT describes a feeling of being sure, either of yourself ("a confident speaker") or of a
+   fact ("I'm confident that we will win"). Prepositions: confident ABOUT / OF something, confidence
+   IN somebody. Do not confuse CONFIDENT with CONFIDENTIAL (secret): "in confidence" belongs to that
+   second meaning. Verbs with CONFIDENCE: gain, build, boost, lose, lack, restore.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): CONFIDENT [main], confidence [family],
+      self-confidence [family], confidently [family], reasonably, boost, restore
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,117 → 1,124 items).
+
+====================================================================================================
+LESSON B1-037   |   UNIT 4: Personal qualities and challenges
+====================================================================================================
+MAIN WORD: SERIOUS
+Azerbaijani: Ciddi; ağır, təhlükəli
+
+A. MAIN WORD
+   English spelling ....... serious
+   Azerbaijani meaning .... ciddi; ağır, təhlükəli
+   Part of speech ......... adjective
+   British English IPA .... /ˈsɪəriəs/
+   CEFR level ............. B1 (Intermediate)
+
+B. WORD FAMILY
+   Noun forms ........ seriousness — ciddilik
+   Verb forms ........ —
+   Adjective forms ... serious (main word)
+   Adverb forms ...... seriously — ciddi şəkildə, həmçinin ağır
+
+C. RELATED EXPRESSIONS
+   1. A serious illness — Ağır xəstəlik
+      Usage: illness = the state of being ill
+   2. Be serious about — Bir şeyə ciddi yanaşmaq, ciddi fikirli olmaq
+      Usage: serious ABOUT + noun / -ing
+   3. A serious threat — Ciddi təhlükə (təhdid)
+      Usage: threat = a possible danger
+   4. A serious offence — Ağır hüquq pozuntusu
+      Usage: offence = an illegal act (British spelling)
+   5. Deadly serious — Tamamilə ciddi, zarafatsız
+      Usage: deadly = here: extremely
+   6. You can't be serious — Zarafat edirsən, ciddi ola bilməzsən
+      Usage: Spoken reaction of surprise
+   7. A serious attempt — Ciddi cəhd
+      Usage: attempt = an act of trying to do something
+   8. Serious doubts — Ciddi şübhələr
+      Usage: doubt /daʊt/ – the "b" is silent
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Her father is in hospital with a serious illness.
+      → Onun atası ağır xəstəliklə xəstəxanadadır.
+   2. Is he serious about leaving his job?
+      → O, işdən çıxmaq barədə ciddidir?
+   3. Pollution is a serious threat to our health.
+      → Çirklənmə sağlamlığımız üçün ciddi təhlükədir.
+   4. I have serious doubts about this plan.
+      → Bu planla bağlı ciddi şübhələrim var.
+
+E. USAGE EXPLANATION
+   SERIOUS means bad or dangerous with problems (a serious illness, a serious mistake), and sincere,
+   not joking, with people ("Are you serious?"). SERIOUSLY is common in three ways: with adjectives
+   for bad states (seriously ill), in "take something seriously" (bir şeyə ciddi yanaşmaq), and at
+   the start of a spoken sentence to show you are not joking. For large amounts, use "considerable"
+   or "significant", not "serious".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): SERIOUS [main], seriousness [family], seriously
+      [family], illness, threat, offence, deadly, attempt, doubt
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,124 → 1,133 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 4 (Personal qualities and challenges)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: EFFORT, HABIT, OPPORTUNITY, CHALLENGE, PRESSURE, RESPONSIBLE, CONFIDENT, SERIOUS
+   New items registered in this unit: 67   |   Database total after this unit: 1,133
+   act, air, annoying, attempt, behaviour, belief, blood, boost, CHALLENGE, challenging, confidence,
+   CONFIDENT, confidently, cope, create, creature, deadly, deny, desperate, determined, doubt,
+   EFFORT, effortless, effortlessly, exciting, golden, HABIT, habitual, hold, huge, illness,
+   intense, irresponsible, joint, kick, largely, major, nasty, offence, OPPORTUNITY, overcome, peer,
+   pose, PRESSURE, rare, real, reasonably, regular, relieve, rescue, resist, responsibility,
+   RESPONSIBLE, responsibly, restore, rise, seize, self-confidence, sense, SERIOUS, seriously,
+   seriousness, sleeping, threat, unique, wonderful, worth
+
+
+####################################################################################################
+#  UNIT 5 — HIGH-FREQUENCY WORDS IN IDIOMATIC USE
+#  Çox işlənən sözlər idiomatik ifadələrdə
+####################################################################################################
+
+====================================================================================================
+LESSON B1-038   |   UNIT 5: High-frequency words in idiomatic use
+====================================================================================================
+MAIN WORD: SET
+Azerbaijani: Qoymaq, təyin etmək, qurmaq; dəst, komplekt
+
+A. MAIN WORD
+   English spelling ....... set
+   Azerbaijani meaning .... qoymaq, təyin etmək, qurmaq; dəst, komplekt
+   Part of speech ......... verb, noun
+   Key forms .............. set – sets – set – set – setting
+   British English IPA .... /set/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ set (main word); setting — mühit, məkan, həmçinin (cihazda) rejim
+   Verb forms ........ set (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Set an alarm — Zəngli saatı qurmaq
+      Usage: alarm = a clock or signal that wakes or warns you
+   2. Set off — Yola düşmək
+      Usage: Phrasal verb = begin a journey
+   3. Set up — Qurmaq, təsis etmək, yaratmaq
+      Usage: Phrasal verb: set up a company / a meeting
+   4. Set out — Yola çıxmaq; (məqsədi, fikri) şərh etmək
+      Usage: Phrasal verb; set out to do = start with a clear aim
+   5. Set a limit — Hədd (limit) qoymaq
+      Usage: limit = the greatest amount allowed
+   6. Set a standard — Standart (meyar) müəyyən etmək
+      Usage: standard = a level of quality
+   7. Set aside — Bir kənara qoymaq, ayırmaq (pul, vaxt)
+      Usage: Phrasal verb: set aside time for study
+   8. Set the scene — Səhnəni hazırlamaq; ümumi vəziyyəti təsvir etmək
+      Usage: scene = the place where something happens
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I set my alarm for six o'clock.
+      → Zəngli saatı altıya qurdum.
+   2. We set off early to avoid the traffic.
+      → Tıxacdan yayınmaq üçün tez yola düşdük.
+   3. She set up her own company at the age of twenty-five.
+      → O, iyirmi beş yaşında öz şirkətini qurdu.
+   4. Try to set aside some time for reading every day.
+      → Hər gün mütaliə üçün bir az vaxt ayırmağa çalış.
+
+E. USAGE EXPLANATION
+   SET is irregular and never changes: set – set – set. Its core idea is "put something in a fixed
+   position or state": set a date, set a limit, set a record, set an example. With particles it
+   forms very common phrasal verbs: set off (leave), set up (establish), set out (begin with a
+   purpose), set aside (save). As a noun, a SET is a group of things that belong together: a set of
+   keys, a chess set.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): SET [main], setting [family], alarm, limit,
+      standard, scene
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,133 → 1,139 items).
+
+====================================================================================================
+LESSON B1-039   |   UNIT 5: High-frequency words in idiomatic use
+====================================================================================================
+MAIN WORD: RUN
+Azerbaijani: Qaçmaq; idarə etmək; işləmək (maşın, proqram)
+
+A. MAIN WORD
+   English spelling ....... run
+   Azerbaijani meaning .... qaçmaq; idarə etmək; işləmək (maşın, proqram)
+   Part of speech ......... verb, noun
+   Key forms .............. run – runs – ran – run – running
+   British English IPA .... /rʌn/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ run (main word); runner — qaçışçı; running — qaçış
+   Verb forms ........ run (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Run a marathon — Marafon qaçmaq
+      Usage: marathon = a race of about 42 kilometres
+   2. Run away — Qaçıb getmək, qaçıb gizlənmək
+      Usage: Phrasal verb: run away from home
+   3. Run out of — Qurtarmaq, tükənmək (ehtiyat)
+      Usage: Phrasal verb: We have run out of milk
+   4. Run into — Təsadüfən rastlaşmaq; (çətinliklə) üzləşmək; toqquşmaq
+      Usage: Phrasal verb
+   5. Run smoothly — Rəvan getmək, problemsiz işləmək
+      Usage: smoothly = without problems
+   6. In the long run — Uzun müddətdə, gələcəkdə
+      Usage: Idiom; long = lasting a great amount of time
+   7. Run errands — Xırda tapşırıqları yerinə yetirmək
+      Usage: errand = a short trip to buy or deliver something
+   8. Run for president — Prezidentliyə namizəd olmaq
+      Usage: run FOR + position = try to be elected
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She runs her own business.
+      → O, öz biznesini idarə edir.
+   2. We have run out of petrol.
+      → Benzinimiz qurtarıb.
+   3. I ran into an old friend at the airport.
+      → Hava limanında köhnə bir dostuma rast gəldim.
+   4. It will save you money in the long run.
+      → Bu, uzun müddətdə sənə pul qənaət etdirəcək.
+
+E. USAGE EXPLANATION
+   RUN is irregular: run – ran – run. Beyond the physical meaning, three uses are essential: 1)
+   manage or organise – run a business, run a course; 2) operate – "The engine is running", "run a
+   program"; 3) of transport – "The buses run every ten minutes". Phrasal verbs: run out of (have
+   none left), run into (meet by chance), run away (escape). "In the long run" contrasts with "in
+   the short run".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): RUN [main], runner [family], running [family],
+      marathon, smoothly, long, errand, president
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,139 → 1,147 items).
+
+====================================================================================================
+LESSON B1-040   |   UNIT 5: High-frequency words in idiomatic use
+====================================================================================================
+MAIN WORD: MIND
+Azerbaijani: Ağıl, zehin, fikir; etiraz etmək; fikir vermək
+
+A. MAIN WORD
+   English spelling ....... mind
+   Azerbaijani meaning .... ağıl, zehin, fikir; etiraz etmək; fikir vermək
+   Part of speech ......... noun, verb
+   British English IPA .... /maɪnd/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ mind (main word)
+   Verb forms ........ mind (main word)
+   Adjective forms ... open-minded — açıqfikirli, geniş dünyagörüşlü; mindful — diqqətli, nəzərə
+                       alan
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Have sth in mind — Ağlında bir şey olmaq, nəyisə nəzərdə tutmaq
+      Usage: Do you have anything in mind?
+   2. Never mind — Eybi yoxdur, fikir vermə
+      Usage: never = not at any time; fixed spoken phrase
+   3. Do you mind — Etiraz etmirsiniz ki
+      Usage: Do you mind if I ...? / Do you mind + -ing?
+   4. I don't mind — Mənə fərqi yoxdur, etiraz etmirəm
+      Usage: Polite neutral answer
+   5. State of mind — Əhval-ruhiyyə, ruhi vəziyyət
+      Usage: state = the condition somebody is in
+   6. In two minds — Tərəddüd içində, iki fikir arasında
+      Usage: British idiom: be in two minds about something
+   7. On your mind — Fikrində, ürəyində (səni narahat edən)
+      Usage: What's on your mind?
+   8. Slip your mind — Yaddan çıxmaq
+      Usage: slip = slide; "It slipped my mind" = I forgot
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Do you mind if I open the window?
+      → Pəncərəni açsam, etiraz etməzsiniz?
+   2. I'm sorry I'm late. – Never mind.
+      → Bağışlayın, gecikdim. – Eybi yoxdur.
+   3. Tea or coffee? – I don't mind.
+      → Çay, yoxsa qəhvə? – Mənə fərqi yoxdur.
+   4. I'm in two minds about accepting the job.
+      → İşi qəbul edib-etməmək barədə tərəddüd edirəm.
+
+E. USAGE EXPLANATION
+   As a noun, MIND is the part of you that thinks and remembers; it is close to "ağıl" and "fikir",
+   not to BRAIN (the physical organ). Key idioms: change your mind (fikrini dəyişmək), make up your
+   mind (qərara gəlmək), keep / bear in mind (yadda saxlamaq). As a verb it means to object: "Do you
+   mind + -ing?" is a polite request, and the polite positive answer is "No, not at all". "Mind the
+   gap!" is a warning.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): MIND [main], open-minded [family], mindful
+      [family], never, state, slip
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,147 → 1,153 items).
+
+====================================================================================================
+LESSON B1-041   |   UNIT 5: High-frequency words in idiomatic use
+====================================================================================================
+MAIN WORD: DEAL
+Azerbaijani: Məşğul olmaq, həll etmək; sövdələşmə, razılaşma
+
+A. MAIN WORD
+   English spelling ....... deal
+   Azerbaijani meaning .... məşğul olmaq, həll etmək; sövdələşmə, razılaşma
+   Part of speech ......... verb, noun
+   Key forms .............. deal – deals – dealt /delt/ – dealt – dealing
+   British English IPA .... /diːl/
+   CEFR level ............. B1 (Intermediate)
+   Level note ............. The headword on its own is listed at A2 in the open reference wordlist;
+                           this lesson is B1 because the expressions built on it are B1 material.
+
+B. WORD FAMILY
+   Noun forms ........ deal (main word); dealer — alverçi, diler
+   Verb forms ........ deal (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Deal with — Bir işlə məşğul olmaq, həll etmək, öhdəsindən gəlmək
+      Usage: The key phrasal verb: deal with a problem / a customer
+   2. It's a deal — Razılaşdıq, oldu
+      Usage: Spoken; said when you accept an offer
+   3. Do a deal — Sövdələşmək, razılığa gəlmək
+      Usage: British English; also "make a deal"
+   4. A fair deal — Ədalətli sövdələşmə; ədalətli rəftar
+      Usage: fair = treating everyone equally
+   5. Strike a deal — Razılıq əldə etmək, sövdələşmə bağlamaq
+      Usage: strike = here: reach (journalistic)
+   6. A done deal — Həll olunmuş məsələ, bağlanmış sövdələşmə
+      Usage: Informal; something already decided
+   7. An art dealer — İncəsənət əsərləri alverçisi
+      Usage: art = paintings, drawings and sculpture
+   8. Deal with an emergency — Fövqəladə vəziyyətin öhdəsindən gəlmək
+      Usage: emergency = a sudden dangerous situation
+
+D. NATURAL EXAMPLE SENTENCES
+   1. How do you deal with difficult customers?
+      → Çətin müştərilərlə necə davranırsan?
+   2. The two companies have struck a deal.
+      → İki şirkət razılıq əldə edib.
+   3. I'll cook if you wash the dishes. – It's a deal!
+      → Sən qabları yusan, mən yemək bişirərəm. – Razılaşdıq!
+   4. The staff are trained to deal with emergencies.
+      → Heyət fövqəladə vəziyyətlərin öhdəsindən gəlmək üçün təlim keçib.
+
+E. USAGE EXPLANATION
+   DEAL is irregular: deal – dealt – dealt, pronounced /delt/. DEAL WITH has three meanings: take
+   action to solve (deal with a problem), do business with (deal with a supplier) and be about (The
+   book deals with war). The noun DEAL is a business agreement; "a great deal of" means "a lot of"
+   and is used with uncountable nouns in formal English: a great deal of money. "It's no big deal"
+   means it is not important.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): DEAL [main], dealer [family], fair, strike, art,
+      emergency
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,153 → 1,159 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 5 (High-frequency words in idiomatic use)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: SET, RUN, MIND, DEAL
+   New items registered in this unit: 26   |   Database total after this unit: 1,159
+   alarm, art, DEAL, dealer, emergency, errand, fair, limit, long, marathon, MIND, mindful, never,
+   open-minded, president, RUN, runner, running, scene, SET, setting, slip, smoothly, standard,
+   state, strike
 
 ====================================================================================================
 UPDATED VOCABULARY INDEX — END OF LEVEL B1
 ====================================================================================================
-   Main words covered at B1 (0):
-      —
+   Main words covered at B1 (41):
+      ACHIEVE (001), SUCCEED (002), IMPROVE (003), DEVELOP (004), EXPERIENCE (005), SKILL (006),
+      MANAGE (007), PREPARE (008), EMPLOY (009), APPLY (010), EDUCATION (011), EXPLAIN (012),
+      SUGGEST (013), ARGUE (014), COMPLAIN (015), DISCUSS (016), OPINION (017), ADVICE (018), AGREE
+      (019), DECIDE (020), ENVIRONMENT (021), PROTECT (022), INCREASE (023), REDUCE (024), PROVIDE
+      (025), SUPPORT (026), SOLVE (027), AVOID (028), CAUSE (029), EFFORT (030), HABIT (031),
+      OPPORTUNITY (032), CHALLENGE (033), PRESSURE (034), RESPONSIBLE (035), CONFIDENT (036),
+      SERIOUS (037), SET (038), RUN (039), MIND (040), DEAL (041)
 
-   All vocabulary introduced at B1, A–Z (0 items; the number is the lesson):
-      —
+   All vocabulary introduced at B1, A–Z (384 items; the number is the lesson):
+      absolutely 019, academic 002, accept 013, access 011, accident 028, achievable 001, ACHIEVE
+      001, achievement 001, achiever 001, act 035, activity 013, adult 011, advantage 016, ADVICE
+      018, advisable 018, advise 018, adviser 018, agency 009, AGREE 019, agreement 019, aim 001,
+      air 034, alarm 038, alcohol 028, alternative 013, amazing 005, ambition 001, amount 023,
+      annoying 031, applicant 010, application 010, APPLY 010, ARGUE 014, argument 014, art 041,
+      assistance 025, attempt 037, AVOID 028, avoidable 028, awareness 021, basic 006, behaviour
+      035, belief 033, blood 034, boost 036, briefly 012, budget 007, CAUSE 029, celebrate 002, cent
+      023, CHALLENGE 033, challenging 033, chaos 029, charity 026, claim 026, colleague 016,
+      commercial 002, communication 006, COMPLAIN 015, complaint 015, concern 029, condition 003,
+      confidence 036, CONFIDENT 036, confidently 036, conflict 027, confusion 028, consider 013,
+      contact 028, convincing 014, cope 034, create 032, creature 031, crime 024, crisis 027, crowd
+      028, customer 015, danger 028, data 022, deadly 037, DEAL 041, dealer 041, death 029, debt
+      024, DECIDE 020, decision 020, decisive 020, delay 015, deny 035, department 007, desperate
+      030, destroy 021, determined 030, DEVELOP 004, developed 004, developer 004, developing 004,
+      development 004, disagree 019, disagreement 019, disaster 021, DISCUSS 016, discussion 016,
+      disease 029, doubt 037, educate 011, educated 011, EDUCATION 011, educational 011, effect 029,
+      effective 027, EFFORT 030, effortless 030, effortlessly 030, emergency 041, emission 024,
+      emotional 026, EMPLOY 009, employee 009, employer 009, employment 009, ENVIRONMENT 021,
+      environmental 021, environmentalist 021, environmentally 021, errand 039, essay 008, essential
+      006, exactly 012, excellent 001, exciting 033, EXPERIENCE 005, experienced 005, expert 017,
+      EXPLAIN 012, explanation 012, express 017, facility 025, fair 041, fame 001, feedback 025,
+      financial 026, forest 022, form 010, formal 015, full-time 009, gain 005, global 021, glove
+      022, goal 001, golden 032, government 026, grade 001, gradually 003, grammar 003, group 016,
+      HABIT 031, habitual 031, half 024, handle 015, headache 015, higher 011, highly 002, hold 035,
+      honest 017, huge 030, ideal 027, ignore 018, illness 037, IMPROVE 003, improvement 003, income
+      023, INCREASE 023, increasingly 023, indecisive 020, independence 001, inexperienced 005,
+      injury 029, intense 034, interview 008, irresponsible 035, join 016, joint 030, kick 031,
+      knowledge 010, lack 005, large 009, largely 035, legal 018, licence 010, limit 038, lively
+      016, loan 010, logical 012, long 039, loyal 026, major 033, MANAGE 007, manageable 007,
+      management 007, manager 007, marathon 039, master 006, matter 016, medical 018, method 004,
+      MIND 040, mindful 040, moment 020, moral 026, mystery 027, nasty 031, never 040, obvious 027,
+      offence 037, offer 018, open-minded 040, OPINION 017, OPPORTUNITY 032, outcome 002, overcome
+      033, own 007, pain 029, part-time 009, peaceful 027, peer 034, performance 003, permanent 009,
+      permission 010, personal 004, piece 018, planet 022, politics 016, poll 017, pollution 021,
+      popular 017, pose 033, position 010, possible 012, poverty 024, powerful 014, practical 005,
+      practise 006, preparation 008, PREPARE 008, prepared 008, presentation 006, preserve 021,
+      president 039, PRESSURE 034, previous 005, primary 011, principle 019, private 011, process
+      012, product 004, production 023, professional 018, project 007, pronunciation 003, proof 025,
+      PROTECT 022, protection 022, protective 022, PROVIDE 025, provider 025, provision 025, purpose
+      012, puzzle 027, quality 003, rare 032, rate 009, real 033, reasonably 036, receive 011,
+      REDUCE 024, reduction 024, regret 020, regular 031, relationship 004, relieve 034, report 008,
+      require 006, rescue 030, resist 034, responsibility 035, RESPONSIBLE 035, responsibly 035,
+      restore 036, result 001, rights 022, rise 033, risk 023, root 029, RUN 039, runner 039,
+      running 039, salad 008, sale 023, scene 038, scholarship 010, secondary 011, security 025,
+      seek 018, seize 032, self-confidence 036, self-employed 009, senior 007, sense 035, sensible
+      013, SERIOUS 037, seriously 037, seriousness 037, SET 038, setting 038, settle 014, sharp 023,
+      shelter 025, sign 019, silly 014, simple 012, situation 003, skilful 006, SKILL 006, skilled
+      006, skin 022, sleeping 031, slip 040, smoothly 039, software 004, solution 027, SOLVE 027,
+      speed 024, stable 021, staff 007, standard 038, state 040, steady 023, stress 007, strike 041,
+      SUCCEED 002, success 002, successful 002, successfully 002, SUGGEST 013, suggestion 013,
+      summary 008, SUPPORT 026, supporter 026, supportive 026, system 004, technical 006, technology
+      004, temporary 009, tend 019, theory 004, threat 037, tough 020, trade 019, traffic 024,
+      training 011, trouble 028, unavoidable 028, unemployed 009, unemployment 009, unforgettable
+      005, unique 032, unskilled 006, unsuccessful 002, urban 021, valuable 005, victory 001, visa
+      010, vocabulary 003, waste 024, welcome 013, wildlife 022, wise 020, wish 002, wonderful 032,
+      worst 008, worth 030, wrong 020, youth 009
 
-   Cumulative database size after B1: 775 individual vocabulary items (+ 245 structural words).
+   Cumulative database size after B1: 1,159 individual vocabulary items (+ 245 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL B1
