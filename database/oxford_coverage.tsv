@@ -899,7 +899,7 @@ word	A1	young	COLLOCATE	B2-032	younger
 word	A1	your	FOUNDATION	A1-000	
 word	A1	yourself	FOUNDATION	A1-000	
 word	A2	ability	COLLOCATE	B2-001	
-word	A2	able	NOT YET		
+word	A2	able	COLLOCATE	A2-082	
 word	A2	accept	COLLOCATE	B1-013	
 word	A2	accident	COLLOCATE	B1-028	
 word	A2	according to	NOT YET		
@@ -908,7 +908,7 @@ word	A2	act	COLLOCATE	B1-035
 word	A2	active	NOT YET		
 word	A2	actually	FOUNDATION	A1-000	
 word	A2	advantage	COLLOCATE	B1-016	advantages
-word	A2	adventure	NOT YET		
+word	A2	adventure	COLLOCATE	A2-082	
 word	A2	advertise	MAIN	A2-057	
 word	A2	advertisement	COLLOCATE	A2-042	
 word	A2	advertising	COLLOCATE	B2-022	
@@ -928,8 +928,8 @@ word	A2	although	FOUNDATION	A1-000
 word	A2	among	FOUNDATION	A1-000	
 word	A2	amount	COLLOCATE	B1-023	
 word	A2	analyze	MAIN	B2-001	analyse
-word	A2	ancient	NOT YET		
-word	A2	ankle	NOT YET		
+word	A2	ancient	COLLOCATE	A2-066	
+word	A2	ankle	COLLOCATE	A2-073	
 word	A2	anybody	FOUNDATION	A1-000	
 word	A2	anymore	FOUNDATION	A1-000	
 word	A2	anyway	FOUNDATION	A1-000	
@@ -938,23 +938,23 @@ word	A2	app	COLLOCATE	C2-057	apps
 word	A2	appear	MAIN	A2-042	
 word	A2	appearance	FAMILY	A2-042	
 word	A2	apply	MAIN	B1-010	
-word	A2	architect	NOT YET		
-word	A2	architecture	NOT YET		
+word	A2	architect	COLLOCATE	A2-079	architects
+word	A2	architecture	COLLOCATE	A2-071	
 word	A2	argue	MAIN	B1-014	
 word	A2	argument	FAMILY	B1-014	
 word	A2	army	COLLOCATE	A2-043	
 word	A2	arrange	MAIN	A2-058	
 word	A2	arrangement	FAMILY	A2-058	
 word	A2	asleep	COLLOCATE	A2-018	
-word	A2	assistant	NOT YET		
-word	A2	athlete	NOT YET		
+word	A2	assistant	COLLOCATE	A2-072	
+word	A2	athlete	COLLOCATE	A2-079	athletes
 word	A2	attack	COLLOCATE	B2-023	
 word	A2	attend	MAIN	A2-050	
 word	A2	attention	COLLOCATE	A2-023	
-word	A2	attractive	NOT YET		
+word	A2	attractive	COLLOCATE	A2-081	
 word	A2	audience	COLLOCATE	C1-049	
 word	A2	audio	COLLOCATE	A2-054	
-word	A2	author	NOT YET		
+word	A2	author	COLLOCATE	A2-081	
 word	A2	available	NOT YET		
 word	A2	average	COLLOCATE	B2-015	
 word	A2	avoid	MAIN	B1-028	
@@ -963,35 +963,35 @@ word	A2	awful	COLLOCATE	C1-046
 word	A2	background	COLLOCATE	A2-052	
 word	A2	badly	COLLOCATE	A2-056	
 word	A2	based	NOT YET		
-word	A2	bean	NOT YET		
+word	A2	bean	COLLOCATE	A2-061	beans
 word	A2	bear	MAIN	C1-040	
-word	A2	beef	NOT YET		
-word	A2	behave	NOT YET		
+word	A2	beef	COLLOCATE	A2-061	
+word	A2	behave	MAIN	A2-059	
 word	A2	behavior	COLLOCATE	B1-035	behaviour
 word	A2	belong	MAIN	A2-043	
-word	A2	belt	NOT YET		
+word	A2	belt	COLLOCATE	A2-073	
 word	A2	benefit	COLLOCATE	B2-039	benefits
 word	A2	billion	FOUNDATION	A1-000	
 word	A2	biology	COLLOCATE	A2-056	
 word	A2	birth	NOT YET		
-word	A2	bit	NOT YET		
-word	A2	block	NOT YET		
+word	A2	bit	COLLOCATE	A2-061	
+word	A2	block	COLLOCATE	A2-080	
 word	A2	blood	COLLOCATE	B1-034	
-word	A2	blow	NOT YET		
+word	A2	blow	COLLOCATE	A2-060	blows
 word	A2	board	COLLOCATE	A1-019	
-word	A2	boil	NOT YET		
+word	A2	boil	MAIN	A2-061	
 word	A2	bone	COLLOCATE	A2-019	
 word	A2	borrow	COLLOCATE	A1-011	
 word	A2	boss	COLLOCATE	B2-016	
-word	A2	bottom	NOT YET		
+word	A2	bottom	COLLOCATE	A2-073	
 word	A2	bowl	COLLOCATE	A2-046	
 word	A2	brain	COLLOCATE	A2-024	
 word	A2	bridge	COLLOCATE	A1-037	
 word	A2	bright	COLLOCATE	A1-040	
-word	A2	brilliant	NOT YET		
+word	A2	brilliant	COLLOCATE	A2-075	
 word	A2	broken	FAMILY	A2-019	
 word	A2	brush	COLLOCATE	A1-016	
-word	A2	burn	NOT YET		
+word	A2	burn	MAIN	A2-062	
 word	A2	businessman	NOT YET		
 word	A2	button	COLLOCATE	A2-053	
 word	A2	camp	COLLOCATE	A2-058	
@@ -999,7 +999,7 @@ word	A2	camping	COLLOCATE	A2-041
 word	A2	campus	COLLOCATE	A2-050	
 word	A2	candy	COLLOCATE	A2-057	
 word	A2	care	COLLOCATE	A1-004	
-word	A2	careful	NOT YET		
+word	A2	careful	COLLOCATE	A2-083	
 word	A2	carefully	COLLOCATE	A1-022	
 word	A2	carpet	COLLOCATE	A2-046	
 word	A2	cartoon	COLLOCATE	A1-025	cartoons
@@ -1017,24 +1017,24 @@ word	A2	chance	COLLOCATE	A2-006
 word	A2	character	COLLOCATE	A2-039	
 word	A2	charity	COLLOCATE	B1-026	
 word	A2	chat	COLLOCATE	A1-015	
-word	A2	chef	NOT YET		
+word	A2	chef	COLLOCATE	A2-072	
 word	A2	chemistry	NOT YET		
-word	A2	chip	NOT YET		
+word	A2	chip	COLLOCATE	A2-062	chips
 word	A2	choice	FAMILY	A2-022	
 word	A2	church	COLLOCATE	A2-043	
 word	A2	cigarette	COLLOCATE	A2-041	cigarettes
-word	A2	circle	NOT YET		
+word	A2	circle	COLLOCATE	A2-080	
 word	A2	classical	COLLOCATE	C2-020	
 word	A2	clear	COLLOCATE	C1-004	
 word	A2	clearly	COLLOCATE	A1-020	
-word	A2	clerk	NOT YET		
+word	A2	clerk	COLLOCATE	A2-072	
 word	A2	climate	MAIN	B2-025	
-word	A2	closed	NOT YET		
-word	A2	closet	NOT YET		
+word	A2	closed	COLLOCATE	A2-078	
+word	A2	closet	COLLOCATE	A2-078	
 word	A2	clothing	COLLOCATE	A2-057	
 word	A2	cloud	COLLOCATE	A1-032	clouds
 word	A2	coach	COLLOCATE	A2-004	
-word	A2	coast	NOT YET		
+word	A2	coast	COLLOCATE	A2-060	
 word	A2	code	COLLOCATE	C2-056	
 word	A2	colleague	COLLOCATE	B1-016	colleagues
 word	A2	collect	MAIN	A2-044	
@@ -1042,7 +1042,7 @@ word	A2	column	COLLOCATE	A2-045	columns
 word	A2	comedy	COLLOCATE	C2-012	
 word	A2	comfortable	COLLOCATE	A2-028	
 word	A2	comment	COLLOCATE	A2-003	
-word	A2	communicate	NOT YET		
+word	A2	communicate	MAIN	A2-063	
 word	A2	community	COLLOCATE	B2-036	
 word	A2	compete	MAIN	B2-014	
 word	A2	competition	FAMILY	B2-014	
@@ -1053,47 +1053,47 @@ word	A2	conference	COLLOCATE	A2-050
 word	A2	connect	MAIN	A2-054	
 word	A2	connected	FAMILY	A2-054	
 word	A2	consider	COLLOCATE	B1-013	
-word	A2	contain	NOT YET		
+word	A2	contain	MAIN	A2-064	
 word	A2	context	COLLOCATE	C2-050	
 word	A2	continent	COLLOCATE	C1-051	continents
 word	A2	continue	MAIN	A2-051	
 word	A2	control	COLLOCATE	A2-016	
 word	A2	cookie	NOT YET		
-word	A2	copy	NOT YET		
+word	A2	copy	COLLOCATE	A2-067	
 word	A2	corner	COLLOCATE	A2-014	
-word	A2	correctly	NOT YET		
+word	A2	correctly	COLLOCATE	A2-080	
 word	A2	count	MAIN	A2-045	
 word	A2	couple	COLLOCATE	A1-038	
 word	A2	cover	MAIN	A2-046	
-word	A2	crazy	NOT YET		
+word	A2	crazy	COLLOCATE	A2-070	
 word	A2	creative	NOT YET		
 word	A2	credit	COLLOCATE	A2-052	
 word	A2	crime	COLLOCATE	B1-024	
-word	A2	criminal	NOT YET		
+word	A2	criminal	COLLOCATE	A2-059	
 word	A2	cross	COLLOCATE	A1-026	
 word	A2	crowd	COLLOCATE	B1-028	crowds
-word	A2	crowded	NOT YET		
+word	A2	crowded	COLLOCATE	A2-083	
 word	A2	cry	COLLOCATE	A2-026	crying
 word	A2	curly	NOT YET		
 word	A2	cycle	COLLOCATE	C2-004	
 word	A2	daily	FAMILY	A1-031	
 word	A2	danger	COLLOCATE	B1-028	
 word	A2	data	COLLOCATE	B1-022	
-word	A2	dead	NOT YET		
+word	A2	dead	COLLOCATE	A2-069	
 word	A2	deal	MAIN	B1-041	
 word	A2	death	COLLOCATE	B1-029	
 word	A2	decision	FAMILY	B1-020	
-word	A2	deep	NOT YET		
+word	A2	deep	COLLOCATE	A2-062	
 word	A2	definitely	COLLOCATE	A2-055	
 word	A2	degree	COLLOCATE	B2-018	
-word	A2	dentist	NOT YET		
+word	A2	dentist	COLLOCATE	A2-072	
 word	A2	department	COLLOCATE	B1-007	
 word	A2	depend	MAIN	A2-052	
-word	A2	desert	NOT YET		
-word	A2	designer	NOT YET		
-word	A2	dessert	NOT YET		
+word	A2	desert	COLLOCATE	A2-065	
+word	A2	designer	COLLOCATE	A2-079	designers
+word	A2	dessert	COLLOCATE	A2-061	
 word	A2	destroy	COLLOCATE	B1-021	
-word	A2	detective	NOT YET		
+word	A2	detective	COLLOCATE	A2-077	
 word	A2	develop	MAIN	B1-004	
 word	A2	device	COLLOCATE	C2-015	
 word	A2	diary	COLLOCATE	A2-015	
@@ -1103,27 +1103,27 @@ word	A2	direct	COLLOCATE	B2-005
 word	A2	direction	COLLOCATE	A1-006	directions
 word	A2	director	COLLOCATE	A2-058	
 word	A2	disagree	FAMILY	B1-019	
-word	A2	disappear	NOT YET		
+word	A2	disappear	MAIN	A2-065	
 word	A2	disaster	COLLOCATE	B1-021	
-word	A2	discover	NOT YET		
+word	A2	discover	MAIN	A2-066	
 word	A2	discovery	COLLOCATE	A2-037	
 word	A2	discussion	FAMILY	B1-016	
 word	A2	disease	COLLOCATE	B1-029	
 word	A2	distance	COLLOCATE	A2-038	
-word	A2	divorced	NOT YET		
+word	A2	divorced	COLLOCATE	A2-081	
 word	A2	document	COLLOCATE	A2-008	
-word	A2	double	NOT YET		
-word	A2	download	NOT YET		
-word	A2	downtown	NOT YET		
-word	A2	drama	NOT YET		
+word	A2	double	COLLOCATE	A2-076	
+word	A2	download	MAIN	A2-067	
+word	A2	downtown	COLLOCATE	A2-085	
+word	A2	drama	COLLOCATE	A2-084	
 word	A2	drawing	FAMILY	A1-057	
 word	A2	dream	COLLOCATE	A2-031	dreams
 word	A2	driving	COLLOCATE	A2-056	
 word	A2	drop	COLLOCATE	B2-016	
-word	A2	drug	NOT YET		
+word	A2	drug	COLLOCATE	A2-064	drugs
 word	A2	dry	COLLOCATE	A1-039	
 word	A2	earn	COLLOCATE	A1-011	
-word	A2	earth	NOT YET		
+word	A2	earth	COLLOCATE	A2-065	
 word	A2	easily	FAMILY	A2-035	
 word	A2	education	MAIN	B1-011	
 word	A2	effect	COLLOCATE	B1-029	
@@ -1132,7 +1132,7 @@ word	A2	electric	NOT YET
 word	A2	electrical	NOT YET		
 word	A2	electricity	COLLOCATE	B2-032	
 word	A2	electronic	NOT YET		
-word	A2	elevator	NOT YET		
+word	A2	elevator	COLLOCATE	A2-075	
 word	A2	employ	MAIN	B1-009	
 word	A2	employee	FAMILY	B1-009	
 word	A2	employer	FAMILY	B1-009	
@@ -1155,16 +1155,16 @@ word	A2	exact	COLLOCATE	A2-047
 word	A2	exactly	COLLOCATE	B1-012	
 word	A2	excellent	COLLOCATE	B1-001	
 word	A2	except	FOUNDATION	A1-000	
-word	A2	exist	NOT YET		
+word	A2	exist	COLLOCATE	A2-065	
 word	A2	expect	MAIN	A2-055	
 word	A2	experience	MAIN	B1-005	
 word	A2	experiment	COLLOCATE	A2-051	
 word	A2	expert	COLLOCATE	B1-017	
 word	A2	explanation	FAMILY	B1-012	
 word	A2	express	COLLOCATE	B1-017	
-word	A2	expression	NOT YET		
+word	A2	expression	COLLOCATE	A2-074	
 word	A2	extreme	COLLOCATE	A2-034	
-word	A2	extremely	NOT YET		
+word	A2	extremely	COLLOCATE	A2-071	
 word	A2	factor	COLLOCATE	B2-011	
 word	A2	factory	COLLOCATE	C1-054	
 word	A2	fail	MAIN	A2-056	
@@ -1174,12 +1174,12 @@ word	A2	farming	FAMILY	A1-065
 word	A2	fashion	COLLOCATE	A2-009	
 word	A2	fear	COLLOCATE	B2-025	
 word	A2	feature	COLLOCATE	B2-024	
-word	A2	feed	NOT YET		
-word	A2	female	NOT YET		
-word	A2	fever	NOT YET		
+word	A2	feed	MAIN	A2-069	
+word	A2	female	COLLOCATE	A2-077	
+word	A2	fever	COLLOCATE	A2-070	
 word	A2	fiction	COLLOCATE	C1-057	
 word	A2	field	COLLOCATE	B2-010	
-word	A2	fight	NOT YET		
+word	A2	fight	MAIN	A2-070	
 word	A2	figure	COLLOCATE	B2-021	
 word	A2	film	COLLOCATE	A1-025	
 word	A2	finally	COLLOCATE	A2-047	
@@ -1190,8 +1190,8 @@ word	A2	fix	COLLOCATE	B2-039
 word	A2	flat	COLLOCATE	A1-012	
 word	A2	flu	COLLOCATE	A2-005	
 word	A2	flying	FAMILY	A1-064	
-word	A2	focus	NOT YET		
-word	A2	following	NOT YET		
+word	A2	focus	MAIN	A2-071	
+word	A2	following	COLLOCATE	A2-085	
 word	A2	foreign	COLLOCATE	B2-020	
 word	A2	forest	COLLOCATE	B1-022	forests
 word	A2	fork	COLLOCATE	A2-048	
@@ -1199,10 +1199,10 @@ word	A2	formal	COLLOCATE	B1-015
 word	A2	fortunately	NOT YET		
 word	A2	forward	FOUNDATION	A1-000	
 word	A2	fresh	COLLOCATE	A2-015	
-word	A2	frog	NOT YET		
+word	A2	frog	COLLOCATE	A2-069	
 word	A2	furniture	COLLOCATE	A2-013	
 word	A2	further	COLLOCATE	C1-008	
-word	A2	gallery	NOT YET		
+word	A2	gallery	COLLOCATE	A2-078	
 word	A2	gap	COLLOCATE	B2-032	
 word	A2	garbage	COLLOCATE	A2-049	
 word	A2	gas	COLLOCATE	B2-025	gases
@@ -1211,12 +1211,12 @@ word	A2	general	COLLOCATE	B2-008
 word	A2	gift	COLLOCATE	A2-007	
 word	A2	goal	COLLOCATE	B1-001	
 word	A2	god	NOT YET		
-word	A2	gold	NOT YET		
+word	A2	gold	COLLOCATE	A2-077	
 word	A2	golf	NOT YET		
 word	A2	government	COLLOCATE	B1-026	
 word	A2	grass	COLLOCATE	A2-015	
-word	A2	greet	NOT YET		
-word	A2	grocery	NOT YET		
+word	A2	greet	MAIN	A2-072	
+word	A2	grocery	COLLOCATE	A2-082	groceries
 word	A2	ground	COLLOCATE	A2-018	
 word	A2	guest	COLLOCATE	A2-037	
 word	A2	guide	COLLOCATE	A2-001	
@@ -1234,28 +1234,28 @@ word	A2	helpful	FAMILY	A1-026
 word	A2	hero	COLLOCATE	C2-059	
 word	A2	hers	FOUNDATION	A1-000	
 word	A2	herself	FOUNDATION	A1-000	
-word	A2	hide	NOT YET		
+word	A2	hide	COLLOCATE	A2-068	
 word	A2	hike	COLLOCATE	A2-051	
-word	A2	hill	NOT YET		
+word	A2	hill	COLLOCATE	A2-065	
 word	A2	himself	FOUNDATION	A1-000	
-word	A2	hit	NOT YET		
-word	A2	hockey	NOT YET		
+word	A2	hit	MAIN	A2-073	
+word	A2	hockey	COLLOCATE	A2-073	
 word	A2	hold	COLLOCATE	B1-035	
 word	A2	hole	COLLOCATE	A2-046	
 word	A2	huge	COLLOCATE	B1-030	
 word	A2	human	COLLOCATE	A1-016	
-word	A2	hurt	NOT YET		
+word	A2	hurt	MAIN	A2-074	
 word	A2	ideal	COLLOCATE	B1-027	
-word	A2	identify	NOT YET		
+word	A2	identify	COLLOCATE	A2-068	
 word	A2	ill	COLLOCATE	A2-018	
 word	A2	illness	COLLOCATE	B1-037	
 word	A2	image	COLLOCATE	C2-012	images
 word	A2	immediately	COLLOCATE	A2-047	
-word	A2	impossible	NOT YET		
+word	A2	impossible	MAIN	A2-068	
 word	A2	included	NOT YET		
 word	A2	including	NOT YET		
 word	A2	increase	MAIN	B1-023	
-word	A2	incredible	NOT YET		
+word	A2	incredible	COLLOCATE	A2-084	
 word	A2	independent	NOT YET		
 word	A2	individual	COLLOCATE	C1-043	
 word	A2	industry	COLLOCATE	B2-037	
@@ -1263,45 +1263,45 @@ word	A2	informal	NOT YET
 word	A2	injury	COLLOCATE	B1-029	
 word	A2	insect	COLLOCATE	A2-044	insects
 word	A2	inside	FOUNDATION	A1-000	
-word	A2	instead	NOT YET		
-word	A2	instead of	NOT YET		
+word	A2	instead	COLLOCATE	A2-082	
+word	A2	instead of	EXPRESSION	A2-082	
 word	A2	instruction	COLLOCATE	A2-038	instructions
-word	A2	instructor	NOT YET		
-word	A2	instrument	NOT YET		
-word	A2	intelligent	NOT YET		
+word	A2	instructor	COLLOCATE	A2-063	
+word	A2	instrument	COLLOCATE	A2-075	
+word	A2	intelligent	COLLOCATE	A2-081	
 word	A2	international	COLLOCATE	C1-017	
-word	A2	introduction	NOT YET		
-word	A2	invent	NOT YET		
-word	A2	invention	NOT YET		
+word	A2	introduction	COLLOCATE	A2-064	
+word	A2	invent	MAIN	A2-075	
+word	A2	invention	FAMILY	A2-075	
 word	A2	invitation	COLLOCATE	A2-055	
 word	A2	invite	COLLOCATE	A1-015	
 word	A2	involve	COLLOCATE	C1-039	
 word	A2	item	NOT YET		
 word	A2	itself	FOUNDATION	A1-000	
 word	A2	jam	COLLOCATE	A2-048	
-word	A2	jazz	NOT YET		
-word	A2	jewelry	NOT YET		
+word	A2	jazz	COLLOCATE	A2-067	
+word	A2	jewelry	COLLOCATE	A2-077	jewellery
 word	A2	joke	COLLOCATE	A2-010	
-word	A2	journalist	NOT YET		
-word	A2	jump	NOT YET		
+word	A2	journalist	COLLOCATE	A2-063	
+word	A2	jump	MAIN	A2-076	
 word	A2	kid	COLLOCATE	A2-032	kids
-word	A2	kill	NOT YET		
-word	A2	kilometer	NOT YET		
+word	A2	kill	COLLOCATE	A2-070	
+word	A2	kilometer	COLLOCATE	A2-080	kilometre
 word	A2	king	COLLOCATE	A2-043	
 word	A2	knee	COLLOCATE	A2-046	knees
 word	A2	knife	COLLOCATE	A2-024	
-word	A2	knock	NOT YET		
+word	A2	knock	COLLOCATE	A2-078	
 word	A2	knowledge	COLLOCATE	B1-010	
 word	A2	lab	COLLOCATE	A2-050	
-word	A2	lady	NOT YET		
+word	A2	lady	COLLOCATE	A2-059	
 word	A2	lake	COLLOCATE	A2-049	
-word	A2	lamp	NOT YET		
+word	A2	lamp	COLLOCATE	A2-083	
 word	A2	laptop	COLLOCATE	A2-007	
 word	A2	laughter	COLLOCATE	C1-050	
 word	A2	law	COLLOCATE	A2-019	
-word	A2	lawyer	NOT YET		
+word	A2	lawyer	COLLOCATE	A2-070	
 word	A2	lazy	COLLOCATE	C2-045	
-word	A2	lead	NOT YET		
+word	A2	lead	MAIN	A2-079	
 word	A2	leader	COLLOCATE	A2-039	
 word	A2	learning	FAMILY	A1-017	
 word	A2	least	FOUNDATION	A1-000	
@@ -1315,87 +1315,87 @@ word	A2	lift	COLLOCATE	B2-034
 word	A2	likely	COLLOCATE	A2-055	
 word	A2	link	COLLOCATE	A2-008	
 word	A2	listener	FAMILY	A1-022	
-word	A2	lock	NOT YET		
+word	A2	lock	COLLOCATE	A2-078	
 word	A2	lost	FAMILY	A2-016	
-word	A2	loud	NOT YET		
+word	A2	loud	COLLOCATE	A2-084	
 word	A2	loudly	COLLOCATE	A1-020	
-word	A2	low	NOT YET		
+word	A2	low	COLLOCATE	A2-076	
 word	A2	luck	COLLOCATE	A1-034	
-word	A2	lucky	NOT YET		
+word	A2	lucky	COLLOCATE	A2-076	
 word	A2	mail	COLLOCATE	A2-044	
 word	A2	major	COLLOCATE	B1-033	
-word	A2	male	NOT YET		
+word	A2	male	COLLOCATE	A2-077	
 word	A2	manage	MAIN	B1-007	
 word	A2	manager	FAMILY	B1-007	
-word	A2	manner	NOT YET		
-word	A2	mark	NOT YET		
-word	A2	marry	NOT YET		
+word	A2	manner	COLLOCATE	A2-059	
+word	A2	mark	MAIN	A2-080	
+word	A2	marry	MAIN	A2-081	
 word	A2	material	COLLOCATE	B2-023	materials
 word	A2	math	COLLOCATE	A2-056	maths
 word	A2	mathematics	COLLOCATE	A2-056	
 word	A2	matter	COLLOCATE	B1-016	
 word	A2	may	FOUNDATION	A1-000	
-word	A2	mayor	NOT YET		
+word	A2	mayor	COLLOCATE	A2-070	
 word	A2	media	COLLOCATE	A2-024	
 word	A2	medical	COLLOCATE	B1-018	
 word	A2	medicine	COLLOCATE	A1-004	
 word	A2	memory	COLLOCATE	A2-016	
 word	A2	mention	COLLOCATE	C1-052	
-word	A2	metal	NOT YET		
+word	A2	metal	COLLOCATE	A2-064	
 word	A2	method	COLLOCATE	B1-004	
-word	A2	middle	NOT YET		
+word	A2	middle	COLLOCATE	A2-065	
 word	A2	might	FOUNDATION	A1-000	
 word	A2	mind	MAIN	B1-040	
 word	A2	mine	FOUNDATION	A1-000	
 word	A2	mirror	COLLOCATE	A2-046	
 word	A2	missing	FAMILY	A2-006	
 word	A2	mobile	COLLOCATE	A1-036	
-word	A2	monkey	NOT YET		
+word	A2	monkey	COLLOCATE	A2-069	monkeys
 word	A2	moon	NOT YET		
 word	A2	mostly	COLLOCATE	A2-052	
-word	A2	motorcycle	NOT YET		
+word	A2	motorcycle	COLLOCATE	A2-074	
 word	A2	movement	FAMILY	A2-013	
-word	A2	musical	NOT YET		
-word	A2	musician	NOT YET		
+word	A2	musical	COLLOCATE	A2-084	
+word	A2	musician	COLLOCATE	A2-079	musicians
 word	A2	myself	FOUNDATION	A1-000	
 word	A2	narrow	COLLOCATE	C1-028	
 word	A2	national	COLLOCATE	B2-018	
 word	A2	nature	COLLOCATE	A2-030	
 word	A2	nearly	FOUNDATION	A1-000	
 word	A2	necessary	NOT YET		
-word	A2	neck	NOT YET		
+word	A2	neck	COLLOCATE	A2-062	
 word	A2	neither	FOUNDATION	A1-000	
 word	A2	nervous	COLLOCATE	A2-028	
 word	A2	network	COLLOCATE	B2-040	
 word	A2	noise	COLLOCATE	A1-005	
-word	A2	noisy	NOT YET		
+word	A2	noisy	COLLOCATE	A2-084	
 word	A2	none	FOUNDATION	A1-000	
 word	A2	normal	NOT YET		
 word	A2	normally	COLLOCATE	A2-051	
 word	A2	notice	MAIN	A2-047	
 word	A2	novel	COLLOCATE	C2-025	
 word	A2	nowhere	FOUNDATION	A1-000	
-word	A2	nut	NOT YET		
+word	A2	nut	COLLOCATE	A2-064	nuts
 word	A2	offer	COLLOCATE	B1-018	
-word	A2	officer	NOT YET		
+word	A2	officer	COLLOCATE	A2-063	
 word	A2	oil	COLLOCATE	C1-030	
 word	A2	onto	FOUNDATION	A1-000	
 word	A2	opportunity	MAIN	B1-032	
 word	A2	option	COLLOCATE	A2-022	
 word	A2	ordinary	NOT YET		
 word	A2	organization	COLLOCATE	B2-017	organisation
-word	A2	organize	NOT YET		
+word	A2	organize	MAIN	A2-082	organise
 word	A2	original	COLLOCATE	C2-035	
 word	A2	ourselves	FOUNDATION	A1-000	
 word	A2	oven	COLLOCATE	A1-039	
 word	A2	overseas	COLLOCATE	B2-013	
 word	A2	owner	COLLOCATE	A2-043	
-word	A2	pack	NOT YET		
+word	A2	pack	MAIN	A2-083	
 word	A2	pain	COLLOCATE	B1-029	
-word	A2	painter	NOT YET		
-word	A2	palace	NOT YET		
+word	A2	painter	COLLOCATE	A2-081	
+word	A2	palace	COLLOCATE	A2-066	
 word	A2	parking	COLLOCATE	A2-041	
-word	A2	particular	NOT YET		
+word	A2	particular	COLLOCATE	A2-071	
 word	A2	pass	MAIN	A2-048	
 word	A2	passenger	COLLOCATE	A2-055	passengers
 word	A2	patient	COLLOCATE	B2-002	
@@ -1404,31 +1404,31 @@ word	A2	peace	COLLOCATE	A2-003
 word	A2	penny	COLLOCATE	A2-045	pennies
 word	A2	per	FOUNDATION	A1-000	
 word	A2	percent	EXPRESSION	B1-023	per cent
-word	A2	perform	NOT YET		
+word	A2	perform	MAIN	A2-084	
 word	A2	perhaps	FOUNDATION	A1-000	
 word	A2	permission	COLLOCATE	B1-010	
-word	A2	personality	NOT YET		
+word	A2	personality	COLLOCATE	A2-071	
 word	A2	pet	COLLOCATE	A2-015	pets
 word	A2	physical	COLLOCATE	A2-033	
 word	A2	physics	NOT YET		
-word	A2	pick	NOT YET		
-word	A2	pilot	NOT YET		
+word	A2	pick	MAIN	A2-085	
+word	A2	pilot	COLLOCATE	A2-063	
 word	A2	planet	COLLOCATE	B1-022	
 word	A2	plastic	COLLOCATE	C1-060	
 word	A2	plate	COLLOCATE	A2-019	
 word	A2	platform	COLLOCATE	C2-057	platforms
 word	A2	pleased	NOT YET		
 word	A2	pocket	COLLOCATE	A1-011	
-word	A2	polite	NOT YET		
+word	A2	polite	COLLOCATE	A2-059	
 word	A2	pollution	COLLOCATE	B1-021	
-word	A2	pop	NOT YET		
+word	A2	pop	COLLOCATE	A2-067	
 word	A2	population	COLLOCATE	B2-008	
 word	A2	position	COLLOCATE	B1-010	
 word	A2	possession	COLLOCATE	C1-041	possessions
 word	A2	possibility	COLLOCATE	C2-030	
 word	A2	poster	COLLOCATE	A2-042	
 word	A2	power	COLLOCATE	B2-037	
-word	A2	predict	NOT YET		
+word	A2	predict	COLLOCATE	A2-068	
 word	A2	president	COLLOCATE	B1-039	
 word	A2	prevent	COLLOCATE	C1-008	
 word	A2	print	NOT YET		
@@ -1438,22 +1438,22 @@ word	A2	prize	COLLOCATE	A2-027
 word	A2	process	COLLOCATE	B1-012	
 word	A2	produce	COLLOCATE	A2-057	
 word	A2	professional	COLLOCATE	B1-018	
-word	A2	professor	NOT YET		
-word	A2	profile	NOT YET		
+word	A2	professor	COLLOCATE	A2-072	
+word	A2	profile	COLLOCATE	A2-067	
 word	A2	progress	COLLOCATE	B2-002	
 word	A2	promise	COLLOCATE	A2-015	
-word	A2	pronounce	NOT YET		
+word	A2	pronounce	COLLOCATE	A2-068	
 word	A2	protect	MAIN	B1-022	
 word	A2	provide	MAIN	B1-025	
 word	A2	public	COLLOCATE	A2-024	
 word	A2	publish	COLLOCATE	B2-010	
 word	A2	pull	COLLOCATE	C1-036	
 word	A2	purpose	COLLOCATE	B1-012	
-word	A2	push	NOT YET		
+word	A2	push	COLLOCATE	A2-078	
 word	A2	quality	COLLOCATE	B1-003	
 word	A2	quantity	COLLOCATE	A2-052	
 word	A2	queen	COLLOCATE	A2-043	
-word	A2	quietly	NOT YET		
+word	A2	quietly	COLLOCATE	A2-059	
 word	A2	race	COLLOCATE	A2-027	
 word	A2	railroad	COLLOCATE	A2-054	
 word	A2	raise	COLLOCATE	B2-007	
@@ -1467,14 +1467,14 @@ word	A2	recent	COLLOCATE	B2-008
 word	A2	recently	NOT YET		
 word	A2	reception	COLLOCATE	A2-050	
 word	A2	recipe	COLLOCATE	A2-011	
-word	A2	recognize	NOT YET		
+word	A2	recognize	COLLOCATE	A2-068	recognise
 word	A2	recommend	NOT YET		
 word	A2	record	COLLOCATE	A2-019	
-word	A2	recording	NOT YET		
+word	A2	recording	COLLOCATE	A2-067	
 word	A2	recycle	COLLOCATE	C1-012	
 word	A2	reduce	MAIN	B1-024	
 word	A2	refer	NOT YET		
-word	A2	refrigerator	NOT YET		
+word	A2	refrigerator	COLLOCATE	A2-075	
 word	A2	refuse	COLLOCATE	B2-030	
 word	A2	region	COLLOCATE	C1-043	
 word	A2	regular	COLLOCATE	B1-031	
@@ -1483,7 +1483,7 @@ word	A2	remove	COLLOCATE	C1-004
 word	A2	repair	COLLOCATE	C1-008	
 word	A2	replace	MAIN	A2-053	
 word	A2	reply	COLLOCATE	A2-008	
-word	A2	reporter	NOT YET		
+word	A2	reporter	COLLOCATE	A2-063	
 word	A2	request	COLLOCATE	B2-040	
 word	A2	research	MAIN	B2-010	
 word	A2	researcher	FAMILY	B2-010	
@@ -1491,29 +1491,29 @@ word	A2	respond	NOT YET
 word	A2	response	COLLOCATE	C1-004	
 word	A2	rest	COLLOCATE	A2-026	
 word	A2	review	COLLOCATE	C1-045	
-word	A2	ring	NOT YET		
+word	A2	ring	COLLOCATE	A2-077	
 word	A2	rise	COLLOCATE	B1-033	
 word	A2	rock	COLLOCATE	A2-049	
 word	A2	role	COLLOCATE	A2-037	
 word	A2	roof	COLLOCATE	C1-058	
 word	A2	round	FOUNDATION	A1-000	
 word	A2	route	COLLOCATE	C1-019	
-word	A2	rude	NOT YET		
+word	A2	rude	COLLOCATE	A2-059	
 word	A2	runner	FAMILY	B1-039	
 word	A2	running	FAMILY	B1-039	
 word	A2	sadly	NOT YET		
 word	A2	safe	MAIN	A2-038	
-word	A2	sail	NOT YET		
+word	A2	sail	COLLOCATE	A2-060	
 word	A2	sailing	NOT YET		
 word	A2	salary	COLLOCATE	B2-014	
 word	A2	sale	COLLOCATE	B1-023	sales
 word	A2	sauce	COLLOCATE	A2-048	
 word	A2	save	COLLOCATE	A1-011	
-word	A2	scared	NOT YET		
+word	A2	scared	COLLOCATE	A2-074	
 word	A2	scary	NOT YET		
 word	A2	scene	COLLOCATE	B1-038	
 word	A2	schedule	COLLOCATE	A2-052	
-word	A2	score	NOT YET		
+word	A2	score	COLLOCATE	A2-073	
 word	A2	screen	COLLOCATE	B2-035	
 word	A2	sea	COLLOCATE	A1-012	
 word	A2	search	COLLOCATE	C1-023	
@@ -1529,13 +1529,13 @@ word	A2	serious	MAIN	B1-037
 word	A2	serve	COLLOCATE	C1-044	
 word	A2	service	COLLOCATE	A2-033	
 word	A2	several	FOUNDATION	A1-000	
-word	A2	shake	NOT YET		
+word	A2	shake	COLLOCATE	A2-060	
 word	A2	shape	COLLOCATE	A2-036	shapes
 word	A2	sheet	COLLOCATE	A2-045	sheets
-word	A2	ship	NOT YET		
+word	A2	ship	COLLOCATE	A2-060	ships
 word	A2	shoulder	COLLOCATE	A1-016	shoulders
 word	A2	shout	COLLOCATE	A2-026	shouting
-word	A2	shut	NOT YET		
+word	A2	shut	MAIN	A2-078	
 word	A2	side	COLLOCATE	A2-054	sides
 word	A2	sign	COLLOCATE	B1-019	
 word	A2	silver	COLLOCATE	C2-018	
@@ -1544,10 +1544,10 @@ word	A2	since	FOUNDATION	A1-000
 word	A2	singing	COLLOCATE	A2-030	
 word	A2	single	COLLOCATE	C2-018	
 word	A2	sir	NOT YET		
-word	A2	site	NOT YET		
+word	A2	site	COLLOCATE	A2-066	
 word	A2	size	COLLOCATE	A2-020	
-word	A2	ski	NOT YET		
-word	A2	skiing	NOT YET		
+word	A2	ski	COLLOCATE	A2-076	
+word	A2	skiing	COLLOCATE	A2-074	
 word	A2	skin	COLLOCATE	B1-022	
 word	A2	sky	COLLOCATE	A2-042	
 word	A2	slowly	COLLOCATE	A1-020	
@@ -1563,36 +1563,36 @@ word	A2	social	COLLOCATE	A2-024
 word	A2	society	COLLOCATE	B2-015	
 word	A2	sock	COLLOCATE	A2-053	
 word	A2	soft	COLLOCATE	A1-008	
-word	A2	soldier	NOT YET		
+word	A2	soldier	COLLOCATE	A2-069	soldiers
 word	A2	solution	FAMILY	B1-027	
 word	A2	solve	MAIN	B1-027	
 word	A2	somewhere	FOUNDATION	A1-000	
-word	A2	sort	NOT YET		
+word	A2	sort	COLLOCATE	A2-085	
 word	A2	source	COLLOCATE	B2-023	sources
 word	A2	speaker	FAMILY	A1-020	
-word	A2	specific	NOT YET		
+word	A2	specific	COLLOCATE	A2-071	
 word	A2	speech	FAMILY	A1-020	
 word	A2	speed	COLLOCATE	B1-024	
-word	A2	spider	NOT YET		
+word	A2	spider	COLLOCATE	A2-069	
 word	A2	spoon	COLLOCATE	A2-048	
 word	A2	square	COLLOCATE	A1-033	squares
 word	A2	stage	COLLOCATE	B2-012	
 word	A2	stair	NOT YET		
 word	A2	stamp	COLLOCATE	A2-044	stamps
 word	A2	state	COLLOCATE	B1-040	
-word	A2	steal	NOT YET		
+word	A2	steal	MAIN	A2-077	
 word	A2	step	COLLOCATE	A2-037	
-word	A2	stomach	NOT YET		
+word	A2	stomach	COLLOCATE	A2-074	
 word	A2	stone	COLLOCATE	A2-044	stones
-word	A2	storm	NOT YET		
-word	A2	stove	NOT YET		
+word	A2	storm	MAIN	A2-060	
+word	A2	stove	COLLOCATE	A2-061	
 word	A2	straight	COLLOCATE	A2-049	
 word	A2	strange	COLLOCATE	C2-041	
 word	A2	strategy	COLLOCATE	B2-024	
 word	A2	stress	COLLOCATE	B1-007	
 word	A2	structure	COLLOCATE	C1-005	
-word	A2	stupid	NOT YET		
-word	A2	subway	NOT YET		
+word	A2	stupid	COLLOCATE	A2-070	
+word	A2	subway	COLLOCATE	A2-085	
 word	A2	succeed	MAIN	B1-002	
 word	A2	successful	FAMILY	B1-002	
 word	A2	such	FOUNDATION	A1-000	
@@ -1606,7 +1606,7 @@ word	A2	surprise	COLLOCATE	A1-035
 word	A2	surprised	NOT YET		
 word	A2	surprising	NOT YET		
 word	A2	survey	COLLOCATE	B2-030	
-word	A2	sweet	NOT YET		
+word	A2	sweet	COLLOCATE	A2-061	
 word	A2	symbol	COLLOCATE	C2-026	
 word	A2	system	COLLOCATE	B1-004	
 word	A2	tablet	COLLOCATE	A2-054	
@@ -1634,45 +1634,45 @@ word	A2	tour	COLLOCATE	A2-051
 word	A2	tourism	COLLOCATE	B2-006	
 word	A2	toward	FOUNDATION	A1-000	towards
 word	A2	towel	COLLOCATE	A2-007	
-word	A2	tower	NOT YET		
+word	A2	tower	COLLOCATE	A2-066	
 word	A2	toy	COLLOCATE	A1-024	toys
-word	A2	track	NOT YET		
+word	A2	track	COLLOCATE	A2-080	
 word	A2	tradition	COLLOCATE	A2-051	
 word	A2	traditional	COLLOCATE	B2-009	
 word	A2	training	COLLOCATE	B1-011	
 word	A2	transportation	COLLOCATE	A2-058	
-word	A2	trash	NOT YET		
+word	A2	trash	COLLOCATE	A2-085	
 word	A2	traveler	FAMILY	A2-001	traveller
 word	A2	trouble	COLLOCATE	B1-028	
-word	A2	twin	NOT YET		
+word	A2	twin	COLLOCATE	A2-069	twins
 word	A2	typical	NOT YET		
-word	A2	underground	NOT YET		
+word	A2	underground	COLLOCATE	A2-065	
 word	A2	understanding	NOT YET		
 word	A2	unfortunately	NOT YET		
 word	A2	unhappy	FAMILY	A1-038	
-word	A2	uniform	NOT YET		
+word	A2	uniform	COLLOCATE	A2-083	
 word	A2	unit	COLLOCATE	A2-045	units
 word	A2	united	COLLOCATE	A2-043	
 word	A2	unusual	COLLOCATE	A2-044	
 word	A2	used to	NOT YET		
 word	A2	user	FAMILY	A2-024	
 word	A2	usual	COLLOCATE	A2-055	
-word	A2	valley	NOT YET		
-word	A2	variety	NOT YET		
+word	A2	valley	COLLOCATE	A2-066	
+word	A2	variety	COLLOCATE	A2-064	
 word	A2	vehicle	COLLOCATE	B2-029	
 word	A2	view	COLLOCATE	A2-030	
 word	A2	village	COLLOCATE	A1-012	
 word	A2	virus	COLLOCATE	C2-027	
 word	A2	voice	COLLOCATE	A2-016	
 word	A2	war	COLLOCATE	C1-036	
-word	A2	washing	NOT YET		
-word	A2	wave	NOT YET		
-word	A2	weak	NOT YET		
+word	A2	washing	COLLOCATE	A2-082	
+word	A2	wave	COLLOCATE	A2-060	waves
+word	A2	weak	COLLOCATE	A2-073	
 word	A2	web	COLLOCATE	A2-054	
 word	A2	wedding	COLLOCATE	A2-021	
 word	A2	weight	COLLOCATE	A2-016	
 word	A2	wet	COLLOCATE	A1-032	
-word	A2	wheel	NOT YET		
+word	A2	wheel	COLLOCATE	A2-075	
 word	A2	while	FOUNDATION	A1-000	
 word	A2	whole	COLLOCATE	A1-014	
 word	A2	whose	FOUNDATION	A1-000	
@@ -1681,7 +1681,7 @@ word	A2	wild	COLLOCATE	A2-049
 word	A2	wind	COLLOCATE	A1-032	
 word	A2	winner	FAMILY	A2-027	
 word	A2	wish	COLLOCATE	B1-002	
-word	A2	wood	NOT YET		
+word	A2	wood	COLLOCATE	A2-062	
 word	A2	wooden	NOT YET		
 word	A2	working	FAMILY	A1-023	
 word	A2	worried	FAMILY	A2-032	

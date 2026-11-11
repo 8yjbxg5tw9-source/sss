@@ -1,0 +1,654 @@
+====================================================================================================
+ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
+LEVEL A2 — ELEMENTARY  /  Elementar səviyyə
+====================================================================================================
+File: A2_VOCABULARY_PART_02.txt   |   Part 2 of 2   |   Generated: 2026-11-11
+Lessons in this file: 9 (9 main-word lessons + 0 fixed-phrase lessons)
+Expressions: 63   |   Fixed phrases: 0   |   Example sentences: 27
+New vocabulary items introduced at level A2: 646   |   Language of usage notes: Azerbaijani
+
+HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
+  A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
+  B. WORD FAMILY .......... Söz ailəsi: eyni kökdən yaranan isim, fel, sifət və zərf formaları
+  C. RELATED EXPRESSIONS .. Əlaqəli ifadələr: əsas sözlə işlənən 7–8 təbii söz birləşməsi (hər biri yeni söz öyrədir)
+  D. EXAMPLE SENTENCES .... Nümunə cümlələr: ifadələrin cümlədə işlənməsi və Azərbaycanca tərcüməsi
+  E. USAGE EXPLANATION .... İşlənmə izahı: oxşar ifadələrin fərqi, qrammatik qəliblər, üslub
+  DATABASE UPDATE ......... Bu dərsdə bazaya əlavə olunan yeni sözlər və təkrar yoxlamasının nəticəsi
+
+  FIXED-PHRASE LESSON ..... Sabit ifadələr dərsi: əvvəl öyrədilmiş sözlərdən qurulan 4–8 hazır ifadə (get up, at least)
+
+  sb = somebody (kimsə)      sth = something (nəsə)      one's = my / your / his / her ... (öz)
+  An expression marked [related] belongs to the same topic but does not contain the main word itself.
+  [related] işarəli ifadə eyni mövzuya aiddir, lakin əsas sözün özünü ehtiva etmir.
+
+THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
+  Every English word is taught exactly ONCE in the whole A1–C2 system: as a main word, as a word-family
+  form, or as the new word inside one expression. Only grammar words (a, the, of, to, be, have, do ...)
+  listed in A1 "Section 0" may recur inside expressions. Example sentences may recycle known words.
+  A fixed phrase (get up, at least, in fact) is an item of its own: it is built from words that were taught
+  earlier and it is taught once, as a phrase, in a fixed-phrase lesson.
+  Hər bir ingilis sözü bütün sistemdə (A1–C2) yalnız BİR dəfə öyrədilir. Yalnız A1 faylının
+  "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
+  Sabit ifadə (get up, at least, in fact) ayrıca vahiddir: əvvəl öyrədilmiş sözlərdən qurulur və
+  sabit ifadələr dərsində bir dəfə — ifadə kimi — öyrədilir.
+
+CONTENTS OF THIS FILE
+   UNIT 12 — Jobs and activities  /  Peşələr və fəaliyyətlər
+      A2-077 STEAL, A2-078 SHUT, A2-079 LEAD, A2-080 MARK, A2-081 MARRY, A2-082 ORGANISE, A2-083
+      PACK, A2-084 PERFORM, A2-085 PICK
+
+
+####################################################################################################
+#  UNIT 12 — JOBS AND ACTIVITIES
+#  Peşələr və fəaliyyətlər
+####################################################################################################
+
+====================================================================================================
+LESSON A2-077   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: STEAL
+Azerbaijani: Oğurlamaq
+
+A. MAIN WORD
+   English spelling ....... steal
+   Azerbaijani meaning .... oğurlamaq
+   Part of speech ......... verb
+   Key forms .............. steal – steals – stole – stolen – stealing
+   British English IPA .... /stiːl/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ steal (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Steal a gold ring — Qızıl üzük oğurlamaq
+      Usage: gold = qızıl; ring = üzük; fel kimi: zəng çalmaq
+   2. Steal jewellery — Zinət əşyaları oğurlamaq
+      Usage: jewellery /ˈdʒuːəlri/ = zinət əşyaları (Amerika yazılışı: jewelry)
+   3. A male or female detective — Kişi və ya qadın xəfiyyə  [related]
+      Usage: male = kişi cinsli; female = qadın cinsli; detective = xəfiyyə, detektiv
+   4. Steal sth from sb — Kimdənsə nəyisə oğurlamaq
+      Usage: Sözönü "from"dur
+   5. Steal from sb — Kimdənsə oğurluq etmək
+      Usage: He stole from his boss
+   6. Steal it — Onu oğurlamaq
+      Usage: Somebody stole it
+   7. Steal everything — Hər şeyi oğurlamaq
+      Usage: everything = hər şey
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Somebody stole my bike last night.
+      → Dünən gecə kimsə velosipedimi oğurlayıb.
+   2. The thieves stole a gold ring and other jewellery.
+      → Oğrular qızıl üzük və başqa zinət əşyaları oğurladılar.
+   3. A detective found the stolen car.
+      → Xəfiyyə oğurlanmış maşını tapdı.
+
+E. USAGE EXPLANATION
+   STEAL düzgün olmayan feldir: steal – stole – stolen. STEAL əşyanı oğurlamaqdır (steal money); ROB
+   isə adamı və ya yeri soymaqdır (rob a bank). Oğru – "thief". MALE və FEMALE rəsmi sözlərdir və
+   blanklarda cinsi bildirir; insanlar haqqında adətən "man / woman" deyilir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): STEAL [main], gold, ring, jewellery, male, female,
+      detective
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,183 → 1,190 items).
+
+====================================================================================================
+LESSON A2-078   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: SHUT
+Azerbaijani: Bağlamaq, örtmək; bağlanmaq
+
+A. MAIN WORD
+   English spelling ....... shut
+   Azerbaijani meaning .... bağlamaq, örtmək; bağlanmaq
+   Part of speech ......... verb
+   Key forms .............. shut – shuts – shut – shut – shutting
+   British English IPA .... /ʃʌt/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ shut (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Shut the closet — Şkafı bağlamaq
+      Usage: closet /ˈklɒzɪt/ = divar şkafı, paltar şkafı (Amerika ingiliscəsində)
+   2. A closed gallery — Bağlı qalereya  [related]
+      Usage: closed = bağlı; gallery = (rəsm) qalereyası
+   3. Push sth shut — Nəyisə itələyib bağlamaq
+      Usage: push /pʊʃ/ = itələmək; düyməni basmaq
+   4. Knock on sth — Nəyisə döymək, taqqıldatmaq  [related]
+      Usage: knock /nɒk/ = (qapını) döymək ("k" oxunmur)
+   5. Lock it — Onu kilidləmək  [related]
+      Usage: lock = kilidləmək; kilid
+   6. Shut down — (Müəssisəni, kompüteri) bağlamaq, söndürmək
+      Usage: Frazeoloji fel
+   7. Shut up — Susmaq, səsini kəsmək
+      Usage: Kobud ifadədir
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Please shut the door behind you.
+      → Zəhmət olmasa, qapını arxanca bağla.
+   2. Knock on the door before you come in.
+      → İçəri girməzdən əvvəl qapını döy.
+   3. Did you shut the window and lock the door?
+      → Pəncərəni bağlayıb qapını kilidlədin?
+
+E. USAGE EXPLANATION
+   SHUT-un üç forması eynidir: shut – shut – shut. CLOSE ilə sinonimdir, lakin daha danışıq
+   üslubundadır. "Shut up!" kobuddur; nəzakətli variant: "Be quiet, please". CLOSED sifətdir: The
+   shop is closed. LOCK açarla bağlamaqdır. PUSH – itələmək, əksi PULL – dartmaq (qapılarda
+   yazılır).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): SHUT [main], closet, closed, gallery, push, knock,
+      lock
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,190 → 1,197 items).
+
+====================================================================================================
+LESSON A2-079   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: LEAD
+Azerbaijani: Aparmaq, rəhbərlik etmək; irəlidə olmaq
+
+A. MAIN WORD
+   English spelling ....... lead
+   Azerbaijani meaning .... aparmaq, rəhbərlik etmək; irəlidə olmaq
+   Part of speech ......... verb, noun
+   Key forms .............. lead – leads – led – led – leading
+   British English IPA .... /liːd/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ lead (main word)
+   Verb forms ........ lead (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Lead the musicians — Musiqiçilərə rəhbərlik etmək
+      Usage: musician /mjuˈzɪʃən/ = musiqiçi
+   2. Lead the athletes — İdmançılara başçılıq etmək
+      Usage: athlete /ˈæθliːt/ = idmançı, atlet
+   3. Lead the designers — Dizaynerlərə rəhbərlik etmək
+      Usage: designer = dizayner
+   4. Lead the architects — Memarlara rəhbərlik etmək
+      Usage: architect /ˈɑːkɪtekt/ = memar
+   5. Lead the businessmen — İş adamlarına başçılıq etmək
+      Usage: businessman = iş adamı, biznesmen; cəmi: businessmen
+   6. Lead sb to sth — Kimisə nəyəsə aparmaq (gətirib çıxarmaq)
+      Usage: This road leads to the sea
+   7. Be in the lead — İrəlidə (birinci yerdə) olmaq
+      Usage: Burada "lead" isimdir
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She leads a team of young designers.
+      → O, gənc dizaynerlər komandasına rəhbərlik edir.
+   2. This road leads to the old town.
+      → Bu yol köhnə şəhərə aparır.
+   3. Our team is in the lead.
+      → Komandamız irəlidədir.
+
+E. USAGE EXPLANATION
+   LEAD düzgün olmayan feldir: lead – led – led. Yazılışına diqqət: keçmiş forma LED-dir. Mənaları:
+   yol göstərmək, rəhbərlik etmək (lead a team), nəticələnmək (lead to problems). Rəhbər – "leader".
+   Diqqət: eyni yazılışlı başqa söz "lead" /led/ "qurğuşun" deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): LEAD [main], musician, athlete, designer,
+      architect, businessmen
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,197 → 1,203 items).
+
+====================================================================================================
+LESSON A2-080   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: MARK
+Azerbaijani: İşarələmək; qiymət yazmaq; işarə, ləkə; qiymət
+
+A. MAIN WORD
+   English spelling ....... mark
+   Azerbaijani meaning .... işarələmək; qiymət yazmaq; işarə, ləkə; qiymət
+   Part of speech ......... verb, noun
+   Key forms .............. mark – marks – marked – marked – marking
+   British English IPA .... /mɑːk/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ mark (main word)
+   Verb forms ........ mark (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Mark a circle — Dairəni işarələmək
+      Usage: circle /ˈsɜːkəl/ = dairə, çevrə
+   2. Mark the block — Bloku (məhəlləni) işarələmək
+      Usage: block = blok; (Amerikada) məhəllə, iki küçə arası
+   3. Mark the track — Cığırı (yolu) işarələmək
+      Usage: track = cığır, iz; qaçış yolu
+   4. Mark the kilometres — Kilometrləri işarələmək
+      Usage: kilometre /ˈkɪləmiːtə/ = kilometr (Amerika yazılışı: kilometer)
+   5. Mark sth correctly — Nəyisə düzgün işarələmək (qiymətləndirmək)
+      Usage: correctly = düzgün
+   6. Mark sth with sth — Nəyisə nə iləsə işarələmək
+      Usage: mark the place with a cross
+   7. Mark it — Onu işarələmək
+      Usage: Mark it on the map
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Mark the correct answer with a circle.
+      → Düzgün cavabı dairəyə al.
+   2. The teacher is marking our tests.
+      → Müəllim testlərimizi yoxlayır (qiymətləndirir).
+   3. I got a good mark in English.
+      → Mən ingilis dilindən yaxşı qiymət aldım.
+
+E. USAGE EXPLANATION
+   MARK həm fel, həm isimdir. Məktəbdə: "mark a test" = işi yoxlayıb qiymət yazmaq, "a mark" =
+   qiymət (Britaniyada; Amerikada: grade). Başqa mənası: ləkə, iz (a dirty mark). BLOCK Amerika
+   şəhərlərində məsafə ölçüsüdür: two blocks from here = buradan iki məhəllə aralıda.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): MARK [main], circle, block, track, kilometre,
+      correctly
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,203 → 1,209 items).
+
+====================================================================================================
+LESSON A2-081   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: MARRY
+Azerbaijani: Evlənmək, ərə getmək
+
+A. MAIN WORD
+   English spelling ....... marry
+   Azerbaijani meaning .... evlənmək, ərə getmək
+   Part of speech ......... verb
+   Key forms .............. marry – marries – married – married – marrying
+   British English IPA .... /ˈmæri/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ marry (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Marry a painter — Rəssamla evlənmək
+      Usage: painter = rəssam; rəngsaz
+   2. Marry an author — Yazıçı ilə evlənmək
+      Usage: author /ˈɔːθə/ = müəllif, yazıçı
+   3. Divorced from sb — Kimdənsə boşanmış  [related]
+      Usage: divorced = boşanmış
+   4. Marry sb attractive — Cazibədar biri ilə evlənmək
+      Usage: attractive = cazibədar, yaraşıqlı
+   5. Marry sb intelligent — Ağıllı biri ilə evlənmək
+      Usage: intelligent /ɪnˈtelɪdʒənt/ = ağıllı, dərrakəli
+   6. Marry sb — Kiminləsə evlənmək
+      Usage: Sözönüsüz: She married him ("with him" səhvdir)
+   7. Marry for sth — Nəyəsə görə evlənmək
+      Usage: marry for love = sevib evlənmək
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She married an author from Ganja.
+      → O, gəncəli bir yazıçı ilə evləndi.
+   2. They got married in 2015.
+      → Onlar 2015-ci ildə evləndilər.
+   3. He is divorced and lives alone.
+      → O, boşanıb və tək yaşayır.
+
+E. USAGE EXPLANATION
+   MARRY sözönüsüz işlənir: "marry sb" – Azərbaycan dilindəki "ilə" sizi çaşdırmasın ("marry with"
+   səhvdir). Gündəlik dildə "get married (to sb)" daha çox işlənir. Vəziyyət: be married = evli
+   olmaq, be divorced = boşanmış olmaq. INTELLIGENT "ağıllı" deməkdir – "ziyalı" yox.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): MARRY [main], painter, author, divorced,
+      attractive, intelligent
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,209 → 1,215 items).
+
+====================================================================================================
+LESSON A2-082   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: ORGANISE
+Azerbaijani: Təşkil etmək; qaydaya salmaq
+
+A. MAIN WORD
+   English spelling ....... organise
+   Azerbaijani meaning .... təşkil etmək; qaydaya salmaq
+   Part of speech ......... verb
+   Key forms .............. organise – organises – organised – organised – organising
+   British English IPA .... /ˈɔːɡənaɪz/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ organise (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Organise an adventure — Macəra (səyahəti) təşkil etmək
+      Usage: adventure /ədˈventʃə/ = macəra
+   2. Organise the groceries — Ərzaq məhsullarını yerbəyer etmək
+      Usage: grocery = ərzaq mağazası; groceries = ərzaq məhsulları
+   3. Organise the washing — Paltar yumağı qaydaya salmaq
+      Usage: washing = paltar yuma; yuyulacaq paltar: do the washing
+   4. Instead of sb/sth — Kiminsə / nəyinsə əvəzinə  [related]
+      Usage: instead = əvəzində; instead of + isim / -ing
+   5. Be able to organise sth — Nəyisə təşkil edə bilmək
+      Usage: able = bacaran; be able to = edə bilmək
+   6. Organise yourself — Özünü nizama salmaq
+      Usage: You need to organise yourself better
+   7. Organise it — Onu təşkil etmək
+      Usage: Who organised it?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We are organising a party for her birthday.
+      → Biz onun ad günü üçün şənlik təşkil edirik.
+   2. I will be able to help you tomorrow.
+      → Mən sabah sənə kömək edə biləcəyəm.
+   3. Let's walk instead of taking the bus.
+      → Gəl, avtobusa minmək əvəzinə piyada gedək.
+
+E. USAGE EXPLANATION
+   ORGANISE Britaniya, ORGANIZE Amerika yazılışıdır. İsmi "organisation" – təşkilat. BE ABLE TO
+   "can" felinin əvəzedicisidir və bütün zamanlarda işlənir: I will be able to come. INSTEAD OF +
+   isim və ya -ing: instead of going; cümlənin sonunda isə tək "instead" gəlir: I'll have tea
+   instead.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): ORGANISE [main], adventure, grocery, washing,
+      instead, able
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,215 → 1,221 items).
+
+====================================================================================================
+LESSON A2-083   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: PACK
+Azerbaijani: (Çamadana) yığmaq, qablaşdırmaq
+
+A. MAIN WORD
+   English spelling ....... pack
+   Azerbaijani meaning .... (çamadana) yığmaq, qablaşdırmaq
+   Part of speech ......... verb
+   Key forms .............. pack – packs – packed – packed – packing
+   British English IPA .... /pæk/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ pack (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Pack a uniform — Formanı çantaya yığmaq
+      Usage: uniform /ˈjuːnɪfɔːm/ = forma, xüsusi geyim: a school uniform
+   2. Pack a lamp — Lampanı qablaşdırmaq
+      Usage: lamp = lampa, çıraq
+   3. Careful with sth — Nə iləsə ehtiyatlı  [related]
+      Usage: careful = ehtiyatlı, diqqətli; Be careful! = Ehtiyatlı ol!
+   4. Crowded with sb/sth — Kimlərləsə / nə iləsə dolu, basabas  [related]
+      Usage: crowded = adamla dolu, sıx
+   5. Pack up — Əşyaları yığışdırmaq; işi bitirmək
+      Usage: Frazeoloji fel
+   6. Pack sth into sth — Nəyisə nəyinsə içinə yığmaq
+      Usage: pack clothes into a bag
+   7. Pack it — Onu yığmaq (qablaşdırmaq)
+      Usage: Pack it carefully
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Have you packed your bag yet?
+      → Çantanı artıq yığmısan?
+   2. Be careful with that lamp; it is very old.
+      → O lampa ilə ehtiyatlı ol; çox köhnədir.
+   3. The bus was crowded with tourists.
+      → Avtobus turistlərlə dolu idi.
+
+E. USAGE EXPLANATION
+   PACK səfərdən əvvəl əşyaları çamadana yığmaqdır; əksi "unpack"dir. "Packed" danışıq dilində
+   "ağzına qədər dolu" deməkdir və CROWDED ilə sinonimdir: The train was packed. CAREFUL sifətdir
+   (be careful), zərfi "carefully"dir (drive carefully).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (5): PACK [main], uniform, lamp, careful, crowded
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,221 → 1,226 items).
+
+====================================================================================================
+LESSON A2-084   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: PERFORM
+Azerbaijani: İfa etmək, çıxış etmək; yerinə yetirmək
+
+A. MAIN WORD
+   English spelling ....... perform
+   Azerbaijani meaning .... ifa etmək, çıxış etmək; yerinə yetirmək
+   Part of speech ......... verb
+   Key forms .............. perform – performs – performed – performed – performing
+   British English IPA .... /pəˈfɔːm/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ perform (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Perform drama — Dram əsəri oynamaq
+      Usage: drama /ˈdrɑːmə/ = dram, teatr əsəri
+   2. Perform a musical — Müzikl səhnələşdirmək
+      Usage: musical = müzikl; sifət kimi: musiqi ilə bağlı
+   3. Loud and noisy — Uca və səs-küylü  [related]
+      Usage: loud = uca (səs); noisy = səs-küylü
+   4. It was incredible — Bu, inanılmaz idi  [related]
+      Usage: incredible /ɪnˈkredəbəl/ = inanılmaz; heyrətamiz
+   5. Perform for sb — Kimin üçünsə çıxış etmək
+      Usage: perform for the children
+   6. Perform it — Onu ifa etmək
+      Usage: They performed it twice
+   7. Perform together — Birlikdə çıxış etmək
+      Usage: together = birlikdə
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The students performed a musical at the end of the year.
+      → Tələbələr ilin sonunda müzikl səhnələşdirdilər.
+   2. The band was loud, and the hall was noisy.
+      → Qrup uca səslə çalırdı və zal səs-küylü idi.
+   3. She performed for the children, and it was incredible.
+      → O, uşaqlar üçün çıxış etdi və bu, inanılmaz idi.
+
+E. USAGE EXPLANATION
+   PERFORM səhnədə çıxış etmək (perform a play) və ya bir işi yerinə yetirmək deməkdir (perform a
+   task). İsmi "performance" – çıxış, tamaşa. LOUD səsin gücünü (loud music), NOISY isə xoşagəlməz
+   səs-küyü bildirir (a noisy street). INCREDIBLE = çox yaxşı və ya inanmaq çətin olan.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): PERFORM [main], drama, musical, loud, noisy,
+      incredible
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,226 → 1,232 items).
+
+====================================================================================================
+LESSON A2-085   |   UNIT 12: Jobs and activities
+====================================================================================================
+MAIN WORD: PICK
+Azerbaijani: Seçmək; dərmək, yığmaq; götürmək
+
+A. MAIN WORD
+   English spelling ....... pick
+   Azerbaijani meaning .... seçmək; dərmək, yığmaq; götürmək
+   Part of speech ......... verb
+   Key forms .............. pick – picks – picked – picked – picking
+   British English IPA .... /pɪk/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ pick (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Pick up the trash — Zibili yerdən yığmaq
+      Usage: trash = zibil (Amerika ingiliscəsində; Britaniyada: rubbish)
+   2. Pick sb up downtown — Kimisə şəhərin mərkəzindən götürmək
+      Usage: downtown = şəhərin mərkəzində, mərkəzinə (Amerika ingiliscəsində)
+   3. Pick sb up by the subway — Kimisə metronun yanından götürmək
+      Usage: subway = metro (Amerika ingiliscəsində; Britaniyada: underground)
+   4. Pick one of the following — Aşağıdakılardan birini seçmək
+      Usage: following = aşağıdakı, növbəti
+   5. Pick any sort — İstənilən növü seçmək
+      Usage: sort = növ, cür: this sort of thing
+   6. Pick sth up — Nəyisə yerdən götürmək
+      Usage: Frazeoloji fel: Pick up your toys
+   7. Pick sb/sth out — Kimisə / nəyisə seçib ayırmaq
+      Usage: Frazeoloji fel
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Pick a number from one to ten.
+      → Birdən ona qədər bir rəqəm seç.
+   2. Can you pick me up downtown at six?
+      → Məni saat altıda şəhərin mərkəzindən götürə bilərsən?
+   3. We picked up all the trash on the beach.
+      → Biz çimərlikdəki bütün zibili yığdıq.
+
+E. USAGE EXPLANATION
+   PICK danışıq dilində "choose" (seçmək) deməkdir; meyvə və gül haqqında isə "dərmək"dir: pick
+   apples. "Pick up" çoxmənalıdır: yerdən götürmək; kimisə maşınla gedib götürmək; dili eşidərək
+   öyrənmək (pick up a language). DOWNTOWN və SUBWAY Amerika sözləridir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): PICK [main], trash, downtown, subway, following,
+      sort
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,232 → 1,238 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 12 (Jobs and activities)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: STEAL, SHUT, LEAD, MARK, MARRY, ORGANISE, PACK, PERFORM, PICK
+   New items registered in this unit: 55   |   Database total after this unit: 1,238
+   able, adventure, architect, athlete, attractive, author, block, businessmen, careful, circle,
+   closed, closet, correctly, crowded, designer, detective, divorced, downtown, drama, female,
+   following, gallery, gold, grocery, incredible, instead, intelligent, jewellery, kilometre, knock,
+   lamp, LEAD, lock, loud, male, MARK, MARRY, musical, musician, noisy, ORGANISE, PACK, painter,
+   PERFORM, PICK, push, ring, SHUT, sort, STEAL, subway, track, trash, uniform, washing
+
+====================================================================================================
+UPDATED VOCABULARY INDEX — END OF LEVEL A2
+====================================================================================================
+   Main words covered at A2 (85):
+      TRAVEL (001), STAY (002), LEAVE (003), ARRIVE (004), CATCH (005), MISS (006), BRING (007),
+      SEND (008), SHOW (009), TELL (010), TRY (011), CHANGE (012), MOVE (013), TURN (014), KEEP
+      (015), LOSE (016), FIND (017), FALL (018), BREAK (019), GROW (020), PLAN (021), CHOOSE (022),
+      PAY (023), USE (024), PUT (025), STOP (026), WIN (027), FEEL (028), THINK (029), ENJOY (030),
+      HOPE (031), WORRY (032), HEALTH (033), SPORT (034), EASY (035), DIFFERENT (036), IMPORTANT
+      (037), SAFE (038), STRONG (039), INTEREST (040), ALLOW (041), APPEAR (042), BELONG (043),
+      COLLECT (044), COUNT (045), COVER (046), NOTICE (047), PASS (048), THROW (049), ATTEND (050),
+      CONTINUE (051), DEPEND (052), REPLACE (053), CONNECT (054), EXPECT (055), FAIL (056),
+      ADVERTISE (057), ARRANGE (058), BEHAVE (059), STORM (060), BOIL (061), BURN (062), COMMUNICATE
+      (063), CONTAIN (064), DISAPPEAR (065), DISCOVER (066), DOWNLOAD (067), IMPOSSIBLE (068), FEED
+      (069), FIGHT (070), FOCUS (071), GREET (072), HIT (073), HURT (074), INVENT (075), JUMP (076),
+      STEAL (077), SHUT (078), LEAD (079), MARK (080), MARRY (081), ORGANISE (082), PACK (083),
+      PERFORM (084), PICK (085)
+
+   All vocabulary introduced at A2, A–Z (646 items; the number is the lesson):
+      able 082, abroad 001, accent 039, accommodation 017, advance 023, adventure 082, ADVERTISE
+      057, advertisement 042, agent 001, airline 057, airport 003, ALLOW 041, ancient 066, ankle
+      073, APPEAR 042, appearance 042, appointment 006, architect 079, architecture 071, area 038,
+      army 043, ARRANGE 058, arrangement 058, arrival 004, ARRIVE 004, article 040, asleep 018,
+      assistant 072, athlete 079, ATTEND 050, attention 023, attractive 081, audio 054, author 081,
+      awake 002, award 027, background 052, badly 056, balance 016, ball 005, bean 061, beard 020,
+      beef 061, beginning 006, BEHAVE 059, BELONG 043, belt 073, bike 018, biology 056, bit 061,
+      block 080, blow 060, BOIL 061, bone 019, boring 017, bottom 073, bowl 046, brain 024, BREAK
+      019, brilliant 075, BRING 007, broken 019, BURN 062, business 001, businessmen 079, button
+      053, calm 002, camera 007, camp 058, camping 041, campus 050, candy 057, career 022, careful
+      083, carpet 046, cash 023, CATCH 005, chair 013, championship 027, chance 006, CHANGE 012,
+      channel 012, character 039, check 033, chef 072, chip 062, choice 022, CHOOSE 022, church 043,
+      cigarette 041, circle 080, class 006, clerk 072, closed 078, closet 078, clothing 057, club
+      034, coach 004, coast 060, COLLECT 044, collection 044, column 045, comfortable 028, comment
+      003, common 040, COMMUNICATE 063, completely 012, concert 030, conference 050, CONNECT 054,
+      connected 054, CONTAIN 064, contest 027, CONTINUE 051, control 016, cooky 062, copy 067,
+      corner 014, correctly 080, COUNT 045, countryside 013, course 022, COVER 046, crazy 070,
+      credit 052, criminal 059, crowded 083, cry 026, culture 036, damage 033, dancing 030, date
+      012, dead 069, deadline 006, deep 062, deeply 029, definitely 055, dentist 072, departure 004,
+      DEPEND 052, desert 065, design 022, designer 079, dessert 061, detail 010, detective 077,
+      diary 015, dictionary 024, diet 033, differ 036, difference 036, DIFFERENT 036, differently
+      036, difficult 017, director 058, DISAPPEAR 065, DISCOVER 066, discovery 037, distance 038,
+      divorced 081, document 008, double 076, DOWNLOAD 067, downtown 085, drama 084, dream 031,
+      driving 056, drug 064, earth 065, ease 035, easily 035, EASY 035, elevator 075, engine 053,
+      ENJOY 030, enjoyable 030, enjoyment 030, entrance 017, equally 037, equipment 034, especially
+      037, Europe 001, event 021, exact 047, exercise 035, exist 065, exit 017, EXPECT 055,
+      experiment 051, expression 074, extra 023, extreme 034, extremely 071, fact 040, FAIL 056,
+      failure 056, fairly 035, FALL 018, false 031, fan 034, far 035, fashion 009, fast 020, fee
+      023, FEED 069, FEEL 028, feeling 028, female 077, ferry 006, fever 070, FIGHT 070, file 008,
+      final 027, finally 047, FIND 017, finding 017, fine 023, fire 005, fishing 041, fit 015,
+      flight 005, flu 005, FOCUS 071, follow 035, following 085, food 011, fork 048, fresh 015,
+      fridge 025, frog 069, full 026, funny 017, furniture 013, future 021, gallery 078, garbage
+      049, gift 007, gold 077, grass 015, GREET 072, grocery 082, ground 018, GROW 020, grown-up
+      020, growth 020, guest 037, guide 001, gun 041, hall 004, harm 038, HEALTH 033, healthy 033,
+      hear 031, heavy 016, height 047, helmet 038, hide 068, hike 051, hill 065, HIT 073, hobby 040,
+      hockey 073, hole 046, HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004, hungry
+      028, hurry 003, HURT 074, identify 068, ill 018, immediately 047, importance 037, IMPORTANT
+      037, importantly 037, IMPOSSIBLE 068, incredible 084, indoors 002, insect 044, instead 082,
+      instruction 038, instructor 063, instrument 075, insurance 033, intelligent 081, INTEREST 040,
+      interested 040, interesting 040, internet 024, introduction 064, INVENT 075, invention 075,
+      invitation 055, jam 048, jazz 067, jewellery 077, joke 010, journalist 063, journey 021, JUMP
+      076, KEEP 015, keeper 015, kettle 025, kid 032, kill 070, kilometre 080, kind 036, king 043,
+      knee 046, knife 024, knock 078, know 040, lab 050, lady 059, lake 049, lamp 083, laptop 007,
+      laugh 026, law 019, lawyer 070, LEAD 079, leader 039, LEAVE 003, lecture 050, left 014, lemon
+      048, level 036, lie 010, lifestyle 033, light 001, likely 055, link 008, local 011, lock 078,
+      lonely 028, LOSE 016, loser 016, loss 016, lost 016, lottery 027, loud 084, love 018, low 076,
+      lucky 076, luggage 003, mail 044, main 032, male 077, manner 059, MARK 080, MARRY 081,
+      mathematics 056, maths 056, mayor 070, meaning 036, medal 027, media 024, memory 016, mental
+      033, metal 064, middle 065, midnight 004, minute 004, mirror 046, MISS 006, missing 006,
+      monkey 069, mostly 052, motorcycle 074, mouse 005, MOVE 013, movement 013, moving 013, muscle
+      039, musical 084, musician 079, nature 030, neck 062, nervous 028, noisy 084, non-stop 026,
+      normally 051, NOTICE 047, nut 064, officer 063, only 031, option 022, ORGANISE 082, overnight
+      002, owner 043, PACK 083, package 008, page 014, paid 023, painter 081, palace 066, parcel
+      008, Paris 004, parking 041, particular 071, partner 017, PASS 048, passenger 055, passport
+      007, password 012, PAY 023, payment 023, peace 003, penny 045, perfectly 038, PERFORM 084,
+      person 006, personality 071, pet 015, petrol 026, physical 033, PICK 085, picnic 021, pilot
+      063, place 012, PLAN 021, plane 001, planner 021, planning 021, plant 020, plate 019, point
+      037, police 010, polite 059, pop 067, positive 029, post 008, poster 042, potato 020, predict
+      068, pretty 035, printer 053, prize 027, produce 057, professor 072, profile 067, promise 015,
+      pronounce 068, property 016, public 024, push 078, PUT 025, quantity 052, queen 043, quietly
+      059, quiz 009, race 027, railroad 054, reach 035, really 030, reason 010, reception 050,
+      recipe 011, recognise 068, record 019, recording 067, refrigerator 075, relative 002, relax
+      011, remember 011, reminder 008, REPLACE 053, reply 008, reporter 063, respect 009, rest 026,
+      right 014, ring 077, rock 049, role 037, rude 059, rule 019, SAFE 038, safely 038, safety 038,
+      sail 060, sauce 048, scared 074, schedule 052, score 073, season 052, secret 010, secretary
+      058, SEND 008, sender 008, service 033, shake 060, shape 036, share 040, sheet 045, shelf 025,
+      ship 060, short 002, shout 026, SHOW 009, SHUT 078, sick 028, side 054, singing 030, site 066,
+      size 020, ski 076, skiing 074, sky 042, slightly 032, smell 039, smoke 047, smoking 026, snack
+      007, sneaker 057, soap 053, soccer 058, social 024, sock 053, soldier 069, soon 004, sorry
+      028, sort 085, sound 038, special 040, specific 071, spider 069, spoon 048, SPORT 034, sporty
+      034, stadium 034, stairs 076, stamp 044, STAY 002, STEAL 077, step 037, still 031, stomach
+      074, stone 044, STOP 026, STORM 060, stove 061, straight 049, strength 039, strengthen 039,
+      STRONG 039, strongly 039, study 021, stupid 070, subject 012, subway 085, suddenly 042, suit
+      057, sunshine 030, sweet 061, table 003, tablet 054, talent 009, talk 026, tall 020, target
+      006, task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly 032, test
+      035, thief 005, thin 045, thing 037, THINK 029, thinker 029, thinking 029, thirsty 028,
+      thought 029, thoughtful 029, THROW 049, tidy 015, tip 003, tomato 020, tool 024, topic 022,
+      totally 036, touch 002, tour 051, towel 007, tower 066, track 080, tradition 051, transport
+      024, transportation 058, trash 085, TRAVEL 001, traveller 001, trip 021, truth 010, TRY 011,
+      TURN 014, turning 014, twice 029, twin 069, type 036, tyre 012, underground 065, understand
+      011, unhealthy 033, uniform 083, unimportant 037, unit 045, united 043, university 022, unsafe
+      038, unusual 044, USE 024, useful 024, useless 024, user 024, usual 055, valley 066, variety
+      064, view 030, voice 016, volume 014, wallet 016, washing 082, wave 060, weak 073, weakness
+      039, web 054, wedding 021, week 002, weight 016, wheel 075, wild 049, WIN 027, winner 027,
+      winter 034, wood 062, world 001, worried 032, WORRY 032, worrying 032
+
+   Cumulative database size after A2: 1,238 individual vocabulary items (+ 285 structural words).
+   Global duplicate check for this level: PASSED (0 repeated items).
+
+END OF LEVEL A2

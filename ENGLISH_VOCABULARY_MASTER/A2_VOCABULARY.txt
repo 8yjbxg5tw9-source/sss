@@ -2,10 +2,10 @@
 ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL A2 — ELEMENTARY  /  Elementar səviyyə
 ====================================================================================================
-File: A2_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
-Lessons in this file: 58 (58 main-word lessons + 0 fixed-phrase lessons)
-Expressions: 446   |   Fixed phrases: 0   |   Example sentences: 214
-New vocabulary items introduced at level A2: 475   |   Language of usage notes: Azerbaijani
+File: A2_VOCABULARY.txt   |   Part 1 of 2   |   Generated: 2026-11-11
+Lessons in this file: 76 (76 main-word lessons + 0 fixed-phrase lessons)
+Expressions: 572   |   Fixed phrases: 0   |   Example sentences: 268
+New vocabulary items introduced at level A2: 646   |   Language of usage notes: Azerbaijani
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -54,6 +54,12 @@ CONTENTS OF THIS FILE
    UNIT 9 — Study, work and plans  /  Təhsil, iş və planlar
       A2-050 ATTEND, A2-051 CONTINUE, A2-052 DEPEND, A2-053 REPLACE, A2-054 CONNECT, A2-055 EXPECT,
       A2-056 FAIL, A2-057 ADVERTISE, A2-058 ARRANGE
+   UNIT 10 — People, nature and food  /  İnsanlar, təbiət və yemək
+      A2-059 BEHAVE, A2-060 STORM, A2-061 BOIL, A2-062 BURN, A2-063 COMMUNICATE, A2-064 CONTAIN,
+      A2-065 DISAPPEAR, A2-066 DISCOVER, A2-067 DOWNLOAD
+   UNIT 11 — Body, sport and ability  /  Bədən, idman və bacarıq
+      A2-068 IMPOSSIBLE, A2-069 FEED, A2-070 FIGHT, A2-071 FOCUS, A2-072 GREET, A2-073 HIT, A2-074
+      HURT, A2-075 INVENT, A2-076 JUMP
 
 
 ####################################################################################################
@@ -3624,85 +3630,1026 @@ UPDATED VOCABULARY INDEX — after UNIT 9 (Study, work and plans)
    railroad, reception, REPLACE, schedule, season, secretary, side, sneaker, soap, soccer, sock,
    suit, tablet, tour, tradition, transportation, usual, web
 
+
+####################################################################################################
+#  UNIT 10 — PEOPLE, NATURE AND FOOD
+#  İnsanlar, təbiət və yemək
+####################################################################################################
+
 ====================================================================================================
-UPDATED VOCABULARY INDEX — END OF LEVEL A2
+LESSON A2-059   |   UNIT 10: People, nature and food
 ====================================================================================================
-   Main words covered at A2 (58):
-      TRAVEL (001), STAY (002), LEAVE (003), ARRIVE (004), CATCH (005), MISS (006), BRING (007),
-      SEND (008), SHOW (009), TELL (010), TRY (011), CHANGE (012), MOVE (013), TURN (014), KEEP
-      (015), LOSE (016), FIND (017), FALL (018), BREAK (019), GROW (020), PLAN (021), CHOOSE (022),
-      PAY (023), USE (024), PUT (025), STOP (026), WIN (027), FEEL (028), THINK (029), ENJOY (030),
-      HOPE (031), WORRY (032), HEALTH (033), SPORT (034), EASY (035), DIFFERENT (036), IMPORTANT
-      (037), SAFE (038), STRONG (039), INTEREST (040), ALLOW (041), APPEAR (042), BELONG (043),
-      COLLECT (044), COUNT (045), COVER (046), NOTICE (047), PASS (048), THROW (049), ATTEND (050),
-      CONTINUE (051), DEPEND (052), REPLACE (053), CONNECT (054), EXPECT (055), FAIL (056),
-      ADVERTISE (057), ARRANGE (058)
+MAIN WORD: BEHAVE
+Azerbaijani: Özünü aparmaq, davranmaq
 
-   All vocabulary introduced at A2, A–Z (475 items; the number is the lesson):
-      abroad 001, accent 039, accommodation 017, advance 023, ADVERTISE 057, advertisement 042,
-      agent 001, airline 057, airport 003, ALLOW 041, APPEAR 042, appearance 042, appointment 006,
-      area 038, army 043, ARRANGE 058, arrangement 058, arrival 004, ARRIVE 004, article 040, asleep
-      018, ATTEND 050, attention 023, audio 054, awake 002, award 027, background 052, badly 056,
-      balance 016, ball 005, beard 020, beginning 006, BELONG 043, bike 018, biology 056, bone 019,
-      boring 017, bowl 046, brain 024, BREAK 019, BRING 007, broken 019, business 001, button 053,
-      calm 002, camera 007, camp 058, camping 041, campus 050, candy 057, career 022, carpet 046,
-      cash 023, CATCH 005, chair 013, championship 027, chance 006, CHANGE 012, channel 012,
-      character 039, check 033, choice 022, CHOOSE 022, church 043, cigarette 041, class 006,
-      clothing 057, club 034, coach 004, COLLECT 044, collection 044, column 045, comfortable 028,
-      comment 003, common 040, completely 012, concert 030, conference 050, CONNECT 054, connected
-      054, contest 027, CONTINUE 051, control 016, corner 014, COUNT 045, countryside 013, course
-      022, COVER 046, credit 052, cry 026, culture 036, damage 033, dancing 030, date 012, deadline
-      006, deeply 029, definitely 055, departure 004, DEPEND 052, design 022, detail 010, diary 015,
-      dictionary 024, diet 033, differ 036, difference 036, DIFFERENT 036, differently 036,
-      difficult 017, director 058, discovery 037, distance 038, document 008, dream 031, driving
-      056, ease 035, easily 035, EASY 035, engine 053, ENJOY 030, enjoyable 030, enjoyment 030,
-      entrance 017, equally 037, equipment 034, especially 037, Europe 001, event 021, exact 047,
-      exercise 035, exit 017, EXPECT 055, experiment 051, extra 023, extreme 034, fact 040, FAIL
-      056, failure 056, fairly 035, FALL 018, false 031, fan 034, far 035, fashion 009, fast 020,
-      fee 023, FEEL 028, feeling 028, ferry 006, file 008, final 027, finally 047, FIND 017, finding
-      017, fine 023, fire 005, fishing 041, fit 015, flight 005, flu 005, follow 035, food 011, fork
-      048, fresh 015, fridge 025, full 026, funny 017, furniture 013, future 021, garbage 049, gift
-      007, grass 015, ground 018, GROW 020, grown-up 020, growth 020, guest 037, guide 001, gun 041,
-      hall 004, harm 038, HEALTH 033, healthy 033, hear 031, heavy 016, height 047, helmet 038, hike
-      051, hobby 040, hole 046, HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004,
-      hungry 028, hurry 003, ill 018, immediately 047, importance 037, IMPORTANT 037, importantly
-      037, indoors 002, insect 044, instruction 038, insurance 033, INTEREST 040, interested 040,
-      interesting 040, internet 024, invitation 055, jam 048, joke 010, journey 021, KEEP 015,
-      keeper 015, kettle 025, kid 032, kind 036, king 043, knee 046, knife 024, know 040, lab 050,
-      lake 049, laptop 007, laugh 026, law 019, leader 039, LEAVE 003, lecture 050, left 014, lemon
-      048, level 036, lie 010, lifestyle 033, light 001, likely 055, link 008, local 011, lonely
-      028, LOSE 016, loser 016, loss 016, lost 016, lottery 027, love 018, luggage 003, mail 044,
-      main 032, mathematics 056, maths 056, meaning 036, medal 027, media 024, memory 016, mental
-      033, midnight 004, minute 004, mirror 046, MISS 006, missing 006, mostly 052, mouse 005, MOVE
-      013, movement 013, moving 013, muscle 039, nature 030, nervous 028, non-stop 026, normally
-      051, NOTICE 047, only 031, option 022, overnight 002, owner 043, package 008, page 014, paid
-      023, parcel 008, Paris 004, parking 041, partner 017, PASS 048, passenger 055, passport 007,
-      password 012, PAY 023, payment 023, peace 003, penny 045, perfectly 038, person 006, pet 015,
-      petrol 026, physical 033, picnic 021, place 012, PLAN 021, plane 001, planner 021, planning
-      021, plant 020, plate 019, point 037, police 010, positive 029, post 008, poster 042, potato
-      020, pretty 035, printer 053, prize 027, produce 057, promise 015, property 016, public 024,
-      PUT 025, quantity 052, queen 043, quiz 009, race 027, railroad 054, reach 035, really 030,
-      reason 010, reception 050, recipe 011, record 019, relative 002, relax 011, remember 011,
-      reminder 008, REPLACE 053, reply 008, respect 009, rest 026, right 014, rock 049, role 037,
-      rule 019, SAFE 038, safely 038, safety 038, sauce 048, schedule 052, season 052, secret 010,
-      secretary 058, SEND 008, sender 008, service 033, shape 036, share 040, sheet 045, shelf 025,
-      short 002, shout 026, SHOW 009, sick 028, side 054, singing 030, size 020, sky 042, slightly
-      032, smell 039, smoke 047, smoking 026, snack 007, sneaker 057, soap 053, soccer 058, social
-      024, sock 053, soon 004, sorry 028, sound 038, special 040, spoon 048, SPORT 034, sporty 034,
-      stadium 034, stamp 044, STAY 002, step 037, still 031, stone 044, STOP 026, straight 049,
-      strength 039, strengthen 039, STRONG 039, strongly 039, study 021, subject 012, suddenly 042,
-      suit 057, sunshine 030, table 003, tablet 054, talent 009, talk 026, tall 020, target 006,
-      task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly 032, test 035,
-      thief 005, thin 045, thing 037, THINK 029, thinker 029, thinking 029, thirsty 028, thought
-      029, thoughtful 029, THROW 049, tidy 015, tip 003, tomato 020, tool 024, topic 022, totally
-      036, touch 002, tour 051, towel 007, tradition 051, transport 024, transportation 058, TRAVEL
-      001, traveller 001, trip 021, truth 010, TRY 011, TURN 014, turning 014, twice 029, type 036,
-      tyre 012, understand 011, unhealthy 033, unimportant 037, unit 045, united 043, university
-      022, unsafe 038, unusual 044, USE 024, useful 024, useless 024, user 024, usual 055, view 030,
-      voice 016, volume 014, wallet 016, weakness 039, web 054, wedding 021, week 002, weight 016,
-      wild 049, WIN 027, winner 027, winter 034, world 001, worried 032, WORRY 032, worrying 032
+A. MAIN WORD
+   English spelling ....... behave
+   Azerbaijani meaning .... özünü aparmaq, davranmaq
+   Part of speech ......... verb
+   Key forms .............. behave – behaves – behaved – behaved – behaving
+   British English IPA .... /bɪˈheɪv/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
 
-   Cumulative database size after A2: 1,067 individual vocabulary items (+ 285 structural words).
-   Global duplicate check for this level: PASSED (0 repeated items).
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ behave (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
 
-END OF LEVEL A2
+C. RELATED EXPRESSIONS
+   1. Behave in a rude manner — Kobud tərzdə davranmaq
+      Usage: rude = kobud, ədəbsiz; manner = tərz, üsul; manners = ədəb qaydaları
+   2. Behave like a lady — Xanım kimi davranmaq
+      Usage: lady = xanım (nəzakətli müraciət)
+   3. Behave like a criminal — Cinayətkar kimi davranmaq
+      Usage: criminal = cinayətkar; cinayətlə bağlı
+   4. Behave quietly — Sakit davranmaq
+      Usage: quietly = sakitcə, səssiz
+   5. Polite to sb — Kiməsə qarşı nəzakətli  [related]
+      Usage: polite /pəˈlaɪt/ = nəzakətli, ədəbli; əksi: rude
+   6. Behave yourself — Özünü yaxşı aparmaq
+      Usage: Uşaqlara deyilir: Behave yourself!
+   7. Behave as if — Sanki ... kimi davranmaq
+      Usage: He behaves as if he owns the place
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The children behaved very well at the party.
+      → Uşaqlar şənlikdə özlərini çox yaxşı apardılar.
+   2. It is rude to talk with your mouth full.
+      → Ağzı dolu danışmaq ədəbsizlikdir.
+   3. Always be polite to older people.
+      → Yaşlı insanlara qarşı həmişə nəzakətli olun.
+
+E. USAGE EXPLANATION
+   BEHAVE düzgün feldir. Zərflə işlənir: behave well / badly ("behave good" səhvdir). İsmi
+   "behaviour" (Amerikada: behavior). "Behave yourself!" – "Özünü yaxşı apar!". POLITE və RUDE əks
+   mənalı sifətlərdir; hər ikisi "to" ilə işlənir: polite TO sb, rude TO sb.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): BEHAVE [main], rude, manner, lady, criminal,
+      quietly, polite
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,067 → 1,074 items).
+
+====================================================================================================
+LESSON A2-060   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: STORM
+Azerbaijani: Fırtına, tufan
+
+A. MAIN WORD
+   English spelling ....... storm
+   Azerbaijani meaning .... fırtına, tufan
+   Part of speech ......... noun
+   Key forms .............. storm – storms
+   British English IPA .... /stɔːm/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ storm (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. The storm blows over — Fırtına ötüb keçir (sakitləşir)
+      Usage: blow – blew – blown = əsmək; üfürmək
+   2. Storm waves — Fırtına dalğaları
+      Usage: wave = dalğa; fel kimi: əl yelləmək
+   3. Ships in a storm — Fırtınada gəmilər
+      Usage: ship = gəmi
+   4. Sail into a storm — (Gəmi ilə) fırtınanın içinə girmək
+      Usage: sail = (yelkənlə, gəmi ilə) üzmək; yelkən
+   5. A storm on the coast — Sahildə fırtına
+      Usage: coast /kəʊst/ = dəniz sahili, sahil zolağı
+   6. Shake in the storm — Fırtınada silkələnmək
+      Usage: shake – shook – shaken = silkələmək; titrəmək
+   7. After the storm — Fırtınadan sonra
+      Usage: after = sonra
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There was a terrible storm last night.
+      → Dünən gecə dəhşətli fırtına oldu.
+   2. During the storm the wind blew all night, and the windows shook.
+      → Fırtına zamanı külək bütün gecəni əsdi və pəncərələr titrədi.
+   3. After the storm the ship sailed along the coast.
+      → Fırtınadan sonra gəmi sahil boyu üzdü.
+
+E. USAGE EXPLANATION
+   STORM güclü külək, yağış və ya qarla müşayiət olunan pis havadır: a snowstorm = qar fırtınası, a
+   thunderstorm = ildırımlı tufan. Bu dərsdə üç düzgün olmayan fel var: BLOW – blew – blown (əsmək),
+   SHAKE – shook – shaken (silkələmək) və düzgün fel SAIL (üzmək – gəmi haqqında; insan üçün
+   "swim"). COAST dənizlə quru arasındakı sahil zolağıdır; BEACH isə çimərlikdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): STORM [main], blow, wave, ship, sail, coast, shake
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,074 → 1,081 items).
+
+====================================================================================================
+LESSON A2-061   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: BOIL
+Azerbaijani: Qaynamaq, qaynatmaq; suda bişirmək
+
+A. MAIN WORD
+   English spelling ....... boil
+   Azerbaijani meaning .... qaynamaq, qaynatmaq; suda bişirmək
+   Part of speech ......... verb
+   Key forms .............. boil – boils – boiled – boiled – boiling
+   British English IPA .... /bɔɪl/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ boil (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Boil the beans — Lobyanı suda bişirmək
+      Usage: bean = lobya; paxla
+   2. Boil beef — Mal ətini suda bişirmək
+      Usage: beef = mal əti
+   3. Boil sth on the stove — Nəyisə plitənin üstündə qaynatmaq
+      Usage: stove /stəʊv/ = mətbəx plitəsi, soba
+   4. Boil for a bit — Bir az qaynatmaq
+      Usage: a bit = bir az, bir qədər
+   5. A sweet dessert — Şirin desert  [related]
+      Usage: sweet = şirin; dessert /dɪˈzɜːt/ = desert, şirniyyat (yeməkdən sonra)
+   6. Boil over — (Qaynayıb) daşmaq
+      Usage: The milk boiled over
+   7. Boil sth for sb — Kimin üçünsə nəyisə qaynatmaq
+      Usage: boil an egg for me
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Boil the beans for an hour.
+      → Lobyanı bir saat bişirin.
+   2. The water is boiling; turn off the stove.
+      → Su qaynayır; plitəni söndür.
+   3. We had a sweet dessert after the beef.
+      → Biz mal ətindən sonra şirin desert yedik.
+
+E. USAGE EXPLANATION
+   BOIL düzgün feldir: su 100 dərəcədə qaynayır (Water boils at 100 degrees). "Boiled egg" = suda
+   bişmiş yumurta, "boiling water" = qaynar su. Diqqət: DESSERT /dɪˈzɜːt/ (şirniyyat) və DESERT
+   /ˈdezət/ (səhra) fərqli sözlərdir – yazılışına və vurğusuna fikir verin. A BIT danışıq dilində "a
+   little" deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): BOIL [main], bean, beef, stove, bit, sweet, dessert
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,081 → 1,088 items).
+
+====================================================================================================
+LESSON A2-062   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: BURN
+Azerbaijani: Yanmaq, yandırmaq; yanıq
+
+A. MAIN WORD
+   English spelling ....... burn
+   Azerbaijani meaning .... yanmaq, yandırmaq; yanıq
+   Part of speech ......... verb, noun
+   Key forms .............. burn – burns – burned / burnt – burned / burnt – burning
+   British English IPA .... /bɜːn/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ burn (main word)
+   Verb forms ........ burn (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Burn wood — Odun yandırmaq
+      Usage: wood /wʊd/ = odun; ağac materialı, taxta
+   2. Burn the cookies — Peçenyeləri yandırmaq
+      Usage: cookie = peçenye (Amerika ingiliscəsində; Britaniyada: biscuit)
+   3. Burn the chips — Kartof qızartmasını yandırmaq
+      Usage: chip = (Britaniyada) qızardılmış kartof dilimi; (Amerikada) çips
+   4. A burn on your neck — Boynunda yanıq
+      Usage: neck = boyun
+   5. A deep burn — Dərin yanıq
+      Usage: deep = dərin
+   6. Burn down — Tamamilə yanıb kül olmaq
+      Usage: Frazeoloji fel: The house burned down
+   7. Burn yourself — Özünü yandırmaq
+      Usage: Be careful, don't burn yourself
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We burned wood to keep warm.
+      → Biz isinmək üçün odun yandırdıq.
+   2. Oh no, I have burnt the cookies again!
+      → Vay, mən yenə peçenyeləri yandırmışam!
+   3. The old factory burned down last year.
+      → Köhnə fabrik keçən il yanıb kül oldu.
+
+E. USAGE EXPLANATION
+   BURN-un keçmiş forması Britaniyada həm "burnt", həm "burned", Amerikada "burned"dir. Həm təsirli
+   (burn the letter – məktubu yandırmaq), həm təsirsiz feldir (The fire is burning – Od yanır). İsim
+   kimi "yanıq" deməkdir. CHIPS Britaniyada qızardılmış kartof, Amerikada isə çipsdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): BURN [main], wood, cooky, chip, neck, deep
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,088 → 1,094 items).
+
+====================================================================================================
+LESSON A2-063   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: COMMUNICATE
+Azerbaijani: Ünsiyyət qurmaq, əlaqə saxlamaq; çatdırmaq
+
+A. MAIN WORD
+   English spelling ....... communicate
+   Azerbaijani meaning .... ünsiyyət qurmaq, əlaqə saxlamaq; çatdırmaq
+   Part of speech ......... verb
+   Key forms .............. communicate – communicates – communicated – communicated – communicating
+   British English IPA .... /kəˈmjuːnɪkeɪt/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ communicate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Communicate with sb — Kiminləsə ünsiyyət qurmaq
+      Usage: Sözönü "with"dir
+   2. Communicate with the pilot — Pilotla əlaqə saxlamaq
+      Usage: pilot /ˈpaɪlət/ = pilot, təyyarəçi
+   3. Communicate with an officer — Zabitlə (məmurla) əlaqə saxlamaq
+      Usage: officer = zabit; a police officer = polis əməkdaşı
+   4. Communicate with the instructor — Təlimatçı ilə ünsiyyət qurmaq
+      Usage: instructor = təlimatçı, məşqçi: a driving instructor
+   5. Communicate with a reporter — Müxbirlə əlaqə saxlamaq
+      Usage: reporter = müxbir, reportyor
+   6. Communicate with a journalist — Jurnalistlə ünsiyyət qurmaq
+      Usage: journalist /ˈdʒɜːnəlɪst/ = jurnalist
+   7. Communicate sth to sb — Nəyisə kiməsə çatdırmaq
+      Usage: communicate the news to the staff
+
+D. NATURAL EXAMPLE SENTENCES
+   1. We communicate with each other by email.
+      → Biz bir-birimizlə elektron poçt vasitəsilə əlaqə saxlayırıq.
+   2. The pilot communicated with the airport by radio.
+      → Pilot hava limanı ilə radio vasitəsilə əlaqə saxladı.
+   3. A good teacher communicates ideas clearly.
+      → Yaxşı müəllim fikirləri aydın çatdırır.
+
+E. USAGE EXPLANATION
+   COMMUNICATE uzun sözdür; vurğu ikinci hecadadır: com-MU-ni-cate. İnsanlarla ünsiyyət üçün WITH
+   işlənir: communicate with people. İsmi "communication" – ünsiyyət, rabitə. REPORTER hadisə
+   yerindən xəbər verən müxbirdir; JOURNALIST daha ümumi peşə adıdır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): COMMUNICATE [main], pilot, officer, instructor,
+      reporter, journalist
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,094 → 1,100 items).
+
+====================================================================================================
+LESSON A2-064   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: CONTAIN
+Azerbaijani: Tərkibində olmaq, ehtiva etmək
+
+A. MAIN WORD
+   English spelling ....... contain
+   Azerbaijani meaning .... tərkibində olmaq, ehtiva etmək
+   Part of speech ......... verb
+   Key forms .............. contain – contains – contained – contained – containing
+   British English IPA .... /kənˈteɪn/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ contain (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Contain nuts — Tərkibində qoz-fındıq olmaq
+      Usage: nut = qoz, fındıq (ümumi ad)
+   2. Contain drugs — Tərkibində dərman (narkotik) maddələr olmaq
+      Usage: drug = dərman; narkotik maddə
+   3. Contain metal — Tərkibində metal olmaq
+      Usage: metal = metal
+   4. Contain a variety of sth — Müxtəlif növ ... ehtiva etmək
+      Usage: variety /vəˈraɪəti/ = müxtəliflik, çeşid
+   5. Contain an introduction — Giriş hissəsi olmaq
+      Usage: introduction = giriş; tanışlıq
+   6. Contain yourself — Özünü saxlamaq (hisslərini cilovlamaq)
+      Usage: She could not contain herself
+   7. Contain nothing — İçində heç nə olmamaq
+      Usage: nothing = heç nə
+
+D. NATURAL EXAMPLE SENTENCES
+   1. This cake contains nuts.
+      → Bu tortun tərkibində qoz-fındıq var.
+   2. The box contained old letters and photos.
+      → Qutunun içində köhnə məktublar və şəkillər var idi.
+   3. The book contains a short introduction.
+      → Kitabda qısa giriş hissəsi var.
+
+E. USAGE EXPLANATION
+   CONTAIN davamedici zamanda işlənmir: "The bottle contains water" ("is containing" səhvdir).
+   İçində nəyinsə olduğunu bildirir; INCLUDE isə "daxil etmək, bir hissəsi kimi əhatə etmək"
+   deməkdir. İsmi "container" – qab, konteyner. DRUG həm dərman, həm də narkotik mənasında işlənir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): CONTAIN [main], nut, drug, metal, variety,
+      introduction
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,100 → 1,106 items).
+
+====================================================================================================
+LESSON A2-065   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: DISAPPEAR
+Azerbaijani: Yox olmaq, gözdən itmək
+
+A. MAIN WORD
+   English spelling ....... disappear
+   Azerbaijani meaning .... yox olmaq, gözdən itmək
+   Part of speech ......... verb
+   Key forms .............. disappear – disappears – disappeared – disappeared – disappearing
+   British English IPA .... /ˌdɪsəˈpɪə/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ disappear (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Disappear underground — Yerin altında yox olmaq
+      Usage: underground = yerin altında; yeraltı; (Britaniyada) metro
+   2. Disappear into the desert — Səhrada gözdən itmək
+      Usage: desert /ˈdezət/ = səhra
+   3. Disappear behind a hill — Təpənin arxasında gözdən itmək
+      Usage: hill = təpə
+   4. Disappear in the middle of sth — Nəyinsə ortasında yox olmaq
+      Usage: middle = orta; in the middle of the night = gecənin yarısı
+   5. Disappear from the earth — Yer üzündən yox olmaq
+      Usage: earth /ɜːθ/ = Yer kürəsi; torpaq
+   6. Exist, then disappear — Mövcud olmaq, sonra yox olmaq
+      Usage: exist /ɪɡˈzɪst/ = mövcud olmaq, var olmaq
+   7. Disappear without sth — Nəsə olmadan (qoymadan) yox olmaq
+      Usage: disappear without a word
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The sun disappeared behind a hill.
+      → Günəş təpənin arxasında gözdən itdi.
+   2. My keys have disappeared again!
+      → Açarlarım yenə yoxa çıxıb!
+   3. Many animals are disappearing from the earth.
+      → Bir çox heyvan yer üzündən yox olur.
+
+E. USAGE EXPLANATION
+   DISAPPEAR = "dis-" (əks məna) + "appear" (görünmək). Bir "s", iki "p" ilə yazılır. Təsirsiz
+   feldir: "The money disappeared" (nəyisə "disappear etmək" olmur). EXIST "mövcud olmaq" deməkdir
+   və davamedici zamanda işlənmir: Does life exist on other planets?
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): DISAPPEAR [main], underground, desert, hill,
+      middle, earth, exist
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,106 → 1,113 items).
+
+====================================================================================================
+LESSON A2-066   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: DISCOVER
+Azerbaijani: Kəşf etmək; aşkar etmək, öyrənmək
+
+A. MAIN WORD
+   English spelling ....... discover
+   Azerbaijani meaning .... kəşf etmək; aşkar etmək, öyrənmək
+   Part of speech ......... verb
+   Key forms .............. discover – discovers – discovered – discovered – discovering
+   British English IPA .... /dɪˈskʌvə/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ discover (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Discover a palace — Saray aşkar etmək (kəşf etmək)
+      Usage: palace /ˈpæləs/ = saray
+   2. Discover a valley — Vadi kəşf etmək
+      Usage: valley = vadi, dərə
+   3. Discover an ancient site — Qədim yaşayış yeri aşkar etmək
+      Usage: ancient /ˈeɪnʃənt/ = qədim; site = yer, ərazi; sayt
+   4. Discover a tower — Qüllə aşkar etmək
+      Usage: tower /ˈtaʊə/ = qüllə: the Maiden Tower = Qız qalası
+   5. Discover that — ... olduğunu aşkar etmək
+      Usage: I discovered that he was right
+   6. Discover sth for yourself — Nəyisə özün kəşf etmək
+      Usage: Go and discover it for yourself
+   7. Discover it — Onu kəşf etmək
+      Usage: Who discovered it?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Scientists discovered an ancient site near the river.
+      → Alimlər çayın yaxınlığında qədim yaşayış yeri aşkar etdilər.
+   2. Columbus discovered America in 1492.
+      → Kolumb Amerikanı 1492-ci ildə kəşf edib.
+   3. I discovered that my phone was missing.
+      → Mən telefonumun yoxa çıxdığını aşkar etdim.
+
+E. USAGE EXPLANATION
+   DISCOVER artıq mövcud olan, lakin məlum olmayan bir şeyi tapmaqdır (discover a new island);
+   INVENT isə əvvəl olmayan bir şeyi yaratmaqdır (invent the telephone). İsmi "discovery" – kəşf.
+   ANCIENT çox qədim dövrlərə aiddir: ancient Rome; adi "köhnə" üçün "old" deyilir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): DISCOVER [main], palace, valley, ancient, site,
+      tower
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,113 → 1,119 items).
+
+====================================================================================================
+LESSON A2-067   |   UNIT 10: People, nature and food
+====================================================================================================
+MAIN WORD: DOWNLOAD
+Azerbaijani: (İnternetdən) yükləmək; yükləmə
+
+A. MAIN WORD
+   English spelling ....... download
+   Azerbaijani meaning .... (internetdən) yükləmək; yükləmə
+   Part of speech ......... verb, noun
+   Key forms .............. download – downloads – downloaded – downloaded – downloading
+   British English IPA .... /ˌdaʊnˈləʊd/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ download (main word)
+   Verb forms ........ download (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Download a recording — Səs (və ya video) yazısını yükləmək
+      Usage: recording = səsyazma, lent yazısı
+   2. Download a profile — Profili yükləmək
+      Usage: profile /ˈprəʊfaɪl/ = profil; qısa xarakteristika
+   3. Download a copy — Surəti yükləmək
+      Usage: copy = surət, nüsxə; fel kimi: köçürmək
+   4. Download jazz — Caz musiqisi yükləmək
+      Usage: jazz = caz
+   5. Download pop — Pop musiqisi yükləmək
+      Usage: pop = pop musiqi
+   6. Download sth from sth — Nəyisə haradansa yükləmək
+      Usage: download a file from the internet
+   7. Download it — Onu yükləmək
+      Usage: You can download it for free
+
+D. NATURAL EXAMPLE SENTENCES
+   1. You can download a copy of the book for free.
+      → Kitabın surətini pulsuz yükləyə bilərsiniz.
+   2. I downloaded some jazz for the party.
+      → Mən şənlik üçün bir az caz musiqisi yüklədim.
+   3. The download takes about five minutes.
+      → Yükləmə təxminən beş dəqiqə çəkir.
+
+E. USAGE EXPLANATION
+   DOWNLOAD internetdən öz cihazına fayl yükləməkdir; əksi UPLOAD-dur (öz cihazından internetə
+   yükləmək). Həm fel, həm isimdir: a free download. COPY həm isim (a copy of the letter), həm də
+   feldir (copy the text). PROFILE sosial şəbəkədə şəxsi səhifə mənasında da işlənir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): DOWNLOAD [main], recording, profile, copy, jazz,
+      pop
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,119 → 1,125 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 10 (People, nature and food)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: BEHAVE, STORM, BOIL, BURN, COMMUNICATE, CONTAIN, DISAPPEAR, DISCOVER,
+      DOWNLOAD
+   New items registered in this unit: 58   |   Database total after this unit: 1,125
+   ancient, bean, beef, BEHAVE, bit, blow, BOIL, BURN, chip, coast, COMMUNICATE, CONTAIN, cooky,
+   copy, criminal, deep, desert, dessert, DISAPPEAR, DISCOVER, DOWNLOAD, drug, earth, exist, hill,
+   instructor, introduction, jazz, journalist, lady, manner, metal, middle, neck, nut, officer,
+   palace, pilot, polite, pop, profile, quietly, recording, reporter, rude, sail, shake, ship, site,
+   STORM, stove, sweet, tower, underground, valley, variety, wave, wood
+
+
+####################################################################################################
+#  UNIT 11 — BODY, SPORT AND ABILITY
+#  Bədən, idman və bacarıq
+####################################################################################################
+
+====================================================================================================
+LESSON A2-068   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: IMPOSSIBLE
+Azerbaijani: Qeyri-mümkün, mümkünsüz
+
+A. MAIN WORD
+   English spelling ....... impossible
+   Azerbaijani meaning .... qeyri-mümkün, mümkünsüz
+   Part of speech ......... adjective
+   British English IPA .... /ɪmˈpɒsəbəl/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ —
+   Adjective forms ... impossible (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Impossible to predict — Qabaqcadan demək mümkün deyil
+      Usage: predict /prɪˈdɪkt/ = qabaqcadan söyləmək, proqnoz vermək
+   2. Impossible to identify — Kimliyini (nə olduğunu) müəyyən etmək mümkün deyil
+      Usage: identify /aɪˈdentɪfaɪ/ = müəyyən etmək, tanımaq
+   3. Impossible to recognise — Tanımaq mümkün deyil
+      Usage: recognise = tanımaq (əvvəl gördüyünü); Amerika yazılışı: recognize
+   4. Impossible to pronounce — Tələffüz etmək mümkün deyil
+      Usage: pronounce /prəˈnaʊns/ = tələffüz etmək
+   5. Impossible to hide — Gizlətmək mümkün deyil
+      Usage: hide – hid – hidden = gizlətmək; gizlənmək
+   6. It is impossible to do sth — Nəyisə etmək qeyri-mümkündür
+      Usage: it is impossible + to + fel
+   7. Almost impossible — Demək olar ki, qeyri-mümkün
+      Usage: almost = demək olar ki
+
+D. NATURAL EXAMPLE SENTENCES
+   1. It is impossible to predict the weather for next month.
+      → Gələn ayın havasını qabaqcadan demək qeyri-mümkündür.
+   2. His name is almost impossible to pronounce.
+      → Onun adını tələffüz etmək demək olar ki, mümkün deyil.
+   3. She had changed so much that she was impossible to recognise.
+      → O, o qədər dəyişmişdi ki, onu tanımaq mümkün deyildi.
+
+E. USAGE EXPLANATION
+   IMPOSSIBLE = "im-" (inkar) + "possible" (mümkün). Qəlib: It is impossible TO + fel. "Very
+   impossible" deyilmir; gücləndirmək üçün "almost / quite / absolutely impossible" işlənir.
+   RECOGNISE əvvəl gördüyün və ya bildiyin şeyi tanımaqdır; IDENTIFY isə kimin və ya nəyin olduğunu
+   müəyyən etməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): IMPOSSIBLE [main], predict, identify, recognise,
+      pronounce, hide
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,125 → 1,131 items).
+
+====================================================================================================
+LESSON A2-069   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: FEED
+Azerbaijani: Yedizdirmək, yemləmək
+
+A. MAIN WORD
+   English spelling ....... feed
+   Azerbaijani meaning .... yedizdirmək, yemləmək
+   Part of speech ......... verb
+   Key forms .............. feed – feeds – fed – fed – feeding
+   British English IPA .... /fiːd/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ feed (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Feed the monkeys — Meymunları yemləmək
+      Usage: monkey /ˈmʌŋki/ = meymun
+   2. Feed a frog — Qurbağanı yemləmək
+      Usage: frog = qurbağa
+   3. Feed the twins — Əkizləri yedizdirmək
+      Usage: twin = əkiz (uşaqlardan biri); twins = əkizlər
+   4. Feed the soldiers — Əsgərləri yedizdirmək
+      Usage: soldier /ˈsəʊldʒə/ = əsgər
+   5. A dead spider — Ölü hörümçək  [related]
+      Usage: dead /ded/ = ölü, cansız; spider = hörümçək
+   6. Feed on sth — Nə iləsə qidalanmaq
+      Usage: Heyvanlar haqqında: Frogs feed on insects
+   7. Feed sb/sth — Kimisə / nəyisə yedizdirmək
+      Usage: Have you fed the cat?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Please don't feed the monkeys.
+      → Xahiş edirik, meymunları yemləməyin.
+   2. She feeds the twins at seven o'clock.
+      → O, əkizləri saat yeddidə yedizdirir.
+   3. Frogs feed on insects and spiders.
+      → Qurbağalar həşərat və hörümçəklərlə qidalanırlar.
+
+E. USAGE EXPLANATION
+   FEED düzgün olmayan feldir: feed – fed – fed. "Food" (yemək) sözü ilə eyni kökdəndir: feed =
+   yemək vermək. Heyvanların nə yediyini "feed on" bildirir. DEAD sifətdir (a dead bird), DIE feldir
+   (The bird died), DEATH isə isimdir (ölüm).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): FEED [main], monkey, frog, twin, soldier, dead,
+      spider
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,131 → 1,138 items).
+
+====================================================================================================
+LESSON A2-070   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: FIGHT
+Azerbaijani: Vuruşmaq, döyüşmək; mübarizə aparmaq; dava
+
+A. MAIN WORD
+   English spelling ....... fight
+   Azerbaijani meaning .... vuruşmaq, döyüşmək; mübarizə aparmaq; dava
+   Part of speech ......... verb, noun
+   Key forms .............. fight – fights – fought – fought – fighting
+   British English IPA .... /faɪt/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ fight (main word)
+   Verb forms ........ fight (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Fight a fever — Qızdırma ilə mübarizə aparmaq
+      Usage: fever /ˈfiːvə/ = qızdırma, hərarət
+   2. A stupid fight — Axmaq (mənasız) dava
+      Usage: stupid /ˈstjuːpɪd/ = axmaq, səfeh
+   3. Fight like crazy — Dəli kimi dalaşmaq
+      Usage: crazy = dəli, ağılsız; like crazy = dəlicəsinə
+   4. Fight the mayor — Bələdiyyə rəisinə qarşı mübarizə aparmaq
+      Usage: mayor /meə/ = mer, bələdiyyə rəisi
+   5. Fight with a lawyer — Vəkillə mübahisə etmək
+      Usage: lawyer /ˈlɔːjə/ = vəkil, hüquqşünas
+   6. Fight and kill — Vuruşmaq və öldürmək
+      Usage: kill = öldürmək
+   7. Fight for sth — Nəyinsə uğrunda mübarizə aparmaq
+      Usage: fight for your rights
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The two brothers often fight, but they love each other.
+      → İki qardaş tez-tez dalaşır, amma bir-birini sevirlər.
+   2. They had a stupid fight about money.
+      → Onlar pul üstündə mənasız dava etdilər.
+   3. She is fighting for her rights.
+      → O, öz hüquqları uğrunda mübarizə aparır.
+
+E. USAGE EXPLANATION
+   FIGHT düzgün olmayan feldir: fight – fought /fɔːt/ – fought. Həm fiziki dava, həm də mübarizə
+   mənasındadır: fight a disease, fight for freedom. Sözönülər: fight WITH / AGAINST sb (kiminləsə),
+   fight FOR sth (nəyinsə uğrunda), fight ABOUT / OVER sth (nəyinsə üstündə).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): FIGHT [main], fever, stupid, crazy, mayor, lawyer,
+      kill
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,138 → 1,145 items).
+
+====================================================================================================
+LESSON A2-071   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: FOCUS
+Azerbaijani: Diqqəti cəmləmək; diqqət mərkəzi
+
+A. MAIN WORD
+   English spelling ....... focus
+   Azerbaijani meaning .... diqqəti cəmləmək; diqqət mərkəzi
+   Part of speech ......... verb, noun
+   Key forms .............. focus – focuses – focused – focused – focusing
+   British English IPA .... /ˈfəʊkəs/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ focus (main word)
+   Verb forms ........ focus (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Focus on sth — Diqqəti nəyəsə cəmləmək
+      Usage: Sözönü həmişə "on"dur
+   2. Focus on architecture — Diqqəti memarlığa yönəltmək
+      Usage: architecture /ˈɑːkɪtektʃə/ = memarlıq
+   3. Focus on personality — Diqqəti şəxsiyyətə (xarakterə) yönəltmək
+      Usage: personality = şəxsiyyət, xarakter
+   4. A specific focus — Konkret diqqət mərkəzi
+      Usage: specific /spəˈsɪfɪk/ = konkret, spesifik
+   5. A particular focus — Xüsusi diqqət mərkəzi
+      Usage: particular /pəˈtɪkjələ/ = xüsusi, müəyyən; in particular = xüsusilə
+   6. Extremely focused — Son dərəcə diqqətli (məqsədyönlü)
+      Usage: extremely = son dərəcə, həddən artıq
+   7. Focus on yourself — Diqqətini özünə yönəltmək
+      Usage: Stop comparing and focus on yourself
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Please focus on your work.
+      → Xahiş edirəm, diqqətini işinə cəmlə.
+   2. The course has a particular focus on speaking.
+      → Kursda danışıq bacarığına xüsusi diqqət yetirilir.
+   3. I can't focus when it is noisy.
+      → Səs-küy olanda diqqətimi cəmləyə bilmirəm.
+
+E. USAGE EXPLANATION
+   FOCUS həm fel, həm isimdir və həmişə ON ilə işlənir: focus ON sth, a focus ON sth. Fotoqrafiyada
+   "fokus" deməkdir: out of focus = bulanıq. SPECIFIC "konkret, dəqiq müəyyən olunmuş", PARTICULAR
+   isə "xüsusi, bir çoxundan seçilmiş" deməkdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): FOCUS [main], architecture, personality, specific,
+      particular, extremely
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,145 → 1,151 items).
+
+====================================================================================================
+LESSON A2-072   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: GREET
+Azerbaijani: Salamlamaq, qarşılamaq
+
+A. MAIN WORD
+   English spelling ....... greet
+   Azerbaijani meaning .... salamlamaq, qarşılamaq
+   Part of speech ......... verb
+   Key forms .............. greet – greets – greeted – greeted – greeting
+   British English IPA .... /ɡriːt/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ greet (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Greet the professor — Professoru salamlamaq
+      Usage: professor = professor
+   2. Greet the chef — Aşpazı salamlamaq
+      Usage: chef /ʃef/ = baş aşpaz (restoranda)
+   3. Greet the dentist — Diş həkimini salamlamaq
+      Usage: dentist = diş həkimi, stomatoloq
+   4. Greet the clerk — Xidmətçini (kargüzarı) salamlamaq
+      Usage: clerk /klɑːk/ = kargüzar, ofis işçisi; (Amerikada) satıcı
+   5. Greet the assistant — Köməkçini salamlamaq
+      Usage: assistant = köməkçi, assistent; a shop assistant = satıcı
+   6. Greet sb with sth — Kimisə nə iləsə qarşılamaq
+      Usage: greet sb with a smile
+   7. Greet each other — Bir-birini salamlamaq
+      Usage: each other = bir-biri
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She greeted us with a warm smile.
+      → O, bizi səmimi təbəssümlə qarşıladı.
+   2. The students stood up to greet the professor.
+      → Tələbələr professoru salamlamaq üçün ayağa qalxdılar.
+   3. In Azerbaijan friends often greet each other with a hug.
+      → Azərbaycanda dostlar bir-birini çox vaxt qucaqlaşaraq salamlayırlar.
+
+E. USAGE EXPLANATION
+   GREET rəsmi çalarlı feldir; gündəlik dildə "say hello" deyilir. İsmi "greeting" – salamlaşma:
+   greetings = salamlar, təbriklər. CHEF restoranın baş aşpazıdır (peşəkar); "cook" isə ümumiyyətlə
+   yemək bişirən şəxsdir. CHEF sözündə "ch" /ʃ/ kimi oxunur.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): GREET [main], professor, chef, dentist, clerk,
+      assistant
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,151 → 1,157 items).
+
+====================================================================================================
+LESSON A2-073   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: HIT
+Azerbaijani: Vurmaq; dəymək, toqquşmaq; hit (uğurlu əsər)
+
+A. MAIN WORD
+   English spelling ....... hit
+   Azerbaijani meaning .... vurmaq; dəymək, toqquşmaq; hit (uğurlu əsər)
+   Part of speech ......... verb, noun
+   Key forms .............. hit – hits – hit – hit – hitting
+   British English IPA .... /hɪt/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ hit (main word)
+   Verb forms ........ hit (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Hit your ankle — Topuğunu vurmaq (zədələmək)
+      Usage: ankle = topuq
+   2. Hit the bottom — Dibə dəymək
+      Usage: bottom = dib, alt hissə; əksi: top
+   3. Hit sb with a belt — Kimisə kəmərlə vurmaq
+      Usage: belt = kəmər, qayış
+   4. Score in hockey — Xokkeydə xal (qol) qazanmaq  [related]
+      Usage: score = xal qazanmaq, qol vurmaq; hesab; hockey = xokkey
+   5. A weak hit — Zəif zərbə
+      Usage: weak = zəif; əksi: strong
+   6. Hit back — Cavab zərbəsi endirmək
+      Usage: Frazeoloji fel
+   7. Hit it — Ona vurmaq
+      Usage: Hit it hard!
+
+D. NATURAL EXAMPLE SENTENCES
+   1. He hit the ball over the wall.
+      → O, topu vurub divarın üstündən aşırdı.
+   2. The car hit a tree.
+      → Maşın ağaca dəydi.
+   3. She hit the ball hard and scored.
+      → O, topa bərk vurdu və xal qazandı.
+
+E. USAGE EXPLANATION
+   HIT-in üç forması eynidir: hit – hit – hit. Həm qəsdən vurmaq (hit the ball), həm də toqquşmaq
+   (The bus hit a car) mənasındadır. İsim kimi "böyük uğur qazanmış mahnı, film" deməkdir: a big
+   hit. SCORE idmanda xal və ya qol qazanmaqdır; isim kimi oyunun hesabıdır: What's the score?
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): HIT [main], ankle, bottom, belt, score, hockey,
+      weak
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,157 → 1,164 items).
+
+====================================================================================================
+LESSON A2-074   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: HURT
+Azerbaijani: Ağrımaq; incitmək, zədələmək
+
+A. MAIN WORD
+   English spelling ....... hurt
+   Azerbaijani meaning .... ağrımaq; incitmək, zədələmək
+   Part of speech ......... verb
+   Key forms .............. hurt – hurts – hurt – hurt – hurting
+   British English IPA .... /hɜːt/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ hurt (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. My stomach hurts — Mədəm (qarnım) ağrıyır
+      Usage: stomach /ˈstʌmək/ = mədə, qarın
+   2. Be hurt skiing — Xizək sürərkən zədələnmək
+      Usage: skiing = xizək idmanı, xizək sürmə
+   3. Hurt on a motorcycle — Motosikletdə zədələnmiş
+      Usage: motorcycle = motosiklet (qısa: motorbike)
+   4. Hurt by an expression — Bir ifadədən (sözdən) inciyən
+      Usage: expression = ifadə; üz ifadəsi
+   5. Hurt and scared — İncimiş və qorxmuş
+      Usage: scared = qorxmuş; be scared of = ...-dan qorxmaq
+   6. Hurt yourself — Özünü incitmək (zədələmək)
+      Usage: Did you hurt yourself?
+   7. It hurts — Ağrıyır
+      Usage: Where does it hurt? = Haran ağrıyır?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. My stomach hurts; I think I ate too much.
+      → Mədəm ağrıyır; deyəsən, çox yemişəm.
+   2. Did you hurt yourself when you fell?
+      → Yıxılanda özünü incitdin?
+   3. His words really hurt me.
+      → Onun sözləri məni həqiqətən incitdi.
+
+E. USAGE EXPLANATION
+   HURT-un üç forması eynidir: hurt – hurt – hurt. Üç cür işlənir: 1) bədən üzvü ağrıyır (My leg
+   hurts); 2) kimisə fiziki zədələmək (He hurt his knee); 3) kiminsə qəlbinə dəymək (You hurt my
+   feelings). SCARED "afraid" sözünün danışıq variantıdır: I'm scared of spiders.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): HURT [main], stomach, skiing, motorcycle,
+      expression, scared
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,164 → 1,170 items).
+
+====================================================================================================
+LESSON A2-075   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: INVENT
+Azerbaijani: İxtira etmək; uydurmaq
+
+A. MAIN WORD
+   English spelling ....... invent
+   Azerbaijani meaning .... ixtira etmək; uydurmaq
+   Part of speech ......... verb
+   Key forms .............. invent – invents – invented – invented – inventing
+   British English IPA .... /ɪnˈvent/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ invention — ixtira
+   Verb forms ........ invent (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Invent the wheel — Təkəri ixtira etmək
+      Usage: wheel = təkər; çarx
+   2. Invent the elevator — Lifti ixtira etmək
+      Usage: elevator = lift (Amerika ingiliscəsində; Britaniyada: lift)
+   3. Invent the refrigerator — Soyuducunu ixtira etmək
+      Usage: refrigerator /rɪˈfrɪdʒəreɪtə/ = soyuducu (qısa: fridge)
+   4. A brilliant invention — Parlaq ixtira
+      Usage: brilliant = parlaq, dahiyanə; (danışıqda) əla
+   5. Invent an instrument — Alət ixtira etmək
+      Usage: instrument = alət; a musical instrument = musiqi aləti
+   6. Invent sth for sb — Kimin üçünsə nəsə ixtira etmək
+      Usage: for = üçün
+   7. Invent it — Onu ixtira etmək
+      Usage: Who invented it?
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Who invented the telephone?
+      → Telefonu kim ixtira edib?
+   2. The wheel is one of the most important inventions in history.
+      → Təkər tarixin ən mühüm ixtiralarından biridir.
+   3. He invented a story to explain why he was late.
+      → O, niyə gecikdiyini izah etmək üçün bir hekayə uydurdu.
+
+E. USAGE EXPLANATION
+   INVENT əvvəl mövcud olmayan bir şeyi yaratmaqdır (invent a machine); DISCOVER isə artıq mövcud
+   olanı tapmaqdır. İkinci mənası "uydurmaq"dır: invent an excuse. İsimləri: INVENTION (ixtira) və
+   "inventor" (ixtiraçı). ELEVATOR Amerika, LIFT Britaniya variantıdır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): INVENT [main], invention [family], wheel, elevator,
+      refrigerator, brilliant, instrument
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,170 → 1,177 items).
+
+====================================================================================================
+LESSON A2-076   |   UNIT 11: Body, sport and ability
+====================================================================================================
+MAIN WORD: JUMP
+Azerbaijani: Tullanmaq, hoppanmaq; tullanış
+
+A. MAIN WORD
+   English spelling ....... jump
+   Azerbaijani meaning .... tullanmaq, hoppanmaq; tullanış
+   Part of speech ......... verb, noun
+   Key forms .............. jump – jumps – jumped – jumped – jumping
+   British English IPA .... /dʒʌmp/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ jump (main word)
+   Verb forms ........ jump (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Jump down the stairs — Pilləkənlərdən aşağı tullanmaq
+      Usage: stair = pillə; stairs = pilləkən
+   2. A ski jump — Xizəklə tullanma; xizək tramplini
+      Usage: ski /skiː/ = xizək; xizək sürmək
+   3. A low jump — Alçaq tullanış
+      Usage: low /ləʊ/ = alçaq, aşağı; əksi: high
+   4. A double jump — İkiqat tullanış
+      Usage: double /ˈdʌbəl/ = ikiqat, qoşa
+   5. A lucky jump — Uğurlu (bəxti gətirən) tullanış
+      Usage: lucky = bəxtli, uğurlu; luck = bəxt
+   6. Jump up and down — Atılıb-düşmək
+      Usage: Sevincdən: The children jumped up and down
+   7. Jump over sth — Nəyinsə üstündən tullanmaq
+      Usage: jump over the wall
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The cat jumped over the wall.
+      → Pişik divarın üstündən tullandı.
+   2. The children jumped up and down with joy.
+      → Uşaqlar sevincdən atılıb-düşdülər.
+   3. Don't jump down the stairs; you will hurt yourself.
+      → Pilləkənlərdən tullanma; özünü incidərsən.
+
+E. USAGE EXPLANATION
+   JUMP düzgün feldir. Sözönülər istiqaməti bildirir: jump over (üstündən), jump into (içinə), jump
+   off (üstündən aşağı), jump up (yuxarı). İsim kimi: the high jump = hündürlüyə tullanma, the long
+   jump = uzunluğa tullanma. LUCKY sifətdir: You are lucky! = Bəxtin gətirib!
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): JUMP [main], stairs, ski, low, double, lucky
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,177 → 1,183 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 11 (Body, sport and ability)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: IMPOSSIBLE, FEED, FIGHT, FOCUS, GREET, HIT, HURT, INVENT, JUMP
+   New items registered in this unit: 58   |   Database total after this unit: 1,183
+   ankle, architecture, assistant, belt, bottom, brilliant, chef, clerk, crazy, dead, dentist,
+   double, elevator, expression, extremely, FEED, fever, FIGHT, FOCUS, frog, GREET, hide, HIT,
+   hockey, HURT, identify, IMPOSSIBLE, instrument, INVENT, invention, JUMP, kill, lawyer, low,
+   lucky, mayor, monkey, motorcycle, particular, personality, predict, professor, pronounce,
+   recognise, refrigerator, scared, score, ski, skiing, soldier, specific, spider, stairs, stomach,
+   stupid, twin, weak, wheel

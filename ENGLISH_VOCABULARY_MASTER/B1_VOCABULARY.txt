@@ -115,7 +115,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (13): ACHIEVE [main], achievement [family], achiever
       [family], achievable [family], goal, result, aim, ambition, independence, victory, excellent,
       grade, fame
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,067 → 1,080 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,238 → 1,251 items).
 
 ====================================================================================================
 LESSON B1-002   |   UNIT 1: Achievement, skills and work
@@ -177,7 +177,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): SUCCEED [main], success [family], successful
       [family], unsuccessful [family], successfully [family], highly, commercial, wish, outcome,
       academic, celebrate
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,080 → 1,091 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,251 → 1,262 items).
 
 ====================================================================================================
 LESSON B1-003   |   UNIT 1: Achievement, skills and work
@@ -239,7 +239,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): IMPROVE [main], improvement [family], quality,
       performance, situation, pronunciation, condition, vocabulary, gradually, grammar
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,091 → 1,101 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,262 → 1,272 items).
 
 ====================================================================================================
 LESSON B1-004   |   UNIT 1: Achievement, skills and work
@@ -301,7 +301,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (13): DEVELOP [main], development [family], developer
       [family], developing [family], developed [family], product, relationship, software, theory,
       system, technology, method, personal
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,101 → 1,114 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,272 → 1,285 items).
 
 ====================================================================================================
 LESSON B1-005   |   UNIT 1: Achievement, skills and work
@@ -361,7 +361,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): EXPERIENCE [main], experienced [family],
       inexperienced [family], gain, previous, unforgettable, practical, lack, valuable, amazing
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,114 → 1,124 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,285 → 1,295 items).
 
 ====================================================================================================
 LESSON B1-006   |   UNIT 1: Achievement, skills and work
@@ -423,7 +423,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): SKILL [main], skilled [family], skilful [family],
       unskilled [family], communication, basic, require, technical, essential, master, presentation,
       practise
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,124 → 1,136 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,295 → 1,307 items).
 
 ====================================================================================================
 LESSON B1-007   |   UNIT 1: Achievement, skills and work
@@ -484,7 +484,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): MANAGE [main], management [family], manager
       [family], manageable [family], project, stress, budget, staff, department, own, senior
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,136 → 1,147 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,307 → 1,318 items).
 
 ====================================================================================================
 LESSON B1-008   |   UNIT 1: Achievement, skills and work
@@ -546,7 +546,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): PREPARE [main], preparation [family], prepared
       [family], report, interview, worst, salad, summary, essay
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,147 → 1,156 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,318 → 1,327 items).
 
 ====================================================================================================
 LESSON B1-009   |   UNIT 1: Achievement, skills and work
@@ -610,7 +610,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (15): EMPLOY [main], employee [family], employer
       [family], employment [family], unemployment [family], unemployed [family], self-employed
       [family], full-time, part-time, agency, large, youth, rate, temporary, permanent
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,156 → 1,171 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,327 → 1,342 items).
 
 ====================================================================================================
 LESSON B1-010   |   UNIT 1: Achievement, skills and work
@@ -673,14 +673,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): APPLY [main], application [family], applicant
       [family], visa, loan, scholarship, form, position, licence, permission, knowledge
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,171 → 1,182 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,342 → 1,353 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 1 (Achievement, skills and work)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: ACHIEVE, SUCCEED, IMPROVE, DEVELOP, EXPERIENCE, SKILL, MANAGE, PREPARE,
       EMPLOY, APPLY
-   New items registered in this unit: 115   |   Database total after this unit: 1,182
+   New items registered in this unit: 115   |   Database total after this unit: 1,353
    academic, achievable, ACHIEVE, achievement, achiever, agency, aim, amazing, ambition, applicant,
    application, APPLY, basic, budget, celebrate, commercial, communication, condition, department,
    DEVELOP, developed, developer, developing, development, EMPLOY, employee, employer, employment,
@@ -760,7 +760,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): EDUCATION [main], educate [family], educational
       [family], educated [family], higher, primary, secondary, adult, receive, private, training,
       access
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,182 → 1,194 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,353 → 1,365 items).
 
 ====================================================================================================
 LESSON B1-012   |   UNIT 2: Education, opinions and discussion
@@ -821,7 +821,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): EXPLAIN [main], explanation [family], briefly,
       simple, possible, process, purpose, exactly, logical
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,194 → 1,203 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,365 → 1,374 items).
 
 ====================================================================================================
 LESSON B1-013   |   UNIT 2: Education, opinions and discussion
@@ -883,7 +883,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): SUGGEST [main], suggestion [family], alternative,
       sensible, activity, accept, welcome, consider
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,203 → 1,211 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,374 → 1,382 items).
 
 ====================================================================================================
 LESSON B1-014   |   UNIT 2: Education, opinions and discussion
@@ -944,7 +944,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): ARGUE [main], argument [family], convincing,
       powerful, settle, silly
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,211 → 1,217 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,382 → 1,388 items).
 
 ====================================================================================================
 LESSON B1-015   |   UNIT 2: Education, opinions and discussion
@@ -1005,7 +1005,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): COMPLAIN [main], complaint [family], delay, formal,
       headache, customer, handle
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,217 → 1,224 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,388 → 1,395 items).
 
 ====================================================================================================
 LESSON B1-016   |   UNIT 2: Education, opinions and discussion
@@ -1066,7 +1066,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): DISCUSS [main], discussion [family], matter, group,
       lively, politics, colleague, advantage, join
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,224 → 1,233 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,395 → 1,404 items).
 
 ====================================================================================================
 LESSON B1-017   |   UNIT 2: Education, opinions and discussion
@@ -1126,7 +1126,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): OPINION [main], express, poll, honest, expert,
       popular
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,233 → 1,239 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,404 → 1,410 items).
 
 ====================================================================================================
 LESSON B1-018   |   UNIT 2: Education, opinions and discussion
@@ -1186,7 +1186,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): ADVICE [main], adviser [family], advise [family],
       advisable [family], piece, professional, medical, legal, seek, ignore, offer
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,239 → 1,250 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,410 → 1,421 items).
 
 ====================================================================================================
 LESSON B1-019   |   UNIT 2: Education, opinions and discussion
@@ -1247,7 +1247,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): AGREE [main], agreement [family], disagreement
       [family], disagree [family], absolutely, sign, trade, principle, tend
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,250 → 1,259 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,421 → 1,430 items).
 
 ====================================================================================================
 LESSON B1-020   |   UNIT 2: Education, opinions and discussion
@@ -1309,14 +1309,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): DECIDE [main], decision [family], decisive
       [family], indecisive [family], tough, wise, wrong, regret, moment
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,259 → 1,268 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,430 → 1,439 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 2 (Education, opinions and discussion)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: EDUCATION, EXPLAIN, SUGGEST, ARGUE, COMPLAIN, DISCUSS, OPINION, ADVICE,
       AGREE, DECIDE
-   New items registered in this unit: 86   |   Database total after this unit: 1,268
+   New items registered in this unit: 86   |   Database total after this unit: 1,439
    absolutely, accept, access, activity, adult, advantage, ADVICE, advisable, advise, adviser,
    AGREE, agreement, alternative, ARGUE, argument, briefly, colleague, COMPLAIN, complaint,
    consider, convincing, customer, DECIDE, decision, decisive, delay, disagree, disagreement,
@@ -1393,7 +1393,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): ENVIRONMENT [main], environmentalist [family],
       environmental [family], environmentally [family], pollution, urban, awareness, preserve,
       stable, disaster, global, destroy
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,268 → 1,280 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,439 → 1,451 items).
 
 ====================================================================================================
 LESSON B1-022   |   UNIT 3: Environment, problems and solutions
@@ -1453,7 +1453,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PROTECT [main], protection [family], protective
       [family], wildlife, skin, planet, forest, rights, data, glove
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,280 → 1,290 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,451 → 1,461 items).
 
 ====================================================================================================
 LESSON B1-023   |   UNIT 3: Environment, problems and solutions
@@ -1515,7 +1515,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): INCREASE [main], increasingly [family], sharp,
       sale, risk, steady, amount, cent, production, income
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,290 → 1,300 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,461 → 1,471 items).
 
 ====================================================================================================
 LESSON B1-024   |   UNIT 3: Environment, problems and solutions
@@ -1574,7 +1574,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): REDUCE [main], reduction [family], waste, speed,
       emission, poverty, crime, half, traffic, debt
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,300 → 1,310 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,471 → 1,481 items).
 
 ====================================================================================================
 LESSON B1-025   |   UNIT 3: Environment, problems and solutions
@@ -1635,7 +1635,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): PROVIDE [main], provider [family], provision
       [family], shelter, assistance, feedback, facility, security, proof
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,310 → 1,319 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,481 → 1,490 items).
 
 ====================================================================================================
 LESSON B1-026   |   UNIT 3: Environment, problems and solutions
@@ -1697,7 +1697,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): SUPPORT [main], supporter [family], supportive
       [family], financial, emotional, claim, moral, charity, government, loyal
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,319 → 1,329 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,490 → 1,500 items).
 
 ====================================================================================================
 LESSON B1-027   |   UNIT 3: Environment, problems and solutions
@@ -1758,7 +1758,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): SOLVE [main], solution [family], puzzle, mystery,
       crisis, effective, peaceful, conflict, ideal, obvious
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,329 → 1,339 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,500 → 1,510 items).
 
 ====================================================================================================
 LESSON B1-028   |   UNIT 3: Environment, problems and solutions
@@ -1819,7 +1819,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): AVOID [main], avoidable [family], unavoidable
       [family], accident, danger, contact, confusion, crowd, trouble, alcohol
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,339 → 1,349 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,510 → 1,520 items).
 
 ====================================================================================================
 LESSON B1-029   |   UNIT 3: Environment, problems and solutions
@@ -1882,14 +1882,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CAUSE [main], pain, concern, death, effect, root,
       disease, injury, chaos
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,349 → 1,358 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,520 → 1,529 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 3 (Environment, problems and solutions)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: ENVIRONMENT, PROTECT, INCREASE, REDUCE, PROVIDE, SUPPORT, SOLVE, AVOID,
       CAUSE
-   New items registered in this unit: 90   |   Database total after this unit: 1,358
+   New items registered in this unit: 90   |   Database total after this unit: 1,529
    accident, alcohol, amount, assistance, AVOID, avoidable, awareness, CAUSE, cent, chaos, charity,
    claim, concern, conflict, confusion, contact, crime, crisis, crowd, danger, data, death, debt,
    destroy, disaster, disease, effect, effective, emission, emotional, ENVIRONMENT, environmental,
@@ -1964,7 +1964,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): EFFORT [main], effortless [family], effortlessly
       [family], worth, joint, determined, huge, desperate, rescue
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,358 → 1,367 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,529 → 1,538 items).
 
 ====================================================================================================
 LESSON B1-031   |   UNIT 4: Personal qualities and challenges
@@ -2024,7 +2024,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): HABIT [main], habitual [family], kick, annoying,
       nasty, lifelong, regular, creature
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,367 → 1,375 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,538 → 1,546 items).
 
 ====================================================================================================
 LESSON B1-032   |   UNIT 4: Personal qualities and challenges
@@ -2086,7 +2086,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): OPPORTUNITY [main], golden, unique, wonderful,
       rare, seize, create
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,375 → 1,382 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,546 → 1,553 items).
 
 ====================================================================================================
 LESSON B1-033   |   UNIT 4: Personal qualities and challenges
@@ -2148,7 +2148,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CHALLENGE [main], challenging [family], real,
       major, rise, pose, overcome, exciting, belief
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,382 → 1,391 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,553 → 1,562 items).
 
 ====================================================================================================
 LESSON B1-034   |   UNIT 4: Personal qualities and challenges
@@ -2208,7 +2208,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): PRESSURE [main], peer, blood, intense, cope, air,
       relieve, resist
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,391 → 1,399 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,562 → 1,570 items).
 
 ====================================================================================================
 LESSON B1-035   |   UNIT 4: Personal qualities and challenges
@@ -2267,7 +2267,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): RESPONSIBLE [main], responsibility [family],
       irresponsible [family], responsibly [family], hold, sense, behaviour, act, largely, deny
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,399 → 1,409 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,570 → 1,580 items).
 
 ====================================================================================================
 LESSON B1-036   |   UNIT 4: Personal qualities and challenges
@@ -2327,7 +2327,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): CONFIDENT [main], confidence [family],
       self-confidence [family], confidently [family], reasonably, boost, restore
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,409 → 1,416 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,580 → 1,587 items).
 
 ====================================================================================================
 LESSON B1-037   |   UNIT 4: Personal qualities and challenges
@@ -2386,14 +2386,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): SERIOUS [main], seriousness [family], seriously
       [family], illness, threat, offence, deadly, attempt, doubt
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,416 → 1,425 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,587 → 1,596 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 4 (Personal qualities and challenges)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: EFFORT, HABIT, OPPORTUNITY, CHALLENGE, PRESSURE, RESPONSIBLE, CONFIDENT,
       SERIOUS
-   New items registered in this unit: 67   |   Database total after this unit: 1,425
+   New items registered in this unit: 67   |   Database total after this unit: 1,596
    act, air, annoying, attempt, behaviour, belief, blood, boost, CHALLENGE, challenging, confidence,
    CONFIDENT, confidently, cope, create, creature, deadly, deny, desperate, determined, doubt,
    EFFORT, effortless, effortlessly, exciting, golden, HABIT, habitual, hold, huge, illness,
@@ -2468,7 +2468,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): SET [main], setting [family], alarm, limit,
       standard, scene
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,425 → 1,431 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,596 → 1,602 items).
 
 ====================================================================================================
 LESSON B1-039   |   UNIT 5: High-frequency words in idiomatic use
@@ -2530,7 +2530,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): RUN [main], runner [family], running [family],
       marathon, smoothly, long, errand, president
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,431 → 1,439 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,602 → 1,610 items).
 
 ====================================================================================================
 LESSON B1-040   |   UNIT 5: High-frequency words in idiomatic use
@@ -2592,7 +2592,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): MIND [main], open-minded [family], mindful
       [family], never, state, slip
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,439 → 1,445 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,610 → 1,616 items).
 
 ====================================================================================================
 LESSON B1-041   |   UNIT 5: High-frequency words in idiomatic use
@@ -2654,13 +2654,13 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): DEAL [main], dealer [family], fair, strike, art,
       emergency
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,445 → 1,451 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,616 → 1,622 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 5 (High-frequency words in idiomatic use)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: SET, RUN, MIND, DEAL
-   New items registered in this unit: 26   |   Database total after this unit: 1,451
+   New items registered in this unit: 26   |   Database total after this unit: 1,622
    alarm, art, DEAL, dealer, emergency, errand, fair, limit, long, marathon, MIND, mindful, never,
    open-minded, president, RUN, runner, running, scene, SET, setting, slip, smoothly, standard,
    state, strike
@@ -2735,7 +2735,7 @@ UPDATED VOCABULARY INDEX — END OF LEVEL B1
       010, vocabulary 003, waste 024, welcome 013, wildlife 022, wise 020, wish 002, wonderful 032,
       worst 008, worth 030, wrong 020, youth 009
 
-   Cumulative database size after B1: 1,451 individual vocabulary items (+ 285 structural words).
+   Cumulative database size after B1: 1,622 individual vocabulary items (+ 285 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL B1

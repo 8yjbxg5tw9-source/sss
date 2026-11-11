@@ -17,13 +17,13 @@ Oxford Phrase List-dəki hər ifadə (kurs üçün verilmiş PDF) bu kursda — 
    Level   Words on    in the      taught in   still to  |  Phrases on   taught   still to
            the list    foundation  a lesson    teach     |  the list              teach
    A1           899         186         713         0    |        200       159        41
-   A2           794          50         521       223    |        175        33       142
+   A2           794          50         690        54    |        175        33       142
    B1           693          17         294       382    |        175        20       155
    B2          1277          10         483       784    |        125        11       114
    C1          1272           0         337       935    |         75         3        72
-   TOTAL       4935         263        2348      2324    |        750       226       524
+   TOTAL       4935         263        2517      2155    |        750       226       524
 
-   Words:   2,611 of 4,935 taught (52.9%)   |   Phrases: 226 of 750 taught (30.1%)
+   Words:   2,780 of 4,935 taught (56.3%)   |   Phrases: 226 of 750 taught (30.1%)
 
    • A "word on the list" is one spelling. The PDF prints 5,323 entries because it lists some words
      more than once (another part of speech at a higher level, or two senses such as bank (money) /
@@ -41,31 +41,16 @@ Oxford Phrase List-dəki hər ifadə (kurs üçün verilmiş PDF) bu kursda — 
    • The Phrase List also prints 249 example lines under its 750 phrases; they are used as examples
      in the lessons where they fit, but they are not counted here.
 
-2. WORDS STILL TO BE TAUGHT  /  HƏLƏ ÖYRƏDİLMƏMİŞ SÖZLƏR (2,324)
+2. WORDS STILL TO BE TAUGHT  /  HƏLƏ ÖYRƏDİLMƏMİŞ SÖZLƏR (2,155)
 ----------------------------------------------------------------------------------------------------
    A1 (0) — complete / tamamlanıb
-   A2 (223)
-      able, according to, active, adventure, all right, ancient, ankle, architect, architecture,
-      assistant, athlete, attractive, author, available, based, bean, beef, behave, belt, birth,
-      bit, block, blow, boil, bottom, brilliant, burn, businessman, careful, certainly, chef,
-      chemistry, chip, circle, clerk, closed, closet, coast, communicate, contain, cookie, copy,
-      correctly, crazy, creative, criminal, crowded, curly, dead, deep, dentist, desert, designer,
-      dessert, detective, disappear, discover, divorced, double, download, downtown, drama, drug,
-      earth, electric, electrical, electronic, elevator, everyday, exist, expression, extremely,
-      feed, female, fever, fight, focus, following, fortunately, frog, gallery, god, gold, golf,
-      greet, grocery, guy, hide, hill, hit, hockey, hurt, identify, impossible, included, including,
-      incredible, independent, informal, instead, instead of, instructor, instrument, intelligent,
-      introduction, invent, invention, item, jazz, jewelry, journalist, jump, kill, kilometer,
-      knock, lady, lamp, lawyer, lead, lock, loud, low, lucky, male, manner, mark, marry, mayor,
-      metal, middle, monkey, moon, motorcycle, musical, musician, necessary, neck, noisy, normal,
-      nut, officer, ordinary, organize, pack, painter, palace, particular, perform, personality,
-      physics, pick, pilot, pleased, polite, pop, predict, print, professor, profile, pronounce,
-      push, quietly, react, realize, recently, recognize, recommend, recording, refer, refrigerator,
-      reporter, respond, ring, rude, sadly, sail, sailing, scared, scary, score, shake, ship, shut,
-      sir, site, ski, skiing, soldier, sort, specific, spider, stair, steal, stomach, storm, stove,
-      stupid, subway, suppose, surprised, surprising, sweet, teenage, thick, tower, track, trash,
-      twin, typical, underground, understanding, unfortunately, uniform, used to, valley, variety,
-      washing, wave, weak, wheel, wood, wooden, worse
+   A2 (54)
+      according to, active, all right, available, based, birth, businessman, certainly, chemistry,
+      cookie, creative, curly, electric, electrical, electronic, everyday, fortunately, god, golf,
+      guy, included, including, independent, informal, item, moon, necessary, normal, ordinary,
+      physics, pleased, print, react, realize, recently, recommend, refer, respond, sadly, sailing,
+      scary, sir, stair, suppose, surprised, surprising, teenage, thick, typical, understanding,
+      unfortunately, used to, wooden, worse
    B1 (382)
       ad, addition, administration, admire, admit, advanced, AI, album, alcoholic, amazed, announce,
       announcement, annoy, annoyed, apologize, approximately, assignment, assist, attraction,
@@ -549,120 +534,153 @@ Oxford Phrase List-dəki hər ifadə (kurs üçün verilmiş PDF) bu kursda — 
       (A1-019), wrong (B1-020), yard (A1-068), yeah (S0), year → years (A1-037), yellow (A1-040),
       yes (S0), yesterday (A1-031), you (S0), young → younger (B2-032), your (S0), yourself (S0)
 
-   A2 — 571 of 794 words
-      ability (B2-001), accept (B1-013), accident (B1-028), achieve (B1-001), act (B1-035), actually
-      (S0), advantage → advantages (B1-016), advertise (A2-057), advertisement (A2-042), advertising
-      (B2-022), affect (B2-011), against (S0), ah (S0), airline (A2-057), alive (A1-012), allow
-      (A2-041), almost (S0), alone (A1-012), along (S0), already (S0), alternative (B1-013),
-      although (S0), among (S0), amount (B1-023), analyze → analyse (B2-001), anybody (S0), anymore
-      (S0), anyway (S0), anywhere (S0), app → apps (C2-057), appear (A2-042), appearance (A2-042),
-      apply (B1-010), argue (B1-014), argument (B1-014), army (A2-043), arrange (A2-058),
-      arrangement (A2-058), asleep (A2-018), attack (B2-023), attend (A2-050), attention (A2-023),
-      audience (C1-049), audio (A2-054), average (B2-015), avoid (B1-028), award (A2-027), awful
-      (C1-046), background (A2-052), badly (A2-056), bear (C1-040), behavior → behaviour (B1-035),
-      belong (A2-043), benefit → benefits (B2-039), billion (S0), biology (A2-056), blood (B1-034),
-      board (A1-019), bone (A2-019), borrow (A1-011), boss (B2-016), bowl (A2-046), brain (A2-024),
-      bridge (A1-037), bright (A1-040), broken (A2-019), brush (A1-016), button (A2-053), camp
-      (A2-058), camping (A2-041), campus (A2-050), candy (A2-057), care (A1-004), carefully
-      (A1-022), carpet (A2-046), cartoon → cartoons (A1-025), case (C1-006), cash (A2-023), catch
-      (A2-005), cause (B1-029), celebrate (B1-002), celebrity (C1-031), cell → cells (C2-006),
-      century → centuries (C1-051), certain (B2-040), chance (A2-006), character (A2-039), charity
-      (B1-026), chat (A1-015), choice (A2-022), church (A2-043), cigarette → cigarettes (A2-041),
-      classical (C2-020), clear (C1-004), clearly (A1-020), climate (B2-025), clothing (A2-057),
-      cloud → clouds (A1-032), coach (A2-004), code (C2-056), colleague → colleagues (B1-016),
-      collect (A2-044), column → columns (A2-045), comedy (C2-012), comfortable (A2-028), comment
-      (A2-003), community (B2-036), compete (B2-014), competition (B2-014), complain (B1-015),
-      completely (A2-012), condition → conditions (B1-003), conference (A2-050), connect (A2-054),
-      connected (A2-054), consider (B1-013), context (C2-050), continent → continents (C1-051),
-      continue (A2-051), control (A2-016), corner (A2-014), count (A2-045), couple (A1-038), cover
-      (A2-046), credit (A2-052), crime (B1-024), cross (A1-026), crowd → crowds (B1-028), cry →
-      crying (A2-026), cycle (C2-004), daily (A1-031), danger (B1-028), data (B1-022), deal
-      (B1-041), death (B1-029), decision (B1-020), definitely (A2-055), degree (B2-018), department
-      (B1-007), depend (A2-052), destroy (B1-021), develop (B1-004), device (C2-015), diary
-      (A2-015), differently (A2-036), digital (B2-018), direct (B2-005), direction → directions
-      (A1-006), director (A2-058), disagree (B1-019), disaster (B1-021), discovery (A2-037),
-      discussion (B1-016), disease (B1-029), distance (A2-038), document (A2-008), drawing (A1-057),
-      dream → dreams (A2-031), driving (A2-056), drop (B2-016), dry (A1-039), earn (A1-011), easily
-      (A2-035), education (B1-011), effect (B1-029), either (S0), electricity (B2-032), employ
-      (B1-009), employee (B1-009), employer (B1-009), empty (C2-015), ending (C1-004), energy
-      (B2-015), engine (A2-053), engineer → engineers (C2-048), enormous (B2-006), enter (B2-014),
-      environment (B1-021), equipment (A2-034), error (B2-038), especially (A2-037), essay (B1-008),
-      everywhere (S0), evidence (B2-004), exact (A2-047), exactly (B1-012), excellent (B1-001),
-      except (S0), expect (A2-055), experience (B1-005), experiment (A2-051), expert (B1-017),
-      explanation (B1-012), express (B1-017), extreme (A2-034), factor (B2-011), factory (C1-054),
-      fail (A2-056), fair (B1-041), fan (A2-034), farming (A1-065), fashion (A2-009), fear (B2-025),
-      feature (B2-024), fiction (C1-057), field (B2-010), figure (B2-021), film (A1-025), finally
-      (A2-047), finger → fingers (A1-016), fishing (A2-041), fit (A2-015), fix (B2-039), flat
-      (A1-012), flu (A2-005), flying (A1-064), foreign (B2-020), forest → forests (B1-022), fork
-      (A2-048), formal (B1-015), forward (S0), fresh (A2-015), furniture (A2-013), further (C1-008),
-      gap (B2-032), garbage (A2-049), gas → gases (B2-025), gate (A1-028), general (B2-008), gift
-      (A2-007), goal (B1-001), government (B1-026), grass (A2-015), ground (A2-018), guest (A2-037),
-      guide (A2-001), gun → guns (A2-041), habit (B1-031), hall (A2-004), happily (A1-038), headache
-      (B1-015), heart (A1-017), heat (A1-039), heavy (A2-016), height (A2-047), helpful (A1-026),
-      hero (C2-059), hers (S0), herself (S0), hike (A2-051), himself (S0), hold (B1-035), hole
-      (A2-046), huge (B1-030), human (A1-016), ideal (B1-027), ill (A2-018), illness (B1-037), image
-      → images (C2-012), immediately (A2-047), increase (B1-023), individual (C1-043), industry
-      (B2-037), injury (B1-029), insect → insects (A2-044), inside (S0), instruction → instructions
-      (A2-038), international (C1-017), invitation (A2-055), invite (A1-015), involve (C1-039),
-      itself (S0), jam (A2-048), joke (A2-010), kid → kids (A2-032), king (A2-043), knee → knees
-      (A2-046), knife (A2-024), knowledge (B1-010), lab (A2-050), lake (A2-049), laptop (A2-007),
-      laughter (C1-050), law (A2-019), lazy (C2-045), leader (A2-039), learning (A1-017), least
-      (S0), lecture (A2-050), lemon (A2-048), lend (C2-035), less (S0), level → levels (A2-036),
-      lifestyle (A2-033), lift (B2-034), likely (A2-055), link (A2-008), listener (A1-022), lost
-      (A2-016), loudly (A1-020), luck (A1-034), mail (A2-044), major (B1-033), manage (B1-007),
-      manager (B1-007), material → materials (B2-023), math → maths (A2-056), mathematics (A2-056),
-      matter (B1-016), may (S0), media (A2-024), medical (B1-018), medicine (A1-004), memory
-      (A2-016), mention (C1-052), method (B1-004), might (S0), mind (B1-040), mine (S0), mirror
-      (A2-046), missing (A2-006), mobile (A1-036), mostly (A2-052), movement (A2-013), myself (S0),
-      narrow (C1-028), national (B2-018), nature (A2-030), nearly (S0), neither (S0), nervous
-      (A2-028), network (B2-040), noise (A1-005), none (S0), normally (A2-051), notice (A2-047),
-      novel (C2-025), nowhere (S0), offer (B1-018), oil (C1-030), onto (S0), opportunity (B1-032),
-      option (A2-022), organization → organisation (B2-017), original (C2-035), ourselves (S0), oven
-      (A1-039), overseas (B2-013), owner (A2-043), pain (B1-029), parking (A2-041), pass (A2-048),
-      passenger → passengers (A2-055), patient (B2-002), pattern → patterns (B2-001), peace
-      (A2-003), penny → pennies (A2-045), per (S0), percent → per cent (B1-023), perhaps (S0),
-      permission (B1-010), pet → pets (A2-015), physical (A2-033), planet (B1-022), plastic
-      (C1-060), plate (A2-019), platform → platforms (C2-057), pocket (A1-011), pollution (B1-021),
-      population (B2-008), position (B1-010), possession → possessions (C1-041), possibility
-      (C2-030), poster (A2-042), power (B2-037), president (B1-039), prevent (C1-008), printer
-      (A2-053), prison (B2-039), prize (A2-027), process (B1-012), produce (A2-057), professional
-      (B1-018), progress (B2-002), promise (A2-015), protect (B1-022), provide (B1-025), public
-      (A2-024), publish (B2-010), pull (C1-036), purpose (B1-012), quality (B1-003), quantity
-      (A2-052), queen (A2-043), race (A2-027), railroad (A2-054), raise (B2-007), rate (B1-009),
-      rather (S0), reach (A2-035), receive (B1-011), recent (B2-008), reception (A2-050), recipe
-      (A2-011), record (A2-019), recycle (C1-012), reduce (B1-024), refuse (B2-030), region
+   A2 — 740 of 794 words
+      ability (B2-001), able (A2-082), accept (B1-013), accident (B1-028), achieve (B1-001), act
+      (B1-035), actually (S0), advantage → advantages (B1-016), adventure (A2-082), advertise
+      (A2-057), advertisement (A2-042), advertising (B2-022), affect (B2-011), against (S0), ah
+      (S0), airline (A2-057), alive (A1-012), allow (A2-041), almost (S0), alone (A1-012), along
+      (S0), already (S0), alternative (B1-013), although (S0), among (S0), amount (B1-023), analyze
+      → analyse (B2-001), ancient (A2-066), ankle (A2-073), anybody (S0), anymore (S0), anyway (S0),
+      anywhere (S0), app → apps (C2-057), appear (A2-042), appearance (A2-042), apply (B1-010),
+      architect → architects (A2-079), architecture (A2-071), argue (B1-014), argument (B1-014),
+      army (A2-043), arrange (A2-058), arrangement (A2-058), asleep (A2-018), assistant (A2-072),
+      athlete → athletes (A2-079), attack (B2-023), attend (A2-050), attention (A2-023), attractive
+      (A2-081), audience (C1-049), audio (A2-054), author (A2-081), average (B2-015), avoid
+      (B1-028), award (A2-027), awful (C1-046), background (A2-052), badly (A2-056), bean → beans
+      (A2-061), bear (C1-040), beef (A2-061), behave (A2-059), behavior → behaviour (B1-035), belong
+      (A2-043), belt (A2-073), benefit → benefits (B2-039), billion (S0), biology (A2-056), bit
+      (A2-061), block (A2-080), blood (B1-034), blow → blows (A2-060), board (A1-019), boil
+      (A2-061), bone (A2-019), borrow (A1-011), boss (B2-016), bottom (A2-073), bowl (A2-046), brain
+      (A2-024), bridge (A1-037), bright (A1-040), brilliant (A2-075), broken (A2-019), brush
+      (A1-016), burn (A2-062), button (A2-053), camp (A2-058), camping (A2-041), campus (A2-050),
+      candy (A2-057), care (A1-004), careful (A2-083), carefully (A1-022), carpet (A2-046), cartoon
+      → cartoons (A1-025), case (C1-006), cash (A2-023), catch (A2-005), cause (B1-029), celebrate
+      (B1-002), celebrity (C1-031), cell → cells (C2-006), century → centuries (C1-051), certain
+      (B2-040), chance (A2-006), character (A2-039), charity (B1-026), chat (A1-015), chef (A2-072),
+      chip → chips (A2-062), choice (A2-022), church (A2-043), cigarette → cigarettes (A2-041),
+      circle (A2-080), classical (C2-020), clear (C1-004), clearly (A1-020), clerk (A2-072), climate
+      (B2-025), closed (A2-078), closet (A2-078), clothing (A2-057), cloud → clouds (A1-032), coach
+      (A2-004), coast (A2-060), code (C2-056), colleague → colleagues (B1-016), collect (A2-044),
+      column → columns (A2-045), comedy (C2-012), comfortable (A2-028), comment (A2-003),
+      communicate (A2-063), community (B2-036), compete (B2-014), competition (B2-014), complain
+      (B1-015), completely (A2-012), condition → conditions (B1-003), conference (A2-050), connect
+      (A2-054), connected (A2-054), consider (B1-013), contain (A2-064), context (C2-050), continent
+      → continents (C1-051), continue (A2-051), control (A2-016), copy (A2-067), corner (A2-014),
+      correctly (A2-080), count (A2-045), couple (A1-038), cover (A2-046), crazy (A2-070), credit
+      (A2-052), crime (B1-024), criminal (A2-059), cross (A1-026), crowd → crowds (B1-028), crowded
+      (A2-083), cry → crying (A2-026), cycle (C2-004), daily (A1-031), danger (B1-028), data
+      (B1-022), dead (A2-069), deal (B1-041), death (B1-029), decision (B1-020), deep (A2-062),
+      definitely (A2-055), degree (B2-018), dentist (A2-072), department (B1-007), depend (A2-052),
+      desert (A2-065), designer → designers (A2-079), dessert (A2-061), destroy (B1-021), detective
+      (A2-077), develop (B1-004), device (C2-015), diary (A2-015), differently (A2-036), digital
+      (B2-018), direct (B2-005), direction → directions (A1-006), director (A2-058), disagree
+      (B1-019), disappear (A2-065), disaster (B1-021), discover (A2-066), discovery (A2-037),
+      discussion (B1-016), disease (B1-029), distance (A2-038), divorced (A2-081), document
+      (A2-008), double (A2-076), download (A2-067), downtown (A2-085), drama (A2-084), drawing
+      (A1-057), dream → dreams (A2-031), driving (A2-056), drop (B2-016), drug → drugs (A2-064), dry
+      (A1-039), earn (A1-011), earth (A2-065), easily (A2-035), education (B1-011), effect (B1-029),
+      either (S0), electricity (B2-032), elevator (A2-075), employ (B1-009), employee (B1-009),
+      employer (B1-009), empty (C2-015), ending (C1-004), energy (B2-015), engine (A2-053), engineer
+      → engineers (C2-048), enormous (B2-006), enter (B2-014), environment (B1-021), equipment
+      (A2-034), error (B2-038), especially (A2-037), essay (B1-008), everywhere (S0), evidence
+      (B2-004), exact (A2-047), exactly (B1-012), excellent (B1-001), except (S0), exist (A2-065),
+      expect (A2-055), experience (B1-005), experiment (A2-051), expert (B1-017), explanation
+      (B1-012), express (B1-017), expression (A2-074), extreme (A2-034), extremely (A2-071), factor
+      (B2-011), factory (C1-054), fail (A2-056), fair (B1-041), fan (A2-034), farming (A1-065),
+      fashion (A2-009), fear (B2-025), feature (B2-024), feed (A2-069), female (A2-077), fever
+      (A2-070), fiction (C1-057), field (B2-010), fight (A2-070), figure (B2-021), film (A1-025),
+      finally (A2-047), finger → fingers (A1-016), fishing (A2-041), fit (A2-015), fix (B2-039),
+      flat (A1-012), flu (A2-005), flying (A1-064), focus (A2-071), following (A2-085), foreign
+      (B2-020), forest → forests (B1-022), fork (A2-048), formal (B1-015), forward (S0), fresh
+      (A2-015), frog (A2-069), furniture (A2-013), further (C1-008), gallery (A2-078), gap (B2-032),
+      garbage (A2-049), gas → gases (B2-025), gate (A1-028), general (B2-008), gift (A2-007), goal
+      (B1-001), gold (A2-077), government (B1-026), grass (A2-015), greet (A2-072), grocery →
+      groceries (A2-082), ground (A2-018), guest (A2-037), guide (A2-001), gun → guns (A2-041),
+      habit (B1-031), hall (A2-004), happily (A1-038), headache (B1-015), heart (A1-017), heat
+      (A1-039), heavy (A2-016), height (A2-047), helpful (A1-026), hero (C2-059), hers (S0), herself
+      (S0), hide (A2-068), hike (A2-051), hill (A2-065), himself (S0), hit (A2-073), hockey
+      (A2-073), hold (B1-035), hole (A2-046), huge (B1-030), human (A1-016), hurt (A2-074), ideal
+      (B1-027), identify (A2-068), ill (A2-018), illness (B1-037), image → images (C2-012),
+      immediately (A2-047), impossible (A2-068), increase (B1-023), incredible (A2-084), individual
+      (C1-043), industry (B2-037), injury (B1-029), insect → insects (A2-044), inside (S0), instead
+      (A2-082), instead of (A2-082), instruction → instructions (A2-038), instructor (A2-063),
+      instrument (A2-075), intelligent (A2-081), international (C1-017), introduction (A2-064),
+      invent (A2-075), invention (A2-075), invitation (A2-055), invite (A1-015), involve (C1-039),
+      itself (S0), jam (A2-048), jazz (A2-067), jewelry → jewellery (A2-077), joke (A2-010),
+      journalist (A2-063), jump (A2-076), kid → kids (A2-032), kill (A2-070), kilometer → kilometre
+      (A2-080), king (A2-043), knee → knees (A2-046), knife (A2-024), knock (A2-078), knowledge
+      (B1-010), lab (A2-050), lady (A2-059), lake (A2-049), lamp (A2-083), laptop (A2-007), laughter
+      (C1-050), law (A2-019), lawyer (A2-070), lazy (C2-045), lead (A2-079), leader (A2-039),
+      learning (A1-017), least (S0), lecture (A2-050), lemon (A2-048), lend (C2-035), less (S0),
+      level → levels (A2-036), lifestyle (A2-033), lift (B2-034), likely (A2-055), link (A2-008),
+      listener (A1-022), lock (A2-078), lost (A2-016), loud (A2-084), loudly (A1-020), low (A2-076),
+      luck (A1-034), lucky (A2-076), mail (A2-044), major (B1-033), male (A2-077), manage (B1-007),
+      manager (B1-007), manner (A2-059), mark (A2-080), marry (A2-081), material → materials
+      (B2-023), math → maths (A2-056), mathematics (A2-056), matter (B1-016), may (S0), mayor
+      (A2-070), media (A2-024), medical (B1-018), medicine (A1-004), memory (A2-016), mention
+      (C1-052), metal (A2-064), method (B1-004), middle (A2-065), might (S0), mind (B1-040), mine
+      (S0), mirror (A2-046), missing (A2-006), mobile (A1-036), monkey → monkeys (A2-069), mostly
+      (A2-052), motorcycle (A2-074), movement (A2-013), musical (A2-084), musician → musicians
+      (A2-079), myself (S0), narrow (C1-028), national (B2-018), nature (A2-030), nearly (S0), neck
+      (A2-062), neither (S0), nervous (A2-028), network (B2-040), noise (A1-005), noisy (A2-084),
+      none (S0), normally (A2-051), notice (A2-047), novel (C2-025), nowhere (S0), nut → nuts
+      (A2-064), offer (B1-018), officer (A2-063), oil (C1-030), onto (S0), opportunity (B1-032),
+      option (A2-022), organization → organisation (B2-017), organize → organise (A2-082), original
+      (C2-035), ourselves (S0), oven (A1-039), overseas (B2-013), owner (A2-043), pack (A2-083),
+      pain (B1-029), painter (A2-081), palace (A2-066), parking (A2-041), particular (A2-071), pass
+      (A2-048), passenger → passengers (A2-055), patient (B2-002), pattern → patterns (B2-001),
+      peace (A2-003), penny → pennies (A2-045), per (S0), percent → per cent (B1-023), perform
+      (A2-084), perhaps (S0), permission (B1-010), personality (A2-071), pet → pets (A2-015),
+      physical (A2-033), pick (A2-085), pilot (A2-063), planet (B1-022), plastic (C1-060), plate
+      (A2-019), platform → platforms (C2-057), pocket (A1-011), polite (A2-059), pollution (B1-021),
+      pop (A2-067), population (B2-008), position (B1-010), possession → possessions (C1-041),
+      possibility (C2-030), poster (A2-042), power (B2-037), predict (A2-068), president (B1-039),
+      prevent (C1-008), printer (A2-053), prison (B2-039), prize (A2-027), process (B1-012), produce
+      (A2-057), professional (B1-018), professor (A2-072), profile (A2-067), progress (B2-002),
+      promise (A2-015), pronounce (A2-068), protect (B1-022), provide (B1-025), public (A2-024),
+      publish (B2-010), pull (C1-036), purpose (B1-012), push (A2-078), quality (B1-003), quantity
+      (A2-052), queen (A2-043), quietly (A2-059), race (A2-027), railroad (A2-054), raise (B2-007),
+      rate (B1-009), rather (S0), reach (A2-035), receive (B1-011), recent (B2-008), reception
+      (A2-050), recipe (A2-011), recognize → recognise (A2-068), record (A2-019), recording
+      (A2-067), recycle (C1-012), reduce (B1-024), refrigerator (A2-075), refuse (B2-030), region
       (C1-043), regular (B1-031), relationship (B1-004), remove (C1-004), repair (C1-008), replace
-      (A2-053), reply (A2-008), request (B2-040), research (B2-010), researcher (B2-010), response
-      (C1-004), rest (A2-026), review (C1-045), rise (B1-033), rock (A2-049), role (A2-037), roof
-      (C1-058), round (S0), route (C1-019), runner (B1-039), running (B1-039), safe (A2-038), salary
-      (B2-014), sale → sales (B1-023), sauce (A2-048), save (A1-011), scene (B1-038), schedule
-      (A2-052), screen (B2-035), sea (A1-012), search (C1-023), season (A2-052), seat (A1-004),
-      secret (A2-010), secretary (A2-058), seem (C1-024), sense (B1-035), separate (C2-045), series
-      (A1-025), serious (B1-037), serve (C1-044), service (A2-033), several (S0), shape → shapes
-      (A2-036), sheet → sheets (A2-045), shoulder → shoulders (A1-016), shout → shouting (A2-026),
-      side → sides (A2-054), sign (B1-019), silver (C2-018), simple (B1-012), since (S0), singing
-      (A2-030), single (C2-018), size (A2-020), skin (B1-022), sky (A2-042), slowly (A1-020),
-      smartphone → smartphones (C2-003), smell (A2-039), smile (A1-015), smoke (A2-047), smoking
-      (A2-026), sneaker → sneakers (A2-057), soap (A2-053), soccer (A2-058), social (A2-024),
-      society (B2-015), sock (A2-053), soft (A1-008), solution (B1-027), solve (B1-027), somewhere
-      (S0), source → sources (B2-023), speaker (A1-020), speech (A1-020), speed (B1-024), spoon
-      (A2-048), square → squares (A1-033), stage (B2-012), stamp → stamps (A2-044), state (B1-040),
-      step (A2-037), stone → stones (A2-044), straight (A2-049), strange (C2-041), strategy
-      (B2-024), stress (B1-007), structure (C1-005), succeed (B1-002), successful (B1-002), such
-      (S0), suddenly (A2-042), suggest (B1-013), suggestion (B1-013), suit (A2-057), support
-      (B1-026), surprise (A1-035), survey (B2-030), symbol (C2-026), system (B1-004), tablet
-      (A2-054), target (A2-006), task (A2-035), taste (A2-039), teaching (A1-054), technology
-      (B1-004), temperature (A2-018), term (B2-039), themselves (S0), thief (A2-005), thin (A2-045),
-      thinking (A2-029), thought (A2-029), throw (A2-049), tie → ties (B2-028), tip (A2-003), tool
-      (A2-024), top (A1-012), touch (A2-002), tour (A2-051), tourism (B2-006), toward → towards
-      (S0), towel (A2-007), toy → toys (A1-024), tradition (A2-051), traditional (B2-009), training
-      (B1-011), transportation (A2-058), traveler → traveller (A2-001), trouble (B1-028), unhappy
-      (A1-038), unit → units (A2-045), united (A2-043), unusual (A2-044), user (A2-024), usual
-      (A2-055), vehicle (B2-029), view (A2-030), village (A1-012), virus (C2-027), voice (A2-016),
-      war (C1-036), web (A2-054), wedding (A2-021), weight (A2-016), wet (A1-032), while (S0), whole
-      (A1-014), whose (S0), wide (A1-028), wild (A2-049), wind (A1-032), winner (A2-027), wish
-      (B1-002), working (A1-023), worried (A2-032), worry (A2-032), worst (B1-008), wow (S0), yet
-      (S0), yours (S0), zero (S0)
+      (A2-053), reply (A2-008), reporter (A2-063), request (B2-040), research (B2-010), researcher
+      (B2-010), response (C1-004), rest (A2-026), review (C1-045), ring (A2-077), rise (B1-033),
+      rock (A2-049), role (A2-037), roof (C1-058), round (S0), route (C1-019), rude (A2-059), runner
+      (B1-039), running (B1-039), safe (A2-038), sail (A2-060), salary (B2-014), sale → sales
+      (B1-023), sauce (A2-048), save (A1-011), scared (A2-074), scene (B1-038), schedule (A2-052),
+      score (A2-073), screen (B2-035), sea (A1-012), search (C1-023), season (A2-052), seat
+      (A1-004), secret (A2-010), secretary (A2-058), seem (C1-024), sense (B1-035), separate
+      (C2-045), series (A1-025), serious (B1-037), serve (C1-044), service (A2-033), several (S0),
+      shake (A2-060), shape → shapes (A2-036), sheet → sheets (A2-045), ship → ships (A2-060),
+      shoulder → shoulders (A1-016), shout → shouting (A2-026), shut (A2-078), side → sides
+      (A2-054), sign (B1-019), silver (C2-018), simple (B1-012), since (S0), singing (A2-030),
+      single (C2-018), site (A2-066), size (A2-020), ski (A2-076), skiing (A2-074), skin (B1-022),
+      sky (A2-042), slowly (A1-020), smartphone → smartphones (C2-003), smell (A2-039), smile
+      (A1-015), smoke (A2-047), smoking (A2-026), sneaker → sneakers (A2-057), soap (A2-053), soccer
+      (A2-058), social (A2-024), society (B2-015), sock (A2-053), soft (A1-008), soldier → soldiers
+      (A2-069), solution (B1-027), solve (B1-027), somewhere (S0), sort (A2-085), source → sources
+      (B2-023), speaker (A1-020), specific (A2-071), speech (A1-020), speed (B1-024), spider
+      (A2-069), spoon (A2-048), square → squares (A1-033), stage (B2-012), stamp → stamps (A2-044),
+      state (B1-040), steal (A2-077), step (A2-037), stomach (A2-074), stone → stones (A2-044),
+      storm (A2-060), stove (A2-061), straight (A2-049), strange (C2-041), strategy (B2-024), stress
+      (B1-007), structure (C1-005), stupid (A2-070), subway (A2-085), succeed (B1-002), successful
+      (B1-002), such (S0), suddenly (A2-042), suggest (B1-013), suggestion (B1-013), suit (A2-057),
+      support (B1-026), surprise (A1-035), survey (B2-030), sweet (A2-061), symbol (C2-026), system
+      (B1-004), tablet (A2-054), target (A2-006), task (A2-035), taste (A2-039), teaching (A1-054),
+      technology (B1-004), temperature (A2-018), term (B2-039), themselves (S0), thief (A2-005),
+      thin (A2-045), thinking (A2-029), thought (A2-029), throw (A2-049), tie → ties (B2-028), tip
+      (A2-003), tool (A2-024), top (A1-012), touch (A2-002), tour (A2-051), tourism (B2-006), toward
+      → towards (S0), towel (A2-007), tower (A2-066), toy → toys (A1-024), track (A2-080), tradition
+      (A2-051), traditional (B2-009), training (B1-011), transportation (A2-058), trash (A2-085),
+      traveler → traveller (A2-001), trouble (B1-028), twin → twins (A2-069), underground (A2-065),
+      unhappy (A1-038), uniform (A2-083), unit → units (A2-045), united (A2-043), unusual (A2-044),
+      user (A2-024), usual (A2-055), valley (A2-066), variety (A2-064), vehicle (B2-029), view
+      (A2-030), village (A1-012), virus (C2-027), voice (A2-016), war (C1-036), washing (A2-082),
+      wave → waves (A2-060), weak (A2-073), web (A2-054), wedding (A2-021), weight (A2-016), wet
+      (A1-032), wheel (A2-075), while (S0), whole (A1-014), whose (S0), wide (A1-028), wild
+      (A2-049), wind (A1-032), winner (A2-027), wish (B1-002), wood (A2-062), working (A1-023),
+      worried (A2-032), worry (A2-032), worst (B1-008), wow (S0), yet (S0), yours (S0), zero (S0)
 
    B1 — 311 of 693 words
       absolutely (B1-019), academic (B1-002), access (B1-011), account (B2-038), achievement
