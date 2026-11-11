@@ -63,11 +63,13 @@ forms: marry – marries – married – married – marrying
 ~ divorced from sb = kimdənsə boşanmış :: divorced = boşanmış
 - marry sb attractive = cazibədar biri ilə evlənmək :: attractive = cazibədar, yaraşıqlı
 - marry sb intelligent = ağıllı biri ilə evlənmək :: intelligent /ɪnˈtelɪdʒənt/ = ağıllı, dərrakəli
+~ thick and curly = qalın və qıvrım (saç haqqında) :: thick = qalın, sıx; curly = qıvrım: thick, curly hair
 - marry sb = kiminləsə evlənmək :: Sözönüsüz: She married him ("with him" səhvdir)
 - marry for sth = nəyəsə görə evlənmək :: marry for love = sevib evlənmək
 > She married an author from Ganja. = O, gəncəli bir yazıçı ilə evləndi.
 > They got married in 2015. = Onlar 2015-ci ildə evləndilər.
 > He is divorced and lives alone. = O, boşanıb və tək yaşayır.
+> Her husband has thick and curly hair. = Onun ərinin qalın və qıvrım saçı var.
 ! MARRY sözönüsüz işlənir: "marry sb" – Azərbaycan dilindəki "ilə" sizi çaşdırmasın ("marry with" səhvdir). Gündəlik dildə "get married (to sb)" daha çox işlənir. Vəziyyət: be married = evli olmaq, be divorced = boşanmış olmaq. INTELLIGENT "ağıllı" deməkdir – "ziyalı" yox.
 
 @ ORGANISE | verb | ˈɔːɡənaɪz | təşkil etmək; qaydaya salmaq

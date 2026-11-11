@@ -116,7 +116,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): EXACERBATE [main], exacerbation [family],
       division, asthma, plight, friction, rift, imbalance, merely, acute
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,639 → 2,649 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,689 → 2,699 items).
 
 ====================================================================================================
 LESSON C2-002   |   UNIT 1: Problems, spread and influence
@@ -176,7 +176,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): AMELIORATE [main], amelioration [family],
       side-effects, squalor, deprivation, ordeal, discomfort, shortcoming, trauma
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,649 → 2,658 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,699 → 2,708 items).
 
 ====================================================================================================
 LESSON C2-003   |   UNIT 1: Problems, spread and influence
@@ -235,7 +235,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): UBIQUITOUS [main], ubiquity [family], ubiquitously
       [family], presence, surveillance, smartphone, billboard, graffiti, gadget, jargon
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,658 → 2,668 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,708 → 2,718 items).
 
 ====================================================================================================
 LESSON C2-004   |   UNIT 1: Problems, spread and influence
@@ -294,7 +294,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): PERNICIOUS [main], perniciously [family], myth,
       doctrine, propaganda, rumour, legacy, gossip, cycle, nonsense
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,668 → 2,678 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,718 → 2,728 items).
 
 ====================================================================================================
 LESSON C2-005   |   UNIT 1: Problems, spread and influence
@@ -354,7 +354,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): PRECARIOUS [main], precariousness [family],
       precariously [family], existence, foothold, ceasefire, truce, equilibrium, perched, cling,
       grip
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,678 → 2,689 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,728 → 2,739 items).
 
 ====================================================================================================
 LESSON C2-006   |   UNIT 1: Problems, spread and influence
@@ -418,7 +418,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): PROLIFERATE [main], proliferation [family],
       non-proliferation [family], nuclear, weapon, cell, bacteria, misinformation, exponentially,
       curb, halt
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,689 → 2,700 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,739 → 2,750 items).
 
 ====================================================================================================
 LESSON C2-007   |   UNIT 1: Problems, spread and influence
@@ -478,7 +478,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): VINDICATE [main], vindication [family], stance,
       judgement, accused, appeal, triumphant, suspicion, instinct
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,700 → 2,709 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,750 → 2,759 items).
 
 ====================================================================================================
 LESSON C2-008   |   UNIT 1: Problems, spread and influence
@@ -538,7 +538,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): CIRCUMVENT [main], circumvention [family],
       regulation, obstacle, censorship, embargo, bureaucracy, tariff, safeguard, veto
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,709 → 2,719 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,759 → 2,769 items).
 
 ====================================================================================================
 LESSON C2-009   |   UNIT 1: Problems, spread and influence
@@ -598,7 +598,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): DISSEMINATE [main], dissemination [family],
       leaflet, literature, expertise, electronically, disinformation, hatred, mass, journal
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,719 → 2,729 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,769 → 2,779 items).
 
 ====================================================================================================
 LESSON C2-010   |   UNIT 1: Problems, spread and influence
@@ -657,14 +657,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): EPITOMISE [main], epitome [family], elegance,
       luxury, sophistication, arrogance, glamour, virtue, dilemma, zeitgeist
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,729 → 2,739 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,779 → 2,789 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 1 (Problems, spread and influence)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: EXACERBATE, AMELIORATE, UBIQUITOUS, PERNICIOUS, PRECARIOUS, PROLIFERATE,
       VINDICATE, CIRCUMVENT, DISSEMINATE, EPITOMISE
-   New items registered in this unit: 100   |   Database total after this unit: 2,739
+   New items registered in this unit: 100   |   Database total after this unit: 2,789
    accused, acute, AMELIORATE, amelioration, appeal, arrogance, asthma, bacteria, billboard,
    bureaucracy, ceasefire, cell, censorship, CIRCUMVENT, circumvention, cling, curb, cycle,
    deprivation, dilemma, discomfort, disinformation, DISSEMINATE, dissemination, division, doctrine,
@@ -741,7 +741,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): GALVANISE [main], galvanised [family], action,
       nation, voter, opposition, troop, volunteer, grassroot, steel
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,739 → 2,749 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,789 → 2,799 items).
 
 ====================================================================================================
 LESSON C2-012   |   UNIT 2: Ideas, argument and debate
@@ -801,7 +801,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): JUXTAPOSE [main], juxtaposition [family], image,
       contrasting, texture, comedy, tragedy, quotation, jarring, incongruous, bizarre
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,749 → 2,760 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,799 → 2,810 items).
 
 ====================================================================================================
 LESSON C2-013   |   UNIT 2: Ideas, argument and debate
@@ -860,7 +860,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): NUANCE [main], nuanced [family], portrayal,
       critique, perspective, linguistic, tone, grasp, appreciate, capture
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,760 → 2,770 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,810 → 2,820 items).
 
 ====================================================================================================
 LESSON C2-014   |   UNIT 2: Ideas, argument and debate
@@ -919,7 +919,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): RAMIFICATION [main], unforeseen, diplomatic,
       geopolitical, wide-ranging, dire, ponder, ecological
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,770 → 2,778 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,820 → 2,828 items).
 
 ====================================================================================================
 LESSON C2-015   |   UNIT 2: Ideas, argument and debate
@@ -977,7 +977,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): RHETORIC [main], rhetorical [family], rhetorically
       [family], inflammatory, populist, empty, reality, device, flourish, purely, escalate
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,778 → 2,789 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,828 → 2,839 items).
 
 ====================================================================================================
 LESSON C2-016   |   UNIT 2: Ideas, argument and debate
@@ -1037,7 +1037,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): UNEQUIVOCAL [main], equivocate [family], equivocal
       [family], unequivocally [family], condemnation, rejection, assurance, declaration, pledge,
       mandate, affirm
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,789 → 2,800 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,839 → 2,850 items).
 
 ====================================================================================================
 LESSON C2-017   |   UNIT 2: Ideas, argument and debate
@@ -1095,7 +1095,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): CONUNDRUM [main], thorny, intriguing, perplexing,
       age-old, grapple, unravel, insoluble
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,800 → 2,808 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,850 → 2,858 items).
 
 ====================================================================================================
 LESSON C2-018   |   UNIT 2: Ideas, argument and debate
@@ -1155,7 +1155,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): PANACEA [main], universal, supposed, hardly, hail,
       so-called, single, silver, bullet
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,808 → 2,817 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,858 → 2,867 items).
 
 ====================================================================================================
 LESSON C2-019   |   UNIT 2: Ideas, argument and debate
@@ -1215,7 +1215,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): DICHOTOMY [main], rigid, fundamental,
       nature-nurture, crude, transcend, artificial, misleading
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,817 → 2,825 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,867 → 2,875 items).
 
 ====================================================================================================
 LESSON C2-020   |   UNIT 2: Ideas, argument and debate
@@ -1274,14 +1274,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): PARADIGM [main], paradigmatic [family], dominant,
       existing, classical, reigning, overturn, holistic, outdated
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,825 → 2,834 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,875 → 2,884 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 2 (Ideas, argument and debate)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: GALVANISE, JUXTAPOSE, NUANCE, RAMIFICATION, RHETORIC, UNEQUIVOCAL,
       CONUNDRUM, PANACEA, DICHOTOMY, PARADIGM
-   New items registered in this unit: 95   |   Database total after this unit: 2,834
+   New items registered in this unit: 95   |   Database total after this unit: 2,884
    action, affirm, age-old, appreciate, artificial, assurance, bizarre, bullet, capture, classical,
    comedy, condemnation, contrasting, CONUNDRUM, critique, crude, declaration, device, DICHOTOMY,
    diplomatic, dire, dominant, ecological, empty, equivocal, equivocate, escalate, existing,
@@ -1356,7 +1356,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): COMPLACENT [main], complacency [family],
       complacently [family], smug, guard, afford, breed, shatter, lull, drift
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,834 → 2,844 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,884 → 2,894 items).
 
 ====================================================================================================
 LESSON C2-022   |   UNIT 3: Qualities and judgements
@@ -1416,7 +1416,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): CONTENTIOUS [main], contention [family], contender
       [family], contend [family], clause, amendment, referendum, merger, title, genuine
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,844 → 2,854 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,894 → 2,904 items).
 
 ====================================================================================================
 LESSON C2-023   |   UNIT 3: Qualities and judgements
@@ -1475,7 +1475,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): INTRINSIC [main], intrinsically [family], merit,
       reward, extrinsic, charm, attribute, worthwhile, intertwined
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,854 → 2,863 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,904 → 2,913 items).
 
 ====================================================================================================
 LESSON C2-024   |   UNIT 3: Qualities and judgements
@@ -1534,7 +1534,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): METICULOUS [main], meticulously [family],
       craftsman, precision, reconstruction, observation, bookkeeping, groomed, rehearsed
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,863 → 2,872 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,913 → 2,922 items).
 
 ====================================================================================================
 LESSON C2-025   |   UNIT 3: Qualities and judgements
@@ -1594,7 +1594,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): PERVASIVE [main], pervasiveness [family], pervade
       [family], all-pervasive [family], atmosphere, odour, theme, cynicism, apathy, gloom, novel,
       discourse
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,872 → 2,884 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,922 → 2,934 items).
 
 ====================================================================================================
 LESSON C2-026   |   UNIT 3: Qualities and judgements
@@ -1652,7 +1652,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): POIGNANT [main], poignancy [family], poignantly
       [family], tribute, farewell, symbol, tale, plea, reunion, evoke
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,884 → 2,894 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,934 → 2,944 items).
 
 ====================================================================================================
 LESSON C2-027   |   UNIT 3: Qualities and judgements
@@ -1711,7 +1711,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): RESURGENCE [main], resurgent [family], nationalism,
       virus, measles, optimism, piracy, unlikely, dollar
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,894 → 2,903 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,944 → 2,953 items).
 
 ====================================================================================================
 LESSON C2-028   |   UNIT 3: Qualities and judgements
@@ -1770,7 +1770,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): TENUOUS [main], tenuously [family], thread,
       alliance, coalition, bond, analogy, basis, parallel, premise
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,903 → 2,913 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,953 → 2,963 items).
 
 ====================================================================================================
 LESSON C2-029   |   UNIT 3: Qualities and judgements
@@ -1829,7 +1829,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): INSIDIOUS [main], insidiously [family], onset,
       enemy, poison, cancer, agenda, undercurrent, flattery, menace
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,913 → 2,923 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,963 → 2,973 items).
 
 ====================================================================================================
 LESSON C2-030   |   UNIT 3: Qualities and judgements
@@ -1888,14 +1888,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): PRECLUDE [main], preclusion [family], possibility,
       prosecution, disclosure, diagnosis, necessarily, reconciliation
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,923 → 2,931 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,973 → 2,981 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 3 (Qualities and judgements)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: COMPLACENT, CONTENTIOUS, INTRINSIC, METICULOUS, PERVASIVE, POIGNANT,
       RESURGENCE, TENUOUS, INSIDIOUS, PRECLUDE
-   New items registered in this unit: 97   |   Database total after this unit: 2,931
+   New items registered in this unit: 97   |   Database total after this unit: 2,981
    afford, agenda, all-pervasive, alliance, amendment, analogy, apathy, atmosphere, attribute,
    basis, bond, bookkeeping, breed, cancer, charm, clause, coalition, complacency, COMPLACENT,
    complacently, contend, contender, contention, CONTENTIOUS, craftsman, cynicism, diagnosis,
@@ -1971,7 +1971,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): SUCCUMB [main], temptation, exhaustion, despair,
       fatigue, wound, lure, blackmail, eventually
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,931 → 2,940 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,981 → 2,990 items).
 
 ====================================================================================================
 LESSON C2-032   |   UNIT 4: Pressure, support and consequences
@@ -2031,7 +2031,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): TANTAMOUNT [main], treason, murder, admission,
       surrender, betrayal, torture, negligence, sabotage
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,940 → 2,949 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,990 → 2,999 items).
 
 ====================================================================================================
 LESSON C2-033   |   UNIT 4: Pressure, support and consequences
@@ -2091,7 +2091,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): UNDERPIN [main], underpinning [family], rationale,
       curriculum, constitution, ethos, tenet, notion, empirical, solid
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,949 → 2,959 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,999 → 3,009 items).
 
 ====================================================================================================
 LESSON C2-034   |   UNIT 4: Pressure, support and consequences
@@ -2150,7 +2150,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FRAUGHT [main], difficulty, peril, complication,
       pitfall, encounter, marriage, frustration, paradox
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,959 → 2,968 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,009 → 3,018 items).
 
 ====================================================================================================
 LESSON C2-035   |   UNIT 4: Pressure, support and consequences
@@ -2209,7 +2209,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): IMPETUS [main], lend, inject, original, tremendous,
       much-needed, derive
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,968 → 2,975 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,018 → 3,025 items).
 
 ====================================================================================================
 LESSON C2-036   |   UNIT 4: Pressure, support and consequences
@@ -2268,7 +2268,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): ENTRENCHED [main], entrenchment [family], entrench
       [family], elite, privilege, monopoly, hierarchy, mindset, stalemate
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,975 → 2,984 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,025 → 3,034 items).
 
 ====================================================================================================
 LESSON C2-037   |   UNIT 4: Pressure, support and consequences
@@ -2328,7 +2328,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): BOLSTER [main], defence, ego, courage, pride,
       immunity, liquidity, turnout, output
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,984 → 2,993 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,034 → 3,043 items).
 
 ====================================================================================================
 LESSON C2-038   |   UNIT 4: Pressure, support and consequences
@@ -2386,7 +2386,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): STRINGENT [main], stringency [family], stringently
       [family], requirement, precaution, oversight, austerity, protocol, supervision, compliance
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (2,993 → 3,003 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,043 → 3,053 items).
 
 ====================================================================================================
 LESSON C2-039   |   UNIT 4: Pressure, support and consequences
@@ -2445,7 +2445,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): SALIENT [main], salience [family], highlight,
       trait, motif, cue, landmark, passage, anecdote, variable
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,003 → 3,013 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,053 → 3,063 items).
 
 ====================================================================================================
 LESSON C2-040   |   UNIT 4: Pressure, support and consequences
@@ -2504,14 +2504,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): REPERCUSSION [main], grave, widespread,
       catastrophic, devastating, adverse, reverberate, dread
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,013 → 3,021 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,063 → 3,071 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 4 (Pressure, support and consequences)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: SUCCUMB, TANTAMOUNT, UNDERPIN, FRAUGHT, IMPETUS, ENTRENCHED, BOLSTER,
       STRINGENT, SALIENT, REPERCUSSION
-   New items registered in this unit: 90   |   Database total after this unit: 3,021
+   New items registered in this unit: 90   |   Database total after this unit: 3,071
    admission, adverse, anecdote, austerity, betrayal, blackmail, BOLSTER, catastrophic, compliance,
    complication, constitution, courage, cue, curriculum, defence, derive, despair, devastating,
    difficulty, dread, ego, elite, empirical, encounter, entrench, ENTRENCHED, entrenchment, ethos,
@@ -2587,7 +2587,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ANOMALY [main], anomalous [family], historical,
       apparent, strange, arise, congenital, spot, rectify, iron
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,021 → 3,031 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,071 → 3,081 items).
 
 ====================================================================================================
 LESSON C2-042   |   UNIT 5: Precision in argument and evidence
@@ -2647,7 +2647,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): ARBITRARY [main], arbitrariness [family],
       arbitrarily [family], detention, threshold, cut-off, dismissal, punishment, whim, assigned,
       category
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,031 → 3,042 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,081 → 3,092 items).
 
 ====================================================================================================
 LESSON C2-043   |   UNIT 5: Precision in argument and evidence
@@ -2707,7 +2707,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): BURGEON [main], burgeoning [family], romance,
       sector, metropolis, deficit, export, empire, workload
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,042 → 3,051 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,092 → 3,101 items).
 
 ====================================================================================================
 LESSON C2-044   |   UNIT 5: Precision in argument and evidence
@@ -2765,7 +2765,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): COGENT [main], cogency [family], cogently
       [family], rebuttal, thesis, exposition, synthesis, appraisal, commentary, prose, concise
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,051 → 3,062 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,101 → 3,112 items).
 
 ====================================================================================================
 LESSON C2-045   |   UNIT 5: Precision in argument and evidence
@@ -2826,7 +2826,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (12): CONFLATE [main], conflation [family], religion,
       ethnicity, journalism, entertainment, equality, uniformity, separate, phenomenon, incident,
       lazy
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,062 → 3,074 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,112 → 3,124 items).
 
 ====================================================================================================
 LESSON C2-046   |   UNIT 5: Precision in argument and evidence
@@ -2886,7 +2886,7 @@ DATABASE UPDATE
    New vocabulary registered in this lesson (11): CONSPICUOUS [main], inconspicuous [family],
       conspicuously [family], absence, display, bravery, exception, extravagance, omission, tattoo,
       doorway
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,074 → 3,085 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,124 → 3,135 items).
 
 ====================================================================================================
 LESSON C2-047   |   UNIT 5: Precision in argument and evidence
@@ -2945,7 +2945,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): CORROBORATE [main], corroboration [family],
       corroborative [family], version, alibi, allegation, assertion, recollection, estimate
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,085 → 3,094 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,135 → 3,144 items).
 
 ====================================================================================================
 LESSON C2-048   |   UNIT 5: Precision in argument and evidence
@@ -3004,7 +3004,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): DEARTH [main], nurse, imagination, rainfall,
       engineer, amenity, vacancy, chronic
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,094 → 3,102 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,144 → 3,152 items).
 
 ====================================================================================================
 LESSON C2-049   |   UNIT 5: Precision in argument and evidence
@@ -3064,7 +3064,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): DELINEATE [main], delineation [family], contour,
       zone, parameter, jurisdiction, frontier, remit, perimeter
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,102 → 3,111 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,152 → 3,161 items).
 
 ====================================================================================================
 LESSON C2-050   |   UNIT 5: Precision in argument and evidence
@@ -3124,14 +3124,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): ELUCIDATE [main], elucidation [family], mechanism,
       pathway, obscure, verse, riddle, intricacy, dynamics, metaphor, context
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,111 → 3,122 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,161 → 3,172 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 5 (Precision in argument and evidence)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: ANOMALY, ARBITRARY, BURGEON, COGENT, CONFLATE, CONSPICUOUS, CORROBORATE,
       DEARTH, DELINEATE, ELUCIDATE
-   New items registered in this unit: 101   |   Database total after this unit: 3,122
+   New items registered in this unit: 101   |   Database total after this unit: 3,172
    absence, alibi, allegation, amenity, anomalous, ANOMALY, apparent, appraisal, arbitrarily,
    arbitrariness, ARBITRARY, arise, assertion, assigned, bravery, BURGEON, burgeoning, category,
    chronic, cogency, COGENT, cogently, commentary, concise, CONFLATE, conflation, congenital,
@@ -3209,7 +3209,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): EPHEMERAL [main], ephemerality [family], pleasure,
       beauty, glory, craze, glimpse, fleeting, sculpture, thrill
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,122 → 3,132 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,172 → 3,182 items).
 
 ====================================================================================================
 LESSON C2-052   |   UNIT 6: Time, tendency and truth
@@ -3269,7 +3269,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): ERADICATE [main], eradication [family], polio,
       smallpox, malaria, terrorism, slavery, pest, superstition, scourge
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,132 → 3,142 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,182 → 3,192 items).
 
 ====================================================================================================
 LESSON C2-053   |   UNIT 6: Time, tendency and truth
@@ -3329,7 +3329,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): FALLACY [main], fallacious [family], gambler,
       sunk-cost, straw-man, refute, debunk, enduring, inference
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,142 → 3,151 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,192 → 3,201 items).
 
 ====================================================================================================
 LESSON C2-054   |   UNIT 6: Time, tendency and truth
@@ -3390,7 +3390,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): IMPEDE [main], impediment [family], flow,
       circulation, breathing, navigation, drainage, pedestrian, formidable
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,151 → 3,160 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,201 → 3,210 items).
 
 ====================================================================================================
 LESSON C2-055   |   UNIT 6: Time, tendency and truth
@@ -3449,7 +3449,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (9): INEXORABLE [main], inexorably [family], countdown,
       slide, tide, fate, descent, climb, logic
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,160 → 3,169 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,210 → 3,219 items).
 
 ====================================================================================================
 LESSON C2-056   |   UNIT 6: Time, tendency and truth
@@ -3509,7 +3509,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): OBFUSCATE [main], obfuscation [family], code,
       paper, trail, blame, wrongdoing, smokescreen, verbal, wilful, evade
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,169 → 3,180 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,219 → 3,230 items).
 
 ====================================================================================================
 LESSON C2-057   |   UNIT 6: Time, tendency and truth
@@ -3568,7 +3568,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (8): PLETHORA [main], app, acronym, website, committee,
       platform, loophole, bewildering
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,180 → 3,188 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,230 → 3,238 items).
 
 ====================================================================================================
 LESSON C2-058   |   UNIT 6: Time, tendency and truth
@@ -3628,7 +3628,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (7): PROPENSITY [main], exaggerate, procrastinate,
       mischief, hoard, innate, conform
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,188 → 3,195 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,238 → 3,245 items).
 
 ====================================================================================================
 LESSON C2-059   |   UNIT 6: Time, tendency and truth
@@ -3687,7 +3687,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (11): QUINTESSENTIAL [main], quintessence [family],
       quintessentially [family], gentleman, villain, hero, pub, seaside, resort, outsider, underdog
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,195 → 3,206 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,245 → 3,256 items).
 
 ====================================================================================================
 LESSON C2-060   |   UNIT 6: Time, tendency and truth
@@ -3746,14 +3746,14 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (10): SPURIOUS [main], spuriously [family], charge,
       lawsuit, signature, sentiment, invoice, credential, comparison, patently
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,206 → 3,216 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (3,256 → 3,266 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 6 (Time, tendency and truth)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: EPHEMERAL, ERADICATE, FALLACY, IMPEDE, INEXORABLE, OBFUSCATE, PLETHORA,
       PROPENSITY, QUINTESSENTIAL, SPURIOUS
-   New items registered in this unit: 94   |   Database total after this unit: 3,216
+   New items registered in this unit: 94   |   Database total after this unit: 3,266
    acronym, app, beauty, bewildering, blame, breathing, charge, circulation, climb, code, committee,
    comparison, conform, countdown, craze, credential, debunk, descent, drainage, enduring,
    EPHEMERAL, ephemerality, ERADICATE, eradication, evade, exaggerate, fallacious, FALLACY, fate,
@@ -3874,7 +3874,7 @@ UPDATED VOCABULARY INDEX — END OF LEVEL C2
       whim 042, wide-ranging 014, widespread 040, wilful 056, workload 043, worthwhile 023, wound
       031, wrongdoing 056, zeitgeist 010, zone 049
 
-   Cumulative database size after C2: 3,216 individual vocabulary items (+ 285 structural words).
+   Cumulative database size after C2: 3,266 individual vocabulary items (+ 285 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL C2

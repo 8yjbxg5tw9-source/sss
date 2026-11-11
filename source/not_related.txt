@@ -98,3 +98,26 @@ store | story
 wait | waiter
 object | objection
 object | objectively
+// Reviewed on 2026-11-11 (A2 expansion)
+arm | army
+attend | attention
+author | authority
+cope | copy
+cover | discover
+ear | earth
+experience | experiment
+finally | fine
+informal | information
+man | manner
+may | mayor
+pen | penny
+polite | political
+polite | politics
+post | poster
+scar | scared
+scar | scary
+skiing | sky
+stair | stay
+trade | tradition
+unit | united
+unit | unity

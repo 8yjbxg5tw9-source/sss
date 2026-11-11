@@ -53,6 +53,12 @@
   near  A2-074 HURT           here A2, reference A1
   near  A2-076 JUMP           here A2, reference A1
   near  A2-085 PICK           here A2, reference A1
+  near  A2-086 AVAILABLE      here A2, reference B1
+  near  A2-087 REACT          here A2, reference B1
+  near  A2-089 RECOMMEND      here A2, reference B1
+  near  A2-091 GUY            here A2, reference A1
+  near  A2-092 ITEM           here A2, reference A1
+  near  A2-093 RESPOND        here A2, reference B1
   near  B1-001 ACHIEVE        here B1, reference A2
   near  B1-002 SUCCEED        here B1, reference A2
   near  B1-003 IMPROVE        here B1, reference A2
@@ -151,7 +157,7 @@
   near  C2-006 PROLIFERATE    here C2, reference C1
   near  C2-032 TANTAMOUNT     here C2, reference C1
   near  C2-054 IMPEDE         here C2, reference C1
-  summary: same=132, one level apart=131, two or more apart=21, not in reference=70
+  summary: same=134, one level apart=137, two or more apart=21, not in reference=70
 
 == COLLOCATES two or more levels ABOVE their lesson level ==
   A1-013 HOUSE        housework        ref B1  "do the housework"
@@ -189,150 +195,26 @@
   A2-067 DOWNLOAD     profile          ref B2  "download a profile"
   A2-068 IMPOSSIBLE   identify         ref B2  "impossible to identify"
   A2-071 FOCUS        particular       ref B2  "a particular focus"
-  count=35
+  A2-090 REFER        god              ref B2  "refer to a god"
+  A2-093 RESPOND      understanding    ref B2  "respond with understanding"
+  A2-093 RESPOND      informal         ref B2  "quite informal"
+  count=38
 
 == COVERAGE of the reference lists by this database ==
-  A1: 937 of 1058 reference headwords (89%)
-  A2: 741 of 1221 reference headwords (61%)
-  B1: 738 of 2099 reference headwords (35%)
-  B2: 424 of 2428 reference headwords (17%)
+  A1: 945 of 1058 reference headwords (89%)
+  A2: 759 of 1221 reference headwords (62%)
+  B1: 753 of 2099 reference headwords (36%)
+  B2: 427 of 2428 reference headwords (18%)
   C1: 107 of 921 reference headwords (12%)
   C2: 70 of 882 reference headwords (8%)
 
 == WORD-FAMILY LINK CANDIDATES not yet reviewed (shared stem; shown to the learner only after review) ==
-  ability | able
-  advertise | advertisement
-  advertise | advertising
-  appear | disappear
-  architect | architecture
-  arm | army
-  assistance | assistant
-  attend | attendance
-  attend | attention
-  attract | attractive
-  author | authority
-  bad | badly
-  behave | behaviour
-  camp | camping
-  care | careful
-  careful | carefully
-  close | closed
-  clothes | clothing
-  coast | coastal
-  collect | collector
-  communicate | communication
-  confer | conference
-  connect | connection
-  connected | connection
-  continue | continuous
-  cook | cooky
-  cooker | cooky
-  cooking | cooky
-  cope | copy
-  correct | correctly
-  cover | coverage
-  cover | discover
-  craze | crazy
-  crowd | crowded
-  dead | deadly
-  dead | death
-  dead | die
-  deep | deeply
-  deep | depth
-  design | designer
-  detect | detective
-  direct | director
-  discover | discovery
-  divorce | divorced
-  drive | driving
-  ear | earth
-  engine | engineer
-  exact | exactly
-  exist | existence
-  exist | existing
-  expect | expectation
-  experience | experiment
-  express | expression
-  extreme | extremely
-  feed | food
-  final | finally
-  finally | fine
-  fish | fishing
-  follow | following
-  gold | golden
-  height | high
-  immediate | immediately
-  impossible | possible
-  introduce | introduction
-  invitation | invite
-  journal | journalist
-  law | lawyer
-  lawyer | legal
-  lead | leader
-  lead | leading
-  likely | unlikely
-  loud | loudly
-  luck | lucky
-  man | manner
-  mark | markedly
-  marriage | marry
-  married | marry
-  may | mayor
-  music | musical
-  music | musician
-  noise | noisy
-  norm | normally
-  office | officer
-  organisation | organise
-  own | owner
-  pack | package
-  paint | painter
-  park | parking
-  particular | particularly
-  pass | passage
-  pen | penny
-  perform | performance
-  person | personality
-  personal | personality
-  polite | politely
-  polite | political
-  polite | politics
-  post | poster
-  produce | product
-  produce | production
-  pronounce | pronunciation
-  quiet | quietly
-  receive | reception
-  record | recording
-  report | reporter
-  ring | ringing
-  scar | scared
-  season | seasonal
-  ski | skiing
-  skiing | sky
-  smoke | smoking
-  sudden | suddenly
-  tour | tourism
-  tour | tourist
-  trade | tradition
-  tradition | traditional
-  transport | transportation
-  uniform | uniformity
-  unit | united
-  unit | unity
-  united | unity
-  unusual | usual
-  variable | variety
-  variety | vary
-  wash | washing
-  weak | weakness
-  wild | wildly
-  count=127   (move each pair to source/related.txt or source/not_related.txt)
+  count=0   (move each pair to source/related.txt or source/not_related.txt)
 
 == IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
   variant A2-040 INTEREST       here /ˈɪntrəst/   Britfone: ˈɪntəɹɪst | ˈɪntɹɪst
-  DIFFER  A2-067 DOWNLOAD       here /ˌdaʊnˈləʊd/   Britfone: dˈaʊnlˌəʊd   [STRESS]
   variant A2-068 IMPOSSIBLE     here /ɪmˈpɒsəbəl/   Britfone: ɪmpˈɒsɪbəl
+  variant A2-087 REACT          here /riˈækt/   Britfone: ɹɪˈækt
   variant B1-005 EXPERIENCE     here /ɪkˈspɪəriəns/   Britfone: ɪkspˈɪəɹɪəns
   variant B1-011 EDUCATION      here /ˌedʒuˈkeɪʃən/   Britfone: ˌɛdjʊkˈeɪʃən
   variant B1-032 OPPORTUNITY    here /ˌɒpəˈtjuːnəti/   Britfone: ˌɒpətjˈuːnɪti
@@ -374,7 +256,7 @@
   "fallback" = ipa-dict en_UK, a second open list used only for words that Britfone does not contain.
   Both lists are open community resources and can contain errors themselves: a DIFFER line is a prompt
   to re-check the word in a printed dictionary, not proof of an error.
-  summary: IPA vs Britfone 3.0.1: agree=273, notation variants=18, differ=1
+  summary: IPA vs Britfone 3.0.1: agree=281, notation variants=19, differ=0
   "reviewed" = differs from the fallback list, re-checked by the author and kept; the reason is given
   in source/ipa_reviewed.txt (an author's judgement, not a machine verification).
   summary: IPA vs fallback list (words missing from Britfone): agree=41, notation variants=7, differ=0, differ but reviewed by the author=14; in neither list=0

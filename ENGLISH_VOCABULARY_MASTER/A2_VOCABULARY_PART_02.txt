@@ -3,9 +3,9 @@ ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL A2 — ELEMENTARY  /  Elementar səviyyə
 ====================================================================================================
 File: A2_VOCABULARY_PART_02.txt   |   Part 2 of 2   |   Generated: 2026-11-11
-Lessons in this file: 9 (9 main-word lessons + 0 fixed-phrase lessons)
-Expressions: 63   |   Fixed phrases: 0   |   Example sentences: 27
-New vocabulary items introduced at level A2: 646   |   Language of usage notes: Azerbaijani
+Lessons in this file: 17 (17 main-word lessons + 0 fixed-phrase lessons)
+Expressions: 120   |   Fixed phrases: 0   |   Example sentences: 52
+New vocabulary items introduced at level A2: 696   |   Language of usage notes: Azerbaijani
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -36,6 +36,9 @@ CONTENTS OF THIS FILE
    UNIT 12 — Jobs and activities  /  Peşələr və fəaliyyətlər
       A2-077 STEAL, A2-078 SHUT, A2-079 LEAD, A2-080 MARK, A2-081 MARRY, A2-082 ORGANISE, A2-083
       PACK, A2-084 PERFORM, A2-085 PICK
+   UNIT 13 — Opinions and reactions  /  Fikirlər və reaksiyalar
+      A2-086 AVAILABLE, A2-087 REACT, A2-088 REALISE, A2-089 RECOMMEND, A2-090 REFER, A2-091 GUY,
+      A2-092 ITEM, A2-093 RESPOND
 
 
 ####################################################################################################
@@ -171,6 +174,8 @@ B. WORD FAMILY
    Verb forms ........ lead (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): leader (A2-039, STRONG); leading
+      (B2-010, RESEARCH)
 
 C. RELATED EXPRESSIONS
    1. Lead the musicians — Musiqiçilərə rəhbərlik etmək
@@ -203,7 +208,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): LEAD [main], musician, athlete, designer,
-      architect, businessmen
+      architect, businessman
    Duplicate check: PASSED — none of these items appears anywhere else in the system (1,197 → 1,203 items).
 
 ====================================================================================================
@@ -225,6 +230,7 @@ B. WORD FAMILY
    Verb forms ........ mark (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): markedly (C1-008, DETERIORATE)
 
 C. RELATED EXPRESSIONS
    1. Mark a circle — Dairəni işarələmək
@@ -279,6 +285,8 @@ B. WORD FAMILY
    Verb forms ........ marry (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): married (A1-003, GET); marriage
+      (C2-034, FRAUGHT)
 
 C. RELATED EXPRESSIONS
    1. Marry a painter — Rəssamla evlənmək
@@ -291,9 +299,11 @@ C. RELATED EXPRESSIONS
       Usage: attractive = cazibədar, yaraşıqlı
    5. Marry sb intelligent — Ağıllı biri ilə evlənmək
       Usage: intelligent /ɪnˈtelɪdʒənt/ = ağıllı, dərrakəli
-   6. Marry sb — Kiminləsə evlənmək
+   6. Thick and curly — Qalın və qıvrım (saç haqqında)  [related]
+      Usage: thick = qalın, sıx; curly = qıvrım: thick, curly hair
+   7. Marry sb — Kiminləsə evlənmək
       Usage: Sözönüsüz: She married him ("with him" səhvdir)
-   7. Marry for sth — Nəyəsə görə evlənmək
+   8. Marry for sth — Nəyəsə görə evlənmək
       Usage: marry for love = sevib evlənmək
 
 D. NATURAL EXAMPLE SENTENCES
@@ -303,6 +313,8 @@ D. NATURAL EXAMPLE SENTENCES
       → Onlar 2015-ci ildə evləndilər.
    3. He is divorced and lives alone.
       → O, boşanıb və tək yaşayır.
+   4. Her husband has thick and curly hair.
+      → Onun ərinin qalın və qıvrım saçı var.
 
 E. USAGE EXPLANATION
    MARRY sözönüsüz işlənir: "marry sb" – Azərbaycan dilindəki "ilə" sizi çaşdırmasın ("marry with"
@@ -310,9 +322,9 @@ E. USAGE EXPLANATION
    olmaq, be divorced = boşanmış olmaq. INTELLIGENT "ağıllı" deməkdir – "ziyalı" yox.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (6): MARRY [main], painter, author, divorced,
-      attractive, intelligent
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,209 → 1,215 items).
+   New vocabulary registered in this lesson (8): MARRY [main], painter, author, divorced,
+      attractive, intelligent, thick, curly
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,209 → 1,217 items).
 
 ====================================================================================================
 LESSON A2-082   |   UNIT 12: Jobs and activities
@@ -333,6 +345,7 @@ B. WORD FAMILY
    Verb forms ........ organise (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): organisation (B2-017, PROFIT)
 
 C. RELATED EXPRESSIONS
    1. Organise an adventure — Macəra (səyahəti) təşkil etmək
@@ -367,7 +380,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): ORGANISE [main], adventure, grocery, washing,
       instead, able
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,215 → 1,221 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,217 → 1,223 items).
 
 ====================================================================================================
 LESSON A2-083   |   UNIT 12: Jobs and activities
@@ -388,6 +401,7 @@ B. WORD FAMILY
    Verb forms ........ pack (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): package (A2-008, SEND)
 
 C. RELATED EXPRESSIONS
    1. Pack a uniform — Formanı çantaya yığmaq
@@ -420,7 +434,7 @@ E. USAGE EXPLANATION
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (5): PACK [main], uniform, lamp, careful, crowded
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,221 → 1,226 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,223 → 1,228 items).
 
 ====================================================================================================
 LESSON A2-084   |   UNIT 12: Jobs and activities
@@ -441,6 +455,7 @@ B. WORD FAMILY
    Verb forms ........ perform (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): performance (B1-003, IMPROVE)
 
 C. RELATED EXPRESSIONS
    1. Perform drama — Dram əsəri oynamaq
@@ -474,7 +489,7 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): PERFORM [main], drama, musical, loud, noisy,
       incredible
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,226 → 1,232 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,228 → 1,234 items).
 
 ====================================================================================================
 LESSON A2-085   |   UNIT 12: Jobs and activities
@@ -530,23 +545,495 @@ E. USAGE EXPLANATION
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): PICK [main], trash, downtown, subway, following,
       sort
-   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,232 → 1,238 items).
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,234 → 1,240 items).
 
 ----------------------------------------------------------------------------------------------------
 UPDATED VOCABULARY INDEX — after UNIT 12 (Jobs and activities)
 ----------------------------------------------------------------------------------------------------
    Main words in this unit: STEAL, SHUT, LEAD, MARK, MARRY, ORGANISE, PACK, PERFORM, PICK
-   New items registered in this unit: 55   |   Database total after this unit: 1,238
-   able, adventure, architect, athlete, attractive, author, block, businessmen, careful, circle,
-   closed, closet, correctly, crowded, designer, detective, divorced, downtown, drama, female,
-   following, gallery, gold, grocery, incredible, instead, intelligent, jewellery, kilometre, knock,
-   lamp, LEAD, lock, loud, male, MARK, MARRY, musical, musician, noisy, ORGANISE, PACK, painter,
-   PERFORM, PICK, push, ring, SHUT, sort, STEAL, subway, track, trash, uniform, washing
+   New items registered in this unit: 57   |   Database total after this unit: 1,240
+   able, adventure, architect, athlete, attractive, author, block, businessman, careful, circle,
+   closed, closet, correctly, crowded, curly, designer, detective, divorced, downtown, drama,
+   female, following, gallery, gold, grocery, incredible, instead, intelligent, jewellery,
+   kilometre, knock, lamp, LEAD, lock, loud, male, MARK, MARRY, musical, musician, noisy, ORGANISE,
+   PACK, painter, PERFORM, PICK, push, ring, SHUT, sort, STEAL, subway, thick, track, trash,
+   uniform, washing
+
+
+####################################################################################################
+#  UNIT 13 — OPINIONS AND REACTIONS
+#  Fikirlər və reaksiyalar
+####################################################################################################
+
+====================================================================================================
+LESSON A2-086   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: AVAILABLE
+Azerbaijani: Mövcud, əlçatan; boş, müsait
+
+A. MAIN WORD
+   English spelling ....... available
+   Azerbaijani meaning .... mövcud, əlçatan; boş, müsait
+   Part of speech ......... adjective
+   British English IPA .... /əˈveɪləbəl/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ —
+   Adjective forms ... available (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Available in print — Çap şəklində mövcud
+      Usage: print = çap; fel kimi: çap etmək
+   2. Certainly available — Əlbəttə (şübhəsiz) mövcud
+      Usage: certainly /ˈsɜːtənli/ = əlbəttə, şübhəsiz
+   3. Not included — Daxil deyil  [related]
+      Usage: included = daxil edilmiş: Breakfast is not included
+   4. Based on sth — Nəyəsə əsaslanan  [related]
+      Usage: based = əsaslanan; yerləşən: based in Baku
+   5. Necessary for sth — Nə üçünsə zəruri  [related]
+      Usage: necessary /ˈnesəsəri/ = zəruri, lazımlı
+   6. Available to sb — Kimin üçünsə əlçatan
+      Usage: The service is available to all students
+   7. Available now — İndi mövcud (satışda)
+      Usage: Tickets are available now
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Tickets are available online.
+      → Biletlər internetdə mövcuddur.
+   2. Is the manager available now?
+      → Müdir indi müsaitdir?
+   3. The film is based on a true story.
+      → Film real hadisəyə əsaslanır.
+
+E. USAGE EXPLANATION
+   AVAILABLE əşya haqqında "əldə etmək mümkün olan", insan haqqında isə "boş, görüşə bilən"
+   deməkdir: I'm available on Monday. Sözönü: available TO sb, available FOR sth. BASED ON –
+   əsaslanan; INCLUDED – qiymətə və ya dəstə daxil; NECESSARY – zəruri (bir "c", iki "s").
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): AVAILABLE [main], print, certainly, included,
+      based, necessary
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,240 → 1,246 items).
+
+====================================================================================================
+LESSON A2-087   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: REACT
+Azerbaijani: Reaksiya vermək, münasibət bildirmək
+
+A. MAIN WORD
+   English spelling ....... react
+   Azerbaijani meaning .... reaksiya vermək, münasibət bildirmək
+   Part of speech ......... verb
+   Key forms .............. react – reacts – reacted – reacted – reacting
+   British English IPA .... /riˈækt/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ react (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): reaction (C1-036, TRIGGER)
+
+C. RELATED EXPRESSIONS
+   1. React to sth — Nəyəsə reaksiya vermək
+      Usage: Sözönü "to"dur
+   2. React sadly — Kədərlə reaksiya vermək
+      Usage: sadly = kədərlə; təəssüf ki
+   3. React to sth scary — Qorxulu bir şeyə reaksiya vermək
+      Usage: scary = qorxulu, vahiməli (danışıq dilində)
+   4. Surprised by sth — Nədənsə təəccüblənmiş  [related]
+      Usage: surprised = təəccüblənmiş
+   5. Rather surprising — Xeyli təəccüblü  [related]
+      Usage: surprising = təəccüblü, gözlənilməz
+   6. Pleased with sth — Nədənsə razı, məmnun  [related]
+      Usage: pleased = məmnun, razı
+   7. React at once — Dərhal reaksiya vermək
+      Usage: at once = dərhal
+
+D. NATURAL EXAMPLE SENTENCES
+   1. How did she react to the news?
+      → O, xəbərə necə reaksiya verdi?
+   2. I was surprised by his answer.
+      → Mən onun cavabından təəccübləndim.
+   3. The teacher was pleased with our work.
+      → Müəllim işimizdən razı qaldı.
+
+E. USAGE EXPLANATION
+   REACT həmişə TO ilə işlənir: react TO the news. İsmi "reaction". SURPRISED insanın hissini (I am
+   surprised), SURPRISING isə hissin səbəbini bildirir (surprising news) – eynilə bored / boring,
+   excited / exciting. PLEASED WITH – razı, məmnun. SCARY – qorxu yaradan; SCARED – qorxmuş.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): REACT [main], sadly, scary, surprised, surprising,
+      pleased
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,246 → 1,252 items).
+
+====================================================================================================
+LESSON A2-088   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: REALISE
+Azerbaijani: Başa düşmək, dərk etmək
+
+A. MAIN WORD
+   English spelling ....... realise
+   Azerbaijani meaning .... başa düşmək, dərk etmək
+   Part of speech ......... verb
+   Key forms .............. realise – realises – realised – realised – realising
+   British English IPA .... /ˈrɪəlaɪz/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ realise (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): real (B1-033, CHALLENGE)
+
+C. RELATED EXPRESSIONS
+   1. Realise sth — Nəyisə dərk etmək
+      Usage: I didn't realise the time
+   2. Recently realise sth — Nəyisə bu yaxınlarda dərk etmək
+      Usage: recently = bu yaxınlarda, son vaxtlar
+   3. Fortunately for sb — Kiminsə xoşbəxtliyindən  [related]
+      Usage: fortunately /ˈfɔːtʃənətli/ = xoşbəxtlikdən
+   4. Unfortunately for sb — Kiminsə bədbəxtliyindən  [related]
+      Usage: unfortunately = təəssüf ki, bədbəxtlikdən
+   5. I suppose so — Yəqin ki, elədir  [related]
+      Usage: suppose /səˈpəʊz/ = güman etmək, fərz etmək
+   6. Used to do sth — Əvvəllər nəyisə edərdi  [related]
+      Usage: used to + fel: keçmişdəki vərdiş; used (sifət) = işlənmiş
+   7. Realise it — Bunu dərk etmək
+      Usage: I didn't realise it
+
+D. NATURAL EXAMPLE SENTENCES
+   1. I suddenly realised that I had left my phone at home.
+      → Birdən başa düşdüm ki, telefonumu evdə qoymuşam.
+   2. Unfortunately, we missed the last bus.
+      → Təəssüf ki, biz sonuncu avtobusu qaçırdıq.
+   3. I used to play football when I was a child.
+      → Uşaq olanda mən futbol oynayardım.
+
+E. USAGE EXPLANATION
+   REALISE (Amerikada: REALIZE) birdən başa düşmək, dərk etməkdir; UNDERSTAND isə mənasını
+   anlamaqdır. USED TO /ˈjuːst tə/ + fel keçmişdə olub indi olmayan vərdişi bildirir: I used to
+   smoke. Sual: Did you use to ...? I SUPPOSE SO – tam əmin olmadan razılaşmaq. FORTUNATELY və
+   UNFORTUNATELY cümlənin əvvəlində vergüllə ayrılır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): REALISE [main], recently, fortunately,
+      unfortunately, suppose, used
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,252 → 1,258 items).
+
+====================================================================================================
+LESSON A2-089   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: RECOMMEND
+Azerbaijani: Tövsiyə etmək, məsləhət görmək
+
+A. MAIN WORD
+   English spelling ....... recommend
+   Azerbaijani meaning .... tövsiyə etmək, məsləhət görmək
+   Part of speech ......... verb
+   Key forms .............. recommend – recommends – recommended – recommended – recommending
+   British English IPA .... /ˌrekəˈmend/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ recommend (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): recommendation (C1-011, IMPLEMENT)
+
+C. RELATED EXPRESSIONS
+   1. Recommend golf — Qolfu tövsiyə etmək
+      Usage: golf = qolf
+   2. Recommend sailing — Yelkənli idmanı tövsiyə etmək
+      Usage: sailing = yelkənli qayıq idmanı; gəmi ilə üzmə
+   3. Recommend physics — Fizikanı tövsiyə etmək
+      Usage: physics /ˈfɪzɪks/ = fizika
+   4. Recommend chemistry — Kimyanı tövsiyə etmək
+      Usage: chemistry /ˈkemɪstri/ = kimya
+   5. Recommend sth creative — Yaradıcı bir şey tövsiyə etmək
+      Usage: creative /kriˈeɪtɪv/ = yaradıcı
+   6. Recommend sth to sb — Nəyisə kiməsə tövsiyə etmək
+      Usage: Sözönü "to"dur
+   7. Recommend doing sth — Nəyisə etməyi tövsiyə etmək
+      Usage: recommend + -ing: I recommend booking early
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Can you recommend a good restaurant?
+      → Yaxşı bir restoran tövsiyə edə bilərsiniz?
+   2. My teacher recommended this book to me.
+      → Müəllimim bu kitabı mənə tövsiyə etdi.
+   3. I recommend booking your tickets early.
+      → Biletləri əvvəlcədən sifariş etməyi tövsiyə edirəm.
+
+E. USAGE EXPLANATION
+   RECOMMEND bir "c", iki "m" ilə yazılır. Qəliblər: recommend sth TO sb; recommend + -ing;
+   recommend that sb do sth. "Recommend me a book" danışıqda eşidilsə də, düzgün forma "recommend a
+   book to me"dir. İsmi "recommendation" – tövsiyə. PHYSICS və MATHEMATICS "-s" ilə bitsə də, təkdə
+   işlənir: Physics is difficult.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): RECOMMEND [main], golf, sailing, physics,
+      chemistry, creative
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,258 → 1,264 items).
+
+====================================================================================================
+LESSON A2-090   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: REFER
+Azerbaijani: İstinad etmək, işarə etmək; nəzərdə tutmaq
+
+A. MAIN WORD
+   English spelling ....... refer
+   Azerbaijani meaning .... istinad etmək, işarə etmək; nəzərdə tutmaq
+   Part of speech ......... verb
+   Key forms .............. refer – refers – referred – referred – referring
+   British English IPA .... /rɪˈfɜː/
+   CEFR level ............. A2 (Elementary)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ refer (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): reference (C1-052, EXPLICIT)
+
+C. RELATED EXPRESSIONS
+   1. Refer to sb/sth — Kiməsə / nəyəsə istinad etmək; nəzərdə tutmaq
+      Usage: Sözönü həmişə "to"dur
+   2. Refer to sb as sir — Kiməsə "cənab" deyə müraciət etmək
+      Usage: sir = cənab (kişiyə nəzakətli müraciət)
+   3. Refer to a god — Bir tanrıya işarə etmək
+      Usage: god = tanrı, ilah; God = Allah
+   4. Refer to the moon — Aya işarə etmək
+      Usage: moon = ay (göy cismi)
+   5. Refer to sb's birth — Kiminsə doğumuna (doğum tarixinə) istinad etmək
+      Usage: birth /bɜːθ/ = doğum, doğuluş: date of birth
+   6. Including sb/sth — Kimsə / nəsə də daxil olmaqla  [related]
+      Usage: including = o cümlədən, daxil olmaqla
+   7. Refer back to sth — Nəyəsə yenidən qayıtmaq (istinad etmək)
+      Usage: refer back to page ten
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Which book are you referring to?
+      → Sən hansı kitabı nəzərdə tutursan?
+   2. Please refer to page ten for more information.
+      → Əlavə məlumat üçün onuncu səhifəyə baxın.
+   3. Six people, including two children, were in the car.
+      → Maşında iki uşaq da daxil olmaqla altı nəfər var idi.
+
+E. USAGE EXPLANATION
+   REFER həmişə TO ilə işlənir və son samit qoşalaşır: referred, referring. Mənaları: bəhs etmək,
+   nəzərdə tutmaq (What does "it" refer to?), mənbəyə baxmaq (refer to a dictionary). İsmi
+   "reference". SIR kişiyə, "madam" qadına nəzakətli müraciətdir. INCLUDING sözönüdür: including me.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): REFER [main], sir, god, moon, birth, including
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,264 → 1,270 items).
+
+====================================================================================================
+LESSON A2-091   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: GUY
+Azerbaijani: Oğlan, kişi (danışıq dilində)
+
+A. MAIN WORD
+   English spelling ....... guy
+   Azerbaijani meaning .... oğlan, kişi (danışıq dilində)
+   Part of speech ......... noun
+   Key forms .............. guy – guys
+   British English IPA .... /ɡaɪ/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ guy (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. An ordinary guy — Adi (sıradan) bir oğlan
+      Usage: ordinary /ˈɔːdənri/ = adi, sıravi
+   2. A typical guy — Tipik oğlan
+      Usage: typical /ˈtɪpɪkəl/ = tipik, səciyyəvi
+   3. A normal guy — Normal oğlan
+      Usage: normal = normal, adi
+   4. An active guy — Fəal oğlan
+      Usage: active = fəal, hərəkətli
+   5. A teenage guy — Yeniyetmə oğlan
+      Usage: teenage = yeniyetmə yaşlı (13–19)
+   6. A guy from here — Buralı bir oğlan
+      Usage: from here = buradan
+   7. One of the guys — Oğlanlardan biri; "özümüzünkü"
+      Usage: He is one of the guys
+
+D. NATURAL EXAMPLE SENTENCES
+   1. He is a nice guy; you will like him.
+      → O, yaxşı oğlandır; xoşun gələcək.
+   2. I am just an ordinary guy from Baku.
+      → Mən Bakıdan olan adi bir oğlanam.
+   3. Hi, guys! How are you?
+      → Salam, uşaqlar! Necəsiniz?
+
+E. USAGE EXPLANATION
+   GUY danışıq dilində "kişi, oğlan" deməkdir (rəsmi: man). Cəmdə "guys" həm kişilərə, həm qadınlara
+   müraciət kimi işlənir: Hi, guys! ORDINARY "adi, xüsusi olmayan", TYPICAL "bir qrupa xas olan",
+   NORMAL "normaya uyğun" deməkdir. TEENAGE sifətdir (teenage children), "teenager" isə isimdir.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): GUY [main], ordinary, typical, normal, active,
+      teenage
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,270 → 1,276 items).
+
+====================================================================================================
+LESSON A2-092   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: ITEM
+Azerbaijani: Əşya, mal; bənd, maddə
+
+A. MAIN WORD
+   English spelling ....... item
+   Azerbaijani meaning .... əşya, mal; bənd, maddə
+   Part of speech ......... noun
+   Key forms .............. item – items
+   British English IPA .... /ˈaɪtəm/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is A2 because the expressions built on it are A2 material.
+
+B. WORD FAMILY
+   Noun forms ........ item (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. An everyday item — Gündəlik əşya
+      Usage: everyday = gündəlik, adi (sifət; bir sözlə yazılır)
+   2. A wooden item — Taxta əşya
+      Usage: wooden = taxtadan, ağacdan düzəldilmiş
+   3. An electric item — Elektriklə işləyən əşya
+      Usage: electric = elektrik (enerjisi ilə işləyən): an electric car
+   4. An electrical item — Elektrik malı
+      Usage: electrical = elektrik ilə bağlı (ümumi): electrical goods
+   5. An electronic item — Elektron cihaz
+      Usage: electronic = elektron: electronic music
+   6. Item by item — Bənd-bənd, bir-bir
+      Usage: check the list item by item
+   7. The first item — Birinci bənd (əşya)
+      Usage: the first item on the list
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Please check every item on the list.
+      → Xahiş edirik, siyahıdakı hər bəndi yoxlayın.
+   2. The shop sells electrical items and wooden toys.
+      → Mağaza elektrik malları və taxta oyuncaqlar satır.
+   3. A phone is now an everyday item.
+      → Telefon indi gündəlik əşyadır.
+
+E. USAGE EXPLANATION
+   ITEM siyahıdakı və ya dəstdəki ayrı-ayrı əşya və ya bənddir: an item of clothing = bir geyim
+   əşyası. Fərqlər: ELECTRIC – elektriklə işləyən konkret şey (an electric guitar); ELECTRICAL –
+   elektrik sahəsi ilə bağlı ümumi anlayış (an electrical engineer); ELECTRONIC – mikrosxemli
+   (electronic devices). EVERYDAY (sifət) bir sözlə, "every day" (hər gün) isə iki sözlə yazılır.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): ITEM [main], everyday, wooden, electric,
+      electrical, electronic
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,276 → 1,282 items).
+
+====================================================================================================
+LESSON A2-093   |   UNIT 13: Opinions and reactions
+====================================================================================================
+MAIN WORD: RESPOND
+Azerbaijani: Cavab vermək; reaksiya göstərmək
+
+A. MAIN WORD
+   English spelling ....... respond
+   Azerbaijani meaning .... cavab vermək; reaksiya göstərmək
+   Part of speech ......... verb
+   Key forms .............. respond – responds – responded – responded – responding
+   British English IPA .... /rɪˈspɒnd/
+   CEFR level ............. A2 (Elementary)
+   Level note ............. The open reference wordlist places this headword at B1; it is taught
+                           here at A2 because the expressions chosen for it are A2 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ respond (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): response (C1-004, AMBIGUOUS)
+
+C. RELATED EXPRESSIONS
+   1. Respond to sb/sth — Kiməsə / nəyəsə cavab vermək
+      Usage: Sözönü "to"dur
+   2. Respond with understanding — Anlayışla cavab vermək
+      Usage: understanding = anlayış, başa düşmə
+   3. Respond according to sth — Nəyəsə uyğun cavab vermək
+      Usage: according to = ...-ə görə, ...-ə əsasən
+   4. Independent of sth — Nədənsə asılı olmayan  [related]
+      Usage: independent = müstəqil, asılı olmayan
+   5. Quite informal — Xeyli qeyri-rəsmi  [related]
+      Usage: informal = qeyri-rəsmi; əksi: formal
+   6. Even worse — Daha da pis  [related]
+      Usage: worse /wɜːs/ = daha pis ("bad" sifətinin müqayisə dərəcəsi)
+   7. Respond by doing sth — Nəsə etməklə cavab vermək
+      Usage: He responded by leaving the room
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She did not respond to my email.
+      → O, mənim elektron məktubuma cavab vermədi.
+   2. According to the news, it will rain tomorrow.
+      → Xəbərlərə görə, sabah yağış yağacaq.
+   3. The weather was bad yesterday, but today it is even worse.
+      → Dünən hava pis idi, amma bu gün daha da pisdir.
+
+E. USAGE EXPLANATION
+   RESPOND "answer" və "reply" fellərinin rəsmi sinonimidir və TO ilə işlənir. İsmi "response".
+   ACCORDING TO mənbəni bildirir: according to the teacher; öz fikrin üçün işlənmir ("according to
+   me" yox – "in my opinion"). WORSE düzgün olmayan müqayisə dərəcəsidir: bad – worse – the worst.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (6): RESPOND [main], understanding, according,
+      independent, informal, worse
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,282 → 1,288 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 13 (Opinions and reactions)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: AVAILABLE, REACT, REALISE, RECOMMEND, REFER, GUY, ITEM, RESPOND
+   New items registered in this unit: 48   |   Database total after this unit: 1,288
+   according, active, AVAILABLE, based, birth, certainly, chemistry, creative, electric, electrical,
+   electronic, everyday, fortunately, god, golf, GUY, included, including, independent, informal,
+   ITEM, moon, necessary, normal, ordinary, physics, pleased, print, REACT, REALISE, recently,
+   RECOMMEND, REFER, RESPOND, sadly, sailing, scary, sir, suppose, surprised, surprising, teenage,
+   typical, understanding, unfortunately, used, wooden, worse
 
 ====================================================================================================
 UPDATED VOCABULARY INDEX — END OF LEVEL A2
 ====================================================================================================
-   Main words covered at A2 (85):
+   Main words covered at A2 (93):
       TRAVEL (001), STAY (002), LEAVE (003), ARRIVE (004), CATCH (005), MISS (006), BRING (007),
       SEND (008), SHOW (009), TELL (010), TRY (011), CHANGE (012), MOVE (013), TURN (014), KEEP
       (015), LOSE (016), FIND (017), FALL (018), BREAK (019), GROW (020), PLAN (021), CHOOSE (022),
@@ -559,96 +1046,104 @@ UPDATED VOCABULARY INDEX — END OF LEVEL A2
       (063), CONTAIN (064), DISAPPEAR (065), DISCOVER (066), DOWNLOAD (067), IMPOSSIBLE (068), FEED
       (069), FIGHT (070), FOCUS (071), GREET (072), HIT (073), HURT (074), INVENT (075), JUMP (076),
       STEAL (077), SHUT (078), LEAD (079), MARK (080), MARRY (081), ORGANISE (082), PACK (083),
-      PERFORM (084), PICK (085)
+      PERFORM (084), PICK (085), AVAILABLE (086), REACT (087), REALISE (088), RECOMMEND (089), REFER
+      (090), GUY (091), ITEM (092), RESPOND (093)
 
-   All vocabulary introduced at A2, A–Z (646 items; the number is the lesson):
-      able 082, abroad 001, accent 039, accommodation 017, advance 023, adventure 082, ADVERTISE
-      057, advertisement 042, agent 001, airline 057, airport 003, ALLOW 041, ancient 066, ankle
-      073, APPEAR 042, appearance 042, appointment 006, architect 079, architecture 071, area 038,
-      army 043, ARRANGE 058, arrangement 058, arrival 004, ARRIVE 004, article 040, asleep 018,
-      assistant 072, athlete 079, ATTEND 050, attention 023, attractive 081, audio 054, author 081,
-      awake 002, award 027, background 052, badly 056, balance 016, ball 005, bean 061, beard 020,
-      beef 061, beginning 006, BEHAVE 059, BELONG 043, belt 073, bike 018, biology 056, bit 061,
-      block 080, blow 060, BOIL 061, bone 019, boring 017, bottom 073, bowl 046, brain 024, BREAK
-      019, brilliant 075, BRING 007, broken 019, BURN 062, business 001, businessmen 079, button
-      053, calm 002, camera 007, camp 058, camping 041, campus 050, candy 057, career 022, careful
-      083, carpet 046, cash 023, CATCH 005, chair 013, championship 027, chance 006, CHANGE 012,
-      channel 012, character 039, check 033, chef 072, chip 062, choice 022, CHOOSE 022, church 043,
-      cigarette 041, circle 080, class 006, clerk 072, closed 078, closet 078, clothing 057, club
-      034, coach 004, coast 060, COLLECT 044, collection 044, column 045, comfortable 028, comment
-      003, common 040, COMMUNICATE 063, completely 012, concert 030, conference 050, CONNECT 054,
-      connected 054, CONTAIN 064, contest 027, CONTINUE 051, control 016, cooky 062, copy 067,
+   All vocabulary introduced at A2, A–Z (696 items; the number is the lesson):
+      able 082, abroad 001, accent 039, accommodation 017, according 093, active 091, advance 023,
+      adventure 082, ADVERTISE 057, advertisement 042, agent 001, airline 057, airport 003, ALLOW
+      041, ancient 066, ankle 073, APPEAR 042, appearance 042, appointment 006, architect 079,
+      architecture 071, area 038, army 043, ARRANGE 058, arrangement 058, arrival 004, ARRIVE 004,
+      article 040, asleep 018, assistant 072, athlete 079, ATTEND 050, attention 023, attractive
+      081, audio 054, author 081, AVAILABLE 086, awake 002, award 027, background 052, badly 056,
+      balance 016, ball 005, based 086, bean 061, beard 020, beef 061, beginning 006, BEHAVE 059,
+      BELONG 043, belt 073, bike 018, biology 056, birth 090, bit 061, block 080, blow 060, BOIL
+      061, bone 019, boring 017, bottom 073, bowl 046, brain 024, BREAK 019, brilliant 075, BRING
+      007, broken 019, BURN 062, business 001, businessman 079, button 053, calm 002, camera 007,
+      camp 058, camping 041, campus 050, candy 057, career 022, careful 083, carpet 046, cash 023,
+      CATCH 005, certainly 086, chair 013, championship 027, chance 006, CHANGE 012, channel 012,
+      character 039, check 033, chef 072, chemistry 089, chip 062, choice 022, CHOOSE 022, church
+      043, cigarette 041, circle 080, class 006, clerk 072, closed 078, closet 078, clothing 057,
+      club 034, coach 004, coast 060, COLLECT 044, collection 044, column 045, comfortable 028,
+      comment 003, common 040, COMMUNICATE 063, completely 012, concert 030, conference 050, CONNECT
+      054, connected 054, CONTAIN 064, contest 027, CONTINUE 051, control 016, cookie 062, copy 067,
       corner 014, correctly 080, COUNT 045, countryside 013, course 022, COVER 046, crazy 070,
-      credit 052, criminal 059, crowded 083, cry 026, culture 036, damage 033, dancing 030, date
-      012, dead 069, deadline 006, deep 062, deeply 029, definitely 055, dentist 072, departure 004,
-      DEPEND 052, desert 065, design 022, designer 079, dessert 061, detail 010, detective 077,
-      diary 015, dictionary 024, diet 033, differ 036, difference 036, DIFFERENT 036, differently
-      036, difficult 017, director 058, DISAPPEAR 065, DISCOVER 066, discovery 037, distance 038,
-      divorced 081, document 008, double 076, DOWNLOAD 067, downtown 085, drama 084, dream 031,
-      driving 056, drug 064, earth 065, ease 035, easily 035, EASY 035, elevator 075, engine 053,
-      ENJOY 030, enjoyable 030, enjoyment 030, entrance 017, equally 037, equipment 034, especially
-      037, Europe 001, event 021, exact 047, exercise 035, exist 065, exit 017, EXPECT 055,
-      experiment 051, expression 074, extra 023, extreme 034, extremely 071, fact 040, FAIL 056,
-      failure 056, fairly 035, FALL 018, false 031, fan 034, far 035, fashion 009, fast 020, fee
-      023, FEED 069, FEEL 028, feeling 028, female 077, ferry 006, fever 070, FIGHT 070, file 008,
-      final 027, finally 047, FIND 017, finding 017, fine 023, fire 005, fishing 041, fit 015,
-      flight 005, flu 005, FOCUS 071, follow 035, following 085, food 011, fork 048, fresh 015,
+      creative 089, credit 052, criminal 059, crowded 083, cry 026, culture 036, curly 081, damage
+      033, dancing 030, date 012, dead 069, deadline 006, deep 062, deeply 029, definitely 055,
+      dentist 072, departure 004, DEPEND 052, desert 065, design 022, designer 079, dessert 061,
+      detail 010, detective 077, diary 015, dictionary 024, diet 033, differ 036, difference 036,
+      DIFFERENT 036, differently 036, difficult 017, director 058, DISAPPEAR 065, DISCOVER 066,
+      discovery 037, distance 038, divorced 081, document 008, double 076, DOWNLOAD 067, downtown
+      085, drama 084, dream 031, driving 056, drug 064, earth 065, ease 035, easily 035, EASY 035,
+      electric 092, electrical 092, electronic 092, elevator 075, engine 053, ENJOY 030, enjoyable
+      030, enjoyment 030, entrance 017, equally 037, equipment 034, especially 037, Europe 001,
+      event 021, everyday 092, exact 047, exercise 035, exist 065, exit 017, EXPECT 055, experiment
+      051, expression 074, extra 023, extreme 034, extremely 071, fact 040, FAIL 056, failure 056,
+      fairly 035, FALL 018, false 031, fan 034, far 035, fashion 009, fast 020, fee 023, FEED 069,
+      FEEL 028, feeling 028, female 077, ferry 006, fever 070, FIGHT 070, file 008, final 027,
+      finally 047, FIND 017, finding 017, fine 023, fire 005, fishing 041, fit 015, flight 005, flu
+      005, FOCUS 071, follow 035, following 085, food 011, fork 048, fortunately 088, fresh 015,
       fridge 025, frog 069, full 026, funny 017, furniture 013, future 021, gallery 078, garbage
-      049, gift 007, gold 077, grass 015, GREET 072, grocery 082, ground 018, GROW 020, grown-up
-      020, growth 020, guest 037, guide 001, gun 041, hall 004, harm 038, HEALTH 033, healthy 033,
-      hear 031, heavy 016, height 047, helmet 038, hide 068, hike 051, hill 065, HIT 073, hobby 040,
-      hockey 073, hole 046, HOPE 031, hopeful 031, hopefully 031, hopeless 031, hospital 004, hungry
-      028, hurry 003, HURT 074, identify 068, ill 018, immediately 047, importance 037, IMPORTANT
-      037, importantly 037, IMPOSSIBLE 068, incredible 084, indoors 002, insect 044, instead 082,
-      instruction 038, instructor 063, instrument 075, insurance 033, intelligent 081, INTEREST 040,
-      interested 040, interesting 040, internet 024, introduction 064, INVENT 075, invention 075,
-      invitation 055, jam 048, jazz 067, jewellery 077, joke 010, journalist 063, journey 021, JUMP
-      076, KEEP 015, keeper 015, kettle 025, kid 032, kill 070, kilometre 080, kind 036, king 043,
-      knee 046, knife 024, knock 078, know 040, lab 050, lady 059, lake 049, lamp 083, laptop 007,
-      laugh 026, law 019, lawyer 070, LEAD 079, leader 039, LEAVE 003, lecture 050, left 014, lemon
-      048, level 036, lie 010, lifestyle 033, light 001, likely 055, link 008, local 011, lock 078,
-      lonely 028, LOSE 016, loser 016, loss 016, lost 016, lottery 027, loud 084, love 018, low 076,
-      lucky 076, luggage 003, mail 044, main 032, male 077, manner 059, MARK 080, MARRY 081,
-      mathematics 056, maths 056, mayor 070, meaning 036, medal 027, media 024, memory 016, mental
-      033, metal 064, middle 065, midnight 004, minute 004, mirror 046, MISS 006, missing 006,
-      monkey 069, mostly 052, motorcycle 074, mouse 005, MOVE 013, movement 013, moving 013, muscle
-      039, musical 084, musician 079, nature 030, neck 062, nervous 028, noisy 084, non-stop 026,
-      normally 051, NOTICE 047, nut 064, officer 063, only 031, option 022, ORGANISE 082, overnight
-      002, owner 043, PACK 083, package 008, page 014, paid 023, painter 081, palace 066, parcel
-      008, Paris 004, parking 041, particular 071, partner 017, PASS 048, passenger 055, passport
-      007, password 012, PAY 023, payment 023, peace 003, penny 045, perfectly 038, PERFORM 084,
-      person 006, personality 071, pet 015, petrol 026, physical 033, PICK 085, picnic 021, pilot
-      063, place 012, PLAN 021, plane 001, planner 021, planning 021, plant 020, plate 019, point
-      037, police 010, polite 059, pop 067, positive 029, post 008, poster 042, potato 020, predict
-      068, pretty 035, printer 053, prize 027, produce 057, professor 072, profile 067, promise 015,
-      pronounce 068, property 016, public 024, push 078, PUT 025, quantity 052, queen 043, quietly
-      059, quiz 009, race 027, railroad 054, reach 035, really 030, reason 010, reception 050,
-      recipe 011, recognise 068, record 019, recording 067, refrigerator 075, relative 002, relax
-      011, remember 011, reminder 008, REPLACE 053, reply 008, reporter 063, respect 009, rest 026,
-      right 014, ring 077, rock 049, role 037, rude 059, rule 019, SAFE 038, safely 038, safety 038,
-      sail 060, sauce 048, scared 074, schedule 052, score 073, season 052, secret 010, secretary
-      058, SEND 008, sender 008, service 033, shake 060, shape 036, share 040, sheet 045, shelf 025,
-      ship 060, short 002, shout 026, SHOW 009, SHUT 078, sick 028, side 054, singing 030, site 066,
-      size 020, ski 076, skiing 074, sky 042, slightly 032, smell 039, smoke 047, smoking 026, snack
-      007, sneaker 057, soap 053, soccer 058, social 024, sock 053, soldier 069, soon 004, sorry
-      028, sort 085, sound 038, special 040, specific 071, spider 069, spoon 048, SPORT 034, sporty
-      034, stadium 034, stairs 076, stamp 044, STAY 002, STEAL 077, step 037, still 031, stomach
-      074, stone 044, STOP 026, STORM 060, stove 061, straight 049, strength 039, strengthen 039,
-      STRONG 039, strongly 039, study 021, stupid 070, subject 012, subway 085, suddenly 042, suit
-      057, sunshine 030, sweet 061, table 003, tablet 054, talent 009, talk 026, tall 020, target
-      006, task 035, taste 039, tax 023, team 034, TELL 010, temperature 018, terribly 032, test
-      035, thief 005, thin 045, thing 037, THINK 029, thinker 029, thinking 029, thirsty 028,
-      thought 029, thoughtful 029, THROW 049, tidy 015, tip 003, tomato 020, tool 024, topic 022,
-      totally 036, touch 002, tour 051, towel 007, tower 066, track 080, tradition 051, transport
-      024, transportation 058, trash 085, TRAVEL 001, traveller 001, trip 021, truth 010, TRY 011,
-      TURN 014, turning 014, twice 029, twin 069, type 036, tyre 012, underground 065, understand
-      011, unhealthy 033, uniform 083, unimportant 037, unit 045, united 043, university 022, unsafe
-      038, unusual 044, USE 024, useful 024, useless 024, user 024, usual 055, valley 066, variety
-      064, view 030, voice 016, volume 014, wallet 016, washing 082, wave 060, weak 073, weakness
-      039, web 054, wedding 021, week 002, weight 016, wheel 075, wild 049, WIN 027, winner 027,
-      winter 034, wood 062, world 001, worried 032, WORRY 032, worrying 032
+      049, gift 007, god 090, gold 077, golf 089, grass 015, GREET 072, grocery 082, ground 018,
+      GROW 020, grown-up 020, growth 020, guest 037, guide 001, gun 041, GUY 091, hall 004, harm
+      038, HEALTH 033, healthy 033, hear 031, heavy 016, height 047, helmet 038, hide 068, hike 051,
+      hill 065, HIT 073, hobby 040, hockey 073, hole 046, HOPE 031, hopeful 031, hopefully 031,
+      hopeless 031, hospital 004, hungry 028, hurry 003, HURT 074, identify 068, ill 018,
+      immediately 047, importance 037, IMPORTANT 037, importantly 037, IMPOSSIBLE 068, included 086,
+      including 090, incredible 084, independent 093, indoors 002, informal 093, insect 044, instead
+      082, instruction 038, instructor 063, instrument 075, insurance 033, intelligent 081, INTEREST
+      040, interested 040, interesting 040, internet 024, introduction 064, INVENT 075, invention
+      075, invitation 055, ITEM 092, jam 048, jazz 067, jewellery 077, joke 010, journalist 063,
+      journey 021, JUMP 076, KEEP 015, keeper 015, kettle 025, kid 032, kill 070, kilometre 080,
+      kind 036, king 043, knee 046, knife 024, knock 078, know 040, lab 050, lady 059, lake 049,
+      lamp 083, laptop 007, laugh 026, law 019, lawyer 070, LEAD 079, leader 039, LEAVE 003, lecture
+      050, left 014, lemon 048, level 036, lie 010, lifestyle 033, light 001, likely 055, link 008,
+      local 011, lock 078, lonely 028, LOSE 016, loser 016, loss 016, lost 016, lottery 027, loud
+      084, love 018, low 076, lucky 076, luggage 003, mail 044, main 032, male 077, manner 059, MARK
+      080, MARRY 081, mathematics 056, maths 056, mayor 070, meaning 036, medal 027, media 024,
+      memory 016, mental 033, metal 064, middle 065, midnight 004, minute 004, mirror 046, MISS 006,
+      missing 006, monkey 069, moon 090, mostly 052, motorcycle 074, mouse 005, MOVE 013, movement
+      013, moving 013, muscle 039, musical 084, musician 079, nature 030, necessary 086, neck 062,
+      nervous 028, noisy 084, non-stop 026, normal 091, normally 051, NOTICE 047, nut 064, officer
+      063, only 031, option 022, ordinary 091, ORGANISE 082, overnight 002, owner 043, PACK 083,
+      package 008, page 014, paid 023, painter 081, palace 066, parcel 008, Paris 004, parking 041,
+      particular 071, partner 017, PASS 048, passenger 055, passport 007, password 012, PAY 023,
+      payment 023, peace 003, penny 045, perfectly 038, PERFORM 084, person 006, personality 071,
+      pet 015, petrol 026, physical 033, physics 089, PICK 085, picnic 021, pilot 063, place 012,
+      PLAN 021, plane 001, planner 021, planning 021, plant 020, plate 019, pleased 087, point 037,
+      police 010, polite 059, pop 067, positive 029, post 008, poster 042, potato 020, predict 068,
+      pretty 035, print 086, printer 053, prize 027, produce 057, professor 072, profile 067,
+      promise 015, pronounce 068, property 016, public 024, push 078, PUT 025, quantity 052, queen
+      043, quietly 059, quiz 009, race 027, railroad 054, reach 035, REACT 087, REALISE 088, really
+      030, reason 010, recently 088, reception 050, recipe 011, recognise 068, RECOMMEND 089, record
+      019, recording 067, REFER 090, refrigerator 075, relative 002, relax 011, remember 011,
+      reminder 008, REPLACE 053, reply 008, reporter 063, respect 009, RESPOND 093, rest 026, right
+      014, ring 077, rock 049, role 037, rude 059, rule 019, sadly 087, SAFE 038, safely 038, safety
+      038, sail 060, sailing 089, sauce 048, scared 074, scary 087, schedule 052, score 073, season
+      052, secret 010, secretary 058, SEND 008, sender 008, service 033, shake 060, shape 036, share
+      040, sheet 045, shelf 025, ship 060, short 002, shout 026, SHOW 009, SHUT 078, sick 028, side
+      054, singing 030, sir 090, site 066, size 020, ski 076, skiing 074, sky 042, slightly 032,
+      smell 039, smoke 047, smoking 026, snack 007, sneaker 057, soap 053, soccer 058, social 024,
+      sock 053, soldier 069, soon 004, sorry 028, sort 085, sound 038, special 040, specific 071,
+      spider 069, spoon 048, SPORT 034, sporty 034, stadium 034, stair 076, stamp 044, STAY 002,
+      STEAL 077, step 037, still 031, stomach 074, stone 044, STOP 026, STORM 060, stove 061,
+      straight 049, strength 039, strengthen 039, STRONG 039, strongly 039, study 021, stupid 070,
+      subject 012, subway 085, suddenly 042, suit 057, sunshine 030, suppose 088, surprised 087,
+      surprising 087, sweet 061, table 003, tablet 054, talent 009, talk 026, tall 020, target 006,
+      task 035, taste 039, tax 023, team 034, teenage 091, TELL 010, temperature 018, terribly 032,
+      test 035, thick 081, thief 005, thin 045, thing 037, THINK 029, thinker 029, thinking 029,
+      thirsty 028, thought 029, thoughtful 029, THROW 049, tidy 015, tip 003, tomato 020, tool 024,
+      topic 022, totally 036, touch 002, tour 051, towel 007, tower 066, track 080, tradition 051,
+      transport 024, transportation 058, trash 085, TRAVEL 001, traveller 001, trip 021, truth 010,
+      TRY 011, TURN 014, turning 014, twice 029, twin 069, type 036, typical 091, tyre 012,
+      underground 065, understand 011, understanding 093, unfortunately 088, unhealthy 033, uniform
+      083, unimportant 037, unit 045, united 043, university 022, unsafe 038, unusual 044, USE 024,
+      used 088, useful 024, useless 024, user 024, usual 055, valley 066, variety 064, view 030,
+      voice 016, volume 014, wallet 016, washing 082, wave 060, weak 073, weakness 039, web 054,
+      wedding 021, week 002, weight 016, wheel 075, wild 049, WIN 027, winner 027, winter 034, wood
+      062, wooden 092, world 001, worried 032, WORRY 032, worrying 032, worse 093
 
-   Cumulative database size after A2: 1,238 individual vocabulary items (+ 285 structural words).
+   Cumulative database size after A2: 1,288 individual vocabulary items (+ 285 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL A2

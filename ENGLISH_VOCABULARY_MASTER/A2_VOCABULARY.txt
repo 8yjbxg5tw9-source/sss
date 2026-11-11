@@ -5,7 +5,7 @@ LEVEL A2 — ELEMENTARY  /  Elementar səviyyə
 File: A2_VOCABULARY.txt   |   Part 1 of 2   |   Generated: 2026-11-11
 Lessons in this file: 76 (76 main-word lessons + 0 fixed-phrase lessons)
 Expressions: 572   |   Fixed phrases: 0   |   Example sentences: 268
-New vocabulary items introduced at level A2: 646   |   Language of usage notes: Azerbaijani
+New vocabulary items introduced at level A2: 696   |   Language of usage notes: Azerbaijani
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -1535,6 +1535,7 @@ B. WORD FAMILY
    Verb forms ........ use (main word)
    Adjective forms ... useful — faydalı; useless — faydasız, yararsız
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): used (A2-088, REALISE)
 
 C. RELATED EXPRESSIONS
    1. Use the internet — İnternetdən istifadə etmək
@@ -2686,6 +2687,7 @@ B. WORD FAMILY
    Verb forms ........ appear (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): DISAPPEAR (A2-065, DISAPPEAR)
 
 C. RELATED EXPRESSIONS
    1. Appear suddenly — Qəflətən peyda olmaq
@@ -2797,6 +2799,7 @@ B. WORD FAMILY
    Verb forms ........ collect (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): collector (C1-049, DISCERN)
 
 C. RELATED EXPRESSIONS
    1. Collect stamps — Marka toplamaq
@@ -2906,6 +2909,7 @@ B. WORD FAMILY
    Verb forms ........ cover (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): coverage (B2-040, EXTENT)
 
 C. RELATED EXPRESSIONS
    1. Cover the bowl — Kasanın üstünü örtmək
@@ -3013,6 +3017,7 @@ B. WORD FAMILY
    Verb forms ........ pass (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): passage (C2-039, SALIENT)
 
 C. RELATED EXPRESSIONS
    1. Pass the sauce — Sousu ötürmək (uzatmaq)
@@ -3142,6 +3147,7 @@ B. WORD FAMILY
    Verb forms ........ attend (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): attendance (C1-006, COMPELLING)
 
 C. RELATED EXPRESSIONS
    1. Attend a lecture — Mühazirədə iştirak etmək
@@ -3196,6 +3202,7 @@ B. WORD FAMILY
    Verb forms ........ continue (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): continuous (B2-002, ASSESS)
 
 C. RELATED EXPRESSIONS
    1. Continue the tradition — Ənənəni davam etdirmək
@@ -3360,6 +3367,7 @@ B. WORD FAMILY
    Verb forms ........ connect (main word)
    Adjective forms ... connected — bağlı, əlaqəli, həmçinin qoşulmuş
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): connection (B2-028, ESTABLISH)
 
 C. RELATED EXPRESSIONS
    1. Connect a tablet — Planşeti qoşmaq
@@ -3414,6 +3422,7 @@ B. WORD FAMILY
    Verb forms ........ expect (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): expectation (C1-034, LEGITIMATE)
 
 C. RELATED EXPRESSIONS
    1. Expect passengers — Sərnişinləri gözləmək
@@ -3525,6 +3534,8 @@ B. WORD FAMILY
    Verb forms ........ advertise (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): advertisement (A2-042, APPEAR);
+      advertising (B2-022, CAMPAIGN)
 
 C. RELATED EXPRESSIONS
    1. Advertise sneakers — İdman ayaqqabılarını reklam etmək
@@ -3658,6 +3669,7 @@ B. WORD FAMILY
    Verb forms ........ behave (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): behaviour (B1-035, RESPONSIBLE)
 
 C. RELATED EXPRESSIONS
    1. Behave in a rude manner — Kobud tərzdə davranmaq
@@ -3851,7 +3863,7 @@ E. USAGE EXPLANATION
    kimi "yanıq" deməkdir. CHIPS Britaniyada qızardılmış kartof, Amerikada isə çipsdir.
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (6): BURN [main], wood, cooky, chip, neck, deep
+   New vocabulary registered in this lesson (6): BURN [main], wood, cookie, chip, neck, deep
    Duplicate check: PASSED — none of these items appears anywhere else in the system (1,088 → 1,094 items).
 
 ====================================================================================================
@@ -3873,6 +3885,7 @@ B. WORD FAMILY
    Verb forms ........ communicate (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): communication (B1-006, SKILL)
 
 C. RELATED EXPRESSIONS
    1. Communicate with sb — Kiminləsə ünsiyyət qurmaq
@@ -3984,6 +3997,7 @@ B. WORD FAMILY
    Verb forms ........ disappear (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): APPEAR (A2-042, APPEAR)
 
 C. RELATED EXPRESSIONS
    1. Disappear underground — Yerin altında yox olmaq
@@ -4038,6 +4052,7 @@ B. WORD FAMILY
    Verb forms ........ discover (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): discovery (A2-037, IMPORTANT)
 
 C. RELATED EXPRESSIONS
    1. Discover a palace — Saray aşkar etmək (kəşf etmək)
@@ -4084,7 +4099,7 @@ A. MAIN WORD
    Azerbaijani meaning .... (internetdən) yükləmək; yükləmə
    Part of speech ......... verb, noun
    Key forms .............. download – downloads – downloaded – downloaded – downloading
-   British English IPA .... /ˌdaʊnˈləʊd/
+   British English IPA .... /ˌdaʊnˈləʊd/ (verb)/, /ˈdaʊnləʊd/ (noun)/
    CEFR level ............. A2 (Elementary)
 
 B. WORD FAMILY
@@ -4119,8 +4134,9 @@ D. NATURAL EXAMPLE SENTENCES
 
 E. USAGE EXPLANATION
    DOWNLOAD internetdən öz cihazına fayl yükləməkdir; əksi UPLOAD-dur (öz cihazından internetə
-   yükləmək). Həm fel, həm isimdir: a free download. COPY həm isim (a copy of the letter), həm də
-   feldir (copy the text). PROFILE sosial şəbəkədə şəxsi səhifə mənasında da işlənir.
+   yükləmək). Həm fel, həm isimdir: a free download. Vurğu fərqlidir: feldə ikinci hecada
+   (downLOAD), isimdə birinci hecada (DOWNload). COPY həm isim (a copy of the letter), həm də feldir
+   (copy the text). PROFILE sosial şəbəkədə şəxsi səhifə mənasında da işlənir.
 
 DATABASE UPDATE
    New vocabulary registered in this lesson (6): DOWNLOAD [main], recording, profile, copy, jazz,
@@ -4133,7 +4149,7 @@ UPDATED VOCABULARY INDEX — after UNIT 10 (People, nature and food)
    Main words in this unit: BEHAVE, STORM, BOIL, BURN, COMMUNICATE, CONTAIN, DISAPPEAR, DISCOVER,
       DOWNLOAD
    New items registered in this unit: 58   |   Database total after this unit: 1,125
-   ancient, bean, beef, BEHAVE, bit, blow, BOIL, BURN, chip, coast, COMMUNICATE, CONTAIN, cooky,
+   ancient, bean, beef, BEHAVE, bit, blow, BOIL, BURN, chip, coast, COMMUNICATE, CONTAIN, cookie,
    copy, criminal, deep, desert, dessert, DISAPPEAR, DISCOVER, DOWNLOAD, drug, earth, exist, hill,
    instructor, introduction, jazz, journalist, lady, manner, metal, middle, neck, nut, officer,
    palace, pilot, polite, pop, profile, quietly, recording, reporter, rude, sail, shake, ship, site,
@@ -4163,6 +4179,7 @@ B. WORD FAMILY
    Verb forms ........ —
    Adjective forms ... impossible (main word)
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): possible (B1-012, EXPLAIN)
 
 C. RELATED EXPRESSIONS
    1. Impossible to predict — Qabaqcadan demək mümkün deyil
@@ -4220,6 +4237,7 @@ B. WORD FAMILY
    Verb forms ........ feed (main word)
    Adjective forms ... —
    Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): food (A2-011, TRY)
 
 C. RELATED EXPRESSIONS
    1. Feed the monkeys — Meymunları yemləmək
@@ -4639,7 +4657,7 @@ E. USAGE EXPLANATION
    jump = uzunluğa tullanma. LUCKY sifətdir: You are lucky! = Bəxtin gətirib!
 
 DATABASE UPDATE
-   New vocabulary registered in this lesson (6): JUMP [main], stairs, ski, low, double, lucky
+   New vocabulary registered in this lesson (6): JUMP [main], stair, ski, low, double, lucky
    Duplicate check: PASSED — none of these items appears anywhere else in the system (1,177 → 1,183 items).
 
 ----------------------------------------------------------------------------------------------------
@@ -4651,5 +4669,5 @@ UPDATED VOCABULARY INDEX — after UNIT 11 (Body, sport and ability)
    double, elevator, expression, extremely, FEED, fever, FIGHT, FOCUS, frog, GREET, hide, HIT,
    hockey, HURT, identify, IMPOSSIBLE, instrument, INVENT, invention, JUMP, kill, lawyer, low,
    lucky, mayor, monkey, motorcycle, particular, personality, predict, professor, pronounce,
-   recognise, refrigerator, scared, score, ski, skiing, soldier, specific, spider, stairs, stomach,
+   recognise, refrigerator, scared, score, ski, skiing, soldier, specific, spider, stair, stomach,
    stupid, twin, weak, wheel

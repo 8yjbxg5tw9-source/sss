@@ -32,6 +32,7 @@ assume	B1
 attend	B1
 attitude	A2
 autonomy	-
+available	B1
 avoid	A2
 bear	A1
 become	A1
@@ -170,6 +171,7 @@ go	A1
 good	A1
 greet	A1
 grow	A1
+guy	A1
 habit	A1
 happy	A1
 hate	A2
@@ -202,6 +204,7 @@ introduce	A1
 invent	A2
 invest	B1
 issue	A2
+item	A1
 jump	A1
 juxtapose	-
 keep	A1
@@ -272,14 +275,19 @@ provide	A2
 put	A1
 quintessential	-
 ramification	-
+react	B1
 read	A1
+realise	A2
+recommend	B1
 reduce	B1
+refer	A2
 reinforce	B2
 repercussion	-
 replace	A2
 research	A2
 resilient	C1
 resource	B1
+respond	B1
 responsible	B1
 restrict	B1
 resurgence	-

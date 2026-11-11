@@ -7,3 +7,6 @@ pants = pants  # plural-only noun (AmE: şalvar)
 happened = happen
 crying = cry  # "stop crying" teaches the verb cry
 shouting = shout  # "stop shouting" teaches the verb shout
+businessmen = businessman
+cookies = cookie
+stairs = stair

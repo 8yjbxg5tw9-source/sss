@@ -112,7 +112,7 @@ forms: discover – discovers – discovered – discovered – discovering
 > I discovered that my phone was missing. = Mən telefonumun yoxa çıxdığını aşkar etdim.
 ! DISCOVER artıq mövcud olan, lakin məlum olmayan bir şeyi tapmaqdır (discover a new island); INVENT isə əvvəl olmayan bir şeyi yaratmaqdır (invent the telephone). İsmi "discovery" – kəşf. ANCIENT çox qədim dövrlərə aiddir: ancient Rome; adi "köhnə" üçün "old" deyilir.
 
-@ DOWNLOAD | verb, noun | ˌdaʊnˈləʊd | (internetdən) yükləmək; yükləmə
+@ DOWNLOAD | verb, noun | ˌdaʊnˈləʊd (verb), ˈdaʊnləʊd (noun) | (internetdən) yükləmək; yükləmə
 forms: download – downloads – downloaded – downloaded – downloading
 - download a recording = səs (və ya video) yazısını yükləmək :: recording = səsyazma, lent yazısı
 - download a profile = profili yükləmək :: profile /ˈprəʊfaɪl/ = profil; qısa xarakteristika
@@ -124,4 +124,4 @@ forms: download – downloads – downloaded – downloaded – downloading
 > You can download a copy of the book for free. = Kitabın surətini pulsuz yükləyə bilərsiniz.
 > I downloaded some jazz for the party. = Mən şənlik üçün bir az caz musiqisi yüklədim.
 > The download takes about five minutes. = Yükləmə təxminən beş dəqiqə çəkir.
-! DOWNLOAD internetdən öz cihazına fayl yükləməkdir; əksi UPLOAD-dur (öz cihazından internetə yükləmək). Həm fel, həm isimdir: a free download. COPY həm isim (a copy of the letter), həm də feldir (copy the text). PROFILE sosial şəbəkədə şəxsi səhifə mənasında da işlənir.
+! DOWNLOAD internetdən öz cihazına fayl yükləməkdir; əksi UPLOAD-dur (öz cihazından internetə yükləmək). Həm fel, həm isimdir: a free download. Vurğu fərqlidir: feldə ikinci hecada (downLOAD), isimdə birinci hecada (DOWNload). COPY həm isim (a copy of the letter), həm də feldir (copy the text). PROFILE sosial şəbəkədə şəxsi səhifə mənasında da işlənir.

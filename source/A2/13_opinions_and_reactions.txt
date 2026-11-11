@@ -1,0 +1,112 @@
+// A2 expansion (Oxford 3000 list): every lesson teaches six A2 words of the list.
+## Opinions and reactions | Fikirlər və reaksiyalar
+@ AVAILABLE | adjective | əˈveɪləbəl | mövcud, əlçatan; boş, müsait
+- available in print = çap şəklində mövcud :: print = çap; fel kimi: çap etmək
+- certainly available = əlbəttə (şübhəsiz) mövcud :: certainly /ˈsɜːtənli/ = əlbəttə, şübhəsiz
+~ not included = daxil deyil :: included = daxil edilmiş: Breakfast is not included
+~ based on sth = nəyəsə əsaslanan :: based = əsaslanan; yerləşən: based in Baku
+~ necessary for sth = nə üçünsə zəruri :: necessary /ˈnesəsəri/ = zəruri, lazımlı
+- available to sb = kimin üçünsə əlçatan :: The service is available to all students
+- available now = indi mövcud (satışda) :: Tickets are available now
+> Tickets are available online. = Biletlər internetdə mövcuddur.
+> Is the manager available now? = Müdir indi müsaitdir?
+> The film is based on a true story. = Film real hadisəyə əsaslanır.
+! AVAILABLE əşya haqqında "əldə etmək mümkün olan", insan haqqında isə "boş, görüşə bilən" deməkdir: I'm available on Monday. Sözönü: available TO sb, available FOR sth. BASED ON – əsaslanan; INCLUDED – qiymətə və ya dəstə daxil; NECESSARY – zəruri (bir "c", iki "s").
+
+@ REACT | verb | riˈækt | reaksiya vermək, münasibət bildirmək
+forms: react – reacts – reacted – reacted – reacting
+- react to sth = nəyəsə reaksiya vermək :: Sözönü "to"dur
+- react sadly = kədərlə reaksiya vermək :: sadly = kədərlə; təəssüf ki
+- react to sth scary = qorxulu bir şeyə reaksiya vermək :: scary = qorxulu, vahiməli (danışıq dilində)
+~ surprised by sth = nədənsə təəccüblənmiş :: surprised = təəccüblənmiş
+~ rather surprising = xeyli təəccüblü :: surprising = təəccüblü, gözlənilməz
+~ pleased with sth = nədənsə razı, məmnun :: pleased = məmnun, razı
+- react at once = dərhal reaksiya vermək :: at once = dərhal
+> How did she react to the news? = O, xəbərə necə reaksiya verdi?
+> I was surprised by his answer. = Mən onun cavabından təəccübləndim.
+> The teacher was pleased with our work. = Müəllim işimizdən razı qaldı.
+! REACT həmişə TO ilə işlənir: react TO the news. İsmi "reaction". SURPRISED insanın hissini (I am surprised), SURPRISING isə hissin səbəbini bildirir (surprising news) – eynilə bored / boring, excited / exciting. PLEASED WITH – razı, məmnun. SCARY – qorxu yaradan; SCARED – qorxmuş.
+
+@ REALISE | verb | ˈrɪəlaɪz | başa düşmək, dərk etmək
+forms: realise – realises – realised – realised – realising
+- realise sth = nəyisə dərk etmək :: I didn't realise the time
+- recently realise sth = nəyisə bu yaxınlarda dərk etmək :: recently = bu yaxınlarda, son vaxtlar
+~ fortunately for sb = kiminsə xoşbəxtliyindən :: fortunately /ˈfɔːtʃənətli/ = xoşbəxtlikdən
+~ unfortunately for sb = kiminsə bədbəxtliyindən :: unfortunately = təəssüf ki, bədbəxtlikdən
+~ I suppose so = yəqin ki, elədir :: suppose /səˈpəʊz/ = güman etmək, fərz etmək
+~ used to do sth = əvvəllər nəyisə edərdi :: used to + fel: keçmişdəki vərdiş; used (sifət) = işlənmiş
+- realise it = bunu dərk etmək :: I didn't realise it
+> I suddenly realised that I had left my phone at home. = Birdən başa düşdüm ki, telefonumu evdə qoymuşam.
+> Unfortunately, we missed the last bus. = Təəssüf ki, biz sonuncu avtobusu qaçırdıq.
+> I used to play football when I was a child. = Uşaq olanda mən futbol oynayardım.
+! REALISE (Amerikada: REALIZE) birdən başa düşmək, dərk etməkdir; UNDERSTAND isə mənasını anlamaqdır. USED TO /ˈjuːst tə/ + fel keçmişdə olub indi olmayan vərdişi bildirir: I used to smoke. Sual: Did you use to ...? I SUPPOSE SO – tam əmin olmadan razılaşmaq. FORTUNATELY və UNFORTUNATELY cümlənin əvvəlində vergüllə ayrılır.
+
+@ RECOMMEND | verb | ˌrekəˈmend | tövsiyə etmək, məsləhət görmək
+forms: recommend – recommends – recommended – recommended – recommending
+- recommend golf = qolfu tövsiyə etmək :: golf = qolf
+- recommend sailing = yelkənli idmanı tövsiyə etmək :: sailing = yelkənli qayıq idmanı; gəmi ilə üzmə
+- recommend physics = fizikanı tövsiyə etmək :: physics /ˈfɪzɪks/ = fizika
+- recommend chemistry = kimyanı tövsiyə etmək :: chemistry /ˈkemɪstri/ = kimya
+- recommend sth creative = yaradıcı bir şey tövsiyə etmək :: creative /kriˈeɪtɪv/ = yaradıcı
+- recommend sth to sb = nəyisə kiməsə tövsiyə etmək :: Sözönü "to"dur
+- recommend doing sth = nəyisə etməyi tövsiyə etmək :: recommend + -ing: I recommend booking early
+> Can you recommend a good restaurant? = Yaxşı bir restoran tövsiyə edə bilərsiniz?
+> My teacher recommended this book to me. = Müəllimim bu kitabı mənə tövsiyə etdi.
+> I recommend booking your tickets early. = Biletləri əvvəlcədən sifariş etməyi tövsiyə edirəm.
+! RECOMMEND bir "c", iki "m" ilə yazılır. Qəliblər: recommend sth TO sb; recommend + -ing; recommend that sb do sth. "Recommend me a book" danışıqda eşidilsə də, düzgün forma "recommend a book to me"dir. İsmi "recommendation" – tövsiyə. PHYSICS və MATHEMATICS "-s" ilə bitsə də, təkdə işlənir: Physics is difficult.
+
+@ REFER | verb | rɪˈfɜː | istinad etmək, işarə etmək; nəzərdə tutmaq
+forms: refer – refers – referred – referred – referring
+- refer to sb/sth = kiməsə / nəyəsə istinad etmək; nəzərdə tutmaq :: Sözönü həmişə "to"dur
+- refer to sb as sir = kiməsə "cənab" deyə müraciət etmək :: sir = cənab (kişiyə nəzakətli müraciət)
+- refer to a god = bir tanrıya işarə etmək :: god = tanrı, ilah; God = Allah
+- refer to the moon = aya işarə etmək :: moon = ay (göy cismi)
+- refer to sb's birth = kiminsə doğumuna (doğum tarixinə) istinad etmək :: birth /bɜːθ/ = doğum, doğuluş: date of birth
+~ including sb/sth = kimsə / nəsə də daxil olmaqla :: including = o cümlədən, daxil olmaqla
+- refer back to sth = nəyəsə yenidən qayıtmaq (istinad etmək) :: refer back to page ten
+> Which book are you referring to? = Sən hansı kitabı nəzərdə tutursan?
+> Please refer to page ten for more information. = Əlavə məlumat üçün onuncu səhifəyə baxın.
+> Six people, including two children, were in the car. = Maşında iki uşaq da daxil olmaqla altı nəfər var idi.
+! REFER həmişə TO ilə işlənir və son samit qoşalaşır: referred, referring. Mənaları: bəhs etmək, nəzərdə tutmaq (What does "it" refer to?), mənbəyə baxmaq (refer to a dictionary). İsmi "reference". SIR kişiyə, "madam" qadına nəzakətli müraciətdir. INCLUDING sözönüdür: including me.
+
+@ GUY | noun | ɡaɪ | oğlan, kişi (danışıq dilində)
+forms: guy – guys
+- an ordinary guy = adi (sıradan) bir oğlan :: ordinary /ˈɔːdənri/ = adi, sıravi
+- a typical guy = tipik oğlan :: typical /ˈtɪpɪkəl/ = tipik, səciyyəvi
+- a normal guy = normal oğlan :: normal = normal, adi
+- an active guy = fəal oğlan :: active = fəal, hərəkətli
+- a teenage guy = yeniyetmə oğlan :: teenage = yeniyetmə yaşlı (13–19)
+- a guy from here = buralı bir oğlan :: from here = buradan
+- one of the guys = oğlanlardan biri; "özümüzünkü" :: He is one of the guys
+> He is a nice guy; you will like him. = O, yaxşı oğlandır; xoşun gələcək.
+> I am just an ordinary guy from Baku. = Mən Bakıdan olan adi bir oğlanam.
+> Hi, guys! How are you? = Salam, uşaqlar! Necəsiniz?
+! GUY danışıq dilində "kişi, oğlan" deməkdir (rəsmi: man). Cəmdə "guys" həm kişilərə, həm qadınlara müraciət kimi işlənir: Hi, guys! ORDINARY "adi, xüsusi olmayan", TYPICAL "bir qrupa xas olan", NORMAL "normaya uyğun" deməkdir. TEENAGE sifətdir (teenage children), "teenager" isə isimdir.
+
+@ ITEM | noun | ˈaɪtəm | əşya, mal; bənd, maddə
+forms: item – items
+- an everyday item = gündəlik əşya :: everyday = gündəlik, adi (sifət; bir sözlə yazılır)
+- a wooden item = taxta əşya :: wooden = taxtadan, ağacdan düzəldilmiş
+- an electric item = elektriklə işləyən əşya :: electric = elektrik (enerjisi ilə işləyən): an electric car
+- an electrical item = elektrik malı :: electrical = elektrik ilə bağlı (ümumi): electrical goods
+- an electronic item = elektron cihaz :: electronic = elektron: electronic music
+- item by item = bənd-bənd, bir-bir :: check the list item by item
+- the first item = birinci bənd (əşya) :: the first item on the list
+> Please check every item on the list. = Xahiş edirik, siyahıdakı hər bəndi yoxlayın.
+> The shop sells electrical items and wooden toys. = Mağaza elektrik malları və taxta oyuncaqlar satır.
+> A phone is now an everyday item. = Telefon indi gündəlik əşyadır.
+! ITEM siyahıdakı və ya dəstdəki ayrı-ayrı əşya və ya bənddir: an item of clothing = bir geyim əşyası. Fərqlər: ELECTRIC – elektriklə işləyən konkret şey (an electric guitar); ELECTRICAL – elektrik sahəsi ilə bağlı ümumi anlayış (an electrical engineer); ELECTRONIC – mikrosxemli (electronic devices). EVERYDAY (sifət) bir sözlə, "every day" (hər gün) isə iki sözlə yazılır.
+
+@ RESPOND | verb | rɪˈspɒnd | cavab vermək; reaksiya göstərmək
+forms: respond – responds – responded – responded – responding
+- respond to sb/sth = kiməsə / nəyəsə cavab vermək :: Sözönü "to"dur
+- respond with understanding = anlayışla cavab vermək :: understanding = anlayış, başa düşmə
+- respond according to sth = nəyəsə uyğun cavab vermək :: according to = ...-ə görə, ...-ə əsasən
+~ independent of sth = nədənsə asılı olmayan :: independent = müstəqil, asılı olmayan
+~ quite informal = xeyli qeyri-rəsmi :: informal = qeyri-rəsmi; əksi: formal
+~ even worse = daha da pis :: worse /wɜːs/ = daha pis ("bad" sifətinin müqayisə dərəcəsi)
+- respond by doing sth = nəsə etməklə cavab vermək :: He responded by leaving the room
+> She did not respond to my email. = O, mənim elektron məktubuma cavab vermədi.
+> According to the news, it will rain tomorrow. = Xəbərlərə görə, sabah yağış yağacaq.
+> The weather was bad yesterday, but today it is even worse. = Dünən hava pis idi, amma bu gün daha da pisdir.
+! RESPOND "answer" və "reply" fellərinin rəsmi sinonimidir və TO ilə işlənir. İsmi "response". ACCORDING TO mənbəni bildirir: according to the teacher; öz fikrin üçün işlənmir ("according to me" yox – "in my opinion"). WORSE düzgün olmayan müqayisə dərəcəsidir: bad – worse – the worst.
