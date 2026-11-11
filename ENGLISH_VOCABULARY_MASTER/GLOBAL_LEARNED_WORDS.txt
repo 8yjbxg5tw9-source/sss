@@ -47,7 +47,7 @@ PART B — REFERENCE SETS (19 words; taught once in A1 Section 0)
       June (iyun), July (iyul), August (avqust), September (sentyabr), October (oktyabr), November
       (noyabr), December (dekabr)
 
-PART C — ALL VOCABULARY ITEMS A–Z (2,331)
+PART C — ALL VOCABULARY ITEMS A–Z (2,539)
 ----------------------------------------------------------------------------------------------------
    word | role | level | lesson (main word) | where and how it was taught
    Roles: MAIN = main word of a lesson, FAMILY = word-family form, NEW = new word inside an expression
@@ -61,8 +61,12 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         tərəfdarı olmaq
    abroad | NEW | A2 | A2-001 (TRAVEL) | "travel abroad" — xaricə səyahət etmək
    absolutely | NEW | B1 | B1-019 (AGREE) | "absolutely agree" — tamamilə razı olmaq
+   absorption | NEW | C1 | C1-053 (INHIBIT) | "inhibit absorption" — sorulmanı (mənimsənilməni)
+        ləngitmək
    abuse | NEW | C1 | C1-038 (VULNERABLE) | "vulnerable to abuse" — sui-istifadəyə (zorakılığa)
         qarşı müdafiəsiz
+   abyss | NEW | C1 | C1-046 (CONTEMPLATE) | "contemplate the abyss" — uçuruma baxmaq (fəlakətlə
+        üz-üzə qalmaq)
    academic | NEW | B1 | B1-002 (SUCCEED) | "academic success" — təhsildə uğur, akademik uğur
    accent | NEW | A2 | A2-039 (STRONG) | "a strong accent" — güclü (aydın sezilən) aksent, ləhcə
    accept | NEW | B1 | B1-013 (SUGGEST) | "accept a suggestion" — təklifi qəbul etmək
@@ -72,8 +76,15 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    accommodation | NEW | A2 | A2-017 (FIND) | "find accommodation" — qalmağa yer (mənzil) tapmaq
    accordingly | NEW | B2 | B2-035 (ADAPT) | "adapt accordingly" — müvafiq şəkildə uyğunlaşmaq
    ACCOUNT | MAIN | B2 | B2-038 (ACCOUNT) | main word — hesab (bank); təsvir, məlumat; izah etmək
-   accountant | FAMILY | B2 | B2-038 (ACCOUNT) | word family (n) — mühasib
-   accounting | FAMILY | B2 | B2-038 (ACCOUNT) | word family (n) — mühasibat uçotu
+        [see also: accountability C1-060]
+   accountability | NEW | C1 | C1-060 (TRANSPARENT) | "transparency and accountability" — şəffaflıq
+        və hesabatlılıq   [see also: ACCOUNT B2-038, accountant B2-038, accounting B2-038]
+   accountant | FAMILY | B2 | B2-038 (ACCOUNT) | word family (n) — mühasib   [see also:
+        accountability C1-060]
+   accounting | FAMILY | B2 | B2-038 (ACCOUNT) | word family (n) — mühasibat uçotu   [see also:
+        accountability C1-060]
+   ACCUMULATE | MAIN | C1 | C1-041 (ACCUMULATE) | main word — toplamaq, yığmaq; yığılmaq, toplanmaq
+   accumulation | FAMILY | C1 | C1-041 (ACCUMULATE) | word family (n) — yığılma, toplanma
    accurate | NEW | B2 | B2-002 (ASSESS) | "an accurate assessment" — dəqiq qiymətləndirmə
    accused | NEW | C2 | C2-007 (VINDICATE) | "vindicate the accused" — təqsirləndirilən şəxsə bəraət
         qazandırmaq
@@ -83,13 +94,15 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    achiever | FAMILY | B1 | B1-001 (ACHIEVE) | word family (n) — nailiyyət qazanan şəxs
    acquire | NEW | C1 | C1-039 (STAKE) | "acquire a stake" — pay əldə etmək
    act | NEW | B1 | B1-035 (RESPONSIBLE) | "act responsibly" — məsuliyyətlə hərəkət etmək   [see
-        also: action C2-011, actively B2-033, activity B1-013]
+        also: action C2-011, actively B2-033, activity B1-013, actor C1-042]
    action | NEW | C2 | C2-011 (GALVANISE) | "galvanise sb into action" — kimisə hərəkətə keçməyə
-        sövq etmək   [see also: act B1-035, activity B1-013]
+        sövq etmək   [see also: act B1-035, activity B1-013, actor C1-042]
    actively | NEW | B2 | B2-033 (PROMOTE) | "actively promote" — fəal şəkildə təşviq etmək   [see
         also: act B1-035, activity B1-013]
    activity | NEW | B1 | B1-013 (SUGGEST) | "suggest an activity" — məşğuliyyət (fəaliyyət) təklif
-        etmək   [see also: act B1-035, action C2-011, actively B2-033]
+        etmək   [see also: act B1-035, action C2-011, actively B2-033, actor C1-042]
+   actor | NEW | C1 | C1-042 (ASPIRE) | "an aspiring actor" — aktyor olmağa can atan gənc   [see
+        also: act B1-035, action C2-011, activity B1-013]
    acute | NEW | C2 | C2-001 (EXACERBATE) | "an acute exacerbation" — (xəstəliyin) kəskin
         ağırlaşması
    ADAPT | MAIN | B2 | B2-035 (ADAPT) | main word — uyğunlaşmaq, uyğunlaşdırmaq; (əsəri) işləyib
@@ -106,6 +119,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    adult | NEW | B1 | B1-011 (EDUCATION) | "adult education" — böyüklərin təhsili
    advance | NEW | A2 | A2-023 (PAY) | "pay in advance" — əvvəlcədən ödəmək
    advantage | NEW | B1 | B1-016 (DISCUSS) | "discuss the advantages" — üstünlükləri müzakirə etmək
+        [see also: disadvantage C1-055]
    adverse | NEW | C2 | C2-040 (REPERCUSSION) | "adverse repercussions" — mənfi nəticələr   [see
         also: adversity C1-025]
    adversity | NEW | C1 | C1-025 (RESILIENT) | "resilience in adversity" — çətin günlərdə
@@ -142,6 +156,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    alarm | NEW | B1 | B1-038 (SET) | "set an alarm" — zəngli saatı qurmaq
    alcohol | NEW | B1 | B1-028 (AVOID) | "avoid alcohol" — spirtli içkilərdən çəkinmək
    alive | FAMILY | A1 | A1-012 (LIVE) | word family (adj) — sağ, diri
+   all-encompassing | FAMILY | C1 | C1-051 (ENCOMPASS) | word family (adj) — hər şeyi əhatə edən
    all-pervasive | FAMILY | C2 | C2-025 (PERVASIVE) | word family (adj) — hər şeyi bürüyən
    allergy | NEW | C1 | C1-036 (TRIGGER) | "trigger an allergy" — allergiya törətmək
    ALLEVIATE | MAIN | C1 | C1-001 (ALLEVIATE) | main word — yüngülləşdirmək, azaltmaq (ağrını,
@@ -180,7 +195,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    apology | NEW | B2 | B2-016 (DEMAND) | "demand an apology" — üzr istənilməsini tələb etmək
    appeal | NEW | C2 | C2-007 (VINDICATE) | "vindicated on appeal" — apellyasiya nəticəsində bəraət
         almış
+   appetite | NEW | C1 | C1-053 (INHIBIT) | "inhibit appetite" — iştahanı azaltmaq
+   applause | NEW | C1 | C1-050 (ELICIT) | "elicit applause" — alqış qazanmaq
    apple | NEW | A1 | A1-007 (EAT) | "eat an apple" — alma yemək
+   appliance | NEW | C1 | C1-054 (OBSOLETE) | "an obsolete appliance" — köhnəlmiş məişət cihazı
    applicant | FAMILY | B1 | B1-010 (APPLY) | word family (n) — ərizəçi, namizəd
    application | FAMILY | B1 | B1-010 (APPLY) | word family (n) — ərizə, müraciət, həmçinin tətbiq
         və proqram (app)
@@ -190,12 +208,16 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    appreciate | NEW | C2 | C2-013 (NUANCE) | "appreciate the nuances" — incəlikləri duymaq
         (qiymətləndirmək)
    APPROACH | MAIN | B2 | B2-009 (APPROACH) | main word — yanaşma, üsul; yaxınlaşmaq
+   approval | NEW | C1 | C1-052 (EXPLICIT) | "explicit approval" — açıq şəkildə bildirilmiş razılıq
+        (təsdiq)
    area | NEW | A2 | A2-038 (SAFE) | "a safe area" — təhlükəsiz ərazi (zona)
    ARGUE | MAIN | B1 | B1-014 (ARGUE) | main word — mübahisə etmək, höcətləşmək; iddia etmək,
         əsaslandırmaq
    argument | FAMILY | B1 | B1-014 (ARGUE) | word family (n) — mübahisə, həmçinin dəlil (arqument)
    arm | NEW | A1 | A1-016 (BODY) | "arms and legs" — qollar və ayaqlar (qıçlar)
    arranged | NEW | C2 | C2-024 (METICULOUS) | "meticulously arranged" — səliqə ilə düzülmüş
+   array | NEW | C1 | C1-051 (ENCOMPASS) | "encompass an array of" — geniş çeşiddə ... əhatə etmək
+   arrest | NEW | C1 | C1-048 (CULMINATE) | "culminate in an arrest" — həbslə nəticələnmək
    arrival | FAMILY | A2 | A2-004 (ARRIVE) | word family (n) — gəliş, çatma
    ARRIVE | MAIN | A2 | A2-004 (ARRIVE) | main word — gəlib çatmaq
    arrogance | NEW | C2 | C2-010 (EPITOMISE) | "the epitome of arrogance" — təkəbbürün təcəssümü
@@ -205,8 +227,14 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    ASK | MAIN | A1 | A1-021 (ASK) | main word — soruşmaq; xahiş etmək
    asleep | NEW | A2 | A2-018 (FALL) | "fall asleep" — yuxuya getmək
    aspect | NEW | B2 | B2-012 (CRUCIAL) | "a crucial aspect" — ən mühüm cəhət
+   aspiration | FAMILY | C1 | C1-042 (ASPIRE) | word family (n) — arzu, ali məqsəd
+   aspirational | FAMILY | C1 | C1-042 (ASPIRE) | word family (adj) — yüksək həyat səviyyəsinə can
+        atan
+   ASPIRE | MAIN | C1 | C1-042 (ASPIRE) | main word — can atmaq, nail olmağa çalışmaq
+   aspiring | FAMILY | C1 | C1-042 (ASPIRE) | word family (adj) — (bir peşəyə) can atan
    ASSESS | MAIN | B2 | B2-002 (ASSESS) | main word — qiymətləndirmək, dəyərləndirmək
    assessment | FAMILY | B2 | B2-002 (ASSESS) | word family (n) — qiymətləndirmə
+   asset | NEW | C1 | C1-041 (ACCUMULATE) | "accumulate assets" — aktivlər toplamaq
    assistance | NEW | B1 | B1-025 (PROVIDE) | "provide assistance" — yardım göstərmək
    associated | NEW | C1 | C1-027 (STIGMA) | "a stigma associated with" — nə iləsə bağlı damğa
         (qınaq)
@@ -224,12 +252,17 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    ATTITUDE | MAIN | B2 | B2-027 (ATTITUDE) | main word — münasibət, yanaşma, mövqe
    attract | NEW | B2 | B2-013 (INVEST) | "attract investment" — sərmayə cəlb etmək
    attribute | NEW | C2 | C2-023 (INTRINSIC) | "an intrinsic attribute" — ayrılmaz xüsusiyyət
+   audience | NEW | C1 | C1-049 (DISCERN) | "a discerning audience" — zövqlü (tələbkar) tamaşaçı
+   audit | NEW | C1 | C1-045 (COMPREHENSIVE) | "a comprehensive audit" — hərtərəfli audit (yoxlama)
    aunt | NEW | A1 | A1-014 (FAMILY) | "aunt and uncle" — xala (bibi) və dayı (əmi)
    austerity | NEW | C2 | C2-038 (STRINGENT) | "stringent austerity" — sərt qənaət rejimi
    authority | NEW | C1 | C1-018 (UNDERMINE) | "undermine authority" — nüfuzu (hakimiyyəti)
         sarsıtmaq
    automatically | NEW | B2 | B2-003 (ASSUME) | "automatically assume" — düşünmədən (avtomatik)
         güman etmək
+   autonomous | FAMILY | C1 | C1-043 (AUTONOMY) | word family (adj) — muxtar, müstəqil
+   autonomously | FAMILY | C1 | C1-043 (AUTONOMY) | word family (adv) — müstəqil şəkildə
+   AUTONOMY | MAIN | C1 | C1-043 (AUTONOMY) | main word — muxtariyyət; müstəqillik, sərbəstlik
    autumn | NEW | B2 | B2-039 (TERM) | "the autumn term" — payız semestri
    average | NEW | B2 | B2-015 (CONSUME) | "the average consumer" — orta statistik istehlakçı
    AVOID | MAIN | B1 | B1-028 (AVOID) | main word — çəkinmək, uzaq durmaq, yayınmaq; yol verməmək
@@ -238,6 +271,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    award | NEW | A2 | A2-027 (WIN) | "win an award" — mükafata layiq görülmək
    awareness | NEW | B1 | B1-021 (ENVIRONMENT) | "environmental awareness" — ekoloji şüur, ətraf
         mühit haqqında maariflilik
+   awful | NEW | C1 | C1-046 (CONTEMPLATE) | "too awful to contemplate" — düşünmək belə dəhşətlidir
    Azerbaijani | NEW | A1 | A1-020 (SPEAK) | "speak Azerbaijani" — Azərbaycan dilində danışmaq
 
 — B —
@@ -263,6 +297,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         saxlamaq; (uşaq) doğmaq
    bearable | FAMILY | C1 | C1-040 (BEAR) | word family (adj) — dözülə bilən
    beard | NEW | A2 | A2-020 (GROW) | "grow a beard" — saqqal saxlamaq
+   beaten | NEW | C1 | C1-045 (COMPREHENSIVE) | "comprehensively beaten" — tamamilə məğlub edilmiş
    beautiful | NEW | A1 | A1-027 (LOOK) | "look beautiful" — gözəl görünmək
    bed | NEW | A1 | A1-001 (GO) | "go to bed" — yatmağa getmək
    bedroom | NEW | A1 | A1-013 (HOUSE) | "bedroom and bathroom" — yataq otağı və hamam otağı
@@ -302,6 +337,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    bookkeeping | NEW | C2 | C2-024 (METICULOUS) | "meticulous bookkeeping" — dəqiq mühasibat uçotu
    booming | NEW | B2 | B2-018 (ECONOMY) | "a booming economy" — sürətlə inkişaf edən iqtisadiyyat
    boost | NEW | B1 | B1-036 (CONFIDENT) | "boost your confidence" — özünəinamı artırmaq
+   border | NEW | C1 | C1-058 (REINFORCE) | "reinforce the border" — sərhədi möhkəmləndirmək
    boring | NEW | A2 | A2-017 (FIND) | "find sth boring" — nəyisə darıxdırıcı hesab etmək
    borrow | NEW | A1 | A1-011 (MONEY) | "borrow money" — borc pul almaq
    boss | NEW | B2 | B2-016 (DEMAND) | "a demanding boss" — tələbkar müdir
@@ -313,7 +349,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    bread | NEW | A1 | A1-010 (BUY) | "buy bread" — çörək almaq
    BREAK | MAIN | A2 | A2-019 (BREAK) | main word — sındırmaq, sınmaq; pozmaq; fasilə
    breakfast | NEW | A1 | A1-007 (EAT) | "eat breakfast" — səhər yeməyi yemək
+   breakthrough | NEW | C1 | C1-048 (CULMINATE) | "culminate in a breakthrough" — mühüm irəliləyişlə
+        nəticələnmək
    breed | NEW | C2 | C2-021 (COMPLACENT) | "breed complacency" — arxayınçılıq doğurmaq
+   bribery | NEW | C1 | C1-059 (SUSCEPTIBLE) | "susceptible to bribery" — rüşvətə meyilli
    bridge | NEW | A1 | A1-037 (OLD) | "an old bridge" — köhnə körpü
    briefly | NEW | B1 | B1-012 (EXPLAIN) | "explain briefly" — qısaca izah etmək
    bright | NEW | A1 | A1-040 (COLOUR) | "a bright colour" — parlaq rəng
@@ -326,6 +365,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    brush | NEW | A1 | A1-016 (BODY) | "brush your teeth" — dişlərini fırçalamaq
    budget | NEW | B1 | B1-007 (MANAGE) | "manage a budget" — büdcəni idarə etmək
    building | NEW | A1 | A1-037 (OLD) | "an old building" — köhnə bina
+   built-in | NEW | C1 | C1-054 (OBSOLETE) | "built-in obsolescence" — qəsdən nəzərdə tutulmuş
+        köhnəlmə
    bullet | NEW | C2 | C2-018 (PANACEA) | "a silver bullet" — sehrli həll yolu (bir zərbə ilə hər
         şeyi həll edən vasitə)
    burden | NEW | C1 | C1-001 (ALLEVIATE) | "alleviate the burden" — yükü yüngülləşdirmək
@@ -368,11 +409,17 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         toplusu)
    cash | NEW | A2 | A2-023 (PAY) | "pay cash" — nağd ödəmək
    casual | NEW | B2 | B2-027 (ATTITUDE) | "a casual attitude" — laqeyd (qeyri-ciddi) münasibət
+   catalyse | FAMILY | C1 | C1-044 (CATALYST) | word family (v) — sürətləndirmək, təkan vermək
+   CATALYST | MAIN | C1 | C1-044 (CATALYST) | main word — katalizator; təkanverici amil
+   catalytic | FAMILY | C1 | C1-044 (CATALYST) | word family (adj) — katalitik
    catastrophic | NEW | C2 | C2-040 (REPERCUSSION) | "catastrophic repercussions" — fəlakətli
         nəticələr
    CATCH | MAIN | A2 | A2-005 (CATCH) | main word — tutmaq; yaxalamaq; (nəqliyyata) çatmaq;
         (xəstəliyə) yoluxmaq
-   CAUSE | MAIN | B1 | B1-029 (CAUSE) | main word — səbəb; səbəb olmaq, törətmək
+   causation | NEW | C1 | C1-047 (CORRELATE) | "correlation and causation" — korrelyasiya və
+        səbəb-nəticə əlaqəsi   [see also: CAUSE B1-029]
+   CAUSE | MAIN | B1 | B1-029 (CAUSE) | main word — səbəb; səbəb olmaq, törətmək   [see also:
+        causation C1-047]
    cautious | NEW | B2 | B2-009 (APPROACH) | "a cautious approach" — ehtiyatlı yanaşma
    ceasefire | NEW | C2 | C2-005 (PRECARIOUS) | "a precarious ceasefire" — kövrək atəşkəs
    celebrate | NEW | B1 | B1-002 (SUCCEED) | "celebrate success" — uğuru qeyd etmək   [see also:
@@ -383,6 +430,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    censorship | NEW | C2 | C2-008 (CIRCUMVENT) | "circumvent censorship" — senzuradan yan keçmək
    cent | NEW | B1 | B1-023 (INCREASE) | "increase by ten per cent" — on faiz artmaq
    centre | NEW | A1 | A1-033 (CITY) | "city centre" — şəhərin mərkəzi
+   century | NEW | C1 | C1-051 (ENCOMPASS) | "encompass centuries" — əsrləri əhatə etmək
+   ceremony | NEW | C1 | C1-048 (CULMINATE) | "culminate in a ceremony" — mərasimlə yekunlaşmaq
    certain | NEW | B2 | B2-040 (EXTENT) | "to a certain extent" — müəyyən qədər   [see also:
         uncertain B2-039]
    chain | NEW | C1 | C1-036 (TRIGGER) | "trigger a chain reaction" — zəncirvari reaksiyaya səbəb
@@ -407,6 +456,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    cheap | NEW | A1 | A1-011 (MONEY) | "cheap or expensive" — ucuz, yoxsa baha
    check | NEW | A2 | A2-033 (HEALTH) | "a health check" — tibbi müayinə, sağlamlıq yoxlanışı
    cheese | NEW | A1 | A1-010 (BUY) | "buy cheese" — pendir almaq
+   chemical | NEW | C1 | C1-044 (CATALYST) | "a chemical catalyst" — kimyəvi katalizator
    chess | NEW | A1 | A1-024 (PLAY) | "play chess" — şahmat oynamaq
    chicken | NEW | A1 | A1-009 (COOK) | "cook chicken" — toyuq bişirmək
    child | NEW | A1 | A1-038 (HAPPY) | "a happy child" — xoşbəxt uşaq
@@ -442,6 +492,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    coalition | NEW | C2 | C2-028 (TENUOUS) | "a tenuous coalition" — zəif koalisiya
    coastal | NEW | C1 | C1-032 (ERODE) | "coastal erosion" — sahil eroziyası
    coat | NEW | A1 | A1-029 (WEAR) | "wear a coat" — palto geyinmək
+   coefficient | NEW | C1 | C1-047 (CORRELATE) | "a correlation coefficient" — korrelyasiya əmsalı
    coffee | NEW | A1 | A1-008 (DRINK) | "drink coffee" — qəhvə içmək
    coherence | FAMILY | C1 | C1-005 (COHERENT) | word family (n) — ardıcıllıq, məntiqi əlaqə
    COHERENT | MAIN | C1 | C1-005 (COHERENT) | main word — ardıcıl, məntiqli, rabitəli
@@ -452,7 +503,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    cold | NEW | A1 | A1-008 (DRINK) | "a cold drink" — soyuq içki
    collaboration | NEW | C1 | C1-009 (FACILITATE) | "facilitate collaboration" — birgə işi
         asanlaşdırmaq
+   collapse | NEW | C1 | C1-048 (CULMINATE) | "culminate in the collapse" — çöküşlə (iflasla)
+        nəticələnmək
    colleague | NEW | B1 | B1-016 (DISCUSS) | "discuss with colleagues" — həmkarlarla müzakirə etmək
+   collector | NEW | C1 | C1-049 (DISCERN) | "a discerning collector" — seçici kolleksiyaçı
    COLOUR | MAIN | A1 | A1-040 (COLOUR) | main word — rəng
    colourful | FAMILY | A1 | A1-040 (COLOUR) | word family (adj) — rəngarəng, əlvan
    combat | NEW | C1 | C1-027 (STIGMA) | "combat stigma" — damğalanma ilə mübarizə aparmaq
@@ -470,6 +524,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    community | NEW | B2 | B2-036 (CONTRIBUTE) | "contribute to the community" — icmaya (cəmiyyətə)
         fayda vermək
    company | NEW | A1 | A1-023 (WORK) | "work for a company" — şirkətdə (şirkət üçün) işləmək
+   compassion | NEW | C1 | C1-050 (ELICIT) | "elicit compassion" — mərhəmət hissi oyatmaq
    compel | FAMILY | C1 | C1-006 (COMPELLING) | word family (v) — məcbur etmək
    COMPELLING | MAIN | C1 | C1-006 (COMPELLING) | main word — inandırıcı, tutarlı; cəlbedici,
         diqqəti çəkən
@@ -489,21 +544,28 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    compliance | NEW | C2 | C2-038 (STRINGENT) | "stringent compliance" — qaydalara ciddi riayət
    complication | NEW | C2 | C2-034 (FRAUGHT) | "fraught with complications" — mürəkkəbliklərlə dolu
    component | NEW | B2 | B2-012 (CRUCIAL) | "a crucial component" — əsas tərkib hissəsi
+   COMPREHENSIVE | MAIN | C1 | C1-045 (COMPREHENSIVE) | main word — hərtərəfli, əhatəli, tam
+   comprehensively | FAMILY | C1 | C1-045 (COMPREHENSIVE) | word family (adv) — hərtərəfli şəkildə,
+        tamamilə
    compromise | NEW | C1 | C1-021 (FEASIBLE) | "a feasible compromise" — mümkün kompromis
    compulsion | FAMILY | C1 | C1-006 (COMPELLING) | word family (n) — məcburiyyət, həmçinin
         qarşısıalınmaz istək
    compulsory | FAMILY | C1 | C1-006 (COMPELLING) | word family (adj) — məcburi, icbari
    computer | NEW | A1 | A1-024 (PLAY) | "play computer games" — kompüter oyunları oynamaq
+   con | NEW | C1 | C1-055 (OUTWEIGH) | "the pros outweigh the cons" — müsbət cəhətlər mənfiləri
+        üstələyir
    concentration | NEW | C1 | C1-029 (DETRIMENTAL) | "detrimental to concentration" — diqqətin
         cəmlənməsinə mane olan
    concept | NEW | B2 | B2-024 (INNOVATE) | "an innovative concept" — yenilikçi konsepsiya
    concern | NEW | B1 | B1-029 (CAUSE) | "cause concern" — narahatlıq doğurmaq
    concert | NEW | A2 | A2-030 (ENJOY) | "enjoy a concert" — konsertdən zövq almaq
    conclusive | NEW | B2 | B2-004 (EVIDENCE) | "conclusive evidence" — qəti (təkzibolunmaz) sübut
+   concrete | NEW | C1 | C1-058 (REINFORCE) | "reinforced concrete" — dəmir-beton
    condemnation | NEW | C2 | C2-016 (UNEQUIVOCAL) | "an unequivocal condemnation" — qəti pisləmə
    condition | NEW | B1 | B1-003 (IMPROVE) | "improve conditions" — şəraiti yaxşılaşdırmaq
    conduct | NEW | B2 | B2-010 (RESEARCH) | "conduct research" — tədqiqat aparmaq
    confer | NEW | C1 | C1-034 (LEGITIMATE) | "confer legitimacy" — legitimlik vermək
+   confession | NEW | C1 | C1-050 (ELICIT) | "elicit a confession" — etiraf almaq
    confidence | FAMILY | B1 | B1-036 (CONFIDENT) | word family (n) — inam, etimad
    CONFIDENT | MAIN | B1 | B1-036 (CONFIDENT) | main word — özünə inamlı; əmin
    confidently | FAMILY | B1 | B1-036 (CONFIDENT) | word family (adv) — inamla
@@ -516,6 +578,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    CONSENSUS | MAIN | C1 | C1-020 (CONSENSUS) | main word — ümumi razılıq, yekdil rəy, konsensus
    consensus-building | FAMILY | C1 | C1-020 (CONSENSUS) | word family (n) — ümumi razılığın
         formalaşdırılması
+   consent | NEW | C1 | C1-052 (EXPLICIT) | "explicit consent" — açıq şəkildə verilmiş razılıq
    CONSEQUENCE | MAIN | B2 | B2-005 (CONSEQUENCE) | main word — nəticə (adətən mənfi), fəsad
    consequently | FAMILY | B2 | B2-005 (CONSEQUENCE) | word family (adv) — nəticədə, buna görə də
    conserve | NEW | B2 | B2-019 (RESOURCE) | "conserve resources" — ehtiyatlara qənaət etmək, onları
@@ -535,12 +598,18 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    consumer | FAMILY | B2 | B2-015 (CONSUME) | word family (n) — istehlakçı
    consumption | FAMILY | B2 | B2-015 (CONSUME) | word family (n) — istehlak, sərfiyyat
    contact | NEW | B1 | B1-028 (AVOID) | "avoid contact" — təmasdan qaçmaq
+   CONTEMPLATE | MAIN | C1 | C1-046 (CONTEMPLATE) | main word — götür-qoy etmək, barəsində düşünmək;
+        seyr etmək
+   contemplation | FAMILY | C1 | C1-046 (CONTEMPLATE) | word family (n) — dərin düşüncə, seyr
+   contemplative | FAMILY | C1 | C1-046 (CONTEMPLATE) | word family (adj) — düşüncəli, fikrə dalmış
    contend | FAMILY | C2 | C2-022 (CONTENTIOUS) | word family (v) — iddia etmək, mübarizə aparmaq
    contender | FAMILY | C2 | C2-022 (CONTENTIOUS) | word family (n) — iddiaçı, namizəd
+   content | NEW | C1 | C1-052 (EXPLICIT) | "explicit content" — açıq-saçıq məzmun
    contention | FAMILY | C2 | C2-022 (CONTENTIOUS) | word family (n) — iddia, həmçinin mübahisə və
         rəqabət
    CONTENTIOUS | MAIN | C2 | C2-022 (CONTENTIOUS) | main word — mübahisəli, ixtilaf doğuran; davakar
    contest | NEW | A2 | A2-027 (WIN) | "win a contest" — müsabiqədə qalib gəlmək
+   continent | NEW | C1 | C1-051 (ENCOMPASS) | "encompass five continents" — beş qitəni əhatə etmək
    continuous | NEW | B2 | B2-002 (ASSESS) | "continuous assessment" — cari (davamlı) qiymətləndirmə
    contract | NEW | B2 | B2-014 (COMPETE) | "compete for a contract" — müqavilə uğrunda rəqabət
         aparmaq
@@ -562,6 +631,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    convention | NEW | C1 | C1-007 (CONSTRAINT) | "constrained by convention" — adət-ənənə ilə
         məhdudlaşdırılmış
    conversation | NEW | A1 | A1-022 (LISTEN) | "listen to a conversation" — söhbətə qulaq asmaq
+   converter | NEW | C1 | C1-044 (CATALYST) | "a catalytic converter" — katalitik neytrallaşdırıcı
+   conviction | NEW | C1 | C1-058 (REINFORCE) | "reinforce a conviction" — əminliyi möhkəmləndirmək
    convincing | NEW | B1 | B1-014 (ARGUE) | "a convincing argument" — inandırıcı dəlil
    COOK | MAIN | A1 | A1-009 (COOK) | main word — bişirmək; aşpaz
    cooker | FAMILY | A1 | A1-009 (COOK) | word family (n) — mətbəx plitəsi
@@ -570,6 +641,11 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    cope | NEW | B1 | B1-034 (PRESSURE) | "cope with pressure" — təzyiqin (gərginliyin) öhdəsindən
         gəlmək
    corner | NEW | A2 | A2-014 (TURN) | "turn a corner" — tini dönmək
+   corporate | NEW | C1 | C1-060 (TRANSPARENT) | "corporate transparency" — korporativ şəffaflıq
+   CORRELATE | MAIN | C1 | C1-047 (CORRELATE) | main word — qarşılıqlı əlaqədə olmaq, uzlaşmaq
+   correlated | FAMILY | C1 | C1-047 (CORRELATE) | word family (adj) — qarşılıqlı əlaqəli
+   correlation | FAMILY | C1 | C1-047 (CORRELATE) | word family (n) — korrelyasiya, qarşılıqlı əlaqə
+   corrosion | NEW | C1 | C1-053 (INHIBIT) | "inhibit corrosion" — korroziyanın qarşısını almaq
    corruption | NEW | B2 | B2-031 (TACKLE) | "tackle corruption" — korrupsiya ilə mübarizə aparmaq
    cost | NEW | A1 | A1-011 (MONEY) | "cost a lot of money" — çox pula başa gəlmək, baha olmaq
    country | NEW | A1 | A1-035 (BIG) | "a big country" — böyük ölkə
@@ -607,7 +683,11 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    crude | NEW | C2 | C2-019 (DICHOTOMY) | "a crude dichotomy" — kobud (bəsit) bölgü
    crying | NEW | A2 | A2-026 (STOP) | "stop crying" — ağlamağı kəsmək
    cue | NEW | C2 | C2-039 (SALIENT) | "salient cues" — diqqəti çəkən işarələr (siqnallar)
+   CULMINATE | MAIN | C1 | C1-048 (CULMINATE) | main word — (nə iləsə) yekunlaşmaq, ən yüksək
+        nöqtəyə çatmaq
+   culmination | FAMILY | C1 | C1-048 (CULMINATE) | word family (n) — ən yüksək nöqtə, zirvə, yekun
    culture | NEW | A2 | A2-036 (DIFFERENT) | "different cultures" — müxtəlif mədəniyyətlər
+   cumulative | FAMILY | C1 | C1-041 (ACCUMULATE) | word family (adj) — məcmu, yığılıb artan
    cup | NEW | A1 | A1-005 (MAKE) | "make a cup of tea" — bir fincan çay dəmləmək
    curb | NEW | C2 | C2-006 (PROLIFERATE) | "curb proliferation" — yayılmanı cilovlamaq
    curiosity | NEW | C1 | C1-022 (FOSTER) | "foster curiosity" — bilmək həvəsini inkişaf etdirmək
@@ -616,6 +696,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    current | NEW | B2 | B2-008 (TREND) | "a current trend" — hazırkı (cari) meyil
    curriculum | NEW | C2 | C2-033 (UNDERPIN) | "underpin the curriculum" — tədris proqramının
         əsasını təşkil etmək
+   curtail | NEW | C1 | C1-043 (AUTONOMY) | "curtail autonomy" — müstəqilliyi məhdudlaşdırmaq
    curtain | NEW | A1 | A1-028 (OPEN) | "open the curtains" — pərdələri açmaq
    customer | NEW | B1 | B1-015 (COMPLAIN) | "a customer complaint" — müştəri şikayəti
    cycle | NEW | C2 | C2-004 (PERNICIOUS) | "a pernicious cycle" — qapalı (zərərli) dövrə
@@ -624,11 +705,14 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
 
 — D —
    daily | FAMILY | A1 | A1-031 (DAY) | word family (adj) — gündəlik, hər günkü
+   dam | NEW | C1 | C1-058 (REINFORCE) | "reinforce a dam" — bəndi möhkəmləndirmək
    damage | NEW | A2 | A2-033 (HEALTH) | "damage your health" — sağlamlığına ziyan vurmaq
    dancing | NEW | A2 | A2-030 (ENJOY) | "enjoy dancing" — rəqs etməyi sevmək
    danger | NEW | B1 | B1-028 (AVOID) | "avoid danger" — təhlükədən uzaq durmaq
    dark | NEW | A1 | A1-040 (COLOUR) | "a dark colour" — tünd rəng
    data | NEW | B1 | B1-022 (PROTECT) | "data protection" — məlumatların qorunması
+   database | NEW | C1 | C1-045 (COMPREHENSIVE) | "a comprehensive database" — əhatəli məlumat
+        bazası
    date | NEW | A2 | A2-012 (CHANGE) | "change the date" — tarixi dəyişmək
    daughter | NEW | A1 | A1-014 (FAMILY) | "son and daughter" — oğul və qız (övlad)
    DAY | MAIN | A1 | A1-031 (DAY) | main word — gün
@@ -642,6 +726,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    death | NEW | B1 | B1-029 (CAUSE) | "cause of death" — ölüm səbəbi   [see also: deadly B1-037]
    debate | NEW | B2 | B2-032 (GENERATE) | "generate debate" — müzakirə doğurmaq
    debt | NEW | B1 | B1-024 (REDUCE) | "reduce debt" — borcu azaltmaq
+   decay | NEW | C1 | C1-059 (SUSCEPTIBLE) | "susceptible to decay" — çürüməyə meyilli
    DECIDE | MAIN | B1 | B1-020 (DECIDE) | main word — qərar vermək, qərara gəlmək
    decision | FAMILY | B1 | B1-020 (DECIDE) | word family (n) — qərar
    decision-making | NEW | C1 | C1-009 (FACILITATE) | "facilitate decision-making" — qərar qəbulunu
@@ -651,6 +736,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    decline | NEW | B2 | B2-011 (SIGNIFICANT) | "a significant decline" — nəzərəçarpan azalma
         (tənəzzül)
    deeply | NEW | A2 | A2-029 (THINK) | "think deeply" — dərindən düşünmək
+   defeat | NEW | C1 | C1-045 (COMPREHENSIVE) | "a comprehensive defeat" — tam (qəti) məğlubiyyət
    defect | NEW | C1 | C1-013 (INHERENT) | "an inherent defect" — daxili qüsur, istehsal qüsuru
    defence | NEW | C2 | C2-037 (BOLSTER) | "bolster defences" — müdafiəni gücləndirmək
    degree | NEW | B2 | B2-018 (ECONOMY) | "a degree in economics" — iqtisadiyyat üzrə ali təhsil
@@ -673,7 +759,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    depleted | FAMILY | C1 | C1-030 (DEPLETE) | word family (adj) — tükənmiş, azalmış
    depletion | FAMILY | C1 | C1-030 (DEPLETE) | word family (n) — tükənmə, azalma
    deposit | NEW | B2 | B2-038 (ACCOUNT) | "a deposit account" — əmanət (depozit) hesabı
+   depression | NEW | C1 | C1-059 (SUSCEPTIBLE) | "susceptible to depression" — depressiyaya meyilli
    deprivation | NEW | C2 | C2-002 (AMELIORATE) | "ameliorate deprivation" — məhrumiyyəti azaltmaq
+   depth | NEW | C1 | C1-056 (PERCEIVE) | "depth perception" — dərinliyin qavranılması   [see also:
+        in-depth B2-001]
    derive | NEW | C2 | C2-035 (IMPETUS) | "derive impetus from" — nədənsə təkan almaq
    deserve | NEW | B2 | B2-033 (PROMOTE) | "deserve promotion" — vəzifə artımına layiq olmaq
    design | NEW | A2 | A2-022 (CHOOSE) | "choose a design" — dizayn seçmək
@@ -681,6 +770,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    desperate | NEW | B1 | B1-030 (EFFORT) | "a desperate effort" — son ümidlə göstərilən cəhd
    destroy | NEW | B1 | B1-021 (ENVIRONMENT) | "destroy the environment" — ətraf mühiti məhv etmək
    detail | NEW | A2 | A2-010 (TELL) | "tell sb the details" — kiməsə təfərrüatları danışmaq
+   detect | NEW | C1 | C1-047 (CORRELATE) | "detect a correlation" — korrelyasiya aşkar etmək
    DETERIORATE | MAIN | C1 | C1-008 (DETERIORATE) | main word — pisləşmək, xarab olmaq
    deterioration | FAMILY | C1 | C1-008 (DETERIORATE) | word family (n) — pisləşmə, xarablaşma
    determined | NEW | B1 | B1-030 (EFFORT) | "a determined effort" — qətiyyətli səy (cəhd)
@@ -716,6 +806,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         also: difficulty C2-034]
    difficulty | NEW | C2 | C2-034 (FRAUGHT) | "fraught with difficulty" — çətinliklərlə dolu   [see
         also: difficult A2-017]
+   digestion | NEW | C1 | C1-053 (INHIBIT) | "inhibit digestion" — həzmi ləngitmək
    digital | NEW | B2 | B2-018 (ECONOMY) | "the digital economy" — rəqəmsal iqtisadiyyat
    dignity | NEW | B2 | B2-029 (MAINTAIN) | "maintain your dignity" — ləyaqətini qorumaq
    dilemma | NEW | C2 | C2-010 (EPITOMISE) | "epitomise the dilemma" — dilemmanı ən parlaq şəkildə
@@ -731,9 +822,15 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         etmək   [see also: direct B2-005, direction A1-006]
    disability | NEW | C1 | C1-027 (STIGMA) | "the stigma of disability" — əlilliyin damğası   [see
         also: ability B2-001]
+   disadvantage | NEW | C1 | C1-055 (OUTWEIGH) | "outweigh the disadvantages" — mənfi cəhətləri
+        üstələmək   [see also: advantage B1-016]
    disagree | FAMILY | B1 | B1-019 (AGREE) | word family (v) — razılaşmamaq
    disagreement | FAMILY | B1 | B1-019 (AGREE) | word family (n) — fikir ayrılığı
    disaster | NEW | B1 | B1-021 (ENVIRONMENT) | "an environmental disaster" — ekoloji fəlakət
+   DISCERN | MAIN | C1 | C1-049 (DISCERN) | main word — sezmək, ayırd etmək, güclə görmək
+   discernible | FAMILY | C1 | C1-049 (DISCERN) | word family (adj) — sezilən, gözə çarpan
+   discerning | FAMILY | C1 | C1-049 (DISCERN) | word family (adj) — incə zövqlü, seçici
+   discernment | FAMILY | C1 | C1-049 (DISCERN) | word family (n) — fərasət, incə duyum
    discipline | NEW | B2 | B2-029 (MAINTAIN) | "maintain discipline" — intizamı qorumaq
    disclosure | NEW | C2 | C2-030 (PRECLUDE) | "preclude disclosure" — açıqlanmasına imkan verməmək
    discomfort | NEW | C2 | C2-002 (AMELIORATE) | "ameliorate discomfort" — narahatlığı (diskomfortu)
@@ -757,8 +854,11 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         minimuma endirmək
    DISSEMINATE | MAIN | C2 | C2-009 (DISSEMINATE) | main word — yaymaq, geniş auditoriyaya çatdırmaq
    dissemination | FAMILY | C2 | C2-009 (DISSEMINATE) | word family (n) — yayılma, yayma
+   dissent | NEW | C1 | C1-053 (INHIBIT) | "inhibit dissent" — fərqli fikirlərin ifadəsinə mane
+        olmaq
    distance | NEW | A2 | A2-038 (SAFE) | "a safe distance" — təhlükəsiz məsafə
    distinction | NEW | B2 | B2-012 (CRUCIAL) | "a crucial distinction" — prinsipial fərq
+   distorted | NEW | C1 | C1-056 (PERCEIVE) | "a distorted perception" — təhrif olunmuş təsəvvür
    distress | NEW | C1 | C1-001 (ALLEVIATE) | "alleviate distress" — iztirabı yüngülləşdirmək
    disturbing | NEW | B2 | B2-008 (TREND) | "a disturbing trend" — narahatedici meyil
    diversity | NEW | B2 | B2-033 (PROMOTE) | "promote diversity" — müxtəlifliyi təşviq etmək
@@ -772,13 +872,16 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    dog | NEW | A1 | A1-035 (BIG) | "a big dog" — böyük it, iri it
    dollar | NEW | C2 | C2-027 (RESURGENCE) | "a resurgent dollar" — yenidən güclənən dollar
    dominant | NEW | C2 | C2-020 (PARADIGM) | "the dominant paradigm" — hakim paradiqma
+   donation | NEW | C1 | C1-050 (ELICIT) | "elicit donations" — ianə toplamağa nail olmaq
    door | NEW | A1 | A1-028 (OPEN) | "open the door" — qapını açmaq
    doubt | NEW | B1 | B1-037 (SERIOUS) | "serious doubts" — ciddi şübhələr
+   downside | NEW | C1 | C1-055 (OUTWEIGH) | "outweigh the downsides" — mənfi tərəfləri üstələmək
    downstairs | NEW | A1 | A1-013 (HOUSE) | "upstairs and downstairs" — yuxarı mərtəbədə və aşağı
         mərtəbədə
    downturn | NEW | B2 | B2-018 (ECONOMY) | "an economic downturn" — iqtisadi geriləmə (tənəzzül)
    downward | NEW | B2 | B2-008 (TREND) | "a downward trend" — azalma meyli
    dramatic | NEW | B2 | B2-006 (IMPACT) | "a dramatic impact" — kəskin (çox güclü) təsir
+   drawback | NEW | C1 | C1-055 (OUTWEIGH) | "outweigh the drawbacks" — çatışmazlıqları üstələmək
    dread | NEW | C2 | C2-040 (REPERCUSSION) | "dread the repercussions" — nəticələrindən
         vahimələnmək
    dream | NEW | A2 | A2-031 (HOPE) | "hopes and dreams" — ümidlər və arzular
@@ -789,6 +892,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    drop | NEW | B2 | B2-016 (DEMAND) | "a drop in demand" — tələbatın azalması
    drought | NEW | C1 | C1-025 (RESILIENT) | "resilient to drought" — quraqlığa davamlı
    dry | NEW | A1 | A1-039 (HOT) | "hot and dry" — isti və quru
+   dust | NEW | C1 | C1-041 (ACCUMULATE) | "accumulate dust" — toz yığmaq (toz basmaq)
    duty | NEW | C1 | C1-003 (ALLOCATE) | "allocate duties" — vəzifələri bölüşdürmək
 
 — E —
@@ -807,6 +911,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    ECONOMY | MAIN | B2 | B2-018 (ECONOMY) | main word — iqtisadiyyat; qənaət
    ecosystem | NEW | C1 | C1-029 (DETRIMENTAL) | "detrimental to the ecosystem" — ekosistemə zərərli
    edge | NEW | B2 | B2-014 (COMPETE) | "a competitive edge" — rəqabət üstünlüyü
+   editorial | NEW | C1 | C1-043 (AUTONOMY) | "editorial autonomy" — redaksiya müstəqilliyi
    educate | FAMILY | B1 | B1-011 (EDUCATION) | word family (v) — təhsil vermək, maarifləndirmək
    educated | FAMILY | B1 | B1-011 (EDUCATION) | word family (adj) — təhsilli, savadlı
    EDUCATION | MAIN | B1 | B1-011 (EDUCATION) | main word — təhsil, maarif
@@ -832,6 +937,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         formada yaymaq
    elegance | NEW | C2 | C2-010 (EPITOMISE) | "the epitome of elegance" — zərifliyin təcəssümü
    element | NEW | B2 | B2-012 (CRUCIAL) | "a crucial element" — ən vacib ünsür (element)
+   ELICIT | MAIN | C1 | C1-050 (ELICIT) | main word — (cavab, reaksiya) doğurmaq, almaq, üzə
+        çıxarmaq
    elite | NEW | C2 | C2-036 (ENTRENCHED) | "an entrenched elite" — möhkəmlənmiş elita
    email | NEW | A1 | A1-018 (READ) | "read an email" — elektron məktub oxumaq
    embargo | NEW | C2 | C2-008 (CIRCUMVENT) | "circumvent the embargo" — embarqodan yan keçmək
@@ -841,6 +948,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    emergency | NEW | B1 | B1-041 (DEAL) | "deal with an emergency" — fövqəladə vəziyyətin öhdəsindən
         gəlmək
    emerging | FAMILY | B2 | B2-037 (EMERGE) | word family (adj) — yeni yaranan, inkişaf etməkdə olan
+   emigration | NEW | C1 | C1-046 (CONTEMPLATE) | "contemplate emigration" — mühacirət etmək barədə
+        düşünmək
    emission | NEW | B1 | B1-024 (REDUCE) | "reduce emissions" — (zərərli qaz) tullantılarını
         azaltmaq
    emotional | NEW | B1 | B1-026 (SUPPORT) | "emotional support" — mənəvi-psixoloji dəstək
@@ -851,6 +960,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    employer | FAMILY | B1 | B1-009 (EMPLOY) | word family (n) — işəgötürən
    employment | FAMILY | B1 | B1-009 (EMPLOY) | word family (n) — məşğulluq, iş
    empty | NEW | C2 | C2-015 (RHETORIC) | "empty rhetoric" — içi boş sözlər
+   ENCOMPASS | MAIN | C1 | C1-051 (ENCOMPASS) | main word — əhatə etmək, özündə birləşdirmək
    encounter | NEW | C2 | C2-034 (FRAUGHT) | "a fraught encounter" — gərgin qarşılaşma
    encourage | NEW | B2 | B2-024 (INNOVATE) | "encourage innovation" — yenilikləri təşviq etmək
    ending | NEW | C1 | C1-004 (AMBIGUOUS) | "an ambiguous ending" — ikimənalı (açıq) sonluq
@@ -879,6 +989,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    entrench | FAMILY | C2 | C2-036 (ENTRENCHED) | word family (v) — möhkəmləndirmək, kök saldırmaq
    ENTRENCHED | MAIN | C2 | C2-036 (ENTRENCHED) | main word — dərin kök salmış, möhkəmlənmiş
    entrenchment | FAMILY | C2 | C2-036 (ENTRENCHED) | word family (n) — möhkəmlənmə, kök salma
+   entrepreneur | NEW | C1 | C1-042 (ASPIRE) | "an aspiring entrepreneur" — sahibkar olmağa can atan
+        şəxs
    ENVIRONMENT | MAIN | B1 | B1-021 (ENVIRONMENT) | main word — ətraf mühit; mühit, şərait
    environmental | FAMILY | B1 | B1-021 (ENVIRONMENT) | word family (adj) — ətraf mühitlə bağlı,
         ekoloji
@@ -947,7 +1059,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    expectation | NEW | C1 | C1-034 (LEGITIMATE) | "a legitimate expectation" — əsaslı gözlənti
    expenditure | NEW | C1 | C1-017 (SCRUTINY) | "scrutinise expenditure" — xərcləri diqqətlə
         yoxlamaq
-   expensive | NEW | A1 | A1-011 (MONEY) | "cheap or expensive" — ucuz, yoxsa baha
+   expense | NEW | C1 | C1-055 (OUTWEIGH) | "outweigh the expense" — xərci üstələmək   [see also:
+        expensive A1-011]
+   expensive | NEW | A1 | A1-011 (MONEY) | "cheap or expensive" — ucuz, yoxsa baha   [see also:
+        expense C1-055]
    EXPERIENCE | MAIN | B1 | B1-005 (EXPERIENCE) | main word — təcrübə; başa gələn hadisə, təəssürat;
         yaşamaq, üzləşmək
    experienced | FAMILY | B1 | B1-005 (EXPERIENCE) | word family (adj) — təcrübəli
@@ -957,6 +1072,9 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         yaymaq   [see also: expert B1-017]
    EXPLAIN | MAIN | B1 | B1-012 (EXPLAIN) | main word — izah etmək, başa salmaq
    explanation | FAMILY | B1 | B1-012 (EXPLAIN) | word family (n) — izah, izahat
+   EXPLICIT | MAIN | C1 | C1-052 (EXPLICIT) | main word — açıq-aydın, birbaşa ifadə olunmuş;
+        açıq-saçıq
+   explicitly | FAMILY | C1 | C1-052 (EXPLICIT) | word family (adv) — açıq şəkildə
    exploit | NEW | B2 | B2-019 (RESOURCE) | "exploit resources" — ehtiyatlardan istifadə etmək,
         onları istismar etmək
    explore | NEW | C1 | C1-021 (FEASIBLE) | "explore the feasibility" — mümkünlüyünü araşdırmaq
@@ -985,6 +1103,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         danışdıqları (ifadəsi)
 
 — F —
+   fabric | NEW | C1 | C1-060 (TRANSPARENT) | "a transparent fabric" — şəffaf parça
    face | NEW | A1 | A1-038 (HAPPY) | "a happy face" — şən üz, gülər üz
    FACILITATE | MAIN | C1 | C1-009 (FACILITATE) | main word — asanlaşdırmaq, şərait yaratmaq
    facilitation | FAMILY | C1 | C1-009 (FACILITATE) | word family (n) — asanlaşdırma, dəstək
@@ -994,6 +1113,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         yaratmaq
    fact | NEW | A2 | A2-040 (INTEREST) | "interesting facts" — maraqlı faktlar
    factor | NEW | B2 | B2-011 (SIGNIFICANT) | "a significant factor" — mühüm amil
+   factory | NEW | C1 | C1-054 (OBSOLETE) | "an obsolete factory" — köhnəlmiş zavod
    fair | NEW | B1 | B1-041 (DEAL) | "a fair deal" — ədalətli sövdələşmə; ədalətli rəftar   [see
         also: fairly A2-035]
    fairly | NEW | A2 | A2-035 (EASY) | "fairly easy" — kifayət qədər asan   [see also: fair B1-041]
@@ -1011,6 +1131,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    farewell | NEW | C2 | C2-026 (POIGNANT) | "a poignant farewell" — kövrək vida
    fashion | NEW | A2 | A2-009 (SHOW) | "a fashion show" — moda nümayişi
    fast | NEW | A2 | A2-020 (GROW) | "grow fast" — sürətlə böyümək, sürətlə artmaq
+   fat | NEW | C1 | C1-041 (ACCUMULATE) | "accumulate fat" — piy toplamaq
    fatally | NEW | C1 | C1-018 (UNDERMINE) | "fatally undermine" — sağalmaz zərbə vurmaq, tamamilə
         sarsıtmaq
    father | NEW | A1 | A1-014 (FAMILY) | "mother and father" — ana və ata
@@ -1027,7 +1148,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    feedback | NEW | B1 | B1-025 (PROVIDE) | "provide feedback" — rəy bildirmək, əks-əlaqə vermək
    FEEL | MAIN | A2 | A2-028 (FEEL) | main word — hiss etmək, duymaq; özünü ... hiss etmək
    feeling | FAMILY | A2 | A2-028 (FEEL) | word family (n) — hiss, duyğu
+   fence | NEW | C1 | C1-058 (REINFORCE) | "reinforce the fence" — hasarı möhkəmləndirmək
    ferry | NEW | A2 | A2-006 (MISS) | "miss the ferry" — bərəyə gecikmək
+   feud | NEW | C1 | C1-057 (PERPETUATE) | "perpetuate a feud" — ədavəti davam etdirmək
+   fiction | NEW | C1 | C1-057 (PERPETUATE) | "perpetuate a fiction" — uydurmanı yaşatmaq
    field | NEW | B2 | B2-010 (RESEARCH) | "a field of research" — tədqiqat sahəsi
    fierce | NEW | B2 | B2-014 (COMPETE) | "fierce competition" — kəskin rəqabət
    figure | NEW | B2 | B2-021 (CONTROVERSIAL) | "a controversial figure" — birmənalı qarşılanmayan
@@ -1076,6 +1200,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         also: formal B1-015]
    formal | NEW | B1 | B1-015 (COMPLAIN) | "a formal complaint" — rəsmi şikayət   [see also: form
         B1-010]
+   format | NEW | C1 | C1-054 (OBSOLETE) | "an obsolete format" — istifadədən çıxmış format
    formulate | NEW | B2 | B2-020 (POLICY) | "formulate a policy" — siyasət işləyib hazırlamaq
    fortune | NEW | C1 | C1-010 (FLUCTUATE) | "fluctuating fortunes" — dəyişkən tale (uğurun gah
         gülüb, gah dönməsi)
@@ -1100,11 +1225,14 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    FRIEND | MAIN | A1 | A1-015 (FRIEND) | main word — dost
    friendly | FAMILY | A1 | A1-015 (FRIEND) | word family (adj) — mehriban, dostyana
    friendship | FAMILY | A1 | A1-015 (FRIEND) | word family (n) — dostluq
+   frost | NEW | C1 | C1-059 (SUSCEPTIBLE) | "susceptible to frost" — şaxtaya davamsız
    fruit | NEW | A1 | A1-007 (EAT) | "eat fruit" — meyvə yemək
    frustration | NEW | C2 | C2-034 (FRAUGHT) | "fraught with frustration" — məyusluqla dolu
    fuel | NEW | B2 | B2-015 (CONSUME) | "fuel consumption" — yanacaq sərfiyyatı
+   fulfil | NEW | C1 | C1-042 (ASPIRE) | "fulfil an aspiration" — arzunu həyata keçirmək
    full | NEW | A2 | A2-026 (STOP) | "a full stop" — nöqtə (durğu işarəsi)
    full-time | NEW | B1 | B1-009 (EMPLOY) | "full-time employment" — tam ştatlı iş
+   function | NEW | C1 | C1-043 (AUTONOMY) | "function autonomously" — müstəqil fəaliyyət göstərmək
    fund | NEW | B2 | B2-010 (RESEARCH) | "fund research" — tədqiqatı maliyyələşdirmək
    fundamental | NEW | C2 | C2-019 (DICHOTOMY) | "a fundamental dichotomy" — köklü ziddiyyət
    fundraising | NEW | B2 | B2-022 (CAMPAIGN) | "a fundraising campaign" — vəsait toplama
@@ -1126,6 +1254,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    gap | NEW | B2 | B2-032 (GENERATE) | "the generation gap" — nəsillər arasındakı fərq (uçurum)
    garden | NEW | A1 | A1-026 (HELP) | "help in the garden" — bağda kömək etmək
    gas | NEW | B2 | B2-025 (CLIMATE) | "greenhouse gases" — istixana qazları
+   gasp | NEW | C1 | C1-050 (ELICIT) | "elicit a gasp" — heyrət nidasına səbəb olmaq
    gate | NEW | A1 | A1-028 (OPEN) | "open the gate" — darvazanı açmaq
    gather | NEW | B2 | B2-004 (EVIDENCE) | "gather evidence" — sübut toplamaq
    gender | NEW | C1 | C1-028 (DISPARITY) | "gender disparity" — gender qeyri-bərabərliyi
@@ -1135,6 +1264,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         (enerji)
    generator | FAMILY | B2 | B2-032 (GENERATE) | word family (n) — generator
    generously | NEW | B2 | B2-036 (CONTRIBUTE) | "contribute generously" — səxavətlə ianə vermək
+   genetically | NEW | C1 | C1-059 (SUSCEPTIBLE) | "genetically susceptible" — irsən meyilli
+   genre | NEW | C1 | C1-051 (ENCOMPASS) | "encompass genres" — janrları əhatə etmək
    genuine | NEW | C2 | C2-022 (CONTENTIOUS) | "a genuine contender" — real iddiaçı
    geopolitical | NEW | C2 | C2-014 (RAMIFICATION) | "geopolitical ramifications" — geosiyasi
         nəticələr
@@ -1157,7 +1288,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    goods | NEW | B2 | B2-015 (CONSUME) | "consumer goods" — istehlak malları
    goodwill | NEW | C1 | C1-022 (FOSTER) | "foster goodwill" — xoş münasibət yaratmaq
    gossip | NEW | C2 | C2-004 (PERNICIOUS) | "pernicious gossip" — zərərli dedi-qodu
-   government | NEW | B1 | B1-026 (SUPPORT) | "support the government" — hökuməti dəstəkləmək
+   governance | NEW | C1 | C1-060 (TRANSPARENT) | "transparent governance" — şəffaf idarəçilik
+        [see also: government B1-026]
+   government | NEW | B1 | B1-026 (SUPPORT) | "support the government" — hökuməti dəstəkləmək   [see
+        also: governance C1-060]
    grade | NEW | B1 | B1-001 (ACHIEVE) | "achieve excellent grades" — əla qiymətlər almaq
    gradually | NEW | B1 | B1-003 (IMPROVE) | "improve gradually" — tədricən yaxşılaşmaq
    graffiti | NEW | C2 | C2-003 (UBIQUITOUS) | "ubiquitous graffiti" — hər yeri bürümüş qraffiti
@@ -1211,17 +1345,21 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         daşımaq
    halt | NEW | C2 | C2-006 (PROLIFERATE) | "halt the proliferation" — yayılmanı dayandırmaq
    hand | NEW | A1 | A1-006 (GIVE) | "give sb a hand" — kiməsə kömək etmək
+   handbook | NEW | C1 | C1-045 (COMPREHENSIVE) | "a comprehensive handbook" — əhatəli məlumat
+        kitabçası
    handle | NEW | B1 | B1-015 (COMPLAIN) | "handle a complaint" — şikayətə baxmaq, şikayəti
         araşdırıb cavablandırmaq
    happily | FAMILY | A1 | A1-038 (HAPPY) | word family (adv) — xoşbəxtliklə, sevinclə
    happiness | FAMILY | A1 | A1-038 (HAPPY) | word family (n) — xoşbəxtlik
    HAPPY | MAIN | A1 | A1-038 (HAPPY) | main word — xoşbəxt, şad, sevincli
+   harbour | NEW | C1 | C1-042 (ASPIRE) | "harbour aspirations" — ürəyində arzu bəsləmək
    hard | NEW | A1 | A1-023 (WORK) | "work hard" — çox işləmək, səylə çalışmaq   [see also: hardship
         C1-001]
    hard-working | FAMILY | A1 | A1-023 (WORK) | word family (adj) — zəhmətkeş, çalışqan
    hardly | NEW | C2 | C2-018 (PANACEA) | "hardly a panacea" — heç də universal çarə deyil
    hardship | NEW | C1 | C1-001 (ALLEVIATE) | "alleviate hardship" — çətinliyi (məhrumiyyəti)
         yüngülləşdirmək   [see also: hard A1-023]
+   hardware | NEW | C1 | C1-054 (OBSOLETE) | "obsolete hardware" — köhnəlmiş aparat təminatı
    harm | NEW | A2 | A2-038 (SAFE) | "safe from harm" — ziyandan (təhlükədən) qorunmuş
    harmony | NEW | C1 | C1-022 (FOSTER) | "foster harmony" — harmoniyanı (həmahəngliyi) təşviq etmək
    harsh | NEW | B2 | B2-025 (CLIMATE) | "a harsh climate" — sərt iqlim
@@ -1274,6 +1412,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    hopeful | FAMILY | A2 | A2-031 (HOPE) | word family (adj) — ümidli
    hopefully | FAMILY | A2 | A2-031 (HOPE) | word family (adv) — ümid edirəm ki, inşallah
    hopeless | FAMILY | A2 | A2-031 (HOPE) | word family (adj) — ümidsiz, çarəsiz
+   horizon | NEW | C1 | C1-046 (CONTEMPLATE) | "contemplate the horizon" — üfüqü seyr etmək
    hospital | NEW | A2 | A2-004 (ARRIVE) | "arrive at the hospital" — xəstəxanaya çatmaq
    hostile | NEW | B2 | B2-027 (ATTITUDE) | "a hostile attitude" — düşməncəsinə münasibət
    HOT | MAIN | A1 | A1-039 (HOT) | main word — isti, qaynar; acı (ədviyyatlı)
@@ -1304,11 +1443,13 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    ideal | NEW | B1 | B1-027 (SOLVE) | "an ideal solution" — ideal həll yolu
    identity | NEW | B2 | B2-028 (ESTABLISH) | "establish the identity" — şəxsiyyətini müəyyən etmək
    ideology | NEW | C1 | C1-015 (PREVALENT) | "the prevalent ideology" — hakim ideologiya
+   ignorance | NEW | C1 | C1-057 (PERPETUATE) | "perpetuate ignorance" — cəhaləti davam etdirmək
    ignore | NEW | B1 | B1-018 (ADVICE) | "ignore advice" — məsləhətə məhəl qoymamaq
    ill | NEW | A2 | A2-018 (FALL) | "fall ill" — xəstələnmək   [see also: illness B1-037]
    illegitimate | FAMILY | C1 | C1-034 (LEGITIMATE) | word family (adj) — qeyri-qanuni, əsassız
    illness | NEW | B1 | B1-037 (SERIOUS) | "a serious illness" — ağır xəstəlik   [see also: ill
         A2-018]
+   illusion | NEW | C1 | C1-057 (PERPETUATE) | "perpetuate the illusion" — illüziyanı yaşatmaq
    image | NEW | C2 | C2-012 (JUXTAPOSE) | "juxtapose images" — təsvirləri yanaşı qoymaq
    imbalance | NEW | C2 | C2-001 (EXACERBATE) | "exacerbate the imbalance" — tarazlığın pozulmasını
         gücləndirmək   [see also: balance A2-016]
@@ -1323,14 +1464,19 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    implementation | FAMILY | C1 | C1-011 (IMPLEMENT) | word family (n) — həyata keçirilmə, icra
    implication | NEW | C1 | C1-016 (PROFOUND) | "profound implications" — ciddi (uzağa gedən)
         nəticələr
+   implicit | FAMILY | C1 | C1-052 (EXPLICIT) | word family (adj) — üstüörtülü, nəzərdə tutulan
+   implicitly | FAMILY | C1 | C1-052 (EXPLICIT) | word family (adv) — üstüörtülü şəkildə, həmçinin
+        şərtsiz
    import | NEW | B2 | B2-034 (RESTRICT) | "restrict imports" — idxalı məhdudlaşdırmaq
    importance | FAMILY | A2 | A2-037 (IMPORTANT) | word family (n) — əhəmiyyət, vaciblik
    IMPORTANT | MAIN | A2 | A2-037 (IMPORTANT) | main word — vacib, mühüm, əhəmiyyətli
    importantly | FAMILY | A2 | A2-037 (IMPORTANT) | word family (adv) — ən əsası, mühüm olanı
    impose | NEW | B2 | B2-034 (RESTRICT) | "impose restrictions" — məhdudiyyətlər tətbiq etmək
+   impression | NEW | C1 | C1-058 (REINFORCE) | "reinforce the impression" — təəssüratı gücləndirmək
    IMPROVE | MAIN | B1 | B1-003 (IMPROVE) | main word — yaxşılaşdırmaq, təkmilləşdirmək; yaxşılaşmaq
    improvement | FAMILY | B1 | B1-003 (IMPROVE) | word family (n) — yaxşılaşma, irəliləyiş
-   in-depth | NEW | B2 | B2-001 (ANALYSE) | "an in-depth analysis" — dərin (ətraflı) təhlil
+   in-depth | NEW | B2 | B2-001 (ANALYSE) | "an in-depth analysis" — dərin (ətraflı) təhlil   [see
+        also: depth C1-056]
    INCENTIVE | MAIN | C1 | C1-012 (INCENTIVE) | main word — stimul, həvəsləndirici amil
    incentivise | FAMILY | C1 | C1-012 (INCENTIVE) | word family (v) — stimullaşdırmaq,
         həvəsləndirmək
@@ -1341,12 +1487,15 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         COME A1-002]
    incongruous | NEW | C2 | C2-012 (JUXTAPOSE) | "an incongruous juxtaposition" — yersiz (uyğun
         gəlməyən) qarşılaşdırma
+   inconvenience | NEW | C1 | C1-055 (OUTWEIGH) | "outweigh the inconvenience" — narahatlığı
+        (əziyyəti) üstələmək
    incorrect | NEW | B2 | B2-003 (ASSUME) | "an incorrect assumption" — yanlış fərziyyə
    INCREASE | MAIN | B1 | B1-023 (INCREASE) | main word — artmaq, artırmaq; artım
    increasingly | FAMILY | B1 | B1-023 (INCREASE) | word family (adv) — getdikcə daha çox
    indecisive | FAMILY | B1 | B1-020 (DECIDE) | word family (adj) — qətiyyətsiz, tərəddüd edən
    independence | NEW | B1 | B1-001 (ACHIEVE) | "achieve independence" — müstəqillik əldə etmək
    indicate | NEW | B2 | B2-010 (RESEARCH) | "research indicates" — tədqiqat göstərir ki
+   individual | NEW | C1 | C1-043 (AUTONOMY) | "individual autonomy" — fərdi müstəqillik
    indoors | NEW | A2 | A2-002 (STAY) | "stay indoors" — bayıra çıxmamaq, içəridə qalmaq
    industry | NEW | B2 | B2-037 (EMERGE) | "an emerging industry" — yeni yaranan sənaye sahəsi
    inequality | NEW | B2 | B2-031 (TACKLE) | "tackle inequality" — bərabərsizliklə mübarizə aparmaq
@@ -1362,11 +1511,17 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         qoymaq
    INHERENT | MAIN | C1 | C1-013 (INHERENT) | main word — xas olan, ayrılmaz, daxili
    inherently | FAMILY | C1 | C1-013 (INHERENT) | word family (adv) — təbiətcə, mahiyyət etibarilə
+   INHIBIT | MAIN | C1 | C1-053 (INHIBIT) | main word — ləngitmək, mane olmaq, qarşısını almaq
+   inhibition | FAMILY | C1 | C1-053 (INHIBIT) | word family (n) — sıxılma, utancaqlıq, həmçinin
+        ləngimə
+   inhibitor | FAMILY | C1 | C1-053 (INHIBIT) | word family (n) — ləngidici maddə
    initial | NEW | B2 | B2-002 (ASSESS) | "an initial assessment" — ilkin qiymətləndirmə
    initiative | NEW | C1 | C1-011 (IMPLEMENT) | "implement an initiative" — təşəbbüsü həyata
         keçirmək
    inject | NEW | C2 | C2-035 (IMPETUS) | "inject impetus into" — nəyəsə yeni nəfəs (təkan) vermək
    injury | NEW | B1 | B1-029 (CAUSE) | "cause an injury" — xəsarət yetirmək
+   injustice | NEW | C1 | C1-057 (PERPETUATE) | "perpetuate injustice" — ədalətsizliyi davam
+        etdirmək   [see also: justice C1-015]
    inner | NEW | C1 | C1-025 (RESILIENT) | "inner resilience" — daxili dayanıqlılıq (mətanət)
    INNOVATE | MAIN | B2 | B2-024 (INNOVATE) | main word — yenilik etmək, yeniliklər tətbiq etmək
    innovation | FAMILY | B2 | B2-024 (INNOVATE) | word family (n) — yenilik, innovasiya
@@ -1386,6 +1541,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    institutional | NEW | C1 | C1-007 (CONSTRAINT) | "institutional constraints" — institusional
         məhdudiyyətlər
    instruction | NEW | A2 | A2-038 (SAFE) | "safety instructions" — təhlükəsizlik təlimatı
+   insult | NEW | C1 | C1-056 (PERCEIVE) | "a perceived insult" — təhqir kimi qəbul edilən söz
+        (hərəkət)
    insurance | NEW | A2 | A2-033 (HEALTH) | "health insurance" — tibbi sığorta
    integration | NEW | C1 | C1-009 (FACILITATE) | "facilitate integration" — inteqrasiyanı
         asanlaşdırmaq
@@ -1412,6 +1569,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    INTRINSIC | MAIN | C2 | C2-023 (INTRINSIC) | main word — daxili, mahiyyətinə xas, özünəməxsus
    intrinsically | FAMILY | C2 | C2-023 (INTRINSIC) | word family (adv) — mahiyyət etibarilə,
         öz-özlüyündə
+   intuitively | NEW | C1 | C1-056 (PERCEIVE) | "perceive intuitively" — intuitiv olaraq dərk etmək
+   inverse | NEW | C1 | C1-047 (CORRELATE) | "an inverse correlation" — tərs korrelyasiya
    INVEST | MAIN | B2 | B2-013 (INVEST) | main word — sərmayə qoymaq, investisiya yatırmaq; (vaxt,
         güc) sərf etmək
    investigation | NEW | C1 | C1-023 (HINDER) | "hinder an investigation" — istintaqa (araşdırmaya)
@@ -1441,7 +1600,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         düzgünlüyünü təsdiqləmək
    judicial | NEW | C1 | C1-017 (SCRUTINY) | "judicial scrutiny" — məhkəmə nəzarəti
    juice | NEW | A1 | A1-008 (DRINK) | "drink orange juice" — portağal şirəsi içmək
-   justice | NEW | C1 | C1-015 (PREVALENT) | "justice will prevail" — ədalət qalib gələcək
+   justice | NEW | C1 | C1-015 (PREVALENT) | "justice will prevail" — ədalət qalib gələcək   [see
+        also: injustice C1-057]
    justification | NEW | C1 | C1-006 (COMPELLING) | "a compelling justification" — tutarlı əsas
         (haqq qazandıran səbəb)
    JUXTAPOSE | MAIN | C2 | C2-012 (JUXTAPOSE) | main word — yanaşı qoymaq, qarşılaşdırmaq
@@ -1478,11 +1638,15 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    last | NEW | A1 | A1-030 (TIME) | "last time" — keçən dəfə; sonuncu dəfə
    late | NEW | A1 | A1-002 (COME) | "come late" — gec gəlmək
    laughing | NEW | A2 | A2-026 (STOP) | "stop laughing" — gülməyi kəsmək
+   laughter | NEW | C1 | C1-050 (ELICIT) | "elicit laughter" — gülüş doğurmaq
    launch | NEW | B2 | B2-022 (CAMPAIGN) | "launch a campaign" — kampaniyaya başlamaq
    law | NEW | A2 | A2-019 (BREAK) | "break the law" — qanunu pozmaq   [see also: legal B1-018]
    layer | NEW | C1 | C1-030 (DEPLETE) | "deplete the ozone layer" — ozon təbəqəsini dağıtmaq
         (nazikləşdirmək)
-   leader | NEW | A2 | A2-039 (STRONG) | "a strong leader" — güclü lider, qətiyyətli rəhbər
+   leader | NEW | A2 | A2-039 (STRONG) | "a strong leader" — güclü lider, qətiyyətli rəhbər   [see
+        also: leadership C1-042]
+   leadership | NEW | C1 | C1-042 (ASPIRE) | "aspire to leadership" — rəhbərliyə can atmaq   [see
+        also: leader A2-039]
    leading | NEW | B2 | B2-010 (RESEARCH) | "a leading researcher" — aparıcı tədqiqatçı   [see also:
         misleading C2-019]
    leaflet | NEW | C2 | C2-009 (DISSEMINATE) | "disseminate leaflets" — vərəqələr yaymaq
@@ -1520,7 +1684,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    limit | NEW | B1 | B1-038 (SET) | "set a limit" — hədd (limit) qoymaq
    linguistic | NEW | C2 | C2-013 (NUANCE) | "linguistic nuances" — dil incəlikləri
    link | NEW | A2 | A2-008 (SEND) | "send a link" — keçid (link) göndərmək
-   liquidity | NEW | C2 | C2-037 (BOLSTER) | "bolster liquidity" — likvidliyi artırmaq
+   liquid | NEW | C1 | C1-060 (TRANSPARENT) | "a transparent liquid" — şəffaf maye   [see also:
+        liquidity C2-037]
+   liquidity | NEW | C2 | C2-037 (BOLSTER) | "bolster liquidity" — likvidliyi artırmaq   [see also:
+        liquid C1-060]
    list | NEW | A1 | A1-005 (MAKE) | "make a list" — siyahı tutmaq, siyahı hazırlamaq
    LISTEN | MAIN | A1 | A1-022 (LISTEN) | main word — qulaq asmaq, dinləmək
    listener | FAMILY | A1 | A1-022 (LISTEN) | word family (n) — dinləyici
@@ -1538,6 +1705,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    loan | NEW | B1 | B1-010 (APPLY) | "apply for a loan" — kredit üçün müraciət etmək   [see also:
         lend C2-035]
    local | NEW | A2 | A2-011 (TRY) | "try the local food" — yerli yeməklərin dadına baxmaq
+   lofty | NEW | C1 | C1-042 (ASPIRE) | "lofty aspirations" — ali arzular
    logical | NEW | B1 | B1-012 (EXPLAIN) | "a logical explanation" — məntiqi izah
    lonely | NEW | A2 | A2-028 (FEEL) | "feel lonely" — özünü tənha hiss etmək
    long | NEW | B1 | B1-039 (RUN) | "in the long run" — uzun müddətdə, gələcəkdə
@@ -1561,6 +1729,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    luxury | NEW | C2 | C2-010 (EPITOMISE) | "the epitome of luxury" — dəbdəbənin təcəssümü
 
 — M —
+   machinery | NEW | C1 | C1-054 (OBSOLETE) | "obsolete machinery" — köhnəlmiş avadanlıq (dəzgahlar)
    magazine | NEW | A1 | A1-018 (READ) | "read a magazine" — jurnal oxumaq
    main | NEW | A2 | A2-032 (WORRY) | "the main worry" — əsas narahatlıq, başlıca qayğı
    MAINTAIN | MAIN | B2 | B2-029 (MAINTAIN) | main word — saxlamaq, qoruyub saxlamaq; texniki qulluq
@@ -1579,6 +1748,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    management | FAMILY | B1 | B1-007 (MANAGE) | word family (n) — idarəetmə, rəhbərlik
    manager | FAMILY | B1 | B1-007 (MANAGE) | word family (n) — menecer, müdir
    mandate | NEW | C2 | C2-016 (UNEQUIVOCAL) | "an unequivocal mandate" — şəksiz mandat
+   manipulation | NEW | C1 | C1-059 (SUSCEPTIBLE) | "susceptible to manipulation" — manipulyasiyaya
+        asan məruz qalan
    map | NEW | A1 | A1-018 (READ) | "read a map" — xəritəni oxumaq
    marathon | NEW | B1 | B1-039 (RUN) | "run a marathon" — marafon qaçmaq
    margin | NEW | B2 | B2-017 (PROFIT) | "a profit margin" — mənfəət marjası
@@ -1610,6 +1781,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    memory | NEW | A2 | A2-016 (LOSE) | "lose your memory" — yaddaşını itirmək
    menace | NEW | C2 | C2-029 (INSIDIOUS) | "an insidious menace" — gizli təhlükə
    mental | NEW | A2 | A2-033 (HEALTH) | "mental health" — psixi sağlamlıq, ruhi sağlamlıq
+   mention | NEW | C1 | C1-052 (EXPLICIT) | "explicitly mention" — açıq şəkildə qeyd etmək
    menu | NEW | A1 | A1-021 (ASK) | "ask for the menu" — menyunu istəmək
    merely | NEW | C2 | C2-001 (EXACERBATE) | "merely exacerbate" — yalnız daha da ağırlaşdırmaq
    merger | NEW | C2 | C2-022 (CONTENTIOUS) | "a contentious merger" — mübahisəli birləşmə
@@ -1643,6 +1815,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         bölgü   [see also: leading B2-010]
    MISS | MAIN | A2 | A2-006 (MISS) | main word — qaçırmaq, (nəqliyyata) gecikmək; darıxmaq
    missing | FAMILY | A2 | A2-006 (MISS) | word family (adj) — itkin, çatışmayan
+   mist | NEW | C1 | C1-049 (DISCERN) | "discern through the mist" — duman arasından seçmək
    mistake | NEW | A1 | A1-005 (MAKE) | "make a mistake" — səhv etmək   [see also: TAKE A1-004]
    MITIGATE | MAIN | C1 | C1-014 (MITIGATE) | main word — yumşaltmaq, azaltmaq, yüngülləşdirmək
    mitigation | FAMILY | C1 | C1-014 (MITIGATE) | word family (n) — yumşaltma, azaldılma
@@ -1652,6 +1825,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         [see also: mobile A1-036]
    model | NEW | C1 | C1-019 (VIABLE) | "a viable model" — işlək model
    modern | NEW | A1 | A1-033 (CITY) | "a modern city" — müasir şəhər
+   modest | NEW | C1 | C1-047 (CORRELATE) | "a modest correlation" — zəif (orta dərəcəli)
+        korrelyasiya
    moment | NEW | B1 | B1-020 (DECIDE) | "a decisive moment" — həlledici an
    momentum | NEW | B2 | B2-023 (SUSTAIN) | "sustain momentum" — sürəti (tempi) qoruyub saxlamaq
    monetary | NEW | B2 | B2-020 (POLICY) | "monetary policy" — pul-kredit siyasəti
@@ -1677,6 +1852,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    moving | FAMILY | A2 | A2-013 (MOVE) | word family (adj) — təsirli, kövrəldən
    much-needed | NEW | C2 | C2-035 (IMPETUS) | "a much-needed impetus" — çoxdan gözlənilən (zəruri)
         təkan
+   multitude | NEW | C1 | C1-051 (ENCOMPASS) | "encompass a multitude of" — çoxlu sayda ... əhatə
+        etmək
    murder | NEW | C2 | C2-032 (TANTAMOUNT) | "tantamount to murder" — qətlə bərabər
    muscle | NEW | A2 | A2-039 (STRONG) | "strong muscles" — güclü əzələlər
    museum | NEW | A1 | A1-033 (CITY) | "museums and theatres" — muzeylər və teatrlar
@@ -1747,6 +1924,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    objection | NEW | C1 | C1-034 (LEGITIMATE) | "a legitimate objection" — əsaslı etiraz
    objectively | NEW | B2 | B2-002 (ASSESS) | "assess objectively" — obyektiv qiymətləndirmək
    observation | NEW | C2 | C2-024 (METICULOUS) | "meticulous observation" — diqqətli müşahidə
+   obsolescence | FAMILY | C1 | C1-054 (OBSOLETE) | word family (n) — köhnəlmə, istifadədən çıxma
+   OBSOLETE | MAIN | C1 | C1-054 (OBSOLETE) | main word — köhnəlmiş, istifadədən çıxmış
    obstacle | NEW | C2 | C2-008 (CIRCUMVENT) | "circumvent an obstacle" — maneəni dolanıb keçmək
    obvious | NEW | B1 | B1-027 (SOLVE) | "an obvious solution" — göz qabağında olan həll yolu
    odour | NEW | C2 | C2-025 (PERVASIVE) | "a pervasive odour" — hər yerə hopmuş qoxu
@@ -1773,6 +1952,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    OPPORTUNITY | MAIN | B1 | B1-032 (OPPORTUNITY) | main word — imkan, fürsət
    opposition | NEW | C2 | C2-011 (GALVANISE) | "galvanise the opposition" — müxalifəti səfərbər
         etmək
+   oppression | NEW | C1 | C1-057 (PERPETUATE) | "perpetuate oppression" — zülmü davam etdirmək
    optimism | NEW | C2 | C2-027 (RESURGENCE) | "a resurgence of optimism" — nikbinliyin yenidən
         canlanması
    option | NEW | A2 | A2-022 (CHOOSE) | "choose an option" — variant seçmək
@@ -1786,19 +1966,24 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         olmaq
    outcome | NEW | B1 | B1-002 (SUCCEED) | "a successful outcome" — uğurlu nəticə
    outdated | NEW | C2 | C2-020 (PARADIGM) | "an outdated paradigm" — köhnəlmiş paradiqma
+   outline | NEW | C1 | C1-049 (DISCERN) | "no discernible outline" — heç bir sezilən kontur
    output | NEW | C2 | C2-037 (BOLSTER) | "bolster output" — istehsal həcmini artırmaq
+   outrage | NEW | C1 | C1-050 (ELICIT) | "elicit outrage" — qəzəb doğurmaq
    outspoken | NEW | C1 | C1-002 (ADVOCATE) | "an outspoken advocate" — fikrini açıq deyən tərəfdar
    outstanding | NEW | B2 | B2-036 (CONTRIBUTE) | "an outstanding contribution" — müstəsna töhfə
+   OUTWEIGH | MAIN | C1 | C1-055 (OUTWEIGH) | main word — üstələmək, daha əhəmiyyətli olmaq
    oven | NEW | A1 | A1-039 (HOT) | "a hot oven" — qızmış soba
    overcome | NEW | B1 | B1-033 (CHALLENGE) | "overcome a challenge" — çətinliyə qalib gəlmək
    overcrowding | NEW | C1 | C1-001 (ALLEVIATE) | "alleviate overcrowding" — həddindən artıq sıxlığı
         azaltmaq
+   overhaul | NEW | C1 | C1-045 (COMPREHENSIVE) | "a comprehensive overhaul" — köklü yenidənqurma
    overnight | NEW | A2 | A2-002 (STAY) | "stay overnight" — gecələmək, gecəni qalmaq
    overseas | NEW | B2 | B2-013 (INVEST) | "overseas investment" — xarici sərmayə (xaricdən gələn və
         ya xaricə yönələn)
    oversee | NEW | C1 | C1-011 (IMPLEMENT) | "oversee the implementation" — icraya nəzarət etmək
    oversight | NEW | C2 | C2-038 (STRINGENT) | "stringent oversight" — ciddi nəzarət
    overturn | NEW | C2 | C2-020 (PARADIGM) | "overturn the paradigm" — paradiqmanı alt-üst etmək
+   overview | NEW | C1 | C1-045 (COMPREHENSIVE) | "a comprehensive overview" — əhatəli ümumi baxış
    overwhelming | NEW | C1 | C1-020 (CONSENSUS) | "an overwhelming consensus" — böyük əksəriyyətin
         yekdil rəyi
    own | NEW | B1 | B1-007 (MANAGE) | "manage on your own" — təkbaşına bacarmaq, tək dolanmaq
@@ -1813,6 +1998,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    paid | FAMILY | A2 | A2-023 (PAY) | word family (adj) — ödənişli, haqqı ödənilən
    pain | NEW | B1 | B1-029 (CAUSE) | "cause pain" — ağrı vermək, əzab vermək
    pair | NEW | A1 | A1-010 (BUY) | "buy a pair of shoes" — bir cüt ayaqqabı almaq
+   palate | NEW | C1 | C1-049 (DISCERN) | "a discerning palate" — incə dad duyumu
    PANACEA | MAIN | C2 | C2-018 (PANACEA) | main word — hər dərdin dərmanı, universal çarə
    panic | NEW | C1 | C1-036 (TRIGGER) | "trigger panic" — çaxnaşma yaratmaq
    PARADIGM | MAIN | C2 | C2-020 (PARADIGM) | main word — paradiqma, model, düşüncə çərçivəsi
@@ -1841,6 +2027,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    patient | NEW | B2 | B2-002 (ASSESS) | "assess a patient" — xəstəni müayinə edib vəziyyətini
         qiymətləndirmək
    pattern | NEW | B2 | B2-001 (ANALYSE) | "analyse patterns" — qanunauyğunluqları təhlil etmək
+   pause | NEW | C1 | C1-056 (PERCEIVE) | "a perceptible pause" — sezilən fasilə
    PAY | MAIN | A2 | A2-023 (PAY) | main word — ödəmək, pul vermək; maaş
    payment | FAMILY | A2 | A2-023 (PAY) | word family (n) — ödəniş
    peace | NEW | A2 | A2-003 (LEAVE) | "leave sb in peace" — kimisə rahat buraxmaq   [see also:
@@ -1851,6 +2038,12 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    pen | NEW | A1 | A1-019 (WRITE) | "write with a pen" — qələmlə yazmaq
    penalty | NEW | C1 | C1-014 (MITIGATE) | "mitigate a penalty" — cəzanı yüngülləşdirmək
    people | NEW | A1 | A1-037 (OLD) | "old people" — yaşlı insanlar, qocalar
+   PERCEIVE | MAIN | C1 | C1-056 (PERCEIVE) | main word — qavramaq, dərk etmək; hesab etmək, ...
+        kimi görmək
+   perceived | FAMILY | C1 | C1-056 (PERCEIVE) | word family (adj) — təsəvvür edilən, güman edilən
+   perceptible | FAMILY | C1 | C1-056 (PERCEIVE) | word family (adj) — sezilən
+   perception | FAMILY | C1 | C1-056 (PERCEIVE) | word family (n) — qavrayış, təsəvvür
+   perceptive | FAMILY | C1 | C1-056 (PERCEIVE) | word family (adj) — fərasətli, incə müşahidəli
    perched | NEW | C2 | C2-005 (PRECARIOUS) | "precariously perched" — uçurumun kənarında (güclə)
         dayanan
    perfectly | NEW | A2 | A2-038 (SAFE) | "perfectly safe" — tamamilə təhlükəsiz
@@ -1863,6 +2056,12 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    PERNICIOUS | MAIN | C2 | C2-004 (PERNICIOUS) | main word — zərərli, məhvedici (xüsusilə gizli və
         tədrici şəkildə)
    perniciously | FAMILY | C2 | C2-004 (PERNICIOUS) | word family (adv) — zərərli şəkildə
+   perpetual | FAMILY | C1 | C1-057 (PERPETUATE) | word family (adj) — daimi, ardı-arası kəsilməyən
+   perpetually | FAMILY | C1 | C1-057 (PERPETUATE) | word family (adv) — daim, ara vermədən
+   PERPETUATE | MAIN | C1 | C1-057 (PERPETUATE) | main word — (pis halı) davam etdirmək,
+        əbədiləşdirmək
+   perpetuation | FAMILY | C1 | C1-057 (PERPETUATE) | word family (n) — davam etdirilmə,
+        əbədiləşdirmə
    perplexing | NEW | C2 | C2-017 (CONUNDRUM) | "a perplexing conundrum" — çaşdırıcı müəmma
    persist | NEW | C1 | C1-028 (DISPARITY) | "disparities persist" — fərqlər qalmaqda davam edir
    person | NEW | A2 | A2-006 (MISS) | "a missing person" — itkin düşmüş şəxs   [see also: personal
@@ -1870,6 +2069,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    personal | NEW | B1 | B1-004 (DEVELOP) | "personal development" — şəxsi inkişaf   [see also:
         person A2-006]
    perspective | NEW | C2 | C2-013 (NUANCE) | "a nuanced perspective" — incə çalarlı baxış bucağı
+   persuasion | NEW | C1 | C1-059 (SUSCEPTIBLE) | "susceptible to persuasion" — dilə tutulmağa
+        meyilli
    pervade | FAMILY | C2 | C2-025 (PERVASIVE) | word family (v) — bürümək, hər yerə yayılmaq
    PERVASIVE | MAIN | C2 | C2-025 (PERVASIVE) | main word — hər yerə nüfuz edən, geniş yayılmış
    pervasiveness | FAMILY | C2 | C2-025 (PERVASIVE) | word family (n) — hər yerə nüfuzetmə
@@ -1897,6 +2098,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    planner | FAMILY | A2 | A2-021 (PLAN) | word family (n) — planlaşdırıcı, plan dəftəri
    planning | FAMILY | A2 | A2-021 (PLAN) | word family (n) — planlaşdırma
    plant | NEW | A2 | A2-020 (GROW) | "grow plants" — bitki yetişdirmək
+   plastic | NEW | C1 | C1-060 (TRANSPARENT) | "transparent plastic" — şəffaf plastik
    plausibility | FAMILY | C1 | C1-024 (PLAUSIBLE) | word family (n) — ağlabatanlıq, inandırıcılıq
    PLAUSIBLE | MAIN | C1 | C1-024 (PLAUSIBLE) | main word — ağlabatan, inandırıcı
    plausibly | FAMILY | C1 | C1-024 (PLAUSIBLE) | word family (adv) — ağlabatan şəkildə
@@ -1907,6 +2109,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    plight | NEW | C2 | C2-001 (EXACERBATE) | "exacerbate the plight of" — kiminsə ağır vəziyyətini
         daha da pisləşdirmək
    plot | NEW | B2 | B2-030 (REVEAL) | "reveal a plot" — sui-qəsdi (gizli planı) üzə çıxarmaq
+   ploy | NEW | C1 | C1-060 (TRANSPARENT) | "a transparent ploy" — açıq-aşkar hiylə
    pocket | NEW | A1 | A1-011 (MONEY) | "pocket money" — cib xərcliyi
    podcast | NEW | A1 | A1-022 (LISTEN) | "listen to a podcast" — podkasta qulaq asmaq
    poignancy | FAMILY | C2 | C2-026 (POIGNANT) | word family (n) — kövrəklik, ürəyə toxunan kədər
@@ -1939,6 +2142,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    pose | NEW | B1 | B1-033 (CHALLENGE) | "pose a challenge" — çətinlik yaratmaq, sınaq təşkil etmək
    position | NEW | B1 | B1-010 (APPLY) | "apply for a position" — vəzifəyə müraciət etmək
    positive | NEW | A2 | A2-029 (THINK) | "think positive" — müsbət düşünmək
+   possession | NEW | C1 | C1-041 (ACCUMULATE) | "accumulate possessions" — əşya (var-dövlət)
+        toplamaq
    possibility | NEW | C2 | C2-030 (PRECLUDE) | "preclude the possibility of" — nəyinsə mümkünlüyünü
         istisna etmək   [see also: possible B1-012]
    possible | NEW | B1 | B1-012 (EXPLAIN) | "a possible explanation" — mümkün izah   [see also:
@@ -1946,6 +2151,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    post | NEW | A2 | A2-008 (SEND) | "send by post" — poçtla göndərmək
    postcard | NEW | A1 | A1-019 (WRITE) | "write a postcard" — açıqca yazmaq
    potato | NEW | A2 | A2-020 (GROW) | "grow potatoes" — kartof becərmək
+   potent | NEW | C1 | C1-044 (CATALYST) | "a potent catalyst" — güclü katalizator
    potential | NEW | B2 | B2-013 (INVEST) | "potential investors" — potensial investorlar
    poverty | NEW | B1 | B1-024 (REDUCE) | "reduce poverty" — yoxsulluğu azaltmaq   [see also: poor
         A1-011]
@@ -2000,6 +2206,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    private | NEW | B1 | B1-011 (EDUCATION) | "private education" — özəl təhsil
    privilege | NEW | C2 | C2-036 (ENTRENCHED) | "entrenched privilege" — kök salmış imtiyaz
    prize | NEW | A2 | A2-027 (WIN) | "win a prize" — mükafat (priz) qazanmaq
+   pro | NEW | C1 | C1-055 (OUTWEIGH) | "the pros outweigh the cons" — müsbət cəhətlər mənfiləri
+        üstələyir
    problem | NEW | A1 | A1-035 (BIG) | "a big problem" — böyük problem
    procedure | NEW | C1 | C1-011 (IMPLEMENT) | "implement procedures" — prosedurları tətbiq etmək
    process | NEW | B1 | B1-012 (EXPLAIN) | "explain the process" — prosesi izah etmək
@@ -2017,6 +2225,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    profoundly | FAMILY | C1 | C1-016 (PROFOUND) | word family (adv) — dərindən, son dərəcə
    programme | NEW | A1 | A1-025 (WATCH) | "watch a programme" — verilişə baxmaq
    progress | NEW | B2 | B2-002 (ASSESS) | "assess progress" — irəliləyişi qiymətləndirmək
+   prohibit | NEW | C1 | C1-052 (EXPLICIT) | "explicitly prohibit" — açıq şəkildə qadağan etmək
    project | NEW | B1 | B1-007 (MANAGE) | "manage a project" — layihəni idarə etmək
    PROLIFERATE | MAIN | C2 | C2-006 (PROLIFERATE) | main word — sürətlə çoxalmaq, yayılmaq
    proliferation | FAMILY | C2 | C2-006 (PROLIFERATE) | word family (n) — sürətli artım, yayılma
@@ -2103,14 +2312,18 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         olmaq
    READ | MAIN | A1 | A1-018 (READ) | main word — oxumaq (mətni)
    reader | FAMILY | A1 | A1-018 (READ) | word family (n) — oxucu
+   readily | NEW | C1 | C1-049 (DISCERN) | "readily discernible" — asanlıqla sezilən   [see also:
+        ready A1-003]
    reading | FAMILY | A1 | A1-018 (READ) | word family (n) — oxu, mütaliə
-   ready | NEW | A1 | A1-003 (GET) | "get ready" — hazırlaşmaq
+   ready | NEW | A1 | A1-003 (GET) | "get ready" — hazırlaşmaq   [see also: readily C1-049]
    real | NEW | B1 | B1-033 (CHALLENGE) | "a real challenge" — əsl sınaq   [see also: reality
         C2-015, really A2-030]
    reality | NEW | C2 | C2-015 (RHETORIC) | "rhetoric and reality" — sözlə əməl (ritorika və
         reallıq)   [see also: real B1-033]
    really | NEW | A2 | A2-030 (ENJOY) | "really enjoy" — çox bəyənmək, əsl zövq almaq   [see also:
         real B1-033]
+   realm | NEW | C1 | C1-051 (ENCOMPASS) | "encompass the realm of" — ... sahəsini (aləmini) əhatə
+        etmək
    reason | NEW | A2 | A2-010 (TELL) | "tell sb the reason" — kiməsə səbəbi demək   [see also:
         reasonably B1-036]
    reasonably | NEW | B1 | B1-036 (CONFIDENT) | "reasonably confident" — kifayət qədər əmin   [see
@@ -2132,6 +2345,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    red | NEW | A1 | A1-040 (COLOUR) | "red and blue" — qırmızı və mavi (göy)
    REDUCE | MAIN | B1 | B1-024 (REDUCE) | main word — azaltmaq, endirmək
    reduction | FAMILY | B1 | B1-024 (REDUCE) | word family (n) — azalma, azaldılma, endirim
+   reference | NEW | C1 | C1-052 (EXPLICIT) | "an explicit reference" — birbaşa istinad (xatırlatma)
    referendum | NEW | C2 | C2-022 (CONTENTIOUS) | "a contentious referendum" — mübahisəli referendum
    reflect | NEW | B2 | B2-027 (ATTITUDE) | "reflect attitudes" — münasibətləri əks etdirmək
    reform | NEW | B2 | B2-018 (ECONOMY) | "economic reform" — iqtisadi islahat
@@ -2139,8 +2353,12 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    refuse | NEW | B2 | B2-030 (REVEAL) | "refuse to reveal" — açıqlamaqdan imtina etmək
    regardless | NEW | B2 | B2-005 (CONSEQUENCE) | "regardless of the consequences" — nəticələrindən
         asılı olmayaraq
+   regeneration | NEW | C1 | C1-044 (CATALYST) | "a catalyst for regeneration" — dirçəliş üçün təkan
    regime | NEW | C1 | C1-034 (LEGITIMATE) | "legitimise a regime" — rejimi qanuniləşdirmək
+   region | NEW | C1 | C1-043 (AUTONOMY) | "an autonomous region" — muxtar vilayət   [see also:
+        regional C1-028]
    regional | NEW | C1 | C1-028 (DISPARITY) | "regional disparities" — regionlar arasındakı fərqlər
+        [see also: region C1-043]
    regret | NEW | B1 | B1-020 (DECIDE) | "regret a decision" — qərara görə peşman olmaq
    regular | NEW | B1 | B1-031 (HABIT) | "a regular habit" — daimi vərdiş
    regulation | NEW | C2 | C2-008 (CIRCUMVENT) | "circumvent regulations" — qaydalardan yan keçmək
@@ -2148,6 +2366,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         məhdudiyyətlər
    rehearsed | NEW | C2 | C2-024 (METICULOUS) | "meticulously rehearsed" — diqqətlə məşq edilmiş
    reigning | NEW | C2 | C2-020 (PARADIGM) | "the reigning paradigm" — hökm sürən paradiqma
+   REINFORCE | MAIN | C1 | C1-058 (REINFORCE) | main word — möhkəmləndirmək, gücləndirmək
+   reinforced | FAMILY | C1 | C1-058 (REINFORCE) | word family (adj) — möhkəmləndirilmiş
+   reinforcement | FAMILY | C1 | C1-058 (REINFORCE) | word family (n) — möhkəmləndirmə, həmçinin
+        (cəmdə) əlavə qüvvələr
    reinvest | FAMILY | B2 | B2-013 (INVEST) | word family (v) — yenidən sərmayə kimi yatırmaq
    rejection | NEW | C2 | C2-016 (UNEQUIVOCAL) | "an unequivocal rejection" — qəti rədd
    relation | NEW | C1 | C1-008 (DETERIORATE) | "relations deteriorate" — münasibətlər pisləşir
@@ -2159,6 +2381,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    relatively | NEW | B2 | B2-011 (SIGNIFICANT) | "relatively insignificant" — nisbətən əhəmiyyətsiz
         [see also: relation C1-008, relative A2-002]
    relax | NEW | A2 | A2-011 (TRY) | "try to relax" — dincəlməyə, rahatlanmağa çalışmaq
+   release | NEW | C1 | C1-053 (INHIBIT) | "inhibit the release of" — nəyinsə ifraz olunmasını
+        (buraxılmasını) ləngitmək
    relevant | NEW | C1 | C1-039 (STAKE) | "relevant stakeholders" — müvafiq maraqlı tərəflər
    relieve | NEW | B1 | B1-034 (PRESSURE) | "relieve the pressure" — təzyiqi (gərginliyi) azaltmaq
    reluctant | NEW | C1 | C1-033 (INTERVENE) | "reluctant to intervene" — müdaxilə etməyə meyilli
@@ -2182,6 +2406,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         xoşagəlməz nəticə
    reply | NEW | A2 | A2-008 (SEND) | "send a reply" — cavab göndərmək
    report | NEW | B1 | B1-008 (PREPARE) | "prepare a report" — hesabat hazırlamaq
+   republic | NEW | C1 | C1-043 (AUTONOMY) | "an autonomous republic" — muxtar respublika
    reputation | NEW | B2 | B2-028 (ESTABLISH) | "establish a reputation" — ad çıxarmaq, nüfuz
         qazanmaq
    request | NEW | B2 | B2-040 (EXTENT) | "request an extension" — müddətin uzadılmasını xahiş etmək
@@ -2195,6 +2420,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    resemblance | NEW | C1 | C1-040 (BEAR) | "bear a resemblance to" — kiməsə və ya nəyəsə bənzəmək
    resentment | NEW | C1 | C1-022 (FOSTER) | "foster resentment" — kin-küdurət yaratmaq
    reserve | NEW | C1 | C1-030 (DEPLETE) | "deplete reserves" — ehtiyatları tükətmək
+   resignation | NEW | C1 | C1-046 (CONTEMPLATE) | "contemplate resignation" — istefa vermək barədə
+        düşünmək
    resilience | FAMILY | C1 | C1-025 (RESILIENT) | word family (n) — dayanıqlılıq, çətinlikdən sonra
         bərpa olunma qabiliyyəti
    RESILIENT | MAIN | C1 | C1-025 (RESILIENT) | main word — dayanıqlı, tez özünə gələn, möhkəm
@@ -2218,6 +2445,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    RESURGENCE | MAIN | C2 | C2-027 (RESURGENCE) | main word — dirçəliş, yenidən canlanma, yenidən
         baş qaldırma
    resurgent | FAMILY | C2 | C2-027 (RESURGENCE) | word family (adj) — yenidən dirçələn, canlanan
+   retirement | NEW | C1 | C1-046 (CONTEMPLATE) | "contemplate retirement" — təqaüdə çıxmaq barədə
+        düşünmək
    return | NEW | B2 | B2-013 (INVEST) | "return on investment" — sərmayədən gələn qazanc,
         investisiyanın gəlirliliyi
    reunion | NEW | C2 | C2-026 (POIGNANT) | "a poignant reunion" — kövrək görüş (qovuşma)
@@ -2228,6 +2457,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    reverberate | NEW | C2 | C2-040 (REPERCUSSION) | "the repercussions reverberate" — nəticələri
         uzun müddət özünü göstərir
    reverse | NEW | B2 | B2-008 (TREND) | "reverse a trend" — meyli əks istiqamətə döndərmək
+   review | NEW | C1 | C1-045 (COMPREHENSIVE) | "a comprehensive review" — hərtərəfli icmal (təhlil)
+   revolution | NEW | C1 | C1-044 (CATALYST) | "a catalyst for revolution" — inqilab üçün təkan
    reward | NEW | C2 | C2-023 (INTRINSIC) | "intrinsic reward" — daxili mükafat (işin özündən gələn
         məmnunluq)
    RHETORIC | MAIN | C2 | C2-015 (RHETORIC) | main word — ritorika, natiqlik; təmtəraqlı (içi boş)
@@ -2245,12 +2476,16 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    rigour | FAMILY | C1 | C1-026 (RIGOROUS) | word family (n) — ciddilik, dəqiqlik, həmçinin (cəmdə)
         çətinliklər
    ringing | NEW | C1 | C1-031 (ENDORSE) | "a ringing endorsement" — qəti və açıq dəstək
+   riot | NEW | C1 | C1-048 (CULMINATE) | "culminate in a riot" — iğtişaşla nəticələnmək
    rise | NEW | B1 | B1-033 (CHALLENGE) | "rise to the challenge" — sınaqdan üzüağ çıxmaq,
         çətinliyin öhdəsindən gəlmək
    risk | NEW | B1 | B1-023 (INCREASE) | "increase the risk" — riski artırmaq
    rival | NEW | B2 | B2-014 (COMPETE) | "compete with rivals" — rəqiblərlə rəqabət aparmaq
    road | NEW | A1 | A1-026 (HELP) | "help sb cross the road" — kiməsə yolu keçməyə kömək etmək
+   robot | NEW | C1 | C1-043 (AUTONOMY) | "autonomous robots" — avtonom robotlar
+   robust | NEW | C1 | C1-047 (CORRELATE) | "a robust correlation" — möhkəm (etibarlı) korrelyasiya
    role | NEW | A2 | A2-037 (IMPORTANT) | "an important role" — mühüm rol
+   roof | NEW | C1 | C1-058 (REINFORCE) | "reinforce the roof" — damı möhkəmləndirmək
    room | NEW | A1 | A1-012 (LIVE) | "living room" — qonaq otağı
    root | NEW | B1 | B1-029 (CAUSE) | "the root cause" — əsas (kök) səbəb
    route | NEW | C1 | C1-019 (VIABLE) | "a viable route" — istifadəsi mümkün olan marşrut (yol)
@@ -2262,6 +2497,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    running | FAMILY | B1 | B1-039 (RUN) | word family (n) — qaçış
 
 — S —
+   sabbatical | NEW | C1 | C1-046 (CONTEMPLATE) | "contemplate a sabbatical" — yaradıcılıq
+        məzuniyyəti götürmək barədə düşünmək
    sabotage | NEW | C2 | C2-032 (TANTAMOUNT) | "tantamount to sabotage" — təxribata bərabər
    sad | NEW | A1 | A1-038 (HAPPY) | "happy or sad" — şad, yoxsa kədərli
    SAFE | MAIN | A2 | A2-038 (SAFE) | main word — təhlükəsiz, salamat; etibarlı   [see also: save
@@ -2282,8 +2519,11 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    sandwich | NEW | A1 | A1-005 (MAKE) | "make a sandwich" — sendviç hazırlamaq
    satisfy | NEW | B2 | B2-016 (DEMAND) | "satisfy demand" — tələbatı ödəmək
    save | NEW | A1 | A1-011 (MONEY) | "save money" — pul yığmaq; pula qənaət etmək   [see also: SAFE
-        A2-038, safety A2-038]
+        A2-038, safety A2-038, savings C1-041]
+   savings | NEW | C1 | C1-041 (ACCUMULATE) | "accumulate savings" — yığım toplamaq   [see also:
+        save A1-011]
    scale | NEW | C1 | C1-037 (UNPRECEDENTED) | "an unprecedented scale" — misli görünməmiş miqyas
+   scam | NEW | C1 | C1-059 (SUSCEPTIBLE) | "susceptible to scams" — fırıldaqlara asan aldanan
    scandal | NEW | B2 | B2-030 (REVEAL) | "reveal a scandal" — qalmaqalı ifşa etmək
    scar | NEW | C1 | C1-040 (BEAR) | "bear the scars" — (yaşananların) izlərini daşımaq
    scarce | NEW | B2 | B2-019 (RESOURCE) | "scarce resources" — qıt ehtiyatlar
@@ -2309,6 +2549,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    see | NEW | A1 | A1-038 (HAPPY) | "happy to see you" — səni gördüyümə şadam
    seek | NEW | B1 | B1-018 (ADVICE) | "seek advice" — məsləhət üçün müraciət etmək
    seem | NEW | C1 | C1-024 (PLAUSIBLE) | "seem plausible" — ağlabatan görünmək
+   segregation | NEW | C1 | C1-057 (PERPETUATE) | "perpetuate segregation" — ayrı-seçkilik əsasında
+        bölgünü yaşatmaq
    seize | NEW | B1 | B1-032 (OPPORTUNITY) | "seize an opportunity" — fürsətdən istifadə etmək,
         fürsəti əldən verməmək
    selection | NEW | C1 | C1-026 (RIGOROUS) | "rigorous selection" — ciddi seçim
@@ -2321,6 +2563,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         ehtiyacı olmayan
    self-motivated | FAMILY | B2 | B2-026 (MOTIVATE) | word family (adj) — öz-özünü həvəsləndirən,
         təşəbbüskar
+   self-perception | FAMILY | C1 | C1-056 (PERCEIVE) | word family (n) — özünüqavrama
    sell | NEW | A1 | A1-010 (BUY) | "buy and sell" — alıb-satmaq, alqı-satqı etmək   [see also: sale
         B1-023]
    SEND | MAIN | A2 | A2-008 (SEND) | main word — göndərmək
@@ -2331,11 +2574,13 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    sensible | NEW | B1 | B1-013 (SUGGEST) | "a sensible suggestion" — ağlabatan təklif   [see also:
         sense B1-035]
    sensitive | NEW | B2 | B2-007 (ISSUE) | "a sensitive issue" — həssas məsələ
+   sensory | NEW | C1 | C1-056 (PERCEIVE) | "sensory perception" — hissi qavrayış
    sentence | NEW | A1 | A1-019 (WRITE) | "write a sentence" — cümlə yazmaq
    series | NEW | A1 | A1-025 (WATCH) | "watch a series" — seriala baxmaq
    SERIOUS | MAIN | B1 | B1-037 (SERIOUS) | main word — ciddi; ağır, təhlükəli
    seriously | FAMILY | B1 | B1-037 (SERIOUS) | word family (adv) — ciddi şəkildə, həmçinin ağır
    seriousness | FAMILY | B1 | B1-037 (SERIOUS) | word family (n) — ciddilik
+   serve | NEW | C1 | C1-044 (CATALYST) | "serve as a catalyst" — katalizator rolunu oynamaq
    service | NEW | A2 | A2-033 (HEALTH) | "health service" — səhiyyə xidməti
    SET | MAIN | B1 | B1-038 (SET) | main word — qoymaq, təyin etmək, qurmaq; dəst, komplekt
    setback | NEW | C1 | C1-025 (RESILIENT) | "resilient to setbacks" — uğursuzluqlara qarşı
@@ -2343,6 +2588,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    setting | FAMILY | B1 | B1-038 (SET) | word family (n) — mühit, məkan, həmçinin (cihazda) rejim
    settle | NEW | B1 | B1-014 (ARGUE) | "settle an argument" — mübahisəyə son qoymaq
    severe | NEW | B2 | B2-005 (CONSEQUENCE) | "severe consequences" — ağır nəticələr
+   sexually | NEW | C1 | C1-052 (EXPLICIT) | "sexually explicit" — açıq-saçıq (cinsi məzmunlu)
    shade | NEW | C1 | C1-035 (SUBTLE) | "a subtle shade" — zərif çalar
    shadow | NEW | B2 | B2-037 (EMERGE) | "emerge from the shadows" — kölgədən çıxmaq
    shame | NEW | C1 | C1-027 (STIGMA) | "stigma and shame" — damğa və utanc
@@ -2351,6 +2597,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    sharp | NEW | B1 | B1-023 (INCREASE) | "a sharp increase" — kəskin artım
    shatter | NEW | C2 | C2-021 (COMPLACENT) | "shatter the complacency" — arxayınçılığı darmadağın
         etmək
+   shed | NEW | C1 | C1-053 (INHIBIT) | "shed your inhibitions" — sıxılmanı bir kənara qoymaq
    shelf | NEW | A2 | A2-025 (PUT) | "put sth on the shelf" — nəyisə rəfə qoymaq
    shelter | NEW | B1 | B1-025 (PROVIDE) | "provide shelter" — sığınacaq vermək
    shift | NEW | B2 | B2-011 (SIGNIFICANT) | "a significant shift" — əhəmiyyətli dəyişiklik (dönüş)
@@ -2368,6 +2615,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    shoulder | NEW | A1 | A1-016 (BODY) | "head and shoulders" — baş və çiyinlər
    shouting | NEW | A2 | A2-026 (STOP) | "stop shouting" — qışqırmağı dayandırmaq
    SHOW | MAIN | A2 | A2-009 (SHOW) | main word — göstərmək; şou, tamaşa, veriliş
+   showdown | NEW | C1 | C1-048 (CULMINATE) | "culminate in a showdown" — həlledici qarşıdurma ilə
+        nəticələnmək
    shower | NEW | A1 | A1-004 (TAKE) | "take a shower" — duş qəbul etmək
    sick | NEW | A2 | A2-028 (FEEL) | "feel sick" — ürəyi bulanmaq; özünü xəstə hiss etmək
    side-effects | NEW | C2 | C2-002 (AMELIORATE) | "ameliorate side-effects" — əlavə (yan) təsirləri
@@ -2379,6 +2628,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    significantly | FAMILY | B2 | B2-011 (SIGNIFICANT) | word family (adv) — xeyli dərəcədə,
         əhəmiyyətli şəkildə
    silence | NEW | B2 | B2-029 (MAINTAIN) | "maintain silence" — sükutu qorumaq
+   silhouette | NEW | C1 | C1-049 (DISCERN) | "discern a silhouette" — silueti ayırd etmək
    silly | NEW | B1 | B1-014 (ARGUE) | "a silly argument" — mənasız mübahisə
    silver | NEW | C2 | C2-018 (PANACEA) | "a silver bullet" — sehrli həll yolu (bir zərbə ilə hər
         şeyi həll edən vasitə)
@@ -2408,6 +2658,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    smug | NEW | C2 | C2-021 (COMPLACENT) | "smug and complacent" — özündənrazı və arxayın
    snack | NEW | A2 | A2-007 (BRING) | "bring some snacks" — bir az qəlyanaltı gətirmək
    snow | NEW | A1 | A1-032 (WEATHER) | "rain and snow" — yağış və qar
+   snub | NEW | C1 | C1-056 (PERCEIVE) | "a perceived snub" — saymazlıq kimi qəbul edilən hərəkət
    so-called | NEW | C2 | C2-018 (PANACEA) | "a so-called panacea" — universal çarə adlandırılan
         vasitə
    social | NEW | A2 | A2-024 (USE) | "use social media" — sosial mediadan istifadə etmək
@@ -2435,6 +2686,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         səsucaldan
    special | NEW | A2 | A2-040 (INTEREST) | "a special interest" — xüsusi maraq
    species | NEW | B2 | B2-035 (ADAPT) | "an adaptable species" — asan uyğunlaşan növ
+   spectrum | NEW | C1 | C1-051 (ENCOMPASS) | "encompass a spectrum" — geniş spektri əhatə etmək
    speech | FAMILY | A1 | A1-020 (SPEAK) | word family (n) — nitq, çıxış
    speed | NEW | B1 | B1-024 (REDUCE) | "reduce speed" — sürəti azaltmaq
    spend | NEW | A1 | A1-011 (MONEY) | "spend money" — pul xərcləmək
@@ -2514,6 +2766,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    SUBTLE | MAIN | C1 | C1-035 (SUBTLE) | main word — incə, güclə sezilən; zərif
    subtlety | FAMILY | C1 | C1-035 (SUBTLE) | word family (n) — incəlik, zəriflik
    subtly | FAMILY | C1 | C1-035 (SUBTLE) | word family (adv) — incəliklə, hiss olunmadan
+   suburb | NEW | C1 | C1-051 (ENCOMPASS) | "encompass the suburbs" — şəhərətrafı əraziləri əhatə
+        etmək
    SUCCEED | MAIN | B1 | B1-002 (SUCCEED) | main word — uğur qazanmaq, müvəffəq olmaq, bacarmaq
    success | FAMILY | B1 | B1-002 (SUCCEED) | word family (n) — uğur, müvəffəqiyyət
    successful | FAMILY | B1 | B1-002 (SUCCEED) | word family (adj) — uğurlu
@@ -2546,6 +2800,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    surge | NEW | C1 | C1-037 (UNPRECEDENTED) | "an unprecedented surge" — misli görünməmiş kəskin
         artım
    surgical | NEW | C1 | C1-033 (INTERVENE) | "surgical intervention" — cərrahi müdaxilə
+   surplus | NEW | C1 | C1-041 (ACCUMULATE) | "accumulate a surplus" — artıq vəsait (profisit)
+        toplamaq
    surprise | NEW | A1 | A1-035 (BIG) | "a big surprise" — böyük sürpriz
    surrender | NEW | C2 | C2-032 (TANTAMOUNT) | "tantamount to surrender" — təslimçiliyə bərabər
    surrounding | NEW | B2 | B2-021 (CONTROVERSIAL) | "the controversy surrounding" — nəyinsə
@@ -2554,6 +2810,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         müşahidə (nəzarət)
    survey | NEW | B2 | B2-030 (REVEAL) | "a survey reveals" — sorğu göstərir ki
    survive | NEW | B2 | B2-035 (ADAPT) | "adapt to survive" — sağ qalmaq üçün uyğunlaşmaq
+   susceptibility | FAMILY | C1 | C1-059 (SUSCEPTIBLE) | word family (n) — meyillilik, həssaslıq
+   SUSCEPTIBLE | MAIN | C1 | C1-059 (SUSCEPTIBLE) | main word — meyilli, həssas, asan təsirə düşən
    suspicion | NEW | C2 | C2-007 (VINDICATE) | "vindicate sb's suspicions" — kiminsə şübhələrinin
         əsaslı olduğunu göstərmək
    SUSTAIN | MAIN | B2 | B2-023 (SUSTAIN) | main word — davam etdirmək, qoruyub saxlamaq; (zərər,
@@ -2564,6 +2822,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    sustained | FAMILY | B2 | B2-023 (SUSTAIN) | word family (adj) — uzunmüddətli, fasiləsiz
    swim | NEW | A1 | A1-017 (LEARN) | "learn to swim" — üzməyi öyrənmək
    symbol | NEW | C2 | C2-026 (POIGNANT) | "a poignant symbol" — təsirli rəmz
+   sympathy | NEW | C1 | C1-050 (ELICIT) | "elicit sympathy" — rəğbət (şəfqət) doğurmaq
    symptom | NEW | C1 | C1-001 (ALLEVIATE) | "alleviate symptoms" — simptomları yüngülləşdirmək
    system | NEW | B1 | B1-004 (DEVELOP) | "develop a system" — sistem yaratmaq
    systematic | NEW | B2 | B2-009 (APPROACH) | "a systematic approach" — sistemli yanaşma
@@ -2574,6 +2833,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    TACKLE | MAIN | B2 | B2-031 (TACKLE) | main word — (problemin) həllinə girişmək, mübarizə
         aparmaq; (idmanda) topu almağa cəhd etmək
    TAKE | MAIN | A1 | A1-004 (TAKE) | main word — götürmək, aparmaq   [see also: mistake A1-005]
+   takeover | NEW | C1 | C1-046 (CONTEMPLATE) | "contemplate a takeover" — şirkəti ələ keçirmək
+        barədə düşünmək
    tale | NEW | C2 | C2-026 (POIGNANT) | "a poignant tale" — kövrək hekayət
    talent | NEW | A2 | A2-009 (SHOW) | "a talent show" — istedad müsabiqəsi (şousu)
    talking | NEW | A2 | A2-026 (STOP) | "stop talking" — danışmağı dayandırmaq, susmaq
@@ -2630,6 +2891,8 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         fikirli
    thread | NEW | C2 | C2-028 (TENUOUS) | "a tenuous thread" — nazik tel (çox zəif bağlılıq)
    threat | NEW | B1 | B1-037 (SERIOUS) | "a serious threat" — ciddi təhlükə (təhdid)
+   thwart | NEW | C1 | C1-042 (ASPIRE) | "thwart sb's aspirations" — kiminsə arzularını puça
+        çıxarmaq
    ticket | NEW | A1 | A1-003 (GET) | "get a ticket" — bilet almaq
    tidy | NEW | A2 | A2-015 (KEEP) | "keep sth tidy" — nəyisə səliqəli saxlamaq
    tie | NEW | B2 | B2-028 (ESTABLISH) | "establish ties" — əlaqələr qurmaq
@@ -2653,13 +2916,18 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    top | NEW | A1 | A1-012 (LIVE) | "live on the top floor" — ən üst mərtəbədə yaşamaq
    topic | NEW | A2 | A2-022 (CHOOSE) | "choose a topic" — mövzu seçmək
    torture | NEW | C2 | C2-032 (TANTAMOUNT) | "tantamount to torture" — işgəncəyə bərabər
-   totally | NEW | A2 | A2-036 (DIFFERENT) | "totally different" — tamamilə fərqli
+   total | NEW | C1 | C1-041 (ACCUMULATE) | "a cumulative total" — məcmu yekun   [see also: totally
+        A2-036]
+   totally | NEW | A2 | A2-036 (DIFFERENT) | "totally different" — tamamilə fərqli   [see also:
+        total C1-041]
    touch | NEW | A2 | A2-002 (STAY) | "stay in touch" — əlaqə saxlamaq
    tough | NEW | B1 | B1-020 (DECIDE) | "a tough decision" — çətin (ağır) qərar
    tourism | NEW | B2 | B2-006 (IMPACT) | "the impact of tourism" — turizmin təsiri
    towel | NEW | A2 | A2-007 (BRING) | "bring a towel" — dəsmal gətirmək
    town | NEW | A1 | A1-036 (NEW) | "new in town" — şəhərdə təzə, yeni gəlmiş
+   toxin | NEW | C1 | C1-041 (ACCUMULATE) | "accumulate toxins" — toksinlər toplamaq
    toy | NEW | A1 | A1-024 (PLAY) | "play with toys" — oyuncaqlarla oynamaq
+   trace | NEW | C1 | C1-049 (DISCERN) | "discern a trace of" — nəyinsə izini sezmək
    trade | NEW | B1 | B1-019 (AGREE) | "a trade agreement" — ticarət sazişi
    traditional | NEW | B2 | B2-009 (APPROACH) | "a traditional approach" — ənənəvi yanaşma
    traffic | NEW | B1 | B1-024 (REDUCE) | "reduce traffic" — nəqliyyat sıxlığını azaltmaq
@@ -2677,6 +2945,10 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         (köçürülməsini) asanlaşdırmaq
    transformation | NEW | C1 | C1-016 (PROFOUND) | "a profound transformation" — köklü dəyişiklik
    transition | NEW | C1 | C1-009 (FACILITATE) | "facilitate a transition" — keçidi asanlaşdırmaq
+   transparency | FAMILY | C1 | C1-060 (TRANSPARENT) | word family (n) — şəffaflıq
+   TRANSPARENT | MAIN | C1 | C1-060 (TRANSPARENT) | main word — şəffaf; açıq, aydın
+   transparently | FAMILY | C1 | C1-060 (TRANSPARENT) | word family (adv) — şəffaf şəkildə,
+        açıq-aşkar
    transport | NEW | A2 | A2-024 (USE) | "use public transport" — ictimai nəqliyyatdan istifadə
         etmək
    trauma | NEW | C2 | C2-002 (AMELIORATE) | "ameliorate the trauma" — sarsıntını (travmanı)
@@ -2710,7 +2982,9 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    turnout | NEW | C2 | C2-037 (BOLSTER) | "bolster turnout" — seçici fəallığını artırmaq
    TV | NEW | A1 | A1-025 (WATCH) | "watch TV" — televizora baxmaq
    twice | NEW | A2 | A2-029 (THINK) | "think twice" — yaxşı-yaxşı düşünmək, ölçüb-biçmək
+   twilight | NEW | C1 | C1-057 (PERPETUATE) | "perpetual twilight" — daimi alaqaranlıq
    type | NEW | A2 | A2-036 (DIFFERENT) | "different types" — müxtəlif növlər, tiplər
+   typewriter | NEW | C1 | C1-054 (OBSOLETE) | "an obsolete typewriter" — köhnəlmiş yazı makinası
    tyre | NEW | A2 | A2-012 (CHANGE) | "change a tyre" — təkəri dəyişmək
 
 — U —
@@ -2754,6 +3028,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    unhappy | FAMILY | A1 | A1-038 (HAPPY) | word family (adj) — bədbəxt, narazı
    unhealthy | FAMILY | A2 | A2-033 (HEALTH) | word family (adj) — qeyri-sağlam, zərərli
    unimportant | FAMILY | A2 | A2-037 (IMPORTANT) | word family (adj) — əhəmiyyətsiz
+   uninhibited | FAMILY | C1 | C1-053 (INHIBIT) | word family (adj) — sərbəst, sıxılmayan
    unintended | NEW | B2 | B2-005 (CONSEQUENCE) | "unintended consequences" — gözlənilməyən (nəzərdə
         tutulmayan) nəticələr
    unique | NEW | B1 | B1-032 (OPPORTUNITY) | "a unique opportunity" — bənzərsiz imkan
@@ -2768,6 +3043,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    unpredictably | NEW | C1 | C1-010 (FLUCTUATE) | "fluctuate unpredictably" — gözlənilməz şəkildə
         dəyişmək
    unravel | NEW | C2 | C2-017 (CONUNDRUM) | "unravel a conundrum" — müəmmanı çözmək
+   unrest | NEW | C1 | C1-044 (CATALYST) | "a catalyst for unrest" — iğtişaşlara təkan verən amil
    unsafe | FAMILY | A2 | A2-038 (SAFE) | word family (adj) — təhlükəli, etibarsız
    unskilled | FAMILY | B1 | B1-006 (SKILL) | word family (adj) — ixtisassız
    unsuccessful | FAMILY | B1 | B1-002 (SUCCEED) | word family (adj) — uğursuz
@@ -2792,11 +3068,14 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
         vary B2-027]
    vary | NEW | B2 | B2-027 (ATTITUDE) | "attitudes vary" — münasibətlər müxtəlifdir   [see also:
         variable C2-039]
+   vastly | NEW | C1 | C1-055 (OUTWEIGH) | "vastly outweigh" — qat-qat üstələmək
    vegetable | NEW | A1 | A1-007 (EAT) | "eat vegetables" — tərəvəz yemək
    vehicle | NEW | B2 | B2-029 (MAINTAIN) | "maintain a vehicle" — nəqliyyat vasitəsinə texniki
         qulluq göstərmək
    venture | NEW | B2 | B2-017 (PROFIT) | "a profitable venture" — gəlirli iş (təşəbbüs)
    verdict | NEW | C1 | C1-031 (ENDORSE) | "endorse a verdict" — hökmü (qərarı) təsdiqləmək
+   verge | NEW | C1 | C1-054 (OBSOLETE) | "on the verge of obsolescence" — köhnəlib sıradan çıxmaq
+        ərəfəsində
    veto | NEW | C2 | C2-008 (CIRCUMVENT) | "circumvent the veto" — vetodan yan keçmək
    viability | FAMILY | C1 | C1-019 (VIABLE) | word family (n) — yaşamaq qabiliyyəti,
         məqsədəuyğunluq
@@ -2835,6 +3114,7 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
    wage | NEW | C1 | C1-028 (DISPARITY) | "wage disparity" — əməkhaqqı fərqi
    wait | NEW | A1 | A1-021 (ASK) | "ask sb to wait" — kimdənsə gözləməyi xahiş etmək
    walk | NEW | A1 | A1-001 (GO) | "go for a walk" — gəzməyə çıxmaq
+   wall | NEW | C1 | C1-058 (REINFORCE) | "reinforce a wall" — divarı möhkəmləndirmək
    wallet | NEW | A2 | A2-016 (LOSE) | "lose your wallet" — pul kisəsini itirmək
    war | NEW | C1 | C1-036 (TRIGGER) | "trigger a war" — müharibəyə səbəb olmaq
    warm | NEW | A1 | A1-032 (WEATHER) | "warm weather" — isti (mülayim) hava
@@ -2926,6 +3206,6 @@ PART C — ALL VOCABULARY ITEMS A–Z (2,331)
 
 PART D — CHECK
 ----------------------------------------------------------------------------------------------------
-   Total individual vocabulary items: 2,350   |   Repeated items: 0   |   Duplicate check: PASSED
+   Total individual vocabulary items: 2,558   |   Repeated items: 0   |   Duplicate check: PASSED
 
 END OF GLOBAL LEARNED WORDS

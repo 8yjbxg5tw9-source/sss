@@ -912,6 +912,7 @@ def _ipa_broad(s):
     s = re.sub('i(?!ː)', 'ɪ', s)
     s = re.sub('u(?!ː)', 'ʊ', s)
     s = s.replace('dj', 'dʒ').replace('tj', 'tʃ')
+    s = s.replace('jʊ', 'jə')                         # weak -ul- syllable: accumulate, regular, particular
     for k, d in enumerate(('ɪə', 'eə', 'ʊə', 'əʊ', 'aɪ', 'eɪ', 'ɔɪ', 'aʊ')):
         s = s.replace(d, str(k))
     return s.replace('ə', 'ɪ')
@@ -1033,7 +1034,7 @@ def qa_report(db, refs):
                 out.append('  DIFFER  %s %-14s here /%s/   %s: %s%s' % (L.uid, L.head, L.ipa, src,
                                                                        ' | '.join(sorted(theirs)),
                                                                        '' if st_ok else '   [STRESS]'))
-        out.append('  "variant" = same sounds and stress, different notation of a weak vowel (i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ).')
+        out.append('  "variant" = same sounds and stress, different notation of a weak vowel (i/ɪ, u/ʊ, ɪ/ə, jʊ/jə, tj/tʃ, dj/dʒ).')
         out.append('  "fallback" = ipa-dict en_UK, a second open list used only for words that Britfone does not contain.')
         out.append('  Both lists are open community resources and can contain errors themselves: a DIFFER line is a prompt')
         out.append('  to re-check the word in a printed dictionary, not proof of an error.')

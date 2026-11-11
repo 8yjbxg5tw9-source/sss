@@ -70,3 +70,12 @@ top | topic
 train | training
 universal | university
 virtually | virtue
+appliance | apply
+content | contention
+dam | damage
+factor | factory
+fat | fatally
+potent | potential
+read | readily
+ignorance | ignore
+rest | unrest

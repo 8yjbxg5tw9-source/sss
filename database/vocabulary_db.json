@@ -21886,6 +21886,2294 @@
    "seq": 1967
   },
   {
+   "lemma": "ACCUMULATE",
+   "token": "ACCUMULATE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "cat": "verb",
+   "az": "toplamaq, yığmaq; yığılmaq, toplanmaq",
+   "seq": 1968
+  },
+  {
+   "lemma": "accumulation",
+   "token": "accumulation",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "cat": "n",
+   "az": "yığılma, toplanma",
+   "seq": 1969
+  },
+  {
+   "lemma": "cumulative",
+   "token": "cumulative",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "cat": "adj",
+   "az": "məcmu, yığılıb artan",
+   "seq": 1970
+  },
+  {
+   "lemma": "dust",
+   "token": "dust",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "accumulate dust",
+   "expr_az": "toz yığmaq (toz basmaq)",
+   "seq": 1971
+  },
+  {
+   "lemma": "savings",
+   "token": "savings",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "accumulate savings",
+   "expr_az": "yığım toplamaq",
+   "seq": 1972
+  },
+  {
+   "lemma": "possession",
+   "token": "possessions",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "accumulate possessions",
+   "expr_az": "əşya (var-dövlət) toplamaq",
+   "seq": 1973
+  },
+  {
+   "lemma": "fat",
+   "token": "fat",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "accumulate fat",
+   "expr_az": "piy toplamaq",
+   "seq": 1974
+  },
+  {
+   "lemma": "toxin",
+   "token": "toxins",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "accumulate toxins",
+   "expr_az": "toksinlər toplamaq",
+   "seq": 1975
+  },
+  {
+   "lemma": "asset",
+   "token": "assets",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "accumulate assets",
+   "expr_az": "aktivlər toplamaq",
+   "seq": 1976
+  },
+  {
+   "lemma": "total",
+   "token": "total",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "a cumulative total",
+   "expr_az": "məcmu yekun",
+   "seq": 1977
+  },
+  {
+   "lemma": "surplus",
+   "token": "surplus",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-041",
+   "head": "ACCUMULATE",
+   "expr": "accumulate a surplus",
+   "expr_az": "artıq vəsait (profisit) toplamaq",
+   "seq": 1978
+  },
+  {
+   "lemma": "ASPIRE",
+   "token": "ASPIRE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "cat": "verb",
+   "az": "can atmaq, nail olmağa çalışmaq",
+   "seq": 1979
+  },
+  {
+   "lemma": "aspiration",
+   "token": "aspiration",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "cat": "n",
+   "az": "arzu, ali məqsəd",
+   "seq": 1980
+  },
+  {
+   "lemma": "aspiring",
+   "token": "aspiring",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "cat": "adj",
+   "az": "(bir peşəyə) can atan",
+   "seq": 1981
+  },
+  {
+   "lemma": "aspirational",
+   "token": "aspirational",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "cat": "adj",
+   "az": "yüksək həyat səviyyəsinə can atan",
+   "seq": 1982
+  },
+  {
+   "lemma": "leadership",
+   "token": "leadership",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "expr": "aspire to leadership",
+   "expr_az": "rəhbərliyə can atmaq",
+   "seq": 1983
+  },
+  {
+   "lemma": "actor",
+   "token": "actor",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "expr": "an aspiring actor",
+   "expr_az": "aktyor olmağa can atan gənc",
+   "seq": 1984
+  },
+  {
+   "lemma": "entrepreneur",
+   "token": "entrepreneur",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "expr": "an aspiring entrepreneur",
+   "expr_az": "sahibkar olmağa can atan şəxs",
+   "seq": 1985
+  },
+  {
+   "lemma": "fulfil",
+   "token": "fulfil",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "expr": "fulfil an aspiration",
+   "expr_az": "arzunu həyata keçirmək",
+   "seq": 1986
+  },
+  {
+   "lemma": "lofty",
+   "token": "lofty",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "expr": "lofty aspirations",
+   "expr_az": "ali arzular",
+   "seq": 1987
+  },
+  {
+   "lemma": "thwart",
+   "token": "thwart",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "expr": "thwart sb's aspirations",
+   "expr_az": "kiminsə arzularını puça çıxarmaq",
+   "seq": 1988
+  },
+  {
+   "lemma": "harbour",
+   "token": "harbour",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-042",
+   "head": "ASPIRE",
+   "expr": "harbour aspirations",
+   "expr_az": "ürəyində arzu bəsləmək",
+   "seq": 1989
+  },
+  {
+   "lemma": "AUTONOMY",
+   "token": "AUTONOMY",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "cat": "noun",
+   "az": "muxtariyyət; müstəqillik, sərbəstlik",
+   "seq": 1990
+  },
+  {
+   "lemma": "autonomous",
+   "token": "autonomous",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "cat": "adj",
+   "az": "muxtar, müstəqil",
+   "seq": 1991
+  },
+  {
+   "lemma": "autonomously",
+   "token": "autonomously",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "cat": "adv",
+   "az": "müstəqil şəkildə",
+   "seq": 1992
+  },
+  {
+   "lemma": "individual",
+   "token": "individual",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "expr": "individual autonomy",
+   "expr_az": "fərdi müstəqillik",
+   "seq": 1993
+  },
+  {
+   "lemma": "region",
+   "token": "region",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "expr": "an autonomous region",
+   "expr_az": "muxtar vilayət",
+   "seq": 1994
+  },
+  {
+   "lemma": "republic",
+   "token": "republic",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "expr": "an autonomous republic",
+   "expr_az": "muxtar respublika",
+   "seq": 1995
+  },
+  {
+   "lemma": "editorial",
+   "token": "editorial",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "expr": "editorial autonomy",
+   "expr_az": "redaksiya müstəqilliyi",
+   "seq": 1996
+  },
+  {
+   "lemma": "function",
+   "token": "function",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "expr": "function autonomously",
+   "expr_az": "müstəqil fəaliyyət göstərmək",
+   "seq": 1997
+  },
+  {
+   "lemma": "robot",
+   "token": "robots",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "expr": "autonomous robots",
+   "expr_az": "avtonom robotlar",
+   "seq": 1998
+  },
+  {
+   "lemma": "curtail",
+   "token": "curtail",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-043",
+   "head": "AUTONOMY",
+   "expr": "curtail autonomy",
+   "expr_az": "müstəqilliyi məhdudlaşdırmaq",
+   "seq": 1999
+  },
+  {
+   "lemma": "CATALYST",
+   "token": "CATALYST",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "cat": "noun",
+   "az": "katalizator; təkanverici amil",
+   "seq": 2000
+  },
+  {
+   "lemma": "catalyse",
+   "token": "catalyse",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "cat": "v",
+   "az": "sürətləndirmək, təkan vermək",
+   "seq": 2001
+  },
+  {
+   "lemma": "catalytic",
+   "token": "catalytic",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "cat": "adj",
+   "az": "katalitik",
+   "seq": 2002
+  },
+  {
+   "lemma": "serve",
+   "token": "serve",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "expr": "serve as a catalyst",
+   "expr_az": "katalizator rolunu oynamaq",
+   "seq": 2003
+  },
+  {
+   "lemma": "chemical",
+   "token": "chemical",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "expr": "a chemical catalyst",
+   "expr_az": "kimyəvi katalizator",
+   "seq": 2004
+  },
+  {
+   "lemma": "revolution",
+   "token": "revolution",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "expr": "a catalyst for revolution",
+   "expr_az": "inqilab üçün təkan",
+   "seq": 2005
+  },
+  {
+   "lemma": "regeneration",
+   "token": "regeneration",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "expr": "a catalyst for regeneration",
+   "expr_az": "dirçəliş üçün təkan",
+   "seq": 2006
+  },
+  {
+   "lemma": "unrest",
+   "token": "unrest",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "expr": "a catalyst for unrest",
+   "expr_az": "iğtişaşlara təkan verən amil",
+   "seq": 2007
+  },
+  {
+   "lemma": "potent",
+   "token": "potent",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "expr": "a potent catalyst",
+   "expr_az": "güclü katalizator",
+   "seq": 2008
+  },
+  {
+   "lemma": "converter",
+   "token": "converter",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-044",
+   "head": "CATALYST",
+   "expr": "a catalytic converter",
+   "expr_az": "katalitik neytrallaşdırıcı",
+   "seq": 2009
+  },
+  {
+   "lemma": "COMPREHENSIVE",
+   "token": "COMPREHENSIVE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "cat": "adjective",
+   "az": "hərtərəfli, əhatəli, tam",
+   "seq": 2010
+  },
+  {
+   "lemma": "comprehensively",
+   "token": "comprehensively",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "cat": "adv",
+   "az": "hərtərəfli şəkildə, tamamilə",
+   "seq": 2011
+  },
+  {
+   "lemma": "review",
+   "token": "review",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "a comprehensive review",
+   "expr_az": "hərtərəfli icmal (təhlil)",
+   "seq": 2012
+  },
+  {
+   "lemma": "overview",
+   "token": "overview",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "a comprehensive overview",
+   "expr_az": "əhatəli ümumi baxış",
+   "seq": 2013
+  },
+  {
+   "lemma": "database",
+   "token": "database",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "a comprehensive database",
+   "expr_az": "əhatəli məlumat bazası",
+   "seq": 2014
+  },
+  {
+   "lemma": "audit",
+   "token": "audit",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "a comprehensive audit",
+   "expr_az": "hərtərəfli audit (yoxlama)",
+   "seq": 2015
+  },
+  {
+   "lemma": "handbook",
+   "token": "handbook",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "a comprehensive handbook",
+   "expr_az": "əhatəli məlumat kitabçası",
+   "seq": 2016
+  },
+  {
+   "lemma": "overhaul",
+   "token": "overhaul",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "a comprehensive overhaul",
+   "expr_az": "köklü yenidənqurma",
+   "seq": 2017
+  },
+  {
+   "lemma": "defeat",
+   "token": "defeat",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "a comprehensive defeat",
+   "expr_az": "tam (qəti) məğlubiyyət",
+   "seq": 2018
+  },
+  {
+   "lemma": "beaten",
+   "token": "beaten",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-045",
+   "head": "COMPREHENSIVE",
+   "expr": "comprehensively beaten",
+   "expr_az": "tamamilə məğlub edilmiş",
+   "seq": 2019
+  },
+  {
+   "lemma": "CONTEMPLATE",
+   "token": "CONTEMPLATE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "cat": "verb",
+   "az": "götür-qoy etmək, barəsində düşünmək; seyr etmək",
+   "seq": 2020
+  },
+  {
+   "lemma": "contemplation",
+   "token": "contemplation",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "cat": "n",
+   "az": "dərin düşüncə, seyr",
+   "seq": 2021
+  },
+  {
+   "lemma": "contemplative",
+   "token": "contemplative",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "cat": "adj",
+   "az": "düşüncəli, fikrə dalmış",
+   "seq": 2022
+  },
+  {
+   "lemma": "retirement",
+   "token": "retirement",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "contemplate retirement",
+   "expr_az": "təqaüdə çıxmaq barədə düşünmək",
+   "seq": 2023
+  },
+  {
+   "lemma": "resignation",
+   "token": "resignation",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "contemplate resignation",
+   "expr_az": "istefa vermək barədə düşünmək",
+   "seq": 2024
+  },
+  {
+   "lemma": "emigration",
+   "token": "emigration",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "contemplate emigration",
+   "expr_az": "mühacirət etmək barədə düşünmək",
+   "seq": 2025
+  },
+  {
+   "lemma": "horizon",
+   "token": "horizon",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "contemplate the horizon",
+   "expr_az": "üfüqü seyr etmək",
+   "seq": 2026
+  },
+  {
+   "lemma": "awful",
+   "token": "awful",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "too awful to contemplate",
+   "expr_az": "düşünmək belə dəhşətlidir",
+   "seq": 2027
+  },
+  {
+   "lemma": "takeover",
+   "token": "takeover",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "contemplate a takeover",
+   "expr_az": "şirkəti ələ keçirmək barədə düşünmək",
+   "seq": 2028
+  },
+  {
+   "lemma": "sabbatical",
+   "token": "sabbatical",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "contemplate a sabbatical",
+   "expr_az": "yaradıcılıq məzuniyyəti götürmək barədə düşünmək",
+   "seq": 2029
+  },
+  {
+   "lemma": "abyss",
+   "token": "abyss",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-046",
+   "head": "CONTEMPLATE",
+   "expr": "contemplate the abyss",
+   "expr_az": "uçuruma baxmaq (fəlakətlə üz-üzə qalmaq)",
+   "seq": 2030
+  },
+  {
+   "lemma": "CORRELATE",
+   "token": "CORRELATE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "cat": "verb",
+   "az": "qarşılıqlı əlaqədə olmaq, uzlaşmaq",
+   "seq": 2031
+  },
+  {
+   "lemma": "correlation",
+   "token": "correlation",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "cat": "n",
+   "az": "korrelyasiya, qarşılıqlı əlaqə",
+   "seq": 2032
+  },
+  {
+   "lemma": "correlated",
+   "token": "correlated",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "cat": "adj",
+   "az": "qarşılıqlı əlaqəli",
+   "seq": 2033
+  },
+  {
+   "lemma": "causation",
+   "token": "causation",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "expr": "correlation and causation",
+   "expr_az": "korrelyasiya və səbəb-nəticə əlaqəsi",
+   "seq": 2034
+  },
+  {
+   "lemma": "inverse",
+   "token": "inverse",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "expr": "an inverse correlation",
+   "expr_az": "tərs korrelyasiya",
+   "seq": 2035
+  },
+  {
+   "lemma": "coefficient",
+   "token": "coefficient",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "expr": "a correlation coefficient",
+   "expr_az": "korrelyasiya əmsalı",
+   "seq": 2036
+  },
+  {
+   "lemma": "robust",
+   "token": "robust",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "expr": "a robust correlation",
+   "expr_az": "möhkəm (etibarlı) korrelyasiya",
+   "seq": 2037
+  },
+  {
+   "lemma": "detect",
+   "token": "detect",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "expr": "detect a correlation",
+   "expr_az": "korrelyasiya aşkar etmək",
+   "seq": 2038
+  },
+  {
+   "lemma": "modest",
+   "token": "modest",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-047",
+   "head": "CORRELATE",
+   "expr": "a modest correlation",
+   "expr_az": "zəif (orta dərəcəli) korrelyasiya",
+   "seq": 2039
+  },
+  {
+   "lemma": "CULMINATE",
+   "token": "CULMINATE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "cat": "verb",
+   "az": "(nə iləsə) yekunlaşmaq, ən yüksək nöqtəyə çatmaq",
+   "seq": 2040
+  },
+  {
+   "lemma": "culmination",
+   "token": "culmination",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "cat": "n",
+   "az": "ən yüksək nöqtə, zirvə, yekun",
+   "seq": 2041
+  },
+  {
+   "lemma": "riot",
+   "token": "riot",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "expr": "culminate in a riot",
+   "expr_az": "iğtişaşla nəticələnmək",
+   "seq": 2042
+  },
+  {
+   "lemma": "ceremony",
+   "token": "ceremony",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "expr": "culminate in a ceremony",
+   "expr_az": "mərasimlə yekunlaşmaq",
+   "seq": 2043
+  },
+  {
+   "lemma": "collapse",
+   "token": "collapse",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "expr": "culminate in the collapse",
+   "expr_az": "çöküşlə (iflasla) nəticələnmək",
+   "seq": 2044
+  },
+  {
+   "lemma": "showdown",
+   "token": "showdown",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "expr": "culminate in a showdown",
+   "expr_az": "həlledici qarşıdurma ilə nəticələnmək",
+   "seq": 2045
+  },
+  {
+   "lemma": "arrest",
+   "token": "arrest",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "expr": "culminate in an arrest",
+   "expr_az": "həbslə nəticələnmək",
+   "seq": 2046
+  },
+  {
+   "lemma": "breakthrough",
+   "token": "breakthrough",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-048",
+   "head": "CULMINATE",
+   "expr": "culminate in a breakthrough",
+   "expr_az": "mühüm irəliləyişlə nəticələnmək",
+   "seq": 2047
+  },
+  {
+   "lemma": "DISCERN",
+   "token": "DISCERN",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "cat": "verb",
+   "az": "sezmək, ayırd etmək, güclə görmək",
+   "seq": 2048
+  },
+  {
+   "lemma": "discernment",
+   "token": "discernment",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "cat": "n",
+   "az": "fərasət, incə duyum",
+   "seq": 2049
+  },
+  {
+   "lemma": "discernible",
+   "token": "discernible",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "cat": "adj",
+   "az": "sezilən, gözə çarpan",
+   "seq": 2050
+  },
+  {
+   "lemma": "discerning",
+   "token": "discerning",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "cat": "adj",
+   "az": "incə zövqlü, seçici",
+   "seq": 2051
+  },
+  {
+   "lemma": "outline",
+   "token": "outline",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "no discernible outline",
+   "expr_az": "heç bir sezilən kontur",
+   "seq": 2052
+  },
+  {
+   "lemma": "palate",
+   "token": "palate",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "a discerning palate",
+   "expr_az": "incə dad duyumu",
+   "seq": 2053
+  },
+  {
+   "lemma": "audience",
+   "token": "audience",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "a discerning audience",
+   "expr_az": "zövqlü (tələbkar) tamaşaçı",
+   "seq": 2054
+  },
+  {
+   "lemma": "silhouette",
+   "token": "silhouette",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "discern a silhouette",
+   "expr_az": "silueti ayırd etmək",
+   "seq": 2055
+  },
+  {
+   "lemma": "mist",
+   "token": "mist",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "discern through the mist",
+   "expr_az": "duman arasından seçmək",
+   "seq": 2056
+  },
+  {
+   "lemma": "trace",
+   "token": "trace",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "discern a trace of",
+   "expr_az": "nəyinsə izini sezmək",
+   "seq": 2057
+  },
+  {
+   "lemma": "readily",
+   "token": "readily",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "readily discernible",
+   "expr_az": "asanlıqla sezilən",
+   "seq": 2058
+  },
+  {
+   "lemma": "collector",
+   "token": "collector",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-049",
+   "head": "DISCERN",
+   "expr": "a discerning collector",
+   "expr_az": "seçici kolleksiyaçı",
+   "seq": 2059
+  },
+  {
+   "lemma": "ELICIT",
+   "token": "ELICIT",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "cat": "verb",
+   "az": "(cavab, reaksiya) doğurmaq, almaq, üzə çıxarmaq",
+   "seq": 2060
+  },
+  {
+   "lemma": "sympathy",
+   "token": "sympathy",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit sympathy",
+   "expr_az": "rəğbət (şəfqət) doğurmaq",
+   "seq": 2061
+  },
+  {
+   "lemma": "confession",
+   "token": "confession",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit a confession",
+   "expr_az": "etiraf almaq",
+   "seq": 2062
+  },
+  {
+   "lemma": "laughter",
+   "token": "laughter",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit laughter",
+   "expr_az": "gülüş doğurmaq",
+   "seq": 2063
+  },
+  {
+   "lemma": "applause",
+   "token": "applause",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit applause",
+   "expr_az": "alqış qazanmaq",
+   "seq": 2064
+  },
+  {
+   "lemma": "gasp",
+   "token": "gasp",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit a gasp",
+   "expr_az": "heyrət nidasına səbəb olmaq",
+   "seq": 2065
+  },
+  {
+   "lemma": "outrage",
+   "token": "outrage",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit outrage",
+   "expr_az": "qəzəb doğurmaq",
+   "seq": 2066
+  },
+  {
+   "lemma": "compassion",
+   "token": "compassion",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit compassion",
+   "expr_az": "mərhəmət hissi oyatmaq",
+   "seq": 2067
+  },
+  {
+   "lemma": "donation",
+   "token": "donations",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-050",
+   "head": "ELICIT",
+   "expr": "elicit donations",
+   "expr_az": "ianə toplamağa nail olmaq",
+   "seq": 2068
+  },
+  {
+   "lemma": "ENCOMPASS",
+   "token": "ENCOMPASS",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "cat": "verb",
+   "az": "əhatə etmək, özündə birləşdirmək",
+   "seq": 2069
+  },
+  {
+   "lemma": "all-encompassing",
+   "token": "all-encompassing",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "cat": "adj",
+   "az": "hər şeyi əhatə edən",
+   "seq": 2070
+  },
+  {
+   "lemma": "spectrum",
+   "token": "spectrum",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass a spectrum",
+   "expr_az": "geniş spektri əhatə etmək",
+   "seq": 2071
+  },
+  {
+   "lemma": "multitude",
+   "token": "multitude",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass a multitude of",
+   "expr_az": "çoxlu sayda ... əhatə etmək",
+   "seq": 2072
+  },
+  {
+   "lemma": "array",
+   "token": "array",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass an array of",
+   "expr_az": "geniş çeşiddə ... əhatə etmək",
+   "seq": 2073
+  },
+  {
+   "lemma": "continent",
+   "token": "continents",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass five continents",
+   "expr_az": "beş qitəni əhatə etmək",
+   "seq": 2074
+  },
+  {
+   "lemma": "suburb",
+   "token": "suburbs",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass the suburbs",
+   "expr_az": "şəhərətrafı əraziləri əhatə etmək",
+   "seq": 2075
+  },
+  {
+   "lemma": "century",
+   "token": "centuries",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass centuries",
+   "expr_az": "əsrləri əhatə etmək",
+   "seq": 2076
+  },
+  {
+   "lemma": "genre",
+   "token": "genres",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass genres",
+   "expr_az": "janrları əhatə etmək",
+   "seq": 2077
+  },
+  {
+   "lemma": "realm",
+   "token": "realm",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-051",
+   "head": "ENCOMPASS",
+   "expr": "encompass the realm of",
+   "expr_az": "... sahəsini (aləmini) əhatə etmək",
+   "seq": 2078
+  },
+  {
+   "lemma": "EXPLICIT",
+   "token": "EXPLICIT",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "cat": "adjective",
+   "az": "açıq-aydın, birbaşa ifadə olunmuş; açıq-saçıq",
+   "seq": 2079
+  },
+  {
+   "lemma": "implicit",
+   "token": "implicit",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "cat": "adj",
+   "az": "üstüörtülü, nəzərdə tutulan",
+   "seq": 2080
+  },
+  {
+   "lemma": "explicitly",
+   "token": "explicitly",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "cat": "adv",
+   "az": "açıq şəkildə",
+   "seq": 2081
+  },
+  {
+   "lemma": "implicitly",
+   "token": "implicitly",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "cat": "adv",
+   "az": "üstüörtülü şəkildə, həmçinin şərtsiz",
+   "seq": 2082
+  },
+  {
+   "lemma": "consent",
+   "token": "consent",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "expr": "explicit consent",
+   "expr_az": "açıq şəkildə verilmiş razılıq",
+   "seq": 2083
+  },
+  {
+   "lemma": "reference",
+   "token": "reference",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "expr": "an explicit reference",
+   "expr_az": "birbaşa istinad (xatırlatma)",
+   "seq": 2084
+  },
+  {
+   "lemma": "sexually",
+   "token": "sexually",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "expr": "sexually explicit",
+   "expr_az": "açıq-saçıq (cinsi məzmunlu)",
+   "seq": 2085
+  },
+  {
+   "lemma": "content",
+   "token": "content",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "expr": "explicit content",
+   "expr_az": "açıq-saçıq məzmun",
+   "seq": 2086
+  },
+  {
+   "lemma": "approval",
+   "token": "approval",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "expr": "explicit approval",
+   "expr_az": "açıq şəkildə bildirilmiş razılıq (təsdiq)",
+   "seq": 2087
+  },
+  {
+   "lemma": "mention",
+   "token": "mention",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "expr": "explicitly mention",
+   "expr_az": "açıq şəkildə qeyd etmək",
+   "seq": 2088
+  },
+  {
+   "lemma": "prohibit",
+   "token": "prohibit",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-052",
+   "head": "EXPLICIT",
+   "expr": "explicitly prohibit",
+   "expr_az": "açıq şəkildə qadağan etmək",
+   "seq": 2089
+  },
+  {
+   "lemma": "INHIBIT",
+   "token": "INHIBIT",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "cat": "verb",
+   "az": "ləngitmək, mane olmaq, qarşısını almaq",
+   "seq": 2090
+  },
+  {
+   "lemma": "inhibition",
+   "token": "inhibition",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "cat": "n",
+   "az": "sıxılma, utancaqlıq, həmçinin ləngimə",
+   "seq": 2091
+  },
+  {
+   "lemma": "inhibitor",
+   "token": "inhibitor",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "cat": "n",
+   "az": "ləngidici maddə",
+   "seq": 2092
+  },
+  {
+   "lemma": "uninhibited",
+   "token": "uninhibited",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "cat": "adj",
+   "az": "sərbəst, sıxılmayan",
+   "seq": 2093
+  },
+  {
+   "lemma": "shed",
+   "token": "shed",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "expr": "shed your inhibitions",
+   "expr_az": "sıxılmanı bir kənara qoymaq",
+   "seq": 2094
+  },
+  {
+   "lemma": "absorption",
+   "token": "absorption",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "expr": "inhibit absorption",
+   "expr_az": "sorulmanı (mənimsənilməni) ləngitmək",
+   "seq": 2095
+  },
+  {
+   "lemma": "digestion",
+   "token": "digestion",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "expr": "inhibit digestion",
+   "expr_az": "həzmi ləngitmək",
+   "seq": 2096
+  },
+  {
+   "lemma": "appetite",
+   "token": "appetite",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "expr": "inhibit appetite",
+   "expr_az": "iştahanı azaltmaq",
+   "seq": 2097
+  },
+  {
+   "lemma": "corrosion",
+   "token": "corrosion",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "expr": "inhibit corrosion",
+   "expr_az": "korroziyanın qarşısını almaq",
+   "seq": 2098
+  },
+  {
+   "lemma": "release",
+   "token": "release",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "expr": "inhibit the release of",
+   "expr_az": "nəyinsə ifraz olunmasını (buraxılmasını) ləngitmək",
+   "seq": 2099
+  },
+  {
+   "lemma": "dissent",
+   "token": "dissent",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-053",
+   "head": "INHIBIT",
+   "expr": "inhibit dissent",
+   "expr_az": "fərqli fikirlərin ifadəsinə mane olmaq",
+   "seq": 2100
+  },
+  {
+   "lemma": "OBSOLETE",
+   "token": "OBSOLETE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "cat": "adjective",
+   "az": "köhnəlmiş, istifadədən çıxmış",
+   "seq": 2101
+  },
+  {
+   "lemma": "obsolescence",
+   "token": "obsolescence",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "cat": "n",
+   "az": "köhnəlmə, istifadədən çıxma",
+   "seq": 2102
+  },
+  {
+   "lemma": "machinery",
+   "token": "machinery",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "obsolete machinery",
+   "expr_az": "köhnəlmiş avadanlıq (dəzgahlar)",
+   "seq": 2103
+  },
+  {
+   "lemma": "built-in",
+   "token": "built-in",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "built-in obsolescence",
+   "expr_az": "qəsdən nəzərdə tutulmuş köhnəlmə",
+   "seq": 2104
+  },
+  {
+   "lemma": "factory",
+   "token": "factory",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "an obsolete factory",
+   "expr_az": "köhnəlmiş zavod",
+   "seq": 2105
+  },
+  {
+   "lemma": "format",
+   "token": "format",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "an obsolete format",
+   "expr_az": "istifadədən çıxmış format",
+   "seq": 2106
+  },
+  {
+   "lemma": "hardware",
+   "token": "hardware",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "obsolete hardware",
+   "expr_az": "köhnəlmiş aparat təminatı",
+   "seq": 2107
+  },
+  {
+   "lemma": "typewriter",
+   "token": "typewriter",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "an obsolete typewriter",
+   "expr_az": "köhnəlmiş yazı makinası",
+   "seq": 2108
+  },
+  {
+   "lemma": "appliance",
+   "token": "appliance",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "an obsolete appliance",
+   "expr_az": "köhnəlmiş məişət cihazı",
+   "seq": 2109
+  },
+  {
+   "lemma": "verge",
+   "token": "verge",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-054",
+   "head": "OBSOLETE",
+   "expr": "on the verge of obsolescence",
+   "expr_az": "köhnəlib sıradan çıxmaq ərəfəsində",
+   "seq": 2110
+  },
+  {
+   "lemma": "OUTWEIGH",
+   "token": "OUTWEIGH",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "cat": "verb",
+   "az": "üstələmək, daha əhəmiyyətli olmaq",
+   "seq": 2111
+  },
+  {
+   "lemma": "disadvantage",
+   "token": "disadvantages",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "outweigh the disadvantages",
+   "expr_az": "mənfi cəhətləri üstələmək",
+   "seq": 2112
+  },
+  {
+   "lemma": "drawback",
+   "token": "drawbacks",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "outweigh the drawbacks",
+   "expr_az": "çatışmazlıqları üstələmək",
+   "seq": 2113
+  },
+  {
+   "lemma": "downside",
+   "token": "downsides",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "outweigh the downsides",
+   "expr_az": "mənfi tərəfləri üstələmək",
+   "seq": 2114
+  },
+  {
+   "lemma": "pro",
+   "token": "pros",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "the pros outweigh the cons",
+   "expr_az": "müsbət cəhətlər mənfiləri üstələyir",
+   "seq": 2115
+  },
+  {
+   "lemma": "con",
+   "token": "cons",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "the pros outweigh the cons",
+   "expr_az": "müsbət cəhətlər mənfiləri üstələyir",
+   "seq": 2116
+  },
+  {
+   "lemma": "inconvenience",
+   "token": "inconvenience",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "outweigh the inconvenience",
+   "expr_az": "narahatlığı (əziyyəti) üstələmək",
+   "seq": 2117
+  },
+  {
+   "lemma": "expense",
+   "token": "expense",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "outweigh the expense",
+   "expr_az": "xərci üstələmək",
+   "seq": 2118
+  },
+  {
+   "lemma": "vastly",
+   "token": "vastly",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-055",
+   "head": "OUTWEIGH",
+   "expr": "vastly outweigh",
+   "expr_az": "qat-qat üstələmək",
+   "seq": 2119
+  },
+  {
+   "lemma": "PERCEIVE",
+   "token": "PERCEIVE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "cat": "verb",
+   "az": "qavramaq, dərk etmək; hesab etmək, ... kimi görmək",
+   "seq": 2120
+  },
+  {
+   "lemma": "perception",
+   "token": "perception",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "cat": "n",
+   "az": "qavrayış, təsəvvür",
+   "seq": 2121
+  },
+  {
+   "lemma": "self-perception",
+   "token": "self-perception",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "cat": "n",
+   "az": "özünüqavrama",
+   "seq": 2122
+  },
+  {
+   "lemma": "perceptive",
+   "token": "perceptive",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "cat": "adj",
+   "az": "fərasətli, incə müşahidəli",
+   "seq": 2123
+  },
+  {
+   "lemma": "perceptible",
+   "token": "perceptible",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "cat": "adj",
+   "az": "sezilən",
+   "seq": 2124
+  },
+  {
+   "lemma": "perceived",
+   "token": "perceived",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "cat": "adj",
+   "az": "təsəvvür edilən, güman edilən",
+   "seq": 2125
+  },
+  {
+   "lemma": "depth",
+   "token": "depth",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "expr": "depth perception",
+   "expr_az": "dərinliyin qavranılması",
+   "seq": 2126
+  },
+  {
+   "lemma": "sensory",
+   "token": "sensory",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "expr": "sensory perception",
+   "expr_az": "hissi qavrayış",
+   "seq": 2127
+  },
+  {
+   "lemma": "distorted",
+   "token": "distorted",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "expr": "a distorted perception",
+   "expr_az": "təhrif olunmuş təsəvvür",
+   "seq": 2128
+  },
+  {
+   "lemma": "insult",
+   "token": "insult",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "expr": "a perceived insult",
+   "expr_az": "təhqir kimi qəbul edilən söz (hərəkət)",
+   "seq": 2129
+  },
+  {
+   "lemma": "snub",
+   "token": "snub",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "expr": "a perceived snub",
+   "expr_az": "saymazlıq kimi qəbul edilən hərəkət",
+   "seq": 2130
+  },
+  {
+   "lemma": "intuitively",
+   "token": "intuitively",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "expr": "perceive intuitively",
+   "expr_az": "intuitiv olaraq dərk etmək",
+   "seq": 2131
+  },
+  {
+   "lemma": "pause",
+   "token": "pause",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-056",
+   "head": "PERCEIVE",
+   "expr": "a perceptible pause",
+   "expr_az": "sezilən fasilə",
+   "seq": 2132
+  },
+  {
+   "lemma": "PERPETUATE",
+   "token": "PERPETUATE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "cat": "verb",
+   "az": "(pis halı) davam etdirmək, əbədiləşdirmək",
+   "seq": 2133
+  },
+  {
+   "lemma": "perpetuation",
+   "token": "perpetuation",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "cat": "n",
+   "az": "davam etdirilmə, əbədiləşdirmə",
+   "seq": 2134
+  },
+  {
+   "lemma": "perpetual",
+   "token": "perpetual",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "cat": "adj",
+   "az": "daimi, ardı-arası kəsilməyən",
+   "seq": 2135
+  },
+  {
+   "lemma": "perpetually",
+   "token": "perpetually",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "cat": "adv",
+   "az": "daim, ara vermədən",
+   "seq": 2136
+  },
+  {
+   "lemma": "injustice",
+   "token": "injustice",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetuate injustice",
+   "expr_az": "ədalətsizliyi davam etdirmək",
+   "seq": 2137
+  },
+  {
+   "lemma": "fiction",
+   "token": "fiction",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetuate a fiction",
+   "expr_az": "uydurmanı yaşatmaq",
+   "seq": 2138
+  },
+  {
+   "lemma": "oppression",
+   "token": "oppression",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetuate oppression",
+   "expr_az": "zülmü davam etdirmək",
+   "seq": 2139
+  },
+  {
+   "lemma": "ignorance",
+   "token": "ignorance",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetuate ignorance",
+   "expr_az": "cəhaləti davam etdirmək",
+   "seq": 2140
+  },
+  {
+   "lemma": "feud",
+   "token": "feud",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetuate a feud",
+   "expr_az": "ədavəti davam etdirmək",
+   "seq": 2141
+  },
+  {
+   "lemma": "segregation",
+   "token": "segregation",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetuate segregation",
+   "expr_az": "ayrı-seçkilik əsasında bölgünü yaşatmaq",
+   "seq": 2142
+  },
+  {
+   "lemma": "illusion",
+   "token": "illusion",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetuate the illusion",
+   "expr_az": "illüziyanı yaşatmaq",
+   "seq": 2143
+  },
+  {
+   "lemma": "twilight",
+   "token": "twilight",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-057",
+   "head": "PERPETUATE",
+   "expr": "perpetual twilight",
+   "expr_az": "daimi alaqaranlıq",
+   "seq": 2144
+  },
+  {
+   "lemma": "REINFORCE",
+   "token": "REINFORCE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "cat": "verb",
+   "az": "möhkəmləndirmək, gücləndirmək",
+   "seq": 2145
+  },
+  {
+   "lemma": "reinforcement",
+   "token": "reinforcement",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "cat": "n",
+   "az": "möhkəmləndirmə, həmçinin (cəmdə) əlavə qüvvələr",
+   "seq": 2146
+  },
+  {
+   "lemma": "reinforced",
+   "token": "reinforced",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "cat": "adj",
+   "az": "möhkəmləndirilmiş",
+   "seq": 2147
+  },
+  {
+   "lemma": "concrete",
+   "token": "concrete",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforced concrete",
+   "expr_az": "dəmir-beton",
+   "seq": 2148
+  },
+  {
+   "lemma": "wall",
+   "token": "wall",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforce a wall",
+   "expr_az": "divarı möhkəmləndirmək",
+   "seq": 2149
+  },
+  {
+   "lemma": "impression",
+   "token": "impression",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforce the impression",
+   "expr_az": "təəssüratı gücləndirmək",
+   "seq": 2150
+  },
+  {
+   "lemma": "fence",
+   "token": "fence",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforce the fence",
+   "expr_az": "hasarı möhkəmləndirmək",
+   "seq": 2151
+  },
+  {
+   "lemma": "conviction",
+   "token": "conviction",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforce a conviction",
+   "expr_az": "əminliyi möhkəmləndirmək",
+   "seq": 2152
+  },
+  {
+   "lemma": "border",
+   "token": "border",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforce the border",
+   "expr_az": "sərhədi möhkəmləndirmək",
+   "seq": 2153
+  },
+  {
+   "lemma": "dam",
+   "token": "dam",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforce a dam",
+   "expr_az": "bəndi möhkəmləndirmək",
+   "seq": 2154
+  },
+  {
+   "lemma": "roof",
+   "token": "roof",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-058",
+   "head": "REINFORCE",
+   "expr": "reinforce the roof",
+   "expr_az": "damı möhkəmləndirmək",
+   "seq": 2155
+  },
+  {
+   "lemma": "SUSCEPTIBLE",
+   "token": "SUSCEPTIBLE",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "cat": "adjective",
+   "az": "meyilli, həssas, asan təsirə düşən",
+   "seq": 2156
+  },
+  {
+   "lemma": "susceptibility",
+   "token": "susceptibility",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "cat": "n",
+   "az": "meyillilik, həssaslıq",
+   "seq": 2157
+  },
+  {
+   "lemma": "persuasion",
+   "token": "persuasion",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "susceptible to persuasion",
+   "expr_az": "dilə tutulmağa meyilli",
+   "seq": 2158
+  },
+  {
+   "lemma": "frost",
+   "token": "frost",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "susceptible to frost",
+   "expr_az": "şaxtaya davamsız",
+   "seq": 2159
+  },
+  {
+   "lemma": "bribery",
+   "token": "bribery",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "susceptible to bribery",
+   "expr_az": "rüşvətə meyilli",
+   "seq": 2160
+  },
+  {
+   "lemma": "decay",
+   "token": "decay",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "susceptible to decay",
+   "expr_az": "çürüməyə meyilli",
+   "seq": 2161
+  },
+  {
+   "lemma": "depression",
+   "token": "depression",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "susceptible to depression",
+   "expr_az": "depressiyaya meyilli",
+   "seq": 2162
+  },
+  {
+   "lemma": "manipulation",
+   "token": "manipulation",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "susceptible to manipulation",
+   "expr_az": "manipulyasiyaya asan məruz qalan",
+   "seq": 2163
+  },
+  {
+   "lemma": "scam",
+   "token": "scams",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "susceptible to scams",
+   "expr_az": "fırıldaqlara asan aldanan",
+   "seq": 2164
+  },
+  {
+   "lemma": "genetically",
+   "token": "genetically",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-059",
+   "head": "SUSCEPTIBLE",
+   "expr": "genetically susceptible",
+   "expr_az": "irsən meyilli",
+   "seq": 2165
+  },
+  {
+   "lemma": "TRANSPARENT",
+   "token": "TRANSPARENT",
+   "role": "MAIN",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "cat": "adjective",
+   "az": "şəffaf; açıq, aydın",
+   "seq": 2166
+  },
+  {
+   "lemma": "transparency",
+   "token": "transparency",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "cat": "n",
+   "az": "şəffaflıq",
+   "seq": 2167
+  },
+  {
+   "lemma": "transparently",
+   "token": "transparently",
+   "role": "FAMILY",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "cat": "adv",
+   "az": "şəffaf şəkildə, açıq-aşkar",
+   "seq": 2168
+  },
+  {
+   "lemma": "accountability",
+   "token": "accountability",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "expr": "transparency and accountability",
+   "expr_az": "şəffaflıq və hesabatlılıq",
+   "seq": 2169
+  },
+  {
+   "lemma": "plastic",
+   "token": "plastic",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "expr": "transparent plastic",
+   "expr_az": "şəffaf plastik",
+   "seq": 2170
+  },
+  {
+   "lemma": "fabric",
+   "token": "fabric",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "expr": "a transparent fabric",
+   "expr_az": "şəffaf parça",
+   "seq": 2171
+  },
+  {
+   "lemma": "liquid",
+   "token": "liquid",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "expr": "a transparent liquid",
+   "expr_az": "şəffaf maye",
+   "seq": 2172
+  },
+  {
+   "lemma": "governance",
+   "token": "governance",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "expr": "transparent governance",
+   "expr_az": "şəffaf idarəçilik",
+   "seq": 2173
+  },
+  {
+   "lemma": "corporate",
+   "token": "corporate",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "expr": "corporate transparency",
+   "expr_az": "korporativ şəffaflıq",
+   "seq": 2174
+  },
+  {
+   "lemma": "ploy",
+   "token": "ploy",
+   "role": "COLLOCATE",
+   "level": "C1",
+   "lesson": "C1-060",
+   "head": "TRANSPARENT",
+   "expr": "a transparent ploy",
+   "expr_az": "açıq-aşkar hiylə",
+   "seq": 2175
+  },
+  {
    "lemma": "EXACERBATE",
    "token": "EXACERBATE",
    "role": "MAIN",
@@ -21894,7 +24182,7 @@
    "head": "EXACERBATE",
    "cat": "verb",
    "az": "kəskinləşdirmək, ağırlaşdırmaq, daha da pisləşdirmək",
-   "seq": 1968
+   "seq": 2176
   },
   {
    "lemma": "exacerbation",
@@ -21905,7 +24193,7 @@
    "head": "EXACERBATE",
    "cat": "n",
    "az": "kəskinləşmə, ağırlaşma",
-   "seq": 1969
+   "seq": 2177
   },
   {
    "lemma": "division",
@@ -21916,7 +24204,7 @@
    "head": "EXACERBATE",
    "expr": "exacerbate divisions",
    "expr_az": "parçalanmanı (fikir ayrılıqlarını) dərinləşdirmək",
-   "seq": 1970
+   "seq": 2178
   },
   {
    "lemma": "asthma",
@@ -21927,7 +24215,7 @@
    "head": "EXACERBATE",
    "expr": "exacerbate asthma",
    "expr_az": "astmanı ağırlaşdırmaq",
-   "seq": 1971
+   "seq": 2179
   },
   {
    "lemma": "plight",
@@ -21938,7 +24226,7 @@
    "head": "EXACERBATE",
    "expr": "exacerbate the plight of",
    "expr_az": "kiminsə ağır vəziyyətini daha da pisləşdirmək",
-   "seq": 1972
+   "seq": 2180
   },
   {
    "lemma": "friction",
@@ -21949,7 +24237,7 @@
    "head": "EXACERBATE",
    "expr": "exacerbate friction",
    "expr_az": "sürtünməni (narazılığı) artırmaq",
-   "seq": 1973
+   "seq": 2181
   },
   {
    "lemma": "rift",
@@ -21960,7 +24248,7 @@
    "head": "EXACERBATE",
    "expr": "exacerbate the rift",
    "expr_az": "uçurumu (çatı) dərinləşdirmək",
-   "seq": 1974
+   "seq": 2182
   },
   {
    "lemma": "imbalance",
@@ -21971,7 +24259,7 @@
    "head": "EXACERBATE",
    "expr": "exacerbate the imbalance",
    "expr_az": "tarazlığın pozulmasını gücləndirmək",
-   "seq": 1975
+   "seq": 2183
   },
   {
    "lemma": "merely",
@@ -21982,7 +24270,7 @@
    "head": "EXACERBATE",
    "expr": "merely exacerbate",
    "expr_az": "yalnız daha da ağırlaşdırmaq",
-   "seq": 1976
+   "seq": 2184
   },
   {
    "lemma": "acute",
@@ -21993,7 +24281,7 @@
    "head": "EXACERBATE",
    "expr": "an acute exacerbation",
    "expr_az": "(xəstəliyin) kəskin ağırlaşması",
-   "seq": 1977
+   "seq": 2185
   },
   {
    "lemma": "AMELIORATE",
@@ -22004,7 +24292,7 @@
    "head": "AMELIORATE",
    "cat": "verb",
    "az": "yaxşılaşdırmaq, yüngülləşdirmək",
-   "seq": 1978
+   "seq": 2186
   },
   {
    "lemma": "amelioration",
@@ -22015,7 +24303,7 @@
    "head": "AMELIORATE",
    "cat": "n",
    "az": "yaxşılaşma, yüngülləşdirmə",
-   "seq": 1979
+   "seq": 2187
   },
   {
    "lemma": "side-effects",
@@ -22026,7 +24314,7 @@
    "head": "AMELIORATE",
    "expr": "ameliorate side-effects",
    "expr_az": "əlavə (yan) təsirləri azaltmaq",
-   "seq": 1980
+   "seq": 2188
   },
   {
    "lemma": "squalor",
@@ -22037,7 +24325,7 @@
    "head": "AMELIORATE",
    "expr": "ameliorate the squalor",
    "expr_az": "səfaləti (acınacaqlı şəraiti) yüngülləşdirmək",
-   "seq": 1981
+   "seq": 2189
   },
   {
    "lemma": "deprivation",
@@ -22048,7 +24336,7 @@
    "head": "AMELIORATE",
    "expr": "ameliorate deprivation",
    "expr_az": "məhrumiyyəti azaltmaq",
-   "seq": 1982
+   "seq": 2190
   },
   {
    "lemma": "ordeal",
@@ -22059,7 +24347,7 @@
    "head": "AMELIORATE",
    "expr": "ameliorate the ordeal",
    "expr_az": "ağır sınağı yüngülləşdirmək",
-   "seq": 1983
+   "seq": 2191
   },
   {
    "lemma": "discomfort",
@@ -22070,7 +24358,7 @@
    "head": "AMELIORATE",
    "expr": "ameliorate discomfort",
    "expr_az": "narahatlığı (diskomfortu) azaltmaq",
-   "seq": 1984
+   "seq": 2192
   },
   {
    "lemma": "shortcoming",
@@ -22081,7 +24369,7 @@
    "head": "AMELIORATE",
    "expr": "ameliorate the shortcomings",
    "expr_az": "nöqsanları aradan qaldırmağa çalışmaq",
-   "seq": 1985
+   "seq": 2193
   },
   {
    "lemma": "trauma",
@@ -22092,7 +24380,7 @@
    "head": "AMELIORATE",
    "expr": "ameliorate the trauma",
    "expr_az": "sarsıntını (travmanı) yüngülləşdirmək",
-   "seq": 1986
+   "seq": 2194
   },
   {
    "lemma": "UBIQUITOUS",
@@ -22103,7 +24391,7 @@
    "head": "UBIQUITOUS",
    "cat": "adjective",
    "az": "hər yerdə rast gəlinən, hər yerə yayılmış",
-   "seq": 1987
+   "seq": 2195
   },
   {
    "lemma": "ubiquity",
@@ -22114,7 +24402,7 @@
    "head": "UBIQUITOUS",
    "cat": "n",
    "az": "hər yerdə mövcudluq",
-   "seq": 1988
+   "seq": 2196
   },
   {
    "lemma": "ubiquitously",
@@ -22125,7 +24413,7 @@
    "head": "UBIQUITOUS",
    "cat": "adv",
    "az": "hər yerdə",
-   "seq": 1989
+   "seq": 2197
   },
   {
    "lemma": "presence",
@@ -22136,7 +24424,7 @@
    "head": "UBIQUITOUS",
    "expr": "a ubiquitous presence",
    "expr_az": "hər yerdə hiss olunan mövcudluq",
-   "seq": 1990
+   "seq": 2198
   },
   {
    "lemma": "surveillance",
@@ -22147,7 +24435,7 @@
    "head": "UBIQUITOUS",
    "expr": "ubiquitous surveillance",
    "expr_az": "hər yerə nüfuz edən müşahidə (nəzarət)",
-   "seq": 1991
+   "seq": 2199
   },
   {
    "lemma": "smartphone",
@@ -22158,7 +24446,7 @@
    "head": "UBIQUITOUS",
    "expr": "ubiquitous smartphones",
    "expr_az": "hər yerdə rast gəlinən smartfonlar",
-   "seq": 1992
+   "seq": 2200
   },
   {
    "lemma": "billboard",
@@ -22169,7 +24457,7 @@
    "head": "UBIQUITOUS",
    "expr": "ubiquitous billboards",
    "expr_az": "hər addımda rast gəlinən reklam lövhələri",
-   "seq": 1993
+   "seq": 2201
   },
   {
    "lemma": "graffiti",
@@ -22180,7 +24468,7 @@
    "head": "UBIQUITOUS",
    "expr": "ubiquitous graffiti",
    "expr_az": "hər yeri bürümüş qraffiti",
-   "seq": 1994
+   "seq": 2202
   },
   {
    "lemma": "gadget",
@@ -22191,7 +24479,7 @@
    "head": "UBIQUITOUS",
    "expr": "ubiquitous gadgets",
    "expr_az": "hər yerdə olan qurğular (qadcetlər)",
-   "seq": 1995
+   "seq": 2203
   },
   {
    "lemma": "jargon",
@@ -22202,7 +24490,7 @@
    "head": "UBIQUITOUS",
    "expr": "ubiquitous jargon",
    "expr_az": "hər yerdə işlədilən peşə jarqonu",
-   "seq": 1996
+   "seq": 2204
   },
   {
    "lemma": "PERNICIOUS",
@@ -22213,7 +24501,7 @@
    "head": "PERNICIOUS",
    "cat": "adjective",
    "az": "zərərli, məhvedici (xüsusilə gizli və tədrici şəkildə)",
-   "seq": 1997
+   "seq": 2205
   },
   {
    "lemma": "perniciously",
@@ -22224,7 +24512,7 @@
    "head": "PERNICIOUS",
    "cat": "adv",
    "az": "zərərli şəkildə",
-   "seq": 1998
+   "seq": 2206
   },
   {
    "lemma": "myth",
@@ -22235,7 +24523,7 @@
    "head": "PERNICIOUS",
    "expr": "a pernicious myth",
    "expr_az": "zərərli mif (uydurma)",
-   "seq": 1999
+   "seq": 2207
   },
   {
    "lemma": "doctrine",
@@ -22246,7 +24534,7 @@
    "head": "PERNICIOUS",
    "expr": "a pernicious doctrine",
    "expr_az": "zərərli təlim (doktrina)",
-   "seq": 2000
+   "seq": 2208
   },
   {
    "lemma": "propaganda",
@@ -22257,7 +24545,7 @@
    "head": "PERNICIOUS",
    "expr": "pernicious propaganda",
    "expr_az": "zərərli təbliğat",
-   "seq": 2001
+   "seq": 2209
   },
   {
    "lemma": "rumour",
@@ -22268,7 +24556,7 @@
    "head": "PERNICIOUS",
    "expr": "a pernicious rumour",
    "expr_az": "zərərli şayiə",
-   "seq": 2002
+   "seq": 2210
   },
   {
    "lemma": "legacy",
@@ -22279,7 +24567,7 @@
    "head": "PERNICIOUS",
    "expr": "a pernicious legacy",
    "expr_az": "ağır (zərərli) miras",
-   "seq": 2003
+   "seq": 2211
   },
   {
    "lemma": "gossip",
@@ -22290,7 +24578,7 @@
    "head": "PERNICIOUS",
    "expr": "pernicious gossip",
    "expr_az": "zərərli dedi-qodu",
-   "seq": 2004
+   "seq": 2212
   },
   {
    "lemma": "cycle",
@@ -22301,7 +24589,7 @@
    "head": "PERNICIOUS",
    "expr": "a pernicious cycle",
    "expr_az": "qapalı (zərərli) dövrə",
-   "seq": 2005
+   "seq": 2213
   },
   {
    "lemma": "nonsense",
@@ -22312,7 +24600,7 @@
    "head": "PERNICIOUS",
    "expr": "pernicious nonsense",
    "expr_az": "zərərli cəfəngiyat",
-   "seq": 2006
+   "seq": 2214
   },
   {
    "lemma": "PRECARIOUS",
@@ -22323,7 +24611,7 @@
    "head": "PRECARIOUS",
    "cat": "adjective",
    "az": "etibarsız, qeyri-sabit, təhlükəli",
-   "seq": 2007
+   "seq": 2215
   },
   {
    "lemma": "precariousness",
@@ -22334,7 +24622,7 @@
    "head": "PRECARIOUS",
    "cat": "n",
    "az": "qeyri-sabitlik, etibarsızlıq",
-   "seq": 2008
+   "seq": 2216
   },
   {
    "lemma": "precariously",
@@ -22345,7 +24633,7 @@
    "head": "PRECARIOUS",
    "cat": "adv",
    "az": "təhlükəli şəkildə, güclə",
-   "seq": 2009
+   "seq": 2217
   },
   {
    "lemma": "existence",
@@ -22356,7 +24644,7 @@
    "head": "PRECARIOUS",
    "expr": "a precarious existence",
    "expr_az": "çətin dolanışıq, etibarsız həyat",
-   "seq": 2010
+   "seq": 2218
   },
   {
    "lemma": "foothold",
@@ -22367,7 +24655,7 @@
    "head": "PRECARIOUS",
    "expr": "a precarious foothold",
    "expr_az": "zəif dayaq nöqtəsi",
-   "seq": 2011
+   "seq": 2219
   },
   {
    "lemma": "ceasefire",
@@ -22378,7 +24666,7 @@
    "head": "PRECARIOUS",
    "expr": "a precarious ceasefire",
    "expr_az": "kövrək atəşkəs",
-   "seq": 2012
+   "seq": 2220
   },
   {
    "lemma": "truce",
@@ -22389,7 +24677,7 @@
    "head": "PRECARIOUS",
    "expr": "a precarious truce",
    "expr_az": "etibarsız barışıq",
-   "seq": 2013
+   "seq": 2221
   },
   {
    "lemma": "equilibrium",
@@ -22400,7 +24688,7 @@
    "head": "PRECARIOUS",
    "expr": "a precarious equilibrium",
    "expr_az": "kövrək tarazlıq",
-   "seq": 2014
+   "seq": 2222
   },
   {
    "lemma": "perched",
@@ -22411,7 +24699,7 @@
    "head": "PRECARIOUS",
    "expr": "precariously perched",
    "expr_az": "uçurumun kənarında (güclə) dayanan",
-   "seq": 2015
+   "seq": 2223
   },
   {
    "lemma": "cling",
@@ -22422,7 +24710,7 @@
    "head": "PRECARIOUS",
    "expr": "cling precariously",
    "expr_az": "güclə yapışıb qalmaq",
-   "seq": 2016
+   "seq": 2224
   },
   {
    "lemma": "grip",
@@ -22433,7 +24721,7 @@
    "head": "PRECARIOUS",
    "expr": "a precarious grip",
    "expr_az": "zəif tutuş, həmçinin zəif nəzarət",
-   "seq": 2017
+   "seq": 2225
   },
   {
    "lemma": "PROLIFERATE",
@@ -22444,7 +24732,7 @@
    "head": "PROLIFERATE",
    "cat": "verb",
    "az": "sürətlə çoxalmaq, yayılmaq",
-   "seq": 2018
+   "seq": 2226
   },
   {
    "lemma": "proliferation",
@@ -22455,7 +24743,7 @@
    "head": "PROLIFERATE",
    "cat": "n",
    "az": "sürətli artım, yayılma",
-   "seq": 2019
+   "seq": 2227
   },
   {
    "lemma": "non-proliferation",
@@ -22466,7 +24754,7 @@
    "head": "PROLIFERATE",
    "cat": "n",
    "az": "(silahların) yayılmaması",
-   "seq": 2020
+   "seq": 2228
   },
   {
    "lemma": "nuclear",
@@ -22477,7 +24765,7 @@
    "head": "PROLIFERATE",
    "expr": "nuclear proliferation",
    "expr_az": "nüvə silahının yayılması",
-   "seq": 2021
+   "seq": 2229
   },
   {
    "lemma": "weapon",
@@ -22488,7 +24776,7 @@
    "head": "PROLIFERATE",
    "expr": "the proliferation of weapons",
    "expr_az": "silahların yayılması",
-   "seq": 2022
+   "seq": 2230
   },
   {
    "lemma": "cell",
@@ -22499,7 +24787,7 @@
    "head": "PROLIFERATE",
    "expr": "cells proliferate",
    "expr_az": "hüceyrələr çoxalır",
-   "seq": 2023
+   "seq": 2231
   },
   {
    "lemma": "bacteria",
@@ -22510,7 +24798,7 @@
    "head": "PROLIFERATE",
    "expr": "bacteria proliferate",
    "expr_az": "bakteriyalar çoxalır",
-   "seq": 2024
+   "seq": 2232
   },
   {
    "lemma": "misinformation",
@@ -22521,7 +24809,7 @@
    "head": "PROLIFERATE",
    "expr": "the proliferation of misinformation",
    "expr_az": "yanlış məlumatların yayılması",
-   "seq": 2025
+   "seq": 2233
   },
   {
    "lemma": "exponentially",
@@ -22532,7 +24820,7 @@
    "head": "PROLIFERATE",
    "expr": "proliferate exponentially",
    "expr_az": "həndəsi silsilə ilə artmaq",
-   "seq": 2026
+   "seq": 2234
   },
   {
    "lemma": "curb",
@@ -22543,7 +24831,7 @@
    "head": "PROLIFERATE",
    "expr": "curb proliferation",
    "expr_az": "yayılmanı cilovlamaq",
-   "seq": 2027
+   "seq": 2235
   },
   {
    "lemma": "halt",
@@ -22554,7 +24842,7 @@
    "head": "PROLIFERATE",
    "expr": "halt the proliferation",
    "expr_az": "yayılmanı dayandırmaq",
-   "seq": 2028
+   "seq": 2236
   },
   {
    "lemma": "VINDICATE",
@@ -22565,7 +24853,7 @@
    "head": "VINDICATE",
    "cat": "verb",
    "az": "haqlı olduğunu sübut etmək, bəraət qazandırmaq",
-   "seq": 2029
+   "seq": 2237
   },
   {
    "lemma": "vindication",
@@ -22576,7 +24864,7 @@
    "head": "VINDICATE",
    "cat": "n",
    "az": "haqlı çıxma, bəraət",
-   "seq": 2030
+   "seq": 2238
   },
   {
    "lemma": "stance",
@@ -22587,7 +24875,7 @@
    "head": "VINDICATE",
    "expr": "vindicate sb's stance",
    "expr_az": "kiminsə mövqeyinin doğruluğunu sübut etmək",
-   "seq": 2031
+   "seq": 2239
   },
   {
    "lemma": "judgement",
@@ -22598,7 +24886,7 @@
    "head": "VINDICATE",
    "expr": "vindicate sb's judgement",
    "expr_az": "kiminsə mülahizəsinin düzgünlüyünü təsdiqləmək",
-   "seq": 2032
+   "seq": 2240
   },
   {
    "lemma": "accused",
@@ -22609,7 +24897,7 @@
    "head": "VINDICATE",
    "expr": "vindicate the accused",
    "expr_az": "təqsirləndirilən şəxsə bəraət qazandırmaq",
-   "seq": 2033
+   "seq": 2241
   },
   {
    "lemma": "appeal",
@@ -22620,7 +24908,7 @@
    "head": "VINDICATE",
    "expr": "vindicated on appeal",
    "expr_az": "apellyasiya nəticəsində bəraət almış",
-   "seq": 2034
+   "seq": 2242
   },
   {
    "lemma": "triumphant",
@@ -22631,7 +24919,7 @@
    "head": "VINDICATE",
    "expr": "a triumphant vindication",
    "expr_az": "təntənəli bəraət, parlaq təsdiq",
-   "seq": 2035
+   "seq": 2243
   },
   {
    "lemma": "suspicion",
@@ -22642,7 +24930,7 @@
    "head": "VINDICATE",
    "expr": "vindicate sb's suspicions",
    "expr_az": "kiminsə şübhələrinin əsaslı olduğunu göstərmək",
-   "seq": 2036
+   "seq": 2244
   },
   {
    "lemma": "instinct",
@@ -22653,7 +24941,7 @@
    "head": "VINDICATE",
    "expr": "vindicate sb's instincts",
    "expr_az": "kiminsə duyumunun (intuisiyasının) doğruluğunu təsdiqləmək",
-   "seq": 2037
+   "seq": 2245
   },
   {
    "lemma": "CIRCUMVENT",
@@ -22664,7 +24952,7 @@
    "head": "CIRCUMVENT",
    "cat": "verb",
    "az": "yan keçmək, (qanunu və ya maneəni) dolanıb keçmək",
-   "seq": 2038
+   "seq": 2246
   },
   {
    "lemma": "circumvention",
@@ -22675,7 +24963,7 @@
    "head": "CIRCUMVENT",
    "cat": "n",
    "az": "yan keçmə, dolanıb keçmə",
-   "seq": 2039
+   "seq": 2247
   },
   {
    "lemma": "regulation",
@@ -22686,7 +24974,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent regulations",
    "expr_az": "qaydalardan yan keçmək",
-   "seq": 2040
+   "seq": 2248
   },
   {
    "lemma": "obstacle",
@@ -22697,7 +24985,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent an obstacle",
    "expr_az": "maneəni dolanıb keçmək",
-   "seq": 2041
+   "seq": 2249
   },
   {
    "lemma": "censorship",
@@ -22708,7 +24996,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent censorship",
    "expr_az": "senzuradan yan keçmək",
-   "seq": 2042
+   "seq": 2250
   },
   {
    "lemma": "embargo",
@@ -22719,7 +25007,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent the embargo",
    "expr_az": "embarqodan yan keçmək",
-   "seq": 2043
+   "seq": 2251
   },
   {
    "lemma": "bureaucracy",
@@ -22730,7 +25018,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent bureaucracy",
    "expr_az": "bürokratiyadan yan keçmək",
-   "seq": 2044
+   "seq": 2252
   },
   {
    "lemma": "tariff",
@@ -22741,7 +25029,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent tariffs",
    "expr_az": "tariflərdən yayınmaq",
-   "seq": 2045
+   "seq": 2253
   },
   {
    "lemma": "safeguard",
@@ -22752,7 +25040,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent safeguards",
    "expr_az": "qoruyucu mexanizmlərdən yan keçmək",
-   "seq": 2046
+   "seq": 2254
   },
   {
    "lemma": "veto",
@@ -22763,7 +25051,7 @@
    "head": "CIRCUMVENT",
    "expr": "circumvent the veto",
    "expr_az": "vetodan yan keçmək",
-   "seq": 2047
+   "seq": 2255
   },
   {
    "lemma": "DISSEMINATE",
@@ -22774,7 +25062,7 @@
    "head": "DISSEMINATE",
    "cat": "verb",
    "az": "yaymaq, geniş auditoriyaya çatdırmaq",
-   "seq": 2048
+   "seq": 2256
   },
   {
    "lemma": "dissemination",
@@ -22785,7 +25073,7 @@
    "head": "DISSEMINATE",
    "cat": "n",
    "az": "yayılma, yayma",
-   "seq": 2049
+   "seq": 2257
   },
   {
    "lemma": "leaflet",
@@ -22796,7 +25084,7 @@
    "head": "DISSEMINATE",
    "expr": "disseminate leaflets",
    "expr_az": "vərəqələr yaymaq",
-   "seq": 2050
+   "seq": 2258
   },
   {
    "lemma": "literature",
@@ -22807,7 +25095,7 @@
    "head": "DISSEMINATE",
    "expr": "disseminate literature",
    "expr_az": "ədəbiyyat (çap materialları) yaymaq",
-   "seq": 2051
+   "seq": 2259
   },
   {
    "lemma": "expertise",
@@ -22818,7 +25106,7 @@
    "head": "DISSEMINATE",
    "expr": "disseminate expertise",
    "expr_az": "təcrübə və bilikləri yaymaq",
-   "seq": 2052
+   "seq": 2260
   },
   {
    "lemma": "electronically",
@@ -22829,7 +25117,7 @@
    "head": "DISSEMINATE",
    "expr": "disseminate electronically",
    "expr_az": "elektron formada yaymaq",
-   "seq": 2053
+   "seq": 2261
   },
   {
    "lemma": "disinformation",
@@ -22840,7 +25128,7 @@
    "head": "DISSEMINATE",
    "expr": "disseminate disinformation",
    "expr_az": "dezinformasiya yaymaq",
-   "seq": 2054
+   "seq": 2262
   },
   {
    "lemma": "hatred",
@@ -22851,7 +25139,7 @@
    "head": "DISSEMINATE",
    "expr": "disseminate hatred",
    "expr_az": "nifrət yaymaq",
-   "seq": 2055
+   "seq": 2263
   },
   {
    "lemma": "mass",
@@ -22862,7 +25150,7 @@
    "head": "DISSEMINATE",
    "expr": "mass dissemination",
    "expr_az": "kütləvi yayım",
-   "seq": 2056
+   "seq": 2264
   },
   {
    "lemma": "journal",
@@ -22873,7 +25161,7 @@
    "head": "DISSEMINATE",
    "expr": "disseminate through journals",
    "expr_az": "jurnallar vasitəsilə yaymaq",
-   "seq": 2057
+   "seq": 2265
   },
   {
    "lemma": "EPITOMISE",
@@ -22884,7 +25172,7 @@
    "head": "EPITOMISE",
    "cat": "verb",
    "az": "təcəssüm etdirmək, ən parlaq nümunəsi olmaq",
-   "seq": 2058
+   "seq": 2266
   },
   {
    "lemma": "epitome",
@@ -22895,7 +25183,7 @@
    "head": "EPITOMISE",
    "cat": "n",
    "az": "təcəssüm, ən parlaq nümunə",
-   "seq": 2059
+   "seq": 2267
   },
   {
    "lemma": "elegance",
@@ -22906,7 +25194,7 @@
    "head": "EPITOMISE",
    "expr": "the epitome of elegance",
    "expr_az": "zərifliyin təcəssümü",
-   "seq": 2060
+   "seq": 2268
   },
   {
    "lemma": "luxury",
@@ -22917,7 +25205,7 @@
    "head": "EPITOMISE",
    "expr": "the epitome of luxury",
    "expr_az": "dəbdəbənin təcəssümü",
-   "seq": 2061
+   "seq": 2269
   },
   {
    "lemma": "sophistication",
@@ -22928,7 +25216,7 @@
    "head": "EPITOMISE",
    "expr": "the epitome of sophistication",
    "expr_az": "incə zövqün təcəssümü",
-   "seq": 2062
+   "seq": 2270
   },
   {
    "lemma": "arrogance",
@@ -22939,7 +25227,7 @@
    "head": "EPITOMISE",
    "expr": "the epitome of arrogance",
    "expr_az": "təkəbbürün təcəssümü",
-   "seq": 2063
+   "seq": 2271
   },
   {
    "lemma": "glamour",
@@ -22950,7 +25238,7 @@
    "head": "EPITOMISE",
    "expr": "the epitome of glamour",
    "expr_az": "cazibə və parıltının təcəssümü",
-   "seq": 2064
+   "seq": 2272
   },
   {
    "lemma": "virtue",
@@ -22961,7 +25249,7 @@
    "head": "EPITOMISE",
    "expr": "epitomise the virtues of",
    "expr_az": "nəyinsə ən yaxşı cəhətlərini təcəssüm etdirmək",
-   "seq": 2065
+   "seq": 2273
   },
   {
    "lemma": "dilemma",
@@ -22972,7 +25260,7 @@
    "head": "EPITOMISE",
    "expr": "epitomise the dilemma",
    "expr_az": "dilemmanı ən parlaq şəkildə əks etdirmək",
-   "seq": 2066
+   "seq": 2274
   },
   {
    "lemma": "zeitgeist",
@@ -22983,7 +25271,7 @@
    "head": "EPITOMISE",
    "expr": "epitomise the zeitgeist",
    "expr_az": "dövrün ruhunu təcəssüm etdirmək",
-   "seq": 2067
+   "seq": 2275
   },
   {
    "lemma": "GALVANISE",
@@ -22994,7 +25282,7 @@
    "head": "GALVANISE",
    "cat": "verb",
    "az": "hərəkətə gətirmək, ruhlandırmaq; sinklə örtmək",
-   "seq": 2068
+   "seq": 2276
   },
   {
    "lemma": "galvanised",
@@ -23005,7 +25293,7 @@
    "head": "GALVANISE",
    "cat": "adj",
    "az": "sinklənmiş, həmçinin hərəkətə gəlmiş",
-   "seq": 2069
+   "seq": 2277
   },
   {
    "lemma": "action",
@@ -23016,7 +25304,7 @@
    "head": "GALVANISE",
    "expr": "galvanise sb into action",
    "expr_az": "kimisə hərəkətə keçməyə sövq etmək",
-   "seq": 2070
+   "seq": 2278
   },
   {
    "lemma": "nation",
@@ -23027,7 +25315,7 @@
    "head": "GALVANISE",
    "expr": "galvanise the nation",
    "expr_az": "milləti səfərbər etmək (hərəkətə gətirmək)",
-   "seq": 2071
+   "seq": 2279
   },
   {
    "lemma": "voter",
@@ -23038,7 +25326,7 @@
    "head": "GALVANISE",
    "expr": "galvanise voters",
    "expr_az": "seçiciləri hərəkətə gətirmək",
-   "seq": 2072
+   "seq": 2280
   },
   {
    "lemma": "opposition",
@@ -23049,7 +25337,7 @@
    "head": "GALVANISE",
    "expr": "galvanise the opposition",
    "expr_az": "müxalifəti səfərbər etmək",
-   "seq": 2073
+   "seq": 2281
   },
   {
    "lemma": "troop",
@@ -23060,7 +25348,7 @@
    "head": "GALVANISE",
    "expr": "galvanise the troops",
    "expr_az": "qoşunları ruhlandırmaq",
-   "seq": 2074
+   "seq": 2282
   },
   {
    "lemma": "volunteer",
@@ -23071,7 +25359,7 @@
    "head": "GALVANISE",
    "expr": "galvanise volunteers",
    "expr_az": "könüllüləri səfərbər etmək",
-   "seq": 2075
+   "seq": 2283
   },
   {
    "lemma": "grassroot",
@@ -23082,7 +25370,7 @@
    "head": "GALVANISE",
    "expr": "galvanise the grassroots",
    "expr_az": "sıravi üzvləri (aşağı təbəqələri) hərəkətə gətirmək",
-   "seq": 2076
+   "seq": 2284
   },
   {
    "lemma": "steel",
@@ -23093,7 +25381,7 @@
    "head": "GALVANISE",
    "expr": "galvanised steel",
    "expr_az": "sinklənmiş polad",
-   "seq": 2077
+   "seq": 2285
   },
   {
    "lemma": "JUXTAPOSE",
@@ -23104,7 +25392,7 @@
    "head": "JUXTAPOSE",
    "cat": "verb",
    "az": "yanaşı qoymaq, qarşılaşdırmaq",
-   "seq": 2078
+   "seq": 2286
   },
   {
    "lemma": "juxtaposition",
@@ -23115,7 +25403,7 @@
    "head": "JUXTAPOSE",
    "cat": "n",
    "az": "yanaşı qoyulma, təzadlı qarşılaşdırma",
-   "seq": 2079
+   "seq": 2287
   },
   {
    "lemma": "image",
@@ -23126,7 +25414,7 @@
    "head": "JUXTAPOSE",
    "expr": "juxtapose images",
    "expr_az": "təsvirləri yanaşı qoymaq",
-   "seq": 2080
+   "seq": 2288
   },
   {
    "lemma": "contrasting",
@@ -23137,7 +25425,7 @@
    "head": "JUXTAPOSE",
    "expr": "juxtapose contrasting textures",
    "expr_az": "təzadlı fakturaları yanaşı qoymaq",
-   "seq": 2081
+   "seq": 2289
   },
   {
    "lemma": "texture",
@@ -23148,7 +25436,7 @@
    "head": "JUXTAPOSE",
    "expr": "juxtapose contrasting textures",
    "expr_az": "təzadlı fakturaları yanaşı qoymaq",
-   "seq": 2082
+   "seq": 2290
   },
   {
    "lemma": "comedy",
@@ -23159,7 +25447,7 @@
    "head": "JUXTAPOSE",
    "expr": "juxtapose comedy and tragedy",
    "expr_az": "komediya ilə faciəni qarşılaşdırmaq",
-   "seq": 2083
+   "seq": 2291
   },
   {
    "lemma": "tragedy",
@@ -23170,7 +25458,7 @@
    "head": "JUXTAPOSE",
    "expr": "juxtapose comedy and tragedy",
    "expr_az": "komediya ilə faciəni qarşılaşdırmaq",
-   "seq": 2084
+   "seq": 2292
   },
   {
    "lemma": "quotation",
@@ -23181,7 +25469,7 @@
    "head": "JUXTAPOSE",
    "expr": "juxtapose quotations",
    "expr_az": "sitatları yanaşı gətirmək",
-   "seq": 2085
+   "seq": 2293
   },
   {
    "lemma": "jarring",
@@ -23192,7 +25480,7 @@
    "head": "JUXTAPOSE",
    "expr": "a jarring juxtaposition",
    "expr_az": "göz deşən təzad",
-   "seq": 2086
+   "seq": 2294
   },
   {
    "lemma": "incongruous",
@@ -23203,7 +25491,7 @@
    "head": "JUXTAPOSE",
    "expr": "an incongruous juxtaposition",
    "expr_az": "yersiz (uyğun gəlməyən) qarşılaşdırma",
-   "seq": 2087
+   "seq": 2295
   },
   {
    "lemma": "bizarre",
@@ -23214,7 +25502,7 @@
    "head": "JUXTAPOSE",
    "expr": "a bizarre juxtaposition",
    "expr_az": "qəribə qarşılaşdırma",
-   "seq": 2088
+   "seq": 2296
   },
   {
    "lemma": "NUANCE",
@@ -23225,7 +25513,7 @@
    "head": "NUANCE",
    "cat": "noun",
    "az": "incə çalar, incəlik",
-   "seq": 2089
+   "seq": 2297
   },
   {
    "lemma": "nuanced",
@@ -23236,7 +25524,7 @@
    "head": "NUANCE",
    "cat": "adj",
    "az": "incə çalarlı, hərtərəfli düşünülmüş",
-   "seq": 2090
+   "seq": 2298
   },
   {
    "lemma": "portrayal",
@@ -23247,7 +25535,7 @@
    "head": "NUANCE",
    "expr": "a nuanced portrayal",
    "expr_az": "incə çalarlı təsvir (obraz)",
-   "seq": 2091
+   "seq": 2299
   },
   {
    "lemma": "critique",
@@ -23258,7 +25546,7 @@
    "head": "NUANCE",
    "expr": "a nuanced critique",
    "expr_az": "hərtərəfli (incə) tənqidi təhlil",
-   "seq": 2092
+   "seq": 2300
   },
   {
    "lemma": "perspective",
@@ -23269,7 +25557,7 @@
    "head": "NUANCE",
    "expr": "a nuanced perspective",
    "expr_az": "incə çalarlı baxış bucağı",
-   "seq": 2093
+   "seq": 2301
   },
   {
    "lemma": "linguistic",
@@ -23280,7 +25568,7 @@
    "head": "NUANCE",
    "expr": "linguistic nuances",
    "expr_az": "dil incəlikləri",
-   "seq": 2094
+   "seq": 2302
   },
   {
    "lemma": "tone",
@@ -23291,7 +25579,7 @@
    "head": "NUANCE",
    "expr": "nuances of tone",
    "expr_az": "ton çalarları",
-   "seq": 2095
+   "seq": 2303
   },
   {
    "lemma": "grasp",
@@ -23302,7 +25590,7 @@
    "head": "NUANCE",
    "expr": "grasp the nuances",
    "expr_az": "incəlikləri qavramaq",
-   "seq": 2096
+   "seq": 2304
   },
   {
    "lemma": "appreciate",
@@ -23313,7 +25601,7 @@
    "head": "NUANCE",
    "expr": "appreciate the nuances",
    "expr_az": "incəlikləri duymaq (qiymətləndirmək)",
-   "seq": 2097
+   "seq": 2305
   },
   {
    "lemma": "capture",
@@ -23324,7 +25612,7 @@
    "head": "NUANCE",
    "expr": "capture the nuances",
    "expr_az": "incəlikləri (çalarları) əks etdirmək",
-   "seq": 2098
+   "seq": 2306
   },
   {
    "lemma": "RAMIFICATION",
@@ -23335,7 +25623,7 @@
    "head": "RAMIFICATION",
    "cat": "noun",
    "az": "(adətən cəmdə) nəticə, fəsad, uzağa gedən təsir",
-   "seq": 2099
+   "seq": 2307
   },
   {
    "lemma": "unforeseen",
@@ -23346,7 +25634,7 @@
    "head": "RAMIFICATION",
    "expr": "unforeseen ramifications",
    "expr_az": "qabaqcadan görülməyən nəticələr",
-   "seq": 2100
+   "seq": 2308
   },
   {
    "lemma": "diplomatic",
@@ -23357,7 +25645,7 @@
    "head": "RAMIFICATION",
    "expr": "diplomatic ramifications",
    "expr_az": "diplomatik nəticələr",
-   "seq": 2101
+   "seq": 2309
   },
   {
    "lemma": "geopolitical",
@@ -23368,7 +25656,7 @@
    "head": "RAMIFICATION",
    "expr": "geopolitical ramifications",
    "expr_az": "geosiyasi nəticələr",
-   "seq": 2102
+   "seq": 2310
   },
   {
    "lemma": "wide-ranging",
@@ -23379,7 +25667,7 @@
    "head": "RAMIFICATION",
    "expr": "wide-ranging ramifications",
    "expr_az": "genişmiqyaslı nəticələr",
-   "seq": 2103
+   "seq": 2311
   },
   {
    "lemma": "dire",
@@ -23390,7 +25678,7 @@
    "head": "RAMIFICATION",
    "expr": "dire ramifications",
    "expr_az": "ağır (dəhşətli) nəticələr",
-   "seq": 2104
+   "seq": 2312
   },
   {
    "lemma": "ponder",
@@ -23401,7 +25689,7 @@
    "head": "RAMIFICATION",
    "expr": "ponder the ramifications",
    "expr_az": "nəticələr üzərində dərindən düşünmək",
-   "seq": 2105
+   "seq": 2313
   },
   {
    "lemma": "ecological",
@@ -23412,7 +25700,7 @@
    "head": "RAMIFICATION",
    "expr": "ecological ramifications",
    "expr_az": "ekoloji nəticələr",
-   "seq": 2106
+   "seq": 2314
   },
   {
    "lemma": "RHETORIC",
@@ -23423,7 +25711,7 @@
    "head": "RHETORIC",
    "cat": "noun",
    "az": "ritorika, natiqlik; təmtəraqlı (içi boş) sözlər",
-   "seq": 2107
+   "seq": 2315
   },
   {
    "lemma": "rhetorical",
@@ -23434,7 +25722,7 @@
    "head": "RHETORIC",
    "cat": "adj",
    "az": "ritorik",
-   "seq": 2108
+   "seq": 2316
   },
   {
    "lemma": "rhetorically",
@@ -23445,7 +25733,7 @@
    "head": "RHETORIC",
    "cat": "adv",
    "az": "ritorik olaraq",
-   "seq": 2109
+   "seq": 2317
   },
   {
    "lemma": "inflammatory",
@@ -23456,7 +25744,7 @@
    "head": "RHETORIC",
    "expr": "inflammatory rhetoric",
    "expr_az": "qızışdırıcı ritorika",
-   "seq": 2110
+   "seq": 2318
   },
   {
    "lemma": "populist",
@@ -23467,7 +25755,7 @@
    "head": "RHETORIC",
    "expr": "populist rhetoric",
    "expr_az": "populist ritorika",
-   "seq": 2111
+   "seq": 2319
   },
   {
    "lemma": "empty",
@@ -23478,7 +25766,7 @@
    "head": "RHETORIC",
    "expr": "empty rhetoric",
    "expr_az": "içi boş sözlər",
-   "seq": 2112
+   "seq": 2320
   },
   {
    "lemma": "reality",
@@ -23489,7 +25777,7 @@
    "head": "RHETORIC",
    "expr": "rhetoric and reality",
    "expr_az": "sözlə əməl (ritorika və reallıq)",
-   "seq": 2113
+   "seq": 2321
   },
   {
    "lemma": "device",
@@ -23500,7 +25788,7 @@
    "head": "RHETORIC",
    "expr": "a rhetorical device",
    "expr_az": "ritorik fənd (üslubi vasitə)",
-   "seq": 2114
+   "seq": 2322
   },
   {
    "lemma": "flourish",
@@ -23511,7 +25799,7 @@
    "head": "RHETORIC",
    "expr": "a rhetorical flourish",
    "expr_az": "təmtəraqlı ifadə",
-   "seq": 2115
+   "seq": 2323
   },
   {
    "lemma": "purely",
@@ -23522,7 +25810,7 @@
    "head": "RHETORIC",
    "expr": "purely rhetorical",
    "expr_az": "sırf ritorik",
-   "seq": 2116
+   "seq": 2324
   },
   {
    "lemma": "escalate",
@@ -23533,7 +25821,7 @@
    "head": "RHETORIC",
    "expr": "escalate the rhetoric",
    "expr_az": "ritorikanı sərtləşdirmək",
-   "seq": 2117
+   "seq": 2325
   },
   {
    "lemma": "UNEQUIVOCAL",
@@ -23544,7 +25832,7 @@
    "head": "UNEQUIVOCAL",
    "cat": "adjective",
    "az": "birmənalı, qəti, şübhəyə yer qoymayan",
-   "seq": 2118
+   "seq": 2326
   },
   {
    "lemma": "equivocate",
@@ -23555,7 +25843,7 @@
    "head": "UNEQUIVOCAL",
    "cat": "v",
    "az": "ikibaşlı danışmaq, qəti cavabdan yayınmaq",
-   "seq": 2119
+   "seq": 2327
   },
   {
    "lemma": "equivocal",
@@ -23566,7 +25854,7 @@
    "head": "UNEQUIVOCAL",
    "cat": "adj",
    "az": "ikibaşlı, qeyri-müəyyən",
-   "seq": 2120
+   "seq": 2328
   },
   {
    "lemma": "unequivocally",
@@ -23577,7 +25865,7 @@
    "head": "UNEQUIVOCAL",
    "cat": "adv",
    "az": "birmənalı şəkildə, qətiyyətlə",
-   "seq": 2121
+   "seq": 2329
   },
   {
    "lemma": "condemnation",
@@ -23588,7 +25876,7 @@
    "head": "UNEQUIVOCAL",
    "expr": "an unequivocal condemnation",
    "expr_az": "qəti pisləmə",
-   "seq": 2122
+   "seq": 2330
   },
   {
    "lemma": "rejection",
@@ -23599,7 +25887,7 @@
    "head": "UNEQUIVOCAL",
    "expr": "an unequivocal rejection",
    "expr_az": "qəti rədd",
-   "seq": 2123
+   "seq": 2331
   },
   {
    "lemma": "assurance",
@@ -23610,7 +25898,7 @@
    "head": "UNEQUIVOCAL",
    "expr": "an unequivocal assurance",
    "expr_az": "qəti təminat",
-   "seq": 2124
+   "seq": 2332
   },
   {
    "lemma": "declaration",
@@ -23621,7 +25909,7 @@
    "head": "UNEQUIVOCAL",
    "expr": "an unequivocal declaration",
    "expr_az": "birmənalı bəyanat",
-   "seq": 2125
+   "seq": 2333
   },
   {
    "lemma": "pledge",
@@ -23632,7 +25920,7 @@
    "head": "UNEQUIVOCAL",
    "expr": "an unequivocal pledge",
    "expr_az": "qəti vəd (öhdəlik)",
-   "seq": 2126
+   "seq": 2334
   },
   {
    "lemma": "mandate",
@@ -23643,7 +25931,7 @@
    "head": "UNEQUIVOCAL",
    "expr": "an unequivocal mandate",
    "expr_az": "şəksiz mandat",
-   "seq": 2127
+   "seq": 2335
   },
   {
    "lemma": "affirm",
@@ -23654,7 +25942,7 @@
    "head": "UNEQUIVOCAL",
    "expr": "unequivocally affirm",
    "expr_az": "birmənalı şəkildə təsdiq etmək",
-   "seq": 2128
+   "seq": 2336
   },
   {
    "lemma": "CONUNDRUM",
@@ -23665,7 +25953,7 @@
    "head": "CONUNDRUM",
    "cat": "noun",
    "az": "müəmma, çətin (dolaşıq) məsələ",
-   "seq": 2129
+   "seq": 2337
   },
   {
    "lemma": "thorny",
@@ -23676,7 +25964,7 @@
    "head": "CONUNDRUM",
    "expr": "a thorny conundrum",
    "expr_az": "çətin (tikanlı) məsələ",
-   "seq": 2130
+   "seq": 2338
   },
   {
    "lemma": "intriguing",
@@ -23687,7 +25975,7 @@
    "head": "CONUNDRUM",
    "expr": "an intriguing conundrum",
    "expr_az": "maraq doğuran müəmma",
-   "seq": 2131
+   "seq": 2339
   },
   {
    "lemma": "perplexing",
@@ -23698,7 +25986,7 @@
    "head": "CONUNDRUM",
    "expr": "a perplexing conundrum",
    "expr_az": "çaşdırıcı müəmma",
-   "seq": 2132
+   "seq": 2340
   },
   {
    "lemma": "age-old",
@@ -23709,7 +25997,7 @@
    "head": "CONUNDRUM",
    "expr": "an age-old conundrum",
    "expr_az": "əzəli (qədimdən qalma) müəmma",
-   "seq": 2133
+   "seq": 2341
   },
   {
    "lemma": "grapple",
@@ -23720,7 +26008,7 @@
    "head": "CONUNDRUM",
    "expr": "grapple with a conundrum",
    "expr_az": "müəmma ilə əlləşmək",
-   "seq": 2134
+   "seq": 2342
   },
   {
    "lemma": "unravel",
@@ -23731,7 +26019,7 @@
    "head": "CONUNDRUM",
    "expr": "unravel a conundrum",
    "expr_az": "müəmmanı çözmək",
-   "seq": 2135
+   "seq": 2343
   },
   {
    "lemma": "insoluble",
@@ -23742,7 +26030,7 @@
    "head": "CONUNDRUM",
    "expr": "an insoluble conundrum",
    "expr_az": "həlli mümkün olmayan müəmma",
-   "seq": 2136
+   "seq": 2344
   },
   {
    "lemma": "PANACEA",
@@ -23753,7 +26041,7 @@
    "head": "PANACEA",
    "cat": "noun",
    "az": "hər dərdin dərmanı, universal çarə",
-   "seq": 2137
+   "seq": 2345
   },
   {
    "lemma": "universal",
@@ -23764,7 +26052,7 @@
    "head": "PANACEA",
    "expr": "a universal panacea",
    "expr_az": "hər dərdə dərman",
-   "seq": 2138
+   "seq": 2346
   },
   {
    "lemma": "supposed",
@@ -23775,7 +26063,7 @@
    "head": "PANACEA",
    "expr": "a supposed panacea",
    "expr_az": "guya hər dərdin dərmanı sayılan vasitə",
-   "seq": 2139
+   "seq": 2347
   },
   {
    "lemma": "hardly",
@@ -23786,7 +26074,7 @@
    "head": "PANACEA",
    "expr": "hardly a panacea",
    "expr_az": "heç də universal çarə deyil",
-   "seq": 2140
+   "seq": 2348
   },
   {
    "lemma": "hail",
@@ -23797,7 +26085,7 @@
    "head": "PANACEA",
    "expr": "hail sth as a panacea",
    "expr_az": "nəyisə universal çarə kimi alqışlamaq",
-   "seq": 2141
+   "seq": 2349
   },
   {
    "lemma": "so-called",
@@ -23808,7 +26096,7 @@
    "head": "PANACEA",
    "expr": "a so-called panacea",
    "expr_az": "universal çarə adlandırılan vasitə",
-   "seq": 2142
+   "seq": 2350
   },
   {
    "lemma": "single",
@@ -23819,7 +26107,7 @@
    "head": "PANACEA",
    "expr": "no single panacea",
    "expr_az": "vahid universal çarə yoxdur",
-   "seq": 2143
+   "seq": 2351
   },
   {
    "lemma": "silver",
@@ -23830,7 +26118,7 @@
    "head": "PANACEA",
    "expr": "a silver bullet",
    "expr_az": "sehrli həll yolu (bir zərbə ilə hər şeyi həll edən vasitə)",
-   "seq": 2144
+   "seq": 2352
   },
   {
    "lemma": "bullet",
@@ -23841,7 +26129,7 @@
    "head": "PANACEA",
    "expr": "a silver bullet",
    "expr_az": "sehrli həll yolu (bir zərbə ilə hər şeyi həll edən vasitə)",
-   "seq": 2145
+   "seq": 2353
   },
   {
    "lemma": "DICHOTOMY",
@@ -23852,7 +26140,7 @@
    "head": "DICHOTOMY",
    "cat": "noun",
    "az": "dixotomiya, iki əks qütbə bölünmə, kəskin ziddiyyət",
-   "seq": 2146
+   "seq": 2354
   },
   {
    "lemma": "rigid",
@@ -23863,7 +26151,7 @@
    "head": "DICHOTOMY",
    "expr": "a rigid dichotomy",
    "expr_az": "sərt (dəyişməz) bölgü",
-   "seq": 2147
+   "seq": 2355
   },
   {
    "lemma": "fundamental",
@@ -23874,7 +26162,7 @@
    "head": "DICHOTOMY",
    "expr": "a fundamental dichotomy",
    "expr_az": "köklü ziddiyyət",
-   "seq": 2148
+   "seq": 2356
   },
   {
    "lemma": "nature-nurture",
@@ -23885,7 +26173,7 @@
    "head": "DICHOTOMY",
    "expr": "the nature-nurture dichotomy",
    "expr_az": "irsiyyət və tərbiyə qarşıdurması",
-   "seq": 2149
+   "seq": 2357
   },
   {
    "lemma": "crude",
@@ -23896,7 +26184,7 @@
    "head": "DICHOTOMY",
    "expr": "a crude dichotomy",
    "expr_az": "kobud (bəsit) bölgü",
-   "seq": 2150
+   "seq": 2358
   },
   {
    "lemma": "transcend",
@@ -23907,7 +26195,7 @@
    "head": "DICHOTOMY",
    "expr": "transcend the dichotomy",
    "expr_az": "bu ziddiyyətin fövqünə qalxmaq",
-   "seq": 2151
+   "seq": 2359
   },
   {
    "lemma": "artificial",
@@ -23918,7 +26206,7 @@
    "head": "DICHOTOMY",
    "expr": "an artificial dichotomy",
    "expr_az": "süni bölgü",
-   "seq": 2152
+   "seq": 2360
   },
   {
    "lemma": "misleading",
@@ -23929,7 +26217,7 @@
    "head": "DICHOTOMY",
    "expr": "a misleading dichotomy",
    "expr_az": "çaşdırıcı (yanıldıcı) bölgü",
-   "seq": 2153
+   "seq": 2361
   },
   {
    "lemma": "PARADIGM",
@@ -23940,7 +26228,7 @@
    "head": "PARADIGM",
    "cat": "noun",
    "az": "paradiqma, model, düşüncə çərçivəsi",
-   "seq": 2154
+   "seq": 2362
   },
   {
    "lemma": "paradigmatic",
@@ -23951,7 +26239,7 @@
    "head": "PARADIGM",
    "cat": "adj",
    "az": "nümunəvi, paradiqmatik",
-   "seq": 2155
+   "seq": 2363
   },
   {
    "lemma": "dominant",
@@ -23962,7 +26250,7 @@
    "head": "PARADIGM",
    "expr": "the dominant paradigm",
    "expr_az": "hakim paradiqma",
-   "seq": 2156
+   "seq": 2364
   },
   {
    "lemma": "existing",
@@ -23973,7 +26261,7 @@
    "head": "PARADIGM",
    "expr": "the existing paradigm",
    "expr_az": "mövcud paradiqma",
-   "seq": 2157
+   "seq": 2365
   },
   {
    "lemma": "classical",
@@ -23984,7 +26272,7 @@
    "head": "PARADIGM",
    "expr": "the classical paradigm",
    "expr_az": "klassik paradiqma",
-   "seq": 2158
+   "seq": 2366
   },
   {
    "lemma": "reigning",
@@ -23995,7 +26283,7 @@
    "head": "PARADIGM",
    "expr": "the reigning paradigm",
    "expr_az": "hökm sürən paradiqma",
-   "seq": 2159
+   "seq": 2367
   },
   {
    "lemma": "overturn",
@@ -24006,7 +26294,7 @@
    "head": "PARADIGM",
    "expr": "overturn the paradigm",
    "expr_az": "paradiqmanı alt-üst etmək",
-   "seq": 2160
+   "seq": 2368
   },
   {
    "lemma": "holistic",
@@ -24017,7 +26305,7 @@
    "head": "PARADIGM",
    "expr": "a holistic paradigm",
    "expr_az": "bütöv (holistik) yanaşma modeli",
-   "seq": 2161
+   "seq": 2369
   },
   {
    "lemma": "outdated",
@@ -24028,7 +26316,7 @@
    "head": "PARADIGM",
    "expr": "an outdated paradigm",
    "expr_az": "köhnəlmiş paradiqma",
-   "seq": 2162
+   "seq": 2370
   },
   {
    "lemma": "COMPLACENT",
@@ -24039,7 +26327,7 @@
    "head": "COMPLACENT",
    "cat": "adjective",
    "az": "arxayınlaşmış, özündənrazı (vəziyyətdən həddindən artıq razı)",
-   "seq": 2163
+   "seq": 2371
   },
   {
    "lemma": "complacency",
@@ -24050,7 +26338,7 @@
    "head": "COMPLACENT",
    "cat": "n",
    "az": "arxayınçılıq, özündənrazılıq",
-   "seq": 2164
+   "seq": 2372
   },
   {
    "lemma": "complacently",
@@ -24061,7 +26349,7 @@
    "head": "COMPLACENT",
    "cat": "adv",
    "az": "arxayınlıqla",
-   "seq": 2165
+   "seq": 2373
   },
   {
    "lemma": "smug",
@@ -24072,7 +26360,7 @@
    "head": "COMPLACENT",
    "expr": "smug and complacent",
    "expr_az": "özündənrazı və arxayın",
-   "seq": 2166
+   "seq": 2374
   },
   {
    "lemma": "guard",
@@ -24083,7 +26371,7 @@
    "head": "COMPLACENT",
    "expr": "guard against complacency",
    "expr_az": "arxayınçılığa yol verməmək",
-   "seq": 2167
+   "seq": 2375
   },
   {
    "lemma": "afford",
@@ -24094,7 +26382,7 @@
    "head": "COMPLACENT",
    "expr": "afford to be complacent",
    "expr_az": "arxayınlaşmağa haqqı (imkanı) olmaq",
-   "seq": 2168
+   "seq": 2376
   },
   {
    "lemma": "breed",
@@ -24105,7 +26393,7 @@
    "head": "COMPLACENT",
    "expr": "breed complacency",
    "expr_az": "arxayınçılıq doğurmaq",
-   "seq": 2169
+   "seq": 2377
   },
   {
    "lemma": "shatter",
@@ -24116,7 +26404,7 @@
    "head": "COMPLACENT",
    "expr": "shatter the complacency",
    "expr_az": "arxayınçılığı darmadağın etmək",
-   "seq": 2170
+   "seq": 2378
   },
   {
    "lemma": "lull",
@@ -24127,7 +26415,7 @@
    "head": "COMPLACENT",
    "expr": "lull sb into complacency",
    "expr_az": "kimisə arxayın salmaq",
-   "seq": 2171
+   "seq": 2379
   },
   {
    "lemma": "drift",
@@ -24138,7 +26426,7 @@
    "head": "COMPLACENT",
    "expr": "drift into complacency",
    "expr_az": "yavaş-yavaş arxayınlaşmaq",
-   "seq": 2172
+   "seq": 2380
   },
   {
    "lemma": "CONTENTIOUS",
@@ -24149,7 +26437,7 @@
    "head": "CONTENTIOUS",
    "cat": "adjective",
    "az": "mübahisəli, ixtilaf doğuran; davakar",
-   "seq": 2173
+   "seq": 2381
   },
   {
    "lemma": "contention",
@@ -24160,7 +26448,7 @@
    "head": "CONTENTIOUS",
    "cat": "n",
    "az": "iddia, həmçinin mübahisə və rəqabət",
-   "seq": 2174
+   "seq": 2382
   },
   {
    "lemma": "contender",
@@ -24171,7 +26459,7 @@
    "head": "CONTENTIOUS",
    "cat": "n",
    "az": "iddiaçı, namizəd",
-   "seq": 2175
+   "seq": 2383
   },
   {
    "lemma": "contend",
@@ -24182,7 +26470,7 @@
    "head": "CONTENTIOUS",
    "cat": "v",
    "az": "iddia etmək, mübarizə aparmaq",
-   "seq": 2176
+   "seq": 2384
   },
   {
    "lemma": "clause",
@@ -24193,7 +26481,7 @@
    "head": "CONTENTIOUS",
    "expr": "a contentious clause",
    "expr_az": "mübahisəli bənd (maddə)",
-   "seq": 2177
+   "seq": 2385
   },
   {
    "lemma": "amendment",
@@ -24204,7 +26492,7 @@
    "head": "CONTENTIOUS",
    "expr": "a contentious amendment",
    "expr_az": "mübahisəli düzəliş",
-   "seq": 2178
+   "seq": 2386
   },
   {
    "lemma": "referendum",
@@ -24215,7 +26503,7 @@
    "head": "CONTENTIOUS",
    "expr": "a contentious referendum",
    "expr_az": "mübahisəli referendum",
-   "seq": 2179
+   "seq": 2387
   },
   {
    "lemma": "merger",
@@ -24226,7 +26514,7 @@
    "head": "CONTENTIOUS",
    "expr": "a contentious merger",
    "expr_az": "mübahisəli birləşmə",
-   "seq": 2180
+   "seq": 2388
   },
   {
    "lemma": "title",
@@ -24237,7 +26525,7 @@
    "head": "CONTENTIOUS",
    "expr": "contend for the title",
    "expr_az": "titul uğrunda mübarizə aparmaq",
-   "seq": 2181
+   "seq": 2389
   },
   {
    "lemma": "genuine",
@@ -24248,7 +26536,7 @@
    "head": "CONTENTIOUS",
    "expr": "a genuine contender",
    "expr_az": "real iddiaçı",
-   "seq": 2182
+   "seq": 2390
   },
   {
    "lemma": "INTRINSIC",
@@ -24259,7 +26547,7 @@
    "head": "INTRINSIC",
    "cat": "adjective",
    "az": "daxili, mahiyyətinə xas, özünəməxsus",
-   "seq": 2183
+   "seq": 2391
   },
   {
    "lemma": "intrinsically",
@@ -24270,7 +26558,7 @@
    "head": "INTRINSIC",
    "cat": "adv",
    "az": "mahiyyət etibarilə, öz-özlüyündə",
-   "seq": 2184
+   "seq": 2392
   },
   {
    "lemma": "merit",
@@ -24281,7 +26569,7 @@
    "head": "INTRINSIC",
    "expr": "intrinsic merit",
    "expr_az": "daxili məziyyət",
-   "seq": 2185
+   "seq": 2393
   },
   {
    "lemma": "reward",
@@ -24292,7 +26580,7 @@
    "head": "INTRINSIC",
    "expr": "intrinsic reward",
    "expr_az": "daxili mükafat (işin özündən gələn məmnunluq)",
-   "seq": 2186
+   "seq": 2394
   },
   {
    "lemma": "extrinsic",
@@ -24303,7 +26591,7 @@
    "head": "INTRINSIC",
    "expr": "intrinsic and extrinsic",
    "expr_az": "daxili və xarici",
-   "seq": 2187
+   "seq": 2395
   },
   {
    "lemma": "charm",
@@ -24314,7 +26602,7 @@
    "head": "INTRINSIC",
    "expr": "intrinsic charm",
    "expr_az": "özünəməxsus cazibə",
-   "seq": 2188
+   "seq": 2396
   },
   {
    "lemma": "attribute",
@@ -24325,7 +26613,7 @@
    "head": "INTRINSIC",
    "expr": "an intrinsic attribute",
    "expr_az": "ayrılmaz xüsusiyyət",
-   "seq": 2189
+   "seq": 2397
   },
   {
    "lemma": "worthwhile",
@@ -24336,7 +26624,7 @@
    "head": "INTRINSIC",
    "expr": "intrinsically worthwhile",
    "expr_az": "öz-özlüyündə dəyərli",
-   "seq": 2190
+   "seq": 2398
   },
   {
    "lemma": "intertwined",
@@ -24347,7 +26635,7 @@
    "head": "INTRINSIC",
    "expr": "intrinsically intertwined",
    "expr_az": "bir-biri ilə ayrılmaz şəkildə bağlı",
-   "seq": 2191
+   "seq": 2399
   },
   {
    "lemma": "METICULOUS",
@@ -24358,7 +26646,7 @@
    "head": "METICULOUS",
    "cat": "adjective",
    "az": "son dərəcə dəqiq, vasvası, hər xırdalığa diqqət yetirən",
-   "seq": 2192
+   "seq": 2400
   },
   {
    "lemma": "meticulously",
@@ -24369,7 +26657,7 @@
    "head": "METICULOUS",
    "cat": "adv",
    "az": "son dərəcə dəqiqliklə",
-   "seq": 2193
+   "seq": 2401
   },
   {
    "lemma": "craftsman",
@@ -24380,7 +26668,7 @@
    "head": "METICULOUS",
    "expr": "a meticulous craftsman",
    "expr_az": "hər xırdalığa diqqət yetirən usta",
-   "seq": 2194
+   "seq": 2402
   },
   {
    "lemma": "precision",
@@ -24391,7 +26679,7 @@
    "head": "METICULOUS",
    "expr": "meticulous precision",
    "expr_az": "zərgər dəqiqliyi",
-   "seq": 2195
+   "seq": 2403
   },
   {
    "lemma": "reconstruction",
@@ -24402,7 +26690,7 @@
    "head": "METICULOUS",
    "expr": "a meticulous reconstruction",
    "expr_az": "dəqiq bərpa (yenidənqurma)",
-   "seq": 2196
+   "seq": 2404
   },
   {
    "lemma": "observation",
@@ -24413,7 +26701,7 @@
    "head": "METICULOUS",
    "expr": "meticulous observation",
    "expr_az": "diqqətli müşahidə",
-   "seq": 2197
+   "seq": 2405
   },
   {
    "lemma": "bookkeeping",
@@ -24424,7 +26712,7 @@
    "head": "METICULOUS",
    "expr": "meticulous bookkeeping",
    "expr_az": "dəqiq mühasibat uçotu",
-   "seq": 2198
+   "seq": 2406
   },
   {
    "lemma": "arranged",
@@ -24435,7 +26723,7 @@
    "head": "METICULOUS",
    "expr": "meticulously arranged",
    "expr_az": "səliqə ilə düzülmüş",
-   "seq": 2199
+   "seq": 2407
   },
   {
    "lemma": "rehearsed",
@@ -24446,7 +26734,7 @@
    "head": "METICULOUS",
    "expr": "meticulously rehearsed",
    "expr_az": "diqqətlə məşq edilmiş",
-   "seq": 2200
+   "seq": 2408
   },
   {
    "lemma": "PERVASIVE",
@@ -24457,7 +26745,7 @@
    "head": "PERVASIVE",
    "cat": "adjective",
    "az": "hər yerə nüfuz edən, geniş yayılmış",
-   "seq": 2201
+   "seq": 2409
   },
   {
    "lemma": "pervasiveness",
@@ -24468,7 +26756,7 @@
    "head": "PERVASIVE",
    "cat": "n",
    "az": "hər yerə nüfuzetmə",
-   "seq": 2202
+   "seq": 2410
   },
   {
    "lemma": "pervade",
@@ -24479,7 +26767,7 @@
    "head": "PERVASIVE",
    "cat": "v",
    "az": "bürümək, hər yerə yayılmaq",
-   "seq": 2203
+   "seq": 2411
   },
   {
    "lemma": "all-pervasive",
@@ -24490,7 +26778,7 @@
    "head": "PERVASIVE",
    "cat": "adj",
    "az": "hər şeyi bürüyən",
-   "seq": 2204
+   "seq": 2412
   },
   {
    "lemma": "atmosphere",
@@ -24501,7 +26789,7 @@
    "head": "PERVASIVE",
    "expr": "a pervasive atmosphere",
    "expr_az": "hər yeri bürümüş ab-hava",
-   "seq": 2205
+   "seq": 2413
   },
   {
    "lemma": "odour",
@@ -24512,7 +26800,7 @@
    "head": "PERVASIVE",
    "expr": "a pervasive odour",
    "expr_az": "hər yerə hopmuş qoxu",
-   "seq": 2206
+   "seq": 2414
   },
   {
    "lemma": "theme",
@@ -24523,7 +26811,7 @@
    "head": "PERVASIVE",
    "expr": "a pervasive theme",
    "expr_az": "əsərin hər yerində duyulan mövzu",
-   "seq": 2207
+   "seq": 2415
   },
   {
    "lemma": "cynicism",
@@ -24534,7 +26822,7 @@
    "head": "PERVASIVE",
    "expr": "pervasive cynicism",
    "expr_az": "geniş yayılmış kinizm (inamsızlıq)",
-   "seq": 2208
+   "seq": 2416
   },
   {
    "lemma": "apathy",
@@ -24545,7 +26833,7 @@
    "head": "PERVASIVE",
    "expr": "pervasive apathy",
    "expr_az": "hər yeri bürümüş laqeydlik",
-   "seq": 2209
+   "seq": 2417
   },
   {
    "lemma": "gloom",
@@ -24556,7 +26844,7 @@
    "head": "PERVASIVE",
    "expr": "pervasive gloom",
    "expr_az": "hər yerə çökmüş bədbinlik",
-   "seq": 2210
+   "seq": 2418
   },
   {
    "lemma": "novel",
@@ -24567,7 +26855,7 @@
    "head": "PERVASIVE",
    "expr": "pervade the novel",
    "expr_az": "romanın ruhuna hopmaq",
-   "seq": 2211
+   "seq": 2419
   },
   {
    "lemma": "discourse",
@@ -24578,7 +26866,7 @@
    "head": "PERVASIVE",
    "expr": "pervade the discourse",
    "expr_az": "diskursa (müzakirələrə) hakim olmaq",
-   "seq": 2212
+   "seq": 2420
   },
   {
    "lemma": "POIGNANT",
@@ -24589,7 +26877,7 @@
    "head": "POIGNANT",
    "cat": "adjective",
    "az": "kövrəldən, ürəyə toxunan, qəmli-təsirli",
-   "seq": 2213
+   "seq": 2421
   },
   {
    "lemma": "poignancy",
@@ -24600,7 +26888,7 @@
    "head": "POIGNANT",
    "cat": "n",
    "az": "kövrəklik, ürəyə toxunan kədər",
-   "seq": 2214
+   "seq": 2422
   },
   {
    "lemma": "poignantly",
@@ -24611,7 +26899,7 @@
    "head": "POIGNANT",
    "cat": "adv",
    "az": "ürəyə toxunan şəkildə",
-   "seq": 2215
+   "seq": 2423
   },
   {
    "lemma": "tribute",
@@ -24622,7 +26910,7 @@
    "head": "POIGNANT",
    "expr": "a poignant tribute",
    "expr_az": "ürəyə toxunan ehtiram ifadəsi",
-   "seq": 2216
+   "seq": 2424
   },
   {
    "lemma": "farewell",
@@ -24633,7 +26921,7 @@
    "head": "POIGNANT",
    "expr": "a poignant farewell",
    "expr_az": "kövrək vida",
-   "seq": 2217
+   "seq": 2425
   },
   {
    "lemma": "symbol",
@@ -24644,7 +26932,7 @@
    "head": "POIGNANT",
    "expr": "a poignant symbol",
    "expr_az": "təsirli rəmz",
-   "seq": 2218
+   "seq": 2426
   },
   {
    "lemma": "tale",
@@ -24655,7 +26943,7 @@
    "head": "POIGNANT",
    "expr": "a poignant tale",
    "expr_az": "kövrək hekayət",
-   "seq": 2219
+   "seq": 2427
   },
   {
    "lemma": "plea",
@@ -24666,7 +26954,7 @@
    "head": "POIGNANT",
    "expr": "a poignant plea",
    "expr_az": "ürək parçalayan yalvarış",
-   "seq": 2220
+   "seq": 2428
   },
   {
    "lemma": "reunion",
@@ -24677,7 +26965,7 @@
    "head": "POIGNANT",
    "expr": "a poignant reunion",
    "expr_az": "kövrək görüş (qovuşma)",
-   "seq": 2221
+   "seq": 2429
   },
   {
    "lemma": "evoke",
@@ -24688,7 +26976,7 @@
    "head": "POIGNANT",
    "expr": "poignantly evoke",
    "expr_az": "ürəyə toxunan şəkildə canlandırmaq",
-   "seq": 2222
+   "seq": 2430
   },
   {
    "lemma": "RESURGENCE",
@@ -24699,7 +26987,7 @@
    "head": "RESURGENCE",
    "cat": "noun",
    "az": "dirçəliş, yenidən canlanma, yenidən baş qaldırma",
-   "seq": 2223
+   "seq": 2431
   },
   {
    "lemma": "resurgent",
@@ -24710,7 +26998,7 @@
    "head": "RESURGENCE",
    "cat": "adj",
    "az": "yenidən dirçələn, canlanan",
-   "seq": 2224
+   "seq": 2432
   },
   {
    "lemma": "nationalism",
@@ -24721,7 +27009,7 @@
    "head": "RESURGENCE",
    "expr": "a resurgence of nationalism",
    "expr_az": "millətçiliyin yenidən baş qaldırması",
-   "seq": 2225
+   "seq": 2433
   },
   {
    "lemma": "virus",
@@ -24732,7 +27020,7 @@
    "head": "RESURGENCE",
    "expr": "a resurgence of the virus",
    "expr_az": "virusun yenidən yayılması",
-   "seq": 2226
+   "seq": 2434
   },
   {
    "lemma": "measles",
@@ -24743,7 +27031,7 @@
    "head": "RESURGENCE",
    "expr": "a resurgence of measles",
    "expr_az": "qızılca xəstəliyinin yenidən yayılması",
-   "seq": 2227
+   "seq": 2435
   },
   {
    "lemma": "optimism",
@@ -24754,7 +27042,7 @@
    "head": "RESURGENCE",
    "expr": "a resurgence of optimism",
    "expr_az": "nikbinliyin yenidən canlanması",
-   "seq": 2228
+   "seq": 2436
   },
   {
    "lemma": "piracy",
@@ -24765,7 +27053,7 @@
    "head": "RESURGENCE",
    "expr": "a resurgence of piracy",
    "expr_az": "dəniz quldurluğunun (və ya piratçılığın) yenidən artması",
-   "seq": 2229
+   "seq": 2437
   },
   {
    "lemma": "unlikely",
@@ -24776,7 +27064,7 @@
    "head": "RESURGENCE",
    "expr": "an unlikely resurgence",
    "expr_az": "gözlənilməz dirçəliş",
-   "seq": 2230
+   "seq": 2438
   },
   {
    "lemma": "dollar",
@@ -24787,7 +27075,7 @@
    "head": "RESURGENCE",
    "expr": "a resurgent dollar",
    "expr_az": "yenidən güclənən dollar",
-   "seq": 2231
+   "seq": 2439
   },
   {
    "lemma": "TENUOUS",
@@ -24798,7 +27086,7 @@
    "head": "TENUOUS",
    "cat": "adjective",
    "az": "zəif, əsassız, çox incə",
-   "seq": 2232
+   "seq": 2440
   },
   {
    "lemma": "tenuously",
@@ -24809,7 +27097,7 @@
    "head": "TENUOUS",
    "cat": "adv",
    "az": "zəif şəkildə",
-   "seq": 2233
+   "seq": 2441
   },
   {
    "lemma": "thread",
@@ -24820,7 +27108,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous thread",
    "expr_az": "nazik tel (çox zəif bağlılıq)",
-   "seq": 2234
+   "seq": 2442
   },
   {
    "lemma": "alliance",
@@ -24831,7 +27119,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous alliance",
    "expr_az": "zəif ittifaq",
-   "seq": 2235
+   "seq": 2443
   },
   {
    "lemma": "coalition",
@@ -24842,7 +27130,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous coalition",
    "expr_az": "zəif koalisiya",
-   "seq": 2236
+   "seq": 2444
   },
   {
    "lemma": "bond",
@@ -24853,7 +27141,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous bond",
    "expr_az": "zəif bağ",
-   "seq": 2237
+   "seq": 2445
   },
   {
    "lemma": "analogy",
@@ -24864,7 +27152,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous analogy",
    "expr_az": "əsassız (zorla gətirilmiş) bənzətmə",
-   "seq": 2238
+   "seq": 2446
   },
   {
    "lemma": "basis",
@@ -24875,7 +27163,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous basis",
    "expr_az": "zəif əsas",
-   "seq": 2239
+   "seq": 2447
   },
   {
    "lemma": "parallel",
@@ -24886,7 +27174,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous parallel",
    "expr_az": "uzaqdan-uzağa oxşarlıq",
-   "seq": 2240
+   "seq": 2448
   },
   {
    "lemma": "premise",
@@ -24897,7 +27185,7 @@
    "head": "TENUOUS",
    "expr": "a tenuous premise",
    "expr_az": "zəif ilkin müddəa",
-   "seq": 2241
+   "seq": 2449
   },
   {
    "lemma": "INSIDIOUS",
@@ -24908,7 +27196,7 @@
    "head": "INSIDIOUS",
    "cat": "adjective",
    "az": "məkrli, gizli şəkildə zərər vuran, sinsi",
-   "seq": 2242
+   "seq": 2450
   },
   {
    "lemma": "insidiously",
@@ -24919,7 +27207,7 @@
    "head": "INSIDIOUS",
    "cat": "adv",
    "az": "məkrli şəkildə, hiss olunmadan",
-   "seq": 2243
+   "seq": 2451
   },
   {
    "lemma": "onset",
@@ -24930,7 +27218,7 @@
    "head": "INSIDIOUS",
    "expr": "an insidious onset",
    "expr_az": "(xəstəliyin) hiss olunmadan başlanması",
-   "seq": 2244
+   "seq": 2452
   },
   {
    "lemma": "enemy",
@@ -24941,7 +27229,7 @@
    "head": "INSIDIOUS",
    "expr": "an insidious enemy",
    "expr_az": "məkrli düşmən",
-   "seq": 2245
+   "seq": 2453
   },
   {
    "lemma": "poison",
@@ -24952,7 +27240,7 @@
    "head": "INSIDIOUS",
    "expr": "an insidious poison",
    "expr_az": "yavaş-yavaş təsir edən zəhər",
-   "seq": 2246
+   "seq": 2454
   },
   {
    "lemma": "cancer",
@@ -24963,7 +27251,7 @@
    "head": "INSIDIOUS",
    "expr": "an insidious cancer",
    "expr_az": "sinsi xərçəng",
-   "seq": 2247
+   "seq": 2455
   },
   {
    "lemma": "agenda",
@@ -24974,7 +27262,7 @@
    "head": "INSIDIOUS",
    "expr": "an insidious agenda",
    "expr_az": "gizli (məkrli) məqsəd",
-   "seq": 2248
+   "seq": 2456
   },
   {
    "lemma": "undercurrent",
@@ -24985,7 +27273,7 @@
    "head": "INSIDIOUS",
    "expr": "an insidious undercurrent",
    "expr_az": "gizli (alt qatda duyulan) meyil",
-   "seq": 2249
+   "seq": 2457
   },
   {
    "lemma": "flattery",
@@ -24996,7 +27284,7 @@
    "head": "INSIDIOUS",
    "expr": "insidious flattery",
    "expr_az": "məkrli yaltaqlıq",
-   "seq": 2250
+   "seq": 2458
   },
   {
    "lemma": "menace",
@@ -25007,7 +27295,7 @@
    "head": "INSIDIOUS",
    "expr": "an insidious menace",
    "expr_az": "gizli təhlükə",
-   "seq": 2251
+   "seq": 2459
   },
   {
    "lemma": "PRECLUDE",
@@ -25018,7 +27306,7 @@
    "head": "PRECLUDE",
    "cat": "verb",
    "az": "imkan verməmək, istisna etmək, qarşısını almaq",
-   "seq": 2252
+   "seq": 2460
   },
   {
    "lemma": "preclusion",
@@ -25029,7 +27317,7 @@
    "head": "PRECLUDE",
    "cat": "n",
    "az": "istisna etmə, qarşısını alma",
-   "seq": 2253
+   "seq": 2461
   },
   {
    "lemma": "possibility",
@@ -25040,7 +27328,7 @@
    "head": "PRECLUDE",
    "expr": "preclude the possibility of",
    "expr_az": "nəyinsə mümkünlüyünü istisna etmək",
-   "seq": 2254
+   "seq": 2462
   },
   {
    "lemma": "prosecution",
@@ -25051,7 +27339,7 @@
    "head": "PRECLUDE",
    "expr": "preclude prosecution",
    "expr_az": "cinayət təqibini istisna etmək",
-   "seq": 2255
+   "seq": 2463
   },
   {
    "lemma": "disclosure",
@@ -25062,7 +27350,7 @@
    "head": "PRECLUDE",
    "expr": "preclude disclosure",
    "expr_az": "açıqlanmasına imkan verməmək",
-   "seq": 2256
+   "seq": 2464
   },
   {
    "lemma": "diagnosis",
@@ -25073,7 +27361,7 @@
    "head": "PRECLUDE",
    "expr": "preclude a diagnosis",
    "expr_az": "diaqnoz qoymağı mümkünsüz etmək",
-   "seq": 2257
+   "seq": 2465
   },
   {
    "lemma": "necessarily",
@@ -25084,7 +27372,7 @@
    "head": "PRECLUDE",
    "expr": "necessarily preclude",
    "expr_az": "mütləq istisna etmək",
-   "seq": 2258
+   "seq": 2466
   },
   {
    "lemma": "reconciliation",
@@ -25095,7 +27383,7 @@
    "head": "PRECLUDE",
    "expr": "preclude a reconciliation",
    "expr_az": "barışığı mümkünsüz etmək",
-   "seq": 2259
+   "seq": 2467
   },
   {
    "lemma": "SUCCUMB",
@@ -25106,7 +27394,7 @@
    "head": "SUCCUMB",
    "cat": "verb",
    "az": "tab gətirməmək, təslim olmaq; (xəstəlikdən) ölmək",
-   "seq": 2260
+   "seq": 2468
   },
   {
    "lemma": "temptation",
@@ -25117,7 +27405,7 @@
    "head": "SUCCUMB",
    "expr": "succumb to temptation",
    "expr_az": "şirnikləndiriciliyə tab gətirməmək (nəfsinə uymaq)",
-   "seq": 2261
+   "seq": 2469
   },
   {
    "lemma": "exhaustion",
@@ -25128,7 +27416,7 @@
    "head": "SUCCUMB",
    "expr": "succumb to exhaustion",
    "expr_az": "yorğunluqdan taqətdən düşmək",
-   "seq": 2262
+   "seq": 2470
   },
   {
    "lemma": "despair",
@@ -25139,7 +27427,7 @@
    "head": "SUCCUMB",
    "expr": "succumb to despair",
    "expr_az": "ümidsizliyə qapılmaq",
-   "seq": 2263
+   "seq": 2471
   },
   {
    "lemma": "fatigue",
@@ -25150,7 +27438,7 @@
    "head": "SUCCUMB",
    "expr": "succumb to fatigue",
    "expr_az": "yorğunluğa təslim olmaq",
-   "seq": 2264
+   "seq": 2472
   },
   {
    "lemma": "wound",
@@ -25161,7 +27449,7 @@
    "head": "SUCCUMB",
    "expr": "succumb to wounds",
    "expr_az": "aldığı yaralardan ölmək",
-   "seq": 2265
+   "seq": 2473
   },
   {
    "lemma": "lure",
@@ -25172,7 +27460,7 @@
    "head": "SUCCUMB",
    "expr": "succumb to the lure of",
    "expr_az": "nəyinsə cazibəsinə tab gətirməmək",
-   "seq": 2266
+   "seq": 2474
   },
   {
    "lemma": "blackmail",
@@ -25183,7 +27471,7 @@
    "head": "SUCCUMB",
    "expr": "succumb to blackmail",
    "expr_az": "şantaja boyun əymək",
-   "seq": 2267
+   "seq": 2475
   },
   {
    "lemma": "eventually",
@@ -25194,7 +27482,7 @@
    "head": "SUCCUMB",
    "expr": "eventually succumb",
    "expr_az": "nəhayət təslim olmaq",
-   "seq": 2268
+   "seq": 2476
   },
   {
    "lemma": "TANTAMOUNT",
@@ -25205,7 +27493,7 @@
    "head": "TANTAMOUNT",
    "cat": "adjective",
    "az": "bərabər, eyni gücə malik (mənfi bir şeyə)",
-   "seq": 2269
+   "seq": 2477
   },
   {
    "lemma": "treason",
@@ -25216,7 +27504,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to treason",
    "expr_az": "xəyanətə bərabər",
-   "seq": 2270
+   "seq": 2478
   },
   {
    "lemma": "murder",
@@ -25227,7 +27515,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to murder",
    "expr_az": "qətlə bərabər",
-   "seq": 2271
+   "seq": 2479
   },
   {
    "lemma": "admission",
@@ -25238,7 +27526,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to an admission",
    "expr_az": "etirafa bərabər",
-   "seq": 2272
+   "seq": 2480
   },
   {
    "lemma": "surrender",
@@ -25249,7 +27537,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to surrender",
    "expr_az": "təslimçiliyə bərabər",
-   "seq": 2273
+   "seq": 2481
   },
   {
    "lemma": "betrayal",
@@ -25260,7 +27548,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to betrayal",
    "expr_az": "satqınlığa bərabər",
-   "seq": 2274
+   "seq": 2482
   },
   {
    "lemma": "torture",
@@ -25271,7 +27559,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to torture",
    "expr_az": "işgəncəyə bərabər",
-   "seq": 2275
+   "seq": 2483
   },
   {
    "lemma": "negligence",
@@ -25282,7 +27570,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to negligence",
    "expr_az": "səhlənkarlığa bərabər",
-   "seq": 2276
+   "seq": 2484
   },
   {
    "lemma": "sabotage",
@@ -25293,7 +27581,7 @@
    "head": "TANTAMOUNT",
    "expr": "tantamount to sabotage",
    "expr_az": "təxribata bərabər",
-   "seq": 2277
+   "seq": 2485
   },
   {
    "lemma": "UNDERPIN",
@@ -25304,7 +27592,7 @@
    "head": "UNDERPIN",
    "cat": "verb",
    "az": "əsasını təşkil etmək, dayaq olmaq, möhkəmləndirmək",
-   "seq": 2278
+   "seq": 2486
   },
   {
    "lemma": "underpinning",
@@ -25315,7 +27603,7 @@
    "head": "UNDERPIN",
    "cat": "n",
    "az": "dayaq, əsas",
-   "seq": 2279
+   "seq": 2487
   },
   {
    "lemma": "rationale",
@@ -25326,7 +27614,7 @@
    "head": "UNDERPIN",
    "expr": "underpin the rationale",
    "expr_az": "əsaslandırmanın təməlində durmaq",
-   "seq": 2280
+   "seq": 2488
   },
   {
    "lemma": "curriculum",
@@ -25337,7 +27625,7 @@
    "head": "UNDERPIN",
    "expr": "underpin the curriculum",
    "expr_az": "tədris proqramının əsasını təşkil etmək",
-   "seq": 2281
+   "seq": 2489
   },
   {
    "lemma": "constitution",
@@ -25348,7 +27636,7 @@
    "head": "UNDERPIN",
    "expr": "underpin the constitution",
    "expr_az": "konstitusiyanın əsasını təşkil etmək",
-   "seq": 2282
+   "seq": 2490
   },
   {
    "lemma": "ethos",
@@ -25359,7 +27647,7 @@
    "head": "UNDERPIN",
    "expr": "underpin the ethos",
    "expr_az": "dəyərlər sisteminin (ruhunun) əsasında durmaq",
-   "seq": 2283
+   "seq": 2491
   },
   {
    "lemma": "tenet",
@@ -25370,7 +27658,7 @@
    "head": "UNDERPIN",
    "expr": "underpin the tenets",
    "expr_az": "əsas prinsiplərin təməlində durmaq",
-   "seq": 2284
+   "seq": 2492
   },
   {
    "lemma": "notion",
@@ -25381,7 +27669,7 @@
    "head": "UNDERPIN",
    "expr": "underpin the notion",
    "expr_az": "anlayışın (təsəvvürün) əsasını təşkil etmək",
-   "seq": 2285
+   "seq": 2493
   },
   {
    "lemma": "empirical",
@@ -25392,7 +27680,7 @@
    "head": "UNDERPIN",
    "expr": "empirical underpinning",
    "expr_az": "empirik əsas",
-   "seq": 2286
+   "seq": 2494
   },
   {
    "lemma": "solid",
@@ -25403,7 +27691,7 @@
    "head": "UNDERPIN",
    "expr": "a solid underpinning",
    "expr_az": "möhkəm əsas (təməl)",
-   "seq": 2287
+   "seq": 2495
   },
   {
    "lemma": "FRAUGHT",
@@ -25414,7 +27702,7 @@
    "head": "FRAUGHT",
    "cat": "adjective",
    "az": "(çətinliklə, təhlükə ilə) dolu; gərgin, narahat",
-   "seq": 2288
+   "seq": 2496
   },
   {
    "lemma": "difficulty",
@@ -25425,7 +27713,7 @@
    "head": "FRAUGHT",
    "expr": "fraught with difficulty",
    "expr_az": "çətinliklərlə dolu",
-   "seq": 2289
+   "seq": 2497
   },
   {
    "lemma": "peril",
@@ -25436,7 +27724,7 @@
    "head": "FRAUGHT",
    "expr": "fraught with peril",
    "expr_az": "təhlükə ilə dolu",
-   "seq": 2290
+   "seq": 2498
   },
   {
    "lemma": "complication",
@@ -25447,7 +27735,7 @@
    "head": "FRAUGHT",
    "expr": "fraught with complications",
    "expr_az": "mürəkkəbliklərlə dolu",
-   "seq": 2291
+   "seq": 2499
   },
   {
    "lemma": "pitfall",
@@ -25458,7 +27746,7 @@
    "head": "FRAUGHT",
    "expr": "fraught with pitfalls",
    "expr_az": "gizli təhlükələrlə dolu",
-   "seq": 2292
+   "seq": 2500
   },
   {
    "lemma": "encounter",
@@ -25469,7 +27757,7 @@
    "head": "FRAUGHT",
    "expr": "a fraught encounter",
    "expr_az": "gərgin qarşılaşma",
-   "seq": 2293
+   "seq": 2501
   },
   {
    "lemma": "marriage",
@@ -25480,7 +27768,7 @@
    "head": "FRAUGHT",
    "expr": "a fraught marriage",
    "expr_az": "gərgin evlilik",
-   "seq": 2294
+   "seq": 2502
   },
   {
    "lemma": "frustration",
@@ -25491,7 +27779,7 @@
    "head": "FRAUGHT",
    "expr": "fraught with frustration",
    "expr_az": "məyusluqla dolu",
-   "seq": 2295
+   "seq": 2503
   },
   {
    "lemma": "paradox",
@@ -25502,7 +27790,7 @@
    "head": "FRAUGHT",
    "expr": "fraught with paradox",
    "expr_az": "paradokslarla dolu",
-   "seq": 2296
+   "seq": 2504
   },
   {
    "lemma": "IMPETUS",
@@ -25513,7 +27801,7 @@
    "head": "IMPETUS",
    "cat": "noun",
    "az": "təkan, stimul, hərəkətverici qüvvə",
-   "seq": 2297
+   "seq": 2505
   },
   {
    "lemma": "lend",
@@ -25524,7 +27812,7 @@
    "head": "IMPETUS",
    "expr": "lend impetus to",
    "expr_az": "nəyəsə təkan vermək",
-   "seq": 2298
+   "seq": 2506
   },
   {
    "lemma": "inject",
@@ -25535,7 +27823,7 @@
    "head": "IMPETUS",
    "expr": "inject impetus into",
    "expr_az": "nəyəsə yeni nəfəs (təkan) vermək",
-   "seq": 2299
+   "seq": 2507
   },
   {
    "lemma": "original",
@@ -25546,7 +27834,7 @@
    "head": "IMPETUS",
    "expr": "the original impetus",
    "expr_az": "ilkin təkan",
-   "seq": 2300
+   "seq": 2508
   },
   {
    "lemma": "tremendous",
@@ -25557,7 +27845,7 @@
    "head": "IMPETUS",
    "expr": "a tremendous impetus",
    "expr_az": "çox güclü təkan",
-   "seq": 2301
+   "seq": 2509
   },
   {
    "lemma": "much-needed",
@@ -25568,7 +27856,7 @@
    "head": "IMPETUS",
    "expr": "a much-needed impetus",
    "expr_az": "çoxdan gözlənilən (zəruri) təkan",
-   "seq": 2302
+   "seq": 2510
   },
   {
    "lemma": "derive",
@@ -25579,7 +27867,7 @@
    "head": "IMPETUS",
    "expr": "derive impetus from",
    "expr_az": "nədənsə təkan almaq",
-   "seq": 2303
+   "seq": 2511
   },
   {
    "lemma": "ENTRENCHED",
@@ -25590,7 +27878,7 @@
    "head": "ENTRENCHED",
    "cat": "adjective",
    "az": "dərin kök salmış, möhkəmlənmiş",
-   "seq": 2304
+   "seq": 2512
   },
   {
    "lemma": "entrenchment",
@@ -25601,7 +27889,7 @@
    "head": "ENTRENCHED",
    "cat": "n",
    "az": "möhkəmlənmə, kök salma",
-   "seq": 2305
+   "seq": 2513
   },
   {
    "lemma": "entrench",
@@ -25612,7 +27900,7 @@
    "head": "ENTRENCHED",
    "cat": "v",
    "az": "möhkəmləndirmək, kök saldırmaq",
-   "seq": 2306
+   "seq": 2514
   },
   {
    "lemma": "elite",
@@ -25623,7 +27911,7 @@
    "head": "ENTRENCHED",
    "expr": "an entrenched elite",
    "expr_az": "möhkəmlənmiş elita",
-   "seq": 2307
+   "seq": 2515
   },
   {
    "lemma": "privilege",
@@ -25634,7 +27922,7 @@
    "head": "ENTRENCHED",
    "expr": "entrenched privilege",
    "expr_az": "kök salmış imtiyaz",
-   "seq": 2308
+   "seq": 2516
   },
   {
    "lemma": "monopoly",
@@ -25645,7 +27933,7 @@
    "head": "ENTRENCHED",
    "expr": "an entrenched monopoly",
    "expr_az": "möhkəmlənmiş inhisar",
-   "seq": 2309
+   "seq": 2517
   },
   {
    "lemma": "hierarchy",
@@ -25656,7 +27944,7 @@
    "head": "ENTRENCHED",
    "expr": "entrenched hierarchy",
    "expr_az": "kök salmış iyerarxiya",
-   "seq": 2310
+   "seq": 2518
   },
   {
    "lemma": "mindset",
@@ -25667,7 +27955,7 @@
    "head": "ENTRENCHED",
    "expr": "an entrenched mindset",
    "expr_az": "dəyişməz düşüncə tərzi",
-   "seq": 2311
+   "seq": 2519
   },
   {
    "lemma": "stalemate",
@@ -25678,7 +27966,7 @@
    "head": "ENTRENCHED",
    "expr": "entrench the stalemate",
    "expr_az": "çıxılmaz vəziyyəti daha da möhkəmləndirmək",
-   "seq": 2312
+   "seq": 2520
   },
   {
    "lemma": "BOLSTER",
@@ -25689,7 +27977,7 @@
    "head": "BOLSTER",
    "cat": "verb",
    "az": "möhkəmləndirmək, gücləndirmək, dəstəkləmək",
-   "seq": 2313
+   "seq": 2521
   },
   {
    "lemma": "defence",
@@ -25700,7 +27988,7 @@
    "head": "BOLSTER",
    "expr": "bolster defences",
    "expr_az": "müdafiəni gücləndirmək",
-   "seq": 2314
+   "seq": 2522
   },
   {
    "lemma": "ego",
@@ -25711,7 +27999,7 @@
    "head": "BOLSTER",
    "expr": "bolster sb's ego",
    "expr_az": "kiminsə özünə inamını (mənliyini) şişirtmək",
-   "seq": 2315
+   "seq": 2523
   },
   {
    "lemma": "courage",
@@ -25722,7 +28010,7 @@
    "head": "BOLSTER",
    "expr": "bolster sb's courage",
    "expr_az": "kiminsə cəsarətini artırmaq",
-   "seq": 2316
+   "seq": 2524
   },
   {
    "lemma": "pride",
@@ -25733,7 +28021,7 @@
    "head": "BOLSTER",
    "expr": "bolster sb's pride",
    "expr_az": "kiminsə qürurunu artırmaq",
-   "seq": 2317
+   "seq": 2525
   },
   {
    "lemma": "immunity",
@@ -25744,7 +28032,7 @@
    "head": "BOLSTER",
    "expr": "bolster immunity",
    "expr_az": "immuniteti gücləndirmək",
-   "seq": 2318
+   "seq": 2526
   },
   {
    "lemma": "liquidity",
@@ -25755,7 +28043,7 @@
    "head": "BOLSTER",
    "expr": "bolster liquidity",
    "expr_az": "likvidliyi artırmaq",
-   "seq": 2319
+   "seq": 2527
   },
   {
    "lemma": "turnout",
@@ -25766,7 +28054,7 @@
    "head": "BOLSTER",
    "expr": "bolster turnout",
    "expr_az": "seçici fəallığını artırmaq",
-   "seq": 2320
+   "seq": 2528
   },
   {
    "lemma": "output",
@@ -25777,7 +28065,7 @@
    "head": "BOLSTER",
    "expr": "bolster output",
    "expr_az": "istehsal həcmini artırmaq",
-   "seq": 2321
+   "seq": 2529
   },
   {
    "lemma": "STRINGENT",
@@ -25788,7 +28076,7 @@
    "head": "STRINGENT",
    "cat": "adjective",
    "az": "sərt, ciddi (qayda, tələb)",
-   "seq": 2322
+   "seq": 2530
   },
   {
    "lemma": "stringency",
@@ -25799,7 +28087,7 @@
    "head": "STRINGENT",
    "cat": "n",
    "az": "sərtlik, ciddilik, həmçinin maliyyə qıtlığı",
-   "seq": 2323
+   "seq": 2531
   },
   {
    "lemma": "stringently",
@@ -25810,7 +28098,7 @@
    "head": "STRINGENT",
    "cat": "adv",
    "az": "sərt şəkildə",
-   "seq": 2324
+   "seq": 2532
   },
   {
    "lemma": "requirement",
@@ -25821,7 +28109,7 @@
    "head": "STRINGENT",
    "expr": "stringent requirements",
    "expr_az": "sərt tələblər",
-   "seq": 2325
+   "seq": 2533
   },
   {
    "lemma": "precaution",
@@ -25832,7 +28120,7 @@
    "head": "STRINGENT",
    "expr": "stringent precautions",
    "expr_az": "ciddi ehtiyat tədbirləri",
-   "seq": 2326
+   "seq": 2534
   },
   {
    "lemma": "oversight",
@@ -25843,7 +28131,7 @@
    "head": "STRINGENT",
    "expr": "stringent oversight",
    "expr_az": "ciddi nəzarət",
-   "seq": 2327
+   "seq": 2535
   },
   {
    "lemma": "austerity",
@@ -25854,7 +28142,7 @@
    "head": "STRINGENT",
    "expr": "stringent austerity",
    "expr_az": "sərt qənaət rejimi",
-   "seq": 2328
+   "seq": 2536
   },
   {
    "lemma": "protocol",
@@ -25865,7 +28153,7 @@
    "head": "STRINGENT",
    "expr": "stringent protocols",
    "expr_az": "sərt protokollar (qaydalar)",
-   "seq": 2329
+   "seq": 2537
   },
   {
    "lemma": "supervision",
@@ -25876,7 +28164,7 @@
    "head": "STRINGENT",
    "expr": "stringent supervision",
    "expr_az": "ciddi nəzarət (müşahidə)",
-   "seq": 2330
+   "seq": 2538
   },
   {
    "lemma": "compliance",
@@ -25887,7 +28175,7 @@
    "head": "STRINGENT",
    "expr": "stringent compliance",
    "expr_az": "qaydalara ciddi riayət",
-   "seq": 2331
+   "seq": 2539
   },
   {
    "lemma": "SALIENT",
@@ -25898,7 +28186,7 @@
    "head": "SALIENT",
    "cat": "adjective",
    "az": "ən mühüm, diqqəti çəkən, qabarıq",
-   "seq": 2332
+   "seq": 2540
   },
   {
    "lemma": "salience",
@@ -25909,7 +28197,7 @@
    "head": "SALIENT",
    "cat": "n",
    "az": "əhəmiyyət, qabarıqlıq",
-   "seq": 2333
+   "seq": 2541
   },
   {
    "lemma": "highlight",
@@ -25920,7 +28208,7 @@
    "head": "SALIENT",
    "expr": "highlight salient traits",
    "expr_az": "səciyyəvi cəhətləri ön plana çəkmək",
-   "seq": 2334
+   "seq": 2542
   },
   {
    "lemma": "trait",
@@ -25931,7 +28219,7 @@
    "head": "SALIENT",
    "expr": "highlight salient traits",
    "expr_az": "səciyyəvi cəhətləri ön plana çəkmək",
-   "seq": 2335
+   "seq": 2543
   },
   {
    "lemma": "motif",
@@ -25942,7 +28230,7 @@
    "head": "SALIENT",
    "expr": "a salient motif",
    "expr_az": "diqqəti çəkən motiv",
-   "seq": 2336
+   "seq": 2544
   },
   {
    "lemma": "cue",
@@ -25953,7 +28241,7 @@
    "head": "SALIENT",
    "expr": "salient cues",
    "expr_az": "diqqəti çəkən işarələr (siqnallar)",
-   "seq": 2337
+   "seq": 2545
   },
   {
    "lemma": "landmark",
@@ -25964,7 +28252,7 @@
    "head": "SALIENT",
    "expr": "a salient landmark",
    "expr_az": "uzaqdan seçilən oriyentir (nişangah)",
-   "seq": 2338
+   "seq": 2546
   },
   {
    "lemma": "passage",
@@ -25975,7 +28263,7 @@
    "head": "SALIENT",
    "expr": "salient passages",
    "expr_az": "ən mühüm parçalar",
-   "seq": 2339
+   "seq": 2547
   },
   {
    "lemma": "anecdote",
@@ -25986,7 +28274,7 @@
    "head": "SALIENT",
    "expr": "a salient anecdote",
    "expr_az": "yerinə düşən (səciyyəvi) əhvalat",
-   "seq": 2340
+   "seq": 2548
   },
   {
    "lemma": "variable",
@@ -25997,7 +28285,7 @@
    "head": "SALIENT",
    "expr": "salient variables",
    "expr_az": "ən mühüm dəyişənlər",
-   "seq": 2341
+   "seq": 2549
   },
   {
    "lemma": "REPERCUSSION",
@@ -26008,7 +28296,7 @@
    "head": "REPERCUSSION",
    "cat": "noun",
    "az": "(adətən cəmdə) əks-səda, xoşagəlməz nəticə",
-   "seq": 2342
+   "seq": 2550
   },
   {
    "lemma": "grave",
@@ -26019,7 +28307,7 @@
    "head": "REPERCUSSION",
    "expr": "grave repercussions",
    "expr_az": "ağır nəticələr",
-   "seq": 2343
+   "seq": 2551
   },
   {
    "lemma": "widespread",
@@ -26030,7 +28318,7 @@
    "head": "REPERCUSSION",
    "expr": "widespread repercussions",
    "expr_az": "geniş əks-səda doğuran nəticələr",
-   "seq": 2344
+   "seq": 2552
   },
   {
    "lemma": "catastrophic",
@@ -26041,7 +28329,7 @@
    "head": "REPERCUSSION",
    "expr": "catastrophic repercussions",
    "expr_az": "fəlakətli nəticələr",
-   "seq": 2345
+   "seq": 2553
   },
   {
    "lemma": "devastating",
@@ -26052,7 +28340,7 @@
    "head": "REPERCUSSION",
    "expr": "devastating repercussions",
    "expr_az": "sarsıdıcı nəticələr",
-   "seq": 2346
+   "seq": 2554
   },
   {
    "lemma": "adverse",
@@ -26063,7 +28351,7 @@
    "head": "REPERCUSSION",
    "expr": "adverse repercussions",
    "expr_az": "mənfi nəticələr",
-   "seq": 2347
+   "seq": 2555
   },
   {
    "lemma": "reverberate",
@@ -26074,7 +28362,7 @@
    "head": "REPERCUSSION",
    "expr": "the repercussions reverberate",
    "expr_az": "nəticələri uzun müddət özünü göstərir",
-   "seq": 2348
+   "seq": 2556
   },
   {
    "lemma": "dread",
@@ -26085,7 +28373,7 @@
    "head": "REPERCUSSION",
    "expr": "dread the repercussions",
    "expr_az": "nəticələrindən vahimələnmək",
-   "seq": 2349
+   "seq": 2557
   }
  ],
  "lessons": [
@@ -47411,6 +49699,2182 @@
     "hallmark",
     "grin",
     "agony"
+   ]
+  },
+  {
+   "id": "C1-041",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "ACCUMULATE",
+   "pos": "verb",
+   "ipa_british": "əˈkjuːmjəleɪt",
+   "azerbaijani": "toplamaq, yığmaq; yığılmaq, toplanmaq",
+   "key_forms": "accumulate – accumulates – accumulated – accumulated – accumulating",
+   "word_family": {
+    "n": [
+     {
+      "form": "accumulation",
+      "az": "yığılma, toplanma"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "cumulative",
+      "az": "məcmu, yığılıb artan"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "accumulate dust",
+     "az": "toz yığmaq (toz basmaq)",
+     "usage": "dust = dry dirt in the form of powder",
+     "related_only": false
+    },
+    {
+     "en": "accumulate savings",
+     "az": "yığım toplamaq",
+     "usage": "savings = money that you have saved",
+     "related_only": false
+    },
+    {
+     "en": "accumulate possessions",
+     "az": "əşya (var-dövlət) toplamaq",
+     "usage": "possession = something that you own",
+     "related_only": false
+    },
+    {
+     "en": "accumulate fat",
+     "az": "piy toplamaq",
+     "usage": "fat = the substance under the skin that stores energy",
+     "related_only": false
+    },
+    {
+     "en": "accumulate toxins",
+     "az": "toksinlər toplamaq",
+     "usage": "toxin = a poisonous substance",
+     "related_only": false
+    },
+    {
+     "en": "accumulate assets",
+     "az": "aktivlər toplamaq",
+     "usage": "asset = something valuable that a person or company owns",
+     "related_only": false
+    },
+    {
+     "en": "a cumulative total",
+     "az": "məcmu yekun",
+     "usage": "total = the number you get by adding everything together",
+     "related_only": false
+    },
+    {
+     "en": "accumulate a surplus",
+     "az": "artıq vəsait (profisit) toplamaq",
+     "usage": "surplus = an amount that is more than is needed",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Dust had accumulated on the shelves.",
+     "az": "Rəflərin üstünə toz yığılmışdı."
+    },
+    {
+     "en": "Over the years she accumulated enough savings to buy a flat.",
+     "az": "İllər ərzində o, mənzil almaq üçün kifayət qədər yığım topladı."
+    },
+    {
+     "en": "Toxins can accumulate in the body over time.",
+     "az": "Toksinlər zaman keçdikcə orqanizmdə toplana bilər."
+    },
+    {
+     "en": "The cumulative total for the year was three million pounds.",
+     "az": "İl üzrə məcmu yekun üç milyon funt təşkil etdi."
+    }
+   ],
+   "usage": [
+    "ACCUMULATE means to collect or increase gradually over a period of time. It is transitive (\"accumulate wealth\") and intransitive (\"Debts accumulated\"). Compare COLLECT (bring together deliberately), GATHER (bring together from different places) and AMASS (collect a very large amount, especially money). CUMULATIVE describes an effect that grows with each addition: \"the cumulative effect of small changes\"."
+   ],
+   "new_items": [
+    "ACCUMULATE",
+    "accumulation",
+    "cumulative",
+    "dust",
+    "savings",
+    "possession",
+    "fat",
+    "toxin",
+    "asset",
+    "total",
+    "surplus"
+   ]
+  },
+  {
+   "id": "C1-042",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "ASPIRE",
+   "pos": "verb",
+   "ipa_british": "əˈspaɪə",
+   "azerbaijani": "can atmaq, nail olmağa çalışmaq",
+   "key_forms": "aspire – aspires – aspired – aspired – aspiring",
+   "word_family": {
+    "n": [
+     {
+      "form": "aspiration",
+      "az": "arzu, ali məqsəd"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "aspiring",
+      "az": "(bir peşəyə) can atan"
+     },
+     {
+      "form": "aspirational",
+      "az": "yüksək həyat səviyyəsinə can atan"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "aspire to",
+     "az": "nəyəsə can atmaq",
+     "usage": "aspire TO + noun / infinitive",
+     "related_only": false
+    },
+    {
+     "en": "aspire to leadership",
+     "az": "rəhbərliyə can atmaq",
+     "usage": "leadership = the position of being the leader",
+     "related_only": false
+    },
+    {
+     "en": "an aspiring actor",
+     "az": "aktyor olmağa can atan gənc",
+     "usage": "actor = a person who performs in plays or films",
+     "related_only": false
+    },
+    {
+     "en": "an aspiring entrepreneur",
+     "az": "sahibkar olmağa can atan şəxs",
+     "usage": "entrepreneur = a person who starts a business",
+     "related_only": false
+    },
+    {
+     "en": "fulfil an aspiration",
+     "az": "arzunu həyata keçirmək",
+     "usage": "fulfil = achieve something hoped for",
+     "related_only": false
+    },
+    {
+     "en": "lofty aspirations",
+     "az": "ali arzular",
+     "usage": "lofty = noble and deserving admiration",
+     "related_only": false
+    },
+    {
+     "en": "thwart sb's aspirations",
+     "az": "kiminsə arzularını puça çıxarmaq",
+     "usage": "thwart = prevent somebody from doing what they want",
+     "related_only": false
+    },
+    {
+     "en": "harbour aspirations",
+     "az": "ürəyində arzu bəsləmək",
+     "usage": "harbour = keep a feeling in your mind for a long time",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "She aspires to become a judge.",
+     "az": "O, hakim olmağa can atır."
+    },
+    {
+     "en": "The course is designed for aspiring entrepreneurs.",
+     "az": "Kurs sahibkar olmağa can atanlar üçün nəzərdə tutulub."
+    },
+    {
+     "en": "He never fulfilled his aspiration to study abroad.",
+     "az": "O, xaricdə təhsil almaq arzusunu heç vaxt həyata keçirə bilmədi."
+    },
+    {
+     "en": "Poverty thwarted the aspirations of a whole generation.",
+     "az": "Yoxsulluq bütöv bir nəslin arzularını puça çıxardı."
+    }
+   ],
+   "usage": [
+    "ASPIRE means to have a strong desire to achieve something important. It takes TO: \"aspire to a career in medicine\", \"aspire to be a doctor\". ASPIRATIONS (usually plural) are strong hopes for the future: career aspirations, political aspirations. ASPIRING before a job title means \"hoping to become\": an aspiring writer. Compare AMBITION (a strong wish to be successful) and DREAM (less formal)."
+   ],
+   "new_items": [
+    "ASPIRE",
+    "aspiration",
+    "aspiring",
+    "aspirational",
+    "leadership",
+    "actor",
+    "entrepreneur",
+    "fulfil",
+    "lofty",
+    "thwart",
+    "harbour"
+   ]
+  },
+  {
+   "id": "C1-043",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "AUTONOMY",
+   "pos": "noun",
+   "ipa_british": "ɔːˈtɒnəmi",
+   "azerbaijani": "muxtariyyət; müstəqillik, sərbəstlik",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "autonomous",
+      "az": "muxtar, müstəqil"
+     }
+    ],
+    "adv": [
+     {
+      "form": "autonomously",
+      "az": "müstəqil şəkildə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "autonomy over",
+     "az": "nəyinsə üzərində sərbəstlik",
+     "usage": "autonomy OVER decisions / budgets",
+     "related_only": false
+    },
+    {
+     "en": "individual autonomy",
+     "az": "fərdi müstəqillik",
+     "usage": "individual = of one person rather than a group",
+     "related_only": false
+    },
+    {
+     "en": "an autonomous region",
+     "az": "muxtar vilayət",
+     "usage": "region = a large area of a country",
+     "related_only": false
+    },
+    {
+     "en": "an autonomous republic",
+     "az": "muxtar respublika",
+     "usage": "republic = a country with a president and no king or queen",
+     "related_only": false
+    },
+    {
+     "en": "editorial autonomy",
+     "az": "redaksiya müstəqilliyi",
+     "usage": "editorial = connected with preparing a newspaper or book",
+     "related_only": false
+    },
+    {
+     "en": "function autonomously",
+     "az": "müstəqil fəaliyyət göstərmək",
+     "usage": "function = work or operate",
+     "related_only": false
+    },
+    {
+     "en": "autonomous robots",
+     "az": "avtonom robotlar",
+     "usage": "robot = a machine that can do tasks automatically",
+     "related_only": false
+    },
+    {
+     "en": "curtail autonomy",
+     "az": "müstəqilliyi məhdudlaşdırmaq",
+     "usage": "curtail = limit or reduce",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Nakhchivan is an autonomous republic within Azerbaijan.",
+     "az": "Naxçıvan Azərbaycanın tərkibində muxtar respublikadır."
+    },
+    {
+     "en": "Teachers should have more autonomy over what they teach.",
+     "az": "Müəllimlərin nə tədris etdikləri üzərində daha çox sərbəstliyi olmalıdır."
+    },
+    {
+     "en": "Each department functions autonomously.",
+     "az": "Hər şöbə müstəqil fəaliyyət göstərir."
+    },
+    {
+     "en": "The new law curtails the autonomy of universities.",
+     "az": "Yeni qanun universitetlərin müstəqilliyini məhdudlaşdırır."
+    }
+   ],
+   "usage": [
+    "AUTONOMY is the freedom of a country, region or organisation to govern itself, and also the ability of a person to act without being controlled by others. It is uncountable. Patterns: autonomy FROM a central government; autonomy OVER something. AUTONOMOUS describes self-governing regions and, in technology, machines that operate without human control: autonomous vehicles. Compare INDEPENDENCE (complete freedom from control) and SOVEREIGNTY (the full power of a state)."
+   ],
+   "new_items": [
+    "AUTONOMY",
+    "autonomous",
+    "autonomously",
+    "individual",
+    "region",
+    "republic",
+    "editorial",
+    "function",
+    "robot",
+    "curtail"
+   ]
+  },
+  {
+   "id": "C1-044",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "CATALYST",
+   "pos": "noun",
+   "ipa_british": "ˈkætəlɪst",
+   "azerbaijani": "katalizator; təkanverici amil",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [
+     {
+      "form": "catalyse",
+      "az": "sürətləndirmək, təkan vermək"
+     }
+    ],
+    "adj": [
+     {
+      "form": "catalytic",
+      "az": "katalitik"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "a catalyst for",
+     "az": "nəyinsə katalizatoru (təkanverici qüvvəsi)",
+     "usage": "The preposition is FOR",
+     "related_only": false
+    },
+    {
+     "en": "serve as a catalyst",
+     "az": "katalizator rolunu oynamaq",
+     "usage": "serve = perform a function",
+     "related_only": false
+    },
+    {
+     "en": "a chemical catalyst",
+     "az": "kimyəvi katalizator",
+     "usage": "chemical = connected with chemistry",
+     "related_only": false
+    },
+    {
+     "en": "a catalyst for revolution",
+     "az": "inqilab üçün təkan",
+     "usage": "revolution = an attempt to change a government by force; also a great change",
+     "related_only": false
+    },
+    {
+     "en": "a catalyst for regeneration",
+     "az": "dirçəliş üçün təkan",
+     "usage": "regeneration = making an area active and successful again",
+     "related_only": false
+    },
+    {
+     "en": "a catalyst for unrest",
+     "az": "iğtişaşlara təkan verən amil",
+     "usage": "unrest = angry or violent behaviour by people who are protesting",
+     "related_only": false
+    },
+    {
+     "en": "a potent catalyst",
+     "az": "güclü katalizator",
+     "usage": "potent = having a strong effect",
+     "related_only": false
+    },
+    {
+     "en": "a catalytic converter",
+     "az": "katalitik neytrallaşdırıcı",
+     "usage": "converter = a device that changes something into a different form",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The scandal was a catalyst for change.",
+     "az": "Qalmaqal dəyişiklik üçün katalizator oldu."
+    },
+    {
+     "en": "The new stadium served as a catalyst for the regeneration of the area.",
+     "az": "Yeni stadion ərazinin dirçəlişi üçün katalizator rolunu oynadı."
+    },
+    {
+     "en": "Rising food prices were a catalyst for unrest.",
+     "az": "Ərzaq qiymətlərinin artması iğtişaşlara təkan verən amil oldu."
+    },
+    {
+     "en": "A chemical catalyst speeds up a reaction without being used up.",
+     "az": "Kimyəvi katalizator özü sərf olunmadan reaksiyanı sürətləndirir."
+    }
+   ],
+   "usage": [
+    "In chemistry, a CATALYST is a substance that makes a reaction happen faster without being changed itself. Figuratively it is a person or event that causes an important change: \"a catalyst FOR change\" is the classic collocation. Typical verbs: act as, serve as, prove (to be) a catalyst. Compare TRIGGER (the immediate cause) and IMPETUS (a force that makes something happen more quickly). The British spelling of the verb is CATALYSE."
+   ],
+   "new_items": [
+    "CATALYST",
+    "catalyse",
+    "catalytic",
+    "serve",
+    "chemical",
+    "revolution",
+    "regeneration",
+    "unrest",
+    "potent",
+    "converter"
+   ]
+  },
+  {
+   "id": "C1-045",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "COMPREHENSIVE",
+   "pos": "adjective",
+   "ipa_british": "ˌkɒmprɪˈhensɪv",
+   "azerbaijani": "hərtərəfli, əhatəli, tam",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "comprehensively",
+      "az": "hərtərəfli şəkildə, tamamilə"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "a comprehensive review",
+     "az": "hərtərəfli icmal (təhlil)",
+     "usage": "review = a careful examination of a situation",
+     "related_only": false
+    },
+    {
+     "en": "a comprehensive overview",
+     "az": "əhatəli ümumi baxış",
+     "usage": "overview = a general description of a subject",
+     "related_only": false
+    },
+    {
+     "en": "a comprehensive database",
+     "az": "əhatəli məlumat bazası",
+     "usage": "database = an organised set of data stored in a computer",
+     "related_only": false
+    },
+    {
+     "en": "a comprehensive audit",
+     "az": "hərtərəfli audit (yoxlama)",
+     "usage": "audit = an official examination of accounts or quality",
+     "related_only": false
+    },
+    {
+     "en": "a comprehensive handbook",
+     "az": "əhatəli məlumat kitabçası",
+     "usage": "handbook = a book giving instructions or information",
+     "related_only": false
+    },
+    {
+     "en": "a comprehensive overhaul",
+     "az": "köklü yenidənqurma",
+     "usage": "overhaul = a thorough examination and improvement of a system",
+     "related_only": false
+    },
+    {
+     "en": "a comprehensive defeat",
+     "az": "tam (qəti) məğlubiyyət",
+     "usage": "defeat = failure to win",
+     "related_only": false
+    },
+    {
+     "en": "comprehensively beaten",
+     "az": "tamamilə məğlub edilmiş",
+     "usage": "beat = defeat somebody in a game or fight",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The report gives a comprehensive overview of the housing market.",
+     "az": "Hesabat mənzil bazarının əhatəli ümumi mənzərəsini verir."
+    },
+    {
+     "en": "The tax system needs a comprehensive overhaul.",
+     "az": "Vergi sisteminin köklü yenidənqurmaya ehtiyacı var."
+    },
+    {
+     "en": "The government has ordered a comprehensive review of the policy.",
+     "az": "Hökumət bu siyasətin hərtərəfli təhlilini tapşırıb."
+    },
+    {
+     "en": "Our team was comprehensively beaten in the final.",
+     "az": "Komandamız finalda tamamilə məğlub oldu."
+    }
+   ],
+   "usage": [
+    "COMPREHENSIVE means including all, or almost all, the details or facts: a comprehensive guide, comprehensive insurance (covering every kind of risk). In Britain a COMPREHENSIVE (school) is a state secondary school for pupils of all abilities. Do not confuse it with COMPREHENSIBLE (able to be understood); both come from COMPREHEND. Synonyms: THOROUGH, EXHAUSTIVE, EXTENSIVE, COMPLETE."
+   ],
+   "new_items": [
+    "COMPREHENSIVE",
+    "comprehensively",
+    "review",
+    "overview",
+    "database",
+    "audit",
+    "handbook",
+    "overhaul",
+    "defeat",
+    "beaten"
+   ]
+  },
+  {
+   "id": "C1-046",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "CONTEMPLATE",
+   "pos": "verb",
+   "ipa_british": "ˈkɒntəmpleɪt",
+   "azerbaijani": "götür-qoy etmək, barəsində düşünmək; seyr etmək",
+   "key_forms": "contemplate – contemplates – contemplated – contemplated – contemplating",
+   "word_family": {
+    "n": [
+     {
+      "form": "contemplation",
+      "az": "dərin düşüncə, seyr"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "contemplative",
+      "az": "düşüncəli, fikrə dalmış"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "contemplate retirement",
+     "az": "təqaüdə çıxmaq barədə düşünmək",
+     "usage": "retirement = the time when you stop working because of your age",
+     "related_only": false
+    },
+    {
+     "en": "contemplate resignation",
+     "az": "istefa vermək barədə düşünmək",
+     "usage": "resignation = the act of giving up your job",
+     "related_only": false
+    },
+    {
+     "en": "contemplate emigration",
+     "az": "mühacirət etmək barədə düşünmək",
+     "usage": "emigration = leaving your own country to live in another",
+     "related_only": false
+    },
+    {
+     "en": "contemplate the horizon",
+     "az": "üfüqü seyr etmək",
+     "usage": "horizon = the line where the sky seems to meet the land or sea",
+     "related_only": false
+    },
+    {
+     "en": "too awful to contemplate",
+     "az": "düşünmək belə dəhşətlidir",
+     "usage": "awful = very bad or unpleasant",
+     "related_only": false
+    },
+    {
+     "en": "contemplate a takeover",
+     "az": "şirkəti ələ keçirmək barədə düşünmək",
+     "usage": "takeover = the act of taking control of a company",
+     "related_only": false
+    },
+    {
+     "en": "contemplate a sabbatical",
+     "az": "yaradıcılıq məzuniyyəti götürmək barədə düşünmək",
+     "usage": "sabbatical = a long period of leave for study or travel",
+     "related_only": false
+    },
+    {
+     "en": "contemplate the abyss",
+     "az": "uçuruma baxmaq (fəlakətlə üz-üzə qalmaq)",
+     "usage": "abyss = a very deep hole; a hopeless situation",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "At sixty he began to contemplate retirement.",
+     "az": "Altmış yaşında o, təqaüdə çıxmaq barədə düşünməyə başladı."
+    },
+    {
+     "en": "The consequences of failure are too awful to contemplate.",
+     "az": "Uğursuzluğun nəticələri barədə düşünmək belə dəhşətlidir."
+    },
+    {
+     "en": "She sat on the beach, contemplating the horizon.",
+     "az": "O, çimərlikdə oturub üfüqü seyr edirdi."
+    },
+    {
+     "en": "The company is contemplating a takeover of its main rival.",
+     "az": "Şirkət əsas rəqibini ələ keçirmək barədə düşünür."
+    }
+   ],
+   "usage": [
+    "CONTEMPLATE means to think carefully about a possible future action, or to look at something thoughtfully for a long time. It is followed by a noun or -ing form: \"contemplate leaving\" – not \"contemplate to leave\". It is more formal and more serious than CONSIDER. CONTEMPLATION is deep thought, often religious or philosophical. Compare PONDER (think about carefully) and MULL OVER (informal)."
+   ],
+   "new_items": [
+    "CONTEMPLATE",
+    "contemplation",
+    "contemplative",
+    "retirement",
+    "resignation",
+    "emigration",
+    "horizon",
+    "awful",
+    "takeover",
+    "sabbatical",
+    "abyss"
+   ]
+  },
+  {
+   "id": "C1-047",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "CORRELATE",
+   "pos": "verb",
+   "ipa_british": "ˈkɒrəleɪt",
+   "azerbaijani": "qarşılıqlı əlaqədə olmaq, uzlaşmaq",
+   "key_forms": "correlate – correlates – correlated – correlated – correlating",
+   "word_family": {
+    "n": [
+     {
+      "form": "correlation",
+      "az": "korrelyasiya, qarşılıqlı əlaqə"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "correlated",
+      "az": "qarşılıqlı əlaqəli"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "correlate with",
+     "az": "nə iləsə əlaqəli olmaq",
+     "usage": "correlate WITH something",
+     "related_only": false
+    },
+    {
+     "en": "a correlation between",
+     "az": "... arasında korrelyasiya",
+     "usage": "correlation BETWEEN two variables",
+     "related_only": false
+    },
+    {
+     "en": "correlation and causation",
+     "az": "korrelyasiya və səbəb-nəticə əlaqəsi",
+     "usage": "causation = the process of one event causing another",
+     "related_only": false
+    },
+    {
+     "en": "an inverse correlation",
+     "az": "tərs korrelyasiya",
+     "usage": "inverse = opposite in amount: when one rises, the other falls",
+     "related_only": false
+    },
+    {
+     "en": "a correlation coefficient",
+     "az": "korrelyasiya əmsalı",
+     "usage": "coefficient = a number that measures a property",
+     "related_only": false
+    },
+    {
+     "en": "a robust correlation",
+     "az": "möhkəm (etibarlı) korrelyasiya",
+     "usage": "robust = strong and unlikely to fail",
+     "related_only": false
+    },
+    {
+     "en": "detect a correlation",
+     "az": "korrelyasiya aşkar etmək",
+     "usage": "detect = discover or notice something that is not easy to see",
+     "related_only": false
+    },
+    {
+     "en": "a modest correlation",
+     "az": "zəif (orta dərəcəli) korrelyasiya",
+     "usage": "modest = not very large",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Poverty correlates strongly with poor health.",
+     "az": "Yoxsulluq zəif sağlamlıqla sıx əlaqəlidir."
+    },
+    {
+     "en": "There is a clear correlation between education and income.",
+     "az": "Təhsillə gəlir arasında aydın korrelyasiya var."
+    },
+    {
+     "en": "Researchers found an inverse correlation between exercise and stress.",
+     "az": "Tədqiqatçılar idmanla stress arasında tərs korrelyasiya aşkar ediblər."
+    },
+    {
+     "en": "Students must learn the difference between correlation and causation.",
+     "az": "Tələbələr korrelyasiya ilə səbəb-nəticə əlaqəsinin fərqini öyrənməlidirlər."
+    }
+   ],
+   "usage": [
+    "To CORRELATE is to have a relationship in which one thing changes when the other does. The noun CORRELATION is central to statistics and to describing data: a strong / weak / positive / negative correlation BETWEEN A and B. The warning \"correlation does not imply causation\" means that two things happening together does not prove that one causes the other – a valuable point for critical essays."
+   ],
+   "new_items": [
+    "CORRELATE",
+    "correlation",
+    "correlated",
+    "causation",
+    "inverse",
+    "coefficient",
+    "robust",
+    "detect",
+    "modest"
+   ]
+  },
+  {
+   "id": "C1-048",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "CULMINATE",
+   "pos": "verb",
+   "ipa_british": "ˈkʌlmɪneɪt",
+   "azerbaijani": "(nə iləsə) yekunlaşmaq, ən yüksək nöqtəyə çatmaq",
+   "key_forms": "culminate – culminates – culminated – culminated – culminating",
+   "word_family": {
+    "n": [
+     {
+      "form": "culmination",
+      "az": "ən yüksək nöqtə, zirvə, yekun"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "culminate in",
+     "az": "nə iləsə nəticələnmək (yekunlaşmaq)",
+     "usage": "culminate IN / WITH something",
+     "related_only": false
+    },
+    {
+     "en": "the culmination of",
+     "az": "nəyinsə zirvəsi (yekunu)",
+     "usage": "Noun pattern",
+     "related_only": false
+    },
+    {
+     "en": "culminate in a riot",
+     "az": "iğtişaşla nəticələnmək",
+     "usage": "riot = violent behaviour by a crowd in a public place",
+     "related_only": false
+    },
+    {
+     "en": "culminate in a ceremony",
+     "az": "mərasimlə yekunlaşmaq",
+     "usage": "ceremony = a formal public or religious event",
+     "related_only": false
+    },
+    {
+     "en": "culminate in the collapse",
+     "az": "çöküşlə (iflasla) nəticələnmək",
+     "usage": "collapse = a sudden failure of a system or organisation",
+     "related_only": false
+    },
+    {
+     "en": "culminate in a showdown",
+     "az": "həlledici qarşıdurma ilə nəticələnmək",
+     "usage": "showdown = a final argument or fight that settles a dispute",
+     "related_only": false
+    },
+    {
+     "en": "culminate in an arrest",
+     "az": "həbslə nəticələnmək",
+     "usage": "arrest = the act of taking somebody to a police station",
+     "related_only": false
+    },
+    {
+     "en": "culminate in a breakthrough",
+     "az": "mühüm irəliləyişlə nəticələnmək",
+     "usage": "breakthrough = an important discovery or development",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Months of protests culminated in a riot.",
+     "az": "Aylarla davam edən etirazlar iğtişaşla nəticələndi."
+    },
+    {
+     "en": "The festival culminates in a ceremony on the main square.",
+     "az": "Festival əsas meydanda keçirilən mərasimlə yekunlaşır."
+    },
+    {
+     "en": "The award was the culmination of forty years of work.",
+     "az": "Bu mükafat qırx illik əməyin zirvəsi idi."
+    },
+    {
+     "en": "Years of research culminated in a breakthrough.",
+     "az": "İllərlə aparılan tədqiqatlar mühüm irəliləyişlə nəticələndi."
+    }
+   ],
+   "usage": [
+    "CULMINATE means to end with a particular result or to reach the highest point after a long development. It is intransitive and takes IN or WITH: \"culminate IN victory\". The subject is usually a process or series of events: talks, protests, a career, a campaign. Compare RESULT IN (neutral), END IN and CLIMAX. THE CULMINATION OF something is its final and most important point."
+   ],
+   "new_items": [
+    "CULMINATE",
+    "culmination",
+    "riot",
+    "ceremony",
+    "collapse",
+    "showdown",
+    "arrest",
+    "breakthrough"
+   ]
+  },
+  {
+   "id": "C1-049",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "DISCERN",
+   "pos": "verb",
+   "ipa_british": "dɪˈsɜːn",
+   "azerbaijani": "sezmək, ayırd etmək, güclə görmək",
+   "key_forms": "discern – discerns – discerned – discerned – discerning",
+   "word_family": {
+    "n": [
+     {
+      "form": "discernment",
+      "az": "fərasət, incə duyum"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "discernible",
+      "az": "sezilən, gözə çarpan"
+     },
+     {
+      "form": "discerning",
+      "az": "incə zövqlü, seçici"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "no discernible outline",
+     "az": "heç bir sezilən kontur",
+     "usage": "outline = the line that shows the shape of something",
+     "related_only": false
+    },
+    {
+     "en": "a discerning palate",
+     "az": "incə dad duyumu",
+     "usage": "palate = the ability to recognise and enjoy good food and drink",
+     "related_only": false
+    },
+    {
+     "en": "a discerning audience",
+     "az": "zövqlü (tələbkar) tamaşaçı",
+     "usage": "audience = the people watching a play, film or concert",
+     "related_only": false
+    },
+    {
+     "en": "discern a silhouette",
+     "az": "silueti ayırd etmək",
+     "usage": "silhouette = the dark shape of something seen against light",
+     "related_only": false
+    },
+    {
+     "en": "discern through the mist",
+     "az": "duman arasından seçmək",
+     "usage": "mist = a thin cloud of very small drops of water in the air",
+     "related_only": false
+    },
+    {
+     "en": "discern a trace of",
+     "az": "nəyinsə izini sezmək",
+     "usage": "trace = a very small amount; a sign that something was present",
+     "related_only": false
+    },
+    {
+     "en": "readily discernible",
+     "az": "asanlıqla sezilən",
+     "usage": "readily = quickly and easily",
+     "related_only": false
+    },
+    {
+     "en": "a discerning collector",
+     "az": "seçici kolleksiyaçı",
+     "usage": "collector = a person who collects things as a hobby",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "I could just discern the silhouette of a ship through the mist.",
+     "az": "Duman arasından güclə bir gəminin siluetini seçə bilirdim."
+    },
+    {
+     "en": "There has been no discernible improvement.",
+     "az": "Heç bir sezilən yaxşılaşma olmayıb."
+    },
+    {
+     "en": "I discerned a trace of irony in her voice.",
+     "az": "Onun səsində istehza izi sezdim."
+    },
+    {
+     "en": "The restaurant is popular with diners who have a discerning palate.",
+     "az": "Restoran incə dad duyumu olan müştərilər arasında məşhurdur."
+    }
+   ],
+   "usage": [
+    "DISCERN is a formal verb meaning to see or understand something that is not obvious: discern a pattern, discern a difference. It is not used in the progressive. DISCERNIBLE means able to be noticed (\"no discernible difference\"); DISCERNING is a word of praise for people with good judgement and taste (\"a discerning reader\"). Compare DETECT (discover something hidden), PERCEIVE (become aware of) and MAKE OUT (informal)."
+   ],
+   "new_items": [
+    "DISCERN",
+    "discernment",
+    "discernible",
+    "discerning",
+    "outline",
+    "palate",
+    "audience",
+    "silhouette",
+    "mist",
+    "trace",
+    "readily",
+    "collector"
+   ]
+  },
+  {
+   "id": "C1-050",
+   "level": "C1",
+   "unit": "Academic verbs for processes and ideas",
+   "main_word": "ELICIT",
+   "pos": "verb",
+   "ipa_british": "ɪˈlɪsɪt",
+   "azerbaijani": "(cavab, reaksiya) doğurmaq, almaq, üzə çıxarmaq",
+   "key_forms": "elicit – elicits – elicited – elicited – eliciting",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "elicit sympathy",
+     "az": "rəğbət (şəfqət) doğurmaq",
+     "usage": "sympathy = the feeling of being sorry for somebody",
+     "related_only": false
+    },
+    {
+     "en": "elicit a confession",
+     "az": "etiraf almaq",
+     "usage": "confession = a statement admitting that you are guilty",
+     "related_only": false
+    },
+    {
+     "en": "elicit laughter",
+     "az": "gülüş doğurmaq",
+     "usage": "laughter = the sound or act of laughing",
+     "related_only": false
+    },
+    {
+     "en": "elicit applause",
+     "az": "alqış qazanmaq",
+     "usage": "applause = the noise of people clapping their hands",
+     "related_only": false
+    },
+    {
+     "en": "elicit a gasp",
+     "az": "heyrət nidasına səbəb olmaq",
+     "usage": "gasp = a quick deep breath caused by surprise",
+     "related_only": false
+    },
+    {
+     "en": "elicit outrage",
+     "az": "qəzəb doğurmaq",
+     "usage": "outrage = a strong feeling of shock and anger",
+     "related_only": false
+    },
+    {
+     "en": "elicit compassion",
+     "az": "mərhəmət hissi oyatmaq",
+     "usage": "compassion = a strong feeling of sympathy for people who are suffering",
+     "related_only": false
+    },
+    {
+     "en": "elicit donations",
+     "az": "ianə toplamağa nail olmaq",
+     "usage": "donation = money given to help a person or organisation",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The police failed to elicit a confession.",
+     "az": "Polis etiraf ala bilmədi."
+    },
+    {
+     "en": "His joke elicited laughter from the audience.",
+     "az": "Onun zarafatı tamaşaçıların gülüşünə səbəb oldu."
+    },
+    {
+     "en": "The decision elicited outrage among parents.",
+     "az": "Qərar valideynlər arasında qəzəb doğurdu."
+    },
+    {
+     "en": "The teacher tried to elicit the answer from the class.",
+     "az": "Müəllim cavabı sinifdən almağa çalışdı."
+    }
+   ],
+   "usage": [
+    "ELICIT means to get information or a reaction from somebody, often with difficulty: elicit a response, a reply, information, support. In language teaching, to elicit is to draw answers out of students instead of telling them. Do not confuse ELICIT /ɪˈlɪsɪt/ (verb) with ILLICIT (adjective: illegal) – they sound the same. Pattern: elicit something FROM somebody. Synonyms: DRAW OUT, EVOKE, OBTAIN."
+   ],
+   "new_items": [
+    "ELICIT",
+    "sympathy",
+    "confession",
+    "laughter",
+    "applause",
+    "gasp",
+    "outrage",
+    "compassion",
+    "donation"
+   ]
+  },
+  {
+   "id": "C1-051",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "ENCOMPASS",
+   "pos": "verb",
+   "ipa_british": "ɪnˈkʌmpəs",
+   "azerbaijani": "əhatə etmək, özündə birləşdirmək",
+   "key_forms": "encompass – encompasses – encompassed – encompassed – encompassing",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "all-encompassing",
+      "az": "hər şeyi əhatə edən"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "encompass a spectrum",
+     "az": "geniş spektri əhatə etmək",
+     "usage": "spectrum = a complete range of opinions or types",
+     "related_only": false
+    },
+    {
+     "en": "encompass a multitude of",
+     "az": "çoxlu sayda ... əhatə etmək",
+     "usage": "multitude = an extremely large number",
+     "related_only": false
+    },
+    {
+     "en": "encompass an array of",
+     "az": "geniş çeşiddə ... əhatə etmək",
+     "usage": "array = a large and impressive group of things",
+     "related_only": false
+    },
+    {
+     "en": "encompass five continents",
+     "az": "beş qitəni əhatə etmək",
+     "usage": "continent = one of the large land masses of the Earth",
+     "related_only": false
+    },
+    {
+     "en": "encompass the suburbs",
+     "az": "şəhərətrafı əraziləri əhatə etmək",
+     "usage": "suburb = an area where people live outside the centre of a city",
+     "related_only": false
+    },
+    {
+     "en": "encompass centuries",
+     "az": "əsrləri əhatə etmək",
+     "usage": "century = a period of 100 years",
+     "related_only": false
+    },
+    {
+     "en": "encompass genres",
+     "az": "janrları əhatə etmək",
+     "usage": "genre = a particular type of art, film, music or literature",
+     "related_only": false
+    },
+    {
+     "en": "encompass the realm of",
+     "az": "... sahəsini (aləmini) əhatə etmək",
+     "usage": "realm = an area of activity, interest or knowledge",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The course encompasses a wide spectrum of subjects.",
+     "az": "Kurs geniş fənn spektrini əhatə edir."
+    },
+    {
+     "en": "Her work encompasses many genres, from poetry to film.",
+     "az": "Onun yaradıcılığı poeziyadan kinoya qədər bir çox janrı əhatə edir."
+    },
+    {
+     "en": "The new district encompasses the suburbs to the north of the city.",
+     "az": "Yeni rayon şəhərin şimalındakı şəhərətrafı əraziləri əhatə edir."
+    },
+    {
+     "en": "The exhibition encompasses five centuries of Azerbaijani art.",
+     "az": "Sərgi Azərbaycan incəsənətinin beş əsrini əhatə edir."
+    }
+   ],
+   "usage": [
+    "ENCOMPASS means to include a large number or range of things, or to surround an area completely. It is formal; the subject is usually a study, plan, term or area. Compare INCLUDE (have as one part), COVER (deal with a subject), COMPRISE (consist of) and EMBRACE (include willingly). ALL-ENCOMPASSING means including everything: \"an all-encompassing theory\"."
+   ],
+   "new_items": [
+    "ENCOMPASS",
+    "all-encompassing",
+    "spectrum",
+    "multitude",
+    "array",
+    "continent",
+    "suburb",
+    "century",
+    "genre",
+    "realm"
+   ]
+  },
+  {
+   "id": "C1-052",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "EXPLICIT",
+   "pos": "adjective",
+   "ipa_british": "ɪkˈsplɪsɪt",
+   "azerbaijani": "açıq-aydın, birbaşa ifadə olunmuş; açıq-saçıq",
+   "key_forms": "",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [
+     {
+      "form": "implicit",
+      "az": "üstüörtülü, nəzərdə tutulan"
+     }
+    ],
+    "adv": [
+     {
+      "form": "explicitly",
+      "az": "açıq şəkildə"
+     },
+     {
+      "form": "implicitly",
+      "az": "üstüörtülü şəkildə, həmçinin şərtsiz"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "explicit consent",
+     "az": "açıq şəkildə verilmiş razılıq",
+     "usage": "consent = permission to do something",
+     "related_only": false
+    },
+    {
+     "en": "an explicit reference",
+     "az": "birbaşa istinad (xatırlatma)",
+     "usage": "reference = a mention of something",
+     "related_only": false
+    },
+    {
+     "en": "sexually explicit",
+     "az": "açıq-saçıq (cinsi məzmunlu)",
+     "usage": "sexually = in a way connected with sex",
+     "related_only": false
+    },
+    {
+     "en": "explicit content",
+     "az": "açıq-saçıq məzmun",
+     "usage": "content = the material contained in a film, book or website",
+     "related_only": false
+    },
+    {
+     "en": "explicit approval",
+     "az": "açıq şəkildə bildirilmiş razılıq (təsdiq)",
+     "usage": "approval = official agreement",
+     "related_only": false
+    },
+    {
+     "en": "explicitly mention",
+     "az": "açıq şəkildə qeyd etmək",
+     "usage": "mention = refer to something briefly",
+     "related_only": false
+    },
+    {
+     "en": "explicitly prohibit",
+     "az": "açıq şəkildə qadağan etmək",
+     "usage": "prohibit = forbid by law or rule",
+     "related_only": false
+    },
+    {
+     "en": "implicit in",
+     "az": "nədəsə üstüörtülü şəkildə mövcud olan",
+     "usage": "The preposition is IN",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Data may not be shared without the user's explicit consent.",
+     "az": "İstifadəçinin açıq razılığı olmadan məlumatlar paylaşıla bilməz."
+    },
+    {
+     "en": "The contract explicitly prohibits working for a rival company.",
+     "az": "Müqavilə rəqib şirkətdə işləməyi açıq şəkildə qadağan edir."
+    },
+    {
+     "en": "The report makes no explicit reference to the minister.",
+     "az": "Hesabatda nazirə birbaşa istinad yoxdur."
+    },
+    {
+     "en": "A criticism of the government was implicit in his speech.",
+     "az": "Onun çıxışında hökumətin tənqidi üstüörtülü şəkildə duyulurdu."
+    }
+   ],
+   "usage": [
+    "EXPLICIT means stated clearly and in detail, leaving nothing to be guessed: explicit instructions, an explicit warning. It also describes books and films that show sex or violence openly. Its opposite, IMPLICIT, means suggested without being directly expressed; \"implicit trust\" means complete, unquestioning trust. In academic writing: \"make an assumption explicit\". Compare TACIT (understood without being said) and OVERT (done openly)."
+   ],
+   "new_items": [
+    "EXPLICIT",
+    "implicit",
+    "explicitly",
+    "implicitly",
+    "consent",
+    "reference",
+    "sexually",
+    "content",
+    "approval",
+    "mention",
+    "prohibit"
+   ]
+  },
+  {
+   "id": "C1-053",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "INHIBIT",
+   "pos": "verb",
+   "ipa_british": "ɪnˈhɪbɪt",
+   "azerbaijani": "ləngitmək, mane olmaq, qarşısını almaq",
+   "key_forms": "inhibit – inhibits – inhibited – inhibited – inhibiting",
+   "word_family": {
+    "n": [
+     {
+      "form": "inhibition",
+      "az": "sıxılma, utancaqlıq, həmçinin ləngimə"
+     },
+     {
+      "form": "inhibitor",
+      "az": "ləngidici maddə"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "uninhibited",
+      "az": "sərbəst, sıxılmayan"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "inhibit sb from doing sth",
+     "az": "kiminsə nəyisə etməsinə mane olmaq",
+     "usage": "Pattern: inhibit + object + FROM + -ing",
+     "related_only": false
+    },
+    {
+     "en": "shed your inhibitions",
+     "az": "sıxılmanı bir kənara qoymaq",
+     "usage": "shed = get rid of something that is not wanted",
+     "related_only": false
+    },
+    {
+     "en": "inhibit absorption",
+     "az": "sorulmanı (mənimsənilməni) ləngitmək",
+     "usage": "absorption = the process of taking a substance in",
+     "related_only": false
+    },
+    {
+     "en": "inhibit digestion",
+     "az": "həzmi ləngitmək",
+     "usage": "digestion = the process of changing food into substances the body can use",
+     "related_only": false
+    },
+    {
+     "en": "inhibit appetite",
+     "az": "iştahanı azaltmaq",
+     "usage": "appetite = the desire for food",
+     "related_only": false
+    },
+    {
+     "en": "inhibit corrosion",
+     "az": "korroziyanın qarşısını almaq",
+     "usage": "corrosion = the gradual destruction of metal by chemical action",
+     "related_only": false
+    },
+    {
+     "en": "inhibit the release of",
+     "az": "nəyinsə ifraz olunmasını (buraxılmasını) ləngitmək",
+     "usage": "release = the act of letting something out",
+     "related_only": false
+    },
+    {
+     "en": "inhibit dissent",
+     "az": "fərqli fikirlərin ifadəsinə mane olmaq",
+     "usage": "dissent = disagreement with official opinions",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Fear of failure can inhibit people from trying new things.",
+     "az": "Uğursuzluq qorxusu insanların yeni şeyləri sınamasına mane ola bilər."
+    },
+    {
+     "en": "Tea can inhibit the absorption of iron.",
+     "az": "Çay dəmirin mənimsənilməsini ləngidə bilər."
+    },
+    {
+     "en": "After a few minutes the children shed their inhibitions and began to sing.",
+     "az": "Bir neçə dəqiqədən sonra uşaqlar sıxılmanı bir kənara qoyub oxumağa başladılar."
+    },
+    {
+     "en": "A special coating inhibits corrosion.",
+     "az": "Xüsusi örtük korroziyanın qarşısını alır."
+    }
+   ],
+   "usage": [
+    "INHIBIT means to prevent something from happening or developing normally, or to make somebody too nervous to act freely. It is common in science (inhibit growth, inhibit an enzyme) and in psychology. INHIBITIONS are feelings of embarrassment that stop you from behaving naturally: \"lose / shed your inhibitions\". Compare HINDER (make difficult), IMPEDE (delay progress) and PROHIBIT (forbid by rule) – \"inhibit\" never means \"forbid\"."
+   ],
+   "new_items": [
+    "INHIBIT",
+    "inhibition",
+    "inhibitor",
+    "uninhibited",
+    "shed",
+    "absorption",
+    "digestion",
+    "appetite",
+    "corrosion",
+    "release",
+    "dissent"
+   ]
+  },
+  {
+   "id": "C1-054",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "OBSOLETE",
+   "pos": "adjective",
+   "ipa_british": "ˈɒbsəliːt",
+   "azerbaijani": "köhnəlmiş, istifadədən çıxmış",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "obsolescence",
+      "az": "köhnəlmə, istifadədən çıxma"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "obsolete machinery",
+     "az": "köhnəlmiş avadanlıq (dəzgahlar)",
+     "usage": "machinery = machines as a group",
+     "related_only": false
+    },
+    {
+     "en": "built-in obsolescence",
+     "az": "qəsdən nəzərdə tutulmuş köhnəlmə",
+     "usage": "built-in = included as part of the design",
+     "related_only": false
+    },
+    {
+     "en": "an obsolete factory",
+     "az": "köhnəlmiş zavod",
+     "usage": "factory = a building where goods are made",
+     "related_only": false
+    },
+    {
+     "en": "an obsolete format",
+     "az": "istifadədən çıxmış format",
+     "usage": "format = the way data is arranged or stored",
+     "related_only": false
+    },
+    {
+     "en": "obsolete hardware",
+     "az": "köhnəlmiş aparat təminatı",
+     "usage": "hardware = the machinery and electronic parts of a computer",
+     "related_only": false
+    },
+    {
+     "en": "an obsolete typewriter",
+     "az": "köhnəlmiş yazı makinası",
+     "usage": "typewriter = a machine with keys for printing letters on paper",
+     "related_only": false
+    },
+    {
+     "en": "an obsolete appliance",
+     "az": "köhnəlmiş məişət cihazı",
+     "usage": "appliance = a machine for a particular task in the home",
+     "related_only": false
+    },
+    {
+     "en": "on the verge of obsolescence",
+     "az": "köhnəlib sıradan çıxmaq ərəfəsində",
+     "usage": "on the verge of = very near to the moment when something happens",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The factory closed because its machinery was obsolete.",
+     "az": "Zavod avadanlığı köhnəldiyi üçün bağlandı."
+    },
+    {
+     "en": "New technology has made many skills obsolete.",
+     "az": "Yeni texnologiya bir çox bacarığı lazımsız edib."
+    },
+    {
+     "en": "Critics accuse phone makers of built-in obsolescence.",
+     "az": "Tənqidçilər telefon istehsalçılarını məhsulların qəsdən tez köhnəldilməsində ittiham edirlər."
+    },
+    {
+     "en": "Cash is on the verge of obsolescence in some countries.",
+     "az": "Bəzi ölkələrdə nağd pul istifadədən çıxmaq ərəfəsindədir."
+    }
+   ],
+   "usage": [
+    "OBSOLETE means no longer used because something newer and better exists. The usual verbs are BECOME obsolete and MAKE or RENDER something obsolete. OUTDATED and OLD-FASHIONED describe things that are still in use but no longer modern; OBSOLETE is stronger. PLANNED (or BUILT-IN) OBSOLESCENCE is the practice of designing products so that they must soon be replaced – a frequent topic in essays on consumerism."
+   ],
+   "new_items": [
+    "OBSOLETE",
+    "obsolescence",
+    "machinery",
+    "built-in",
+    "factory",
+    "format",
+    "hardware",
+    "typewriter",
+    "appliance",
+    "verge"
+   ]
+  },
+  {
+   "id": "C1-055",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "OUTWEIGH",
+   "pos": "verb",
+   "ipa_british": "ˌaʊtˈweɪ",
+   "azerbaijani": "üstələmək, daha əhəmiyyətli olmaq",
+   "key_forms": "outweigh – outweighs – outweighed – outweighed – outweighing",
+   "word_family": {
+    "n": [],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "outweigh the disadvantages",
+     "az": "mənfi cəhətləri üstələmək",
+     "usage": "disadvantage = something that causes problems",
+     "related_only": false
+    },
+    {
+     "en": "outweigh the drawbacks",
+     "az": "çatışmazlıqları üstələmək",
+     "usage": "drawback = a disadvantage that makes something less attractive",
+     "related_only": false
+    },
+    {
+     "en": "outweigh the downsides",
+     "az": "mənfi tərəfləri üstələmək",
+     "usage": "downside = the negative part of a situation",
+     "related_only": false
+    },
+    {
+     "en": "the pros outweigh the cons",
+     "az": "müsbət cəhətlər mənfiləri üstələyir",
+     "usage": "pros and cons = the arguments for and against",
+     "related_only": false
+    },
+    {
+     "en": "outweigh the inconvenience",
+     "az": "narahatlığı (əziyyəti) üstələmək",
+     "usage": "inconvenience = trouble or difficulty",
+     "related_only": false
+    },
+    {
+     "en": "outweigh the expense",
+     "az": "xərci üstələmək",
+     "usage": "expense = the money that you spend on something",
+     "related_only": false
+    },
+    {
+     "en": "be outweighed by",
+     "az": "nə iləsə üstələnmək",
+     "usage": "The passive pattern",
+     "related_only": false
+    },
+    {
+     "en": "vastly outweigh",
+     "az": "qat-qat üstələmək",
+     "usage": "vastly = very much",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The advantages of the scheme far outweigh the disadvantages.",
+     "az": "Layihənin üstünlükləri mənfi cəhətlərini qat-qat üstələyir."
+    },
+    {
+     "en": "In my view, the pros outweigh the cons.",
+     "az": "Mənim fikrimcə, müsbət cəhətlər mənfiləri üstələyir."
+    },
+    {
+     "en": "Any savings are outweighed by the cost of transport.",
+     "az": "İstənilən qənaət nəqliyyat xərci ilə üstələnir."
+    },
+    {
+     "en": "The benefits of exercise vastly outweigh the risks.",
+     "az": "İdmanın faydaları risklərini qat-qat üstələyir."
+    }
+   ],
+   "usage": [
+    "OUTWEIGH means to be greater or more important than something else. It is the key verb in one of the standard IELTS Task 2 questions: \"Do the advantages outweigh the disadvantages?\" It takes a direct object, with no preposition. Typical adverbs: far, greatly, vastly, clearly. Useful variations: \"the benefits outweigh the costs\", \"the drawbacks are outweighed by the gains\"."
+   ],
+   "new_items": [
+    "OUTWEIGH",
+    "disadvantage",
+    "drawback",
+    "downside",
+    "pro",
+    "con",
+    "inconvenience",
+    "expense",
+    "vastly"
+   ]
+  },
+  {
+   "id": "C1-056",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "PERCEIVE",
+   "pos": "verb",
+   "ipa_british": "pəˈsiːv",
+   "azerbaijani": "qavramaq, dərk etmək; hesab etmək, ... kimi görmək",
+   "key_forms": "perceive – perceives – perceived – perceived – perceiving",
+   "word_family": {
+    "n": [
+     {
+      "form": "perception",
+      "az": "qavrayış, təsəvvür"
+     },
+     {
+      "form": "self-perception",
+      "az": "özünüqavrama"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "perceptive",
+      "az": "fərasətli, incə müşahidəli"
+     },
+     {
+      "form": "perceptible",
+      "az": "sezilən"
+     },
+     {
+      "form": "perceived",
+      "az": "təsəvvür edilən, güman edilən"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "be perceived as",
+     "az": "... kimi qəbul edilmək",
+     "usage": "Passive pattern + AS",
+     "related_only": false
+    },
+    {
+     "en": "depth perception",
+     "az": "dərinliyin qavranılması",
+     "usage": "depth = the distance from the front to the back, or from top to bottom",
+     "related_only": false
+    },
+    {
+     "en": "sensory perception",
+     "az": "hissi qavrayış",
+     "usage": "sensory = connected with the physical senses",
+     "related_only": false
+    },
+    {
+     "en": "a distorted perception",
+     "az": "təhrif olunmuş təsəvvür",
+     "usage": "distorted = changed so that it is no longer true or accurate",
+     "related_only": false
+    },
+    {
+     "en": "a perceived insult",
+     "az": "təhqir kimi qəbul edilən söz (hərəkət)",
+     "usage": "insult = a remark or action that offends somebody",
+     "related_only": false
+    },
+    {
+     "en": "a perceived snub",
+     "az": "saymazlıq kimi qəbul edilən hərəkət",
+     "usage": "snub = an action that ignores somebody deliberately",
+     "related_only": false
+    },
+    {
+     "en": "perceive intuitively",
+     "az": "intuitiv olaraq dərk etmək",
+     "usage": "intuitively = by feeling rather than by reasoning",
+     "related_only": false
+    },
+    {
+     "en": "a perceptible pause",
+     "az": "sezilən fasilə",
+     "usage": "pause = a short period of silence or inactivity",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The new tax is widely perceived as unfair.",
+     "az": "Yeni vergi çoxları tərəfindən ədalətsiz hesab olunur."
+    },
+    {
+     "en": "Social media can give teenagers a distorted perception of reality.",
+     "az": "Sosial media yeniyetmələrdə reallıq haqqında təhrif olunmuş təsəvvür yarada bilər."
+    },
+    {
+     "en": "There was a perceptible pause before she answered.",
+     "az": "O, cavab verməzdən əvvəl sezilən fasilə oldu."
+    },
+    {
+     "en": "She made some very perceptive comments about the film.",
+     "az": "O, film haqqında çox fərasətli fikirlər söylədi."
+    }
+   ],
+   "usage": [
+    "PERCEIVE has two meanings: to notice or become aware of something (\"perceive a change\"), and to understand or think of something in a particular way (\"be perceived AS a threat\"). PERCEIVED before a noun means \"believed to exist, whether or not it really does\": a perceived threat, a perceived lack of support. PERCEPTION is how something is seen or understood: public perception. Spelling: \"i before e except after c\" – perCEIve."
+   ],
+   "new_items": [
+    "PERCEIVE",
+    "perception",
+    "self-perception",
+    "perceptive",
+    "perceptible",
+    "perceived",
+    "depth",
+    "sensory",
+    "distorted",
+    "insult",
+    "snub",
+    "intuitively",
+    "pause"
+   ]
+  },
+  {
+   "id": "C1-057",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "PERPETUATE",
+   "pos": "verb",
+   "ipa_british": "pəˈpetʃueɪt",
+   "azerbaijani": "(pis halı) davam etdirmək, əbədiləşdirmək",
+   "key_forms": "perpetuate – perpetuates – perpetuated – perpetuated – perpetuating",
+   "word_family": {
+    "n": [
+     {
+      "form": "perpetuation",
+      "az": "davam etdirilmə, əbədiləşdirmə"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "perpetual",
+      "az": "daimi, ardı-arası kəsilməyən"
+     }
+    ],
+    "adv": [
+     {
+      "form": "perpetually",
+      "az": "daim, ara vermədən"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "perpetuate injustice",
+     "az": "ədalətsizliyi davam etdirmək",
+     "usage": "injustice = a situation that is not fair",
+     "related_only": false
+    },
+    {
+     "en": "perpetuate a fiction",
+     "az": "uydurmanı yaşatmaq",
+     "usage": "fiction = something that is not true",
+     "related_only": false
+    },
+    {
+     "en": "perpetuate oppression",
+     "az": "zülmü davam etdirmək",
+     "usage": "oppression = cruel and unfair treatment of a group of people",
+     "related_only": false
+    },
+    {
+     "en": "perpetuate ignorance",
+     "az": "cəhaləti davam etdirmək",
+     "usage": "ignorance = lack of knowledge",
+     "related_only": false
+    },
+    {
+     "en": "perpetuate a feud",
+     "az": "ədavəti davam etdirmək",
+     "usage": "feud = an angry argument between two groups that lasts for years",
+     "related_only": false
+    },
+    {
+     "en": "perpetuate segregation",
+     "az": "ayrı-seçkilik əsasında bölgünü yaşatmaq",
+     "usage": "segregation = the policy of separating groups of people",
+     "related_only": false
+    },
+    {
+     "en": "perpetuate the illusion",
+     "az": "illüziyanı yaşatmaq",
+     "usage": "illusion = a false idea or belief",
+     "related_only": false
+    },
+    {
+     "en": "perpetual twilight",
+     "az": "daimi alaqaranlıq",
+     "usage": "twilight = the faint light after sunset",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Such films perpetuate harmful stereotypes about women.",
+     "az": "Belə filmlər qadınlar haqqında zərərli stereotipləri yaşadır."
+    },
+    {
+     "en": "The current system perpetuates injustice.",
+     "az": "Mövcud sistem ədalətsizliyi davam etdirir."
+    },
+    {
+     "en": "Advertising perpetuates the illusion that money brings happiness.",
+     "az": "Reklam pulun xoşbəxtlik gətirdiyi illüziyasını yaşadır."
+    },
+    {
+     "en": "They lived in perpetual fear of being discovered.",
+     "az": "Onlar aşkar edilmək qorxusu ilə daimi təşviş içində yaşayırdılar."
+    }
+   ],
+   "usage": [
+    "PERPETUATE means to make a bad situation, belief or system continue for a long time: perpetuate a myth, a stereotype, inequality, the cycle of poverty. The object is nearly always negative. PERPETUAL describes something that continues without stopping or is repeated very often: perpetual noise. Do not confuse PERPETUATE with PERPETRATE (commit a crime: \"perpetrate a fraud\")."
+   ],
+   "new_items": [
+    "PERPETUATE",
+    "perpetuation",
+    "perpetual",
+    "perpetually",
+    "injustice",
+    "fiction",
+    "oppression",
+    "ignorance",
+    "feud",
+    "segregation",
+    "illusion",
+    "twilight"
+   ]
+  },
+  {
+   "id": "C1-058",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "REINFORCE",
+   "pos": "verb",
+   "ipa_british": "ˌriːɪnˈfɔːs",
+   "azerbaijani": "möhkəmləndirmək, gücləndirmək",
+   "key_forms": "reinforce – reinforces – reinforced – reinforced – reinforcing",
+   "word_family": {
+    "n": [
+     {
+      "form": "reinforcement",
+      "az": "möhkəmləndirmə, həmçinin (cəmdə) əlavə qüvvələr"
+     }
+    ],
+    "v": [],
+    "adj": [
+     {
+      "form": "reinforced",
+      "az": "möhkəmləndirilmiş"
+     }
+    ],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "reinforced concrete",
+     "az": "dəmir-beton",
+     "usage": "concrete = a building material made from cement, sand and water",
+     "related_only": false
+    },
+    {
+     "en": "reinforce a wall",
+     "az": "divarı möhkəmləndirmək",
+     "usage": "wall = a vertical structure of brick or stone",
+     "related_only": false
+    },
+    {
+     "en": "reinforce the impression",
+     "az": "təəssüratı gücləndirmək",
+     "usage": "impression = an idea or feeling about what something is like",
+     "related_only": false
+    },
+    {
+     "en": "reinforce the fence",
+     "az": "hasarı möhkəmləndirmək",
+     "usage": "fence = a structure of wood or wire around a piece of land",
+     "related_only": false
+    },
+    {
+     "en": "reinforce a conviction",
+     "az": "əminliyi möhkəmləndirmək",
+     "usage": "conviction = a strong belief",
+     "related_only": false
+    },
+    {
+     "en": "reinforce the border",
+     "az": "sərhədi möhkəmləndirmək",
+     "usage": "border = the line that divides two countries",
+     "related_only": false
+    },
+    {
+     "en": "reinforce a dam",
+     "az": "bəndi möhkəmləndirmək",
+     "usage": "dam = a wall built across a river to hold back water",
+     "related_only": false
+    },
+    {
+     "en": "reinforce the roof",
+     "az": "damı möhkəmləndirmək",
+     "usage": "roof = the structure that covers the top of a building",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The bridge is built of reinforced concrete.",
+     "az": "Körpü dəmir-betondan tikilib."
+    },
+    {
+     "en": "The film reinforces the impression that crime is increasing.",
+     "az": "Film cinayətkarlığın artdığı təəssüratını gücləndirir."
+    },
+    {
+     "en": "Engineers are working to reinforce the dam.",
+     "az": "Mühəndislər bəndi möhkəmləndirmək üçün çalışırlar."
+    },
+    {
+     "en": "The experience reinforced my conviction that I had chosen the right career.",
+     "az": "Bu təcrübə düzgün peşə seçdiyimə əminliyimi möhkəmləndirdi."
+    }
+   ],
+   "usage": [
+    "REINFORCE means to make a structure stronger, or to make a feeling, idea or habit stronger: reinforce a belief, reinforce a stereotype, reinforce a message. In psychology, POSITIVE REINFORCEMENT is encouraging behaviour by rewarding it. REINFORCEMENTS (plural) are extra soldiers or police sent to help. Compare STRENGTHEN (general), BOLSTER (support and make stronger) and CONSOLIDATE (make a position more secure)."
+   ],
+   "new_items": [
+    "REINFORCE",
+    "reinforcement",
+    "reinforced",
+    "concrete",
+    "wall",
+    "impression",
+    "fence",
+    "conviction",
+    "border",
+    "dam",
+    "roof"
+   ]
+  },
+  {
+   "id": "C1-059",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "SUSCEPTIBLE",
+   "pos": "adjective",
+   "ipa_british": "səˈseptəbəl",
+   "azerbaijani": "meyilli, həssas, asan təsirə düşən",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "susceptibility",
+      "az": "meyillilik, həssaslıq"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": []
+   },
+   "expressions": [
+    {
+     "en": "susceptible to persuasion",
+     "az": "dilə tutulmağa meyilli",
+     "usage": "persuasion = the act of making somebody agree to do something",
+     "related_only": false
+    },
+    {
+     "en": "susceptible to frost",
+     "az": "şaxtaya davamsız",
+     "usage": "frost = very cold weather when thin white ice forms",
+     "related_only": false
+    },
+    {
+     "en": "susceptible to bribery",
+     "az": "rüşvətə meyilli",
+     "usage": "bribery = giving or taking money in exchange for dishonest help",
+     "related_only": false
+    },
+    {
+     "en": "susceptible to decay",
+     "az": "çürüməyə meyilli",
+     "usage": "decay = the process of being slowly destroyed by natural causes",
+     "related_only": false
+    },
+    {
+     "en": "susceptible to depression",
+     "az": "depressiyaya meyilli",
+     "usage": "depression = a medical condition of extreme sadness",
+     "related_only": false
+    },
+    {
+     "en": "susceptible to manipulation",
+     "az": "manipulyasiyaya asan məruz qalan",
+     "usage": "manipulation = controlling people in a dishonest way",
+     "related_only": false
+    },
+    {
+     "en": "susceptible to scams",
+     "az": "fırıldaqlara asan aldanan",
+     "usage": "scam = a clever and dishonest plan for making money",
+     "related_only": false
+    },
+    {
+     "en": "genetically susceptible",
+     "az": "irsən meyilli",
+     "usage": "genetically = in a way connected with genes",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "Young plants are susceptible to frost.",
+     "az": "Cavan bitkilər şaxtaya davamsızdır."
+    },
+    {
+     "en": "Older people are more susceptible to scams.",
+     "az": "Yaşlı insanlar fırıldaqlara daha asan aldanırlar."
+    },
+    {
+     "en": "Some people are genetically susceptible to the disease.",
+     "az": "Bəzi insanlar bu xəstəliyə irsən meyillidirlər."
+    },
+    {
+     "en": "Teeth are susceptible to decay if they are not cleaned regularly.",
+     "az": "Dişlər müntəzəm təmizlənməsə, çürüməyə meyilli olur."
+    }
+   ],
+   "usage": [
+    "SUSCEPTIBLE means likely to be influenced, harmed or affected by something. It always takes TO: \"susceptible TO infection / pressure / flattery\". Compare VULNERABLE (weak and easily hurt), PRONE TO (likely to suffer from or to do something bad: prone to accidents) and LIABLE TO (likely to do something). Used alone of a person, it means easily influenced by feelings."
+   ],
+   "new_items": [
+    "SUSCEPTIBLE",
+    "susceptibility",
+    "persuasion",
+    "frost",
+    "bribery",
+    "decay",
+    "depression",
+    "manipulation",
+    "scam",
+    "genetically"
+   ]
+  },
+  {
+   "id": "C1-060",
+   "level": "C1",
+   "unit": "Evaluation, perception and structure",
+   "main_word": "TRANSPARENT",
+   "pos": "adjective",
+   "ipa_british": "trænsˈpærənt",
+   "azerbaijani": "şəffaf; açıq, aydın",
+   "key_forms": "",
+   "word_family": {
+    "n": [
+     {
+      "form": "transparency",
+      "az": "şəffaflıq"
+     }
+    ],
+    "v": [],
+    "adj": [],
+    "adv": [
+     {
+      "form": "transparently",
+      "az": "şəffaf şəkildə, açıq-aşkar"
+     }
+    ]
+   },
+   "expressions": [
+    {
+     "en": "transparent about",
+     "az": "nə barədəsə açıq (şəffaf)",
+     "usage": "The preposition is ABOUT",
+     "related_only": false
+    },
+    {
+     "en": "transparency and accountability",
+     "az": "şəffaflıq və hesabatlılıq",
+     "usage": "accountability = being responsible for your decisions and able to explain them",
+     "related_only": false
+    },
+    {
+     "en": "transparent plastic",
+     "az": "şəffaf plastik",
+     "usage": "plastic = a light, strong material produced by chemical processes",
+     "related_only": false
+    },
+    {
+     "en": "a transparent fabric",
+     "az": "şəffaf parça",
+     "usage": "fabric = cloth",
+     "related_only": false
+    },
+    {
+     "en": "a transparent liquid",
+     "az": "şəffaf maye",
+     "usage": "liquid = a substance that flows freely, such as water",
+     "related_only": false
+    },
+    {
+     "en": "transparent governance",
+     "az": "şəffaf idarəçilik",
+     "usage": "governance = the way an organisation or country is controlled",
+     "related_only": false
+    },
+    {
+     "en": "corporate transparency",
+     "az": "korporativ şəffaflıq",
+     "usage": "corporate = connected with a large company",
+     "related_only": false
+    },
+    {
+     "en": "a transparent ploy",
+     "az": "açıq-aşkar hiylə",
+     "usage": "ploy = a clever trick used to gain an advantage",
+     "related_only": false
+    }
+   ],
+   "sentences": [
+    {
+     "en": "The company should be more transparent about how it uses our data.",
+     "az": "Şirkət məlumatlarımızdan necə istifadə etdiyi barədə daha açıq olmalıdır."
+    },
+    {
+     "en": "Voters are demanding greater transparency and accountability.",
+     "az": "Seçicilər daha çox şəffaflıq və hesabatlılıq tələb edirlər."
+    },
+    {
+     "en": "The box is made of transparent plastic.",
+     "az": "Qutu şəffaf plastikdən hazırlanıb."
+    },
+    {
+     "en": "His offer of help was a transparent ploy to win votes.",
+     "az": "Onun kömək təklifi səs qazanmaq üçün açıq-aşkar hiylə idi."
+    }
+   ],
+   "usage": [
+    "TRANSPARENT literally describes material that you can see through (compare OPAQUE, which you cannot). Of organisations it means open and honest, with nothing hidden: a transparent process. Of lies and excuses it means easy to recognise as false: \"a transparent lie\". TRANSPARENCY is a key word in essays on government and business, usually paired with ACCOUNTABILITY."
+   ],
+   "new_items": [
+    "TRANSPARENT",
+    "transparency",
+    "transparently",
+    "accountability",
+    "plastic",
+    "fabric",
+    "liquid",
+    "governance",
+    "corporate",
+    "ploy"
    ]
   },
   {
