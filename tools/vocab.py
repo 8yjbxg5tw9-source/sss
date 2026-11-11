@@ -149,8 +149,12 @@ def candidates(low):
                     c.add(b[:-1])
         if n > 4 and t.endswith('ing'):
             b = t[:-3]
-            if len(b) >= 2:
+            # a two-letter stem takes "+e" only where real verbs do (using -> use, icing -> ice,
+            # owing -> owe, dying -> dye); this keeps bring / thing / cling from yielding "bre" / "the" / "cle"
+            if len(b) >= 3 or (len(b) == 2 and (b[0] in 'aeiou' or b[1] == 'y')):
                 c.add(b + 'e')
+            if len(b) == 2 and b[1] == 'y':
+                c.add(b[0] + 'ie')          # dying -> die, lying -> lie, tying -> tie
             if len(b) >= 3:
                 c.add(b)
                 if b[-1] == b[-2]:
@@ -962,6 +966,14 @@ def qa_report(db, refs):
         out.append('== IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==')
         cnt = {'Britfone': [0, 0, 0], 'fallback': [0, 0, 0]}
         miss = 0
+        reviewed = {}
+        rp = os.path.join(SRC, 'ipa_reviewed.txt')
+        if os.path.exists(rp):
+            for n, line in read_lines(rp):
+                w, _, why = line.partition('|')
+                if w.strip():
+                    reviewed[w.strip().lower()] = why.strip()
+        nrev = 0
         for L in db.lessons:
             w = L.head.lower()
             if ' ' in w:
@@ -987,6 +999,10 @@ def qa_report(db, refs):
                 cnt[src][1] += 1
                 out.append('  variant %s %-14s here /%s/   %s: %s' % (L.uid, L.head, L.ipa, src,
                                                                      ' | '.join(sorted(theirs))))
+            elif src == 'fallback' and w in reviewed:
+                nrev += 1
+                out.append('  reviewed %s %-14s here /%s/   fallback: %s   (%s)'
+                           % (L.uid, L.head, L.ipa, ' | '.join(sorted(theirs)), reviewed[w]))
             else:
                 cnt[src][2] += 1
                 out.append('  DIFFER  %s %-14s here /%s/   %s: %s%s' % (L.uid, L.head, L.ipa, src,
@@ -998,8 +1014,11 @@ def qa_report(db, refs):
         out.append('  to re-check the word in a printed dictionary, not proof of an error.')
         out.append('  summary: IPA vs Britfone 3.0.1: agree=%d, notation variants=%d, differ=%d'
                    % tuple(cnt['Britfone']))
+        out.append('  "reviewed" = differs from the fallback list, re-checked by the author and kept; the reason is given')
+        out.append('  in source/ipa_reviewed.txt (an author\'s judgement, not a machine verification).')
         out.append('  summary: IPA vs fallback list (words missing from Britfone): agree=%d, notation variants=%d, '
-                   'differ=%d; in neither list=%d' % (tuple(cnt['fallback']) + (miss,)))
+                   'differ=%d, differ but reviewed by the author=%d; in neither list=%d'
+                   % (tuple(cnt['fallback']) + (nrev, miss)))
     return out
 
 

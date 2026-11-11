@@ -1,0 +1,18 @@
+// Main words whose IPA differs from the FALLBACK pronunciation list (ipa-dict en_UK) and was then re-checked
+// by the author.  For rarer words the fallback list shows rule-based artefacts: full vowels in unstressed
+// prefixes (en-, ex-, e-), "er" read as a long vowel, primary stress moved to the first syllable.
+// The transcription kept in the lesson is the one the author knows from the major British learner's
+// dictionaries (Cambridge, Oxford, Longman).  It could NOT be looked up online from the build environment,
+// so each line below is an author's judgement, not a machine verification.
+// Format:  WORD | what differs in the fallback list
+RESILIENT | fallback has /s/; British dictionaries give /z/: rɪˈzɪliənt
+EXACERBATE | fallback starts with a full /e/; the prefix is weak: ɪɡ-
+PERNICIOUS | fallback has a long vowel in the unstressed first syllable; it is a schwa: pə-
+CIRCUMVENT | fallback puts the main stress on the first syllable; it falls on the last: ˌsɜːkəmˈvent
+EPITOMISE | fallback starts with a full /e/; the first syllable is weak: ɪ-
+JUXTAPOSE | fallback puts the main stress on the first syllable; it falls on the last: ˌdʒʌkstəˈpəʊz
+METICULOUS | fallback has a full /e/ in the unstressed first syllable; it is a schwa: mə-
+TANTAMOUNT | fallback has a long /ɑː/ in the first syllable; it is /æ/: ˈtæntəmaʊnt
+IMPETUS | fallback has a full /e/ in the unstressed second syllable; it is weak: ˈɪmpɪtəs
+ENTRENCHED | fallback starts with a full /e/; the prefix is weak: ɪn-
+REPERCUSSION | fallback has a short first syllable and no secondary stress; it is ˌriːpəˈkʌʃən

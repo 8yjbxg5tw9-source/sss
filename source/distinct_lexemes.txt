@@ -6,3 +6,4 @@ left | leave  # "left" = sol tərəf (direction); a different word from "left", 
 train | training  # "training" = təlim, peşə hazırlığı; "train" in A1 is the vehicle (qatar)
 right | rights  # "rights" = hüquqlar (plural noun); "right" in A2 is the direction / "correct"
 good | goods  # "goods" = mallar, a plural-only noun; not a form of the adjective "good"
+wind | wound  # "wound" = yara (noun); not "wound", the past form of the verb "wind", nor the noun "wind" (külək)
