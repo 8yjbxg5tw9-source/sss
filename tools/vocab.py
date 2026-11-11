@@ -1575,8 +1575,11 @@ def sync_ref_levels(db, refs):
             lv = refs['cefr'].get(L.head.lower())
             cache[L.head.lower()] = LEVELS[lv] if lv is not None else '-'
         with open(path, 'w', encoding='utf-8') as f:
-            f.write('# main word <TAB> level in the open reference lists (CEFR-J Wordlist 1.5 for A1-B2, '
-                    'Octanove C1/C2 1.0); "-" = not listed.  Written by tools/vocab.py build.\n')
+            f.write('# main word <TAB> level in the open reference lists; "-" = not listed.  Written by tools/vocab.py build.\n')
+            f.write('# A1-B2: The CEFR-J Wordlist Version 1.5, compiled by Yukio Tono, Tokyo University of Foreign Studies '
+                    '(http://www.cefr-j.org/download.html).\n')
+            f.write('# C1-C2: Octanove Vocabulary Profile C1/C2 ver 1.0, Octanove Labs, CC BY-SA 4.0 - these entries are '
+                    'shared under the same licence.\n')
             for w in sorted(cache):
                 f.write('%s\t%s\n' % (w, cache[w]))
     return cache
