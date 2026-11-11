@@ -1,0 +1,62 @@
+## Time, weather and places | Vaxt, hava və məkanlar
+@ TIME | noun | taɪm | vaxt, zaman; dəfə
+- what time = saat neçə, saat neçədə :: What time is it? = Saat neçədir?
+- on time = vaxtında, düz vaxtında :: Təyin olunmuş vaxtda, gecikmədən
+- free time = asudə vaxt, boş vaxt :: free = sərbəst, boş; həmçinin: pulsuz
+- next time = gələn dəfə :: Burada "time" = dəfə
+- last time = keçən dəfə; sonuncu dəfə :: last = keçən; sonuncu
+- at the same time = eyni vaxtda :: "same" həmişə "the" ilə işlənir
+- all the time = həmişə, daim :: Danışıqda çox işlənir
+- have time for = nəyəsə vaxtı olmaq :: have time for + isim; have time to + fel
+> What time does the lesson start? = Dərs saat neçədə başlayır?
+> The train arrived on time. = Qatar vaxtında gəldi.
+> What do you do in your free time? = Asudə vaxtında nə edirsən?
+> I don't have time for breakfast in the morning. = Səhərlər səhər yeməyinə vaxtım olmur.
+! TIME "vaxt" mənasında sayılmayan isimdir (I don't have much time), "dəfə" mənasında isə sayılandır (three times – üç dəfə). Saatı soruşmaq üçün "What time is it?" deyilir. ON TIME dəqiq təyin olunmuş vaxtda, IN TIME isə gecikmədən, vaxt bitməmiş deməkdir. Azərbaycanca "saat" sözü ingiliscə üç cür verilir: hour (60 dəqiqə), o'clock (saat neçədir) və clock / watch (cihaz).
+
+@ DAY | noun | deɪ | gün
+adj: daily = gündəlik, hər günkü
+- every day = hər gün :: İki ayrı söz; bitişik yazılan "everyday" sifətdir: adi, gündəlik
+- all day = bütün günü :: all day long = səhərdən axşama kimi
+- a busy day = gərgin, işli gün :: busy = məşğul
+- a day off = istirahət günü, işdən azad gün :: take a day off = bir günlük icazə götürmək
+- have a nice day = gününüz xoş keçsin :: Sağollaşarkən deyilən xoş arzu
+- the day after tomorrow = birisi gün :: tomorrow = sabah
+- the day before yesterday = srağagün :: yesterday = dünən
+- one day = bir gün (keçmişdə və ya gələcəkdə) :: Hekayədə və arzu bildirərkən
+> I get up at seven every day. = Mən hər gün saat yeddidə dururam.
+> It was a busy day at work. = İşdə gərgin bir gün idi.
+> Tomorrow is my day off. = Sabah mənim istirahət günümdür.
+> We are leaving the day after tomorrow. = Biz birisi gün yola düşürük.
+! DAY sayılan isimdir. EVERY DAY (iki söz) "hər gün" deməkdir və zərf kimi işlənir; EVERYDAY (bir söz) isə sifətdir – "adi, gündəlik": everyday life. Həftənin günləri ilə "on" işlənir: on Monday. "The day after tomorrow" və "the day before yesterday" Azərbaycan dilindəki "birisi gün" və "srağagün" sözlərinin qarşılığıdır. DAILY həm sifət, həm də zərfdir: a daily newspaper.
+
+@ WEATHER | noun | ˈweðə | hava (hava şəraiti)
+- bad weather = pis hava :: bad = pis; əksi: good
+- warm weather = isti (mülayim) hava :: warm = ilıq, xoş isti
+- wet weather = yağışlı, rütubətli hava :: wet = yaş, islaq
+- sunny weather = günəşli hava :: sun (günəş) → sunny
+- the weather forecast = hava proqnozu :: forecast = proqnoz
+- what's the weather like = hava necədir :: Burada "like" = necə; "xoşlamaq" mənasında deyil
+~ rain and snow = yağış və qar :: Həm isim, həm fel: It rains. It snows
+~ wind and clouds = külək və buludlar :: Sifətləri: windy, cloudy
+> What's the weather like in Baku today? = Bu gün Bakıda hava necədir?
+> We stayed at home because of the bad weather. = Pis havaya görə evdə qaldıq.
+> I like warm, sunny weather. = Mən isti, günəşli havanı xoşlayıram.
+> The weather forecast says it will rain tomorrow. = Hava proqnozuna görə, sabah yağış yağacaq.
+! WEATHER sayılmayan isimdir: "a weather" deyilmir və cəm forması yoxdur (What nice weather!). Hava haqqında danışarkən "it" işlənir: It is cold. It is raining. "What's the weather like?" sualında "like" xoşlamaq deyil, "necə" mənasındadır. Azərbaycan dilində "hava" həm nəfəs aldığımız havanı, həm də hava şəraitini bildirir; ingiliscə birincisi "air", ikincisi "weather"dir.
+
+@ CITY | noun | ˈsɪti | şəhər (böyük şəhər)
+forms: city – cities
+- capital city = paytaxt şəhəri :: Qısaca: the capital
+- city centre = şəhərin mərkəzi :: Britaniya yazılışı: centre
+- a modern city = müasir şəhər :: modern = müasir
+- city streets = şəhər küçələri :: in the street = küçədə
+~ museums and theatres = muzeylər və teatrlar :: Britaniya yazılışı: theatre
+~ parks and squares = parklar və meydanlar :: "square" həm də "kvadrat" deməkdir
+~ the train station = dəmiryol vağzalı, qatar stansiyası :: Britaniyada "railway station" da deyilir
+~ hotels and restaurants = mehmanxanalar və restoranlar :: Turizm mövzusunda
+> Baku is the capital city of Azerbaijan. = Bakı Azərbaycanın paytaxt şəhəridir.
+> Our hotel is in the city centre. = Mehmanxanamız şəhərin mərkəzindədir.
+> There are many museums and theatres in London. = Londonda çoxlu muzey və teatr var.
+> How can I get to the train station? = Dəmiryol vağzalına necə gedə bilərəm?
+! CITY böyük və əhəmiyyətli şəhərdir; kiçik şəhər "town" adlanır. Azərbaycan dilində hər ikisi "şəhər"dir, ingilis dilində isə fərqləndirilir. Cəm forması: cities. "In the city centre" şəhərin mərkəzində deməkdir. Yol soruşarkən "How can I get to ...?" və ya "Where is ...?" işlənir.

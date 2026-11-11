@@ -1,0 +1,2 @@
+// Pairs that share a stem but are NOT members of one word family (suppresses a false cross-reference).
+// Format:  word | word

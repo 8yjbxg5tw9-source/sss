@@ -1,0 +1,1 @@
+// Dictionary form to display for a token when the automatic rule gets it wrong.  Format:  token = lemma

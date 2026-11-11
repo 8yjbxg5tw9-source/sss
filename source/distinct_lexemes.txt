@@ -1,0 +1,4 @@
+// Look-alike pairs that the conservative duplicate checker would merge, but which are DIFFERENT words.
+// Every pair must be justified.  Format:  word | word  # reason
+new | news  # "news" (xəbərlər) is an independent uncountable noun, not a form of "new"
+glass | glasses  # "glasses" = eyewear (eynək), a plural-only noun; "glass" = drinking glass (stəkan)

@@ -1,0 +1,23 @@
+== MAIN WORD LEVEL vs open reference lists (CEFR-J A1-B2, Octanove C1-C2) ==
+  summary: same=40, one level apart=0, two or more apart=0, not in reference=0
+
+== COLLOCATES two or more levels ABOVE their lesson level ==
+  A1-013 HOUSE        housework        ref B1  "do the housework"
+  A1-016 BODY         finger           ref B1  "fingers and toes"
+  A1-019 WRITE        postcard         ref B1  "write a postcard"
+  A1-020 SPEAK        politely         ref B1  "speak politely"
+  A1-025 WATCH        series           ref B1  "watch a series"
+  A1-028 OPEN         curtain          ref B1  "open the curtains"
+  A1-032 WEATHER      forecast         ref B1  "the weather forecast"
+  count=7
+
+== COVERAGE of the reference lists by this database ==
+  A1: 495 of 1058 reference headwords (47%)
+  A2: 122 of 1221 reference headwords (10%)
+  B1: 43 of 2099 reference headwords (2%)
+  B2: 18 of 2428 reference headwords (1%)
+  C1: 1 of 921 reference headwords (0%)
+  C2: 1 of 882 reference headwords (0%)
+
+== IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
+  summary: agree=40, differ=0, not in reference=0

@@ -1,0 +1,42 @@
+====================================================================================================
+ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
+LEVEL A2 — ELEMENTARY  /  Elementar səviyyə
+====================================================================================================
+File: A2_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
+Lessons in this file: 0   |   Expressions: 0   |   Example sentences: 0
+New vocabulary items introduced at level A2: 0   |   Language of usage notes: Azerbaijani
+
+HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
+  A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
+  B. WORD FAMILY .......... Söz ailəsi: eyni kökdən yaranan isim, fel, sifət və zərf formaları
+  C. RELATED EXPRESSIONS .. Əlaqəli ifadələr: əsas sözlə işlənən 7–8 təbii söz birləşməsi (hər biri yeni söz öyrədir)
+  D. EXAMPLE SENTENCES .... Nümunə cümlələr: ifadələrin cümlədə işlənməsi və Azərbaycanca tərcüməsi
+  E. USAGE EXPLANATION .... İşlənmə izahı: oxşar ifadələrin fərqi, qrammatik qəliblər, üslub
+  DATABASE UPDATE ......... Bu dərsdə bazaya əlavə olunan yeni sözlər və təkrar yoxlamasının nəticəsi
+
+  sb = somebody (kimsə)      sth = something (nəsə)      one's = my / your / his / her ... (öz)
+  An expression marked [related] belongs to the same topic but does not contain the main word itself.
+  [related] işarəli ifadə eyni mövzuya aiddir, lakin əsas sözün özünü ehtiva etmir.
+
+THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
+  Every English word is taught exactly ONCE in the whole A1–C2 system: as a main word, as a word-family
+  form, or as the new word inside one expression. Only grammar words (a, the, of, to, be, have, do ...)
+  listed in A1 "Section 0" may recur inside expressions. Example sentences may recycle known words.
+  Hər bir ingilis sözü bütün sistemdə (A1–C2) yalnız BİR dəfə öyrədilir. Yalnız A1 faylının
+  "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
+
+CONTENTS OF THIS FILE
+
+====================================================================================================
+UPDATED VOCABULARY INDEX — END OF LEVEL A2
+====================================================================================================
+   Main words covered at A2 (0):
+      —
+
+   All vocabulary introduced at A2, A–Z (0 items; the number is the lesson):
+      —
+
+   Cumulative database size after A2: 416 individual vocabulary items (+ 245 structural words).
+   Global duplicate check for this level: PASSED (0 repeated items).
+
+END OF LEVEL A2
