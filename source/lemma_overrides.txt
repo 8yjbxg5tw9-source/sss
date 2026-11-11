@@ -1,2 +1,3 @@
 // Dictionary form to display for a token when the automatic rule gets it wrong.  Format:  token = lemma
 rights = rights  # plural noun "rights" (hüquqlar) is kept as its own item; see distinct_lexemes.txt
+younger = young

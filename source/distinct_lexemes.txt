@@ -5,3 +5,4 @@ glass | glasses  # "glasses" = eyewear (eynək), a plural-only noun; "glass" = d
 left | leave  # "left" = sol tərəf (direction); a different word from "left", the past form of LEAVE
 train | training  # "training" = təlim, peşə hazırlığı; "train" in A1 is the vehicle (qatar)
 right | rights  # "rights" = hüquqlar (plural noun); "right" in A2 is the direction / "correct"
+good | goods  # "goods" = mallar, a plural-only noun; not a form of the adjective "good"

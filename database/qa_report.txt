@@ -71,7 +71,41 @@
   REVIEW B1-039 RUN            here B1, reference A1
   REVIEW B1-040 MIND           here B1, reference A1
   near  B1-041 DEAL           here B1, reference A2
-  summary: same=49, one level apart=64, two or more apart=8, not in reference=0
+  near  B2-001 ANALYSE        here B2, reference B1
+  near  B2-003 ASSUME         here B2, reference B1
+  REVIEW B2-004 EVIDENCE       here B2, reference A2
+  REVIEW B2-005 CONSEQUENCE    here B2, reference A2
+  REVIEW B2-006 IMPACT         here B2, reference A2
+  REVIEW B2-007 ISSUE          here B2, reference A2
+  near  B2-008 TREND          here B2, reference B1
+  near  B2-009 APPROACH       here B2, reference B1
+  REVIEW B2-010 RESEARCH       here B2, reference A2
+  REVIEW B2-011 SIGNIFICANT    here B2, reference A2
+  near  B2-013 INVEST         here B2, reference B1
+  near  B2-014 COMPETE        here B2, reference B1
+  near  B2-015 CONSUME        here B2, reference B1
+  near  B2-016 DEMAND         here B2, reference B1
+  near  B2-018 ECONOMY        here B2, reference B1
+  near  B2-019 RESOURCE       here B2, reference B1
+  near  B2-020 POLICY         here B2, reference B1
+  near  B2-021 CONTROVERSIAL  here B2, reference B1
+  near  B2-024 INNOVATE       here B2, reference C1
+  near  B2-025 CLIMATE        here B2, reference B1
+  near  B2-026 MOTIVATE       here B2, reference B1
+  REVIEW B2-027 ATTITUDE       here B2, reference A2
+  REVIEW B2-028 ESTABLISH      here B2, reference A2
+  near  B2-029 MAINTAIN       here B2, reference B1
+  REVIEW B2-030 REVEAL         here B2, reference A2
+  near  B2-032 GENERATE       here B2, reference B1
+  near  B2-033 PROMOTE        here B2, reference B1
+  near  B2-034 RESTRICT       here B2, reference B1
+  near  B2-035 ADAPT          here B2, reference B1
+  near  B2-036 CONTRIBUTE     here B2, reference B1
+  near  B2-037 EMERGE         here B2, reference B1
+  REVIEW B2-038 ACCOUNT        here B2, reference A2
+  near  B2-039 TERM           here B2, reference B1
+  near  B2-040 EXTENT         here B2, reference B1
+  summary: same=55, one level apart=88, two or more apart=18, not in reference=0
 
 == COLLOCATES two or more levels ABOVE their lesson level ==
   A1-013 HOUSE        housework        ref B1  "do the housework"
@@ -89,11 +123,11 @@
   count=12
 
 == COVERAGE of the reference lists by this database ==
-  A1: 700 of 1058 reference headwords (66%)
-  A2: 373 of 1221 reference headwords (31%)
-  B1: 257 of 2099 reference headwords (12%)
-  B2: 90 of 2428 reference headwords (4%)
-  C1: 7 of 921 reference headwords (1%)
+  A1: 713 of 1058 reference headwords (67%)
+  A2: 451 of 1221 reference headwords (37%)
+  B1: 421 of 2099 reference headwords (20%)
+  B2: 178 of 2428 reference headwords (7%)
+  C1: 20 of 921 reference headwords (2%)
   C2: 1 of 882 reference headwords (0%)
 
 == IPA cross-check of main words (Britfone; fallback ipa-dict en_UK) ==
@@ -103,5 +137,8 @@
   variant B1-032 OPPORTUNITY    here /ˌɒpəˈtjuːnəti/   reference: ˌɒpətjˈuːnɪti
   variant B1-035 RESPONSIBLE    here /rɪˈspɒnsəbəl/   reference: ɹɪspˈɒnsɪbəl
   variant B1-037 SERIOUS        here /ˈsɪəriəs/   reference: sˈɪəɹɪəs
+  variant B2-020 POLICY         here /ˈpɒləsi/   reference: pˈɒlɪsi
+  variant B2-025 CLIMATE        here /ˈklaɪmət/   reference: klˈaɪmɪt
+  DIFFER  B2-033 PROMOTE        here /prəˈməʊt/   reference: pɹəmˈəʊt   [STRESS]
   ("variant" = same sounds and stress, different notation of a weak vowel: i/ɪ, u/ʊ, ɪ/ə, tj/tʃ, dj/dʒ)
-  summary: IPA agree=115, weak-vowel notation variants=6, differ=0, not in reference=0
+  summary: IPA agree=152, weak-vowel notation variants=8, differ=1, not in reference=0

@@ -495,6 +495,9 @@ class DB(object):
             it = self.by_form.get(c)
             if it is not None:
                 hits[id(it)] = it
+            # two different inflected forms that share a possible base (hidden / hiding -> hide)
+            for it in self.by_cand.get(c, ()):
+                hits[id(it)] = it
         real = []
         for it in hits.values():
             if it.lemma.lower() != ll:
