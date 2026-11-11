@@ -3,8 +3,8 @@ ENGLISH VOCABULARY MASTER SYSTEM — A1 TO C2   (English → Azerbaijani)
 LEVEL C1 — ADVANCED  /  Yüksək səviyyə
 ====================================================================================================
 File: C1_VOCABULARY.txt   |   Part 1 of 1   |   Generated: 2026-11-11
-Lessons in this file: 0   |   Expressions: 0   |   Example sentences: 0
-New vocabulary items introduced at level C1: 0   |   Language of usage notes: English
+Lessons in this file: 40   |   Expressions: 320   |   Example sentences: 160
+New vocabulary items introduced at level C1: 396   |   Language of usage notes: English
 
 HOW TO READ A LESSON  /  DƏRSİ NECƏ OXUMALI
   A. MAIN WORD ............ Əsas söz: yazılışı, Azərbaycanca mənası, nitq hissəsi, Britaniya tələffüzü (IPA), səviyyəsi
@@ -26,17 +26,2610 @@ THE NO-REPETITION RULE  /  TƏKRARSIZLIQ QAYDASI
   "Section 0" bölməsindəki qrammatik sözlər ifadələrin içində təkrarlana bilər.
 
 CONTENTS OF THIS FILE
+   UNIT 1 — Advanced academic vocabulary: action and description  /  Yüksək səviyyəli akademik leksika: fəaliyyət və təsvir
+      C1-001 ALLEVIATE, C1-002 ADVOCATE, C1-003 ALLOCATE, C1-004 AMBIGUOUS, C1-005 COHERENT, C1-006
+      COMPELLING, C1-007 CONSTRAINT, C1-008 DETERIORATE, C1-009 FACILITATE, C1-010 FLUCTUATE
+   UNIT 2 — Policy, evaluation and criticism  /  Siyasət, qiymətləndirmə və tənqid
+      C1-011 IMPLEMENT, C1-012 INCENTIVE, C1-013 INHERENT, C1-014 MITIGATE, C1-015 PREVALENT, C1-016
+      PROFOUND, C1-017 SCRUTINY, C1-018 UNDERMINE, C1-019 VIABLE, C1-020 CONSENSUS
+   UNIT 3 — Feasibility, resilience and inequality  /  Mümkünlük, dayanıqlılıq və bərabərsizlik
+      C1-021 FEASIBLE, C1-022 FOSTER, C1-023 HINDER, C1-024 PLAUSIBLE, C1-025 RESILIENT, C1-026
+      RIGOROUS, C1-027 STIGMA, C1-028 DISPARITY, C1-029 DETRIMENTAL, C1-030 DEPLETE
+   UNIT 4 — Power, risk and responsibility  /  Hakimiyyət, risk və məsuliyyət
+      C1-031 ENDORSE, C1-032 ERODE, C1-033 INTERVENE, C1-034 LEGITIMATE, C1-035 SUBTLE, C1-036
+      TRIGGER, C1-037 UNPRECEDENTED, C1-038 VULNERABLE, C1-039 STAKE, C1-040 BEAR
+
+
+####################################################################################################
+#  UNIT 1 — ADVANCED ACADEMIC VOCABULARY: ACTION AND DESCRIPTION
+#  Yüksək səviyyəli akademik leksika: fəaliyyət və təsvir
+####################################################################################################
+
+====================================================================================================
+LESSON C1-001   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: ALLEVIATE
+Azerbaijani: Yüngülləşdirmək, azaltmaq (ağrını, çətinliyi)
+
+A. MAIN WORD
+   English spelling ....... alleviate
+   Azerbaijani meaning .... yüngülləşdirmək, azaltmaq (ağrını, çətinliyi)
+   Part of speech ......... verb
+   Key forms .............. alleviate – alleviates – alleviated – alleviated – alleviating
+   British English IPA .... /əˈliːvieɪt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ alleviation — yüngülləşdirmə, azaldılma
+   Verb forms ........ alleviate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Alleviate symptoms — Simptomları yüngülləşdirmək
+      Usage: symptom = a change in your body that shows you are ill
+   2. Alleviate the burden — Yükü yüngülləşdirmək
+      Usage: burden = a heavy responsibility or duty
+   3. Alleviate anxiety — Təşvişi (narahatlığı) azaltmaq
+      Usage: anxiety = the state of feeling nervous or worried
+   4. Alleviate hardship — Çətinliyi (məhrumiyyəti) yüngülləşdirmək
+      Usage: hardship = a situation that is difficult because you lack money or food
+   5. Alleviate distress — İztirabı yüngülləşdirmək
+      Usage: distress = great worry, sadness or pain
+   6. Alleviate tension — Gərginliyi azaltmaq
+      Usage: tension = a situation in which people do not trust each other
+   7. Alleviate overcrowding — Həddindən artıq sıxlığı azaltmaq
+      Usage: overcrowding = too many people in one place
+   8. Alleviate hunger — Aclığı azaltmaq
+      Usage: hunger = the state of not having enough food
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The drug is used to alleviate the symptoms of flu.
+      → Bu dərman qripin simptomlarını yüngülləşdirmək üçün istifadə olunur.
+   2. A second runway would alleviate overcrowding at the airport.
+      → İkinci uçuş-enmə zolağı hava limanındakı sıxlığı azaldardı.
+   3. The new benefits are intended to alleviate hardship among pensioners.
+      → Yeni müavinətlər təqaüdçülərin çətinliyini yüngülləşdirmək məqsədi daşıyır.
+   4. Talking to a friend can help to alleviate anxiety.
+      → Dostla söhbət etmək təşvişi azaltmağa kömək edə bilər.
+
+E. USAGE EXPLANATION
+   ALLEVIATE means to make something bad less severe; it does not mean to remove it completely. It
+   is formal and typical of medical, social and economic writing. Its objects are always negative:
+   pain, symptoms, poverty, suffering, pressure, congestion. Near synonyms: EASE and RELIEVE (more
+   general), MITIGATE (reduce the harmful effects of something), REDUCE (neutral). "Alleviate
+   poverty" is one of the most frequent collocations in IELTS essays.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): ALLEVIATE [main], alleviation [family], symptom,
+      burden, anxiety, hardship, distress, tension, overcrowding, hunger
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,572 → 1,582 items).
+
+====================================================================================================
+LESSON C1-002   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: ADVOCATE
+Azerbaijani: Müdafiə etmək, tərəfdarı olmaq; tərəfdar, müdafiəçi; vəkil
+
+A. MAIN WORD
+   English spelling ....... advocate
+   Azerbaijani meaning .... müdafiə etmək, tərəfdarı olmaq; tərəfdar, müdafiəçi; vəkil
+   Part of speech ......... verb, noun
+   Key forms .............. advocate – advocates – advocated – advocated – advocating
+   British English IPA .... /ˈædvəkeɪt/ (verb)/, /ˈædvəkət/ (noun)/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ advocate (main word); advocacy — müdafiə, təbliğ, həmçinin vəkillik
+   Verb forms ........ advocate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Advocate for — Nəyinsə lehinə çıxış etmək, nəyisə müdafiə etmək
+      Usage: verb + FOR; in British English the verb is often used with a direct object instead
+   2. A staunch advocate — Sadiq (dönməz) tərəfdar
+      Usage: staunch = strong and loyal in your support
+   3. A passionate advocate — Ehtiraslı müdafiəçi
+      Usage: passionate = having very strong feelings
+   4. An outspoken advocate — Fikrini açıq deyən tərəfdar
+      Usage: outspoken = saying openly what you think
+   5. Advocate a ban — Qadağa tətbiq olunmasını müdafiə etmək
+      Usage: ban = an official rule forbidding something
+   6. Advocate the abolition of — Nəyinsə ləğv edilməsinin tərəfdarı olmaq
+      Usage: abolition = the official ending of a law or system
+   7. Devil's advocate — Bilərəkdən əks mövqeyi müdafiə edən adam
+      Usage: devil = the spirit of evil; idiom: play devil's advocate
+   8. Advocacy on behalf of — Kiminsə adından (maraqları naminə) müdafiə
+      Usage: on behalf of = as the representative of
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Many doctors advocate a ban on tobacco advertising.
+      → Bir çox həkim tütün reklamına qadağa qoyulmasını müdafiə edir.
+   2. She is a passionate advocate of free education.
+      → O, pulsuz təhsilin ehtiraslı müdafiəçisidir.
+   3. The group advocates for the rights of disabled people.
+      → Qrup əlilliyi olan şəxslərin hüquqlarını müdafiə edir.
+   4. I don't really believe that; I'm just playing devil's advocate.
+      → Əslində belə düşünmürəm; sadəcə bilərəkdən əks mövqedən çıxış edirəm.
+
+E. USAGE EXPLANATION
+   The verb and the noun are spelt the same but pronounced differently: to ADVOCATE /ˈædvəkeɪt/, an
+   ADVOCATE /ˈædvəkət/. The verb means to support an idea publicly and takes a direct object or
+   -ing: "advocate reform", "advocate reducing taxes" (not "advocate to reduce"). The noun takes OF
+   or FOR: "an advocate of change". In Scotland an advocate is also a lawyer who speaks in court.
+   ADVOCACY is the work of publicly supporting a cause.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): ADVOCATE [main], advocacy [family], staunch,
+      passionate, outspoken, ban, abolition, devil, behalf
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,582 → 1,591 items).
+
+====================================================================================================
+LESSON C1-003   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: ALLOCATE
+Azerbaijani: Ayırmaq, bölüşdürmək, təxsis etmək
+
+A. MAIN WORD
+   English spelling ....... allocate
+   Azerbaijani meaning .... ayırmaq, bölüşdürmək, təxsis etmək
+   Part of speech ......... verb
+   Key forms .............. allocate – allocates – allocated – allocated – allocating
+   British English IPA .... /ˈæləkeɪt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ allocation — ayırma, bölgü, həmçinin ayrılmış pay
+   Verb forms ........ allocate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Allocate subsidies — Subsidiyalar ayırmaq
+      Usage: subsidy = money paid by a government to reduce the cost of something
+   2. Allocate a portion — Bir hissəsini ayırmaq
+      Usage: portion = one part of a larger amount
+   3. Allocate land — Torpaq ayırmaq
+      Usage: land = an area of ground
+   4. Allocate a quota — Kvota ayırmaq
+      Usage: quota = a fixed amount that is officially allowed
+   5. Allocate duties — Vəzifələri bölüşdürmək
+      Usage: duty = a task that is part of your job
+   6. Allocate efficiently — Səmərəli bölüşdürmək
+      Usage: efficiently = without wasting time, money or energy
+   7. Randomly allocated — Təsadüfi qaydada bölüşdürülmüş
+      Usage: randomly = without any plan or pattern; common in research
+   8. Allocate aid — Yardım ayırmaq
+      Usage: aid = money, food or help sent to people in need
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The government has allocated two million pounds for the project.
+      → Hökumət layihə üçün iki milyon funt ayırıb.
+   2. A large portion of the budget is allocated to education.
+      → Büdcənin böyük bir hissəsi təhsilə ayrılır.
+   3. Patients were randomly allocated to one of two groups.
+      → Xəstələr təsadüfi qaydada iki qrupdan birinə bölüşdürüldü.
+   4. Markets do not always allocate resources efficiently.
+      → Bazarlar ehtiyatları həmişə səmərəli bölüşdürmür.
+
+E. USAGE EXPLANATION
+   ALLOCATE means to decide officially that something will be used for a particular purpose or given
+   to a particular person. Patterns: allocate something TO somebody or something; allocate something
+   FOR a purpose; allocate somebody something ("We were allocated seats at the front"). "Allocate
+   resources" is the key collocation in economics. Compare ASSIGN (give a task or role to a person)
+   and DISTRIBUTE (share things out among many people).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): ALLOCATE [main], allocation [family], subsidy,
+      portion, land, quota, duty, efficiently, randomly, aid
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,591 → 1,601 items).
+
+====================================================================================================
+LESSON C1-004   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: AMBIGUOUS
+Azerbaijani: İkimənalı, qeyri-müəyyən, dolaşıq
+
+A. MAIN WORD
+   English spelling ....... ambiguous
+   Azerbaijani meaning .... ikimənalı, qeyri-müəyyən, dolaşıq
+   Part of speech ......... adjective
+   British English IPA .... /æmˈbɪɡjuəs/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ ambiguity — ikimənalılıq, qeyri-müəyyənlik
+   Verb forms ........ —
+   Adjective forms ... ambiguous (main word); unambiguous — birmənalı, aydın
+   Adverb forms ...... ambiguously — ikimənalı şəkildə
+
+C. RELATED EXPRESSIONS
+   1. Deliberately ambiguous — Qəsdən ikimənalı (qeyri-müəyyən)
+      Usage: deliberately = on purpose
+   2. Somewhat ambiguous — Bir qədər qeyri-müəyyən
+      Usage: somewhat = to some degree; a formal hedge
+   3. An ambiguous phrase — İkimənalı ifadə
+      Usage: phrase = a group of words used together
+   4. An ambiguous ending — İkimənalı (açıq) sonluq
+      Usage: ending = the last part of a story or film
+   5. An ambiguous gesture — İkimənalı jest
+      Usage: gesture = a movement of the hand or head that shows meaning
+   6. An ambiguous response — Qeyri-müəyyən cavab
+      Usage: response = an answer or reaction
+   7. Remove ambiguity — İkimənalılığı aradan qaldırmaq
+      Usage: remove = take away
+   8. Clear and unambiguous — Aydın və birmənalı
+      Usage: clear = easy to understand
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The wording of the contract is deliberately ambiguous.
+      → Müqavilənin mətni qəsdən ikimənalı tərtib olunub.
+   2. The film has an ambiguous ending.
+      → Filmin sonluğu ikimənalıdır.
+   3. His response to the question was somewhat ambiguous.
+      → Onun suala cavabı bir qədər qeyri-müəyyən idi.
+   4. Instructions must be clear and unambiguous.
+      → Təlimatlar aydın və birmənalı olmalıdır.
+
+E. USAGE EXPLANATION
+   AMBIGUOUS describes language or a situation that can be understood in more than one way. Do not
+   confuse it with AMBIVALENT, which describes a person who has mixed feelings ("She is ambivalent
+   about the move"). VAGUE means not clear or detailed; AMBIGUOUS means having two or more possible
+   meanings. The noun AMBIGUITY is countable for particular cases ("several ambiguities in the
+   text") and uncountable for the quality.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (12): AMBIGUOUS [main], ambiguity [family], unambiguous
+      [family], ambiguously [family], deliberately, somewhat, phrase, ending, gesture, response,
+      remove, clear
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,601 → 1,613 items).
+
+====================================================================================================
+LESSON C1-005   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: COHERENT
+Azerbaijani: Ardıcıl, məntiqli, rabitəli
+
+A. MAIN WORD
+   English spelling ....... coherent
+   Azerbaijani meaning .... ardıcıl, məntiqli, rabitəli
+   Part of speech ......... adjective
+   British English IPA .... /kəʊˈhɪərənt/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ coherence — ardıcıllıq, məntiqi əlaqə; cohesion — birlik, həmçinin (mətndə)
+                       cümlələrin dil vasitələri ilə bağlanması
+   Verb forms ........ —
+   Adjective forms ... coherent (main word); incoherent — rabitəsiz, anlaşılmaz
+   Adverb forms ...... coherently — ardıcıl, rabitəli şəkildə
+
+C. RELATED EXPRESSIONS
+   1. A coherent philosophy — Bitkin (ardıcıl) fəlsəfə
+      Usage: philosophy = a set of beliefs about how to live or act
+   2. A coherent narrative — Ardıcıl hekayət (təhkiyə)
+      Usage: narrative = a story or a description of events
+   3. A coherent framework — Bitkin çərçivə (konsepsiya)
+      Usage: framework = a set of ideas on which decisions are based
+   4. A coherent vision — Aydın və ardıcıl baxış (gələcək mənzərəsi)
+      Usage: vision = an idea of how the future should be
+   5. A coherent structure — Məntiqli quruluş
+      Usage: structure = the way the parts of something are arranged
+   6. A coherent paragraph — Rabitəli abzas
+      Usage: paragraph = a section of writing that begins on a new line
+   7. Coherence and cohesion — Məntiqi ardıcıllıq və dil rabitəsi
+      Usage: The name of one of the four IELTS Writing marking criteria
+   8. Incoherent with rage — Qəzəbdən sözünü itirmiş
+      Usage: rage = extreme anger
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The government lacks a coherent economic policy.
+      → Hökumətin ardıcıl iqtisadi siyasəti yoxdur.
+   2. Each paragraph should have a coherent structure.
+      → Hər abzasın məntiqli quruluşu olmalıdır.
+   3. He was so tired that he could hardly speak coherently.
+      → O qədər yorğun idi ki, çətinliklə rabitəli danışırdı.
+   4. Examiners award marks for coherence and cohesion.
+      → İmtahan götürənlər məntiqi ardıcıllığa və dil rabitəsinə görə bal verirlər.
+
+E. USAGE EXPLANATION
+   COHERENT describes ideas, plans or writing whose parts fit together logically. In IELTS Writing,
+   COHERENCE is the logical organisation of ideas, while COHESION is the use of linking words,
+   pronouns and paragraphing to connect sentences. A person who is INCOHERENT cannot speak clearly,
+   because of emotion, illness or drink. Compare CONSISTENT (not contradicting itself; always
+   behaving in the same way).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (12): COHERENT [main], coherence [family], cohesion
+      [family], incoherent [family], coherently [family], philosophy, narrative, framework, vision,
+      structure, paragraph, rage
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,613 → 1,625 items).
+
+====================================================================================================
+LESSON C1-006   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: COMPELLING
+Azerbaijani: İnandırıcı, tutarlı; cəlbedici, diqqəti çəkən
+
+A. MAIN WORD
+   English spelling ....... compelling
+   Azerbaijani meaning .... inandırıcı, tutarlı; cəlbedici, diqqəti çəkən
+   Part of speech ......... adjective
+   British English IPA .... /kəmˈpelɪŋ/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ compulsion — məcburiyyət, həmçinin qarşısıalınmaz istək
+   Verb forms ........ compel — məcbur etmək
+   Adjective forms ... compelling (main word); compulsory — məcburi, icbari
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. A compelling case — Tutarlı əsaslandırma (dəlillər toplusu)
+      Usage: case = a set of facts and arguments supporting one side
+   2. A compelling portrait — Təsirli portret (təsvir)
+      Usage: portrait = a painting or detailed description of a person
+   3. Utterly compelling — Son dərəcə cəlbedici
+      Usage: utterly = completely; used for emphasis
+   4. A compelling justification — Tutarlı əsas (haqq qazandıran səbəb)
+      Usage: justification = a good reason for doing something
+   5. Be compelled to — Nəyisə etməyə məcbur olmaq
+      Usage: Passive of "compel" + to-infinitive
+   6. Under no compulsion to — Nəyisə etməyə heç bir məcburiyyəti olmamaq
+      Usage: Formal fixed phrase
+   7. Compel sb to testify — Kimisə ifadə verməyə məcbur etmək
+      Usage: testify = make a formal statement in a court of law
+   8. Compulsory attendance — Məcburi davamiyyət
+      Usage: attendance = being present at school, work or an event
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The report makes a compelling case for investing in early education.
+      → Hesabat erkən təhsilə sərmayə qoyulmasının vacibliyini tutarlı şəkildə əsaslandırır.
+   2. The film is utterly compelling from start to finish.
+      → Film əvvəldən axıra qədər son dərəcə cəlbedicidir.
+   3. I felt compelled to tell her the truth.
+      → Mən ona həqiqəti deməyə məcbur olduğumu hiss etdim.
+   4. You are under no compulsion to answer these questions.
+      → Bu suallara cavab verməyə heç bir məcburiyyətiniz yoxdur.
+
+E. USAGE EXPLANATION
+   COMPELLING has two senses: so interesting that you cannot stop paying attention (a compelling
+   story), and so strong that you must accept it (a compelling argument, compelling evidence). The
+   verb COMPEL is formal and usually passive: "be / feel compelled TO do something". COMPULSORY is
+   the everyday adjective for something required by a rule or law (compulsory education); its
+   opposite is VOLUNTARY or OPTIONAL.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): COMPELLING [main], compulsion [family], compel
+      [family], compulsory [family], case, portrait, utterly, justification, testify, attendance
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,625 → 1,635 items).
+
+====================================================================================================
+LESSON C1-007   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: CONSTRAINT
+Azerbaijani: Məhdudiyyət, maneə; sıxıntı
+
+A. MAIN WORD
+   English spelling ....... constraint
+   Azerbaijani meaning .... məhdudiyyət, maneə; sıxıntı
+   Part of speech ......... noun
+   British English IPA .... /kənˈstreɪnt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ constraint (main word)
+   Verb forms ........ constrain — məhdudlaşdırmaq, məcbur etmək
+   Adjective forms ... constrained — məhdud, sıxılmış
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Constraints on — Nəyinsə üzərində məhdudiyyətlər
+      Usage: The preposition is ON: constraints on spending
+   2. Within the constraints of — ... məhdudiyyətləri çərçivəsində
+      Usage: Fixed pattern
+   3. Operate under constraints — Məhdudiyyətlər şəraitində fəaliyyət göstərmək
+      Usage: operate = work or function
+   4. Institutional constraints — İnstitusional məhdudiyyətlər
+      Usage: institutional = connected with a large organisation or its rules
+   5. External constraints — Xarici (kənar) məhdudiyyətlər
+      Usage: external = coming from outside
+   6. Regulatory constraints — Tənzimləmə ilə bağlı məhdudiyyətlər
+      Usage: regulatory = having the power to control an activity by rules
+   7. Capacity constraints — İmkan (güc) məhdudiyyətləri
+      Usage: capacity = the amount that can be produced or contained
+   8. Constrained by convention — Adət-ənənə ilə məhdudlaşdırılmış
+      Usage: convention = the way most people in a society behave
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There are strict constraints on the use of public money.
+      → Dövlət vəsaitinin istifadəsinə ciddi məhdudiyyətlər qoyulub.
+   2. We have to work within the constraints of a small budget.
+      → Biz kiçik büdcənin məhdudiyyətləri çərçivəsində işləməliyik.
+   3. Hospitals are operating under severe financial constraints.
+      → Xəstəxanalar ciddi maliyyə məhdudiyyətləri şəraitində fəaliyyət göstərir.
+   4. Many women of that time felt constrained by convention.
+      → O dövrün bir çox qadını özünü adət-ənənələrlə məhdudlaşdırılmış hiss edirdi.
+
+E. USAGE EXPLANATION
+   A CONSTRAINT is something that limits what you can do: time constraints, budget constraints,
+   legal constraints. It is more formal than LIMIT and suggests pressure from outside. Do not
+   confuse it with RESTRAINT, which is control over your own behaviour ("show restraint") or a
+   measure that holds something back. Typical verbs: impose / place constraints ON, face
+   constraints, remove / relax constraints. The verb CONSTRAIN is mostly passive.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): CONSTRAINT [main], constrain [family], constrained
+      [family], operate, institutional, external, regulatory, capacity, convention
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,635 → 1,644 items).
+
+====================================================================================================
+LESSON C1-008   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: DETERIORATE
+Azerbaijani: Pisləşmək, xarab olmaq
+
+A. MAIN WORD
+   English spelling ....... deteriorate
+   Azerbaijani meaning .... pisləşmək, xarab olmaq
+   Part of speech ......... verb
+   Key forms .............. deteriorate – deteriorates – deteriorated – deteriorated – deteriorating
+   British English IPA .... /dɪˈtɪəriəreɪt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ deterioration — pisləşmə, xarablaşma
+   Verb forms ........ deteriorate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Deteriorate further — Daha da pisləşmək
+      Usage: further = to a greater degree
+   2. Deteriorate markedly — Nəzərəçarpacaq dərəcədə pisləşmək
+      Usage: markedly = in a way that is easy to notice
+   3. Relations deteriorate — Münasibətlər pisləşir
+      Usage: relations = the way two countries or groups behave towards each other
+   4. Deteriorate into violence — Zorakılığa çevrilmək
+      Usage: violence = behaviour intended to hurt people; deteriorate INTO = become something worse
+   5. Deteriorating eyesight — Zəifləyən görmə qabiliyyəti
+      Usage: eyesight = the ability to see
+   6. A deterioration in — Nədəsə pisləşmə
+      Usage: The preposition is IN: a deterioration in health
+   7. Prevent deterioration — Pisləşmənin qarşısını almaq
+      Usage: prevent = stop something from happening
+   8. Deteriorate beyond repair — Bərpası mümkün olmayan dərəcədə xarab olmaq
+      Usage: repair = the act of mending something
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Her health deteriorated rapidly after the operation.
+      → Əməliyyatdan sonra onun səhhəti sürətlə pisləşdi.
+   2. Relations between the two countries have deteriorated markedly.
+      → İki ölkə arasında münasibətlər nəzərəçarpacaq dərəcədə pisləşib.
+   3. The protest deteriorated into violence.
+      → Etiraz aksiyası zorakılığa çevrildi.
+   4. There has been a serious deterioration in air quality.
+      → Havanın keyfiyyətində ciddi pisləşmə müşahidə olunub.
+
+E. USAGE EXPLANATION
+   DETERIORATE is the formal word for "get worse" and is intransitive: "The situation deteriorated"
+   – you cannot "deteriorate something". Pronounce all five syllables: de-TE-ri-o-rate. Typical
+   subjects: health, condition, situation, relations, weather, quality. The opposite is IMPROVE. In
+   IELTS essays it is a precise alternative to "become worse"; WORSEN is a slightly less formal
+   synonym that can also be transitive.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): DETERIORATE [main], deterioration [family],
+      further, markedly, relation, violence, eyesight, prevent, repair
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,644 → 1,653 items).
+
+====================================================================================================
+LESSON C1-009   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: FACILITATE
+Azerbaijani: Asanlaşdırmaq, şərait yaratmaq
+
+A. MAIN WORD
+   English spelling ....... facilitate
+   Azerbaijani meaning .... asanlaşdırmaq, şərait yaratmaq
+   Part of speech ......... verb
+   Key forms .............. facilitate – facilitates – facilitated – facilitated – facilitating
+   British English IPA .... /fəˈsɪlɪteɪt/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ facilitator — moderator, prosesi asanlaşdıran şəxs; facilitation —
+                       asanlaşdırma, dəstək
+   Verb forms ........ facilitate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+   Related words taught in other lessons (not repeated here): facility (B1-025, PROVIDE)
+
+C. RELATED EXPRESSIONS
+   1. Facilitate dialogue — Dialoqa şərait yaratmaq
+      Usage: dialogue = a formal discussion between two groups
+   2. Facilitate integration — İnteqrasiyanı asanlaşdırmaq
+      Usage: integration = becoming a full member of a group or society
+   3. Facilitate the exchange of — Nəyinsə mübadiləsini asanlaşdırmaq
+      Usage: exchange = giving one thing and receiving another
+   4. Facilitate the transfer — Ötürülməsini (köçürülməsini) asanlaşdırmaq
+      Usage: transfer = moving something from one place to another
+   5. Facilitate a transition — Keçidi asanlaşdırmaq
+      Usage: transition = the process of changing from one state to another
+   6. Facilitate collaboration — Birgə işi asanlaşdırmaq
+      Usage: collaboration = working with others to produce something
+   7. Facilitate participation — İştirakı asanlaşdırmaq
+      Usage: participation = taking part in an activity
+   8. Facilitate decision-making — Qərar qəbulunu asanlaşdırmaq
+      Usage: decision-making = the process of deciding something important
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The new software facilitates the exchange of information between departments.
+      → Yeni proqram şöbələr arasında məlumat mübadiləsini asanlaşdırır.
+   2. The teacher's role is to facilitate learning, not to give lectures.
+      → Müəllimin rolu mühazirə oxumaq deyil, öyrənməyə şərait yaratmaqdır.
+   3. The agreement will facilitate the transition to a market economy.
+      → Saziş bazar iqtisadiyyatına keçidi asanlaşdıracaq.
+   4. Online tools facilitate collaboration between researchers in different countries.
+      → Onlayn alətlər müxtəlif ölkələrdəki tədqiqatçıların birgə işini asanlaşdırır.
+
+E. USAGE EXPLANATION
+   FACILITATE means to make an action or process easier or more likely to happen. Its object is a
+   process, not a person: "facilitate communication" – not "facilitate students". It is formal and
+   very common in academic and business English, where it replaces "help" or "make easier". A
+   FACILITATOR is a person who helps a group to work together and reach decisions without taking
+   sides.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): FACILITATE [main], facilitator [family],
+      facilitation [family], dialogue, integration, exchange, transfer, transition, collaboration,
+      participation, decision-making
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,653 → 1,664 items).
+
+====================================================================================================
+LESSON C1-010   |   UNIT 1: Advanced academic vocabulary: action and description
+====================================================================================================
+MAIN WORD: FLUCTUATE
+Azerbaijani: Dəyişkən olmaq, enib-qalxmaq, tərəddüd etmək
+
+A. MAIN WORD
+   English spelling ....... fluctuate
+   Azerbaijani meaning .... dəyişkən olmaq, enib-qalxmaq, tərəddüd etmək
+   Part of speech ......... verb
+   Key forms .............. fluctuate – fluctuates – fluctuated – fluctuated – fluctuating
+   British English IPA .... /ˈflʌktʃueɪt/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The open reference wordlist places this headword at C2; it is taught
+                           here at C1 because the expressions chosen for it are C1 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ fluctuation — enib-qalxma, dəyişkənlik
+   Verb forms ........ fluctuate (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Fluctuate wildly — Kəskin şəkildə enib-qalxmaq
+      Usage: wildly = in an extreme and uncontrolled way
+   2. Fluctuate between — İki hədd arasında dəyişmək
+      Usage: fluctuate BETWEEN A and B
+   3. Fluctuate unpredictably — Gözlənilməz şəkildə dəyişmək
+      Usage: unpredictably = in a way that cannot be known in advance
+   4. Currency fluctuations — Valyuta məzənnəsinin enib-qalxması
+      Usage: currency = the money used in a particular country
+   5. Seasonal fluctuations — Mövsümi dəyişmələr
+      Usage: seasonal = happening during a particular season
+   6. Minor fluctuations — Cüzi dəyişmələr
+      Usage: minor = small and not very important
+   7. Fluctuations in mood — Əhval-ruhiyyənin dəyişkənliyi
+      Usage: mood = the way you feel at a particular time
+   8. Fluctuating fortunes — Dəyişkən tale (uğurun gah gülüb, gah dönməsi)
+      Usage: fortune = luck; the good and bad things that happen
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Oil prices have fluctuated wildly in recent months.
+      → Son aylarda neft qiymətləri kəskin şəkildə enib-qalxıb.
+   2. The temperature fluctuates between 20 and 30 degrees in summer.
+      → Yayda temperatur 20 ilə 30 dərəcə arasında dəyişir.
+   3. The number of visitors shows clear seasonal fluctuations.
+      → Ziyarətçilərin sayında aydın mövsümi dəyişmələr müşahidə olunur.
+   4. Apart from minor fluctuations, sales remained stable throughout the year.
+      → Cüzi dəyişmələr istisna olmaqla, satışlar il boyu sabit qaldı.
+
+E. USAGE EXPLANATION
+   FLUCTUATE means to change frequently in size, amount or level, especially from one extreme to
+   another. It is intransitive and is one of the key verbs for describing graphs in IELTS Writing
+   Task 1, together with RISE, FALL, PEAK and LEVEL OFF. Patterns: fluctuate BETWEEN x AND y;
+   fluctuate AROUND a figure; fluctuations IN something. Typical adverbs: wildly, widely,
+   considerably, slightly.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): FLUCTUATE [main], fluctuation [family], wildly,
+      unpredictably, currency, seasonal, minor, mood, fortune
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,664 → 1,673 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 1 (Advanced academic vocabulary: action and description)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: ALLEVIATE, ADVOCATE, ALLOCATE, AMBIGUOUS, COHERENT, COMPELLING, CONSTRAINT, DETERIORATE, FACILITATE, FLUCTUATE
+   New items registered in this unit: 101   |   Database total after this unit: 1,673
+   abolition, advocacy, ADVOCATE, aid, ALLEVIATE, alleviation, ALLOCATE, allocation, ambiguity,
+   AMBIGUOUS, ambiguously, anxiety, attendance, ban, behalf, burden, capacity, case, clear,
+   coherence, COHERENT, coherently, cohesion, collaboration, compel, COMPELLING, compulsion,
+   compulsory, constrain, constrained, CONSTRAINT, convention, currency, decision-making,
+   deliberately, DETERIORATE, deterioration, devil, dialogue, distress, duty, efficiently, ending,
+   exchange, external, eyesight, FACILITATE, facilitation, facilitator, FLUCTUATE, fluctuation,
+   fortune, framework, further, gesture, hardship, hunger, incoherent, institutional, integration,
+   justification, land, markedly, minor, mood, narrative, operate, outspoken, overcrowding,
+   paragraph, participation, passionate, philosophy, phrase, portion, portrait, prevent, quota,
+   rage, randomly, regulatory, relation, remove, repair, response, seasonal, somewhat, staunch,
+   structure, subsidy, symptom, tension, testify, transfer, transition, unambiguous, unpredictably,
+   utterly, violence, vision, wildly
+
+
+####################################################################################################
+#  UNIT 2 — POLICY, EVALUATION AND CRITICISM
+#  Siyasət, qiymətləndirmə və tənqid
+####################################################################################################
+
+====================================================================================================
+LESSON C1-011   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: IMPLEMENT
+Azerbaijani: Həyata keçirmək, tətbiq etmək; alət
+
+A. MAIN WORD
+   English spelling ....... implement
+   Azerbaijani meaning .... həyata keçirmək, tətbiq etmək; alət
+   Part of speech ......... verb, noun
+   Key forms .............. implement – implements – implemented – implemented – implementing
+   British English IPA .... /ˈɪmplɪment/ (verb)/, /ˈɪmplɪmənt/ (noun)/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ implement (main word); implementation — həyata keçirilmə, icra
+   Verb forms ........ implement (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Implement recommendations — Tövsiyələri həyata keçirmək
+      Usage: recommendation = an official suggestion about the best thing to do
+   2. Implement legislation — Qanunvericiliyi tətbiq etmək
+      Usage: legislation = a law or set of laws
+   3. Implement a directive — Direktivi (göstərişi) icra etmək
+      Usage: directive = an official instruction
+   4. Implement sanctions — Sanksiyalar tətbiq etmək
+      Usage: sanction = an official action taken against a country to force it to obey
+   5. Implement an initiative — Təşəbbüsü həyata keçirmək
+      Usage: initiative = a new plan for dealing with a problem
+   6. Implement procedures — Prosedurları tətbiq etmək
+      Usage: procedure = the official or correct way of doing something
+   7. Implement guidelines — Təlimatları (rəhbər prinsipləri) tətbiq etmək
+      Usage: guideline = official advice about how to do something
+   8. Oversee the implementation — İcraya nəzarət etmək
+      Usage: oversee = watch a process to make sure it is done correctly
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The government has promised to implement the committee's recommendations in full.
+      → Hökumət komitənin tövsiyələrini tam şəkildə həyata keçirməyə söz verib.
+   2. The new safety procedures will be implemented next month.
+      → Yeni təhlükəsizlik prosedurları gələn ay tətbiq olunacaq.
+   3. A special team was set up to oversee the implementation of the reforms.
+      → İslahatların icrasına nəzarət etmək üçün xüsusi qrup yaradıldı.
+   4. The plan is good in theory, but it will be difficult to implement.
+      → Plan nəzəri cəhətdən yaxşıdır, amma onu həyata keçirmək çətin olacaq.
+
+E. USAGE EXPLANATION
+   IMPLEMENT means to put a decision, plan or law into action; you decide first and implement
+   afterwards. It is the standard formal verb with policy, plan, strategy, reform, measure and
+   recommendation. Compare CARRY OUT (neutral), ENFORCE (make people obey a law) and EXECUTE
+   (formal: perform a plan or order). As a noun, an IMPLEMENT is a simple tool: farming implements.
+   The verb ends in /ment/, the noun in a weak /mənt/.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): IMPLEMENT [main], implementation [family],
+      recommendation, legislation, directive, sanction, initiative, procedure, guideline, oversee
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,673 → 1,683 items).
+
+====================================================================================================
+LESSON C1-012   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: INCENTIVE
+Azerbaijani: Stimul, həvəsləndirici amil
+
+A. MAIN WORD
+   English spelling ....... incentive
+   Azerbaijani meaning .... stimul, həvəsləndirici amil
+   Part of speech ......... noun
+   British English IPA .... /ɪnˈsentɪv/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ incentive (main word); disincentive — həvəsdən salan amil
+   Verb forms ........ incentivise — stimullaşdırmaq, həvəsləndirmək
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. An incentive to do sth — Nəyisə etmək üçün stimul
+      Usage: incentive + to-infinitive
+   2. An added incentive — Əlavə stimul
+      Usage: added = extra; from "add"
+   3. A perverse incentive — Əks nəticə verən (yanlış) stimul
+      Usage: perverse = having an effect opposite to the one intended
+   4. An incentive bonus — Həvəsləndirici mükafat (bonus)
+      Usage: bonus = extra money added to your pay
+   5. A lucrative incentive — Sərfəli (gəlirli) stimul
+      Usage: lucrative = producing a lot of money
+   6. Fiscal incentives — Vergi güzəştləri, fiskal stimullar
+      Usage: fiscal = connected with government money, especially taxes
+   7. Incentives to recycle — Təkrar emala həvəsləndirən stimullar
+      Usage: recycle = treat used things so that they can be used again
+   8. A disincentive to — Nəyəsə həvəsi azaldan amil
+      Usage: disincentive TO work / TO investment
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Low wages give people little incentive to work harder.
+      → Aşağı maaşlar insanlara daha çox işləmək üçün az stimul verir.
+   2. The government offers fiscal incentives to companies that invest in poorer regions.
+      → Hökumət yoxsul regionlara sərmayə qoyan şirkətlərə vergi güzəştləri təklif edir.
+   3. The free gift is an added incentive to buy.
+      → Pulsuz hədiyyə almaq üçün əlavə stimuldur.
+   4. High taxes can act as a disincentive to investment.
+      → Yüksək vergilər sərmayə qoyuluşuna həvəsi azalda bilər.
+
+E. USAGE EXPLANATION
+   An INCENTIVE is something that encourages you to do something, usually a reward such as money. It
+   is followed by TO + infinitive ("an incentive to save") or FOR ("incentives for employers"). A
+   PERVERSE INCENTIVE is a term from economics for a reward that produces the opposite of the
+   intended result. MOTIVATION comes from inside a person; an INCENTIVE is offered from outside.
+   Verb: INCENTIVISE somebody TO do something.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): INCENTIVE [main], disincentive [family],
+      incentivise [family], added, perverse, bonus, lucrative, fiscal, recycle
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,683 → 1,692 items).
+
+====================================================================================================
+LESSON C1-013   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: INHERENT
+Azerbaijani: Xas olan, ayrılmaz, daxili
+
+A. MAIN WORD
+   English spelling ....... inherent
+   Azerbaijani meaning .... xas olan, ayrılmaz, daxili
+   Part of speech ......... adjective
+   British English IPA .... /ɪnˈhɪərənt/, /ɪnˈherənt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ —
+   Adjective forms ... inherent (main word)
+   Adverb forms ...... inherently — təbiətcə, mahiyyət etibarilə
+
+C. RELATED EXPRESSIONS
+   1. Inherent in — Nəyəsə xas olan, təbiətində olan
+      Usage: The preposition is IN: the risks inherent in the plan
+   2. An inherent contradiction — Daxili ziddiyyət
+      Usage: contradiction = a difference between two statements that cannot both be true
+   3. An inherent bias — Daxili (sistemə xas) qərəz
+      Usage: bias = an unfair preference for one side
+   4. An inherent characteristic — Xas olan xüsusiyyət
+      Usage: characteristic = a typical feature or quality
+   5. An inherent defect — Daxili qüsur, istehsal qüsuru
+      Usage: defect = a fault in the way something is made
+   6. Inherently evil — Təbiətcə şər (pis)
+      Usage: evil = morally very bad
+   7. Inherently superior — Mahiyyətcə üstün
+      Usage: superior = better than others
+   8. Inherently subjective — Mahiyyət etibarilə subyektiv
+      Usage: subjective = based on personal opinions rather than facts
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There are risks inherent in any investment.
+      → İstənilən sərmayə qoyuluşuna xas olan risklər var.
+   2. There is an inherent contradiction in the government's policy.
+      → Hökumətin siyasətində daxili ziddiyyət var.
+   3. No language is inherently superior to another.
+      → Heç bir dil mahiyyətcə digərindən üstün deyil.
+   4. Judging art is an inherently subjective process.
+      → İncəsənəti qiymətləndirmək mahiyyət etibarilə subyektiv prosesdir.
+
+E. USAGE EXPLANATION
+   INHERENT describes a quality that is a basic, permanent part of something and cannot be removed.
+   It usually comes before a noun (an inherent weakness) or is followed by IN (dangers inherent in
+   the system). Compare INTRINSIC (belonging to the essential nature of a thing; often of value) and
+   INNATE (present from birth; of people and animals). INHERENTLY is common before adjectives:
+   inherently dangerous, inherently unstable.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): INHERENT [main], inherently [family],
+      contradiction, bias, characteristic, defect, evil, superior, subjective
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,692 → 1,701 items).
+
+====================================================================================================
+LESSON C1-014   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: MITIGATE
+Azerbaijani: Yumşaltmaq, azaltmaq, yüngülləşdirmək
+
+A. MAIN WORD
+   English spelling ....... mitigate
+   Azerbaijani meaning .... yumşaltmaq, azaltmaq, yüngülləşdirmək
+   Part of speech ......... verb
+   Key forms .............. mitigate – mitigates – mitigated – mitigated – mitigating
+   British English IPA .... /ˈmɪtɪɡeɪt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ mitigation — yumşaltma, azaldılma
+   Verb forms ........ mitigate (main word)
+   Adjective forms ... unmitigated — tam, başdan-başa (mənfi mənada)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Mitigate flooding — Daşqınların təsirini azaltmaq
+      Usage: flooding = large amounts of water covering an area that is usually dry
+   2. Mitigate hazards — Təhlükələri azaltmaq
+      Usage: hazard = something that can be dangerous
+   3. Mitigate the fallout — Xoşagəlməz nəticələri yumşaltmaq
+      Usage: fallout = the bad results of a situation
+   4. Mitigate a penalty — Cəzanı yüngülləşdirmək
+      Usage: penalty = a punishment for breaking a law or rule
+   5. Mitigate inflation — İnflyasiyanın təsirini azaltmaq
+      Usage: inflation = a general rise in prices
+   6. Mitigate disruption — Fəaliyyətin pozulmasını minimuma endirmək
+      Usage: disruption = a situation in which something cannot continue normally
+   7. Partially mitigate — Qismən yumşaltmaq
+      Usage: partially = not completely
+   8. In mitigation — Cəzanı yüngülləşdirən hal kimi
+      Usage: Legal phrase: say something in mitigation
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Planting trees can help to mitigate flooding.
+      → Ağac əkmək daşqınların təsirini azaltmağa kömək edə bilər.
+   2. Governments must act now to mitigate the effects of climate change.
+      → Hökumətlər iqlim dəyişikliyinin təsirlərini azaltmaq üçün indi hərəkətə keçməlidirlər.
+   3. The extra payments only partially mitigate the rise in prices.
+      → Əlavə ödənişlər qiymət artımını yalnız qismən yumşaldır.
+   4. The party was an unmitigated disaster.
+      → Qonaqlıq başdan-başa fəlakət oldu.
+
+E. USAGE EXPLANATION
+   MITIGATE means to make something less harmful, serious or painful. In climate science, MITIGATION
+   (reducing emissions) is contrasted with ADAPTATION (adjusting to the changes). In law, MITIGATING
+   CIRCUMSTANCES are facts that make a crime less serious. Do not confuse MITIGATE with MILITATE:
+   "militate against" means to make something less likely. UNMITIGATED is used before negative nouns
+   for emphasis: an unmitigated disaster.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): MITIGATE [main], mitigation [family], unmitigated
+      [family], flooding, hazard, fallout, penalty, inflation, disruption, partially
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,701 → 1,711 items).
+
+====================================================================================================
+LESSON C1-015   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: PREVALENT
+Azerbaijani: Geniş yayılmış, hakim
+
+A. MAIN WORD
+   English spelling ....... prevalent
+   Azerbaijani meaning .... geniş yayılmış, hakim
+   Part of speech ......... adjective
+   British English IPA .... /ˈprevələnt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ prevalence — yayılma dərəcəsi, geniş yayılma
+   Verb forms ........ prevail — üstün gəlmək, hökm sürmək
+   Adjective forms ... prevalent (main word); prevailing — hakim, üstünlük təşkil edən
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Prevalent among — Kimlərinsə arasında geniş yayılmış
+      Usage: prevalent AMONG a group / IN a place
+   2. Particularly prevalent — Xüsusilə geniş yayılmış
+      Usage: particularly = more than usual
+   3. A prevalent misconception — Geniş yayılmış yanlış təsəvvür
+      Usage: misconception = a belief that is not correct
+   4. A prevalent stereotype — Geniş yayılmış stereotip
+      Usage: stereotype = a fixed idea about a type of person
+   5. The prevalent ideology — Hakim ideologiya
+      Usage: ideology = a set of political beliefs
+   6. The prevalence of diabetes — Şəkərli diabetin yayılma dərəcəsi
+      Usage: diabetes = a disease in which the body cannot control blood sugar
+   7. Prevailing norms — Hakim normalar
+      Usage: norm = a standard of behaviour that is typical of a group
+   8. Justice will prevail — Ədalət qalib gələcək
+      Usage: justice = fair treatment according to the law
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The disease is particularly prevalent among older people.
+      → Bu xəstəlik xüsusilə yaşlı insanlar arasında geniş yayılıb.
+   2. It is a prevalent misconception that bats are blind.
+      → Yarasaların kor olması geniş yayılmış yanlış təsəvvürdür.
+   3. The prevalence of diabetes has doubled in twenty years.
+      → Şəkərli diabetin yayılma dərəcəsi iyirmi ildə iki dəfə artıb.
+   4. We believe that justice will prevail in the end.
+      → İnanırıq ki, sonda ədalət qalib gələcək.
+
+E. USAGE EXPLANATION
+   PREVALENT means existing or happening very commonly at a particular time or in a particular
+   place; it is typical of medical and sociological writing ("the prevalence of obesity").
+   PREVAILING describes what is most common or powerful now: the prevailing view, prevailing winds.
+   The verb PREVAIL means to win after a struggle (prevail OVER an enemy) or to be accepted ("Common
+   sense prevailed"). COMMON and WIDESPREAD are more general synonyms.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): PREVALENT [main], prevalence [family], prevail
+      [family], prevailing [family], particularly, misconception, stereotype, ideology, diabetes,
+      norm, justice
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,711 → 1,722 items).
+
+====================================================================================================
+LESSON C1-016   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: PROFOUND
+Azerbaijani: Dərin, çox güclü; dərin mənalı
+
+A. MAIN WORD
+   English spelling ....... profound
+   Azerbaijani meaning .... dərin, çox güclü; dərin mənalı
+   Part of speech ......... adjective
+   British English IPA .... /prəˈfaʊnd/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ —
+   Adjective forms ... profound (main word)
+   Adverb forms ...... profoundly — dərindən, son dərəcə
+
+C. RELATED EXPRESSIONS
+   1. A profound influence — Dərin təsir
+      Usage: influence = the power to affect how somebody thinks or behaves
+   2. Profound implications — Ciddi (uzağa gedən) nəticələr
+      Usage: implication = a possible future effect of an action
+   3. Profound grief — Dərin kədər
+      Usage: grief = great sadness, especially when somebody dies
+   4. Profound gratitude — Dərin minnətdarlıq
+      Usage: gratitude = the feeling of being thankful
+   5. A profound transformation — Köklü dəyişiklik
+      Usage: transformation = a complete change
+   6. Profound admiration — Dərin heyranlıq
+      Usage: admiration = a feeling of great respect and liking
+   7. Profoundly deaf — Tamamilə kar
+      Usage: deaf = unable to hear
+   8. Profoundly sceptical — Dərin şübhə ilə yanaşan
+      Usage: sceptical = having doubts that something is true
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Her grandmother had a profound influence on her life.
+      → Nənəsi onun həyatına dərin təsir göstərib.
+   2. The discovery has profound implications for medicine.
+      → Bu kəşfin tibb üçün ciddi nəticələri var.
+   3. I would like to express my profound gratitude to all my colleagues.
+      → Bütün həmkarlarıma dərin minnətdarlığımı bildirmək istərdim.
+   4. The country has undergone a profound transformation in the last thirty years.
+      → Ölkə son otuz ildə köklü dəyişiklik keçirib.
+
+E. USAGE EXPLANATION
+   PROFOUND is used with effects and feelings (a profound effect, profound sadness) and with ideas
+   that show great knowledge (a profound book). DEEP is its everyday synonym, but PROFOUND is not
+   used for physical depth: "deep water", not "profound water". PROFOUNDLY intensifies adjectives:
+   profoundly affected, profoundly different, profoundly deaf. It is a strong, formal word; keep it
+   for really important changes.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): PROFOUND [main], profoundly [family], influence,
+      implication, grief, gratitude, transformation, admiration, deaf, sceptical
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,722 → 1,732 items).
+
+====================================================================================================
+LESSON C1-017   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: SCRUTINY
+Azerbaijani: Diqqətli yoxlama, ciddi nəzarət, araşdırma
+
+A. MAIN WORD
+   English spelling ....... scrutiny
+   Azerbaijani meaning .... diqqətli yoxlama, ciddi nəzarət, araşdırma
+   Part of speech ......... noun
+   British English IPA .... /ˈskruːtɪni/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ scrutiny (main word)
+   Verb forms ........ scrutinise — diqqətlə yoxlamaq, incələmək
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Under scrutiny — Diqqət mərkəzində, ciddi nəzarət altında
+      Usage: be / come UNDER scrutiny
+   2. Parliamentary scrutiny — Parlament nəzarəti
+      Usage: parliamentary = connected with a parliament
+   3. Judicial scrutiny — Məhkəmə nəzarəti
+      Usage: judicial = connected with judges and courts of law
+   4. Escape scrutiny — Nəzarətdən yayınmaq
+      Usage: escape = avoid something unpleasant
+   5. Withstand scrutiny — Ciddi yoxlamaya tab gətirmək
+      Usage: withstand = be strong enough not to be harmed by
+   6. Heightened scrutiny — Gücləndirilmiş nəzarət
+      Usage: heightened = made stronger or greater
+   7. International scrutiny — Beynəlxalq nəzarət (diqqət)
+      Usage: international = involving several countries
+   8. Scrutinise expenditure — Xərcləri diqqətlə yoxlamaq
+      Usage: expenditure = the amount of money spent
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The company's finances have come under scrutiny.
+      → Şirkətin maliyyə vəziyyəti ciddi nəzarət altına düşüb.
+   2. His argument does not withstand close scrutiny.
+      → Onun dəlili diqqətli araşdırmaya tab gətirmir.
+   3. The new law was passed with very little parliamentary scrutiny.
+      → Yeni qanun parlamentdə demək olar ki, müzakirə olunmadan qəbul edildi.
+   4. A committee was set up to scrutinise public expenditure.
+      → Dövlət xərclərini diqqətlə yoxlamaq üçün komitə yaradıldı.
+
+E. USAGE EXPLANATION
+   SCRUTINY is careful and thorough examination, often critical. It is uncountable: "close
+   scrutiny", "intense public scrutiny". The fixed pattern is "be / come UNDER scrutiny". Verbs:
+   face, withstand, bear, escape, avoid scrutiny; subject something TO scrutiny. SCRUTINISE
+   (American: scrutinize) is stronger than EXAMINE or CHECK and suggests looking for faults.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): SCRUTINY [main], scrutinise [family],
+      parliamentary, judicial, escape, withstand, heightened, international, expenditure
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,732 → 1,741 items).
+
+====================================================================================================
+LESSON C1-018   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: UNDERMINE
+Azerbaijani: Sarsıtmaq, zəiflətmək, altını oymaq
+
+A. MAIN WORD
+   English spelling ....... undermine
+   Azerbaijani meaning .... sarsıtmaq, zəiflətmək, altını oymaq
+   Part of speech ......... verb
+   Key forms .............. undermine – undermines – undermined – undermined – undermining
+   British English IPA .... /ˌʌndəˈmaɪn/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ undermine (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Undermine authority — Nüfuzu (hakimiyyəti) sarsıtmaq
+      Usage: authority = the power to give orders
+   2. Undermine trust — Etimadı sarsıtmaq
+      Usage: trust = the belief that somebody is honest and reliable
+   3. Undermine credibility — İnandırıcılığı (etibarı) zədələmək
+      Usage: credibility = the quality of being believed
+   4. Undermine morale — Ruh yüksəkliyini sarsıtmaq
+      Usage: morale = the confidence and enthusiasm of a group
+   5. Undermine the foundations — Əsaslarını (bünövrəsini) sarsıtmaq
+      Usage: foundation = the base on which something stands
+   6. Undermine sb's self-esteem — Kiminsə özünə hörmətini sarsıtmaq
+      Usage: self-esteem = a feeling of being happy with your own character and abilities
+   7. Undermine the integrity — Bütövlüyünə (dürüstlüyünə) xələl gətirmək
+      Usage: integrity = the state of being whole; also honesty
+   8. Fatally undermine — Sağalmaz zərbə vurmaq, tamamilə sarsıtmaq
+      Usage: fatally = in a way that causes failure or death
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The scandal has undermined public trust in the police.
+      → Qalmaqal ictimaiyyətin polisə etimadını sarsıdıb.
+   2. Constant criticism can undermine a child's self-esteem.
+      → Daimi tənqid uşağın özünə hörmətini sarsıda bilər.
+   3. Parents should not undermine a teacher's authority.
+      → Valideynlər müəllimin nüfuzunu sarsıtmamalıdırlar.
+   4. The leak fatally undermined the minister's credibility.
+      → Məlumat sızması nazirin etibarına sağalmaz zərbə vurdu.
+
+E. USAGE EXPLANATION
+   UNDERMINE means to make something weaker or less effective gradually, often secretly. Literally
+   it means to dig under a wall so that it falls. Its objects are abstract: confidence, authority,
+   position, credibility, efforts, democracy. Compare WEAKEN (general), ERODE (slowly destroy over
+   time) and SABOTAGE (damage deliberately). It is a favourite verb in argumentative essays: "This
+   would undermine the principle of equality."
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): UNDERMINE [main], authority, trust, credibility,
+      morale, foundation, self-esteem, integrity, fatally
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,741 → 1,750 items).
+
+====================================================================================================
+LESSON C1-019   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: VIABLE
+Azerbaijani: Həyata keçirilə bilən, yaşamaq qabiliyyəti olan, səmərəli
+
+A. MAIN WORD
+   English spelling ....... viable
+   Azerbaijani meaning .... həyata keçirilə bilən, yaşamaq qabiliyyəti olan, səmərəli
+   Part of speech ......... adjective
+   British English IPA .... /ˈvaɪəbəl/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ viability — yaşamaq qabiliyyəti, məqsədəuyğunluq
+   Verb forms ........ —
+   Adjective forms ... viable (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. A viable proposition — Həyata keçirilə bilən (sərfəli) təklif
+      Usage: proposition = an offer or plan, especially in business
+   2. A viable livelihood — Dolanışığı təmin edən məşğuliyyət
+      Usage: livelihood = the way you earn the money you need to live
+   3. A viable substitute — Tam əvəz edə bilən vasitə
+      Usage: substitute = a thing used in place of another
+   4. A viable enterprise — Ayaqda dura bilən müəssisə
+      Usage: enterprise = a company or business
+   5. A viable route — İstifadəsi mümkün olan marşrut (yol)
+      Usage: route = a way from one place to another
+   6. Barely viable — Güclə ayaqda duran
+      Usage: barely = only just; almost not
+   7. A viable model — İşlək model
+      Usage: model = a system that can be copied by others
+   8. Ensure the viability — Yaşamaq qabiliyyətini təmin etmək
+      Usage: ensure = make certain that something happens
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Solar power is now a viable alternative to coal.
+      → Günəş enerjisi artıq kömürə real alternativdir.
+   2. Without more customers, the shop is barely viable.
+      → Daha çox müştəri olmasa, mağaza güclə ayaqda durur.
+   3. Small farms are no longer a viable livelihood for many families.
+      → Kiçik təsərrüfatlar artıq bir çox ailənin dolanışığını təmin etmir.
+   4. The loan will ensure the viability of the project.
+      → Kredit layihənin yaşamaq qabiliyyətini təmin edəcək.
+
+E. USAGE EXPLANATION
+   VIABLE describes a plan, business or method that can work successfully. It often follows an
+   adverb: commercially viable, economically viable, financially viable. Compare FEASIBLE (possible
+   to do) – a project may be feasible but not viable if it cannot survive or make money. The most
+   common nouns after it are ALTERNATIVE, OPTION, SOLUTION and BUSINESS. In biology, VIABLE means
+   able to live: viable seeds.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): VIABLE [main], viability [family], proposition,
+      livelihood, substitute, enterprise, route, barely, model, ensure
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,750 → 1,760 items).
+
+====================================================================================================
+LESSON C1-020   |   UNIT 2: Policy, evaluation and criticism
+====================================================================================================
+MAIN WORD: CONSENSUS
+Azerbaijani: Ümumi razılıq, yekdil rəy, konsensus
+
+A. MAIN WORD
+   English spelling ....... consensus
+   Azerbaijani meaning .... ümumi razılıq, yekdil rəy, konsensus
+   Part of speech ......... noun
+   British English IPA .... /kənˈsensəs/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ consensus (main word); consensus-building — ümumi razılığın formalaşdırılması
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Consensus on — Nə barədəsə ümumi razılıq
+      Usage: The preposition is ON (or ABOUT)
+   2. By consensus — Ümumi razılıq əsasında
+      Usage: decide / govern by consensus
+   3. A fragile consensus — Kövrək razılıq
+      Usage: fragile = easily broken or destroyed
+   4. An overwhelming consensus — Böyük əksəriyyətin yekdil rəyi
+      Usage: overwhelming = very great in amount
+   5. A cross-party consensus — Partiyalararası razılıq
+      Usage: cross-party = involving several political parties
+   6. Forge a consensus — Razılıq formalaşdırmaq (əldə etmək)
+      Usage: forge = create something strong with effort
+   7. A tacit consensus — Dilə gətirilməyən (səssiz) razılıq
+      Usage: tacit = understood without being said
+   8. A consensus in favour of — Nəyinsə lehinə ümumi rəy
+      Usage: in favour of = supporting
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There is a growing consensus on the need for reform.
+      → İslahatın zəruriliyi barədə getdikcə daha çox ümumi razılıq yaranır.
+   2. Decisions in the committee are taken by consensus.
+      → Komitədə qərarlar ümumi razılıq əsasında qəbul edilir.
+   3. There is an overwhelming consensus among scientists that the climate is changing.
+      → Alimlərin böyük əksəriyyəti iqlimin dəyişdiyi barədə yekdil rəydədir.
+   4. The prime minister tried to forge a consensus between the two sides.
+      → Baş nazir iki tərəf arasında razılıq əldə etməyə çalışdı.
+
+E. USAGE EXPLANATION
+   CONSENSUS is general agreement among the members of a group. It is singular and usually takes "a"
+   or "the": "reach a consensus", "the consensus is that ...". The spelling is conSENsus (it is not
+   related to "census"). "Consensus of opinion" is common but is criticised as repetitive, because
+   consensus already means agreement of opinion. Typical verbs: reach, achieve, build, forge a
+   consensus; a consensus emerges or breaks down.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): CONSENSUS [main], consensus-building [family],
+      fragile, overwhelming, cross-party, forge, tacit, favour
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,760 → 1,768 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 2 (Policy, evaluation and criticism)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: IMPLEMENT, INCENTIVE, INHERENT, MITIGATE, PREVALENT, PROFOUND, SCRUTINY, UNDERMINE, VIABLE, CONSENSUS
+   New items registered in this unit: 95   |   Database total after this unit: 1,768
+   added, admiration, authority, barely, bias, bonus, characteristic, CONSENSUS, consensus-building,
+   contradiction, credibility, cross-party, deaf, defect, diabetes, directive, disincentive,
+   disruption, ensure, enterprise, escape, evil, expenditure, fallout, fatally, favour, fiscal,
+   flooding, forge, foundation, fragile, gratitude, grief, guideline, hazard, heightened, ideology,
+   IMPLEMENT, implementation, implication, INCENTIVE, incentivise, inflation, influence, INHERENT,
+   inherently, initiative, integrity, international, judicial, justice, legislation, livelihood,
+   lucrative, misconception, MITIGATE, mitigation, model, morale, norm, oversee, overwhelming,
+   parliamentary, partially, particularly, penalty, perverse, prevail, prevailing, prevalence,
+   PREVALENT, procedure, PROFOUND, profoundly, proposition, recommendation, recycle, route,
+   sanction, sceptical, scrutinise, SCRUTINY, self-esteem, stereotype, subjective, substitute,
+   superior, tacit, transformation, trust, UNDERMINE, unmitigated, viability, VIABLE, withstand
+
+
+####################################################################################################
+#  UNIT 3 — FEASIBILITY, RESILIENCE AND INEQUALITY
+#  Mümkünlük, dayanıqlılıq və bərabərsizlik
+####################################################################################################
+
+====================================================================================================
+LESSON C1-021   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: FEASIBLE
+Azerbaijani: Mümkün, həyata keçirilə bilən
+
+A. MAIN WORD
+   English spelling ....... feasible
+   Azerbaijani meaning .... mümkün, həyata keçirilə bilən
+   Part of speech ......... adjective
+   British English IPA .... /ˈfiːzəbəl/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ feasibility — mümkünlük, həyata keçirilmə imkanı
+   Verb forms ........ —
+   Adjective forms ... feasible (main word); unfeasible — mümkün olmayan, qeyri-real
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. It is feasible to — Nəyisə etmək mümkündür
+      Usage: Impersonal pattern + infinitive
+   2. A feasible timetable — Real (icrası mümkün) qrafik
+      Usage: timetable = a plan of when things will happen
+   3. Render sth feasible — Nəyisə mümkün etmək
+      Usage: render = cause something to be in a particular state (formal)
+   4. A feasible compromise — Mümkün kompromis
+      Usage: compromise = an agreement in which each side gives up something
+   5. Entirely feasible — Tamamilə mümkün
+      Usage: entirely = completely
+   6. A feasible remedy — Mümkün çarə
+      Usage: remedy = a way of dealing with a problem
+   7. Explore the feasibility — Mümkünlüyünü araşdırmaq
+      Usage: explore = examine carefully to find out more
+   8. Demonstrate the feasibility — Mümkünlüyünü sübut etmək (nümayiş etdirmək)
+      Usage: demonstrate = show clearly by giving proof
+
+D. NATURAL EXAMPLE SENTENCES
+   1. It is not feasible to finish the work by Friday.
+      → İşi cümə gününə qədər bitirmək mümkün deyil.
+   2. New technology has rendered the project feasible.
+      → Yeni texnologiya layihəni mümkün edib.
+   3. The council is exploring the feasibility of building a new bridge.
+      → Bələdiyyə yeni körpü tikməyin mümkünlüyünü araşdırır.
+   4. We need a plan with a feasible timetable.
+      → Bizə icrası mümkün qrafiki olan plan lazımdır.
+
+E. USAGE EXPLANATION
+   FEASIBLE means possible and practical to do, given the time, money and technology available. A
+   FEASIBILITY STUDY examines whether a project is worth starting. Adverbs: technically feasible,
+   economically feasible, perfectly feasible. Compare POSSIBLE (can happen), FEASIBLE (can be done
+   in practice), VIABLE (can succeed and survive) and PLAUSIBLE (can be believed). The negative
+   forms are "not feasible", UNFEASIBLE and INFEASIBLE.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): FEASIBLE [main], feasibility [family], unfeasible
+      [family], timetable, render, compromise, entirely, remedy, explore, demonstrate
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,768 → 1,778 items).
+
+====================================================================================================
+LESSON C1-022   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: FOSTER
+Azerbaijani: İnkişafına kömək etmək, təşviq etmək; himayəyə götürmək
+
+A. MAIN WORD
+   English spelling ....... foster
+   Azerbaijani meaning .... inkişafına kömək etmək, təşviq etmək; himayəyə götürmək
+   Part of speech ......... verb, adjective
+   Key forms .............. foster – fosters – fostered – fostered – fostering
+   British English IPA .... /ˈfɒstə/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ foster (main word)
+   Adjective forms ... foster (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Foster creativity — Yaradıcılığı inkişaf etdirmək
+      Usage: creativity = the ability to produce new and original ideas
+   2. Foster a spirit of — ... ruhunu aşılamaq
+      Usage: spirit = a particular attitude or feeling
+   3. Foster goodwill — Xoş münasibət yaratmaq
+      Usage: goodwill = friendly feelings towards other people
+   4. Foster curiosity — Bilmək həvəsini inkişaf etdirmək
+      Usage: curiosity = a strong desire to know about things
+   5. Foster unity — Birliyi möhkəmləndirmək
+      Usage: unity = the state of being joined together and in agreement
+   6. Foster harmony — Harmoniyanı (həmahəngliyi) təşviq etmək
+      Usage: harmony = a state of peaceful agreement
+   7. Foster resentment — Kin-küdurət yaratmaq
+      Usage: resentment = a feeling of anger about something unfair
+   8. Foster inclusion — İnklüzivliyi (hər kəsin cəlb olunmasını) təşviq etmək
+      Usage: inclusion = making sure that everyone is able to take part
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Good schools foster creativity as well as knowledge.
+      → Yaxşı məktəblər biliklə yanaşı yaradıcılığı da inkişaf etdirir.
+   2. The club aims to foster a spirit of cooperation among young people.
+      → Klub gənclər arasında əməkdaşlıq ruhunu aşılamağı qarşısına məqsəd qoyub.
+   3. Such unfair treatment only fosters resentment.
+      → Belə ədalətsiz rəftar yalnız kin-küdurət yaradır.
+   4. They have fostered several children over the years.
+      → Onlar bu illər ərzində bir neçə uşağı himayəyə götürüblər.
+
+E. USAGE EXPLANATION
+   FOSTER means to encourage something good to develop over time: foster understanding, foster
+   relations, foster a sense of community. It can also be used of negative feelings (foster
+   resentment). Its second meaning is to take another person's child into your home for a period
+   without becoming the legal parent – compare ADOPT, which is permanent. As an adjective: foster
+   parents, a foster child, foster care. Synonyms: PROMOTE, ENCOURAGE, NURTURE, CULTIVATE.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): FOSTER [main], creativity, spirit, goodwill,
+      curiosity, unity, harmony, resentment, inclusion
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,778 → 1,787 items).
+
+====================================================================================================
+LESSON C1-023   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: HINDER
+Azerbaijani: Mane olmaq, əngəl törətmək
+
+A. MAIN WORD
+   English spelling ....... hinder
+   Azerbaijani meaning .... mane olmaq, əngəl törətmək
+   Part of speech ......... verb
+   Key forms .............. hinder – hinders – hindered – hindered – hindering
+   British English IPA .... /ˈhɪndə/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The open reference wordlist places this headword at C2; it is taught
+                           here at C1 because the expressions chosen for it are C1 material
+                           (wordlists differ).
+
+B. WORD FAMILY
+   Noun forms ........ hindrance — maneə, əngəl
+   Verb forms ........ hinder (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Hinder an investigation — İstintaqa (araşdırmaya) mane olmaq
+      Usage: investigation = an official examination of the facts
+   2. Hinder mobility — Hərəkət imkanını məhdudlaşdırmaq
+      Usage: mobility = the ability to move easily
+   3. Hinder the search — Axtarışa mane olmaq
+      Usage: search = an attempt to find somebody or something
+   4. Hinder sb from doing sth — Kiminsə nəyisə etməsinə mane olmaq
+      Usage: Pattern: hinder + object + FROM + -ing
+   5. Hinder productivity — Məhsuldarlığı aşağı salmaq
+      Usage: productivity = the rate at which goods are produced
+   6. Hinder the delivery — Çatdırılmasına mane olmaq
+      Usage: delivery = taking goods or services to people
+   7. Hinder visibility — Görmə məsafəsini məhdudlaşdırmaq
+      Usage: visibility = how far you can see
+   8. Without hindrance — Maneəsiz
+      Usage: Formal: move / travel without hindrance
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Heavy snow hindered the search for the missing climbers.
+      → Güclü qar itkin düşmüş alpinistlərin axtarışına mane oldu.
+   2. Lack of sleep can seriously hinder productivity.
+      → Yuxusuzluq məhsuldarlığı ciddi şəkildə aşağı sala bilər.
+   3. Fog hindered visibility on the motorway.
+      → Duman avtomagistralda görmə məsafəsini məhdudlaşdırdı.
+   4. High costs hinder many young people from starting a business.
+      → Yüksək xərclər bir çox gəncin biznes qurmasına mane olur.
+
+E. USAGE EXPLANATION
+   HINDER means to make it difficult for something to happen or for somebody to do something; unlike
+   PREVENT, it does not stop it completely. Patterns: hinder something; hinder somebody FROM doing
+   something. The noun HINDRANCE loses the "e": hinder – hindrance. "More of a hindrance than a
+   help" is a common phrase. Synonyms: HAMPER, IMPEDE (formal), OBSTRUCT (block deliberately).
+   Opposites: HELP, FACILITATE.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): HINDER [main], hindrance [family], investigation,
+      mobility, search, productivity, delivery, visibility
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,787 → 1,795 items).
+
+====================================================================================================
+LESSON C1-024   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: PLAUSIBLE
+Azerbaijani: Ağlabatan, inandırıcı
+
+A. MAIN WORD
+   English spelling ....... plausible
+   Azerbaijani meaning .... ağlabatan, inandırıcı
+   Part of speech ......... adjective
+   British English IPA .... /ˈplɔːzəbəl/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ plausibility — ağlabatanlıq, inandırıcılıq
+   Verb forms ........ —
+   Adjective forms ... plausible (main word); implausible — ağlabatmayan, inandırıcı olmayan
+   Adverb forms ...... plausibly — ağlabatan şəkildə
+
+C. RELATED EXPRESSIONS
+   1. A plausible excuse — Ağlabatan bəhanə
+      Usage: excuse = a reason that you give to explain bad behaviour
+   2. A plausible scenario — Mümkün (ağlabatan) ssenari
+      Usage: scenario = a description of how things might happen
+   3. A plausible hypothesis — Ağlabatan fərziyyə
+      Usage: hypothesis = an idea that has not yet been proved
+   4. A plausible interpretation — Ağlabatan şərh (yozum)
+      Usage: interpretation = the particular way in which something is understood
+   5. Seem plausible — Ağlabatan görünmək
+      Usage: seem = give the impression of being
+   6. A plausible pretext — İnandırıcı bəhanə
+      Usage: pretext = a false reason given to hide the real one
+   7. Superficially plausible — Zahirən ağlabatan
+      Usage: superficially = only on the surface
+   8. An implausible coincidence — İnanılmaz təsadüf
+      Usage: coincidence = two things happening at the same time by chance
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She could not think of a plausible excuse for being late.
+      → O, gecikməsi üçün ağlabatan bəhanə fikirləşə bilmədi.
+   2. The explanation seems plausible, but there is no evidence for it.
+      → İzah ağlabatan görünür, amma onu təsdiq edən sübut yoxdur.
+   3. Scientists have put forward several plausible hypotheses.
+      → Alimlər bir neçə ağlabatan fərziyyə irəli sürüblər.
+   4. The plot of the film depends on a rather implausible coincidence.
+      → Filmin süjeti olduqca inanılmaz bir təsadüf üzərində qurulub.
+
+E. USAGE EXPLANATION
+   PLAUSIBLE describes an explanation or statement that seems reasonable and likely to be true,
+   although it has not been proved. It can also describe a person who is good at sounding honest
+   when they may not be: "a plausible liar". Do not confuse PLAUSIBLE (believable) with POSSIBLE
+   (can happen) or FEASIBLE (can be done). The opposite is IMPLAUSIBLE. A useful hedge for essays:
+   "It is plausible that ...".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (12): PLAUSIBLE [main], plausibility [family],
+      implausible [family], plausibly [family], excuse, scenario, hypothesis, interpretation, seem,
+      pretext, superficially, coincidence
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,795 → 1,807 items).
+
+====================================================================================================
+LESSON C1-025   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: RESILIENT
+Azerbaijani: Dayanıqlı, tez özünə gələn, möhkəm
+
+A. MAIN WORD
+   English spelling ....... resilient
+   Azerbaijani meaning .... dayanıqlı, tez özünə gələn, möhkəm
+   Part of speech ......... adjective
+   British English IPA .... /rɪˈzɪliənt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ resilience — dayanıqlılıq, çətinlikdən sonra bərpa olunma qabiliyyəti
+   Verb forms ........ —
+   Adjective forms ... resilient (main word); climate-resilient — iqlim dəyişikliyinə davamlı
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Remarkably resilient — Heyrətamiz dərəcədə dayanıqlı
+      Usage: remarkably = in a way that is unusual and surprising
+   2. Resilient to setbacks — Uğursuzluqlara qarşı dayanıqlı
+      Usage: setback = a problem that delays progress
+   3. Resilience in adversity — Çətin günlərdə dayanıqlılıq
+      Usage: adversity = a difficult or unpleasant situation
+   4. Resilient to drought — Quraqlığa davamlı
+      Usage: drought = a long period without rain
+   5. Climate-resilient crops — İqlim dəyişikliyinə davamlı bitkilər (əkinlər)
+      Usage: crop = a plant grown in large quantities for food
+   6. Psychological resilience — Psixoloji dayanıqlılıq
+      Usage: psychological = connected with the mind
+   7. Enhance resilience — Dayanıqlılığı artırmaq
+      Usage: enhance = improve the quality or strength of
+   8. Inner resilience — Daxili dayanıqlılıq (mətanət)
+      Usage: inner = private and inside your mind
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Children are often remarkably resilient.
+      → Uşaqlar çox vaxt heyrətamiz dərəcədə dayanıqlı olurlar.
+   2. The economy has proved resilient to external shocks.
+      → İqtisadiyyat xarici sarsıntılara qarşı dayanıqlı olduğunu göstərdi.
+   3. Farmers are being encouraged to plant climate-resilient crops.
+      → Fermerlər iqlim dəyişikliyinə davamlı bitkilər əkməyə təşviq olunurlar.
+   4. Sport can enhance young people's psychological resilience.
+      → İdman gənclərin psixoloji dayanıqlılığını artıra bilər.
+
+E. USAGE EXPLANATION
+   RESILIENT describes people, economies and systems that can recover quickly after difficulties.
+   RESILIENCE has become a key word in psychology, economics and climate policy. Patterns: resilient
+   TO shocks; resilience IN THE FACE OF difficulties. Compare TOUGH (strong enough to deal with hard
+   conditions), ROBUST (strong and unlikely to fail) and DURABLE (lasting a long time; of products).
+   Of materials, resilient means returning to the original shape after being bent.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): RESILIENT [main], resilience [family],
+      climate-resilient [family], remarkably, setback, adversity, drought, crop, psychological,
+      enhance, inner
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,807 → 1,818 items).
+
+====================================================================================================
+LESSON C1-026   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: RIGOROUS
+Azerbaijani: Ciddi, dəqiq, hərtərəfli; sərt
+
+A. MAIN WORD
+   English spelling ....... rigorous
+   Azerbaijani meaning .... ciddi, dəqiq, hərtərəfli; sərt
+   Part of speech ......... adjective
+   British English IPA .... /ˈrɪɡərəs/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ rigour — ciddilik, dəqiqlik, həmçinin (cəmdə) çətinliklər
+   Verb forms ........ —
+   Adjective forms ... rigorous (main word)
+   Adverb forms ...... rigorously — ciddi şəkildə, dəqiqliklə
+
+C. RELATED EXPRESSIONS
+   1. Rigorous selection — Ciddi seçim
+      Usage: selection = the process of choosing
+   2. Rigorous enforcement — (Qaydaların) ciddi icrası
+      Usage: enforcement = making sure that a law is obeyed
+   3. A rigorous inspection — Ciddi yoxlama
+      Usage: inspection = an official visit to check that rules are being obeyed
+   4. A rigorous evaluation — Hərtərəfli qiymətləndirmə
+      Usage: evaluation = a careful judgement about how good something is
+   5. Rigorous methodology — Dəqiq metodologiya
+      Usage: methodology = the set of methods used in a study
+   6. Intellectually rigorous — İntellektual cəhətdən ciddi
+      Usage: intellectually = in a way connected with thinking and reasoning
+   7. Rigorously monitored — Ciddi nəzarətdə saxlanılan
+      Usage: monitor = watch and check over a period of time
+   8. The rigours of — Nəyinsə çətinlikləri (sərtliyi)
+      Usage: Plural noun: the rigours of winter / of army life
+
+D. NATURAL EXAMPLE SENTENCES
+   1. All new drugs undergo rigorous testing before they are sold.
+      → Bütün yeni dərmanlar satışa çıxarılmazdan əvvəl ciddi sınaqdan keçir.
+   2. The study was praised for its rigorous methodology.
+      → Tədqiqat dəqiq metodologiyasına görə təriflənib.
+   3. Air quality in the city is rigorously monitored.
+      → Şəhərdə havanın keyfiyyəti ciddi nəzarətdə saxlanılır.
+   4. Few plants can survive the rigours of a mountain winter.
+      → Dağ qışının sərtliyinə az bitki tab gətirə bilir.
+
+E. USAGE EXPLANATION
+   RIGOROUS describes work that is careful, thorough and exact (rigorous analysis, rigorous testing)
+   or rules that are strictly applied (rigorous standards). British English spells the noun RIGOUR
+   but the adjective RIGOROUS, without the second "u"; American English writes "rigor". Compare
+   THOROUGH (complete, with attention to detail) and STRICT (demanding that rules are obeyed).
+   "Academic rigour" is a quality expected of university work.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): RIGOROUS [main], rigour [family], rigorously
+      [family], selection, enforcement, inspection, evaluation, methodology, intellectually,
+      monitored
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,818 → 1,828 items).
+
+====================================================================================================
+LESSON C1-027   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: STIGMA
+Azerbaijani: Damğa, ictimai qınaq, ləkə
+
+A. MAIN WORD
+   English spelling ....... stigma
+   Azerbaijani meaning .... damğa, ictimai qınaq, ləkə
+   Part of speech ......... noun
+   British English IPA .... /ˈstɪɡmə/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ stigma (main word)
+   Verb forms ........ stigmatise — damğalamaq, qınaq obyektinə çevirmək
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. The stigma of divorce — Boşanmanın ictimai qınağı
+      Usage: divorce = the legal ending of a marriage
+   2. A stigma associated with — Nə iləsə bağlı damğa (qınaq)
+      Usage: associated with = connected with
+   3. The stigma of addiction — Asılılığın damğası
+      Usage: addiction = being unable to stop taking or doing something harmful
+   4. The stigma of disability — Əlilliyin damğası
+      Usage: disability = a physical or mental condition that limits activity
+   5. Combat stigma — Damğalanma ilə mübarizə aparmaq
+      Usage: combat = try to stop something harmful
+   6. Stigma and shame — Damğa və utanc
+      Usage: shame = the painful feeling of having done something wrong
+   7. Stigma and prejudice — Damğa və qərəzli münasibət
+      Usage: prejudice = an unfair dislike of a group of people
+   8. Be stigmatised as — ... kimi damğalanmaq
+      Usage: Passive pattern + AS
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There is still a stigma associated with mental illness.
+      → Psixi xəstəliklə bağlı damğa hələ də qalmaqdadır.
+   2. The campaign aims to combat stigma and prejudice.
+      → Kampaniyanın məqsədi damğalanma və qərəzli münasibətlə mübarizə aparmaqdır.
+   3. In the past, the stigma of divorce was much greater.
+      → Keçmişdə boşanmanın ictimai qınağı daha güclü idi.
+   4. Children from poor families should not be stigmatised as failures.
+      → Yoxsul ailələrdən olan uşaqlar uğursuz kimi damğalanmamalıdırlar.
+
+E. USAGE EXPLANATION
+   STIGMA is the negative feeling that society has about a particular condition or behaviour, such
+   as mental illness, unemployment or poverty. It is usually uncountable or singular: "a stigma
+   attached to ...", "the stigma of ...". Typical verbs: carry a stigma, remove / reduce / overcome
+   the stigma. STIGMATISE (American: stigmatize) is mostly passive. The word is valuable for IELTS
+   topics on health and social issues.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): STIGMA [main], stigmatise [family], divorce,
+      associated, addiction, disability, combat, shame, prejudice
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,828 → 1,837 items).
+
+====================================================================================================
+LESSON C1-028   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: DISPARITY
+Azerbaijani: (Ədalətsiz) fərq, qeyri-bərabərlik, uyğunsuzluq
+
+A. MAIN WORD
+   English spelling ....... disparity
+   Azerbaijani meaning .... (ədalətsiz) fərq, qeyri-bərabərlik, uyğunsuzluq
+   Part of speech ......... noun
+   Key forms .............. disparity – disparities
+   British English IPA .... /dɪˈspærəti/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ disparity (main word)
+   Verb forms ........ —
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Disparity between — ... arasındakı fərq
+      Usage: disparity BETWEEN two groups; disparity IN income
+   2. A glaring disparity — Göz qabağında olan kəskin fərq
+      Usage: glaring = very easily seen; said of something bad
+   3. Regional disparities — Regionlar arasındakı fərqlər
+      Usage: regional = connected with a particular part of a country
+   4. Gender disparity — Gender qeyri-bərabərliyi
+      Usage: gender = the fact of being male or female
+   5. Wage disparity — Əməkhaqqı fərqi
+      Usage: wage = money paid for work, usually weekly or by the hour
+   6. Disparities persist — Fərqlər qalmaqda davam edir
+      Usage: persist = continue to exist
+   7. Narrow the disparity — Fərqi azaltmaq
+      Usage: narrow = make smaller
+   8. A stark disparity — Kəskin fərq
+      Usage: stark = very obvious and unpleasant
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There is a glaring disparity between the rich and the poor in the city.
+      → Şəhərdə varlılarla yoxsullar arasında göz qabağında olan kəskin fərq var.
+   2. The government wants to reduce regional disparities in income.
+      → Hökumət gəlirlərdə regionlar arasındakı fərqləri azaltmaq istəyir.
+   3. Wage disparity between men and women has narrowed, but it has not disappeared.
+      → Kişilərlə qadınlar arasında əməkhaqqı fərqi azalıb, amma aradan qalxmayıb.
+   4. Despite the reforms, serious disparities persist.
+      → İslahatlara baxmayaraq, ciddi fərqlər qalmaqda davam edir.
+
+E. USAGE EXPLANATION
+   A DISPARITY is a difference, especially one that is unfair: a disparity BETWEEN groups, a
+   disparity IN pay, health or opportunity. It is stronger and more formal than DIFFERENCE and close
+   to INEQUALITY and GAP. Useful collocations for IELTS Task 2: "the growing disparity between rich
+   and poor", "address regional disparities". Do not confuse it with DISCREPANCY, a difference
+   between two things that should be the same (figures, accounts, statements).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): DISPARITY [main], glaring, regional, gender, wage,
+      persist, narrow, stark
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,837 → 1,845 items).
+
+====================================================================================================
+LESSON C1-029   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: DETRIMENTAL
+Azerbaijani: Zərərli, ziyanlı
+
+A. MAIN WORD
+   English spelling ....... detrimental
+   Azerbaijani meaning .... zərərli, ziyanlı
+   Part of speech ......... adjective
+   British English IPA .... /ˌdetrɪˈmentəl/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ detriment — zərər, ziyan
+   Verb forms ........ —
+   Adjective forms ... detrimental (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Detrimental to — Nəyəsə zərərli
+      Usage: The preposition is TO
+   2. Detrimental to welfare — Rifaha zərərli
+      Usage: welfare = the general health, happiness and safety of people
+   3. Detrimental to biodiversity — Biomüxtəlifliyə zərərli
+      Usage: biodiversity = the variety of plants and animals in an area
+   4. Detrimental to the ecosystem — Ekosistemə zərərli
+      Usage: ecosystem = all the living things in an area and their environment
+   5. Mutually detrimental — Hər iki tərəf üçün zərərli
+      Usage: mutually = felt or done equally by both sides
+   6. Detrimental to concentration — Diqqətin cəmlənməsinə mane olan
+      Usage: concentration = the ability to give all your attention to one thing
+   7. To the detriment of — Nəyinsə zərərinə
+      Usage: Formal fixed phrase
+   8. Without detriment to — Nəyəsə xələl gətirmədən
+      Usage: Formal fixed phrase
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Too much screen time can be detrimental to children's health.
+      → Ekran qarşısında həddindən artıq vaxt keçirmək uşaqların sağlamlığına zərərli ola bilər.
+   2. The use of pesticides is detrimental to biodiversity.
+      → Pestisidlərdən istifadə biomüxtəlifliyə zərərlidir.
+   3. He worked long hours, to the detriment of his family life.
+      → O, ailə həyatının zərərinə uzun saatlar işləyirdi.
+   4. Constant noise is detrimental to concentration.
+      → Daimi səs-küy diqqətin cəmlənməsinə mane olur.
+
+E. USAGE EXPLANATION
+   DETRIMENTAL is a formal synonym of HARMFUL and DAMAGING. It is almost always followed by TO:
+   "detrimental to health", or used before EFFECT or IMPACT: "a detrimental effect on the
+   environment". The noun appears mainly in two fixed phrases: "to the detriment of" (resulting in
+   harm to) and "without detriment to". The opposite is BENEFICIAL. It is an excellent upgrade for
+   "bad for" in formal essays.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (7): DETRIMENTAL [main], detriment [family], welfare,
+      biodiversity, ecosystem, mutually, concentration
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,845 → 1,852 items).
+
+====================================================================================================
+LESSON C1-030   |   UNIT 3: Feasibility, resilience and inequality
+====================================================================================================
+MAIN WORD: DEPLETE
+Azerbaijani: Tükətmək, azaltmaq
+
+A. MAIN WORD
+   English spelling ....... deplete
+   Azerbaijani meaning .... tükətmək, azaltmaq
+   Part of speech ......... verb
+   Key forms .............. deplete – depletes – depleted – depleted – depleting
+   British English IPA .... /dɪˈpliːt/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ depletion — tükənmə, azalma
+   Verb forms ........ deplete (main word)
+   Adjective forms ... depleted — tükənmiş, azalmış
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Deplete reserves — Ehtiyatları tükətmək
+      Usage: reserve = a supply kept for future use
+   2. Deplete the ozone layer — Ozon təbəqəsini dağıtmaq (nazikləşdirmək)
+      Usage: ozone = a gas high above the Earth; layer = a thin sheet of a substance
+   3. Deplete the battery — Batareyanı boşaltmaq
+      Usage: battery = a device that stores electricity
+   4. Deplete nutrients — Qida maddələrini tükətmək
+      Usage: nutrient = a substance that plants and animals need to grow
+   5. Deplete groundwater — Yeraltı suları tükətmək
+      Usage: groundwater = water found under the ground
+   6. Deplete oxygen — Oksigeni tükətmək
+      Usage: oxygen = the gas in the air that we need to breathe
+   7. A depleted squad — Sıraları seyrəlmiş komanda (heyət)
+      Usage: squad = a group of players from which a team is chosen
+   8. Oil depletion — Neft ehtiyatlarının tükənməsi
+      Usage: oil = the thick liquid from under the ground used for fuel
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Overfishing has seriously depleted fish stocks in the North Sea.
+      → Həddindən artıq balıq ovu Şimal dənizində balıq ehtiyatlarını ciddi şəkildə azaldıb.
+   2. Certain chemicals deplete the ozone layer.
+      → Bəzi kimyəvi maddələr ozon təbəqəsini dağıdır.
+   3. Growing the same crop every year depletes nutrients in the soil.
+      → Hər il eyni bitkini əkmək torpaqdakı qida maddələrini tükədir.
+   4. Using the camera a lot will quickly deplete the battery.
+      → Kameradan çox istifadə etmək batareyanı tez boşaldacaq.
+
+E. USAGE EXPLANATION
+   DEPLETE means to reduce the amount of something so that there is not enough left; it is usually
+   passive: "Stocks are seriously depleted." It is typical of environmental writing: deplete natural
+   resources, the depletion of the ozone layer. Compare EXHAUST (use up completely), DRAIN (use up
+   strength, money or energy) and RUN OUT OF (informal). The opposite is REPLENISH (fill again).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (12): DEPLETE [main], depletion [family], depleted
+      [family], reserve, ozone, layer, battery, nutrient, groundwater, oxygen, squad, oil
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,852 → 1,864 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 3 (Feasibility, resilience and inequality)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: FEASIBLE, FOSTER, HINDER, PLAUSIBLE, RESILIENT, RIGOROUS, STIGMA, DISPARITY, DETRIMENTAL, DEPLETE
+   New items registered in this unit: 96   |   Database total after this unit: 1,864
+   addiction, adversity, associated, battery, biodiversity, climate-resilient, coincidence, combat,
+   compromise, concentration, creativity, crop, curiosity, delivery, demonstrate, DEPLETE, depleted,
+   depletion, detriment, DETRIMENTAL, disability, DISPARITY, divorce, drought, ecosystem,
+   enforcement, enhance, entirely, evaluation, excuse, explore, feasibility, FEASIBLE, FOSTER,
+   gender, glaring, goodwill, groundwater, harmony, HINDER, hindrance, hypothesis, implausible,
+   inclusion, inner, inspection, intellectually, interpretation, investigation, layer, methodology,
+   mobility, monitored, mutually, narrow, nutrient, oil, oxygen, ozone, persist, plausibility,
+   PLAUSIBLE, plausibly, prejudice, pretext, productivity, psychological, regional, remarkably,
+   remedy, render, resentment, reserve, resilience, RESILIENT, RIGOROUS, rigorously, rigour,
+   scenario, search, seem, selection, setback, shame, spirit, squad, stark, STIGMA, stigmatise,
+   superficially, timetable, unfeasible, unity, visibility, wage, welfare
+
+
+####################################################################################################
+#  UNIT 4 — POWER, RISK AND RESPONSIBILITY
+#  Hakimiyyət, risk və məsuliyyət
+####################################################################################################
+
+====================================================================================================
+LESSON C1-031   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: ENDORSE
+Azerbaijani: Bəyənmək, dəstəkləmək, təsdiq etmək; (məhsulu) reklam etmək
+
+A. MAIN WORD
+   English spelling ....... endorse
+   Azerbaijani meaning .... bəyənmək, dəstəkləmək, təsdiq etmək; (məhsulu) reklam etmək
+   Part of speech ......... verb
+   Key forms .............. endorse – endorses – endorsed – endorsed – endorsing
+   British English IPA .... /ɪnˈdɔːs/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ endorsement — dəstək, təsdiq, həmçinin reklam xarakterli tövsiyə
+   Verb forms ........ endorse (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Officially endorse — Rəsmən dəstəkləmək
+      Usage: officially = publicly and by somebody in authority
+   2. Endorse a treaty — Müqaviləni (sazişi) bəyənmək
+      Usage: treaty = a formal agreement between countries
+   3. Endorse a motion — Təklifi dəstəkləmək (iclasda)
+      Usage: motion = a formal proposal discussed and voted on at a meeting
+   4. Endorse a verdict — Hökmü (qərarı) təsdiqləmək
+      Usage: verdict = a decision made by a jury, or an official judgement
+   5. Wholeheartedly endorse — Ürəkdən dəstəkləmək
+      Usage: wholeheartedly = completely and with enthusiasm
+   6. Unanimously endorse — Yekdilliklə dəstəkləmək
+      Usage: unanimously = with the agreement of everyone
+   7. A celebrity endorsement — Məşhur şəxsin (məhsula) dəstəyi
+      Usage: celebrity = a famous person
+   8. A ringing endorsement — Qəti və açıq dəstək
+      Usage: ringing = here: strong and clear
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The committee unanimously endorsed the proposal.
+      → Komitə təklifi yekdilliklə dəstəklədi.
+   2. I wholeheartedly endorse everything she has said.
+      → Onun dediyi hər şeyi ürəkdən dəstəkləyirəm.
+   3. The party has officially endorsed her as its candidate.
+      → Partiya onu rəsmən öz namizədi kimi dəstəkləyib.
+   4. Celebrity endorsements can increase sales dramatically.
+      → Məşhurların dəstəyi satışları kəskin artıra bilər.
+
+E. USAGE EXPLANATION
+   ENDORSE means to say publicly that you support a person, statement or course of action. In
+   advertising it means that a famous person says they use and like a product. In British English a
+   driving licence can also be "endorsed" with a record of an offence. Compare APPROVE (officially
+   accept), BACK (support, less formal) and RATIFY (make a treaty officially valid). The noun takes
+   OF or FROM: "an endorsement of the plan".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): ENDORSE [main], endorsement [family], officially,
+      treaty, motion, verdict, wholeheartedly, unanimously, celebrity, ringing
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,864 → 1,874 items).
+
+====================================================================================================
+LESSON C1-032   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: ERODE
+Azerbaijani: Aşındırmaq, yuyub aparmaq; tədricən zəiflətmək
+
+A. MAIN WORD
+   English spelling ....... erode
+   Azerbaijani meaning .... aşındırmaq, yuyub aparmaq; tədricən zəiflətmək
+   Part of speech ......... verb
+   Key forms .............. erode – erodes – eroded – eroded – eroding
+   British English IPA .... /ɪˈrəʊd/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ erosion — eroziya, aşınma
+   Verb forms ........ erode (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Erode the cliffs — Qayalıqları aşındırmaq
+      Usage: cliff = a high area of rock with a very steep side, often by the sea
+   2. Erode faith — İnamı tədricən zəiflətmək
+      Usage: faith = trust in somebody or something
+   3. Erode the boundaries — Sərhədləri tədricən silmək
+      Usage: boundary = a line that marks a limit
+   4. Erode sovereignty — Suverenliyi zəiflətmək
+      Usage: sovereignty = a country's power to govern itself
+   5. Erode privacy — Şəxsi həyatın toxunulmazlığını zəiflətmək
+      Usage: privacy = the state of being free from public attention
+   6. Erode civil liberties — Vətəndaş azadlıqlarını məhdudlaşdırmaq
+      Usage: civil = connected with citizens; liberty = freedom
+   7. Soil erosion — Torpaq eroziyası
+      Usage: soil = the top layer of the earth in which plants grow
+   8. Coastal erosion — Sahil eroziyası
+      Usage: coastal = of the land beside the sea
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The sea is slowly eroding the cliffs.
+      → Dəniz qayalıqları yavaş-yavaş aşındırır.
+   2. Repeated scandals have eroded public faith in politicians.
+      → Təkrarlanan qalmaqallar ictimaiyyətin siyasətçilərə inamını zəiflədib.
+   3. Cutting down forests leads to soil erosion.
+      → Meşələrin qırılması torpaq eroziyasına gətirib çıxarır.
+   4. Critics say the new law will erode civil liberties.
+      → Tənqidçilər yeni qanunun vətəndaş azadlıqlarını məhdudlaşdıracağını deyirlər.
+
+E. USAGE EXPLANATION
+   ERODE literally describes the gradual destruction of rock or soil by sea, wind or rain.
+   Figuratively it means to destroy something gradually: erode confidence, erode support, erode the
+   value of savings. It is both transitive and intransitive ("Support has eroded"). Compare
+   UNDERMINE (weaken, often deliberately) and CORRODE (destroy metal by chemical action). The noun
+   EROSION is uncountable.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): ERODE [main], erosion [family], cliff, faith,
+      boundary, sovereignty, privacy, civil, liberty, soil, coastal
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,874 → 1,885 items).
+
+====================================================================================================
+LESSON C1-033   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: INTERVENE
+Azerbaijani: Müdaxilə etmək, araya girmək
+
+A. MAIN WORD
+   English spelling ....... intervene
+   Azerbaijani meaning .... müdaxilə etmək, araya girmək
+   Part of speech ......... verb
+   Key forms .............. intervene – intervenes – intervened – intervened – intervening
+   British English IPA .... /ˌɪntəˈviːn/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ intervention — müdaxilə; non-intervention — müdaxilə etməmək siyasəti
+   Verb forms ........ intervene (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Intervene militarily — Hərbi müdaxilə etmək
+      Usage: militarily = by using soldiers and weapons
+   2. Intervene in a dispute — Mübahisəyə müdaxilə etmək
+      Usage: dispute = a serious argument or disagreement
+   3. Intervene promptly — Dərhal müdaxilə etmək
+      Usage: promptly = without delay
+   4. Reluctant to intervene — Müdaxilə etməyə meyilli olmayan
+      Usage: reluctant = not willing to do something
+   5. Be forced to intervene — Müdaxilə etməyə məcbur olmaq
+      Usage: force = make somebody do something they do not want to do
+   6. Humanitarian intervention — Humanitar müdaxilə
+      Usage: humanitarian = concerned with reducing suffering
+   7. Divine intervention — İlahi müdaxilə
+      Usage: divine = coming from God
+   8. Surgical intervention — Cərrahi müdaxilə
+      Usage: surgical = connected with medical operations
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The police had to intervene to stop the fight.
+      → Polis davanı dayandırmaq üçün müdaxilə etməli oldu.
+   2. The central bank was forced to intervene to support the currency.
+      → Mərkəzi bank valyutanı dəstəkləmək üçün müdaxilə etməyə məcbur oldu.
+   3. The government was reluctant to intervene in the dispute.
+      → Hökumət mübahisəyə müdaxilə etməyə meyilli deyildi.
+   4. In severe cases, surgical intervention may be necessary.
+      → Ağır hallarda cərrahi müdaxilə lazım ola bilər.
+
+E. USAGE EXPLANATION
+   INTERVENE means to become involved in a situation in order to improve it or stop it getting
+   worse. It is intransitive and takes IN: "intervene IN a conflict". INTERFERE has a negative
+   meaning – to get involved where you are not wanted. "State intervention" is government action in
+   the economy. INTERVENING before a noun means "between two events": "in the intervening years".
+   "Early intervention" is a key term in education and health care.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): INTERVENE [main], intervention [family],
+      non-intervention [family], militarily, dispute, promptly, reluctant, forced, humanitarian,
+      divine, surgical
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,885 → 1,896 items).
+
+====================================================================================================
+LESSON C1-034   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: LEGITIMATE
+Azerbaijani: Qanuni, haqlı, əsaslı
+
+A. MAIN WORD
+   English spelling ....... legitimate
+   Azerbaijani meaning .... qanuni, haqlı, əsaslı
+   Part of speech ......... adjective
+   British English IPA .... /lɪˈdʒɪtɪmət/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ legitimacy — qanunilik, legitimlik
+   Verb forms ........ legitimise — qanuniləşdirmək, haqq qazandırmaq
+   Adjective forms ... legitimate (main word); illegitimate — qeyri-qanuni, əsassız
+   Adverb forms ...... legitimately — qanuni olaraq, haqlı olaraq
+
+C. RELATED EXPRESSIONS
+   1. A legitimate expectation — Əsaslı gözlənti
+      Usage: expectation = a belief that something will happen
+   2. A legitimate grievance — Əsaslı narazılıq (şikayət)
+      Usage: grievance = something that you think is unfair and complain about
+   3. A legitimate criticism — Haqlı tənqid
+      Usage: criticism = the act of saying what is wrong with something
+   4. A legitimate objection — Əsaslı etiraz
+      Usage: objection = a reason why you do not agree with something
+   5. A legitimate transaction — Qanuni əməliyyat (sövdələşmə)
+      Usage: transaction = a piece of business, such as buying or selling
+   6. Legitimate protest — Qanuni etiraz
+      Usage: protest = a public expression of strong disagreement
+   7. Confer legitimacy — Legitimlik vermək
+      Usage: confer = give an official right or quality (formal)
+   8. Legitimise a regime — Rejimi qanuniləşdirmək
+      Usage: regime = a government, especially one that was not fairly elected
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The workers have a legitimate grievance about their pay.
+      → İşçilərin əməkhaqları ilə bağlı əsaslı narazılığı var.
+   2. That is a perfectly legitimate question.
+      → Bu, tamamilə əsaslı sualdır.
+   3. Free elections confer legitimacy on a government.
+      → Azad seçkilər hökumətə legitimlik verir.
+   4. Peaceful protest is a legitimate part of democratic life.
+      → Dinc etiraz demokratik həyatın qanuni tərkib hissəsidir.
+
+E. USAGE EXPLANATION
+   LEGITIMATE means allowed by law (a legitimate business) or fair and reasonable (a legitimate
+   concern, a legitimate question). LEGAL simply means "not against the law"; LEGITIMATE adds the
+   idea of being right or justified. The adjective ends in a weak syllable, /lɪˈdʒɪtɪmət/.
+   LEGITIMACY is a central term in politics: the right of a government to rule. The opposite is
+   ILLEGITIMATE.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (13): LEGITIMATE [main], legitimacy [family], legitimise
+      [family], illegitimate [family], legitimately [family], expectation, grievance, criticism,
+      objection, transaction, protest, confer, regime
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,896 → 1,909 items).
+
+====================================================================================================
+LESSON C1-035   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: SUBTLE
+Azerbaijani: İncə, güclə sezilən; zərif
+
+A. MAIN WORD
+   English spelling ....... subtle
+   Azerbaijani meaning .... incə, güclə sezilən; zərif
+   Part of speech ......... adjective
+   Key forms .............. subtle – subtler – the subtlest
+   British English IPA .... /ˈsʌtəl/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ subtlety — incəlik, zəriflik
+   Verb forms ........ —
+   Adjective forms ... subtle (main word)
+   Adverb forms ...... subtly — incəliklə, hiss olunmadan
+
+C. RELATED EXPRESSIONS
+   1. A subtle hint — İncə işarə (eyham)
+      Usage: hint = something that you say in an indirect way
+   2. A subtle flavour — Zərif dad
+      Usage: flavour = the particular taste of a food or drink
+   3. Subtle humour — İncə yumor
+      Usage: humour = the quality of being funny
+   4. A subtle shade — Zərif çalar
+      Usage: shade = a particular type of a colour
+   5. Subtle irony — İncə istehza (ironiya)
+      Usage: irony = saying the opposite of what you mean, often as a joke
+   6. A subtle clue — Güclə sezilən ipucu
+      Usage: clue = a fact that helps to solve a mystery
+   7. A subtle blend — Zərif qarışıq (uyğunluq)
+      Usage: blend = a mixture of different types of the same thing
+   8. Subtly alter — Hiss olunmadan dəyişmək
+      Usage: alter = change slightly
+
+D. NATURAL EXAMPLE SENTENCES
+   1. There is a subtle difference between the two words.
+      → Bu iki söz arasında incə bir fərq var.
+   2. She dropped a subtle hint that she wanted to leave.
+      → O, getmək istədiyinə incə bir işarə vurdu.
+   3. The sauce has a subtle flavour of lemon.
+      → Sousun zərif limon dadı var.
+   4. The author's subtle irony is easy to miss.
+      → Müəllifin incə istehzasını sezməmək asandır.
+
+E. USAGE EXPLANATION
+   The "b" in SUBTLE is silent: /ˈsʌtəl/, and so it is in SUBTLETY and SUBTLY. SUBTLE describes
+   something that is not obvious and is therefore difficult to notice or describe: subtle
+   differences, subtle changes, subtle colours. It also describes people or methods that are clever
+   and indirect. The spelling of the adverb is SUBTLY (not "subtlely"). The opposite ideas are
+   OBVIOUS, CRUDE and BLATANT.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): SUBTLE [main], subtlety [family], subtly [family],
+      hint, flavour, humour, shade, irony, clue, blend, alter
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,909 → 1,920 items).
+
+====================================================================================================
+LESSON C1-036   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: TRIGGER
+Azerbaijani: (Hadisəyə) səbəb olmaq, başlatmaq; tətik; təkan
+
+A. MAIN WORD
+   English spelling ....... trigger
+   Azerbaijani meaning .... (hadisəyə) səbəb olmaq, başlatmaq; tətik; təkan
+   Part of speech ......... verb, noun
+   Key forms .............. trigger – triggers – triggered – triggered – triggering
+   British English IPA .... /ˈtrɪɡə/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B1 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ trigger (main word)
+   Verb forms ........ trigger (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Trigger a chain reaction — Zəncirvari reaksiyaya səbəb olmaq
+      Usage: chain = a series of connected things; reaction = a response to something
+   2. Trigger a war — Müharibəyə səbəb olmaq
+      Usage: war = armed fighting between countries
+   3. Trigger an explosion — Partlayışa səbəb olmaq
+      Usage: explosion = the sudden, violent bursting of something such as a bomb
+   4. Trigger an allergy — Allergiya törətmək
+      Usage: allergy = a condition that makes you ill when you eat or touch a particular thing
+   5. Trigger panic — Çaxnaşma yaratmaq
+      Usage: panic = a sudden feeling of great fear
+   6. Trigger a backlash — Kəskin əks-reaksiya doğurmaq
+      Usage: backlash = a strong negative reaction by many people
+   7. Trigger an outbreak — (Xəstəliyin) alovlanmasına səbəb olmaq
+      Usage: outbreak = the sudden start of something unpleasant
+   8. Pull the trigger — Tətiyi çəkmək
+      Usage: pull = move something towards yourself; here "trigger" is a noun
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The announcement triggered panic on the stock market.
+      → Bu elan fond bazarında çaxnaşma yaratdı.
+   2. Certain foods can trigger an allergy.
+      → Bəzi qidalar allergiya törədə bilər.
+   3. The decision triggered a backlash from parents.
+      → Qərar valideynlərin kəskin əks-reaksiyasına səbəb oldu.
+   4. The collapse of one bank triggered a chain reaction.
+      → Bir bankın iflası zəncirvari reaksiyaya səbəb oldu.
+
+E. USAGE EXPLANATION
+   As a verb, TRIGGER means to make something happen suddenly: trigger a reaction, a crisis, an
+   alarm, a memory. It suggests that one small event starts a larger process, so it is more precise
+   than CAUSE. As a noun, a trigger is the part of a gun that you pull, and also anything that
+   starts a reaction: "Stress is a common trigger for headaches." Phrasal form: TRIGGER OFF.
+   Synonyms: SPARK, PROMPT, SET OFF, PROVOKE.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): TRIGGER [main], chain, reaction, war, explosion,
+      allergy, panic, backlash, outbreak, pull
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,920 → 1,930 items).
+
+====================================================================================================
+LESSON C1-037   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: UNPRECEDENTED
+Azerbaijani: Misli görünməmiş, analoqu olmayan
+
+A. MAIN WORD
+   English spelling ....... unprecedented
+   Azerbaijani meaning .... misli görünməmiş, analoqu olmayan
+   Part of speech ......... adjective
+   British English IPA .... /ʌnˈpresɪdentɪd/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ precedent — presedent, əvvəlki oxşar hal
+   Verb forms ........ —
+   Adjective forms ... unprecedented (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. An unprecedented scale — Misli görünməmiş miqyas
+      Usage: scale = the size or extent of something
+   2. Unprecedented prosperity — Misli görünməmiş rifah (firavanlıq)
+      Usage: prosperity = the state of being successful and rich
+   3. An unprecedented surge — Misli görünməmiş kəskin artım
+      Usage: surge = a sudden large increase
+   4. An unprecedented era — Analoqu olmayan dövr
+      Usage: era = a period of history
+   5. An unprecedented expansion — Misli görünməmiş genişlənmə
+      Usage: expansion = an increase in size or number
+   6. Unprecedented turmoil — Misli görünməmiş qarışıqlıq
+      Usage: turmoil = a state of great confusion and uncertainty
+   7. Virtually unprecedented — Demək olar ki, misli görünməmiş
+      Usage: virtually = almost
+   8. Without precedent — Presedenti olmayan
+      Usage: Formal fixed phrase
+
+D. NATURAL EXAMPLE SENTENCES
+   1. The floods caused damage on an unprecedented scale.
+      → Daşqınlar misli görünməmiş miqyasda ziyan vurdu.
+   2. The country is enjoying a period of unprecedented prosperity.
+      → Ölkə misli görünməmiş rifah dövrünü yaşayır.
+   3. There has been an unprecedented surge in demand for online courses.
+      → Onlayn kurslara tələbatda misli görünməmiş kəskin artım olub.
+   4. Such a decision is without precedent in the history of the court.
+      → Belə bir qərarın məhkəmənin tarixində presedenti yoxdur.
+
+E. USAGE EXPLANATION
+   UNPRECEDENTED means never having happened or existed before. It is much stronger than "unusual",
+   so use it only for truly exceptional events. A PRECEDENT is an earlier event or legal decision
+   that serves as an example for later ones: "set a precedent", "a legal precedent". The stress
+   falls on the second syllable of the adjective (unPREcedented) and on the first syllable of the
+   noun (PREcedent).
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (9): UNPRECEDENTED [main], precedent [family], scale,
+      prosperity, surge, era, expansion, turmoil, virtually
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,930 → 1,939 items).
+
+====================================================================================================
+LESSON C1-038   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: VULNERABLE
+Azerbaijani: Həssas, müdafiəsiz, zəif
+
+A. MAIN WORD
+   English spelling ....... vulnerable
+   Azerbaijani meaning .... həssas, müdafiəsiz, zəif
+   Part of speech ......... adjective
+   British English IPA .... /ˈvʌlnərəbəl/
+   CEFR level ............. C1 (Advanced)
+
+B. WORD FAMILY
+   Noun forms ........ vulnerability — həssaslıq, müdafiəsizlik, zəif nöqtə
+   Verb forms ........ —
+   Adjective forms ... vulnerable (main word)
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Vulnerable to infection — İnfeksiyaya qarşı həssas
+      Usage: infection = a disease caused by bacteria or a virus
+   2. Vulnerable to abuse — Sui-istifadəyə (zorakılığa) qarşı müdafiəsiz
+      Usage: abuse = cruel or unfair treatment
+   3. Vulnerable to fraud — Dələduzluğa qarşı müdafiəsiz
+      Usage: fraud = the crime of deceiving people to get money
+   4. Vulnerable to extinction — Nəsli kəsilmək təhlükəsi ilə üz-üzə olan
+      Usage: extinction = the situation in which a species no longer exists
+   5. Vulnerable habitats — Həssas yaşayış mühitləri
+      Usage: habitat = the natural home of a plant or animal
+   6. The elderly and vulnerable — Yaşlılar və müdafiəsiz təbəqələr
+      Usage: elderly = old (a polite word for people)
+   7. Vulnerable households — Aztəminatlı (həssas) ailələr
+      Usage: household = all the people living together in one home
+   8. Expose a vulnerability — Zəif nöqtəni üzə çıxarmaq
+      Usage: expose = show something that is usually hidden
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Young children are particularly vulnerable to infection.
+      → Kiçik uşaqlar infeksiyaya qarşı xüsusilə həssasdırlar.
+   2. The scheme provides free meals for the elderly and vulnerable.
+      → Layihə yaşlılara və müdafiəsiz təbəqələrə pulsuz yemək verir.
+   3. Many species are vulnerable to extinction because of habitat loss.
+      → Yaşayış mühitinin itirilməsi səbəbindən bir çox növ nəslinin kəsilməsi təhlükəsi ilə
+        üz-üzədir.
+   4. The attack exposed a serious vulnerability in the bank's software.
+      → Hücum bankın proqram təminatındakı ciddi zəif nöqtəni üzə çıxardı.
+
+E. USAGE EXPLANATION
+   VULNERABLE means able to be easily hurt, harmed or attacked, physically or emotionally. It takes
+   TO: "vulnerable TO attack / criticism / disease". "The vulnerable" and "vulnerable groups" are
+   standard terms in social policy for people who need special care or protection. VULNERABILITY is
+   uncountable for the general state and countable for a specific weak point, especially in
+   computing. The first "l" is pronounced: /ˈvʌlnərəbəl/.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (10): VULNERABLE [main], vulnerability [family],
+      infection, abuse, fraud, extinction, habitat, elderly, household, expose
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,939 → 1,949 items).
+
+====================================================================================================
+LESSON C1-039   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: STAKE
+Azerbaijani: Pay, maraq; risk altında olan məbləğ; paya, dirək
+
+A. MAIN WORD
+   English spelling ....... stake
+   Azerbaijani meaning .... pay, maraq; risk altında olan məbləğ; paya, dirək
+   Part of speech ......... noun, verb
+   British English IPA .... /steɪk/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at B2 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ stake (main word); stakeholder — maraqlı tərəf, payçı
+   Verb forms ........ stake (main word)
+   Adjective forms ... —
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. At stake — Risk altında, təhlükədə
+      Usage: Fixed phrase: be at stake = could be won or lost
+   2. Have a stake in — Nədəsə payı (marağı) olmaq
+      Usage: stake IN a company / IN the future
+   3. A majority stake — Nəzarət (çoxluq) payı
+      Usage: majority = more than half of the total
+   4. Acquire a stake — Pay əldə etmək
+      Usage: acquire = get or buy (formal)
+   5. Stake out territory — Ərazini öz nəzarətinə götürmək, sərhədini müəyyən etmək
+      Usage: territory = an area that one person or group controls; phrasal verb
+   6. Consult stakeholders — Maraqlı tərəflərlə məsləhətləşmək
+      Usage: consult = ask for advice or opinions
+   7. Involve stakeholders — Maraqlı tərəfləri cəlb etmək
+      Usage: involve = make somebody take part in something
+   8. Relevant stakeholders — Müvafiq maraqlı tərəflər
+      Usage: relevant = closely connected with the subject
+
+D. NATURAL EXAMPLE SENTENCES
+   1. Thousands of jobs are at stake.
+      → Minlərlə iş yeri risk altındadır.
+   2. The company has acquired a majority stake in its main rival.
+      → Şirkət əsas rəqibinin nəzarət payını əldə edib.
+   3. Young people have a stake in the future of the planet.
+      → Planetin gələcəyində gənclərin payı var.
+   4. The council promised to consult all relevant stakeholders before making a decision.
+      → Bələdiyyə qərar verməzdən əvvəl bütün müvafiq maraqlı tərəflərlə məsləhətləşməyə söz verdi.
+
+E. USAGE EXPLANATION
+   AT STAKE means that something valuable may be lost if a situation develops badly: "Our reputation
+   is at stake." A STAKE in a business is a share of it; "have a stake in something" means its
+   success matters to you. The STAKES are the things that can be gained or lost: "The stakes are
+   high." A STAKEHOLDER is any person or group affected by a project or organisation – a key term in
+   business and policy writing. As a verb: "stake your reputation ON something".
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (8): STAKE [main], stakeholder [family], majority,
+      acquire, territory, consult, involve, relevant
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,949 → 1,957 items).
+
+====================================================================================================
+LESSON C1-040   |   UNIT 4: Power, risk and responsibility
+====================================================================================================
+MAIN WORD: BEAR
+Azerbaijani: Dözmək, tab gətirmək; daşımaq, öz üzərində saxlamaq; (uşaq) doğmaq
+
+A. MAIN WORD
+   English spelling ....... bear
+   Azerbaijani meaning .... dözmək, tab gətirmək; daşımaq, öz üzərində saxlamaq; (uşaq) doğmaq
+   Part of speech ......... verb
+   Key forms .............. bear – bears – bore – borne – bearing
+   British English IPA .... /beə/
+   CEFR level ............. C1 (Advanced)
+   Level note ............. The headword on its own is listed at A1 in the open reference wordlist;
+                           this lesson is C1 because the expressions built on it are C1 material.
+
+B. WORD FAMILY
+   Noun forms ........ —
+   Verb forms ........ bear (main word)
+   Adjective forms ... bearable — dözülə bilən; unbearable — dözülməz
+   Adverb forms ...... —
+
+C. RELATED EXPRESSIONS
+   1. Bear a resemblance to — Kiməsə və ya nəyəsə bənzəmək
+      Usage: resemblance = the fact of looking like somebody or something
+   2. Bear the brunt of — Ən ağır zərbəni öz üzərinə götürmək
+      Usage: brunt = the main force of something unpleasant; used only in this phrase
+   3. Bear witness to — Nəyəsə şahidlik etmək, nəyisə sübut etmək
+      Usage: witness = a person who sees an event
+   4. Bear a grudge — Kin saxlamaq
+      Usage: grudge = a feeling of anger towards somebody because of the past
+   5. Bear the scars — (Yaşananların) izlərini daşımaq
+      Usage: scar = a mark left on the skin by a wound
+   6. Bear the hallmarks of — Nəyinsə səciyyəvi əlamətlərini daşımaq
+      Usage: hallmark = a typical feature
+   7. Grin and bear it — Dişini sıxıb dözmək
+      Usage: grin = smile widely; idiom
+   8. Unbearable agony — Dözülməz əzab
+      Usage: agony = extreme physical or mental pain
+
+D. NATURAL EXAMPLE SENTENCES
+   1. She bears a striking resemblance to her mother.
+      → O, anasına heyrətamiz dərəcədə bənzəyir.
+   2. Small businesses will bear the brunt of the tax rises.
+      → Vergi artımının ən ağır zərbəsi kiçik müəssisələrə dəyəcək.
+   3. He is not the kind of person who bears a grudge.
+      → O, kin saxlayan adam deyil.
+   4. I can't bear the thought of losing her.
+      → Onu itirmək fikrinə dözə bilmirəm.
+
+E. USAGE EXPLANATION
+   BEAR is irregular: bear – bore – borne. Its core meanings are to carry (bear a name, bear the
+   cost, bear responsibility) and to accept something unpleasant ("I can't bear the noise"), where
+   it is close to STAND and TOLERATE. Key phrases: BEAR IN MIND (remember to consider), BEAR WITH ME
+   (please be patient), BEAR OUT (confirm: "The figures bear out his claim"). The passive "be born"
+   is spelt without "e". The noun BEAR is the animal – a different word.
+
+DATABASE UPDATE
+   New vocabulary registered in this lesson (11): BEAR [main], bearable [family], unbearable
+      [family], resemblance, brunt, witness, grudge, scar, hallmark, grin, agony
+   Duplicate check: PASSED — none of these items appears anywhere else in the system (1,957 → 1,968 items).
+
+----------------------------------------------------------------------------------------------------
+UPDATED VOCABULARY INDEX — after UNIT 4 (Power, risk and responsibility)
+----------------------------------------------------------------------------------------------------
+   Main words in this unit: ENDORSE, ERODE, INTERVENE, LEGITIMATE, SUBTLE, TRIGGER, UNPRECEDENTED, VULNERABLE, STAKE, BEAR
+   New items registered in this unit: 104   |   Database total after this unit: 1,968
+   abuse, acquire, agony, allergy, alter, backlash, BEAR, bearable, blend, boundary, brunt,
+   celebrity, chain, civil, cliff, clue, coastal, confer, consult, criticism, dispute, divine,
+   elderly, ENDORSE, endorsement, era, ERODE, erosion, expansion, expectation, explosion, expose,
+   extinction, faith, flavour, forced, fraud, grievance, grin, grudge, habitat, hallmark, hint,
+   household, humanitarian, humour, illegitimate, infection, INTERVENE, intervention, involve,
+   irony, legitimacy, LEGITIMATE, legitimately, legitimise, liberty, majority, militarily, motion,
+   non-intervention, objection, officially, outbreak, panic, precedent, privacy, promptly,
+   prosperity, protest, pull, reaction, regime, relevant, reluctant, resemblance, ringing, scale,
+   scar, shade, soil, sovereignty, STAKE, stakeholder, SUBTLE, subtlety, subtly, surge, surgical,
+   territory, transaction, treaty, TRIGGER, turmoil, unanimously, unbearable, UNPRECEDENTED,
+   verdict, virtually, vulnerability, VULNERABLE, war, wholeheartedly, witness
 
 ====================================================================================================
 UPDATED VOCABULARY INDEX — END OF LEVEL C1
 ====================================================================================================
-   Main words covered at C1 (0):
-      —
+   Main words covered at C1 (40):
+      ALLEVIATE (001), ADVOCATE (002), ALLOCATE (003), AMBIGUOUS (004), COHERENT (005), COMPELLING
+      (006), CONSTRAINT (007), DETERIORATE (008), FACILITATE (009), FLUCTUATE (010), IMPLEMENT
+      (011), INCENTIVE (012), INHERENT (013), MITIGATE (014), PREVALENT (015), PROFOUND (016),
+      SCRUTINY (017), UNDERMINE (018), VIABLE (019), CONSENSUS (020), FEASIBLE (021), FOSTER (022),
+      HINDER (023), PLAUSIBLE (024), RESILIENT (025), RIGOROUS (026), STIGMA (027), DISPARITY (028),
+      DETRIMENTAL (029), DEPLETE (030), ENDORSE (031), ERODE (032), INTERVENE (033), LEGITIMATE
+      (034), SUBTLE (035), TRIGGER (036), UNPRECEDENTED (037), VULNERABLE (038), STAKE (039), BEAR
+      (040)
 
-   All vocabulary introduced at C1, A–Z (0 items; the number is the lesson):
-      —
+   All vocabulary introduced at C1, A–Z (396 items; the number is the lesson):
+      abolition 002, abuse 038, acquire 039, added 012, addiction 027, admiration 016, adversity
+      025, advocacy 002, ADVOCATE 002, agony 040, aid 003, allergy 036, ALLEVIATE 001, alleviation
+      001, ALLOCATE 003, allocation 003, alter 035, ambiguity 004, AMBIGUOUS 004, ambiguously 004,
+      anxiety 001, associated 027, attendance 006, authority 018, backlash 036, ban 002, barely 019,
+      battery 030, BEAR 040, bearable 040, behalf 002, bias 013, biodiversity 029, blend 035, bonus
+      012, boundary 032, brunt 040, burden 001, capacity 007, case 006, celebrity 031, chain 036,
+      characteristic 013, civil 032, clear 004, cliff 032, climate-resilient 025, clue 035, coastal
+      032, coherence 005, COHERENT 005, coherently 005, cohesion 005, coincidence 024, collaboration
+      009, combat 027, compel 006, COMPELLING 006, compromise 021, compulsion 006, compulsory 006,
+      concentration 029, confer 034, CONSENSUS 020, consensus-building 020, constrain 007,
+      constrained 007, CONSTRAINT 007, consult 039, contradiction 013, convention 007, creativity
+      022, credibility 018, criticism 034, crop 025, cross-party 020, curiosity 022, currency 010,
+      deaf 016, decision-making 009, defect 013, deliberately 004, delivery 023, demonstrate 021,
+      DEPLETE 030, depleted 030, depletion 030, DETERIORATE 008, deterioration 008, detriment 029,
+      DETRIMENTAL 029, devil 002, diabetes 015, dialogue 009, directive 011, disability 027,
+      disincentive 012, DISPARITY 028, dispute 033, disruption 014, distress 001, divine 033,
+      divorce 027, drought 025, duty 003, ecosystem 029, efficiently 003, elderly 038, ending 004,
+      ENDORSE 031, endorsement 031, enforcement 026, enhance 025, ensure 019, enterprise 019,
+      entirely 021, era 037, ERODE 032, erosion 032, escape 017, evaluation 026, evil 013, exchange
+      009, excuse 024, expansion 037, expectation 034, expenditure 017, explore 021, explosion 036,
+      expose 038, external 007, extinction 038, eyesight 008, FACILITATE 009, facilitation 009,
+      facilitator 009, faith 032, fallout 014, fatally 018, favour 020, feasibility 021, FEASIBLE
+      021, fiscal 012, flavour 035, flooding 014, FLUCTUATE 010, fluctuation 010, forced 033, forge
+      020, fortune 010, FOSTER 022, foundation 018, fragile 020, framework 005, fraud 038, further
+      008, gender 028, gesture 004, glaring 028, goodwill 022, gratitude 016, grief 016, grievance
+      034, grin 040, groundwater 030, grudge 040, guideline 011, habitat 038, hallmark 040, hardship
+      001, harmony 022, hazard 014, heightened 017, HINDER 023, hindrance 023, hint 035, household
+      038, humanitarian 033, humour 035, hunger 001, hypothesis 024, ideology 015, illegitimate 034,
+      implausible 024, IMPLEMENT 011, implementation 011, implication 016, INCENTIVE 012,
+      incentivise 012, inclusion 022, incoherent 005, infection 038, inflation 014, influence 016,
+      INHERENT 013, inherently 013, initiative 011, inner 025, inspection 026, institutional 007,
+      integration 009, integrity 018, intellectually 026, international 017, interpretation 024,
+      INTERVENE 033, intervention 033, investigation 023, involve 039, irony 035, judicial 017,
+      justice 015, justification 006, land 003, layer 030, legislation 011, legitimacy 034,
+      LEGITIMATE 034, legitimately 034, legitimise 034, liberty 032, livelihood 019, lucrative 012,
+      majority 039, markedly 008, methodology 026, militarily 033, minor 010, misconception 015,
+      MITIGATE 014, mitigation 014, mobility 023, model 019, monitored 026, mood 010, morale 018,
+      motion 031, mutually 029, narrative 005, narrow 028, non-intervention 033, norm 015, nutrient
+      030, objection 034, officially 031, oil 030, operate 007, outbreak 036, outspoken 002,
+      overcrowding 001, oversee 011, overwhelming 020, oxygen 030, ozone 030, panic 036, paragraph
+      005, parliamentary 017, partially 014, participation 009, particularly 015, passionate 002,
+      penalty 014, persist 028, perverse 012, philosophy 005, phrase 004, plausibility 024,
+      PLAUSIBLE 024, plausibly 024, portion 003, portrait 006, precedent 037, prejudice 027, pretext
+      024, prevail 015, prevailing 015, prevalence 015, PREVALENT 015, prevent 008, privacy 032,
+      procedure 011, productivity 023, PROFOUND 016, profoundly 016, promptly 033, proposition 019,
+      prosperity 037, protest 034, psychological 025, pull 036, quota 003, rage 005, randomly 003,
+      reaction 036, recommendation 011, recycle 012, regime 034, regional 028, regulatory 007,
+      relation 008, relevant 039, reluctant 033, remarkably 025, remedy 021, remove 004, render 021,
+      repair 008, resemblance 040, resentment 022, reserve 030, resilience 025, RESILIENT 025,
+      response 004, RIGOROUS 026, rigorously 026, rigour 026, ringing 031, route 019, sanction 011,
+      scale 037, scar 040, scenario 024, sceptical 016, scrutinise 017, SCRUTINY 017, search 023,
+      seasonal 010, seem 024, selection 026, self-esteem 018, setback 025, shade 035, shame 027,
+      soil 032, somewhat 004, sovereignty 032, spirit 022, squad 030, STAKE 039, stakeholder 039,
+      stark 028, staunch 002, stereotype 015, STIGMA 027, stigmatise 027, structure 005, subjective
+      013, subsidy 003, substitute 019, SUBTLE 035, subtlety 035, subtly 035, superficially 024,
+      superior 013, surge 037, surgical 033, symptom 001, tacit 020, tension 001, territory 039,
+      testify 006, timetable 021, transaction 034, transfer 009, transformation 016, transition 009,
+      treaty 031, TRIGGER 036, trust 018, turmoil 037, unambiguous 004, unanimously 031, unbearable
+      040, UNDERMINE 018, unfeasible 021, unity 022, unmitigated 014, UNPRECEDENTED 037,
+      unpredictably 010, utterly 006, verdict 031, viability 019, VIABLE 019, violence 008,
+      virtually 037, visibility 023, vision 005, vulnerability 038, VULNERABLE 038, wage 028, war
+      036, welfare 029, wholeheartedly 031, wildly 010, withstand 017, witness 040
 
-   Cumulative database size after C1: 1,572 individual vocabulary items (+ 245 structural words).
+   Cumulative database size after C1: 1,968 individual vocabulary items (+ 245 structural words).
    Global duplicate check for this level: PASSED (0 repeated items).
 
 END OF LEVEL C1

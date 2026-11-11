@@ -1,0 +1,173 @@
+## Advanced academic vocabulary: action and description | Yüksək səviyyəli akademik leksika: fəaliyyət və təsvir
+@ ALLEVIATE | verb | əˈliːvieɪt | yüngülləşdirmək, azaltmaq (ağrını, çətinliyi)
+forms: alleviate – alleviates – alleviated – alleviated – alleviating
+n: alleviation = yüngülləşdirmə, azaldılma
+- alleviate symptoms = simptomları yüngülləşdirmək :: symptom = a change in your body that shows you are ill
+- alleviate the burden = yükü yüngülləşdirmək :: burden = a heavy responsibility or duty
+- alleviate anxiety = təşvişi (narahatlığı) azaltmaq :: anxiety = the state of feeling nervous or worried
+- alleviate hardship = çətinliyi (məhrumiyyəti) yüngülləşdirmək :: hardship = a situation that is difficult because you lack money or food
+- alleviate distress = iztirabı yüngülləşdirmək :: distress = great worry, sadness or pain
+- alleviate tension = gərginliyi azaltmaq :: tension = a situation in which people do not trust each other
+- alleviate overcrowding = həddindən artıq sıxlığı azaltmaq :: overcrowding = too many people in one place
+- alleviate hunger = aclığı azaltmaq :: hunger = the state of not having enough food
+> The drug is used to alleviate the symptoms of flu. = Bu dərman qripin simptomlarını yüngülləşdirmək üçün istifadə olunur.
+> A second runway would alleviate overcrowding at the airport. = İkinci uçuş-enmə zolağı hava limanındakı sıxlığı azaldardı.
+> The new benefits are intended to alleviate hardship among pensioners. = Yeni müavinətlər təqaüdçülərin çətinliyini yüngülləşdirmək məqsədi daşıyır.
+> Talking to a friend can help to alleviate anxiety. = Dostla söhbət etmək təşvişi azaltmağa kömək edə bilər.
+! ALLEVIATE means to make something bad less severe; it does not mean to remove it completely. It is formal and typical of medical, social and economic writing. Its objects are always negative: pain, symptoms, poverty, suffering, pressure, congestion. Near synonyms: EASE and RELIEVE (more general), MITIGATE (reduce the harmful effects of something), REDUCE (neutral). "Alleviate poverty" is one of the most frequent collocations in IELTS essays.
+
+@ ADVOCATE | verb, noun | ˈædvəkeɪt (verb), ˈædvəkət (noun) | müdafiə etmək, tərəfdarı olmaq; tərəfdar, müdafiəçi; vəkil
+forms: advocate – advocates – advocated – advocated – advocating
+n: advocacy = müdafiə, təbliğ, həmçinin vəkillik
+- advocate for = nəyinsə lehinə çıxış etmək, nəyisə müdafiə etmək :: verb + FOR; in British English the verb is often used with a direct object instead
+- a staunch advocate = sadiq (dönməz) tərəfdar :: staunch = strong and loyal in your support
+- a passionate advocate = ehtiraslı müdafiəçi :: passionate = having very strong feelings
+- an outspoken advocate = fikrini açıq deyən tərəfdar :: outspoken = saying openly what you think
+- advocate a ban = qadağa tətbiq olunmasını müdafiə etmək :: ban = an official rule forbidding something
+- advocate the abolition of = nəyinsə ləğv edilməsinin tərəfdarı olmaq :: abolition = the official ending of a law or system
+- devil's advocate = bilərəkdən əks mövqeyi müdafiə edən adam :: devil = the spirit of evil; idiom: play devil's advocate
+- advocacy on behalf of = kiminsə adından (maraqları naminə) müdafiə :: on behalf of = as the representative of
+> Many doctors advocate a ban on tobacco advertising. = Bir çox həkim tütün reklamına qadağa qoyulmasını müdafiə edir.
+> She is a passionate advocate of free education. = O, pulsuz təhsilin ehtiraslı müdafiəçisidir.
+> The group advocates for the rights of disabled people. = Qrup əlilliyi olan şəxslərin hüquqlarını müdafiə edir.
+> I don't really believe that; I'm just playing devil's advocate. = Əslində belə düşünmürəm; sadəcə bilərəkdən əks mövqedən çıxış edirəm.
+! The verb and the noun are spelt the same but pronounced differently: to ADVOCATE /ˈædvəkeɪt/, an ADVOCATE /ˈædvəkət/. The verb means to support an idea publicly and takes a direct object or -ing: "advocate reform", "advocate reducing taxes" (not "advocate to reduce"). The noun takes OF or FOR: "an advocate of change". In Scotland an advocate is also a lawyer who speaks in court. ADVOCACY is the work of publicly supporting a cause.
+
+@ ALLOCATE | verb | ˈæləkeɪt | ayırmaq, bölüşdürmək, təxsis etmək
+forms: allocate – allocates – allocated – allocated – allocating
+n: allocation = ayırma, bölgü, həmçinin ayrılmış pay
+- allocate subsidies = subsidiyalar ayırmaq :: subsidy = money paid by a government to reduce the cost of something
+- allocate a portion = bir hissəsini ayırmaq :: portion = one part of a larger amount
+- allocate land = torpaq ayırmaq :: land = an area of ground
+- allocate a quota = kvota ayırmaq :: quota = a fixed amount that is officially allowed
+- allocate duties = vəzifələri bölüşdürmək :: duty = a task that is part of your job
+- allocate efficiently = səmərəli bölüşdürmək :: efficiently = without wasting time, money or energy
+- randomly allocated = təsadüfi qaydada bölüşdürülmüş :: randomly = without any plan or pattern; common in research
+- allocate aid = yardım ayırmaq :: aid = money, food or help sent to people in need
+> The government has allocated two million pounds for the project. = Hökumət layihə üçün iki milyon funt ayırıb.
+> A large portion of the budget is allocated to education. = Büdcənin böyük bir hissəsi təhsilə ayrılır.
+> Patients were randomly allocated to one of two groups. = Xəstələr təsadüfi qaydada iki qrupdan birinə bölüşdürüldü.
+> Markets do not always allocate resources efficiently. = Bazarlar ehtiyatları həmişə səmərəli bölüşdürmür.
+! ALLOCATE means to decide officially that something will be used for a particular purpose or given to a particular person. Patterns: allocate something TO somebody or something; allocate something FOR a purpose; allocate somebody something ("We were allocated seats at the front"). "Allocate resources" is the key collocation in economics. Compare ASSIGN (give a task or role to a person) and DISTRIBUTE (share things out among many people).
+
+@ AMBIGUOUS | adjective | æmˈbɪɡjuəs | ikimənalı, qeyri-müəyyən, dolaşıq
+n: ambiguity = ikimənalılıq, qeyri-müəyyənlik
+adj: unambiguous = birmənalı, aydın
+adv: ambiguously = ikimənalı şəkildə
+- deliberately ambiguous = qəsdən ikimənalı (qeyri-müəyyən) :: deliberately = on purpose
+- somewhat ambiguous = bir qədər qeyri-müəyyən :: somewhat = to some degree; a formal hedge
+- an ambiguous phrase = ikimənalı ifadə :: phrase = a group of words used together
+- an ambiguous ending = ikimənalı (açıq) sonluq :: ending = the last part of a story or film
+- an ambiguous gesture = ikimənalı jest :: gesture = a movement of the hand or head that shows meaning
+- an ambiguous response = qeyri-müəyyən cavab :: response = an answer or reaction
+- remove ambiguity = ikimənalılığı aradan qaldırmaq :: remove = take away
+- clear and unambiguous = aydın və birmənalı :: clear = easy to understand
+> The wording of the contract is deliberately ambiguous. = Müqavilənin mətni qəsdən ikimənalı tərtib olunub.
+> The film has an ambiguous ending. = Filmin sonluğu ikimənalıdır.
+> His response to the question was somewhat ambiguous. = Onun suala cavabı bir qədər qeyri-müəyyən idi.
+> Instructions must be clear and unambiguous. = Təlimatlar aydın və birmənalı olmalıdır.
+! AMBIGUOUS describes language or a situation that can be understood in more than one way. Do not confuse it with AMBIVALENT, which describes a person who has mixed feelings ("She is ambivalent about the move"). VAGUE means not clear or detailed; AMBIGUOUS means having two or more possible meanings. The noun AMBIGUITY is countable for particular cases ("several ambiguities in the text") and uncountable for the quality.
+
+@ COHERENT | adjective | kəʊˈhɪərənt | ardıcıl, məntiqli, rabitəli
+n: coherence = ardıcıllıq, məntiqi əlaqə; cohesion = birlik, həmçinin (mətndə) cümlələrin dil vasitələri ilə bağlanması
+adj: incoherent = rabitəsiz, anlaşılmaz
+adv: coherently = ardıcıl, rabitəli şəkildə
+- a coherent philosophy = bitkin (ardıcıl) fəlsəfə :: philosophy = a set of beliefs about how to live or act
+- a coherent narrative = ardıcıl hekayət (təhkiyə) :: narrative = a story or a description of events
+- a coherent framework = bitkin çərçivə (konsepsiya) :: framework = a set of ideas on which decisions are based
+- a coherent vision = aydın və ardıcıl baxış (gələcək mənzərəsi) :: vision = an idea of how the future should be
+- a coherent structure = məntiqli quruluş :: structure = the way the parts of something are arranged
+- a coherent paragraph = rabitəli abzas :: paragraph = a section of writing that begins on a new line
+- coherence and cohesion = məntiqi ardıcıllıq və dil rabitəsi :: The name of one of the four IELTS Writing marking criteria
+- incoherent with rage = qəzəbdən sözünü itirmiş :: rage = extreme anger
+> The government lacks a coherent economic policy. = Hökumətin ardıcıl iqtisadi siyasəti yoxdur.
+> Each paragraph should have a coherent structure. = Hər abzasın məntiqli quruluşu olmalıdır.
+> He was so tired that he could hardly speak coherently. = O qədər yorğun idi ki, çətinliklə rabitəli danışırdı.
+> Examiners award marks for coherence and cohesion. = İmtahan götürənlər məntiqi ardıcıllığa və dil rabitəsinə görə bal verirlər.
+! COHERENT describes ideas, plans or writing whose parts fit together logically. In IELTS Writing, COHERENCE is the logical organisation of ideas, while COHESION is the use of linking words, pronouns and paragraphing to connect sentences. A person who is INCOHERENT cannot speak clearly, because of emotion, illness or drink. Compare CONSISTENT (not contradicting itself; always behaving in the same way).
+
+@ COMPELLING | adjective | kəmˈpelɪŋ | inandırıcı, tutarlı; cəlbedici, diqqəti çəkən
+n: compulsion = məcburiyyət, həmçinin qarşısıalınmaz istək
+v: compel = məcbur etmək
+adj: compulsory = məcburi, icbari
+- a compelling case = tutarlı əsaslandırma (dəlillər toplusu) :: case = a set of facts and arguments supporting one side
+- a compelling portrait = təsirli portret (təsvir) :: portrait = a painting or detailed description of a person
+- utterly compelling = son dərəcə cəlbedici :: utterly = completely; used for emphasis
+- a compelling justification = tutarlı əsas (haqq qazandıran səbəb) :: justification = a good reason for doing something
+- be compelled to = nəyisə etməyə məcbur olmaq :: Passive of "compel" + to-infinitive
+- under no compulsion to = nəyisə etməyə heç bir məcburiyyəti olmamaq :: Formal fixed phrase
+- compel sb to testify = kimisə ifadə verməyə məcbur etmək :: testify = make a formal statement in a court of law
+- compulsory attendance = məcburi davamiyyət :: attendance = being present at school, work or an event
+> The report makes a compelling case for investing in early education. = Hesabat erkən təhsilə sərmayə qoyulmasının vacibliyini tutarlı şəkildə əsaslandırır.
+> The film is utterly compelling from start to finish. = Film əvvəldən axıra qədər son dərəcə cəlbedicidir.
+> I felt compelled to tell her the truth. = Mən ona həqiqəti deməyə məcbur olduğumu hiss etdim.
+> You are under no compulsion to answer these questions. = Bu suallara cavab verməyə heç bir məcburiyyətiniz yoxdur.
+! COMPELLING has two senses: so interesting that you cannot stop paying attention (a compelling story), and so strong that you must accept it (a compelling argument, compelling evidence). The verb COMPEL is formal and usually passive: "be / feel compelled TO do something". COMPULSORY is the everyday adjective for something required by a rule or law (compulsory education); its opposite is VOLUNTARY or OPTIONAL.
+
+@ CONSTRAINT | noun | kənˈstreɪnt | məhdudiyyət, maneə; sıxıntı
+v: constrain = məhdudlaşdırmaq, məcbur etmək
+adj: constrained = məhdud, sıxılmış
+- constraints on = nəyinsə üzərində məhdudiyyətlər :: The preposition is ON: constraints on spending
+- within the constraints of = ... məhdudiyyətləri çərçivəsində :: Fixed pattern
+- operate under constraints = məhdudiyyətlər şəraitində fəaliyyət göstərmək :: operate = work or function
+- institutional constraints = institusional məhdudiyyətlər :: institutional = connected with a large organisation or its rules
+- external constraints = xarici (kənar) məhdudiyyətlər :: external = coming from outside
+- regulatory constraints = tənzimləmə ilə bağlı məhdudiyyətlər :: regulatory = having the power to control an activity by rules
+- capacity constraints = imkan (güc) məhdudiyyətləri :: capacity = the amount that can be produced or contained
+- constrained by convention = adət-ənənə ilə məhdudlaşdırılmış :: convention = the way most people in a society behave
+> There are strict constraints on the use of public money. = Dövlət vəsaitinin istifadəsinə ciddi məhdudiyyətlər qoyulub.
+> We have to work within the constraints of a small budget. = Biz kiçik büdcənin məhdudiyyətləri çərçivəsində işləməliyik.
+> Hospitals are operating under severe financial constraints. = Xəstəxanalar ciddi maliyyə məhdudiyyətləri şəraitində fəaliyyət göstərir.
+> Many women of that time felt constrained by convention. = O dövrün bir çox qadını özünü adət-ənənələrlə məhdudlaşdırılmış hiss edirdi.
+! A CONSTRAINT is something that limits what you can do: time constraints, budget constraints, legal constraints. It is more formal than LIMIT and suggests pressure from outside. Do not confuse it with RESTRAINT, which is control over your own behaviour ("show restraint") or a measure that holds something back. Typical verbs: impose / place constraints ON, face constraints, remove / relax constraints. The verb CONSTRAIN is mostly passive.
+
+@ DETERIORATE | verb | dɪˈtɪəriəreɪt | pisləşmək, xarab olmaq
+forms: deteriorate – deteriorates – deteriorated – deteriorated – deteriorating
+n: deterioration = pisləşmə, xarablaşma
+- deteriorate further = daha da pisləşmək :: further = to a greater degree
+- deteriorate markedly = nəzərəçarpacaq dərəcədə pisləşmək :: markedly = in a way that is easy to notice
+- relations deteriorate = münasibətlər pisləşir :: relations = the way two countries or groups behave towards each other
+- deteriorate into violence = zorakılığa çevrilmək :: violence = behaviour intended to hurt people; deteriorate INTO = become something worse
+- deteriorating eyesight = zəifləyən görmə qabiliyyəti :: eyesight = the ability to see
+- a deterioration in = nədəsə pisləşmə :: The preposition is IN: a deterioration in health
+- prevent deterioration = pisləşmənin qarşısını almaq :: prevent = stop something from happening
+- deteriorate beyond repair = bərpası mümkün olmayan dərəcədə xarab olmaq :: repair = the act of mending something
+> Her health deteriorated rapidly after the operation. = Əməliyyatdan sonra onun səhhəti sürətlə pisləşdi.
+> Relations between the two countries have deteriorated markedly. = İki ölkə arasında münasibətlər nəzərəçarpacaq dərəcədə pisləşib.
+> The protest deteriorated into violence. = Etiraz aksiyası zorakılığa çevrildi.
+> There has been a serious deterioration in air quality. = Havanın keyfiyyətində ciddi pisləşmə müşahidə olunub.
+! DETERIORATE is the formal word for "get worse" and is intransitive: "The situation deteriorated" – you cannot "deteriorate something". Pronounce all five syllables: de-TE-ri-o-rate. Typical subjects: health, condition, situation, relations, weather, quality. The opposite is IMPROVE. In IELTS essays it is a precise alternative to "become worse"; WORSEN is a slightly less formal synonym that can also be transitive.
+
+@ FACILITATE | verb | fəˈsɪlɪteɪt | asanlaşdırmaq, şərait yaratmaq
+forms: facilitate – facilitates – facilitated – facilitated – facilitating
+n: facilitator = moderator, prosesi asanlaşdıran şəxs; facilitation = asanlaşdırma, dəstək
+- facilitate dialogue = dialoqa şərait yaratmaq :: dialogue = a formal discussion between two groups
+- facilitate integration = inteqrasiyanı asanlaşdırmaq :: integration = becoming a full member of a group or society
+- facilitate the exchange of = nəyinsə mübadiləsini asanlaşdırmaq :: exchange = giving one thing and receiving another
+- facilitate the transfer = ötürülməsini (köçürülməsini) asanlaşdırmaq :: transfer = moving something from one place to another
+- facilitate a transition = keçidi asanlaşdırmaq :: transition = the process of changing from one state to another
+- facilitate collaboration = birgə işi asanlaşdırmaq :: collaboration = working with others to produce something
+- facilitate participation = iştirakı asanlaşdırmaq :: participation = taking part in an activity
+- facilitate decision-making = qərar qəbulunu asanlaşdırmaq :: decision-making = the process of deciding something important
+> The new software facilitates the exchange of information between departments. = Yeni proqram şöbələr arasında məlumat mübadiləsini asanlaşdırır.
+> The teacher's role is to facilitate learning, not to give lectures. = Müəllimin rolu mühazirə oxumaq deyil, öyrənməyə şərait yaratmaqdır.
+> The agreement will facilitate the transition to a market economy. = Saziş bazar iqtisadiyyatına keçidi asanlaşdıracaq.
+> Online tools facilitate collaboration between researchers in different countries. = Onlayn alətlər müxtəlif ölkələrdəki tədqiqatçıların birgə işini asanlaşdırır.
+! FACILITATE means to make an action or process easier or more likely to happen. Its object is a process, not a person: "facilitate communication" – not "facilitate students". It is formal and very common in academic and business English, where it replaces "help" or "make easier". A FACILITATOR is a person who helps a group to work together and reach decisions without taking sides.
+
+@ FLUCTUATE | verb | ˈflʌktʃueɪt | dəyişkən olmaq, enib-qalxmaq, tərəddüd etmək
+forms: fluctuate – fluctuates – fluctuated – fluctuated – fluctuating
+n: fluctuation = enib-qalxma, dəyişkənlik
+- fluctuate wildly = kəskin şəkildə enib-qalxmaq :: wildly = in an extreme and uncontrolled way
+- fluctuate between = iki hədd arasında dəyişmək :: fluctuate BETWEEN A and B
+- fluctuate unpredictably = gözlənilməz şəkildə dəyişmək :: unpredictably = in a way that cannot be known in advance
+- currency fluctuations = valyuta məzənnəsinin enib-qalxması :: currency = the money used in a particular country
+- seasonal fluctuations = mövsümi dəyişmələr :: seasonal = happening during a particular season
+- minor fluctuations = cüzi dəyişmələr :: minor = small and not very important
+- fluctuations in mood = əhval-ruhiyyənin dəyişkənliyi :: mood = the way you feel at a particular time
+- fluctuating fortunes = dəyişkən tale (uğurun gah gülüb, gah dönməsi) :: fortune = luck; the good and bad things that happen
+> Oil prices have fluctuated wildly in recent months. = Son aylarda neft qiymətləri kəskin şəkildə enib-qalxıb.
+> The temperature fluctuates between 20 and 30 degrees in summer. = Yayda temperatur 20 ilə 30 dərəcə arasında dəyişir.
+> The number of visitors shows clear seasonal fluctuations. = Ziyarətçilərin sayında aydın mövsümi dəyişmələr müşahidə olunur.
+> Apart from minor fluctuations, sales remained stable throughout the year. = Cüzi dəyişmələr istisna olmaqla, satışlar il boyu sabit qaldı.
+! FLUCTUATE means to change frequently in size, amount or level, especially from one extreme to another. It is intransitive and is one of the key verbs for describing graphs in IELTS Writing Task 1, together with RISE, FALL, PEAK and LEVEL OFF. Patterns: fluctuate BETWEEN x AND y; fluctuate AROUND a figure; fluctuations IN something. Typical adverbs: wildly, widely, considerably, slightly.

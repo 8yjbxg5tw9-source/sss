@@ -860,10 +860,18 @@ def load_refs():
     return refs
 
 
-def _ipa_norm(s):
+def _ipa_clean(s):
+    """Notation-only normalisation; stress marks are kept."""
     s = re.sub(r'\([^)]*\)', '', s).replace('/', '').replace(' ', '').replace('.', '')
-    for a, b in (('ɹ', 'r'), ('g', 'ɡ'), ('ɛə', 'eə'), ('ɛ', 'e'), ('ɐ', 'ʌ'), ('əl', 'l'), ('ən', 'n'),
-                 ('əm', 'm')):
+    for a, b in (('ɹ', 'r'), ('g', 'ɡ'), ('ɛə', 'eə'), ('ɛ', 'e'), ('ɐ', 'ʌ')):
+        s = s.replace(a, b)
+    return s
+
+
+def _ipa_norm(s):
+    """Segments only: stress marks removed first, then syllabic consonants unified (əl = l ...)."""
+    s = _ipa_clean(s).replace('ˈ', '').replace('ˌ', '')
+    for a, b in (('əl', 'l'), ('ən', 'n'), ('əm', 'm')):
         s = s.replace(a, b)
     return s
 
@@ -871,7 +879,7 @@ def _ipa_norm(s):
 def _ipa_broad(s):
     """Broad form used to recognise transcriptions that differ ONLY in weak-vowel notation, where
     dictionaries legitimately disagree (happy-vowel i/ɪ, u/ʊ, unstressed ɪ/ə, tj/tʃ, dj/dʒ)."""
-    s = _ipa_norm(s).replace('ˈ', '').replace('ˌ', '')
+    s = _ipa_norm(s)
     s = re.sub('i(?!ː)', 'ɪ', s)
     s = re.sub('u(?!ː)', 'ʊ', s)
     s = s.replace('dj', 'dʒ').replace('tj', 'tʃ')
@@ -881,7 +889,9 @@ def _ipa_broad(s):
 
 
 def _stress_pos(s):
-    s = _ipa_norm(s)
+    """Number of vowel nuclei before the primary stress mark (independent of where a dictionary
+    puts the mark inside the consonant cluster)."""
+    s = _ipa_clean(s)
     n, prev = 0, False
     for ch in s:
         if ch == 'ˈ':
